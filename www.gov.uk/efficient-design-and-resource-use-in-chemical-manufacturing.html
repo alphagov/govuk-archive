@@ -1,0 +1,684 @@
+<!DOCTYPE html>
+<!--[if lt IE 9]><html class="lte-ie8 " lang="en"><![endif]--><!--[if gt IE 8]><!--><html lang="en" class="">
+<!--<![endif]--><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<title>Efficient design and resource use in chemical manufacturing - Detailed guidance - GOV.UK</title>
+<!--[if gt IE 8]><!--><link href="https://d17tffe05zdvwj.cloudfront.net/static/application-d90d1064d032df40186ff55e88901f74.css" media="screen" rel="stylesheet" type="text/css">
+<!--<![endif]--><!--[if IE 6]><link href="https://d17tffe05zdvwj.cloudfront.net/static/application-ie6-d31c2b2ae93664d18b182ca832397f29.css" media="screen" rel="stylesheet" type="text/css" /><![endif]--><!--[if IE 7]><link href="https://d17tffe05zdvwj.cloudfront.net/static/application-ie7-688dd3d05600345f3b98195580c3b5ee.css" media="screen" rel="stylesheet" type="text/css" /><![endif]--><!--[if IE 8]><link href="https://d17tffe05zdvwj.cloudfront.net/static/application-ie8-c76677fda5a712cbbfacc6b370228784.css" media="screen" rel="stylesheet" type="text/css" /><![endif]--><link href="https://d17tffe05zdvwj.cloudfront.net/static/print-ea4eb31bbe591c3f95cb1464f613e54e.css" media="print" rel="stylesheet" type="text/css">
+<!--[if IE 8]>
+<script type="text/javascript">
+  (function(){if(window.opera){return;}
+  setTimeout(function(){var a=document,g,b={families:(g=
+  ["nta"]),urls:["https://d17tffe05zdvwj.cloudfront.net/static/fonts-ie8-8917f2aaa6cd2e4af173b7da903625c1.css"]},
+  c="https://d17tffe05zdvwj.cloudfront.net/static/libs/goog/webfont-debug-c6bcf1b06367c37979a87bc1ec2c8081.js",d="script",
+  e=a.createElement(d),f=a.getElementsByTagName(d)[0],h=g.length;WebFontConfig
+  ={custom:b},e.src=c,f.parentNode.insertBefore(e,f);for(;h--;a.documentElement
+  .className+=' wf-'+g[h].replace(/\s/g,'').toLowerCase()+'-n4-loading');},0)
+  })()
+</script>
+<![endif]--><!--[if gte IE 9]><!--><link href="https://d17tffe05zdvwj.cloudfront.net/static/fonts-474fe7b7d730894156043c3c823eb30f.css" media="all" rel="stylesheet" type="text/css">
+<!--<![endif]--><script src="https://d17tffe05zdvwj.cloudfront.net/static/libs/jquery/jquery-1.7.2-765cc76e15d62a88cd61468aeaaaeb5d.js" type="text/javascript"></script><script defer src="https://d17tffe05zdvwj.cloudfront.net/static/application-0602e28972f68d9d063b3e738144e67b.js" type="text/javascript"></script><!--[if lt IE 9]>
+      <script src="https://d17tffe05zdvwj.cloudfront.net/static/ie-ff788f3e7ef3574c7873602dcb79c22e.js" type="text/javascript"></script>
+    <![endif]--><link rel="shortcut icon" href="https://d17tffe05zdvwj.cloudfront.net/static/favicon-17634b2677b373a25c5bb3ef93212a67.ico" type="image/x-icon">
+<!-- For third-generation iPad with high-resolution Retina display: --><link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://d17tffe05zdvwj.cloudfront.net/static/apple-touch-icon-144x144-eee4e09bccd7c55b9b8dca2d6715ffa4.png">
+<!-- For iPhone with high-resolution Retina display: --><link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://d17tffe05zdvwj.cloudfront.net/static/apple-touch-icon-114x114-460f91576fe9c617d4fdf7df46cfaef5.png">
+<!-- For first- and second-generation iPad: --><link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://d17tffe05zdvwj.cloudfront.net/static/apple-touch-icon-72x72-52dfb66accadbd018bd25b13ed7fac68.png">
+<!-- For non-Retina iPhone, iPod Touch, and Android 2.1+ devices: --><link rel="apple-touch-icon-precomposed" href="https://d17tffe05zdvwj.cloudfront.net/static/apple-touch-icon-57x57-7ed7919994fcf4a885cb56cc30fbed42.png">
+<script id="ga-params" type="text/javascript">
+  var GOVUK = GOVUK || {};
+  GOVUK.Analytics = GOVUK.Analytics || {};
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-26179049-1']);
+  if(document.domain=='www.gov.uk') {
+    _gaq.push(['_setDomainName', '.www.gov.uk']);
+  } else {
+    _gaq.push(['_setDomainName', document.domain]);
+  }
+  _gaq.push(['_setAllowLinker', true]);
+_gaq.push(["_setCustomVar",1,"Section","business",3]);
+GOVUK.Analytics.Section = "business";</script><script src="https://d17tffe05zdvwj.cloudfront.net/static/analytics-cc7944d5e01517d08d015be0f452eda0.js" type="text/javascript"></script><script type="text/javascript">
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script><script src="https://maps.googleapis.com/maps/api/js?sensor=false" type="text/javascript"></script><script defer src="/government/assets/application-8dea88c5c201ff7dcdda73e90538e9da.js" type="text/javascript"></script><!--[if gt IE 8]><!--><link href="/government/assets/frontend/base-4e41e9a3dcc2a465ad1ab8a2ac32fcc3.css" media="screen" rel="stylesheet" type="text/css">
+<!--<![endif]--><link href="/government/assets/frontend/print-90864b1af3b5afc11b5b00e6753616e9.css" media="print" rel="stylesheet" type="text/css">
+<link href="/favicon.ico" rel="shortcut icon" type="image/x-icon">
+<link href="https://whitehall-frontend.production.alphagov.co.uk/government/feed.atom" rel="alternate" title="Recent updates" type="application/atom+xml">
+<meta content="True" name="HandheldFriendly">
+<meta content="320" name="MobileOptimized">
+<meta content="width=device-width, initial-scale=1" name="viewport">
+<meta content="authenticity_token" name="csrf-param">
+<meta content="s3nfhR4IPCxOq0rmxqGp03MoukRDU9pbkVGY3EcgSlQ=" name="csrf-token">
+<!--[if IE 6]><link href="/government/assets/frontend/base-ie6-58323149c79522f016f1325682864cc9.css" media="screen" rel="stylesheet" type="text/css" /><![endif]--><!--[if IE 7]><link href="/government/assets/frontend/base-ie7-c9c7837e2bc489988c369e9ed68216a2.css" media="screen" rel="stylesheet" type="text/css" /><![endif]--><!--[if IE 8]><link href="/government/assets/frontend/base-ie8-30ed6cd58edce149268e993fc8bb826b.css" media="screen" rel="stylesheet" type="text/css" /><![endif]-->
+</head>
+<body class="website government detailed-guidance">
+      <script type="text/javascript">document.body.className = ((document.body.className) ? document.body.className + ' js-enabled' : 'js-enabled');</script><a href="#content" class="visuallyhidden">Skip to main content</a>
+
+    <header role="banner" class="group" id="global-header"><div class="header-global group">
+        <h1><a href="/" title="Go to the gov.uk homepage">GOV.UK</a></h1>
+        <nav role="navigation"><ul>
+<li><a href="/help">Help</a></li>
+          </ul></nav><div class="search-help">
+            <form id="search" class="site-search" action="/search#detailed-results" method="get" role="search">
+              <label for="site-search-text" class="visuallyhidden">
+                <span>Search</span>
+              </label>
+              <input type="search" name="q" id="site-search-text"><input type="submit" value="Search" class="button">
+</form>
+          </div>
+      </div>
+    </header><!--end header--><div id="global-cookie-message">
+      <p>GOV.UK uses cookies to make the site simpler. <a href="/help/cookies">Find out more about cookies</a></p>
+    </div>
+
+
+      <div id="global-breadcrumb" class="header-context">
+        <nav role="navigation"><ol class="group">
+<li><a href="/">Home</a></li>
+          <li><a href="https://www.gov.uk/browse/business">Business</a></li>
+<li><a href="https://www.gov.uk/browse/business/maritime">Maritime vessels and work at sea</a></li>
+<li><strong><a href="/browse/business/maritime/maritime-and-freshwater-businesses">Maritime and freshwater businesses</a></strong></li>
+</ol></nav>
+</div>
+
+    <div id="whitehall-wrapper">
+      <div id="content"></div>
+      <div id="page" class="detailed-guides-show">
+        
+<div class="document_page detailedguide">
+  <div class="block-1">
+    <div class="inner-block">
+      <section class="meta"><div class="meta-changes">
+        <section class="change-notes"><p>Published <abbr class="published-at date" title="2012-09-10T12:34:43+01:00">10 September 2012</abbr></p>
+    </section>
+</div>
+</section><section class="page-header js-hide-extra-logos"><ul class="organisations-icon-list"><li class="organisation department-for-environment-food-and-rural-affairs ministerial-department" id="organisation_7">
+        <a href="http://www.defra.gov.uk/" class="organisation-logo-small single-line" rel="external" title="Department
+for Environment
+Food &amp; Rural Affairs (external website)">
+                <span>Department
+for Environment
+Food &amp; Rural Affairs</span>
+</a>
+</li></ul>
+<h1 class="page_title has_meta">Efficient design and resource use in chemical manufacturing</h1>
+<div class="page-meta">
+    <p class="summary">How your chemical business can use green chemistry, track environmental performance, use energy efficiently, and deal with packaging.</p>
+  
+</div>
+
+
+          <div class="replaces-businesslink">
+            <p>
+              This replaces
+              <span class="businesslink-logo">
+                <span class="visuallyhidden">Business Link</span>
+              </span>
+            </p>
+          </div>
+      </section>
+</div>
+  </div>
+  <div class="block-2">
+    <div class="inner-block">
+      <nav class="contextual-info" id="page-navigation"><h1>Contents</h1>
+    <nav class="detailed_guide_parts" role="navigation"><ol id="document_sections">
+<li>
+            <a href="#introduction">Introduction</a>
+          </li>
+          <li>
+            <a href="#what-green-chemistry-is">What green chemistry is</a>
+          </li>
+          <li>
+            <a href="#how-to-use-green-chemistry-in-chemical-manufacturing">How to use green chemistry in chemical manufacturing</a>
+          </li>
+          <li>
+            <a href="#environmental-performance-management-in-chemical-manufacturing">Environmental performance management in chemical manufacturing</a>
+          </li>
+          <li>
+            <a href="#packaging-obligations-for-chemical-manufacturers">Packaging obligations for chemical manufacturers</a>
+          </li>
+          <li>
+            <a href="#carbon-emissions-reduction-in-chemical-manufacturing">Carbon emissions reduction in chemical manufacturing</a>
+          </li>
+          <li>
+            <a href="#energy-efficiency-requirements-for-chemical-manufacturing">Energy efficiency requirements for chemical manufacturing</a>
+          </li>
+          <li>
+            <a href="#renewable-energy-regeneration-for-chemical-manufacturing">Renewable energy regeneration for chemical manufacturing</a>
+          </li>
+          <li>
+            <a href="#resource-efficiency-tips-for-chemical-manufacturers">Resource efficiency tips for chemical manufacturers</a>
+          </li>
+          <li>
+            <a href="#how-a-business-can-cut-resource-use-by-using-green-chemistry">How a business can cut resource use by using green chemistry</a>
+          </li>
+          <li>
+            <a href="#further-information">Further information</a>
+          </li>
+        <li class="more-like-this">
+          <a href="#more-like-this">See more like this</a>
+        </li>
+      </ol></nav></nav>
+</div>
+  </div>
+  <div class="block-3">
+    <div class="inner-block">
+      <article class="document"><div class="body">
+    <div class="govspeak">
+<h2 id="introduction">Introduction</h2>
+
+<p>Businesses in the chemical industry can have significant environmental impacts. The industry includes producers of commodity chemicals such as organic and inorganic chemicals and industrial gases, and speciality chemicals such as pharmaceutical products and essential oils. It also includes mixing, blending, diluting or converting basic chemicals to make chemical products and preparations, eg paints, pesticides, inks, detergents and cosmetics.</p>
+
+<p>Using resources efficiently and considering ecodesign techniquexfs can save you money and will reduce your impact on the environment. You can reduce costs by cutting your energy use and carbon emissions. You may also be able to introduce green chemistry principles to reduce your environmental impact and help you to use raw materials more efficiently, reduce waste and produce safer chemicals.</p>
+
+<p>This guide describes how you can use green chemistry principles, manage your environmental performance and use energy efficiently. It also outlines your responsibilities if you produce packaging or dispose of packaging waste.</p>
+
+<h2 id="what-green-chemistry-is">What green chemistry is</h2>
+
+<p>Green chemistry involves applying clean technologies to reduce or eliminate the use and generation of hazardous substances in designing and making chemical products. It involves 12 principles that have been widely adopted:</p>
+
+<ul>
+<li>prevention - aim to prevent waste rather than to treat it or clean up after it</li>
+  <li>atom economy - incorporate all materials into the final product without unwanted side products</li>
+  <li>less hazardous chemical synthesis - where possible, substances should be used and generated that possess little or no toxicity to human health and the environment</li>
+  <li>design safer chemicals - chemical products should be designed to do the job while minimising toxicity</li>
+  <li>safer solvents and auxiliaries - avoid the use of auxiliary substances (solvents, separation agents, etc) wherever possible and ensure they are harmless when they must be used</li>
+  <li>design for energy efficiency - minimise the energy requirements of chemical processes</li>
+  <li>use renewable feedstocks - use renewable raw materials whenever technically and economically possible</li>
+  <li>reduce derivatives - minimise or avoid unnecessary use of derivatives (blocking groups, protection/de-protection, etc) as they generate waste</li>
+  <li>catalysis - catalytic reagents, which can carry out a single reaction many times, are superior to stoichiometric reagents which only work once</li>
+  <li>design for degradation - chemical products should be designed to degrade innocuously at the end of their function</li>
+  <li>real-time analysis for pollution prevention - analytical methodologies are needed for real-time, in-process monitoring and control prior to the formulation of hazardous substances</li>
+  <li>inherently safer chemistry for accident prevention - substances and the form of a substance used in a chemical process should be chosen to minimise the potential for chemical accidents</li>
+</ul>
+<h2 id="how-to-use-green-chemistry-in-chemical-manufacturing">How to use green chemistry in chemical manufacturing</h2>
+
+<p>If you can produce greener or more sustainable chemicals and chemical products you can reduce their environmental or health impacts and you could reduce your costs.</p>
+
+<p>Green chemistry means designing chemical products and processes that use and produce fewer or no polluting or hazardous materials. For example, you could use green chemistry in developing new catalysts or substitutes for volatile organic compounds used in solvents and adhesives.</p>
+
+<p>It applies across the full life cycle of a chemical. You should think about:</p>
+
+<ul>
+<li>how you select the raw materials used for manufacture</li>
+  <li>how you produce the chemical and the energy used</li>
+  <li>the cost of disposing of the chemical and its environmental impacts</li>
+  <li>the potential for reuse or recycling the chemical</li>
+  <li>whether the chemical should be produced at all</li>
+</ul>
+<h3 id="benefits-of-green-chemistry">Benefits of green chemistry</h3>
+
+<p>If you use the principles of green chemistry in your business and apply clean technology, you could improve efficiency, reduce waste and produce safer chemicals for users.</p>
+
+<p>It could also help you comply with existing and future legal requirements and a growing list of restricted substances and materials.</p>
+
+<p>Marketing your improved environmental performance can help you to raise your business’s profile and increase sales. See the guide on how to <a rel="external" href="http://www.businesslink.gov.uk/bdotg/action/layer?r.l1=1079068363&amp;r.l2=1082900032&amp;r.l3=1083098823&amp;topicId=1080484861">market your environmental credentials.</a></p>
+
+<h3 id="how-to-apply-green-chemistry-principles">How to apply green chemistry principles</h3>
+
+<p>You should use a step-by-step approach to apply the principles of green chemistry. This will enable you to identify any issues and deal with them in a systematic way.</p>
+
+<p>You should:</p>
+
+<ul>
+<li>review the 12 principles of green chemistry and develop a plan for how you can use them in your business</li>
+  <li>assess the chemicals you currently use and manufacture</li>
+  <li>identify the potential opportunities from green chemistry</li>
+  <li>set up an approach for adopting green chemistry</li>
+  <li>gather innovative ideas that could lead to creating products with lower environmental impacts</li>
+  <li>integrate green chemistry into your business, perhaps through a documented programme within a wider environmental management system (<abbr title="environmental management system">EMS</abbr>) framework</li>
+  <li>carry out regular reviews to monitor progress and ensure products and processes you implement lead to environmental improvements</li>
+</ul>
+<p>You can also find guidance to help you put green chemistry into practice from the:</p>
+
+<ul>
+<li>Green Chemistry Network (<abbr title="Green Chemistry Network">GCN</abbr>) - <a rel="external" href="http://www.greenchemistrynetwork.org/">find information on green chemistry on the <abbr title="Green Chemistry Network">GCN</abbr> website</a>
+</li>
+  <li>Green Chemistry Centre of Excellence at the University of York - find information on <a rel="external" href="http://www.york.ac.uk/res/gcg/site/">green chemistry on the University of York website</a>
+</li>
+</ul>
+<h3 id="comply-with-controls-on-innovative-technology">Comply with controls on innovative technology</h3>
+
+<p>If you are considering developing or using innovative products or processes, you should contact the Environment Agency as early as possible so that they can advise if there is anything you need to do, before you invest any money. You must make sure that you have all the appropriate permits and exemptions in place before you start developing your product or process and trialling activities.</p>
+
+<h3 id="field-trials-and-testing">Field trials and testing</h3>
+
+<p>If you plan to carry out field trials on your product or process you should contact your local Environment Agency office.</p>
+
+<h3 id="using-nanontechnology">Using nanontechnology</h3>
+
+<p>Nanotechnology, or nanoscience, involves manipulating atoms and molecules to enhance materials or products, for example to create strong lightweight materials. Nanotechnology may be beneficial for product development, but the risks to the environment also need to be managed.</p>
+
+<h2 id="environmental-performance-management-in-chemical-manufacturing">Environmental performance management in chemical manufacturing</h2>
+
+<p>Whatever the size of your chemical manufacturing business, it has an impact on the environment. You can take practical steps to manage your environmental performance and save money at the same time. This can help you improve and maintain your reputation and win new business. It can help you communicate to your customers and staff that you comply with legislation, and that you care about your impact on the environment.</p>
+
+<h3 id="develop-a-green-chemistry-programme">Develop a green chemistry programme</h3>
+
+<p>You may be able to improve your production processes or products by using green chemistry principles and applying clean technology.</p>
+
+<p>Develop a clear step-by-step approach to applying green chemistry principles</p>
+
+<p>You may be able to embed these principles within an environmental management system.</p>
+
+<h3 id="use-an-ems">Use an <abbr title="environmental management system">EMS</abbr>
+</h3>
+
+<p>You can use an <abbr title="environmental management system">EMS</abbr> to help you identify your business’s environmental impacts and work out ways to reduce them, for example by using less energy and water, or producing less waste. This can help you to improve your overall efficiency as well as your environmental performance. Your <abbr title="environmental management system">EMS</abbr> should be appropriate to the type and size of your operations.</p>
+
+<p>For more information on how an <abbr title="environmental management system">EMS</abbr> can help your business, see the guide on <a rel="external" href="http://www.businesslink.gov.uk/bdotg/action/layer?r.l1=1079068363&amp;r.l2=1082900032&amp;r.l3=1083098823&amp;topicId=1079422683"><abbr title="environmental management system">EMS</abbr> - the basics.</a></p>
+
+<h3 id="report-on-your-environmental-performance">Report on your environmental performance</h3>
+
+<p>Your business can benefit from improving, and reporting on, its environmental performance. For example, reporting will:</p>
+
+<ul>
+<li>give you information about your current performance, and whether you are complying with legislation</li>
+  <li>identify where you could improve your activities, use resources more efficiently and save money</li>
+  <li>involve your staff and help increase their environmental awareness</li>
+  <li>demonstrate your commitment to improving your environmental performance to your staff, customers and the public</li>
+</ul>
+<p>You should focus on how you manage your key environmental impacts, for example carbon emissions, water use and waste management, and document the progress you are making to minimise your impact.</p>
+
+<h3 id="manage-your-purchases">Manage your purchases</h3>
+
+<p>The goods and services you buy - such as raw materials for your production process, office supplies, and catering, cleaning and utility services - all have an impact on the environment.</p>
+
+<p>You can reduce the environmental impact of the goods and services you buy and could reduce your costs by following green or sustainable procurement principles. Before making any purchase, think about whether you need to buy the product or service at all.</p>
+
+<h3 id="reduce-your-resource-use">Reduce your resource use</h3>
+
+<p>Reducing your waste and use of raw materials can help you improve your environmental performance and make your production more efficient. </p>
+
+<h3 id="communicate-with-your-staff">Communicate with your staff</h3>
+
+<p>Encourage all your staff to work together to improve the business’s environmental performance. The day-to-day actions of your staff can reduce your environmental impact significantly. Ask someone to volunteer at your site as an environmental champion.</p>
+
+<p>Engage with senior management to gain their support for environmental policies.</p>
+
+<p>Raise awareness among staff about your policies, and update them regularly on your progress and what you’ve achieved to help keep them engaged.</p>
+
+<h2 id="packaging-obligations-for-chemical-manufacturers">Packaging obligations for chemical manufacturers</h2>
+
+<p>Your business may produce or use packaging for chemicals or chemical products that leave your site, such as plastic and glass bottles, steel drums, tins and cardboard. You may also have to deal with packaging waste from the raw materials you receive.</p>
+
+<p>If you place packaging on the market you are responsible for ensuring that it meets environmental standards. If you place large amounts of packaging on the market, you are also responsible for the cost of recovering and recycling a calculated amount of the packaging when it becomes waste, based on the amount you create.</p>
+
+<p>If you produce, fill, supply or handle packaging, the packaging regulations will affect you.</p>
+
+<h3 id="how-to-produce-and-supply-packaging-and-packaged-products">How to produce and supply packaging and packaged products</h3>
+
+<p>If your business produces packaged products, imports packaged goods into the UK or places packaging or packaged goods on the market, you must:</p>
+
+<ul>
+<li>not exceed limits on concentrations of certain heavy metals such as lead, cadmium and mercury in your packaging</li>
+  <li>use the minimum packaging necessary</li>
+  <li>produce packaging that can be reused, recovered or recycled</li>
+  <li>keep records for four years as evidence that you are complying</li>
+</ul>
+<p>These requirements are enforced by the trading standards department of your local authority.</p>
+
+<p>See the guide on <a rel="external" href="http://www.businesslink.gov.uk/bdotg/action/layer?r.l1=1079068363&amp;r.l2=1082900032&amp;r.l3=1083098823&amp;topicId=1086901227">packaging and packaging waste - your environmental responsibilities.</a></p>
+
+<p>You must also comply with the duty of care for waste. See the the guide on <a href="https://www.gov.uk/waste-and-hazardous-waste-responsibilities-for-chemical-manufacturers">waste and hazardous waste responsibilities for chemical manufacturers.</a></p>
+
+<p>You must ensure you package and label chemicals correctly under the Chemicals (Hazard Information and Packaging for Supply) Regulations (<abbr title="Chemicals (Hazard Information and Packaging for Supply) Regulations">CHIP</abbr>) and the European Community Regulation on the Classification, Labelling and Packaging of Substances and Mixtures. See the guide on <a href="https://www.gov.uk/hazardous-substance-responsibilities-for-chemical-manufacturers">hazardous substance responsibilities for chemical manufacturers.</a></p>
+
+<h3 id="your-obligations-for-packaging-waste">Your obligations for packaging waste</h3>
+
+<p>If your business handles, manufactures, converts, packs, fills, supplies, leases, hires or imports over 50 tonnes of packaging or packaging materials in a year and has a turnover exceeding £2 million per year, you must:</p>
+
+<ul>
+<li>register with the Environment Agency, either directly or through a compliance scheme</li>
+  <li>pay for the recovery and recycling of a certain amount of packaging waste</li>
+  <li>provide the Environment Agency with evidence that you have met your obligations - if you are a member of a compliance scheme they will do this on your behalf</li>
+</ul>
+<p>See the the guide on <a rel="external" href="http://www.businesslink.gov.uk/bdotg/action/layer?r.l1=1079068363&amp;r.l2=1082900032&amp;r.l3=1083098823&amp;topicId=1086901227">packaging and packaging waste - your environmental responsibilities.</a></p>
+
+<p>To store any packaging waste before it is recycled you may need an exemption from environmental permitting.</p>
+
+<p>See the guide on <a href="https://www.gov.uk/environmental-permits-licences-and-exemptions-for-chemical-manufacturing">environmental permits, licences and exemptions for chemical manufacturing.</a></p>
+
+<h3 id="good-practice">Good practice</h3>
+
+<p>Reuse pallets and packaging materials wherever possible.</p>
+
+<p>Reuse or recycle packaging that you receive with deliveries. For example, you may be able to reuse drums or containers that have been used only for non-hazardous materials.</p>
+
+<p>See the guide on <a rel="external" href="http://www.businesslink.gov.uk/bdotg/action/layer?r.l1=1079068363&amp;r.l2=1082900032&amp;r.l3=1083098823&amp;topicId=1086901227">packaging and packaging waste - your environmental responsibilities.</a></p>
+
+<h2 id="carbon-emissions-reduction-in-chemical-manufacturing">Carbon emissions reduction in chemical manufacturing</h2>
+
+<p>Cutting your carbon emissions can help you to comply with legislation as well as reducing your costs and your impact on the environment.</p>
+
+<h3 id="check-if-you-need-a-permit-or-registration">Check if you need a permit or registration</h3>
+
+<p>If your business is energy intensive, for example if you operate a boiler or electricity generator, you must check if you need a greenhouse gas emissions permit and need to trade emissions under the <abbr title="European Union">EU</abbr> Emissions Trading System (<abbr title="Emissions Trading System">ETS</abbr>).</p>
+
+<p>Chemical manufacturing facilities covered by the <abbr title="European Union">EU</abbr> <abbr title="Emissions Trading System">ETS</abbr> include carrying out combustion activities with a total rated thermal input exceeding 20 megawatts.</p>
+
+<p>Combustion activities include:</p>
+
+<ul>
+<li>using electricity generators</li>
+  <li>using boilers</li>
+  <li>using combined heat and power</li>
+  <li>incinerating waste (other than hazardous or municipal waste) where the primary purpose is to produce energy</li>
+</ul>
+<p>See the guide on how to <a rel="external" href="http://www.businesslink.gov.uk/bdotg/action/layer?r.l1=1079068363&amp;r.l2=1082900032&amp;r.l3=1083098823&amp;topicId=1084074153">meet <abbr title="European Union">EU</abbr> <abbr title="Emissions Trading System">ETS</abbr> requirements.</a></p>
+
+<h3 id="check-if-the-carbon-reduction-commitment-energy-efficiency-scheme-applies-to-you">Check if the Carbon Reduction Commitment Energy Efficiency Scheme applies to you</h3>
+
+<p>If your business’s electricity is metered by at least one half hour meter and you buy on the half hour market you could be affected by the Carbon Reduction Commitment (<abbr title="Carbon Reduction Commitment">CRC</abbr>). The <abbr title="Carbon Reduction Commitment">CRC</abbr> targets emissions that are not already covered by climate change agreements or the <abbr title="European Union">EU</abbr> <abbr title="Emissions Trading System">ETS</abbr>.</p>
+
+<p>See the guide on <a rel="external" href="http://www.businesslink.gov.uk/bdotg/action/layer?r.l1=1079068363&amp;r.l2=1082900032&amp;r.l3=1083098823&amp;topicId=1086679098">the <abbr title="Carbon Reduction Commitment">CRC</abbr> Energy Efficiency Scheme.</a></p>
+
+<h3 id="reduce-your-climate-change-levy-bill">Reduce your climate change levy bill</h3>
+
+<p>The Climate Change Levy (<abbr title="Climate Change Levy">CCL</abbr>) is a tax on using non-renewable energy. If the <abbr title="Climate Change Levy">CCL</abbr> applies to your business, you will already be paying it as part of your energy bill.</p>
+
+<p>Reduce your bill by using renewable energy and improving your energy efficiency. You may be able to claim a discount from the <abbr title="Climate Change Levy">CCL</abbr> if you have a climate change agreement.</p>
+
+<p><a rel="external" href="http://www.decc.gov.uk/en/content/cms/what_we_do/lc_uk/ccas/ccas.aspx">Find climate change agreement information on the Department of Energy and Climate Change (<abbr title="Department of Energy and Climate Change">DECC</abbr>) website.</a></p>
+
+<h3 id="improve-your-energy-efficiency">Improve your energy efficiency</h3>
+
+<p>You can save money and help the environment by taking steps to reduce your energy use. See the guide on how to <a rel="external" href="http://www.businesslink.gov.uk/bdotg/action/layer?r.l1=1079068363&amp;r.l2=1082900032&amp;r.l3=1083098823&amp;topicId=1079432186">save money by using energy more efficiently</a>.</p>
+
+<p>You can get recognition for measuring and reducing your carbon emissions through the Carbon Trust Standard certification scheme. <a rel="external" href="http://www.carbontruststandard.com/">Read about the Carbon Trust Standard on the Carbon Trust Standard website.</a></p>
+
+<h3 id="use-renewable-energy">Use renewable energy</h3>
+
+<p>Reduce your carbon emissions by using energy from renewable sources.</p>
+
+<p>Buy your energy using:</p>
+
+<ul>
+<li>green tariffs where the provider buys the same amount of energy you use from a renewable source such as a wind farm</li>
+  <li>green funds where the provider invests money into researching or setting up renewable energy projects</li>
+</ul>
+<p>Look for tariffs independently certified under the Green Energy Certification Scheme. <a rel="external" href="http://www.greenenergyscheme.org/">Read about green energy supply and certification on the Green Energy Scheme website.</a></p>
+
+<p>Find out if you could participate in any local community renewable energy schemes.</p>
+
+<p>Generate your own electricity using wind, solar or other renewable energy sources. See the guide on <a rel="external" href="http://www.businesslink.gov.uk/bdotg/action/detail?itemId=1087547932&amp;r.l1=1079068363&amp;r.l2=1082900032&amp;r.l3=1083098823&amp;type=RESOURCES">renewable energy regeneration for chemical manufacturing.</a></p>
+
+<h2 id="energy-efficiency-requirements-for-chemical-manufacturing">Energy efficiency requirements for chemical manufacturing</h2>
+
+<p>Chemical manufacturing is an energy-intensive industry. You may be able to save money and reduce your impact on the environment by reducing the amount of energy that your business uses or using renewable sources of energy.</p>
+
+<p>By using less energy you can:</p>
+
+<ul>
+<li>save money on your fuel bills</li>
+  <li>help to combat climate change</li>
+  <li>improve your reputation with staff, customers and the public</li>
+</ul>
+<h3 id="get-an-energy-performance-certificate">Get an Energy Performance Certificate</h3>
+
+<p>If you sell, let, construct or refurbish a building, you must obtain an Energy Performance Certificate. This includes domestic, commercial and public buildings.</p>
+
+<p>The certificate gives the building an A-G energy efficiency rating and recommends how you can improve the energy rating of the building.</p>
+
+<h3 id="claim-enhanced-capital-allowances">Claim enhanced capital allowances</h3>
+
+<p>If you invest in certain types of energy-saving equipment and machinery you can qualify for first year enhanced capital allowances. These allow the whole cost of your investment to be offset against taxable profit in the year you bought the equipment.</p>
+
+<p>See the guide on <a rel="external" href="https://www.gov.uk/green-technology-capital-allowances/energy-saving-technologies">first-year allowances for energy saving products.</a></p>
+
+<h3 id="check-if-you-can-claim-an-exemption-or-discount-from-the-climate-change-levy">Check if you can claim an exemption or discount from the climate change levy</h3>
+
+<p>The climate change levy is a tax on using non-renewable energy. If the climate change levy applies to your business you will already be paying it as part of your energy bill. Your business may be exempt from the climate change levy, or entitled to a discount if you meet energy efficiency targets set out in a climate change agreement.</p>
+
+<p>Trade associations that have negotiated climate change agreements for their members include the Chemical Industries Association Broking and Trading Agency (<abbr title="Chemical Industries Association Broking and Trading Agency">CIABATA</abbr>).</p>
+
+<p><a rel="external" href="http://www.ciabata.org.uk/?lang=_e">Read information on <abbr title="Chemical Industries Association Broking and Trading Agency">CIABATA</abbr> on the <abbr title="Chemical Industries Association Broking and Trading Agency">CIABATA</abbr> website.</a></p>
+
+<p><a rel="external" href="http://customs.hmrc.gov.uk/channelsPortalWebApp/channelsPortalWebApp.portal?_nfpb=true&amp;_pageLabel=pageExcise_InfoGuides&amp;propertyType=document&amp;id=HMCE_CL_001174#P25_1383">Read about exemptions and exclusions from the climate change levy on the <abbr title="HM Revenue &amp; Customs">HMRC</abbr> website.</a></p>
+
+<h3 id="smart-energy-meters">Smart energy meters</h3>
+
+<p>The government is introducing smart electricity and gas meters to help businesses save money and reduce their carbon emissions. Smart meters will mean automatic and accurate billing. They should allow you to monitor live energy consumption and prices to help you use less power at peak times when it is most expensive.</p>
+
+<p>Energy suppliers will have to install advanced meters at larger business sites by April 2014.</p>
+
+<p><abbr title="Department of Energy and Climate Change">DECC</abbr> is planning to extend advanced and smart metering for small and medium-sized businesses. Under these new plans, energy suppliers will have to install smart meters in all businesses by the end of 2020. <a rel="external" href="http://www.decc.gov.uk/en/content/cms/tackling/smart_meters/smart_meters.aspx">Find smart metering information on the <abbr title="Department of Energy and Climate Change">DECC</abbr> website.</a></p>
+
+<h3 id="reduce-your-energy-use">Reduce your energy use</h3>
+
+<p>Review the energy your business uses. Look at your business activities and think of ways that you could save energy. <a rel="external" href="http://www.carbontrust.co.uk/cut-carbon-reduce-costs/products-services/pages/products-and-services.aspx">Find out more about energy management and carbon surveys on the Carbon Trust website.</a></p>
+
+<p>Compare the amount of energy that your business uses with industry standards. Your trade association can help you find this information. <a rel="external" href="http://www.taforum.org/">Find your trade association on the Trade Association Forum website.</a></p>
+
+<p>Include targets and ways to reduce energy use in your <abbr title="environmental management system">EMS</abbr>. See the guide on <a rel="external" href="http://www.businesslink.gov.uk/bdotg/action/layer?r.l1=1079068363&amp;r.l2=1082900032&amp;r.l3=1083098823&amp;topicId=1079422683"><abbr title="environmental management system">EMS</abbr> - the basics.</a></p>
+
+<p>You can get recognition for measuring and reducing your carbon emissions through the Carbon Trust Standard certification scheme. <a rel="external" href="http://www.carbontruststandard.com/pages/Get-certified">Read about the Carbon Trust Standard on the Carbon Trust Standard website.</a></p>
+
+<p>Raise awareness among your staff about the cost of energy. Ask them to help you find savings. Get them involved in monitoring energy use.</p>
+
+<h3 id="energy-efficiency-tips">Energy efficiency tips</h3>
+
+<p>You could:</p>
+
+<ul>
+<li>monitor how much heat and power your processes use to identify inefficiencies</li>
+  <li>make your boiler work more efficiently by metering steam flow (energy out) and fuel input (energy in) and adjust the settings if necessary</li>
+  <li>insulate pipes, valves, tanks and machines that contain steam or hot liquids. This will help to reduce heat loss and could reduce your heating costs</li>
+  <li>make sure that your motors and pumps are a suitable size for your activities</li>
+  <li>lubricate your machines regularly to keep them running efficiently</li>
+  <li>consider using variable speed controls on your motors to minimise energy use</li>
+  <li>use heat exchangers on hot effluent streams to recycle heat for your processing activities.</li>
+</ul>
+<h2 id="renewable-energy-regeneration-for-chemical-manufacturing">Renewable energy regeneration for chemical manufacturing</h2>
+
+<p>Renewable energy is energy generated from natural sources. Microgeneration is small-scale use of natural sources to generate electricity.</p>
+
+<p>Generating renewable energy can save you money and reduce the amount of greenhouse gases your business emits.</p>
+
+<p>Renewable energy sources include:</p>
+
+<ul>
+<li>water or hydropower</li>
+  <li>wind power</li>
+  <li>solar power</li>
+  <li>wave power</li>
+  <li>tidal power</li>
+  <li>biomass</li>
+  <li>anaerobic digestion</li>
+</ul>
+<h3 id="financial-benefits-of-microgeneration">Financial benefits of microgeneration</h3>
+
+<p>There are three potential income streams from microgeneration:</p>
+
+<ul>
+<li>export tariffs</li>
+  <li>feed-in tariffs paid by the government for every kilowatt hour (<abbr title="kilowatt hour">kWh</abbr>) of electricity generated</li>
+  <li>green energy certificates</li>
+</ul>
+<p>If you generate more electricity than you need you can sell the extra electricity back to your electricity company. The payments you receive for selling electricity are called export tariffs.</p>
+
+<p>If your business is covered by the <abbr title="Carbon Reduction Commitment">CRC</abbr> Energy Efficiency Scheme you might be able to claim credits for any electricity you generate. Read the guide on <a rel="external" href="https://www.gov.uk/crc-energy-efficiency-scheme">the <abbr title="Carbon Reduction Commitment">CRC</abbr> Energy Efficiency Scheme.</a></p>
+
+<p>The government has introduced feed-in tariffs across the UK for both businesses and households for projects up to five megawatts. The government guarantees payment to microgenerators for every <abbr title="kilowatt hour">kWh</abbr> of electricity you generate by renewables, including electricity you generate and use yourself.</p>
+
+<p>If you operate a small-scale energy generator you can make your business money by selling green energy certificates to energy suppliers.</p>
+
+<p>There are a number of interest free loans and other incentives available to businesses wishing to develop renewable energy generation.</p>
+
+<p>Take a short course to learn more about renewable technologies. The Centre for Alternative Technology (<abbr title="Centre for Alternative Technology">CAT</abbr>) runs a number of how-to courses for people who want to generate their own electricity. <a rel="external" href="http://www2.cat.org.uk/shortcourses/index.php?cPath=1&amp;osCsid=8f45072add8ea86db2ac04cd764ed9b1">Find renewable energy courses on the <abbr title="Centre for Alternative Technology">CAT</abbr> website.</a></p>
+
+<p><a rel="external" href="http://www.summitskills.org.uk/public/cms/File/Renewables/Renewable%20energy%20training%20provision%20report%20NEF.pdf">Download renewable energy training information from the Sector Skills Council for Building Services Engineering website (PDF, 738KB)</a>.</p>
+
+<h3 id="planning-permission">Planning permission</h3>
+
+<p>If you want to build a renewable energy development you must apply for planning permission from your local planning authority. </p>
+
+<p>See the guides on:</p>
+
+<ul>
+<li><a rel="external" href="https://www.gov.uk/planning-permission-england-wales">an overview of the planning system for England and Wales</a></li>
+  <li><a rel="external" href="https://www.gov.uk/planning-permission-scotland">an overview of the planning system for Scotland</a></li>
+  <li><a rel="external" href="https://www.gov.uk/planning-permission-northern-ireland">an overview of the planning system for Northern Ireland</a></li>
+</ul>
+<p><a rel="external" href="http://www.planningportal.gov.uk/">Find out how to apply for planning permission on the Planning Portal website.</a></p>
+
+<h3 id="renewables-in-protected-areas">Renewables in protected areas</h3>
+
+<p>If the site you wish to develop is in a conservation or protected area, you must notify Natural England.</p>
+
+<p><a rel="external" href="http://magic.defra.gov.uk/">Find out if your proposed site is in or near a protected area on the online interactive maps on the Magic website.</a></p>
+
+<p>If your site has archaeological or architectural interest you must inform English Heritage. <a rel="external" href="http://www.english-heritage.org.uk/professional/advice/our-planning-role/">Find information about developing on sites with archaeological or architectural interest on the English Heritage website.</a></p>
+
+<h2 id="resource-efficiency-tips-for-chemical-manufacturers">Resource efficiency tips for chemical manufacturers</h2>
+
+<p>Chemical manufacturers can reduce waste and use raw materials and water more efficiently. These are some starting points to help you minimise resource use and optimise production:</p>
+
+<ul>
+<li>improve housekeeping - an untidy factory can lead to mistakes, poor attitudes, accidental damage, out-of-date material and waste</li>
+  <li>separate waste to reduce costs - cross-contaminating different wastes can lead to waste being disposed of at a higher cost than necessary</li>
+  <li>recover pump or filter contents and tank washings - in paint manufacturing, once a good system is set up for recovering surpluses it is possible to recover a further 5-20 kilograms of product per batch and reduce solvent used for pump washing at the same time</li>
+  <li>avoid over-ordering - businesses that make products to order tend to buy more materials than required for the job - even after allowing the standard amount for waste - better control of waste levels enables you to reduce stock wastage</li>
+  <li>store more liquids in bulk - material requirements can change, but buying and stocking policy often doesn’t. This can result in slow-moving liquid materials occupying bulk tank capacity, while higher-volume items are bought in drums. To see if there is a problem, list liquid materials in order of consumption and compare the ten fastest-moving products in drums with the ten slowest-moving bulk products</li>
+  <li>schedule production - to minimise the need for vessel washing between production batches and reduce the wash frequency</li>
+  <li>recover or reuse vessel-washing liquors - this can significantly reduce effluent volumes and discharge costs, as well as product loss</li>
+  <li>reduce wastage from spills and surplus material - use automated filling methods and whole containers</li>
+  <li>prepare a mass balance - this involves identifying inputs such as raw materials and outputs such as products and waste - it is used to calculate where the greatest resource losses are occurring and thus the potential for improvement</li>
+  <li>operate and maintain equipment correctly - this is the only way to make real improvements in solvent performance and cost reductions are made only if staff operate and maintain the equipment correctly - using equipment efficiently also reduces energy use</li>
+</ul>
+<p>Using water efficiently can also reduce your costs and impact on the environment. See the guide on water use and efficiency in chemical manufacturing.</p>
+
+<h2 id="how-a-business-can-cut-resource-use-by-using-green-chemistry">How a business can cut resource use by using green chemistry</h2>
+
+<p>Harp International’s top tips:</p>
+
+<ul>
+<li>look to recover residual product which can be reprocessed and reused</li>
+  <li>use water-based paints, which are less hazardous</li>
+  <li>switch from using aerosol cans to an inkjet stencil to reduce volatile organic compound emissions and eliminate hazardous waste production</li>
+</ul>
+<p><a rel="external" href="http://www.harpintl.com">Harp International</a> was established in 1991 to provide a complete refrigerant service to the refrigeration and air-conditioning industry. Since then, the business has expanded with the addition of a range of products and services that are principally tailored to the foam-blowing and aerosol-propellant industries.</p>
+
+<p>Harp International is based at Pontypridd in South Wales in a 4,650 square metre plant, which incorporates state-of-the-art packaging and reclamation facilities, together with extensive warehousing and distribution capabilities.</p>
+
+<h3 id="what-we-did">What we did</h3>
+
+<p>Harp provides customers with refrigerant gases packaged in steel cylinders, which are used to charge refrigeration systems. When finished with, the cylinders are returned to Harp. They are then emptied of any residual product (which is pooled and reused), internally inspected for faults and repainted prior to refilling.</p>
+
+<h3 id="offered-financial-incentives">Offered financial incentives</h3>
+
+<p>In an attempt to prevent illegal venting to atmosphere, Harp offered financial incentives to recover waste refrigerant. In return, Harp can reprocess and resell the refrigerant, thus generating a secondary revenue stream. Waste refrigerants returned to Harp for reprocessing and reuse are put in special reclaim cylinders which are distinguished from the pure product cylinders by a yellow band.</p>
+
+<h3 id="reduced-solvent-use">Reduced solvent use</h3>
+
+<p>The original paint plant, designed for solvent-based paints, was installed in 1992. Although the annual consumption of solvents fell short of being regulated by statutory requirements, a business decision was made to upgrade the facility and convert to using less hazardous, water-based paints. Aside from the potential to achieve greater plant efficiency, the main driver leading to this move was to improve the business’s overall performance in line with the objectives of its environmental policy.</p>
+
+<p>Although water-based paints are more expensive, the increased costs have been offset by the plant operating much more efficiently. The substitution has reduced solvent emissions by some 30 per cent and much less hazardous waste is generated. In addition, staff no longer handle hazardous substances.</p>
+
+<h3 id="automated-stencilling">Automated stencilling</h3>
+
+<p>After painting, each cylinder is stencilled with the gas type and net weight of product. Previously, this process was carried out manually using aerosol paint cans. An inkjet stenciller was installed and the cylinders now pass through a programmable printing head. Just one litre of ink is used to stencil one year’s supply of cylinders, compared with about 400 aerosol cans. Emissions are significantly reduced and annual material costs reduced from £788 to £138. The disposal of 398 used aerosol cans as hazardous waste was also eliminated.</p>
+
+<h3 id="what-the-benefits-were">What the benefits were</h3>
+
+<p>The benefits of green chemistry to Harp International included:</p>
+
+<ul>
+<li>costs reduced by over £2,000 per year</li>
+  <li>hazardous, solvent-based paints replaced with a less hazardous alternative</li>
+  <li>increased process efficiency</li>
+  <li>reduced exposure of employees to hazardous substances</li>
+  <li>lower solvent emissions from the site</li>
+  <li>lower quantities of hazardous waste generated on site</li>
+</ul>
+<h2 id="further-information">Further information</h2>
+
+<h3 id="environment-agency-helpline">Environment Agency Helpline</h3>
+<p>03708 506 506</p>
+
+<h3 id="waste--resources-action-programme-wrap-resource-efficiency-helpline">Waste &amp; Resources Action Programme (WRAP) Resource Efficiency Helpline</h3>
+<p>0808 100 2040</p>
+
+<h3 id="carbon-trust-advice-line">Carbon Trust Advice Line</h3>
+<p>0800 085 2005</p>
+
+<p><a rel="external" href="http://www.greenchemistrynetwork.org/">Green chemistry guidance on the <abbr title="Green Chemistry Network">GCN</abbr> website</a></p>
+
+<p><a rel="external" href="http://www.york.ac.uk/res/gcg/site/">Green chemistry guidance on the University of York website</a></p>
+
+<p><a rel="external" href="http://www.bis.gov.uk/policies/business-sectors/environmental-and-product-regulations/environmental-regulations/packaging-and-packaging-waste-directive">Packaging guidance on the Department for Business, Innovation &amp; Skills website</a></p>
+
+<p><a rel="external" href="http://www.wastedirectory.org.uk/">Licensed waste site search on the NetRegs Waste Directory website</a></p>
+
+<p><a rel="external" href="http://www.hse.gov.uk/chip/index.htm"><abbr title="Chemicals (Hazard Information and Packaging for Supply) Regulations">CHIP</abbr> information on the Health and Safety Executive website</a></p>
+
+<p><a rel="external" href="http://www.carbontrust.com/media/39200/ctv012_chemicals.pdf">Energy and carbon reduction information for the chemical sector on the Carbon Trust website</a></p>
+
+<p><a rel="external" href="http://www.decc.gov.uk/en/content/cms/what_we_do/lc_uk/ccas/ccas.aspx">Climate change agreement information on the <abbr title="Department of Energy and Climate Change">DECC</abbr> website</a></p>
+
+<p><a rel="external" href="http://www.carbontrust.co.uk/cut-carbon-reduce-costs/reduce/small-organisation/pages/default.aspx">Carbon and cost-cutting toolkit on the Carbon Trust website</a></p>
+
+<p><a rel="external" href="http://www.carbontruststandard.com/">Carbon Trust Standard information on the Carbon Trust Standard website</a></p>
+
+<p><a rel="external" href="http://ww2.defra.gov.uk/environment/climate/">Climate change information on the Department for Environment, Food and Rural Affairs (<abbr title="Department for Environment, Food and Rural Affairs">Defra</abbr>) website</a></p>
+
+<p><a rel="external" href="http://www.defra.gov.uk/environment/economy/business-efficiency/reporting/">Greenhouse gas emissions measuring and reporting guidance on the <abbr title="Department for Environment, Food and Rural Affairs">Defra</abbr> website</a></p>
+
+<p><a rel="external" href="http://www.carbontruststandard.com/pages/Carbon+Trust+Standard">Carbon Trust Standard certification on the Carbon Trust Standard website</a></p>
+
+<p><a rel="external" href="http://www.carbontrust.co.uk/cut-carbon-reduce-costs/products-services/technology-advice/renewables/Pages/renewables.aspx">Renewable energy guidance on the Carbon Trust website</a></p>
+
+<p><a rel="external" href="http://www.decc.gov.uk/en/content/cms/meeting_energy/renewable_ener/renewable_ener.aspx">Renewable energy guidance on the <abbr title="Department of Energy and Climate Change">DECC</abbr> website</a></p>
+
+<p><a rel="external" href="http://www.planningportal.gov.uk/">Planning permission guidance on the Planning Portal website</a></p>
+</div>
+  </div>
+</article>
+</div>
+  </div>
+  <div class="block-4">
+    <div class="inner-block">
+      <div class="js-back-to-content back-to-content visuallyhidden">
+        <a href="#page-navigation">Back to contents</a>
+      </div>
+      <aside id="more-like-this" class="aside-more-like-this"><h1>More like this</h1>
+          <section id="guide-categories" class="categories"><div class="inner">
+              <h2>All detailed guidance about</h2>
+              <ul>
+<li class="mainstream_category" id="mainstream_category_29">
+                    <a href="/browse/business/maritime/maritime-and-freshwater-businesses">Maritime and freshwater businesses</a>
+</li>              </ul>
+</div>
+          </section></aside>
+</div>
+  </div>
+ </div>
+
+      </div>
+    </div>
+
+    <footer class="group" id="footer" role="contentinfo"><div class="beta-notice">
+        <p>This is a <a href="http://digital.cabinetoffice.gov.uk/2012/01/31/beta/">test website</a>, so may be inaccurate or misleading. The official websites remain <a href="http://www.direct.gov.uk">Directgov</a>, <a href="http://www.businesslink.gov.uk/">Business Link</a>, and the website of the <a href="http://www.cabinetoffice.gov.uk/content/list-government-departments-and-ministers">relevant government department or organisation</a></p>
+      </div>
+      <div class="inner group">
+        <div class="colophon-and-help">
+          <nav class="help"><ul>
+<li><a href="/help">Help</a></li>
+              <li><a href="/help/cookies">Cookies</a></li>
+            </ul></nav><div class="colophon">
+            <p>Much of the information on this website is available for reuse under the <a href="http://www.nationalarchives.gov.uk/doc/open-government-licence/" rel="license">Open Government Licence</a></p>
+            <p>Built by the <a href="http://digital.cabinetoffice.gov.uk">Government Digital Service</a></p>
+          </div>
+        </div>
+        <div class="copyright">
+          <a href="http://www.nationalarchives.gov.uk/information-management/our-services/crown-copyright.htm">© Crown Copyright</a>
+        </div>
+      </div>
+    </footer><!--end footer--><div id="global-app-error" class="app-error hidden"></div>
+
+  </body>
+</html>

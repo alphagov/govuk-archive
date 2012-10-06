@@ -1,0 +1,436 @@
+<!DOCTYPE html>
+<!--[if lt IE 9]><html class="lte-ie8 " lang="en"><![endif]--><!--[if gt IE 8]><!--><html lang="en" class="">
+<!--<![endif]--><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<title>Intrastat: technology and technicalities - Detailed guidance - GOV.UK</title>
+<!--[if gt IE 8]><!--><link href="https://d17tffe05zdvwj.cloudfront.net/static/application-d90d1064d032df40186ff55e88901f74.css" media="screen" rel="stylesheet" type="text/css">
+<!--<![endif]--><!--[if IE 6]><link href="https://d17tffe05zdvwj.cloudfront.net/static/application-ie6-d31c2b2ae93664d18b182ca832397f29.css" media="screen" rel="stylesheet" type="text/css" /><![endif]--><!--[if IE 7]><link href="https://d17tffe05zdvwj.cloudfront.net/static/application-ie7-688dd3d05600345f3b98195580c3b5ee.css" media="screen" rel="stylesheet" type="text/css" /><![endif]--><!--[if IE 8]><link href="https://d17tffe05zdvwj.cloudfront.net/static/application-ie8-c76677fda5a712cbbfacc6b370228784.css" media="screen" rel="stylesheet" type="text/css" /><![endif]--><link href="https://d17tffe05zdvwj.cloudfront.net/static/print-ea4eb31bbe591c3f95cb1464f613e54e.css" media="print" rel="stylesheet" type="text/css">
+<!--[if IE 8]>
+<script type="text/javascript">
+  (function(){if(window.opera){return;}
+  setTimeout(function(){var a=document,g,b={families:(g=
+  ["nta"]),urls:["https://d17tffe05zdvwj.cloudfront.net/static/fonts-ie8-8917f2aaa6cd2e4af173b7da903625c1.css"]},
+  c="https://d17tffe05zdvwj.cloudfront.net/static/libs/goog/webfont-debug-c6bcf1b06367c37979a87bc1ec2c8081.js",d="script",
+  e=a.createElement(d),f=a.getElementsByTagName(d)[0],h=g.length;WebFontConfig
+  ={custom:b},e.src=c,f.parentNode.insertBefore(e,f);for(;h--;a.documentElement
+  .className+=' wf-'+g[h].replace(/\s/g,'').toLowerCase()+'-n4-loading');},0)
+  })()
+</script>
+<![endif]--><!--[if gte IE 9]><!--><link href="https://d17tffe05zdvwj.cloudfront.net/static/fonts-474fe7b7d730894156043c3c823eb30f.css" media="all" rel="stylesheet" type="text/css">
+<!--<![endif]--><script src="https://d17tffe05zdvwj.cloudfront.net/static/libs/jquery/jquery-1.7.2-765cc76e15d62a88cd61468aeaaaeb5d.js" type="text/javascript"></script><script defer src="https://d17tffe05zdvwj.cloudfront.net/static/application-0602e28972f68d9d063b3e738144e67b.js" type="text/javascript"></script><!--[if lt IE 9]>
+      <script src="https://d17tffe05zdvwj.cloudfront.net/static/ie-ff788f3e7ef3574c7873602dcb79c22e.js" type="text/javascript"></script>
+    <![endif]--><link rel="shortcut icon" href="https://d17tffe05zdvwj.cloudfront.net/static/favicon-17634b2677b373a25c5bb3ef93212a67.ico" type="image/x-icon">
+<!-- For third-generation iPad with high-resolution Retina display: --><link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://d17tffe05zdvwj.cloudfront.net/static/apple-touch-icon-144x144-eee4e09bccd7c55b9b8dca2d6715ffa4.png">
+<!-- For iPhone with high-resolution Retina display: --><link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://d17tffe05zdvwj.cloudfront.net/static/apple-touch-icon-114x114-460f91576fe9c617d4fdf7df46cfaef5.png">
+<!-- For first- and second-generation iPad: --><link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://d17tffe05zdvwj.cloudfront.net/static/apple-touch-icon-72x72-52dfb66accadbd018bd25b13ed7fac68.png">
+<!-- For non-Retina iPhone, iPod Touch, and Android 2.1+ devices: --><link rel="apple-touch-icon-precomposed" href="https://d17tffe05zdvwj.cloudfront.net/static/apple-touch-icon-57x57-7ed7919994fcf4a885cb56cc30fbed42.png">
+<script id="ga-params" type="text/javascript">
+  var GOVUK = GOVUK || {};
+  GOVUK.Analytics = GOVUK.Analytics || {};
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-26179049-1']);
+  if(document.domain=='www.gov.uk') {
+    _gaq.push(['_setDomainName', '.www.gov.uk']);
+  } else {
+    _gaq.push(['_setDomainName', document.domain]);
+  }
+  _gaq.push(['_setAllowLinker', true]);
+_gaq.push(["_setCustomVar",1,"Section","business",3]);
+GOVUK.Analytics.Section = "business";</script><script src="https://d17tffe05zdvwj.cloudfront.net/static/analytics-cc7944d5e01517d08d015be0f452eda0.js" type="text/javascript"></script><script type="text/javascript">
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script><script src="https://maps.googleapis.com/maps/api/js?sensor=false" type="text/javascript"></script><script defer src="/government/assets/application-8dea88c5c201ff7dcdda73e90538e9da.js" type="text/javascript"></script><!--[if gt IE 8]><!--><link href="/government/assets/frontend/base-4e41e9a3dcc2a465ad1ab8a2ac32fcc3.css" media="screen" rel="stylesheet" type="text/css">
+<!--<![endif]--><link href="/government/assets/frontend/print-90864b1af3b5afc11b5b00e6753616e9.css" media="print" rel="stylesheet" type="text/css">
+<link href="/favicon.ico" rel="shortcut icon" type="image/x-icon">
+<link href="https://whitehall-frontend.production.alphagov.co.uk/government/feed.atom" rel="alternate" title="Recent updates" type="application/atom+xml">
+<meta content="True" name="HandheldFriendly">
+<meta content="320" name="MobileOptimized">
+<meta content="width=device-width, initial-scale=1" name="viewport">
+<meta content="authenticity_token" name="csrf-param">
+<meta content="6l/sgTG53nzkuoFTU5q0l4TyiFiy5sTqfKi/TjUXdqc=" name="csrf-token">
+<!--[if IE 6]><link href="/government/assets/frontend/base-ie6-58323149c79522f016f1325682864cc9.css" media="screen" rel="stylesheet" type="text/css" /><![endif]--><!--[if IE 7]><link href="/government/assets/frontend/base-ie7-c9c7837e2bc489988c369e9ed68216a2.css" media="screen" rel="stylesheet" type="text/css" /><![endif]--><!--[if IE 8]><link href="/government/assets/frontend/base-ie8-30ed6cd58edce149268e993fc8bb826b.css" media="screen" rel="stylesheet" type="text/css" /><![endif]-->
+</head>
+<body class="website government detailed-guidance">
+      <script type="text/javascript">document.body.className = ((document.body.className) ? document.body.className + ' js-enabled' : 'js-enabled');</script><a href="#content" class="visuallyhidden">Skip to main content</a>
+
+    <header role="banner" class="group" id="global-header"><div class="header-global group">
+        <h1><a href="/" title="Go to the gov.uk homepage">GOV.UK</a></h1>
+        <nav role="navigation"><ul>
+<li><a href="/help">Help</a></li>
+          </ul></nav><div class="search-help">
+            <form id="search" class="site-search" action="/search#detailed-results" method="get" role="search">
+              <label for="site-search-text" class="visuallyhidden">
+                <span>Search</span>
+              </label>
+              <input type="search" name="q" id="site-search-text"><input type="submit" value="Search" class="button">
+</form>
+          </div>
+      </div>
+    </header><!--end header--><div id="global-cookie-message">
+      <p>GOV.UK uses cookies to make the site simpler. <a href="/help/cookies">Find out more about cookies</a></p>
+    </div>
+
+
+      <div id="global-breadcrumb" class="header-context">
+        <nav role="navigation"><ol class="group">
+<li><a href="/">Home</a></li>
+          <li><a href="https://www.gov.uk/browse/business">Business</a></li>
+<li><a href="https://www.gov.uk/browse/business/imports-exports">Imports and exports</a></li>
+<li><strong><a href="/browse/business/imports-exports/import-and-export-procedures">Import and export procedures</a></strong></li>
+</ol></nav>
+</div>
+
+    <div id="whitehall-wrapper">
+      <div id="content"></div>
+      <div id="page" class="detailed-guides-show">
+        
+<div class="document_page detailedguide">
+  <div class="block-1">
+    <div class="inner-block">
+      <section class="meta"><div class="meta-changes">
+        <section class="change-notes"><p>Published <abbr class="published-at date" title="2012-09-11T14:50:15+01:00">11 September 2012</abbr></p>
+    </section>
+</div>
+</section><section class="page-header js-hide-extra-logos"><ul class="organisations-icon-list"><li class="organisation her-majestys-revenue-and-customs non-ministerial-department" id="organisation_25">
+        <a href="http://www.hmrc.gov.uk/" class="organisation-logo-small single-line" rel="external" title="HM Revenue &amp; Customs (external website)">
+                <span>HM Revenue &amp; Customs</span>
+</a>
+</li></ul>
+<h1 class="page_title has_meta">Intrastat: technology and technicalities</h1>
+<div class="page-meta">
+    <p class="summary">Technical information to help you decide which method is most suitable for submitting your Intrastat Supplementary Declarations (SDs). </p>
+  
+</div>
+
+
+          <div class="replaces-businesslink">
+            <p>
+              This replaces
+              <span class="businesslink-logo">
+                <span class="visuallyhidden">Business Link</span>
+              </span>
+            </p>
+          </div>
+      </section>
+</div>
+  </div>
+  <div class="block-2">
+    <div class="inner-block">
+      <nav class="contextual-info" id="page-navigation"><h1>Contents</h1>
+    <nav class="detailed_guide_parts" role="navigation"><ol id="document_sections">
+<li>
+            <a href="#introduction">Introduction</a>
+          </li>
+          <li>
+            <a href="#intrastat-sd-options">Intrastat SD options</a>
+          </li>
+          <li>
+            <a href="#intrastat-sd-online-form">Intrastat SD online form</a>
+          </li>
+          <li>
+            <a href="#intrastat-sd-offline-csv-file-option">Intrastat SD offline CSV file option</a>
+          </li>
+          <li>
+            <a href="#intrastat-csv-generator-tool">Intrastat CSV generator tool</a>
+          </li>
+          <li>
+            <a href="#correcting-errors-on-intrastat-supplementary-declaration-csv-files">Correcting errors on Intrastat Supplementary Declaration CSV files</a>
+          </li>
+          <li>
+            <a href="#using-the-intrastat-online-amendment-form">Using the Intrastat online amendment form</a>
+          </li>
+          <li>
+            <a href="#using-ediedifact-to-submit-intrastat--ec-sales-returns">Using EDI/EDIFACT to submit Intrastat / EC Sales returns</a>
+          </li>
+          <li>
+            <a href="#further-information">Further information</a>
+          </li>
+        <li class="more-like-this">
+          <a href="#more-like-this">See more like this</a>
+        </li>
+      </ol></nav></nav>
+</div>
+  </div>
+  <div class="block-3">
+    <div class="inner-block">
+      <article class="document"><div class="body">
+    <div class="govspeak">
+<h2 id="introduction">Introduction</h2>
+
+<p>You must use one of the following electronic options for submitting your Intrastat Supplementary Declarations (<abbr title="Intrastat Supplementary Declarations">SDs</abbr>) as of April 2012. They are:</p>
+
+<ul>
+<li>Intrastat <abbr title="Intrastat Supplementary Declaration">SD</abbr> Online (via the Internet)</li>
+  <li>Intrastat <abbr title="Intrastat Supplementary Declaration">SD</abbr> Electronic Data Interchange</li>
+  <li>the online facility for amending previously submitted data</li>
+</ul>
+<p>You can submit as many Intrastat <abbr title="Intrastat Supplementary Declarations">SDs</abbr> as you like each month. Submitting nil returns will prevent you from being contacted for missing declarations and timely, complete and accurate submissions will avoid costly penalty action.</p>
+
+<p>This guide sets out the technical information you need to determine which method is most suitable for the scale and frequency of your trade in goods within the EU.</p>
+
+<h2 id="intrastat-sd-options">Intrastat <abbr title="Intrastat Supplementary Declaration">SD</abbr> options</h2>
+
+<p>Online and offline methods of submitting Intrastat <abbr title="Intrastat Supplementary Declarations">SDs</abbr> over the internet may be used by agents, traders and individual branches of larger companies who submit data independently from their head offices.</p>
+
+<p>There are three methods of completion :</p>
+
+<ul>
+<li>an online form </li>
+  <li>an offline option using a Comma Separated Variable (<abbr title="Comma Separated Variable">CSV</abbr>) file </li>
+  <li>EDI - Edifact file for Intrastat and EC Sales via email attachment</li>
+</ul>
+<h3 id="eform-and-csv-file">Eform and <abbr title="Comma Separated Variable">CSV</abbr> File</h3>
+
+<p>You can access the application by your username and password provided by the Intrastat customer service desk once you have registered on the uktradeinfo website.  </p>
+
+<p>The online form is keyed straight onto the application and the <abbr title="Comma Separated Variable">CSV</abbr> file is uploaded through the application. To help you make sure you don’t miss any data out or make any errors, the data is validated throughout the process. You can only send error-free files.</p>
+
+<p>You can register online to <a rel="external" href="https://www.uktradeinfo.com/intrastat/aboutintrastat/pages/supplementarydeclarations.aspx">submit your Intrastat <abbr title="Intrastat Supplementary Declarations">SDs</abbr> electronically on the uktradeinfo website.</a></p>
+
+<p>If you already have your username and password, you can <a rel="external" href="http://secure.hmce.gov.uk/ecom/is2/static/is2.html">access the electronic <abbr title="Intrastat Supplementary Declaration">SD</abbr> live system on the uktradeinfo website.</a></p>
+
+<h2 id="intrastat-sd-online-form">Intrastat <abbr title="Intrastat Supplementary Declaration">SD</abbr> online form</h2>
+
+<p>The Intrastat <abbr title="Intrastat Supplementary Declaration">SD</abbr> online form is a good option for submitting a few lines of data.</p>
+
+<p>It allows you to type your data directly onto the Arrival or Dispatch form.</p>
+
+<p>The following fields have on-screen validation:</p>
+
+<ul>
+<li>value</li>
+  <li>delivery terms</li>
+  <li>nature of transaction</li>
+  <li>country to/country from</li>
+</ul>
+<p>If you include invalid data, a pop-up box will appear giving the correct alternatives.</p>
+
+<p>The following fields are validated during submission:</p>
+
+<ul>
+<li>commodity code</li>
+  <li>net mass</li>
+  <li>supplementary units</li>
+</ul>
+<p>If you make an error on the form, an error screen will appear highlighting your mistakes. Please note, you can only transmit error-free files.</p>
+
+<p>For added security, there is a 30-minute timeout restriction between your login and submission. This takes the form of a countdown timer, which alerts you five minutes and one minute before you are timed out. Pressing the submit button will give you another 30 minutes. It’s important to remember that if you are timed out, all your data will be lost and you will need to log back in and retype the material.</p>
+
+<p>If you have a lot of data to submit, you may want to use the offline <abbr title="Comma Separated Variable">CSV</abbr> option. This does not have a time-out facility and will allow you enough time to submit your data.</p>
+
+<p>Access the electronic Intrastat <abbr title="Intrastat Supplementary Declaration">SD</abbr> live system on the <a rel="external" href="http://secure.hmce.gov.uk/ecom/is2/static/is2.html">uktradeinfo website (registration required).</a></p>
+
+<h2 id="intrastat-sd-offline-csv-file-option">Intrastat <abbr title="Intrastat Supplementary Declaration">SD</abbr> offline <abbr title="Comma Separated Variable">CSV</abbr> file option</h2>
+
+<p>The offline option for submitting your Intrastat data is a <abbr title="Comma Separated Variable">CSV</abbr> file. Each file can hold up to 20,000 lines of data.</p>
+
+<p>On trader <abbr title="Comma Separated Variable">CSV</abbr> files:</p>
+
+<ul>
+<li>the first line is header details</li>
+  <li>the second and subsequent lines are for data</li>
+</ul>
+<p>On agent <abbr title="Comma Separated Variable">CSV</abbr> files:</p>
+
+<ul>
+<li>the first line is agent header details</li>
+  <li>the second line is trader header details</li>
+  <li>the third and subsequent lines are for data</li>
+</ul>
+<p>Below is an example of a trader <abbr title="Comma Separated Variable">CSV</abbr> file when opened in Notepad:</p>
+
+<p>T,987654321,100,TRADER,X,A,310508,0408,CSV02<br>
+39029010,1250,EXW,10,122,,DE<br>
+03055930,1400,EXW,10,456,,IT<br>
+48053090,556,FOB,10,,5,DE</p>
+
+<p>There are two ways of preparing a <abbr title="Comma Separated Variable">CSV</abbr> file:</p>
+
+<ul>
+<li>you can access the <abbr title="Comma Separated Variable">CSV</abbr> generator tool on the <a rel="external" href="https://www.uktradeinfo.com/Intrastat/ElectronicSubmission/Internet/OfflineCSV/Pages/OfflineCSV.aspx">uktradeinfo website</a>
+</li>
+  <li>you can read the technical <abbr title="Comma Separated Variable">CSV</abbr> specification manual on the <a rel="external" href="https://www.uktradeinfo.com/Intrastat/ElectronicSubmission/Internet/OfflineCSV/Pages/TechnicalSpecification.aspx">uktradeinfo website</a>
+</li>
+</ul>
+<h3 id="submitting-the-file">Submitting the file</h3>
+
+<p>You can upload prepared <abbr title="Comma Separated Variable">CSV</abbr> files through the application. The data is checked throughout the processes, and errors are highlighted. You must correct errors before the file is uploaded again. You can only transmit error-free files.</p>
+
+<p>For larger files, you can log off the system while staying connected to the internet to allow the processing to continue. When logging back in, you will see either the submission error screen or the submission confirm screen.</p>
+
+<h2 id="intrastat-csv-generator-tool">Intrastat <abbr title="Comma Separated Variable">CSV</abbr> generator tool</h2>
+
+<p>A simple way of preparing a <abbr title="Comma Separated Variable">CSV</abbr> file is to use the <abbr title="Comma Separated Variable">CSV</abbr> generator tool, a pre-prepared Excel workbook that is available for download from the Intrastat Internet System.</p>
+
+<p>The file includes the following worksheets:</p>
+
+<ul>
+<li>An introduction</li>
+  <li>Help files for trader and agents. Download a help file and example of an Intrastat <abbr title="Intrastat Supplementary Declaration">SD</abbr> offline trader <abbr title="Comma Separated Variable">CSV</abbr> file from the <a rel="external" href="https://www.uktradeinfo.com/intrastat/electronicsubmission/internet/offlinecsv/technical%20specification/csvtechnicalspecification.pdf">uktradeinfo website (PDF, 53K)</a>
+</li>
+  <li>Trader Excel spreadsheet. Download an example of an Intrastat <abbr title="Intrastat Supplementary Declaration">SD</abbr> offline trader <abbr title="Comma Separated Variable">CSV</abbr> file from the <a rel="external" href="https://www.uktradeinfo.com/intrastat/electronicsubmission/internet/offlinecsv/pages/offlinecsv.aspx">uktradeinfo website (XLS, 14K)</a>
+</li>
+  <li>Agent Excel spreadsheet. Download an example of an Intrastat <abbr title="Intrastat Supplementary Declaration">SD</abbr> offline agent <abbr title="Comma Separated Variable">CSV</abbr> file from the <a rel="external" href="https://www.uktradeinfo.com/Intrastat/ElectronicSubmission/Internet/OfflineCSV/CSV%20Generator%20Tool/AgentCsvfile.xls">uktradeinfo website (XLS, 15K)</a> The agent <abbr title="Comma Separated Variable">CSV</abbr> file has two header rows with subsequent lines for data</li>
+</ul>
+<h3 id="preparing-a-file">Preparing a file</h3>
+
+<p>Using the help file and the example worksheet, copy your data onto the example.</p>
+
+<h3 id="saving-a-file">Saving a file</h3>
+
+<p>Having prepared your file, you may prefer to save it as an Excel file (XLS), then as a <abbr title="Comma Separated Variable">CSV</abbr> file. Alternatively, you can save it as a <abbr title="Comma Separated Variable">CSV</abbr> file (this is a save option in Excel). It is slightly easier to correct errors in an Excel file than a <abbr title="Comma Separated Variable">CSV</abbr> file.</p>
+
+<h3 id="submitting-a-csv-file">Submitting a <abbr title="Comma Separated Variable">CSV</abbr> file</h3>
+
+<p>To upload a <abbr title="Comma Separated Variable">CSV</abbr> file, you should first log on to the Intrastat application. Once in the main menu, click on the “<abbr title="Comma Separated Variable">CSV</abbr> file upload” button. Either enter the path and complete the file name (including .csv) of the <abbr title="Comma Separated Variable">CSV</abbr> file you wish to submit in the input box, or use the “browse” button to bring up a choose file dialogue box to locate and select the required <abbr title="Comma Separated Variable">CSV</abbr> file. Once the file is selected, click the “submit” button to upload the file.</p>
+
+<h2 id="correcting-errors-on-intrastat-supplementary-declaration-csv-files">Correcting errors on Intrastat Supplementary Declaration <abbr title="Comma Separated Variable">CSV</abbr> files</h2>
+
+<p>Validation is done in two stages. Any errors on the header rows will generate a bad header screen. The data is then validated. Any errors found in the data will show on the submission error screen.</p>
+
+<p>Error-free files will show on the confirm submission screen. To transmit the files, click the “confirm” button. To abort the transmission, click the “cancel” button.</p>
+
+<p>Validation on large files may take time. As long as you are connected to the internet you can log out and log back in later. At this point, you will see either the confirm submission or the submission error screen.</p>
+
+<h3 id="correcting-errors-on-a-csv-file">Correcting errors on a <abbr title="Comma Separated Variable">CSV</abbr> file</h3>
+
+<p>Errors will be highlighted 50 at a time. Correcting the <abbr title="Comma Separated Variable">CSV</abbr> file in Excel is only slightly more complicated than on an ordinary Excel Spreadsheet. This is because a <abbr title="Comma Separated Variable">CSV</abbr> file is saved in a scientific format and when opened in Excel, it drops leading zeros and reduces the width in some columns.</p>
+
+<p>To correct the file, you will have to:</p>
+
+<ul>
+<li>Widen the 2nd column. This will change 1.23+08 back to your VAT number</li>
+  <li>Return the leading zeros on the period number, date and commodity code</li>
+  <li>Correct the errors, resave the file and resubmit</li>
+</ul>
+<p>The period number, data period number and commodity codes could lose the leading zeros.</p>
+
+<p>To return the zeros, click on the cells and right click the mouse to generate the menu screen. Select “format cells”, and then in the number tab, click on custom. Under “type”, enter the number of zeros required, eg 0000 for period and 00000000 for the commodity code. By clicking “OK” the leading zeros will return or after selecting “format cells” under Number click on “text”.</p>
+
+<h2 id="using-the-intrastat-online-amendment-form">Using the Intrastat online amendment form</h2>
+
+<p>If, after submitting your Intrastat data, you discover an error or some information which is incorrect, you can correct the data using the online amendment form. Complete the online amendment return on the <a rel="external" href="https://www.uktradeinfo.com/Intrastat/ReceiptOfLetter/Pages/AmendmentReturn.aspx">uktradeinfo website.</a></p>
+
+<p>This form contains only the mandatory fields and is suitable for past or current periods of data.</p>
+
+<p>You should complete the top line of the amendment form using the original line details that you have submitted.</p>
+
+<p>Complete only the fields that need to be corrected on the second line and leave the already correct data fields blank.</p>
+
+<p>No action is required on errors relating to the commodity code, value, country from/to, or goods declared in an incorrect period if both the following conditions are met:</p>
+
+<ul>
+<li>the value of an error on a single data line does not exceed £5,000</li>
+  <li>the total value of all the errors on a single Intrastat <abbr title="Intrastat Supplementary Declaration">SD</abbr> does not exceed £50,000</li>
+</ul>
+<p>Please ensure that the information listed below is entered on all the forms, using a separate form for each period and suite:</p>
+
+<ul>
+<li>VAT number</li>
+  <li>company details</li>
+  <li>agent VAT number (if applicable)</li>
+  <li>period and suite</li>
+</ul>
+<p>You can complete the amendment form for boxes 8 and/or 9 of the VAT return on the <a rel="external" href="https://www.uktradeinfo.com/Intrastat/ReceiptOfLetter/Pages/AmendmentReturn.aspx">uktradeinfo website.</a></p>
+
+<h2 id="using-ediedifact-to-submit-intrastat--ec-sales-returns">Using EDI/<abbr title="Electronic Data Interchange for Accounting, Commerce and Transport">EDIFACT</abbr> to submit Intrastat / EC Sales returns</h2>
+
+<p>To submit data electronically by email attachment or via the file must be converted into Electronic Data Interchange for Accounting, Commerce and Transport (<abbr title="Electronic Data Interchange for Accounting, Commerce and Transport">EDIFACT</abbr>) format, which is a United Nations International Standard.</p>
+
+<h3 id="technicalspecifications">Technical specifications</h3>
+
+<p>The Trade Interface Specification (<abbr title="Trade Interface Specification">TIS</abbr>) documents have been prepared to cover all Single European Markets (<abbr title="Single European Markets">SEM</abbr>) and Simplified Procedures electronic data capture issues. They should allow you to design a system that will transmit data.</p>
+
+<h3 id="edifact-tis-documents-and-appendices">
+<abbr title="Electronic Data Interchange for Accounting, Commerce and Transport">EDIFACT</abbr> <abbr title="Trade Interface Specification">TIS</abbr> documents and appendices</h3>
+
+<p>Read the Electronic Data Capture Service Electronic Data Interchange For Accounting Commerce and Transport (EDCS <abbr title="Electronic Data Interchange for Accounting, Commerce and Transport">EDIFACT</abbr> <abbr title="Trade Interface Specification">TIS</abbr>) on the <a rel="external" href="http://customs.hmrc.gov.uk/channelsPortalWebApp/channelsPortalWebApp.portal?_nfpb=true&amp;_pageLabel=pageVAT_ShowContent&amp;id=HMCE_MIG_009979&amp;propertyType=document">HM Revenue &amp; Customs (<abbr title="HM Revenue &amp; Customs">HMRC</abbr>) website.</a> This describes the general arrangement and scope for ATS <abbr title="Electronic Data Interchange for Accounting, Commerce and Transport">EDIFACT</abbr> <abbr title="Trade Interface Specification">TIS</abbr>.</p>
+
+<p>Read the Single European Market Declaration (<abbr title="Single European Market Declaration">SEMDEC</abbr>) - Appendix A for Intra-EU trade statistics and VAT EC sales lists on the <a rel="external" href="http://customs.hmrc.gov.uk/channelsPortalWebApp/channelsPortalWebApp.portal?_nfpb=true&amp;_pageLabel=pageImport_ShowContent&amp;id=HMCE_MIG_009982&amp;propertyType=document"><abbr title="HM Revenue &amp; Customs">HMRC</abbr> website.</a> This contains the <abbr title="Single European Market Declaration">SEMDEC</abbr> for Intra-EU trade statistics and the VAT EC sales lists.</p>
+
+<p>Read the EDCS Technical Interface Specification - Appendix F for Intra-community trade on the <a rel="external" href="http://customs.hmrc.gov.uk/channelsPortalWebApp/channelsPortalWebApp.portal?_nfpb=true&amp;_pageLabel=pageMySite_ShowContent&amp;id=HMCE_MIG_009987&amp;propertyType=document"><abbr title="HM Revenue &amp; Customs">HMRC</abbr> website.</a> INSTAT, Single European Market declaration for Intra-EU trade statistics only (the EU version is acceptable in all Member States)</p>
+
+<p>Read the Statistical and VAT Reconciliation (<abbr title="Statistical and VAT Reconciliation">SAVREC</abbr>) message - Appendix G on the <a rel="external" href="http://customs.hmrc.gov.uk/channelsPortalWebApp/channelsPortalWebApp.portal?_nfpb=true&amp;_pageLabel=pageOnlineServices_ShowContent&amp;id=HMCE_MIG_009984&amp;propertyType=document"><abbr title="HM Revenue &amp; Customs">HMRC</abbr> website.</a> Appendix G - the <abbr title="Statistical and VAT Reconciliation">SAVREC</abbr> message for use with <abbr title="Single European Market Declaration">SEMDEC</abbr> or INSTAT for all Intra-EU trade statistics.</p>
+
+<h3 id="submitting-the-files">Submitting the files</h3>
+
+<p>You can transmit the <abbr title="Electronic Data Interchange for Accounting, Commerce and Transport">EDIFACT</abbr> files via email attachment. Full details are available in the technical specification.</p>
+
+<h2 id="further-information">Further information</h2>
+
+<h3 id="hmrc-tariff-classification-service-enquiry-line">
+<abbr title="HM Revenue &amp; Customs">HMRC</abbr> Tariff Classification Service Enquiry Line</h3>
+<p>01702 366 077</p>
+
+<p><a rel="external" href="https://www.uktradeinfo.com/TradeTools/ICN/Pages/ICNSearch.aspx">Intrastat Classification Nomenclature explained on the uktradeinfo website</a></p>
+
+<p><a rel="external" href="https://www.uktradeinfo.com/intrastat/aboutintrastat/pages/supplementarydeclarations.aspx">Registration to submit your Intrastat Online on the uktradeinfo website</a></p>
+
+<p><a rel="external" href="http://secure.hmce.gov.uk/ecom/is2/static/is2.html">Intrastat <abbr title="Intrastat Supplementary Declaration">SD</abbr> online system on the <abbr title="HM Revenue &amp; Customs">HMRC</abbr> website (registration required)</a></p>
+
+<p><a rel="external" href="http://customs.hmrc.gov.uk/channelsPortalWebApp/channelsPortalWebApp.portal?_nfpb=true&amp;_pageLabel=pageVAT_ShowContent&amp;id=HMCE_CL_000267&amp;propertyType=document">Instrastat guidance on the <abbr title="HM Revenue &amp; Customs">HMRC</abbr> website</a></p>
+
+<p><a rel="external" href="https://www.uktradeinfo.com/aboutus/pages/emailalertservice.aspx">Free email alert service on the uktradeinfo website</a></p>
+
+<p><a rel="external" href="https://www.uktradeinfo.com/Intrastat/ReceiptOfLetter/Pages/AmendmentReturn.aspx">Amendment form for boxes 8 and/or 9 of the VAT return on the uktradeinfo website</a></p>
+
+<p><a rel="external" href="http://customs.hmrc.gov.uk/channelsPortalWebApp/channelsPortalWebApp.portal?_nfpb=true&amp;_pageLabel=pageVAT_ShowContent&amp;id=HMCE_MIG_009979&amp;propertyType=document">ATS <abbr title="Electronic Data Interchange for Accounting, Commerce and Transport">EDIFACT</abbr> <abbr title="Trade Interface Specification">TIS</abbr> on the <abbr title="HM Revenue &amp; Customs">HMRC</abbr> website </a></p>
+
+<p><a rel="external" href="http://customs.hmrc.gov.uk/channelsPortalWebApp/channelsPortalWebApp.portal?_nfpb=true&amp;_pageLabel=pageImport_ShowContent&amp;id=HMCE_PROD_007829&amp;propertyType=document">UNBUNZ Interchange Service Segments on the <abbr title="HM Revenue &amp; Customs">HMRC</abbr> website</a></p>
+
+<p><a rel="external" href="http://customs.hmrc.gov.uk/channelsPortalWebApp/channelsPortalWebApp.portal?_nfpb=true&amp;_pageLabel=pageImport_ShowContent&amp;id=HMCE_MIG_009982&amp;propertyType=document"><abbr title="Single European Market Declaration">SEMDEC</abbr> Single European Market Declaration message - Appendix A on the <abbr title="HM Revenue &amp; Customs">HMRC</abbr> website</a></p>
+
+<p><a rel="external" href="http://customs.hmrc.gov.uk/channelsPortalWebApp/channelsPortalWebApp.portal?_nfpb=true&amp;_pageLabel=pageMySite_ShowContent&amp;id=HMCE_MIG_009987&amp;propertyType=document">EDCS <abbr title="Trade Interface Specification">TIS</abbr> - Appendix F on the <abbr title="HM Revenue &amp; Customs">HMRC</abbr> website</a></p>
+
+<p><a rel="external" href="http://customs.hmrc.gov.uk/channelsPortalWebApp/channelsPortalWebApp.portal?_nfpb=true&amp;_pageLabel=pageImport_ShowContent&amp;id=HMCE_MIG_009984&amp;propertyType=document"><abbr title="Statistical and VAT Reconciliation">SAVREC</abbr> Statistical and VAT Reconciliation message - Appendix G on the <abbr title="HM Revenue &amp; Customs">HMRC</abbr> website</a></p>
+</div>
+  </div>
+</article>
+</div>
+  </div>
+  <div class="block-4">
+    <div class="inner-block">
+      <div class="js-back-to-content back-to-content visuallyhidden">
+        <a href="#page-navigation">Back to contents</a>
+      </div>
+      <aside id="more-like-this" class="aside-more-like-this"><h1>More like this</h1>
+          <section id="guide-categories" class="categories"><div class="inner">
+              <h2>All detailed guidance about</h2>
+              <ul>
+<li class="mainstream_category" id="mainstream_category_42">
+                    <a href="/browse/business/imports-exports/import-and-export-procedures">Import and export procedures</a>
+</li>              </ul>
+</div>
+          </section></aside>
+</div>
+  </div>
+ </div>
+
+      </div>
+    </div>
+
+    <footer class="group" id="footer" role="contentinfo"><div class="beta-notice">
+        <p>This is a <a href="http://digital.cabinetoffice.gov.uk/2012/01/31/beta/">test website</a>, so may be inaccurate or misleading. The official websites remain <a href="http://www.direct.gov.uk">Directgov</a>, <a href="http://www.businesslink.gov.uk/">Business Link</a>, and the website of the <a href="http://www.cabinetoffice.gov.uk/content/list-government-departments-and-ministers">relevant government department or organisation</a></p>
+      </div>
+      <div class="inner group">
+        <div class="colophon-and-help">
+          <nav class="help"><ul>
+<li><a href="/help">Help</a></li>
+              <li><a href="/help/cookies">Cookies</a></li>
+            </ul></nav><div class="colophon">
+            <p>Much of the information on this website is available for reuse under the <a href="http://www.nationalarchives.gov.uk/doc/open-government-licence/" rel="license">Open Government Licence</a></p>
+            <p>Built by the <a href="http://digital.cabinetoffice.gov.uk">Government Digital Service</a></p>
+          </div>
+        </div>
+        <div class="copyright">
+          <a href="http://www.nationalarchives.gov.uk/information-management/our-services/crown-copyright.htm">© Crown Copyright</a>
+        </div>
+      </div>
+    </footer><!--end footer--><div id="global-app-error" class="app-error hidden"></div>
+
+  </body>
+</html>
