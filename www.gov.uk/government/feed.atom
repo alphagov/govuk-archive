@@ -8,207 +8,85 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-11-10T22:55:12+00:00</updated>
+  <updated>2012-11-11T20:58:43+00:00</updated>
   <entry>
-    <id>tag:www.gov.uk,2005:Publication/14142</id>
-    <published>2012-11-10T22:55:12+00:00</published>
-    <updated>2012-11-10T22:55:12+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/maritime-statistics-directive-reporting-guidance"/>
-    <title>Maritime statistics directive reporting guidance</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="summary"&gt;Summary&lt;/h2&gt;
-
-&lt;p&gt;Help for shipping lines, their agents and ports to complete statistical returns on maritime freight traffic through ports, as required by the European Commission Maritime Statistics Directive (95/64/EU).&lt;/p&gt;
-
-&lt;p&gt;&lt;a rel="external" href="http://www.dft.gov.uk/statistics"&gt;View &lt;abbr title="Department for Transport"&gt;DfT&lt;/abbr&gt; maritime statistics&lt;/a&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a rel="external" href="http://www.dft.gov.uk/publications/ecmsd-rules-and-code-lists/"&gt;administrative rules and code lists&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a rel="external" href="http://www.dft.gov.uk/publications/ecmsd-submission-methods/"&gt;submission methods&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a rel="external" href="http://www.dft.gov.uk/publications/ecmsd-faqs/"&gt;frequently asked questions&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a rel="external" href="http://www.dft.gov.uk/topics/ports/uk-maritime-statistics/#contact-us"&gt;contact us&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;h2 id="background-and-legal-basis"&gt;Background and legal basis&lt;/h2&gt;
-
-&lt;p&gt;What is the Maritime Statistics Directive?&lt;/p&gt;
-
-&lt;p&gt;The Maritime Statistics Directive is a piece of European Union legislation passed in December 1995 &lt;a rel="external" href="http://eur-lex.europa.eu/smartapi/cgi/sga_doc?smartapi!celexplus!prod!CELEXnumdoc&amp;amp;lg=EN&amp;amp;numdoc=31995L0064"&gt;Council Directive 96/64/EC&lt;/a&gt; which requires Member States to supply to the Statistical Office of the European Communities (Eurostat) information relating to maritime traffic through its’ ports. The UK has been required to report data under the Directive since 1 January 2000. The &lt;a rel="external" href="http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:141:0029:0047:EN:PDF"&gt;directive was ‘recast’&lt;/a&gt; in 2009, bringing together the original directive and various subsequent amendments in one document.&lt;/p&gt;
-
-&lt;p&gt;Is the provision of data obligatory?&lt;/p&gt;
-
-&lt;p&gt;Yes. The directive requires the government to make collection obligatory in the United Kingdom. The legal powers in the UK are by means of a &lt;a rel="external" href="http://www.legislation.gov.uk/uksi/1997/2330/contents/made"&gt;statutory instrument&lt;/a&gt; under section 2(2) of the European Communities Act 1972. The statutory instrument (number 2330 of 1997) obliges all relevant bodies in the transport industry to provide data to &lt;abbr title="Department for Transport"&gt;DfT&lt;/abbr&gt; for onward transmission to Eurostat.&lt;/p&gt;
-
-&lt;p&gt;Who has to provide the data?&lt;/p&gt;
-
-&lt;p&gt;Although the statutory instrument requires all relevant transport organisations to provide the data, the detailed data has to be provided by the shipping lines or their agents for freight movements through major UK ports (i.e. those handling more than one million tonnes of freight per annum). In addition, port authorities at major ports have to provide quarterly aggregated data to confirm the completeness of the data collected from shipping lines/agents.
-At minor ports (those handling less than 1 million tonnes) only annual aggregate figures are required from port authorities.&lt;/p&gt;
-
-&lt;p&gt;Why are the data collected?&lt;/p&gt;
-
-&lt;p&gt;The data collected under the directive are used by the European Commission to assist in policy development at a European level and to monitor the impact of European policy measures.&lt;/p&gt;
-
-&lt;p&gt;But the UK government has collected statistics on port traffic in the UK since longer before the Directive came in. These have been used by government, business and the wider public in developing and debating maritime transport policy and in planning operations and new ventures. The effect of the Directive was to change the detail of what was already collected in the UK and introduce much more consistency in European port statistics.&lt;/p&gt;
-
-&lt;p&gt;Who is responsible for ensuring collection of data in the UK?&lt;/p&gt;
-
-&lt;p&gt;The government department with overall responsibility for the data collection is the Department for Transport, (&lt;abbr title="Department for Transport"&gt;DfT&lt;/abbr&gt;). It employs a collection agent, BMT Reliability consultants, to carry out the day-to-day operation of the data collection activity.&lt;/p&gt;
-
-&lt;p&gt;Where can I find the results from the data collected?&lt;/p&gt;
-
-&lt;p&gt;The Department for Transport publishes UK data. Eurostat publishes &lt;a rel="external" href="http://epp.eurostat.ec.europa.eu/portal/page/portal/eurostat/home"&gt;Europe-wide data&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;What data has to be collected and how often?&lt;/p&gt;
-
-&lt;p&gt;The Directive requires the collection of statistics on freight traffic, vessels and passenger traffic through ports throughout the European Union. The &lt;abbr title="Department for Transport"&gt;DfT&lt;/abbr&gt; has the means to collect data on vessels and passenger traffic separately, so the system described here relates to the requirements for freight traffic only.&lt;/p&gt;
-
-&lt;p&gt;Data relating to freight traffic is only being collected in detail for UK ports handling more than one million tonnes of freight per annum (‘major ports’). This detailed data includes:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;the reporting port;&lt;/li&gt;
-  &lt;li&gt;the Lloyds Register Number (or IMO Number) for the vessel (or name, flag and deadweight);&lt;/li&gt;
-  &lt;li&gt;the direction of movement (inwards or outwards);&lt;/li&gt;
-  &lt;li&gt;port of loading for inwards cargo or unloading for outwards cargo;&lt;/li&gt;
-  &lt;li&gt;for unitised traffic the type of units (container, accompanied trailer, unaccompanied trailer etc.);&lt;/li&gt;
-  &lt;li&gt;whether they are loaded or empty units;&lt;/li&gt;
-  &lt;li&gt;the number of units and the freight tonnage;&lt;/li&gt;
-  &lt;li&gt;for other traffic, the broad product group and freight tonnage.&lt;/li&gt;
-&lt;/ul&gt;&lt;p&gt;This data has to be provided at least quarterly and is being collected primarily from shipping lines or their agents.&lt;/p&gt;
-
-&lt;p&gt;In addition, the ‘major’ port authorities (where traffic exceeds one million tonnes per annum) are providing the following information on a ‘retrospective’ quarterly basis:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;the names of all shipping lines and agents using their port;&lt;/li&gt;
-  &lt;li&gt;the identity of all vessels using their port; and&lt;/li&gt;
-  &lt;li&gt;the gross weight and number of units of goods in and out of their port.&lt;/li&gt;
-&lt;/ul&gt;&lt;p&gt;Data for other ports, handling less than one million tonnes a year, is being provided only annually in summary form by port authorities. 
-For more see &lt;a rel="external" href="http://www.dft.gov.uk/publications/ecmsd-rules-and-code-lists/"&gt;administrative rules&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;How are the data collected in the UK?&lt;/p&gt;
-
-&lt;p&gt;These range of options are available by which data providers can supply the data:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;by sending the data automatically via a Port Community System&lt;/li&gt;
-  &lt;li&gt;by entering the data through web based forms (iSDES)&lt;/li&gt;
-  &lt;li&gt;by submitting ASCII data files in a &lt;abbr title="Department for Transport"&gt;DfT&lt;/abbr&gt; approved format&lt;/li&gt;
-  &lt;li&gt;by completing paper forms&lt;/li&gt;
-&lt;/ul&gt;&lt;p&gt;The collection agency provide a central database to collect and store the data received by these methods, ready for transmission to &lt;abbr title="Department for Transport"&gt;DfT&lt;/abbr&gt;.&lt;/p&gt;
-
-&lt;p&gt;For more details see &lt;a rel="external" href="http://www.dft.gov.uk/publications/ecmsd-submission-methods/"&gt;submission methods&lt;/a&gt; and &lt;a rel="external" href="http://www.dft.gov.uk/publications/ecmsd-rules-and-code-lists/"&gt;administrative rules&lt;/a&gt;.     &lt;/p&gt;
-
-&lt;p&gt;How can I get further information?&lt;/p&gt;
-
-&lt;p&gt;You can obtain further information from the contacts listed below.&lt;/p&gt;
-
-&lt;h2 id="contact-us"&gt;Contact us&lt;/h2&gt;
-&lt;p&gt;For enquiries about statistical results or general data collection policy please contact:&lt;/p&gt;
-
-&lt;div class="address"&gt;&lt;div class="adr org fn"&gt;&lt;p&gt;
-
-Department for Transport.
-&lt;br&gt;Maritime Statistics Help Desk
-&lt;br&gt;Maritime Statistics Collection Agency
-&lt;br&gt;BMT Reliability Consultants Limited
-&lt;br&gt;12 Little Park Farm Road
-&lt;br&gt;Fareham
-&lt;br&gt;Hampshire
-&lt;br&gt;PO15 5SU
-&lt;br&gt;Tel: 01489 553290
-&lt;br&gt;Fax: 01489 553291
-&lt;br&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;To ask questions/send messages to the help desk:
-&lt;a href="help@maritimestatistics.co.uk"&gt;help@maritimestatistics.co.uk&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;For help with providing data please contact the Maritime Statistics Help Desk.&lt;/p&gt;
-
-&lt;p&gt;To submit data:
-&lt;a href="data@maritimestatistics.co.uk"&gt;data@maritimestatistics.co.uk&lt;/a&gt;&lt;/p&gt;
-
-&lt;div class="address"&gt;&lt;div class="adr org fn"&gt;&lt;p&gt;
-
-Department for Transport
-&lt;br&gt;Maritime Statistics Branch
-&lt;br&gt;Department for Transport
-&lt;br&gt;Zone 2/19
-&lt;br&gt;Great Minster House
-&lt;br&gt;76 Marsham Street
-&lt;br&gt;London
-&lt;br&gt;SW1P 4DR
-&lt;br&gt;Tel: 020 7944 3087
-&lt;br&gt;Fax: 020 7944 2165
-&lt;br&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;&lt;a href="maritime.statistics@dft.gsi.gov.uk"&gt;maritime.statistics@dft.gsi.gov.uk&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</content>
+    <id>tag:www.gov.uk,2005:Publication/10882</id>
+    <published>2012-11-11T20:58:43+00:00</published>
+    <updated>2012-11-11T20:58:43+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/dual-control-cars-and-incidents-on-driving-tests"/>
+    <title>Dual control cars and incidents on driving tests</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The number of incidents that have happened on driving tests over the last 5 years in cars that were not fitted with dual controls.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:Publication/10615</id>
-    <published>2012-11-10T21:46:17+00:00</published>
-    <updated>2012-11-10T21:46:17+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/traffic-signs-in-exeter"/>
-    <title>Traffic signs in Exeter</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Request for details of all correspondence since 1 November 2006 between the separtment and Devon County Council regarding the traffic signs and lines in High Street and Queen Street, Exeter.&lt;/p&gt;&lt;/div&gt;</content>
+    <id>tag:www.gov.uk,2005:Publication/10845</id>
+    <published>2012-11-11T20:49:37+00:00</published>
+    <updated>2012-11-11T20:49:37+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/eu-third-directive-information-driving-test-examiner-training-requirements"/>
+    <title>EU third directive information - driving test examiner training requirements</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Minutes of all meetings containing information on the EU Third Directive concerning driving test examiner training requirements.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:Publication/10550</id>
-    <published>2012-11-10T21:41:13+00:00</published>
-    <updated>2012-11-10T21:41:13+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/correspondence-about-signing-in-fleet-road-in-fleet"/>
-    <title>Correspondence about signing in Fleet Road in Fleet</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Information request about correspondence relating to signing in Fleet Road in Fleet.&lt;/p&gt;&lt;/div&gt;</content>
+    <id>tag:www.gov.uk,2005:Publication/10836</id>
+    <published>2012-11-11T20:47:39+00:00</published>
+    <updated>2012-11-11T20:47:39+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/motorcycle-practical-riding-test-statistics-by-sub-category"/>
+    <title>Motorcycle practical riding test statistics by sub-category</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Information about motorcycle test statistics, broken down by sub-category A, A1 and A2 and month.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:Publication/10686</id>
-    <published>2012-11-10T21:34:19+00:00</published>
-    <updated>2012-11-10T21:34:19+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/asbestos-abatement"/>
-    <title>Asbestos abatement</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Request for information about how much the department has spent on asbestos abatement within it’s estate, broken down in £, by year from 2000-2010 and by white, brown and blue asbestos abated.&lt;/p&gt;&lt;/div&gt;</content>
+    <id>tag:www.gov.uk,2005:Publication/10862</id>
+    <published>2012-11-11T20:46:24+00:00</published>
+    <updated>2012-11-11T20:46:24+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/category-c-c1-and-c-e-practical-driving-tests-passed-and-failed"/>
+    <title>Category C, C1 and C+E practical driving tests passed and failed</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Number of C, C1 and C+E tests passed and failed for each of the financial years from 2005 to 2010.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:Publication/10684</id>
-    <published>2012-11-10T21:29:27+00:00</published>
-    <updated>2012-11-10T21:29:27+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/dft-office-space"/>
-    <title>DfT office space</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Request for information about the Department for Transport’s office space.&lt;/p&gt;&lt;/div&gt;</content>
+    <id>tag:www.gov.uk,2005:Publication/10858</id>
+    <published>2012-11-11T20:44:53+00:00</published>
+    <updated>2012-11-11T20:44:53+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/car-practical-driving-test-cancellations-for-2010"/>
+    <title>Car practical driving test cancellations for 2010</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The number of car practical tests applied for, number of tests cancelled and the reason for cancellation for the 2010 calendar year.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:Publication/10753</id>
-    <published>2012-11-10T21:23:57+00:00</published>
-    <updated>2012-11-10T21:23:57+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/public-electrical-vehicle-charge-points"/>
-    <title>Public electrical vehicle charge points</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Response to request for information regarding public electrical vehicle charge points.&lt;/p&gt;&lt;/div&gt;</content>
+    <id>tag:www.gov.uk,2005:Publication/10849</id>
+    <published>2012-11-11T20:43:33+00:00</published>
+    <updated>2012-11-11T20:43:33+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/motorcycle-module-1-practical-riding-test-incidents-for-2009-to-2010"/>
+    <title>Motorcycle module 1 practical riding test incidents for 2009 to 2010</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The number of incidents that occurred on the module 1 motorcycle test broken down by month and category for the financial year 2009 to 2010.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:Publication/10623</id>
-    <published>2012-11-10T21:19:42+00:00</published>
-    <updated>2012-11-10T21:19:42+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/cycle-rail-task-force"/>
-    <title>Cycle-Rail Task Force</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Request for information relating to the Cycle Rail Integration Taskforce (&lt;abbr title="Cycle Rail Integration Taskforce"&gt;CRIT&lt;/abbr&gt;).&lt;/p&gt;&lt;/div&gt;</content>
+    <id>tag:www.gov.uk,2005:Publication/10866</id>
+    <published>2012-11-11T20:41:24+00:00</published>
+    <updated>2012-11-11T20:41:24+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/operational-driving-test-centre-closures"/>
+    <title>Operational driving test centre closures</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Information about car driving test centres that DSA is scheduled to close up until 6 April 2016.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:Publication/10626</id>
-    <published>2012-11-10T21:16:49+00:00</published>
-    <updated>2012-11-10T21:16:49+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/report-on-transport-management-and-policing-integration"/>
-    <title>Report on transport management and policing integration</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Request for information relating to the report ‘Transport management and policing integration’ and details of all internal &lt;abbr title="Department for Transport"&gt;DfT&lt;/abbr&gt; correspondence relating to the recommendations/conclusions set out in the report in addition to copies of correspondence between the department and the British Transport Police Authority about the report.&lt;/p&gt;&lt;/div&gt;</content>
+    <id>tag:www.gov.uk,2005:Publication/10864</id>
+    <published>2012-11-11T20:38:58+00:00</published>
+    <updated>2012-11-11T20:38:58+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/approved-driving-instructors-on-the-register-by-grade"/>
+    <title>Approved driving instructors on the register by grade</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The number of approved driving instructors (ADIs) on the register split by grade, as of 1 March 2011.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:Publication/10612</id>
-    <published>2012-11-10T21:08:36+00:00</published>
-    <updated>2012-11-10T21:08:36+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/a1-gateshead-and-newcastle-bypass"/>
-    <title>A1 Gateshead and Newcastle bypass</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Request for information about the A1 Gateshead &amp;amp; Newcastle bypass.&lt;/p&gt;&lt;/div&gt;</content>
+    <id>tag:www.gov.uk,2005:Publication/10826</id>
+    <published>2012-11-11T20:37:53+00:00</published>
+    <updated>2012-11-11T20:37:53+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/large-goods-vehicle-and-driver-cpc-statistics"/>
+    <title>Large goods vehicle and Driver CPC statistics</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Information on large goods vehicle and Driver Certificate of Professional Competence statistics.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:Publication/10620</id>
-    <published>2012-11-10T21:05:12+00:00</published>
-    <updated>2012-11-10T21:05:12+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/proposed-extension-to-the-northern-line"/>
-    <title>Proposed extension to the Northern line</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Information on the proposed extension to the Northern line.&lt;/p&gt;&lt;/div&gt;</content>
+    <id>tag:www.gov.uk,2005:Publication/10837</id>
+    <published>2012-11-11T20:35:51+00:00</published>
+    <updated>2012-11-11T20:35:51+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/driving-test-cancellations-at-gosforth-from-29-november-to-24-december-2010"/>
+    <title>Driving test cancellations at Gosforth from 29 November to 24 December 2010</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Information on driving test cancellations at Gosforth large goods vehicle test centre from 29 November to 24 December 2010.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
 </feed>
