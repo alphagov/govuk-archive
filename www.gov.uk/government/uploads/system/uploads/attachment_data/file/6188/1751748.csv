@@ -1,0 +1,925 @@
+Parent Department,Organisation,Unit,Reporting SCS post reference,Grade,Payscale minimum,Payscale maximum,Generic job title,Number of such posts in FTE,Notes
+Department for Business Innovation and Skills,Government Office Network,GO East Midlands,GO002,Administrative Officer,16457,18414,Administrative Officer,0.5,
+Department for Business Innovation and Skills,Government Office Network,GO East Midlands,GO002,Executive Officer,19927,23582,Executive Officer,1.0,
+Department for Business Innovation and Skills,Government Office Network,GO East Midlands,GO002,Higher Executive Officer,26676,29599,Higher Executive Officer,3.0,
+Department for Business Innovation and Skills,Government Office Network,GO East Midlands,GO002,Senior Executive Officer,32599,36177,Senior Executive Officer,1.0,
+"Department for Children, Schools and Families",Government Office Network,GO East Midlands,GO002,Higher Executive Officer,26676,29599,Higher Executive Officer,1.0,
+"Department for Children, Schools and Families",Government Office Network,GO East Midlands,GO002,Senior Executive Officer,32599,36177,Senior Executive Officer,1.0,
+Department for Communities and Local Government,Government Office Network,GO East Midlands,GO002,Executive Officer,19927,23582,Executive Officer,1.0,
+Department for Communities and Local Government,Government Office Network,GO East Midlands,GO002,Higher Executive Officer,26676,29599,Higher Executive Officer,3.0,
+Department for Business Innovation and Skills,Government Office Network,GO London,GO003,Administrative Officer,21267,23814,Administrative Officer,1.0,
+Department for Business Innovation and Skills,Government Office Network,GO London,GO003,Executive Officer,24730,29277,Executive Officer,2.0,
+Department for Business Innovation and Skills,Government Office Network,GO London,GO003,Grade 6,58899,73498,Grade 6,1.0,
+Department for Business Innovation and Skills,Government Office Network,GO London,GO003,Higher Executive Officer,30858,34274,Higher Executive Officer,3.0,
+"Department for Children, Schools and Families",Government Office Network,GO London,GO003,Administrative Officer,21267,23814,Administrative Officer,1.0,
+"Department for Children, Schools and Families",Government Office Network,GO London,GO003,Grade 7,49363,61151,Grade 7,1.0,
+"Department for Children, Schools and Families",Government Office Network,GO London,GO003,Higher Executive Officer,30858,34274,Higher Executive Officer,1.0,
+Department for Communities and Local Government,Government Office Network,GO London,GO003,Executive Officer,24730,29277,Executive Officer,1.0,
+"Department for Environment, Food and Rural Affairs",Government Office Network,GO London,GO003,Administrative Officer,21267,23814,Administrative Officer,1.0,
+"Department for Environment, Food and Rural Affairs",Government Office Network,GO London,GO003,Executive Officer,24730,29277,Executive Officer,1.0,
+Department for Transport,Government Office Network,GO London,GO003,Higher Executive Officer,30858,34274,Higher Executive Officer,1.0,
+"Department for Children, Schools and Families",Government Office Network,GO Network Centre and Services,GO004,Grade 7,49363,61151,Grade 7,1.0,
+"Department for Children, Schools and Families",Government Office Network,GO Network Centre and Services,GO004,Senior Executive Officer,37612,41762,Senior Executive Officer,1.0,
+Home Office,Government Office Network,GO Network Centre and Services,GO004,Executive Officer,24730,29277,Executive Officer,1.0,
+Home Office,Government Office Network,GO Network Centre and Services,GO004,Grade 6,58899,73498,Grade 6,1.0,
+Department for Business Innovation and Skills,Government Office Network,GO North East,GO005,Grade 7,44509,54946,Grade 7,1.0,
+Department for Business Innovation and Skills,Government Office Network,GO North East,GO005,Higher Executive Officer,26676,29599,Higher Executive Officer,2.8,
+Department for Business Innovation and Skills,Government Office Network,GO North East,GO005,Senior Executive Officer,32599,36177,Senior Executive Officer,1.0,
+"Department for Children, Schools and Families",Government Office Network,GO North East,GO005,Higher Executive Officer,26676,29599,Higher Executive Officer,1.0,
+Department for Communities and Local Government,Government Office Network,GO North East,GO005,Executive Officer,19927,23582,Executive Officer,2.0,
+Department for Communities and Local Government,Government Office Network,GO North East,GO005,Higher Executive Officer,26676,29599,Higher Executive Officer,1.0,
+Home Office,Government Office Network,GO North East,GO005,Personal Secretary,16457,18414,Personal Secretary,1.0,Recorded as AO level on organogram
+Department for Business Innovation and Skills,Government Office Network,GO North West,GO006,Executive Officer,19927,23582,Executive Officer,2.0,
+Department for Business Innovation and Skills,Government Office Network,GO North West,GO006,Grade 7,44509,54946,Grade 7,1.0
+Department for Business Innovation and Skills,Government Office Network,GO North West,GO006,Higher Executive Officer,26676,29599,Higher Executive Officer,6.5
+Department for Business Innovation and Skills,Government Office Network,GO North West,GO006,Senior Executive Officer,32599,36177,Senior Executive Officer,1.0
+"Department for Children, Schools and Families",Government Office Network,GO North West,GO006,Higher Executive Officer,26676,29599,Higher Executive Officer,2.0
+Department for Communities and Local Government,Government Office Network,GO North West,GO006,Executive Officer,19927,23582,Executive Officer,1.0
+Department for Business Innovation and Skills,Government Office Network,GO South East,GO007,Administrative Officer,19133,22095,Administrative Officer,1.6
+Department for Business Innovation and Skills,Government Office Network,GO South East,GO007,Executive Officer,22628,26958,Executive Officer,2.0
+Department for Business Innovation and Skills,Government Office Network,GO South East,GO007,Grade 7,47556,59827,Grade 7,1.0
+Department for Business Innovation and Skills,Government Office Network,GO South East,GO007,Higher Executive Officer,29289,33220,Higher Executive Officer,3.8
+Department for Business Innovation and Skills,Government Office Network,GO South East,GO007,Senior Executive Officer,35316,40071,Senior Executive Officer,1.7
+"Department for Environment, Food and Rural Affairs",Government Office Network,GO South East,GO007,Higher Executive Officer,29289,33220,Higher Executive Officer,0.6
+Department for Business Innovation and Skills,Government Office Network,GO South West,GO008,Administrative Officer,16457,18414,Administrative Officer,1.0
+Department for Business Innovation and Skills,Government Office Network,GO South West,GO008,Executive Officer,19927,23582,Executive Officer,2.4
+Department for Business Innovation and Skills,Government Office Network,GO South West,GO008,Grade 7,44509,54946,Grade 7,1.0
+Department for Business Innovation and Skills,Government Office Network,GO South West,GO008,Higher Executive Officer,26676,29599,Higher Executive Officer,2.0
+Department for Business Innovation and Skills,Government Office Network,GO South West,GO008,Senior Executive Officer,32599,36177,Senior Executive Officer,1.0
+"Department for Children, Schools and Families",Government Office Network,GO South West,GO008,Higher Executive Officer,26676,29599,Higher Executive Officer,0.5
+Department for Transport,Government Office Network,GO South West,GO008,Executive Officer,19927,23582,Executive Officer,1.0
+Department for Business Innovation and Skills,Government Office Network,GO West Midlands,GO009,Executive Officer,19927,23582,Executive Officer,0.8
+Department for Business Innovation and Skills,Government Office Network,GO West Midlands,GO009,Grade 7,44509,54946,Grade 7,1.0
+Department for Business Innovation and Skills,Government Office Network,GO West Midlands,GO009,Higher Executive Officer,26676,29599,Higher Executive Officer,2.5
+Department for Business Innovation and Skills,Government Office Network,GO West Midlands,GO009,Senior Executive Officer,32599,36177,Senior Executive Officer,0.8
+"Department for Children, Schools and Families",Government Office Network,GO West Midlands,GO009,Executive Officer,19927,23582,Executive Officer,1.0
+"Department for Children, Schools and Families",Government Office Network,GO West Midlands,GO009,Higher Executive Officer,26676,29599,Higher Executive Officer,2.0
+Department for Communities and Local Government,Government Office Network,GO West Midlands,GO009,Higher Executive Officer,26676,29599,Higher Executive Officer,1.0
+Home Office,Government Office Network,GO West Midlands,GO009,Higher Executive Officer,26676,29599,Higher Executive Officer,0.8
+Department for Business Innovation and Skills,Government Office Network,GO Yorkshire and Humber,GO010,Executive Officer,19927,23582,Executive Officer,4.6
+Department for Business Innovation and Skills,Government Office Network,GO Yorkshire and Humber,GO010,Higher Executive Officer,26676,29599,Higher Executive Officer,1.0
+"Department for Children, Schools and Families",Government Office Network,GO Yorkshire and Humber,GO010,Executive Officer,19927,23582,Executive Officer,0.6
+"Department for Children, Schools and Families",Government Office Network,GO Yorkshire and Humber,GO010,Grade 7,44509,54946,Grade 7,1.0
+Department for Communities and Local Government,Government Office Network,GO Yorkshire and Humber,GO010,Executive Officer,19927,23582,Executive Officer,1.6
+Department for Communities and Local Government,Government Office Network,GO Yorkshire and Humber,GO010,Senior Executive Officer,32599,36177,Senior Executive Officer,1.0
+"Department for Environment, Food and Rural Affairs",Government Office Network,GO Yorkshire and Humber,GO010,Higher Executive Officer,26676,29599,Higher Executive Officer,1.0,
+Department for Transport,Government Office Network,GO Yorkshire and Humber,GO010,Higher Executive Officer,26676,29599,Higher Executive Officer,0.6,
+Department for Business Innovation and Skills,Government Office Network,GO North West,GO011,Executive Officer,19927,23582,Executive Officer,1.0,
+Department for Business Innovation and Skills,Government Office Network,GO North West,GO011,Senior Executive Officer,32599,36177,Senior Executive Officer,1.6,
+"Department for Children, Schools and Families",Government Office Network,GO North West,GO011,Executive Officer,19927,23582,Executive Officer,3.9,
+"Department for Children, Schools and Families",Government Office Network,GO North West,GO011,Grade 7,44509,54946,Grade 7,2.8,
+"Department for Children, Schools and Families",Government Office Network,GO North West,GO011,Higher Executive Officer,26676,29599,Higher Executive Officer,2.0,
+"Department for Children, Schools and Families",Government Office Network,GO North West,GO011,Senior Executive Officer,32599,36177,Senior Executive Officer,3.0,
+Department for Communities and Local Government,Government Office Network,GO North West,GO011,Administrative Officer,16457,18414,Administrative Officer,3.0,
+Department for Communities and Local Government,Government Office Network,GO North West,GO011,Executive Officer,19927,23582,Executive Officer,2.9,
+Department for Communities and Local Government,Government Office Network,GO North West,GO011,Grade 7,44509,54946,Grade 7,7.6,
+Department for Communities and Local Government,Government Office Network,GO North West,GO011,Higher Executive Officer,26676,29599,Higher Executive Officer,6.0,
+Department for Communities and Local Government,Government Office Network,GO North West,GO011,Mapping & Charting Officer,24377,28852,Mapping & Charting Officer,1.0,Recorded as EO level on organogram
+Department for Communities and Local Government,Government Office Network,GO North West,GO011,Personal Secretary,16457,18414,Personal Secretary,0.5,Recorded as AO level on organogram
+Department for Communities and Local Government,Government Office Network,GO North West,GO011,Senior Executive Officer,32599,36177,Senior Executive Officer,2.6,
+"Department for Environment, Food and Rural Affairs",Government Office Network,GO North West,GO011,Higher Executive Officer,26676,29599,Higher Executive Officer,1.0,
+"Department for Environment, Food and Rural Affairs",Government Office Network,GO North West,GO011,Senior Executive Officer,32599,36177,Senior Executive Officer,2.0,
+Department for Transport,Government Office Network,GO North West,GO011,Executive Officer,19927,23582,Executive Officer,1.0,
+Department for Transport,Government Office Network,GO North West,GO011,Senior Executive Officer,32599,36177,Senior Executive Officer,1.0,
+Home Office,Government Office Network,GO North West,GO011,Executive Officer,19927,23582,Executive Officer,2.0,
+Home Office,Government Office Network,GO North West,GO011,Grade 6,54490,67506,Grade 6,2.0,
+Home Office,Government Office Network,GO North West,GO011,Grade 7,44509,54946,Grade 7,2.0,
+Home Office,Government Office Network,GO North West,GO011,HEO (D),27000,35000,HEO (D),1.0,HEO (D) staff are Fast Streamers
+Home Office,Government Office Network,GO North West,GO011,Higher Executive Officer,26676,29599,Higher Executive Officer,1.0,
+Department for Business Innovation and Skills,Government Office Network,GO West Midlands,GO012,Grade 7,44509,54946,Grade 7,1.0,
+Department for Business Innovation and Skills,Government Office Network,GO West Midlands,GO012,Higher Executive Officer,26676,29599,Higher Executive Officer,1.0,
+Department for Business Innovation and Skills,Government Office Network,GO West Midlands,GO012,Senior Executive Officer,32599,36177,Senior Executive Officer,1.0,
+Department for Communities and Local Government,Government Office Network,GO West Midlands,GO012,Executive Officer,19927,23582,Executive Officer,1.0,
+Department for Communities and Local Government,Government Office Network,GO West Midlands,GO012,Personal Secretary,16457,18414,Personal Secretary,0.6,Recorded as AO level on organogram
+Department for Communities and Local Government,Government Office Network,GO West Midlands,GO012,Senior Executive Officer,32599,36177,Senior Executive Officer,1.0,
+"Department for Environment, Food and Rural Affairs",Government Office Network,GO West Midlands,GO012,Higher Executive Officer,26676,29599,Higher Executive Officer,0.9,
+Department for Transport,Government Office Network,GO West Midlands,GO012,Higher Professional & Technical Officer,31737,35255,Higher Professional & Technical Officer,1.0,Recorded as HEO level on organogram
+Department for Business Innovation and Skills,Government Office Network,GO East,GO013,Higher Executive Officer,26676,29599,Higher Executive Officer,4.0
+Department for Business Innovation and Skills,Government Office Network,GO East,GO013,Senior Executive Officer,32599,36177,Senior Executive Officer,1.0
+"Department for Children, Schools and Families",Government Office Network,GO East,GO013,Grade 7,44509,54946,Grade 7,2.0
+"Department for Children, Schools and Families",Government Office Network,GO East,GO013,Senior Executive Officer,32599,36177,Senior Executive Officer,1.0
+Department for Communities and Local Government,Government Office Network,GO East,GO013,Administrative Officer,16457,18414,Administrative Officer,1.0
+Department for Communities and Local Government,Government Office Network,GO East,GO013,Executive Officer,19927,23582,Executive Officer,7.0
+Department for Communities and Local Government,Government Office Network,GO East,GO013,Grade 6,54490,67506,Grade 6,1.0
+Department for Communities and Local Government,Government Office Network,GO East,GO013,Grade 7,44509,54946,Grade 7,2.6
+Department for Communities and Local Government,Government Office Network,GO East,GO013,Higher Executive Officer,26676,29599,Higher Executive Officer,5.0
+Department for Communities and Local Government,Government Office Network,GO East,GO013,Senior Executive Officer,32599,36177,Senior Executive Officer,2.0
+"Department for Environment, Food and Rural Affairs",Government Office Network,GO East,GO013,Administrative Officer,16457,18414,Administrative Officer,1.0
+"Department for Environment, Food and Rural Affairs",Government Office Network,GO East,GO013,Executive Officer,19927,23582,Executive Officer,1.0
+"Department for Environment, Food and Rural Affairs",Government Office Network,GO East,GO013,Grade 7,44509,54946,Grade 7,3.0
+"Department for Environment, Food and Rural Affairs",Government Office Network,GO East,GO013,Higher Executive Officer,26676,29599,Higher Executive Officer,3.6
+Department for Work and Pensions,Government Office Network,GO East,GO013,Grade 7,44509,54946,Grade 7,1.0
+Department for Work and Pensions,Government Office Network,GO East,GO013,Senior Executive Officer,32599,36177,Senior Executive Officer,2.0
+Department for Work and Pensions,Government Office Network,GO East,GO013,Senior Information Officer,37371,40767,Senior Information Officer,1.0,Recorded as SEO level on organogram
+Home Office,Government Office Network,GO East,GO013,Executive Officer,19927,23582,Executive Officer,1.0,
+Home Office,Government Office Network,GO East,GO013,Grade 6,54490,67506,Grade 6,1.0,
+Ministry of Defence,Government Office Network,GO East,GO013,Senior Executive Officer,32599,36177,Senior Executive Officer,1.0,
+Department for Business Innovation and Skills,Government Office Network,GO East,GO014,Administrative Officer,16457,18414,Administrative Officer,1.0,
+Department for Business Innovation and Skills,Government Office Network,GO East,GO014,Higher Executive Officer,26676,29599,Higher Executive Officer,1.0,
+"Department for Children, Schools and Families",Government Office Network,GO East,GO014,Grade 7,44509,54946,Grade 7,1.0,
+"Department for Children, Schools and Families",Government Office Network,GO East,GO014,Higher Executive Officer,26676,29599,Higher Executive Officer,1.0,
+Department for Communities and Local Government,Government Office Network,GO East,GO014,Executive Officer,19927,23582,Executive Officer,2.0,
+Department for Communities and Local Government,Government Office Network,GO East,GO014,Grade 6,54490,67506,Grade 6,2.0,
+Department for Communities and Local Government,Government Office Network,GO East,GO014,Grade 7,44509,54946,Grade 7,2.9,
+Department for Communities and Local Government,Government Office Network,GO East,GO014,Higher Executive Officer,26676,29599,Higher Executive Officer,2.0,
+Department for Communities and Local Government,Government Office Network,GO East,GO014,Higher Professional & Technical Officer,31737,35255,Higher Professional & Technical Officer,2.0,Recorded as HEO level on organogram
+Department for Communities and Local Government,Government Office Network,GO East,GO014,Senior Executive Officer,32599,36177,Senior Executive Officer,1.0,
+Department for Communities and Local Government,Government Office Network,GO East,GO014,Senior Planning Officer,40640,45139,Senior Planning Officer,3.0,Recorded as SEO level on organogram
+"Department for Environment, Food and Rural Affairs",Government Office Network,GO East,GO014,Executive Officer,19927,23582,Executive Officer,0.8,
+"Department for Environment, Food and Rural Affairs",Government Office Network,GO East,GO014,Grade 7,44509,54946,Grade 7,1.0,
+"Department for Environment, Food and Rural Affairs",Government Office Network,GO East,GO014,Higher Executive Officer,26676,29599,Higher Executive Officer,3.4,
+"Department for Environment, Food and Rural Affairs",Government Office Network,GO East,GO014,Senior Executive Officer,32599,36177,Senior Executive Officer,1.0,
+"Department for Environment, Food and Rural Affairs",Government Office Network,GO East,GO014,Senior Planning Officer,40640,45139,Senior Planning Officer,1.6,Recorded as SEO level on organogram
+Department for Transport,Government Office Network,GO East,GO014,Grade 7,44509,54946,Grade 7,2.0,
+Department for Transport,Government Office Network,GO East,GO014,Higher Professional & Technical Officer,31737,35255,Higher Professional & Technical Officer,0.9,Recorded as HEO level on organogram
+Home Office,Government Office Network,GO East,GO014,Executive Officer,19927,23582,Executive Officer,2.0,
+Department for Business Innovation and Skills,Government Office Network,GO East,GO015,Grade 7,44509,54946,Grade 7,2.0,
+Department for Business Innovation and Skills,Government Office Network,GO East,GO015,Higher Executive Officer,26676,29599,Higher Executive Officer,1.0,
+Department for Business Innovation and Skills,Government Office Network,GO East,GO015,Senior Executive Officer,32599,36177,Senior Executive Officer,1.0,
+"Department for Children, Schools and Families",Government Office Network,GO East,GO015,Grade 7,44509,54946,Grade 7,1.9,
+"Department for Children, Schools and Families",Government Office Network,GO East,GO015,Higher Executive Officer,26676,29599,Higher Executive Officer,1.0,
+"Department for Children, Schools and Families",Government Office Network,GO East,GO015,Senior Executive Officer,32599,36177,Senior Executive Officer,3.0,
+Department for Communities and Local Government,Government Office Network,GO East,GO015,Executive Officer,19927,23582,Executive Officer,1.0,
+Department for Communities and Local Government,Government Office Network,GO East,GO015,Higher Executive Officer,26676,29599,Higher Executive Officer,0.8,
+Department for Communities and Local Government,Government Office Network,GO East,GO015,Senior Executive Officer,32599,36177,Senior Executive Officer,2.4,
+"Department for Environment, Food and Rural Affairs",Government Office Network,GO East,GO015,Administrative Officer,16457,18414,Administrative Officer,1.0
+"Department for Environment, Food and Rural Affairs",Government Office Network,GO East,GO015,Grade 6,54490,67506,Grade 6,1.0
+"Department for Environment, Food and Rural Affairs",Government Office Network,GO East,GO015,Grade 7,44509,54946,Grade 7,2.0
+"Department for Environment, Food and Rural Affairs",Government Office Network,GO East,GO015,Higher Executive Officer,26676,29599,Higher Executive Officer,1.0
+"Department for Environment, Food and Rural Affairs",Government Office Network,GO East,GO015,Senior Executive Officer,32599,36177,Senior Executive Officer,2.0
+Department for Transport,Government Office Network,GO East,GO015,Senior Executive Officer,32599,36177,Senior Executive Officer,1.0
+"Department for Children, Schools and Families",Government Office Network,GO East,GO016,Grade 7,44509,54946,Grade 7,4.6
+"Department for Children, Schools and Families",Government Office Network,GO East,GO016,Senior Executive Officer,32599,36177,Senior Executive Officer,1.0
+Department for Communities and Local Government,Government Office Network,GO East,GO016,Administrative Officer,16457,18414,Administrative Officer,0.5
+Department for Communities and Local Government,Government Office Network,GO East,GO016,Executive Officer,19927,23582,Executive Officer,1.0
+Department for Communities and Local Government,Government Office Network,GO East,GO016,Higher Executive Officer,26676,29599,Higher Executive Officer,1.0
+Department for Communities and Local Government,Government Office Network,GO East,GO016,Senior Executive Officer,32599,36177,Senior Executive Officer,2.7
+"Department for Environment, Food and Rural Affairs",Government Office Network,GO East,GO016,Administrative Officer,16457,18414,Administrative Officer,0.8
+"Department for Environment, Food and Rural Affairs",Government Office Network,GO East,GO016,Senior Executive Officer,32599,36177,Senior Executive Officer,2.0
+Home Office,Government Office Network,GO East,GO016,Executive Officer,19927,23582,Executive Officer,1.0
+Home Office,Government Office Network,GO East,GO016,Grade 7,44509,54946,Grade 7,1.7
+Department for Business Innovation and Skills,Government Office Network,GO East,GO017,Executive Officer,19927,23582,Executive Officer,1.0
+Department for Business Innovation and Skills,Government Office Network,GO East,GO017,Grade 7,44509,54946,Grade 7,0.8
+Department for Business Innovation and Skills,Government Office Network,GO East,GO017,Senior Executive Officer,32599,36177,Senior Executive Officer,1.9
+"Department for Children, Schools and Families",Government Office Network,GO East,GO017,Grade 7,44509,54946,Grade 7,1.0
+"Department for Children, Schools and Families",Government Office Network,GO East,GO017,Senior Executive Officer,32599,36177,Senior Executive Officer,2.9
+Department for Communities and Local Government,Government Office Network,GO East,GO017,Grade 6,54490,67506,Grade 6,1.0
+Department for Communities and Local Government,Government Office Network,GO East,GO017,Higher Executive Officer,26676,29599,Higher Executive Officer,1.0
+Department for Communities and Local Government,Government Office Network,GO East,GO017,Senior Executive Officer,32599,36177,Senior Executive Officer,4.0
+"Department for Environment, Food and Rural Affairs",Government Office Network,GO East,GO017,Executive Officer,19927,23582,Executive Officer,1.0
+"Department for Environment, Food and Rural Affairs",Government Office Network,GO East,GO017,Grade 7,44509,54946,Grade 7,1.0
+"Department for Environment, Food and Rural Affairs",Government Office Network,GO East,GO017,Senior Executive Officer,32599,36177,Senior Executive Officer,3.0
+Department for Transport,Government Office Network,GO East,GO017,Senior Executive Officer,32599,36177,Senior Executive Officer,2.0
+Home Office,Government Office Network,GO East,GO017,Grade 7,44509,54946,Grade 7,2.0
+Home Office,Government Office Network,GO East,GO017,Senior Executive Officer,32599,36177,Senior Executive Officer,1.0
+Department for Business Innovation and Skills,Government Office Network,GO East,GO018,Higher Executive Officer,26676,29599,Higher Executive Officer,0.6
+"Department for Children, Schools and Families",Government Office Network,GO East,GO018,Executive Officer,19927,23582,Executive Officer,1.0
+"Department for Children, Schools and Families",Government Office Network,GO East,GO018,Grade 6,54490,67506,Grade 6,0.9
+"Department for Children, Schools and Families",Government Office Network,GO East,GO018,Grade 7,44509,54946,Grade 7,3.0
+"Department for Children, Schools and Families",Government Office Network,GO East,GO018,Higher Executive Officer,26676,29599,Higher Executive Officer,3.0
+"Department for Children, Schools and Families",Government Office Network,GO East,GO018,Senior Executive Officer,32599,36177,Senior Executive Officer,1.9
+Department for Communities and Local Government,Government Office Network,GO East,GO018,Executive Officer,19927,23582,Executive Officer,2.0
+Department for Communities and Local Government,Government Office Network,GO East,GO018,Grade 7,44509,54946,Grade 7,1.0
+Department for Communities and Local Government,Government Office Network,GO East,GO018,Higher Executive Officer,26676,29599,Higher Executive Officer,4.3
+Department for Communities and Local Government,Government Office Network,GO East,GO018,Senior Executive Officer,32599,36177,Senior Executive Officer,1.6
+"Department for Environment, Food and Rural Affairs",Government Office Network,GO East,GO018,Senior Executive Officer,32599,36177,Senior Executive Officer,1.0
+Department for Transport,Government Office Network,GO East,GO018,Grade 7,44509,54946,Grade 7,1.0
+Home Office,Government Office Network,GO East,GO018,Senior Executive Officer,32599,36177,Senior Executive Officer,0.8
+Department for Business Innovation and Skills,Government Office Network,GO East Midlands,GO019,Administrative Officer,16457,18414,Administrative Officer,3.0
+Department for Business Innovation and Skills,Government Office Network,GO East Midlands,GO019,Executive Officer,19927,23582,Executive Officer,3.9
+Department for Business Innovation and Skills,Government Office Network,GO East Midlands,GO019,Grade 7,44509,54946,Grade 7,2.0
+Department for Business Innovation and Skills,Government Office Network,GO East Midlands,GO019,Higher Executive Officer,26676,29599,Higher Executive Officer,2.0
+"Department for Children, Schools and Families",Government Office Network,GO East Midlands,GO019,Executive Officer,19927,23582,Executive Officer,1.0
+"Department for Children, Schools and Families",Government Office Network,GO East Midlands,GO019,Grade 6,54490,67506,Grade 6,1.0,
+"Department for Children, Schools and Families",Government Office Network,GO East Midlands,GO019,Grade 7,44509,54946,Grade 7,1.0,
+"Department for Children, Schools and Families",Government Office Network,GO East Midlands,GO019,Higher Executive Officer,26676,29599,Higher Executive Officer,1.0,
+Department for Communities and Local Government,Government Office Network,GO East Midlands,GO019,Administrative Officer,16457,18414,Administrative Officer,0.9,
+Department for Communities and Local Government,Government Office Network,GO East Midlands,GO019,Executive Officer,19927,23582,Executive Officer,1.0,
+Department for Communities and Local Government,Government Office Network,GO East Midlands,GO019,Grade 7,44509,54946,Grade 7,1.0,
+Department for Communities and Local Government,Government Office Network,GO East Midlands,GO019,HEO (D),27000,35000,HEO (D),1.0,HEO (D) staff are Fast Streamers
+Department for Communities and Local Government,Government Office Network,GO East Midlands,GO019,Higher Executive Officer,26676,29599,Higher Executive Officer,4.0,
+Department for Communities and Local Government,Government Office Network,GO East Midlands,GO019,Senior Executive Officer,32599,36177,Senior Executive Officer,1.0,
+Department for Communities and Local Government,Government Office Network,GO East Midlands,GO019,Senior Information Officer,37371,40767,Senior Information Officer,1.0,Recorded as SEO level on organogram
+Department for Transport,Government Office Network,GO East Midlands,GO019,Executive Officer,19927,23582,Executive Officer,1.0,
+Department for Transport,Government Office Network,GO East Midlands,GO019,Higher Executive Officer,26676,29599,Higher Executive Officer,1.6,
+Revenue & Customs,Government Office Network,GO East Midlands,GO019,Senior Information Officer,37371,40767,Senior Information Officer,1.0,Recorded as SEO level on organogram
+Department for Business Innovation and Skills,Government Office Network,GO East Midlands,GO021,Higher Executive Officer,26676,29599,Higher Executive Officer,1.0,
+"Department for Children, Schools and Families",Government Office Network,GO East Midlands,GO021,Executive Officer,19927,23582,Executive Officer,1.0,
+"Department for Children, Schools and Families",Government Office Network,GO East Midlands,GO021,Grade 6,54490,67506,Grade 6,1.0,
+"Department for Children, Schools and Families",Government Office Network,GO East Midlands,GO021,Grade 7,44509,54946,Grade 7,1.0
+"Department for Children, Schools and Families",Government Office Network,GO East Midlands,GO021,Higher Executive Officer,26676,29599,Higher Executive Officer,1.0
+"Department for Children, Schools and Families",Government Office Network,GO East Midlands,GO021,Senior Executive Officer,32599,36177,Senior Executive Officer,0.8
+Department for Communities and Local Government,Government Office Network,GO East Midlands,GO021,Administrative Officer,16457,18414,Administrative Officer,2.0
+Department for Communities and Local Government,Government Office Network,GO East Midlands,GO021,Executive Officer,19927,23582,Executive Officer,1.0
+Department for Communities and Local Government,Government Office Network,GO East Midlands,GO021,Grade 7,44509,54946,Grade 7,0.8
+Department for Communities and Local Government,Government Office Network,GO East Midlands,GO021,Senior Executive Officer,32599,36177,Senior Executive Officer,1.0
+Department for Transport,Government Office Network,GO East Midlands,GO021,Grade 7,44509,54946,Grade 7,1.0
+Department for Transport,Government Office Network,GO East Midlands,GO021,Higher Executive Officer,26676,29599,Higher Executive Officer,1.0
+Department for Business Innovation and Skills,Government Office Network,GO East Midlands,GO023,Administrative Officer,16457,18414,Administrative Officer,0.5
+Department for Business Innovation and Skills,Government Office Network,GO East Midlands,GO023,Executive Officer,19927,23582,Executive Officer,1.0
+Department for Business Innovation and Skills,Government Office Network,GO East Midlands,GO023,Grade 7,44509,54946,Grade 7,2.0
+"Department for Children, Schools and Families",Government Office Network,GO East Midlands,GO023,Grade 7,44509,54946,Grade 7,2.0
+"Department for Children, Schools and Families",Government Office Network,GO East Midlands,GO023,Senior Executive Officer,32599,36177,Senior Executive Officer,1.0
+Department for Communities and Local Government,Government Office Network,GO East Midlands,GO023,Executive Officer,19927,23582,Executive Officer,2.0
+Department for Communities and Local Government,Government Office Network,GO East Midlands,GO023,Grade 6,54490,67506,Grade 6,1.0
+Department for Communities and Local Government,Government Office Network,GO East Midlands,GO023,Grade 7,44509,54946,Grade 7,1.0
+Department for Communities and Local Government,Government Office Network,GO East Midlands,GO023,Senior Executive Officer,32599,36177,Senior Executive Officer,1.0
+Department for Transport,Government Office Network,GO East Midlands,GO023,Executive Officer,19927,23582,Executive Officer,1.0
+Home Office,Government Office Network,GO East Midlands,GO023,Senior Executive Officer,32599,36177,Senior Executive Officer,2.0
+Department for Business Innovation and Skills,Government Office Network,GO East Midlands,GO024,Administrative Officer,16457,18414,Administrative Officer,2.0
+Department for Business Innovation and Skills,Government Office Network,GO East Midlands,GO024,Grade 6,54490,67506,Grade 6,1.0
+Department for Business Innovation and Skills,Government Office Network,GO East Midlands,GO024,Higher Executive Officer,26676,29599,Higher Executive Officer,1.0
+Department for Business Innovation and Skills,Government Office Network,GO East Midlands,GO024,Senior Executive Officer,32599,36177,Senior Executive Officer,1.0
+"Department for Children, Schools and Families",Government Office Network,GO East Midlands,GO024,Executive Officer,19927,23582,Executive Officer,1.0
+"Department for Children, Schools and Families",Government Office Network,GO East Midlands,GO024,Grade 6,54490,67506,Grade 6,3.0
+Department for Communities and Local Government,Government Office Network,GO East Midlands,GO024,Executive Officer,19927,23582,Executive Officer,1.0
+Department for Communities and Local Government,Government Office Network,GO East Midlands,GO024,Grade 7,44509,54946,Grade 7,1.8
+Department for Transport,Government Office Network,GO East Midlands,GO024,Grade 7,44509,54946,Grade 7,1.0
+Department for Transport,Government Office Network,GO East Midlands,GO024,Higher Executive Officer,26676,29599,Higher Executive Officer,2.8
+Department for Work and Pensions,Government Office Network,GO East Midlands,GO024,Grade 6,54490,67506,Grade 6,1.0
+Department for Business Innovation and Skills,Government Office Network,GO London,GO025,Executive Officer,24730,29277,Executive Officer,1.0
+Department for Business Innovation and Skills,Government Office Network,GO London,GO025,Higher Executive Officer,30858,34274,Higher Executive Officer,1.0
+"Department for Children, Schools and Families",Government Office Network,GO London,GO025,Grade 7,49363,61151,Grade 7,1.9
+"Department for Children, Schools and Families",Government Office Network,GO London,GO025,Higher Executive Officer,30858,34274,Higher Executive Officer,1.8
+"Department for Children, Schools and Families",Government Office Network,GO London,GO025,Senior Executive Officer,37612,41762,Senior Executive Officer,1.0
+Department for Communities and Local Government,Government Office Network,GO London,GO025,Executive Officer,24730,29277,Executive Officer,1.0
+Department for Communities and Local Government,Government Office Network,GO London,GO025,Grade 6,58899,73498,Grade 6,1.0
+Department for Communities and Local Government,Government Office Network,GO London,GO025,Grade 7,49363,61151,Grade 7,2.0
+Department for Communities and Local Government,Government Office Network,GO London,GO025,Higher Executive Officer,30858,34274,Higher Executive Officer,1.0
+Department for Communities and Local Government,Government Office Network,GO London,GO025,Senior Executive Officer,37612,41762,Senior Executive Officer,1.0
+"Department for Environment, Food and Rural Affairs",Government Office Network,GO London,GO025,Executive Officer,24730,29277,Executive Officer,1.0
+Department for Transport,Government Office Network,GO London,GO025,Grade 7,49363,61151,Grade 7,1.0
+Home Office,Government Office Network,GO London,GO025,Grade 7,49363,61151,Grade 7,5.0
+Department for Business Innovation and Skills,Government Office Network,GO London,GO026,Executive Officer,24730,29277,Executive Officer,2.0
+"Department for Children, Schools and Families",Government Office Network,GO London,GO026,Executive Officer,24730,29277,Executive Officer,1.0
+"Department for Children, Schools and Families",Government Office Network,GO London,GO026,Grade 6,58899,73498,Grade 6,2.0
+"Department for Children, Schools and Families",Government Office Network,GO London,GO026,Grade 7,49363,61151,Grade 7,3.2
+"Department for Children, Schools and Families",Government Office Network,GO London,GO026,Senior Executive Officer,37612,41762,Senior Executive Officer,3.5,
+Department for Communities and Local Government,Government Office Network,GO London,GO026,Higher Executive Officer,30858,34274,Higher Executive Officer,1.6,
+"Department for Environment, Food and Rural Affairs",Government Office Network,GO London,GO026,Senior Executive Officer,37612,41762,Senior Executive Officer,1.0,
+Home Office,Government Office Network,GO London,GO026,Executive Officer,24730,29277,Executive Officer,1.0,
+Home Office,Government Office Network,GO London,GO026,Grade 7,49363,61151,Grade 7,1.7,
+Department for Communities and Local Government,Government Office Network,GO London,GO027,Executive Officer,24730,29277,Executive Officer,1.0,
+Department for Communities and Local Government,Government Office Network,GO London,GO027,Grade 7,49363,61151,Grade 7,1.0,
+Department for Communities and Local Government,Government Office Network,GO London,GO027,Higher Executive Officer,30858,34274,Higher Executive Officer,1.0,
+Department for Transport,Government Office Network,GO London,GO027,Grade 7,49363,61151,Grade 7,1.0,
+Home Office,Government Office Network,GO London,GO027,Grade 7,49363,61151,Grade 7,1.0,
+Home Office,Government Office Network,GO London,GO027,Information Officer,31977,37757,Information Officer,1.0,Recorded as HEO level on organogram
+Home Office,Government Office Network,GO London,GO027,Senior Executive Officer,37612,41762,Senior Executive Officer,0.8,
+Department for Business Innovation and Skills,Government Office Network,GO London,GO028,Executive Officer,24730,29277,Executive Officer,1.0,
+"Department for Children, Schools and Families",Government Office Network,GO London,GO028,Executive Officer,24730,29277,Executive Officer,1.0,
+"Department for Children, Schools and Families",Government Office Network,GO London,GO028,Grade 7,49363,61151,Grade 7,1.0,
+"Department for Children, Schools and Families",Government Office Network,GO London,GO028,Higher Executive Officer,30858,34274,Higher Executive Officer,1.0,
+Department for Communities and Local Government,Government Office Network,GO London,GO028,Administrative Officer,21267,23814,Administrative Officer,2.0,
+Department for Communities and Local Government,Government Office Network,GO London,GO028,Executive Officer,24730,29277,Executive Officer,2.0,
+Department for Communities and Local Government,Government Office Network,GO London,GO028,Grade 7,49363,61151,Grade 7,3.8,
+Department for Communities and Local Government,Government Office Network,GO London,GO028,Higher Executive Officer,30858,34274,Higher Executive Officer,2.0,
+Department for Communities and Local Government,Government Office Network,GO London,GO028,Senior Executive Officer,37612,41762,Senior Executive Officer,2.0,
+Department for Communities and Local Government,Government Office Network,GO London,GO028,Senior Planning Officer,44450,49391,Senior Planning Officer,4.9,Recorded as SEO level on organogram
+"Department for Environment, Food and Rural Affairs",Government Office Network,GO London,GO028,Senior Planning Officer,44450,49391,Senior Planning Officer,0.9,Recorded as SEO level on organogram
+Department for Transport,Government Office Network,GO London,GO028,Executive Officer,24730,29277,Executive Officer,1.0,
+Home Office,Government Office Network,GO London,GO028,Senior Executive Officer,37612,41762,Senior Executive Officer,1.0,
+Department for Business Innovation and Skills,Government Office Network,GO London,GO029,Grade 7,49363,61151,Grade 7,1.0,
+"Department for Children, Schools and Families",Government Office Network,GO London,GO029,Administrative Officer,21267,23814,Administrative Officer,0.9,
+"Department for Children, Schools and Families",Government Office Network,GO London,GO029,Executive Officer,24730,29277,Executive Officer,1.7,
+"Department for Children, Schools and Families",Government Office Network,GO London,GO029,Grade 7,49363,61151,Grade 7,2.0,
+"Department for Children, Schools and Families",Government Office Network,GO London,GO029,Higher Executive Officer,30858,34274,Higher Executive Officer,2.0,
+Department for Communities and Local Government,Government Office Network,GO London,GO029,Administrative Officer,21267,23814,Administrative Officer,1.0,
+Department for Communities and Local Government,Government Office Network,GO London,GO029,Executive Officer,24730,29277,Executive Officer,2.0,
+Department for Communities and Local Government,Government Office Network,GO London,GO029,Grade 6,58899,73498,Grade 6,2.8
+Department for Communities and Local Government,Government Office Network,GO London,GO029,Grade 7,49363,61151,Grade 7,2.0
+Department for Communities and Local Government,Government Office Network,GO London,GO029,Higher Executive Officer,30858,34274,Higher Executive Officer,2.0
+"Department for Environment, Food and Rural Affairs",Government Office Network,GO London,GO029,Grade 7,49363,61151,Grade 7,1.0
+Department for Transport,Government Office Network,GO London,GO029,Higher Executive Officer,30858,34274,Higher Executive Officer,1.0
+Department for Work and Pensions,Government Office Network,GO London,GO029,Grade 7,49363,61151,Grade 7,1.0
+Home Office,Government Office Network,GO London,GO029,Grade 7,49363,61151,Grade 7,2.0
+Department for Business Innovation and Skills,Government Office Network,GO London,GO030,Executive Officer,24730,29277,Executive Officer,1.0
+Department for Business Innovation and Skills,Government Office Network,GO London,GO030,Higher Executive Officer,30858,34274,Higher Executive Officer,2.0
+"Department for Children, Schools and Families",Government Office Network,GO London,GO030,Executive Officer,24730,29277,Executive Officer,2.0
+"Department for Children, Schools and Families",Government Office Network,GO London,GO030,Grade 7,49363,61151,Grade 7,1.0
+"Department for Children, Schools and Families",Government Office Network,GO London,GO030,Higher Executive Officer,30858,34274,Higher Executive Officer,2.0
+Department for Communities and Local Government,Government Office Network,GO London,GO030,Executive Officer,24730,29277,Executive Officer,2.0
+Department for Communities and Local Government,Government Office Network,GO London,GO030,Higher Executive Officer,30858,34274,Higher Executive Officer,3.8
+"Department for Environment, Food and Rural Affairs",Government Office Network,GO London,GO030,Grade 7,49363,61151,Grade 7,2.0
+Home Office,Government Office Network,GO London,GO030,Grade 7,49363,61151,Grade 7,1.0
+Home Office,Government Office Network,GO London,GO030,Higher Executive Officer,30858,34274,Higher Executive Officer,1.0,
+Home Office,Government Office Network,GO London,GO030,Senior Information Officer,39619,43219,Senior Information Officer,1.0,Recorded as SEO level on organogram
+Department for Business Innovation and Skills,Government Office Network,GO London,GO031,Senior Executive Officer,37612,41762,Senior Executive Officer,1.0,
+"Department for Children, Schools and Families",Government Office Network,GO London,GO031,Executive Officer,24730,29277,Executive Officer,2.0,
+"Department for Children, Schools and Families",Government Office Network,GO London,GO031,Grade 6,58899,73498,Grade 6,0.9,
+"Department for Children, Schools and Families",Government Office Network,GO London,GO031,Higher Executive Officer,30858,34274,Higher Executive Officer,2.0,
+Department for Communities and Local Government,Government Office Network,GO London,GO031,Executive Officer,24730,29277,Executive Officer,1.0,
+"Department for Environment, Food and Rural Affairs",Government Office Network,GO London,GO031,Grade 7,49363,61151,Grade 7,1.0,
+"Department for Environment, Food and Rural Affairs",Government Office Network,GO London,GO031,Higher Executive Officer,30858,34274,Higher Executive Officer,2.0,
+Home Office,Government Office Network,GO London,GO031,Grade 7,49363,61151,Grade 7,1.0,
+Home Office,Government Office Network,GO London,GO031,Higher Executive Officer,30858,34274,Higher Executive Officer,2.0,
+Home Office,Government Office Network,GO London,GO031,Senior Executive Officer,37612,41762,Senior Executive Officer,1.0,
+Department for Business Innovation and Skills,Government Office Network,GO London,GO032,Grade 7,49363,61151,Grade 7,1.0,
+Department for Business Innovation and Skills,Government Office Network,GO London,GO032,Higher Executive Officer,30858,34274,Higher Executive Officer,2.0,
+"Department for Children, Schools and Families",Government Office Network,GO London,GO032,Grade 7,49363,61151,Grade 7,3.0,
+"Department for Children, Schools and Families",Government Office Network,GO London,GO032,Higher Executive Officer,30858,34274,Higher Executive Officer,3.0,
+"Department for Children, Schools and Families",Government Office Network,GO London,GO032,Senior Executive Officer,37612,41762,Senior Executive Officer,2.0
+Department for Communities and Local Government,Government Office Network,GO London,GO032,Administrative Officer,21267,23814,Administrative Officer,1.0
+Department for Communities and Local Government,Government Office Network,GO London,GO032,Executive Officer,24730,29277,Executive Officer,1.0
+Department for Communities and Local Government,Government Office Network,GO London,GO032,Grade 6,58899,73498,Grade 6,1.0
+Department for Communities and Local Government,Government Office Network,GO London,GO032,Grade 7,49363,61151,Grade 7,4.0
+Department for Communities and Local Government,Government Office Network,GO London,GO032,Higher Executive Officer,30858,34274,Higher Executive Officer,1.0
+Department for Communities and Local Government,Government Office Network,GO London,GO032,Senior Executive Officer,37612,41762,Senior Executive Officer,0.7
+"Department for Environment, Food and Rural Affairs",Government Office Network,GO London,GO032,Executive Officer,24730,29277,Executive Officer,1.0
+"Department for Environment, Food and Rural Affairs",Government Office Network,GO London,GO032,Grade 6,58899,73498,Grade 6,1.0
+"Department for Environment, Food and Rural Affairs",Government Office Network,GO London,GO032,Grade 7,49363,61151,Grade 7,3.0
+Home Office,Government Office Network,GO London,GO032,Higher Executive Officer,30858,34274,Higher Executive Officer,1.0
+Ministry of Justice,Government Office Network,GO London,GO032,Grade 7,49363,61151,Grade 7,1.0
+"Department for Children, Schools and Families",Government Office Network,GO Network Centre and Services,GO033,Grade 6,58899,73498,Grade 6,1.0
+"Department for Children, Schools and Families",Government Office Network,GO Network Centre and Services,GO033,Grade 7,49363,61151,Grade 7,1.0
+"Department for Environment, Food and Rural Affairs",Government Office Network,GO Network Centre and Services,GO033,Grade 6,58899,73498,Grade 6,1.0
+11 Million,Government Office Network,GO Network Centre and Services,GO034,Grade 6,58899,73498,Grade 6,1.0
+"Department for Children, Schools and Families",Government Office Network,GO Network Centre and Services,GO034,Administrative Officer,21267,23814,Administrative Officer,1.0
+"Department for Children, Schools and Families",Government Office Network,GO Network Centre and Services,GO034,Grade 7,49363,61151,Grade 7,1.0
+"Department for Children, Schools and Families",Government Office Network,GO Network Centre and Services,GO034,Senior Executive Officer,37612,41762,Senior Executive Officer,1.0
+Department for Communities and Local Government,Government Office Network,GO Network Centre and Services,GO034,Executive Officer,24730,29277,Executive Officer,2.0
+Department for Communities and Local Government,Government Office Network,GO Network Centre and Services,GO034,Grade 7,49363,61151,Grade 7,1.0
+Department for Communities and Local Government,Government Office Network,GO Network Centre and Services,GO034,Higher Executive Officer,30858,34274,Higher Executive Officer,1.0
+"Department for Environment, Food and Rural Affairs",Government Office Network,GO Network Centre and Services,GO034,Grade 7,49363,61151,Grade 7,1.0
+Home Office,Government Office Network,GO Network Centre and Services,GO034,Executive Officer,24730,29277,Executive Officer,1.0
+Home Office,Government Office Network,GO Network Centre and Services,GO034,Higher Executive Officer,30858,34274,Higher Executive Officer,3.0
+Home Office,Government Office Network,GO Network Centre and Services,GO034,Senior Executive Officer,37612,41762,Senior Executive Officer,1.0
+Department for Business Innovation and Skills,Government Office Network,GO North East,GO036,Higher Executive Officer,26676,29599,Higher Executive Officer,2.0
+"Department for Children, Schools and Families",Government Office Network,GO North East,GO036,Grade 7,44509,54946,Grade 7,1.0
+Department for Communities and Local Government,Government Office Network,GO North East,GO036,Administrative Officer,16457,18414,Administrative Officer,1.0
+Department for Communities and Local Government,Government Office Network,GO North East,GO036,Executive Officer,19927,23582,Executive Officer,1.0
+Department for Communities and Local Government,Government Office Network,GO North East,GO036,Higher Executive Officer,26676,29599,Higher Executive Officer,1.0
+Department for Transport,Government Office Network,GO North East,GO036,Grade 7,44509,54946,Grade 7,1.0
+Department for Business Innovation and Skills,Government Office Network,GO North East,GO037,Executive Officer,19927,23582,Executive Officer,1.8
+Department for Business Innovation and Skills,Government Office Network,GO North East,GO037,Grade 7,44509,54946,Grade 7,1.0
+Department for Business Innovation and Skills,Government Office Network,GO North East,GO037,Higher Executive Officer,26676,29599,Higher Executive Officer,1.6
+Department for Business Innovation and Skills,Government Office Network,GO North East,GO037,Senior Executive Officer,32599,36177,Senior Executive Officer,2.0
+"Department for Children, Schools and Families",Government Office Network,GO North East,GO037,Executive Officer,19927,23582,Executive Officer,1.0
+"Department for Children, Schools and Families",Government Office Network,GO North East,GO037,Grade 6,54490,67506,Grade 6,1.0
+"Department for Children, Schools and Families",Government Office Network,GO North East,GO037,Grade 7,44509,54946,Grade 7,1.0
+"Department for Children, Schools and Families",Government Office Network,GO North East,GO037,Higher Executive Officer,26676,29599,Higher Executive Officer,1.5
+Department for Communities and Local Government,Government Office Network,GO North East,GO037,Grade 7,44509,54946,Grade 7,1.0
+Department for Transport,Government Office Network,GO North East,GO037,Administrative Officer,16457,18414,Administrative Officer,0.5
+Department for Transport,Government Office Network,GO North East,GO037,Grade 6,54490,67506,Grade 6,1.0
+Department for Work and Pensions,Government Office Network,GO North East,GO037,Grade 7,44509,54946,Grade 7,1.0
+Home Office,Government Office Network,GO North East,GO037,Grade 7,44509,54946,Grade 7,1.0
+Department for Business Innovation and Skills,Government Office Network,GO North East,GO038,Executive Officer,19927,23582,Executive Officer,1.0
+Department for Business Innovation and Skills,Government Office Network,GO North East,GO038,Grade 7,44509,54946,Grade 7,1.0
+Department for Business Innovation and Skills,Government Office Network,GO North East,GO038,Higher Executive Officer,26676,29599,Higher Executive Officer,1.0
+"Department for Children, Schools and Families",Government Office Network,GO North East,GO038,Administrative Officer,16457,18414,Administrative Officer,0.6,
+"Department for Children, Schools and Families",Government Office Network,GO North East,GO038,Executive Officer,19927,23582,Executive Officer,1.0,
+"Department for Children, Schools and Families",Government Office Network,GO North East,GO038,Grade 6,54490,67506,Grade 6,1.0,
+"Department for Children, Schools and Families",Government Office Network,GO North East,GO038,Grade 7,44509,54946,Grade 7,3.0,
+"Department for Children, Schools and Families",Government Office Network,GO North East,GO038,Higher Executive Officer,26676,29599,Higher Executive Officer,4.5,
+"Department for Children, Schools and Families",Government Office Network,GO North East,GO038,Senior Executive Officer,32599,36177,Senior Executive Officer,3.0,
+Department for Communities and Local Government,Government Office Network,GO North East,GO038,Administrative Officer,16457,18414,Administrative Officer,2.0,
+Department for Communities and Local Government,Government Office Network,GO North East,GO038,Senior Executive Officer,32599,36177,Senior Executive Officer,0.8,
+Department for Transport,Government Office Network,GO North East,GO038,Executive Officer,19927,23582,Executive Officer,1.0,
+Department for Transport,Government Office Network,GO North East,GO038,Personal Secretary,16457,18414,Personal Secretary,1.0,Recorded as AO level on organogram
+Home Office,Government Office Network,GO North East,GO038,Senior Executive Officer,32599,36177,Senior Executive Officer,1.0,
+Department for Business Innovation and Skills,Government Office Network,GO North East,GO039,Administrative Officer,16457,18414,Administrative Officer,0.8,
+Department for Business Innovation and Skills,Government Office Network,GO North East,GO039,Executive Officer,19927,23582,Executive Officer,5.9,
+Department for Business Innovation and Skills,Government Office Network,GO North East,GO039,Higher Executive Officer,26676,29599,Higher Executive Officer,1.0,
+Department for Business Innovation and Skills,Government Office Network,GO North East,GO039,Senior Executive Officer,32599,36177,Senior Executive Officer,0.5,
+"Department for Children, Schools and Families",Government Office Network,GO North East,GO039,Administrative Officer,16457,18414,Administrative Officer,2.0,
+"Department for Children, Schools and Families",Government Office Network,GO North East,GO039,Executive Officer,19927,23582,Executive Officer,2.0,
+"Department for Children, Schools and Families",Government Office Network,GO North East,GO039,Higher Executive Officer,26676,29599,Higher Executive Officer,3.0,
+"Department for Children, Schools and Families",Government Office Network,GO North East,GO039,Senior Executive Officer,32599,36177,Senior Executive Officer,1.0,
+Department for Communities and Local Government,Government Office Network,GO North East,GO039,Administrative Officer,16457,18414,Administrative Officer,5.8,
+Department for Communities and Local Government,Government Office Network,GO North East,GO039,Executive Officer,19927,23582,Executive Officer,2.0,
+Department for Communities and Local Government,Government Office Network,GO North East,GO039,Grade 6,54490,67506,Grade 6,1.0,
+Department for Communities and Local Government,Government Office Network,GO North East,GO039,Grade 7,44509,54946,Grade 7,3.0,
+Department for Communities and Local Government,Government Office Network,GO North East,GO039,Senior Executive Officer,32599,36177,Senior Executive Officer,5.0,
+Department for Communities and Local Government,Government Office Network,GO North East,GO039,Senior Planning Officer,40640,45139,Senior Planning Officer,3.0,Recorded as SEO level on organogram
+"Department for Environment, Food and Rural Affairs",Government Office Network,GO North East,GO039,Grade 7,44509,54946,Grade 7,1.0,
+"Department for Environment, Food and Rural Affairs",Government Office Network,GO North East,GO039,Personal Secretary,16457,18414,Personal Secretary,1.0,Recorded as AO level on organogram
+Department for Transport,Government Office Network,GO North East,GO039,Administrative Officer,16457,18414,Administrative Officer,1.8,
+Department for Transport,Government Office Network,GO North East,GO039,Executive Officer,19927,23582,Executive Officer,2.1,
+Department for Transport,Government Office Network,GO North East,GO039,Grade 7,44509,54946,Grade 7,2.0,
+Department for Transport,Government Office Network,GO North East,GO039,Higher Executive Officer,26676,29599,Higher Executive Officer,2.0,
+Department for Transport,Government Office Network,GO North East,GO039,Senior Professional & Technical Officer,40640,45139,Senior Professional & Technical Officer,1.0,Recorded as SEO level on organogram
+Department for Business Innovation and Skills,Government Office Network,GO North East,GO040,Higher Executive Officer,26676,29599,Higher Executive Officer,3.0,
+Department for Business Innovation and Skills,Government Office Network,GO North East,GO040,Senior Personal Secretary,19927,23582,Senior Personal Secretary,1.0,Recorded as EO level on organogram
+"Department for Children, Schools and Families",Government Office Network,GO North East,GO040,Executive Officer,19927,23582,Executive Officer,1.0,
+"Department for Children, Schools and Families",Government Office Network,GO North East,GO040,Grade 7,44509,54946,Grade 7,0.9,
+"Department for Children, Schools and Families",Government Office Network,GO North East,GO040,Higher Executive Officer,26676,29599,Higher Executive Officer,3.0,
+Department for Communities and Local Government,Government Office Network,GO North East,GO040,Administrative Officer,16457,18414,Administrative Officer,1.0,
+Department for Communities and Local Government,Government Office Network,GO North East,GO040,Executive Officer,19927,23582,Executive Officer,5.6,
+Department for Communities and Local Government,Government Office Network,GO North East,GO040,Grade 6,54490,67506,Grade 6,1.0,
+Department for Communities and Local Government,Government Office Network,GO North East,GO040,Grade 7,44509,54946,Grade 7,2.6,
+Department for Communities and Local Government,Government Office Network,GO North East,GO040,Senior Executive Officer,32599,36177,Senior Executive Officer,0.9,
+"Department for Environment, Food and Rural Affairs",Government Office Network,GO North East,GO040,Grade 7,44509,54946,Grade 7,1.0,
+"Department for Environment, Food and Rural Affairs",Government Office Network,GO North East,GO040,Higher Executive Officer,26676,29599,Higher Executive Officer,1.0,
+Department for Transport,Government Office Network,GO North East,GO040,Executive Officer,19927,23582,Executive Officer,0.6,
+Department for Transport,Government Office Network,GO North East,GO040,Grade 7,44509,54946,Grade 7,1.0,
+Department for Transport,Government Office Network,GO North East,GO040,Higher Executive Officer,26676,29599,Higher Executive Officer,1.0,
+Department for Transport,Government Office Network,GO North East,GO040,Senior Executive Officer,32599,36177,Senior Executive Officer,1.0,
+Home Office,Government Office Network,GO North East,GO040,Higher Executive Officer,26676,29599,Higher Executive Officer,1.0,
+Home Office,Government Office Network,GO North East,GO040,Senior Information Officer,37371,40767,Senior Information Officer,0.9,Recorded as SEO level on organogram
+Department for Business Innovation and Skills,Government Office Network,GO North East,GO041,Executive Officer,19927,23582,Executive Officer,0.6,
+Department for Business Innovation and Skills,Government Office Network,GO North East,GO041,Grade 7,44509,54946,Grade 7,2.0,
+Department for Business Innovation and Skills,Government Office Network,GO North East,GO041,Higher Executive Officer,26676,29599,Higher Executive Officer,1.0,
+Department for Business Innovation and Skills,Government Office Network,GO North East,GO041,Senior Executive Officer,32599,36177,Senior Executive Officer,4.0,
+"Department for Children, Schools and Families",Government Office Network,GO North East,GO041,Grade 6,54490,67506,Grade 6,1.0,
+"Department for Children, Schools and Families",Government Office Network,GO North East,GO041,Higher Executive Officer,26676,29599,Higher Executive Officer,1.0,
+"Department for Children, Schools and Families",Government Office Network,GO North East,GO041,Senior Executive Officer,32599,36177,Senior Executive Officer,1.0,
+Department for Communities and Local Government,Government Office Network,GO North East,GO041,Grade 7,44509,54946,Grade 7,1.0,
+Department for Communities and Local Government,Government Office Network,GO North East,GO041,Personal Secretary,16457,18414,Personal Secretary,0.8,Recorded as AO level on organogram
+Department for Transport,Government Office Network,GO North East,GO041,Higher Executive Officer,26676,29599,Higher Executive Officer,1.0,
+Home Office,Government Office Network,GO North East,GO041,Administrative Officer,16457,18414,Administrative Officer,0.4,
+Home Office,Government Office Network,GO North East,GO041,Higher Executive Officer,26676,29599,Higher Executive Officer,1.0,
+Department for Business Innovation and Skills,Government Office Network,GO North East,GO042,Grade 7,44509,54946,Grade 7,3.0,
+Department for Business Innovation and Skills,Government Office Network,GO North East,GO042,Higher Executive Officer,26676,29599,Higher Executive Officer,1.0,
+Department for Business Innovation and Skills,Government Office Network,GO North East,GO042,Senior Executive Officer,32599,36177,Senior Executive Officer,1.0,
+Department for Business Innovation and Skills,Government Office Network,GO North East,GO042,Senior Scientific Officer,40640,45139,Senior Scientific Officer,1.0,Recorded as SEO level on organogram
+"Department for Children, Schools and Families",Government Office Network,GO North East,GO042,Executive Officer,19927,23582,Executive Officer,1.0,
+"Department for Children, Schools and Families",Government Office Network,GO North East,GO042,Grade 7,44509,54946,Grade 7,1.0,
+"Department for Children, Schools and Families",Government Office Network,GO North East,GO042,Higher Executive Officer,26676,29599,Higher Executive Officer,1.0,
+Department for Communities and Local Government,Government Office Network,GO North East,GO042,Executive Officer,19927,23582,Executive Officer,2.0,
+Department for Communities and Local Government,Government Office Network,GO North East,GO042,Higher Executive Officer,26676,29599,Higher Executive Officer,1.0,
+Department for Communities and Local Government,Government Office Network,GO North East,GO042,Senior Executive Officer,32599,36177,Senior Executive Officer,2.0,
+Department for Transport,Government Office Network,GO North East,GO042,Grade 7,44509,54946,Grade 7,1.0,
+Department for Transport,Government Office Network,GO North East,GO042,Personal Secretary,16457,18414,Personal Secretary,1.0,Recorded as AO level on organogram
+"Department for Children, Schools and Families",Government Office Network,GO North West,GO043,Administrative Officer,16457,18414,Administrative Officer,1.0,
+"Department for Children, Schools and Families",Government Office Network,GO North West,GO043,Executive Officer,19927,23582,Executive Officer,2.0,
+"Department for Children, Schools and Families",Government Office Network,GO North West,GO043,Grade 6,54490,67506,Grade 6,1.0,
+"Department for Children, Schools and Families",Government Office Network,GO North West,GO043,Grade 7,44509,54946,Grade 7,5.0,
+"Department for Children, Schools and Families",Government Office Network,GO North West,GO043,Higher Executive Officer,26676,29599,Higher Executive Officer,2.0,
+"Department for Children, Schools and Families",Government Office Network,GO North West,GO043,Personal Secretary,16457,18414,Personal Secretary,1.0,Recorded as AO level on organogram
+"Department for Children, Schools and Families",Government Office Network,GO North West,GO043,Senior Executive Officer,32599,36177,Senior Executive Officer,1.9
+Department for Communities and Local Government,Government Office Network,GO North West,GO043,Administrative Officer,16457,18414,Administrative Officer,2.0
+"Department for Environment, Food and Rural Affairs",Government Office Network,GO North West,GO043,Administrative Officer,16457,18414,Administrative Officer,1.0
+Home Office,Government Office Network,GO North West,GO043,Grade 7,44509,54946,Grade 7,1.0
+Home Office,Government Office Network,GO North West,GO043,Higher Executive Officer,26676,29599,Higher Executive Officer,1.0
+Department for Business Innovation and Skills,Government Office Network,GO North West,GO044,Senior Executive Officer,32599,36177,Senior Executive Officer,2.0
+"Department for Children, Schools and Families",Government Office Network,GO North West,GO044,Executive Officer,19927,23582,Executive Officer,1.0
+"Department for Children, Schools and Families",Government Office Network,GO North West,GO044,Grade 7,44509,54946,Grade 7,3.0
+"Department for Children, Schools and Families",Government Office Network,GO North West,GO044,Higher Executive Officer,26676,29599,Higher Executive Officer,1.0
+Department for Communities and Local Government,Government Office Network,GO North West,GO044,Higher Executive Officer,26676,29599,Higher Executive Officer,1.8
+"Department for Culture, Media and Sport",Government Office Network,GO North West,GO044,Grade 7,44509,54946,Grade 7,1.0
+"Department for Environment, Food and Rural Affairs",Government Office Network,GO North West,GO044,Higher Executive Officer,26676,29599,Higher Executive Officer,1.0
+Department for Transport,Government Office Network,GO North West,GO044,Executive Officer,19927,23582,Executive Officer,1.0
+Department for Transport,Government Office Network,GO North West,GO044,Higher Executive Officer,26676,29599,Higher Executive Officer,1.0
+Department for Work and Pensions,Government Office Network,GO North West,GO044,Grade 7,44509,54946,Grade 7,1.0
+Home Office,Government Office Network,GO North West,GO044,Executive Officer,19927,23582,Executive Officer,1.0
+Home Office,Government Office Network,GO North West,GO044,Grade 7,44509,54946,Grade 7,3.0,
+Department for Business Innovation and Skills,Government Office Network,GO North West,GO045,Executive Officer,19927,23582,Executive Officer,1.0,
+Department for Business Innovation and Skills,Government Office Network,GO North West,GO045,Grade 7,44509,54946,Grade 7,2.0,
+Department for Business Innovation and Skills,Government Office Network,GO North West,GO045,Higher Executive Officer,26676,29599,Higher Executive Officer,2.0,
+Department for Business Innovation and Skills,Government Office Network,GO North West,GO045,Senior Personal Secretary,19927,23582,Senior Personal Secretary,1.0,Recorded as EO level on organogram
+"Department for Children, Schools and Families",Government Office Network,GO North West,GO045,Grade 7,44509,54946,Grade 7,1.0,
+"Department for Children, Schools and Families",Government Office Network,GO North West,GO045,Higher Executive Officer,26676,29599,Higher Executive Officer,2.4,
+Department for Communities and Local Government,Government Office Network,GO North West,GO045,Administrative Officer,16457,18414,Administrative Officer,2.0,
+Department for Communities and Local Government,Government Office Network,GO North West,GO045,Grade 7,44509,54946,Grade 7,0.9,
+Department for Communities and Local Government,Government Office Network,GO North West,GO045,Higher Executive Officer,26676,29599,Higher Executive Officer,1.0,
+"Department for Environment, Food and Rural Affairs",Government Office Network,GO North West,GO045,Grade 6,54490,67506,Grade 6,1.0,
+"Department for Environment, Food and Rural Affairs",Government Office Network,GO North West,GO045,Grade 7,44509,54946,Grade 7,1.0,
+"Department for Environment, Food and Rural Affairs",Government Office Network,GO North West,GO045,Higher Professional & Technical Officer,31737,35255,Higher Professional & Technical Officer,1.0,Recorded as HEO level on organogram
+"Department for Environment, Food and Rural Affairs",Government Office Network,GO North West,GO045,Senior Executive Officer,32599,36177,Senior Executive Officer,1.5,
+Department for Transport,Government Office Network,GO North West,GO045,Senior Executive Officer,32599,36177,Senior Executive Officer,1.0,
+Home Office,Government Office Network,GO North West,GO045,Higher Executive Officer,26676,29599,Higher Executive Officer,1.0,
+Department for Business Innovation and Skills,Government Office Network,GO North West,GO046,Administrative Officer,16457,18414,Administrative Officer,2.0,
+Department for Business Innovation and Skills,Government Office Network,GO North West,GO046,Executive Officer,19927,23582,Executive Officer,0.7,
+Department for Business Innovation and Skills,Government Office Network,GO North West,GO046,Grade 7,44509,54946,Grade 7,1.0,
+Department for Business Innovation and Skills,Government Office Network,GO North West,GO046,Higher Executive Officer,26676,29599,Higher Executive Officer,1.0,
+"Department for Children, Schools and Families",Government Office Network,GO North West,GO046,Administrative Officer,16457,18414,Administrative Officer,2.0,
+"Department for Children, Schools and Families",Government Office Network,GO North West,GO046,Higher Executive Officer,26676,29599,Higher Executive Officer,2.0,
+"Department for Children, Schools and Families",Government Office Network,GO North West,GO046,Senior Executive Officer,32599,36177,Senior Executive Officer,2.0,
+Department for Communities and Local Government,Government Office Network,GO North West,GO046,Administrative Officer,16457,18414,Administrative Officer,7.0,
+Department for Communities and Local Government,Government Office Network,GO North West,GO046,Executive Officer,19927,23582,Executive Officer,3.6,
+Department for Communities and Local Government,Government Office Network,GO North West,GO046,Grade 7,44509,54946,Grade 7,3.0,
+Department for Communities and Local Government,Government Office Network,GO North West,GO046,Higher Executive Officer,26676,29599,Higher Executive Officer,4.7,
+Department for Communities and Local Government,Government Office Network,GO North West,GO046,Senior Executive Officer,32599,36177,Senior Executive Officer,1.0,
+Department for Communities and Local Government,Government Office Network,GO North West,GO046,Senior Planning Officer,40640,45139,Senior Planning Officer,3.0,Recorded as SEO level on organogram
+Department for Transport,Government Office Network,GO North West,GO046,Grade 7,44509,54946,Grade 7,1.0,
+Department for Transport,Government Office Network,GO North West,GO046,Senior Professional & Technical Officer,40640,45139,Senior Professional & Technical Officer,0.8,Recorded as SEO level on organogram
+Home Office,Government Office Network,GO North West,GO046,Executive Officer,19927,23582,Executive Officer,1.0,
+Home Office,Government Office Network,GO North West,GO046,Higher Executive Officer,26676,29599,Higher Executive Officer,1.0,
+Department for Business Innovation and Skills,Government Office Network,GO South East,GO047,Executive Officer,22628,26958,Executive Officer,5.0,
+Department for Business Innovation and Skills,Government Office Network,GO South East,GO047,Grade 7,47556,59827,Grade 7,3.0,
+Department for Business Innovation and Skills,Government Office Network,GO South East,GO047,Higher Executive Officer,29289,33220,Higher Executive Officer,3.6,
+Department for Business Innovation and Skills,Government Office Network,GO South East,GO047,Senior Executive Officer,35316,40071,Senior Executive Officer,3.9,
+"Department for Children, Schools and Families",Government Office Network,GO South East,GO047,Administrative Officer,19133,22095,Administrative Officer,1.0,
+"Department for Children, Schools and Families",Government Office Network,GO South East,GO047,Executive Officer,22628,26958,Executive Officer,1.0,
+"Department for Children, Schools and Families",Government Office Network,GO South East,GO047,Grade 6,57671,72548,Grade 6,1.0,
+"Department for Children, Schools and Families",Government Office Network,GO South East,GO047,Grade 7,47556,59827,Grade 7,2.0,
+"Department for Children, Schools and Families",Government Office Network,GO South East,GO047,Higher Executive Officer,29289,33220,Higher Executive Officer,1.0,
+Department for Communities and Local Government,Government Office Network,GO South East,GO047,Administrative Officer,19133,22095,Administrative Officer,2.0,
+Department for Communities and Local Government,Government Office Network,GO South East,GO047,Senior Executive Officer,35316,40071,Senior Executive Officer,1.0,
+Department for Communities and Local Government,Government Office Network,GO South East,GO047,Senior Information Officer,37371,40767,Senior Information Officer,1.0,Recorded as SEO level on organogram
+Department for Communities and Local Government,Government Office Network,GO South East,GO047,Senior Research Officer,42001,47550,Senior Research Officer,1.0,Recorded as SEO level on organogram
+"Department for Environment, Food and Rural Affairs",Government Office Network,GO South East,GO047,Administrative Officer,19133,22095,Administrative Officer,1.0,
+"Department for Environment, Food and Rural Affairs",Government Office Network,GO South East,GO047,Grade 6,57671,72548,Grade 6,1.0,
+"Department for Environment, Food and Rural Affairs",Government Office Network,GO South East,GO047,Grade 7,47556,59827,Grade 7,1.7
+"Department for Environment, Food and Rural Affairs",Government Office Network,GO South East,GO047,Higher Executive Officer,29289,33220,Higher Executive Officer,1.6
+Department for Transport,Government Office Network,GO South East,GO047,Grade 7,47556,59827,Grade 7,1.0
+Department for Transport,Government Office Network,GO South East,GO047,Higher Executive Officer,29289,33220,Higher Executive Officer,1.0
+Home Office,Government Office Network,GO South East,GO047,Higher Executive Officer,29289,33220,Higher Executive Officer,1.0
+Department for Business Innovation and Skills,Government Office Network,GO South East,GO048,Executive Officer,22628,26958,Executive Officer,0.6
+Department for Business Innovation and Skills,Government Office Network,GO South East,GO048,Grade 7,47556,59827,Grade 7,1.0
+Department for Business Innovation and Skills,Government Office Network,GO South East,GO048,Higher Executive Officer,29289,33220,Higher Executive Officer,1.0
+"Department for Children, Schools and Families",Government Office Network,GO South East,GO048,Executive Officer,22628,26958,Executive Officer,2.3
+"Department for Children, Schools and Families",Government Office Network,GO South East,GO048,Grade 7,47556,59827,Grade 7,1.0
+"Department for Children, Schools and Families",Government Office Network,GO South East,GO048,Higher Executive Officer,29289,33220,Higher Executive Officer,2.8
+"Department for Environment, Food and Rural Affairs",Government Office Network,GO South East,GO048,Administrative Officer,19133,22095,Administrative Officer,0.6
+Department for Transport,Government Office Network,GO South East,GO048,Grade 7,47556,59827,Grade 7,1.0
+Home Office,Government Office Network,GO South East,GO048,Higher Executive Officer,29289,33220,Higher Executive Officer,1.0
+Department for Business Innovation and Skills,Government Office Network,GO South East,GO049,Executive Officer,22628,26958,Executive Officer,3.8
+Department for Business Innovation and Skills,Government Office Network,GO South East,GO049,Higher Executive Officer,29289,33220,Higher Executive Officer,1.0
+"Department for Children, Schools and Families",Government Office Network,GO South East,GO049,Administrative Officer,19133,22095,Administrative Officer,0.8,
+"Department for Children, Schools and Families",Government Office Network,GO South East,GO049,Executive Officer,22628,26958,Executive Officer,1.0,
+"Department for Children, Schools and Families",Government Office Network,GO South East,GO049,Grade 6,57671,72548,Grade 6,1.0,
+"Department for Children, Schools and Families",Government Office Network,GO South East,GO049,Grade 7,47556,59827,Grade 7,0.8,
+"Department for Children, Schools and Families",Government Office Network,GO South East,GO049,Higher Executive Officer,29289,33220,Higher Executive Officer,2.0,
+"Department for Children, Schools and Families",Government Office Network,GO South East,GO049,Senior Executive Officer,35316,40071,Senior Executive Officer,1.0,
+Department for Communities and Local Government,Government Office Network,GO South East,GO049,Administrative Officer,19133,22095,Administrative Officer,1.0,
+Department for Communities and Local Government,Government Office Network,GO South East,GO049,Executive Officer,22628,26958,Executive Officer,3.0,
+Department for Communities and Local Government,Government Office Network,GO South East,GO049,Grade 7,47556,59827,Grade 7,6.5,
+Department for Communities and Local Government,Government Office Network,GO South East,GO049,Higher Executive Officer,29289,33220,Higher Executive Officer,2.8,
+Department for Communities and Local Government,Government Office Network,GO South East,GO049,Senior Executive Officer,35316,40071,Senior Executive Officer,0.8,
+Department for Communities and Local Government,Government Office Network,GO South East,GO049,Senior Planning Officer,42001,47550,Senior Planning Officer,4.8,Recorded as SEO level on organogram
+"Department for Environment, Food and Rural Affairs",Government Office Network,GO South East,GO049,Higher Executive Officer,29289,33220,Higher Executive Officer,1.0,
+Home Office,Government Office Network,GO South East,GO049,Grade 6,57671,72548,Grade 6,2.0,
+Department for Business Innovation and Skills,Government Office Network,GO South East,GO050,Higher Executive Officer,29289,33220,Higher Executive Officer,0.8,
+Department for Business Innovation and Skills,Government Office Network,GO South East,GO050,Senior Executive Officer,35316,40071,Senior Executive Officer,2.0,
+"Department for Children, Schools and Families",Government Office Network,GO South East,GO050,Grade 6,57671,72548,Grade 6,1.0
+"Department for Children, Schools and Families",Government Office Network,GO South East,GO050,Grade 7,47556,59827,Grade 7,0.8
+"Department for Children, Schools and Families",Government Office Network,GO South East,GO050,Higher Executive Officer,29289,33220,Higher Executive Officer,0.6
+"Department for Children, Schools and Families",Government Office Network,GO South East,GO050,Senior Executive Officer,35316,40071,Senior Executive Officer,2.8
+Department for Communities and Local Government,Government Office Network,GO South East,GO050,Administrative Officer,19133,22095,Administrative Officer,1.0
+Department for Communities and Local Government,Government Office Network,GO South East,GO050,Executive Officer,22628,26958,Executive Officer,0.8
+Department for Communities and Local Government,Government Office Network,GO South East,GO050,Grade 7,47556,59827,Grade 7,1.0
+Department for Communities and Local Government,Government Office Network,GO South East,GO050,Higher Executive Officer,29289,33220,Higher Executive Officer,1.0
+Department for Communities and Local Government,Government Office Network,GO South East,GO050,Senior Executive Officer,35316,40071,Senior Executive Officer,2.0
+"Department for Environment, Food and Rural Affairs",Government Office Network,GO South East,GO050,Executive Officer,22628,26958,Executive Officer,1.0
+"Department for Environment, Food and Rural Affairs",Government Office Network,GO South East,GO050,Grade 7,47556,59827,Grade 7,1.9
+"Department for Environment, Food and Rural Affairs",Government Office Network,GO South East,GO050,Higher Executive Officer,29289,33220,Higher Executive Officer,1.0
+"Department for Environment, Food and Rural Affairs",Government Office Network,GO South East,GO050,Senior Executive Officer,35316,40071,Senior Executive Officer,1.0
+Department for Transport,Government Office Network,GO South East,GO050,Higher Executive Officer,29289,33220,Higher Executive Officer,0.5
+Home Office,Government Office Network,GO South East,GO050,Executive Officer,22628,26958,Executive Officer,1.0
+Home Office,Government Office Network,GO South East,GO050,Grade 6,57671,72548,Grade 6,2.0
+Home Office,Government Office Network,GO South East,GO050,Grade 7,47556,59827,Grade 7,1.8
+Home Office,Government Office Network,GO South East,GO050,Senior Executive Officer,35316,40071,Senior Executive Officer,3.0
+Department for Business Innovation and Skills,Government Office Network,GO South East,GO051,Executive Officer,22628,26958,Executive Officer,2.0
+Department for Business Innovation and Skills,Government Office Network,GO South East,GO051,Grade 7,47556,59827,Grade 7,3.0
+Department for Business Innovation and Skills,Government Office Network,GO South East,GO051,Senior Executive Officer,35316,40071,Senior Executive Officer,1.5
+"Department for Children, Schools and Families",Government Office Network,GO South East,GO051,Administrative Officer,19133,22095,Administrative Officer,1.0
+"Department for Children, Schools and Families",Government Office Network,GO South East,GO051,Grade 6,57671,72548,Grade 6,0.9
+"Department for Children, Schools and Families",Government Office Network,GO South East,GO051,Grade 7,47556,59827,Grade 7,1.0
+"Department for Children, Schools and Families",Government Office Network,GO South East,GO051,Higher Executive Officer,29289,33220,Higher Executive Officer,1.0
+Department for Communities and Local Government,Government Office Network,GO South East,GO051,Administrative Officer,19133,22095,Administrative Officer,0.4
+Department for Communities and Local Government,Government Office Network,GO South East,GO051,Grade 7,47556,59827,Grade 7,0.9
+Department for Communities and Local Government,Government Office Network,GO South East,GO051,Higher Executive Officer,29289,33220,Higher Executive Officer,1.0
+Department for Communities and Local Government,Government Office Network,GO South East,GO051,Senior Executive Officer,35316,40071,Senior Executive Officer,1.0
+"Department for Environment, Food and Rural Affairs",Government Office Network,GO South East,GO051,Administrative Officer,19133,22095,Administrative Officer,0.4
+"Department for Environment, Food and Rural Affairs",Government Office Network,GO South East,GO051,Grade 6,57671,72548,Grade 6,1.0
+"Department for Environment, Food and Rural Affairs",Government Office Network,GO South East,GO051,Higher Executive Officer,29289,33220,Higher Executive Officer,1.9
+"Department for Environment, Food and Rural Affairs",Government Office Network,GO South East,GO051,Senior Executive Officer,35316,40071,Senior Executive Officer,1.0,
+Department for Transport,Government Office Network,GO South East,GO051,Administrative Officer,19133,22095,Administrative Officer,0.6,
+Department for Transport,Government Office Network,GO South East,GO051,Executive Officer,22628,26958,Executive Officer,1.8,
+Department for Transport,Government Office Network,GO South East,GO051,Grade 6,57671,72548,Grade 6,1.0,
+Department for Transport,Government Office Network,GO South East,GO051,Higher Executive Officer,29289,33220,Higher Executive Officer,0.5,
+Department for Transport,Government Office Network,GO South East,GO051,Senior Executive Officer,35316,40071,Senior Executive Officer,1.0,
+Department for Transport,Government Office Network,GO South East,GO051,Senior Professional & Technical Officer,42001,47550,Senior Professional & Technical Officer,1.0,Recorded as SEO level on organogram
+Home Office,Government Office Network,GO South East,GO051,Grade 7,47556,59827,Grade 7,1.0,
+Department for Business Innovation and Skills,Government Office Network,GO South West,GO052,Administrative Officer,16457,18414,Administrative Officer,1.0,
+Department for Business Innovation and Skills,Government Office Network,GO South West,GO052,Executive Officer,19927,23582,Executive Officer,2.7,
+Department for Business Innovation and Skills,Government Office Network,GO South West,GO052,Higher Executive Officer,26676,29599,Higher Executive Officer,0.7,
+"Department for Children, Schools and Families",Government Office Network,GO South West,GO052,Executive Officer,19927,23582,Executive Officer,0.8,
+"Department for Children, Schools and Families",Government Office Network,GO South West,GO052,Grade 7,44509,54946,Grade 7,2.0,
+"Department for Children, Schools and Families",Government Office Network,GO South West,GO052,Higher Executive Officer,26676,29599,Higher Executive Officer,0.9,
+"Department for Children, Schools and Families",Government Office Network,GO South West,GO052,Senior Executive Officer,32599,36177,Senior Executive Officer,1.8,
+Department for Communities and Local Government,Government Office Network,GO South West,GO052,Executive Officer,19927,23582,Executive Officer,1.0,
+Department for Communities and Local Government,Government Office Network,GO South West,GO052,Grade 7,44509,54946,Grade 7,1.0
+Department for Communities and Local Government,Government Office Network,GO South West,GO052,Higher Executive Officer,26676,29599,Higher Executive Officer,2.8
+Department for Communities and Local Government,Government Office Network,GO South West,GO052,Senior Executive Officer,32599,36177,Senior Executive Officer,1.0
+"Department for Environment, Food and Rural Affairs",Government Office Network,GO South West,GO052,Senior Executive Officer,32599,36177,Senior Executive Officer,3.0
+Home Office,Government Office Network,GO South West,GO052,Grade 7,44509,54946,Grade 7,1.7
+Department for Business Innovation and Skills,Government Office Network,GO South West,GO053,Administrative Officer,16457,18414,Administrative Officer,1.0
+Department for Business Innovation and Skills,Government Office Network,GO South West,GO053,Executive Officer,19927,23582,Executive Officer,3.2
+Department for Business Innovation and Skills,Government Office Network,GO South West,GO053,Grade 6,54490,67506,Grade 6,1.9
+Department for Business Innovation and Skills,Government Office Network,GO South West,GO053,Grade 7,44509,54946,Grade 7,1.0
+Department for Business Innovation and Skills,Government Office Network,GO South West,GO053,Higher Executive Officer,26676,29599,Higher Executive Officer,1.0
+Department for Business Innovation and Skills,Government Office Network,GO South West,GO053,Senior Executive Officer,32599,36177,Senior Executive Officer,1.0
+"Department for Children, Schools and Families",Government Office Network,GO South West,GO053,Administrative Officer,16457,18414,Administrative Officer,1.5
+"Department for Children, Schools and Families",Government Office Network,GO South West,GO053,Executive Officer,19927,23582,Executive Officer,1.0
+"Department for Children, Schools and Families",Government Office Network,GO South West,GO053,Grade 7,44509,54946,Grade 7,3.0
+"Department for Children, Schools and Families",Government Office Network,GO South West,GO053,Higher Executive Officer,26676,29599,Higher Executive Officer,0.9
+"Department for Children, Schools and Families",Government Office Network,GO South West,GO053,Senior Executive Officer,32599,36177,Senior Executive Officer,2.6
+Department for Communities and Local Government,Government Office Network,GO South West,GO053,Administrative Assistant,14482,15164,Administrative Assistant,1.0
+Department for Communities and Local Government,Government Office Network,GO South West,GO053,Administrative Officer,16457,18414,Administrative Officer,2.8
+Department for Communities and Local Government,Government Office Network,GO South West,GO053,Executive Officer,19927,23582,Executive Officer,0.9
+Department for Communities and Local Government,Government Office Network,GO South West,GO053,Grade 7,44509,54946,Grade 7,1.0
+Department for Communities and Local Government,Government Office Network,GO South West,GO053,Higher Executive Officer,26676,29599,Higher Executive Officer,3.6
+Department for Communities and Local Government,Government Office Network,GO South West,GO053,Senior Executive Officer,32599,36177,Senior Executive Officer,4.0
+"Department for Environment, Food and Rural Affairs",Government Office Network,GO South West,GO053,Grade 7,44509,54946,Grade 7,2.0
+Department for Transport,Government Office Network,GO South West,GO053,Grade 7,44509,54946,Grade 7,1.0
+Department for Transport,Government Office Network,GO South West,GO053,Higher Executive Officer,26676,29599,Higher Executive Officer,1.0
+Home Office,Government Office Network,GO South West,GO053,Executive Officer,19927,23582,Executive Officer,1.0
+Department for Business Innovation and Skills,Government Office Network,GO South West,GO054,Administrative Officer,16457,18414,Administrative Officer,1.0
+Department for Business Innovation and Skills,Government Office Network,GO South West,GO054,Executive Officer,19927,23582,Executive Officer,3.5
+Department for Business Innovation and Skills,Government Office Network,GO South West,GO054,Higher Executive Officer,26676,29599,Higher Executive Officer,3.0
+"Department for Children, Schools and Families",Government Office Network,GO South West,GO054,Administrative Assistant,14482,15164,Administrative Assistant,0.8
+"Department for Children, Schools and Families",Government Office Network,GO South West,GO054,Administrative Officer,16457,18414,Administrative Officer,1.0
+"Department for Children, Schools and Families",Government Office Network,GO South West,GO054,Executive Officer,19927,23582,Executive Officer,1.0
+"Department for Children, Schools and Families",Government Office Network,GO South West,GO054,Grade 7,44509,54946,Grade 7,2.0
+"Department for Children, Schools and Families",Government Office Network,GO South West,GO054,Higher Executive Officer,26676,29599,Higher Executive Officer,1.0
+Department for Communities and Local Government,Government Office Network,GO South West,GO054,Administrative Officer,16457,18414,Administrative Officer,1.0
+Department for Communities and Local Government,Government Office Network,GO South West,GO054,Executive Officer,19927,23582,Executive Officer,1.0
+Department for Communities and Local Government,Government Office Network,GO South West,GO054,Grade 6,54490,67506,Grade 6,1.6
+Department for Communities and Local Government,Government Office Network,GO South West,GO054,Grade 7,44509,54946,Grade 7,2.0
+Department for Communities and Local Government,Government Office Network,GO South West,GO054,Higher Executive Officer,26676,29599,Higher Executive Officer,1.0
+Department for Communities and Local Government,Government Office Network,GO South West,GO054,Senior Executive Officer,32599,36177,Senior Executive Officer,0.6
+"Department for Environment, Food and Rural Affairs",Government Office Network,GO South West,GO054,Executive Officer,19927,23582,Executive Officer,1.0
+"Department for Environment, Food and Rural Affairs",Government Office Network,GO South West,GO054,Higher Executive Officer,26676,29599,Higher Executive Officer,1.0
+Home Office,Government Office Network,GO South West,GO054,Higher Executive Officer,26676,29599,Higher Executive Officer,1.0
+Home Office,Government Office Network,GO South West,GO054,Senior Executive Officer,32599,36177,Senior Executive Officer,2.0
+Department for Business Innovation and Skills,Government Office Network,GO South West,GO055,Executive Officer,19927,23582,Executive Officer,0.7
+"Department for Children, Schools and Families",Government Office Network,GO South West,GO055,Executive Officer,19927,23582,Executive Officer,1.0
+"Department for Children, Schools and Families",Government Office Network,GO South West,GO055,Grade 6,54490,67506,Grade 6,1.0
+"Department for Children, Schools and Families",Government Office Network,GO South West,GO055,Grade 7,44509,54946,Grade 7,3.7
+"Department for Children, Schools and Families",Government Office Network,GO South West,GO055,Higher Executive Officer,26676,29599,Higher Executive Officer,1.0,
+"Department for Children, Schools and Families",Government Office Network,GO South West,GO055,Senior Executive Officer,32599,36177,Senior Executive Officer,3.8,
+Department for Communities and Local Government,Government Office Network,GO South West,GO055,Grade 7,44509,54946,Grade 7,1.0,
+"Department for Culture, Media and Sport",Government Office Network,GO South West,GO055,Senior Executive Officer,32599,36177,Senior Executive Officer,1.0,
+Home Office,Government Office Network,GO South West,GO055,Higher Executive Officer,26676,29599,Higher Executive Officer,1.0,
+Department for Business Innovation and Skills,Government Office Network,GO South West,GO056,Grade 7,44509,54946,Grade 7,1.6,
+"Department for Children, Schools and Families",Government Office Network,GO South West,GO056,Grade 6,54490,67506,Grade 6,1.0,
+"Department for Children, Schools and Families",Government Office Network,GO South West,GO056,Grade 7,44509,54946,Grade 7,1.0,
+"Department for Children, Schools and Families",Government Office Network,GO South West,GO056,Senior Executive Officer,32599,36177,Senior Executive Officer,2.0,
+Department for Communities and Local Government,Government Office Network,GO South West,GO056,Administrative Officer,16457,18414,Administrative Officer,1.0,
+Department for Communities and Local Government,Government Office Network,GO South West,GO056,Executive Officer,19927,23582,Executive Officer,2.0,
+Department for Communities and Local Government,Government Office Network,GO South West,GO056,Grade 7,44509,54946,Grade 7,3.6,
+Department for Communities and Local Government,Government Office Network,GO South West,GO056,Senior Executive Officer,32599,36177,Senior Executive Officer,1.0,
+Department for Communities and Local Government,Government Office Network,GO South West,GO056,Senior Professional & Technical Officer,40640,45139,Senior Professional & Technical Officer,1.0,Recorded as SEO level on organogram
+"Department for Environment, Food and Rural Affairs",Government Office Network,GO South West,GO056,Higher Executive Officer,26676,29599,Higher Executive Officer,1.0,
+"Department for Environment, Food and Rural Affairs",Government Office Network,GO South West,GO056,Senior Executive Officer,32599,36177,Senior Executive Officer,2.0,
+Department for Transport,Government Office Network,GO South West,GO056,Senior Professional & Technical Officer,40640,45139,Senior Professional & Technical Officer,1.8,Recorded as SEO level on organogram
+"Department for Children, Schools and Families",Government Office Network,GO South West,GO057,Grade 7,44509,54946,Grade 7,1.0,
+Department for Communities and Local Government,Government Office Network,GO South West,GO057,Executive Officer,19927,23582,Executive Officer,2.0,
+Department for Communities and Local Government,Government Office Network,GO South West,GO057,Grade 7,44509,54946,Grade 7,2.0,
+Department for Communities and Local Government,Government Office Network,GO South West,GO057,Higher Executive Officer,26676,29599,Higher Executive Officer,1.0,
+"Department for Environment, Food and Rural Affairs",Government Office Network,GO South West,GO057,Grade 7,44509,54946,Grade 7,1.0,
+Home Office,Government Office Network,GO South West,GO057,Grade 7,44509,54946,Grade 7,0.6,
+Home Office,Government Office Network,GO South West,GO057,Senior Executive Officer,32599,36177,Senior Executive Officer,2.0,
+Department for Business Innovation and Skills,Government Office Network,GO South West,GO058,Administrative Officer,16457,18414,Administrative Officer,1.0,
+Department for Business Innovation and Skills,Government Office Network,GO South West,GO058,Executive Officer,19927,23582,Executive Officer,2.0,
+Department for Business Innovation and Skills,Government Office Network,GO South West,GO058,Higher Executive Officer,26676,29599,Higher Executive Officer,1.0,
+"Department for Children, Schools and Families",Government Office Network,GO South West,GO058,Executive Officer,19927,23582,Executive Officer,1.0,
+"Department for Children, Schools and Families",Government Office Network,GO South West,GO058,Grade 6,54490,67506,Grade 6,1.0,
+"Department for Children, Schools and Families",Government Office Network,GO South West,GO058,Higher Executive Officer,26676,29599,Higher Executive Officer,1.0,
+"Department for Children, Schools and Families",Government Office Network,GO South West,GO058,Senior Executive Officer,32599,36177,Senior Executive Officer,1.0,
+Department for Communities and Local Government,Government Office Network,GO South West,GO058,Executive Officer,19927,23582,Executive Officer,3.6,
+Department for Communities and Local Government,Government Office Network,GO South West,GO058,Grade 6,54490,67506,Grade 6,1.0,
+Department for Communities and Local Government,Government Office Network,GO South West,GO058,Grade 7,44509,54946,Grade 7,2.6,
+Department for Communities and Local Government,Government Office Network,GO South West,GO058,Higher Executive Officer,26676,29599,Higher Executive Officer,4.0,
+Department for Communities and Local Government,Government Office Network,GO South West,GO058,Personal Secretary,16457,18414,Personal Secretary,0.9,Recorded as AO level on organogram
+Department for Communities and Local Government,Government Office Network,GO South West,GO058,Senior Executive Officer,32599,36177,Senior Executive Officer,1.0,
+Department for Communities and Local Government,Government Office Network,GO South West,GO058,Senior Planning Officer,40640,45139,Senior Planning Officer,4.9,Recorded as SEO level on organogram
+"Department for Environment, Food and Rural Affairs",Government Office Network,GO South West,GO058,Executive Officer,19927,23582,Executive Officer,1.0,
+"Department for Environment, Food and Rural Affairs",Government Office Network,GO South West,GO058,Higher Executive Officer,26676,29599,Higher Executive Officer,1.6,
+Department for Transport,Government Office Network,GO South West,GO058,Executive Officer,19927,23582,Executive Officer,1.0,
+Department for Transport,Government Office Network,GO South West,GO058,Higher Executive Officer,26676,29599,Higher Executive Officer,0.6,
+Department for Transport,Government Office Network,GO South West,GO058,Senior Executive Officer,32599,36177,Senior Executive Officer,1.0,
+Home Office,Government Office Network,GO South West,GO058,Grade 6,54490,67506,Grade 6,1.0,
+Department for Business Innovation and Skills,Government Office Network,GO West Midlands,GO059,Administrative Officer,16457,18414,Administrative Officer,3.0,
+Department for Business Innovation and Skills,Government Office Network,GO West Midlands,GO059,Executive Officer,19927,23582,Executive Officer,1.0,
+Department for Business Innovation and Skills,Government Office Network,GO West Midlands,GO059,Grade 7,44509,54946,Grade 7,3.3,
+Department for Business Innovation and Skills,Government Office Network,GO West Midlands,GO059,Higher Executive Officer,26676,29599,Higher Executive Officer,1.6,
+Department for Business Innovation and Skills,Government Office Network,GO West Midlands,GO059,Senior Executive Officer,32599,36177,Senior Executive Officer,1.0,
+"Department for Children, Schools and Families",Government Office Network,GO West Midlands,GO059,Executive Officer,19927,23582,Executive Officer,1.0,
+"Department for Children, Schools and Families",Government Office Network,GO West Midlands,GO059,Grade 6,54490,67506,Grade 6,1.0,
+"Department for Children, Schools and Families",Government Office Network,GO West Midlands,GO059,Grade 7,44509,54946,Grade 7,2.0,
+"Department for Children, Schools and Families",Government Office Network,GO West Midlands,GO059,Personal Secretary,16457,18414,Personal Secretary,1.0,Recorded as AO level on organogram
+"Department for Children, Schools and Families",Government Office Network,GO West Midlands,GO059,Senior Executive Officer,32599,36177,Senior Executive Officer,3.8,
+Department for Communities and Local Government,Government Office Network,GO West Midlands,GO059,Executive Officer,19927,23582,Executive Officer,1.0,
+Department for Communities and Local Government,Government Office Network,GO West Midlands,GO059,Grade 7,44509,54946,Grade 7,2.0,
+Department for Communities and Local Government,Government Office Network,GO West Midlands,GO059,Higher Executive Officer,26676,29599,Higher Executive Officer,1.0,
+Department for Communities and Local Government,Government Office Network,GO West Midlands,GO059,Senior Executive Officer,32599,36177,Senior Executive Officer,1.8,
+Department for Transport,Government Office Network,GO West Midlands,GO059,Grade 6,54490,67506,Grade 6,1.0,
+Department for Transport,Government Office Network,GO West Midlands,GO059,Higher Executive Officer,26676,29599,Higher Executive Officer,1.0,
+Home Office,Government Office Network,GO West Midlands,GO059,Grade 7,44509,54946,Grade 7,1.0,
+Department for Business Innovation and Skills,Government Office Network,GO West Midlands,GO060,Administrative Officer,16457,18414,Administrative Officer,1.0,
+Department for Business Innovation and Skills,Government Office Network,GO West Midlands,GO060,Higher Executive Officer,26676,29599,Higher Executive Officer,0.6,
+Department for Business Innovation and Skills,Government Office Network,GO West Midlands,GO060,Senior Executive Officer,32599,36177,Senior Executive Officer,1.0,
+"Department for Children, Schools and Families",Government Office Network,GO West Midlands,GO060,Executive Officer,19927,23582,Executive Officer,2.0
+"Department for Children, Schools and Families",Government Office Network,GO West Midlands,GO060,Higher Executive Officer,26676,29599,Higher Executive Officer,3.0
+Department for Communities and Local Government,Government Office Network,GO West Midlands,GO060,Executive Officer,19927,23582,Executive Officer,1.7
+Department for Communities and Local Government,Government Office Network,GO West Midlands,GO060,Grade 6,54490,67506,Grade 6,2.0
+Department for Communities and Local Government,Government Office Network,GO West Midlands,GO060,Grade 7,44509,54946,Grade 7,2.0
+Department for Communities and Local Government,Government Office Network,GO West Midlands,GO060,Higher Executive Officer,26676,29599,Higher Executive Officer,1.0
+Department for Communities and Local Government,Government Office Network,GO West Midlands,GO060,Senior Executive Officer,32599,36177,Senior Executive Officer,2.0
+Home Office,Government Office Network,GO West Midlands,GO060,Executive Officer,19927,23582,Executive Officer,1.0
+Home Office,Government Office Network,GO West Midlands,GO060,Grade 6,54490,67506,Grade 6,1.0
+Home Office,Government Office Network,GO West Midlands,GO060,Grade 7,44509,54946,Grade 7,2.0
+Home Office,Government Office Network,GO West Midlands,GO060,Higher Executive Officer,26676,29599,Higher Executive Officer,1.0
+Home Office,Government Office Network,GO West Midlands,GO060,Senior Executive Officer,32599,36177,Senior Executive Officer,1.4
+Department for Business Innovation and Skills,Government Office Network,GO West Midlands,GO061,Administrative Officer,16457,18414,Administrative Officer,2.0
+Department for Business Innovation and Skills,Government Office Network,GO West Midlands,GO061,Executive Officer,19927,23582,Executive Officer,0.8
+Department for Business Innovation and Skills,Government Office Network,GO West Midlands,GO061,Grade 6,54490,67506,Grade 6,1.0
+Department for Business Innovation and Skills,Government Office Network,GO West Midlands,GO061,Higher Executive Officer,26676,29599,Higher Executive Officer,2.9
+Department for Business Innovation and Skills,Government Office Network,GO West Midlands,GO061,Senior Executive Officer,32599,36177,Senior Executive Officer,1.0,
+"Department for Children, Schools and Families",Government Office Network,GO West Midlands,GO061,Executive Officer,19927,23582,Executive Officer,2.0,
+"Department for Children, Schools and Families",Government Office Network,GO West Midlands,GO061,Higher Executive Officer,26676,29599,Higher Executive Officer,1.6,
+Department for Communities and Local Government,Government Office Network,GO West Midlands,GO061,Administrative Officer,16457,18414,Administrative Officer,4.5,
+Department for Communities and Local Government,Government Office Network,GO West Midlands,GO061,Executive Officer,19927,23582,Executive Officer,3.7,
+Department for Communities and Local Government,Government Office Network,GO West Midlands,GO061,Grade 7,44509,54946,Grade 7,2.0,
+Department for Communities and Local Government,Government Office Network,GO West Midlands,GO061,Higher Executive Officer,26676,29599,Higher Executive Officer,3.0,
+Department for Communities and Local Government,Government Office Network,GO West Midlands,GO061,Senior Executive Officer,32599,36177,Senior Executive Officer,3.8,
+Department for Communities and Local Government,Government Office Network,GO West Midlands,GO061,Senior Planning Officer,40640,45139,Senior Planning Officer,3.7,Recorded as SEO level on organogram
+"Department for Environment, Food and Rural Affairs",Government Office Network,GO West Midlands,GO061,Grade 7,44509,54946,Grade 7,2.0,
+"Department for Environment, Food and Rural Affairs",Government Office Network,GO West Midlands,GO061,Higher Executive Officer,26676,29599,Higher Executive Officer,0.6,
+"Department for Environment, Food and Rural Affairs",Government Office Network,GO West Midlands,GO061,Senior Executive Officer,32599,36177,Senior Executive Officer,1.0,
+"Department for Environment, Food and Rural Affairs",Government Office Network,GO West Midlands,GO061,Senior Professional & Technical Officer,40640,45139,Senior Professional & Technical Officer,1.0,Recorded as SEO level on organogram
+Department for Transport,Government Office Network,GO West Midlands,GO061,Grade 6,54490,67506,Grade 6,1.0,
+Department for Transport,Government Office Network,GO West Midlands,GO061,Higher Executive Officer,26676,29599,Higher Executive Officer,1.0,
+Department for Transport,Government Office Network,GO West Midlands,GO061,Senior Executive Officer,32599,36177,Senior Executive Officer,1.0,
+Department for Transport,Government Office Network,GO West Midlands,GO061,Senior Professional & Technical Officer,40640,45139,Senior Professional & Technical Officer,1.0,Recorded as SEO level on organogram
+Department for Business Innovation and Skills,Government Office Network,GO West Midlands,GO062,Executive Officer,19927,23582,Executive Officer,1.0,
+Department for Business Innovation and Skills,Government Office Network,GO West Midlands,GO062,Grade 7,44509,54946,Grade 7,1.0,
+Department for Business Innovation and Skills,Government Office Network,GO West Midlands,GO062,Higher Executive Officer,26676,29599,Higher Executive Officer,4.7,
+Department for Business Innovation and Skills,Government Office Network,GO West Midlands,GO062,Senior Executive Officer,32599,36177,Senior Executive Officer,2.9,
+"Department for Children, Schools and Families",Government Office Network,GO West Midlands,GO062,Administrative Assistant,14482,15164,Administrative Assistant,1.0,
+"Department for Children, Schools and Families",Government Office Network,GO West Midlands,GO062,Administrative Officer,16457,18414,Administrative Officer,1.7,
+"Department for Children, Schools and Families",Government Office Network,GO West Midlands,GO062,Grade 7,44509,54946,Grade 7,2.0,
+"Department for Children, Schools and Families",Government Office Network,GO West Midlands,GO062,Higher Executive Officer,26676,29599,Higher Executive Officer,2.6,
+"Department for Children, Schools and Families",Government Office Network,GO West Midlands,GO062,Senior Executive Officer,32599,36177,Senior Executive Officer,1.0,
+Department for Communities and Local Government,Government Office Network,GO West Midlands,GO062,Administrative Officer,16457,18414,Administrative Officer,1.0,
+Department for Communities and Local Government,Government Office Network,GO West Midlands,GO062,Executive Officer,19927,23582,Executive Officer,1.8,
+Department for Communities and Local Government,Government Office Network,GO West Midlands,GO062,Senior Executive Officer,32599,36177,Senior Executive Officer,1.0,
+Department for Communities and Local Government,Government Office Network,GO West Midlands,GO062,Grade 6,54490,67506,Grade 6,2.0,
+Department for Communities and Local Government,Government Office Network,GO West Midlands,GO062,Grade 7,44509,54946,Grade 7,2.0,
+Department for Communities and Local Government,Government Office Network,GO West Midlands,GO062,Higher Executive Officer,26676,29599,Higher Executive Officer,5.5,
+Department for Communities and Local Government,Government Office Network,GO West Midlands,GO062,Support Grade Band 1,16457,18414,Support Grade Band 1,1.0,Recorded as AO level on organogram
+Department for Communities and Local Government,Government Office Network,GO West Midlands,GO062,Support Grade Band 2,14482,15164,Support Grade Band 2,1.0,Recorded as AA level on organogram
+Department for Transport,Government Office Network,GO West Midlands,GO062,Administrative Assistant,14482,15164,Administrative Assistant,1.0,
+Department for Transport,Government Office Network,GO West Midlands,GO062,Administrative Officer,16457,18414,Administrative Officer,1.0,
+Department for Transport,Government Office Network,GO West Midlands,GO062,Executive Officer,19927,23582,Executive Officer,2.0,
+Department for Transport,Government Office Network,GO West Midlands,GO062,Grade 7,44509,54946,Grade 7,3.0,
+Home Office,Government Office Network,GO West Midlands,GO062,Grade 6,54490,67506,Grade 6,1.0,
+Home Office,Government Office Network,GO West Midlands,GO062,Grade 7,44509,54946,Grade 7,2.0,
+Home Office,Government Office Network,GO West Midlands,GO062,Higher Executive Officer,26676,29599,Higher Executive Officer,1.0,
+Department for Business Innovation and Skills,Government Office Network,GO West Midlands,GO063,Executive Officer,19927,23582,Executive Officer,0.6,
+Department for Business Innovation and Skills,Government Office Network,GO West Midlands,GO063,Senior Executive Officer,32599,36177,Senior Executive Officer,2.0,
+"Department for Children, Schools and Families",Government Office Network,GO West Midlands,GO063,Administrative Officer,16457,18414,Administrative Officer,0.8,
+"Department for Children, Schools and Families",Government Office Network,GO West Midlands,GO063,Executive Officer,19927,23582,Executive Officer,1.0,
+"Department for Children, Schools and Families",Government Office Network,GO West Midlands,GO063,Grade 6,54490,67506,Grade 6,2.0,
+"Department for Children, Schools and Families",Government Office Network,GO West Midlands,GO063,Grade 7,44509,54946,Grade 7,4.0,
+"Department for Children, Schools and Families",Government Office Network,GO West Midlands,GO063,Higher Executive Officer,26676,29599,Higher Executive Officer,2.0,
+"Department for Children, Schools and Families",Government Office Network,GO West Midlands,GO063,Senior Executive Officer,32599,36177,Senior Executive Officer,1.0,
+Department for Communities and Local Government,Government Office Network,GO West Midlands,GO063,Administrative Officer,16457,18414,Administrative Officer,1.0,
+Department for Communities and Local Government,Government Office Network,GO West Midlands,GO063,Executive Officer,19927,23582,Executive Officer,1.0,
+Department for Communities and Local Government,Government Office Network,GO West Midlands,GO063,Higher Executive Officer,26676,29599,Higher Executive Officer,1.0,
+Department for Communities and Local Government,Government Office Network,GO West Midlands,GO063,Personal Secretary,16457,18414,Personal Secretary,1.0,Recorded as AO level on organogram
+Home Office,Government Office Network,GO West Midlands,GO063,Senior Executive Officer,32599,36177,Senior Executive Officer,1.0,
+Department for Business Innovation and Skills,Government Office Network,GO Yorkshire and Humber,GO064,Grade 7,44509,54946,Grade 7,1.0,
+Department for Business Innovation and Skills,Government Office Network,GO Yorkshire and Humber,GO064,Senior Executive Officer,32599,36177,Senior Executive Officer,1.0,
+"Department for Children, Schools and Families",Government Office Network,GO Yorkshire and Humber,GO064,Higher Executive Officer,26676,29599,Higher Executive Officer,2.0,
+"Department for Children, Schools and Families",Government Office Network,GO Yorkshire and Humber,GO064,Senior Executive Officer,32599,36177,Senior Executive Officer,3.0,
+"Department for Children, Schools and Families",Government Office Network,GO Yorkshire and Humber,GO064,Senior Personal Secretary,19927,23582,Senior Personal Secretary,1.0,Recorded as EO level on organogram
+Department for Communities and Local Government,Government Office Network,GO Yorkshire and Humber,GO064,Administrative Officer,16457,18414,Administrative Officer,1.8,
+Department for Communities and Local Government,Government Office Network,GO Yorkshire and Humber,GO064,Executive Officer,19927,23582,Executive Officer,4.0,
+Department for Communities and Local Government,Government Office Network,GO Yorkshire and Humber,GO064,Grade 7,44509,54946,Grade 7,3.0,
+Department for Communities and Local Government,Government Office Network,GO Yorkshire and Humber,GO064,Higher Executive Officer,26676,29599,Higher Executive Officer,1.7,
+Department for Communities and Local Government,Government Office Network,GO Yorkshire and Humber,GO064,Senior Executive Officer,32599,36177,Senior Executive Officer,1.7,
+Department for Communities and Local Government,Government Office Network,GO Yorkshire and Humber,GO064,Senior Research Officer,40640,45139,Senior Research Officer,1.0,Recorded as SEO level on organogram
+"Department for Environment, Food and Rural Affairs",Government Office Network,GO Yorkshire and Humber,GO064,Grade 6,54490,67506,Grade 6,1.0,
+"Department for Environment, Food and Rural Affairs",Government Office Network,GO Yorkshire and Humber,GO064,Grade 7,44509,54946,Grade 7,1.0,
+"Department for Environment, Food and Rural Affairs",Government Office Network,GO Yorkshire and Humber,GO064,Higher Executive Officer,26676,29599,Higher Executive Officer,0.6,
+"Department for Environment, Food and Rural Affairs",Government Office Network,GO Yorkshire and Humber,GO064,Senior Executive Officer,32599,36177,Senior Executive Officer,1.0,
+Department for Work and Pensions,Government Office Network,GO Yorkshire and Humber,GO064,Grade 6,54490,67506,Grade 6,1.0,
+Home Office,Government Office Network,GO Yorkshire and Humber,GO064,Executive Officer,19927,23582,Executive Officer,1.0,
+Home Office,Government Office Network,GO Yorkshire and Humber,GO064,Grade 6,54490,67506,Grade 6,1.0,
+Home Office,Government Office Network,GO Yorkshire and Humber,GO064,Grade 7,44509,54946,Grade 7,1.7,
+Home Office,Government Office Network,GO Yorkshire and Humber,GO064,Higher Executive Officer,26676,29599,Higher Executive Officer,1.0,
+Department for Business Innovation and Skills,Government Office Network,GO Yorkshire and Humber,GO065,Administrative Assistant,14482,15164,Administrative Assistant,0.3,
+Department for Business Innovation and Skills,Government Office Network,GO Yorkshire and Humber,GO065,Executive Officer,19927,23582,Executive Officer,0.5,
+Department for Business Innovation and Skills,Government Office Network,GO Yorkshire and Humber,GO065,Higher Executive Officer,26676,29599,Higher Executive Officer,3.0,
+Department for Business Innovation and Skills,Government Office Network,GO Yorkshire and Humber,GO065,Senior Executive Officer,32599,36177,Senior Executive Officer,1.0,
+"Department for Children, Schools and Families",Government Office Network,GO Yorkshire and Humber,GO065,Grade 6,54490,67506,Grade 6,1.0,
+"Department for Children, Schools and Families",Government Office Network,GO Yorkshire and Humber,GO065,Grade 7,44509,54946,Grade 7,1.0,
+"Department for Children, Schools and Families",Government Office Network,GO Yorkshire and Humber,GO065,Senior Executive Officer,32599,36177,Senior Executive Officer,2.0,
+Department for Communities and Local Government,Government Office Network,GO Yorkshire and Humber,GO065,Administrative Officer,16457,18414,Administrative Officer,1.7,
+Department for Communities and Local Government,Government Office Network,GO Yorkshire and Humber,GO065,Executive Officer,19927,23582,Executive Officer,2.5,
+"Department for Environment, Food and Rural Affairs",Government Office Network,GO Yorkshire and Humber,GO065,Grade 7,44509,54946,Grade 7,1.0,
+"Department for Environment, Food and Rural Affairs",Government Office Network,GO Yorkshire and Humber,GO065,Senior Executive Officer,32599,36177,Senior Executive Officer,1.6,
+"Department for Environment, Food and Rural Affairs",Government Office Network,GO Yorkshire and Humber,GO065,Senior Professional & Technical Officer,40640,45139,Senior Professional & Technical Officer,1.0,Recorded as SEO level on organogram
+"Department for Environment, Food and Rural Affairs",Government Office Network,GO Yorkshire and Humber,GO065,Senior Research Officer,40640,45139,Senior Research Officer,1.0,Recorded as SEO level on organogram
+Department for Transport,Government Office Network,GO Yorkshire and Humber,GO065,Grade 7,44509,54946,Grade 7,0.8,
+Department for Transport,Government Office Network,GO Yorkshire and Humber,GO065,Higher Executive Officer,26676,29599,Higher Executive Officer,2.0,
+Department for Business Innovation and Skills,Government Office Network,GO Yorkshire and Humber,GO066,Administrative Officer,16457,18414,Administrative Officer,1.3,
+Department for Business Innovation and Skills,Government Office Network,GO Yorkshire and Humber,GO066,Grade 7,44509,54946,Grade 7,1.8,
+Department for Business Innovation and Skills,Government Office Network,GO Yorkshire and Humber,GO066,Higher Executive Officer,26676,29599,Higher Executive Officer,1.5,
+Department for Business Innovation and Skills,Government Office Network,GO Yorkshire and Humber,GO066,Senior Executive Officer,32599,36177,Senior Executive Officer,2.0,
+"Department for Children, Schools and Families",Government Office Network,GO Yorkshire and Humber,GO066,Executive Officer,19927,23582,Executive Officer,2.0,
+"Department for Children, Schools and Families",Government Office Network,GO Yorkshire and Humber,GO066,Grade 6,54490,67506,Grade 6,1.0,
+"Department for Children, Schools and Families",Government Office Network,GO Yorkshire and Humber,GO066,Senior Professional & Technical Officer,40640,45139,Senior Professional & Technical Officer,1.0,Recorded as SEO level on organogram
+Department for Communities and Local Government,Government Office Network,GO Yorkshire and Humber,GO066,Grade 7,44509,54946,Grade 7,1.0,
+Department for Communities and Local Government,Government Office Network,GO Yorkshire and Humber,GO066,Higher Executive Officer,26676,29599,Higher Executive Officer,1.0,
+Department for Communities and Local Government,Government Office Network,GO Yorkshire and Humber,GO066,Senior Executive Officer,32599,36177,Senior Executive Officer,1.8,
+Department for Transport,Government Office Network,GO Yorkshire and Humber,GO066,Executive Officer,19927,23582,Executive Officer,2.0,
+Department for Transport,Government Office Network,GO Yorkshire and Humber,GO066,Grade 7,44509,54946,Grade 7,1.0,
+Department for Transport,Government Office Network,GO Yorkshire and Humber,GO066,Higher Professional & Technical Officer,31737,35255,Higher Professional & Technical Officer,1.0,Recorded as HEO level on organogram
+Home Office,Government Office Network,GO Yorkshire and Humber,GO066,Grade 7,44509,54946,Grade 7,1.0,
+"Department for Children, Schools and Families",Government Office Network,GO Yorkshire and Humber,GO067,Administrative Officer,16457,18414,Administrative Officer,1.8,
+"Department for Children, Schools and Families",Government Office Network,GO Yorkshire and Humber,GO067,Executive Officer,19927,23582,Executive Officer,2.0,
+"Department for Children, Schools and Families",Government Office Network,GO Yorkshire and Humber,GO067,Grade 6,54490,67506,Grade 6,2.0,
+"Department for Children, Schools and Families",Government Office Network,GO Yorkshire and Humber,GO067,Grade 7,44509,54946,Grade 7,1.0,
+"Department for Children, Schools and Families",Government Office Network,GO Yorkshire and Humber,GO067,Higher Executive Officer,26676,29599,Higher Executive Officer,4.0,
+"Department for Children, Schools and Families",Government Office Network,GO Yorkshire and Humber,GO067,Senior Executive Officer,32599,36177,Senior Executive Officer,2.0,
+Department for Communities and Local Government,Government Office Network,GO Yorkshire and Humber,GO067,Executive Officer,19927,23582,Executive Officer,1.0,
+Department for Communities and Local Government,Government Office Network,GO Yorkshire and Humber,GO067,Grade 7,44509,54946,Grade 7,2.0,
+Department for Communities and Local Government,Government Office Network,GO Yorkshire and Humber,GO067,Senior Executive Officer,32599,36177,Senior Executive Officer,0.8,
+Department for Communities and Local Government,Government Office Network,GO Yorkshire and Humber,GO067,Senior Personal Secretary,19927,23582,Senior Personal Secretary,1.0,Recorded as EO level on organogram
+Home Office,Government Office Network,GO Yorkshire and Humber,GO067,Higher Executive Officer,26676,29599,Higher Executive Officer,1.0,
+Home Office,Government Office Network,GO Yorkshire and Humber,GO067,Senior Executive Officer,32599,36177,Senior Executive Officer,1.6,
+Department for Business Innovation and Skills,Government Office Network,GO Yorkshire and Humber,GO068,Administrative Officer,16457,18414,Administrative Officer,1.0,
+Department for Business Innovation and Skills,Government Office Network,GO Yorkshire and Humber,GO068,Grade 6,54490,67506,Grade 6,1.0,
+Department for Business Innovation and Skills,Government Office Network,GO Yorkshire and Humber,GO068,Grade 7,44509,54946,Grade 7,1.0,
+Department for Business Innovation and Skills,Government Office Network,GO Yorkshire and Humber,GO068,Higher Executive Officer,26676,29599,Higher Executive Officer,1.0,
+Department for Business Innovation and Skills,Government Office Network,GO Yorkshire and Humber,GO068,Senior Executive Officer,32599,36177,Senior Executive Officer,1.0,
+"Department for Children, Schools and Families",Government Office Network,GO Yorkshire and Humber,GO068,Executive Officer,19927,23582,Executive Officer,1.0,
+"Department for Children, Schools and Families",Government Office Network,GO Yorkshire and Humber,GO068,Grade 7,44509,54946,Grade 7,1.0,
+"Department for Children, Schools and Families",Government Office Network,GO Yorkshire and Humber,GO068,Higher Executive Officer,26676,29599,Higher Executive Officer,0.8,
+"Department for Children, Schools and Families",Government Office Network,GO Yorkshire and Humber,GO068,Higher Planning Officer,26676,29599,Higher Planning Officer,1.0,Recorded as HEO level on organogram
+"Department for Children, Schools and Families",Government Office Network,GO Yorkshire and Humber,GO068,Senior Executive Officer,32599,36177,Senior Executive Officer,2.0,
+Department for Communities and Local Government,Government Office Network,GO Yorkshire and Humber,GO068,Administrative Officer,16457,18414,Administrative Officer,1.0,
+Department for Communities and Local Government,Government Office Network,GO Yorkshire and Humber,GO068,Executive Officer,19927,23582,Executive Officer,1.0,
+Department for Communities and Local Government,Government Office Network,GO Yorkshire and Humber,GO068,Grade 7,44509,54946,Grade 7,4.0,
+Department for Communities and Local Government,Government Office Network,GO Yorkshire and Humber,GO068,Higher Executive Officer,26676,29599,Higher Executive Officer,5.6,
+Department for Communities and Local Government,Government Office Network,GO Yorkshire and Humber,GO068,Information Officer,28106,34602,Information Officer,1.0,Recorded as HEO level on organogram
+Department for Communities and Local Government,Government Office Network,GO Yorkshire and Humber,GO068,Senior Information Officer,37371,40767,Senior Information Officer,0.9,Recorded as SEO level on organogram
+Department for Communities and Local Government,Government Office Network,GO Yorkshire and Humber,GO068,Senior Planning Officer,40640,45139,Senior Planning Officer,3.0,Recorded as SEO level on organogram
+Department for Communities and Local Government,Government Office Network,GO Yorkshire and Humber,GO068,Senior Research Officer,40640,45139,Senior Research Officer,1.0,Recorded as SEO level on organogram
+"Department for Culture, Media and Sport",Government Office Network,GO Yorkshire and Humber,GO068,Grade 7,44509,54946,Grade 7,1.0,
+"Department for Environment, Food and Rural Affairs",Government Office Network,GO Yorkshire and Humber,GO068,Executive Officer,19927,23582,Executive Officer,0.6,
+"Department for Environment, Food and Rural Affairs",Government Office Network,GO Yorkshire and Humber,GO068,Grade 7,44509,54946,Grade 7,1.0,
+"Department for Environment, Food and Rural Affairs",Government Office Network,GO Yorkshire and Humber,GO068,Senior Executive Officer,32599,36177,Senior Executive Officer,1.0,
+Department for Transport,Government Office Network,GO Yorkshire and Humber,GO068,Administrative Officer,16457,18414,Administrative Officer,0.5,
+Department for Transport,Government Office Network,GO Yorkshire and Humber,GO068,Executive Officer,19927,23582,Executive Officer,1.0,
+Department for Transport,Government Office Network,GO Yorkshire and Humber,GO068,Grade 7,44509,54946,Grade 7,2.0,
+Department for Transport,Government Office Network,GO Yorkshire and Humber,GO068,Higher Executive Officer,26676,29599,Higher Executive Officer,1.0,
+Department for Transport,Government Office Network,GO Yorkshire and Humber,GO068,Senior Planning Officer,40640,45139,Senior Planning Officer,1.0,Recorded as SEO level on organogram
+Home Office,Government Office Network,GO Yorkshire and Humber,GO068,Executive Officer,19927,23582,Executive Officer,2.0,
+Home Office,Government Office Network,GO Yorkshire and Humber,GO068,Grade 7,44509,54946,Grade 7,1.0,
+Home Office,Government Office Network,GO Yorkshire and Humber,GO068,HEO (D),27000,35000,HEO (D),1.0,HEO (D) staff are Fast Streamers
+Home Office,Government Office Network,GO Yorkshire and Humber,GO068,Higher Executive Officer,26676,29599,Higher Executive Officer,1.0,
+Department for Business Innovation and Skills,Government Office Network,GO South East,GO069,Administrative Officer,19133,22095,Administrative Officer,1.0,
+Department for Business Innovation and Skills,Government Office Network,GO South East,GO069,Executive Officer,22628,26958,Executive Officer,5.0,
+Department for Business Innovation and Skills,Government Office Network,GO South East,GO069,Grade 7,47556,59827,Grade 7,2.0,
+Department for Business Innovation and Skills,Government Office Network,GO South East,GO069,Higher Executive Officer,29289,33220,Higher Executive Officer,1.0,
+Department for Business Innovation and Skills,Government Office Network,GO South East,GO069,Senior Executive Officer,35316,40071,Senior Executive Officer,3.0,
+"Department for Children, Schools and Families",Government Office Network,GO South East,GO069,Grade 6,57671,72548,Grade 6,1.0,
+"Department for Children, Schools and Families",Government Office Network,GO South East,GO069,Grade 7,47556,59827,Grade 7,4.4,
+"Department for Children, Schools and Families",Government Office Network,GO South East,GO069,Senior Executive Officer,35316,40071,Senior Executive Officer,1.6,
+Department for Communities and Local Government,Government Office Network,GO South East,GO069,Administrative Officer,19133,22095,Administrative Officer,2.0,
+Department for Communities and Local Government,Government Office Network,GO South East,GO069,Grade 6,57671,72548,Grade 6,1.0,
+Department for Communities and Local Government,Government Office Network,GO South East,GO069,HEO (D),27000,35000,HEO (D),1.0,HEO (D) staff are Fast Streamers
+Department for Communities and Local Government,Government Office Network,GO South East,GO069,Higher Executive Officer,29289,33220,Higher Executive Officer,2.0,
+Department for Communities and Local Government,Government Office Network,GO South East,GO069,Senior Executive Officer,35316,40071,Senior Executive Officer,2.0,
+"Department for Environment, Food and Rural Affairs",Government Office Network,GO South East,GO069,Grade 7,47556,59827,Grade 7,1.0,
+Treasury,Government Office Network,GO South East,GO069,Senior Research Officer,42001,47550,Senior Research Officer,1.0,Recorded as SEO level on organogram
+"Department for Children, Schools and Families",Government Office Network,GO North West,GO070,Grade 7,44509,54946,Grade 7,1.0,
+"Department for Children, Schools and Families",Government Office Network,GO North West,GO070,Higher Executive Officer,26676,29599,Higher Executive Officer,1.0,
+"Department for Children, Schools and Families",Government Office Network,GO North West,GO070,Senior Executive Officer,32599,36177,Senior Executive Officer,2.0,
+Department for Communities and Local Government,Government Office Network,GO North West,GO070,Executive Officer,19927,23582,Executive Officer,1.0,
+Department for Communities and Local Government,Government Office Network,GO North West,GO070,Senior Executive Officer,32599,36177,Senior Executive Officer,2.0,
+Department for Transport,Government Office Network,GO North West,GO070,Senior Executive Officer,32599,36177,Senior Executive Officer,1.0,
+Department for Work and Pensions,Government Office Network,GO North West,GO070,Grade 6,54490,67506,Grade 6,1.0,
+Home Office,Government Office Network,GO North West,GO070,Executive Officer,19927,23582,Executive Officer,1.0,
+Home Office,Government Office Network,GO North West,GO070,Grade 7,44509,54946,Grade 7,4.0,
+Home Office,Government Office Network,GO North West,GO070,Higher Executive Officer,26676,29599,Higher Executive Officer,1.0,
+Department for Business Innovation and Skills,Government Office Network,GO East Midlands,GO020,Executive Officer,19927,23582,Executive Officer,1.0,
+Department for Business Innovation and Skills,Government Office Network,GO East Midlands,GO020,Grade 7,44509,54946,Grade 7,1.0,
+Department for Business Innovation and Skills,Government Office Network,GO East Midlands,GO020,Higher Executive Officer,26676,29599,Higher Executive Officer,1.0,
+Department for Business Innovation and Skills,Government Office Network,GO East Midlands,GO020,Senior Executive Officer,32599,36177,Senior Executive Officer,2.0,
+"Department for Children, Schools and Families",Government Office Network,GO East Midlands,GO020,Grade 6,54490,67506,Grade 6,1.0,
+"Department for Children, Schools and Families",Government Office Network,GO East Midlands,GO020,Grade 7,44509,54946,Grade 7,2.0
+"Department for Children, Schools and Families",Government Office Network,GO East Midlands,GO020,Senior Executive Officer,32599,36177,Senior Executive Officer,1.0
+Department for Communities and Local Government,Government Office Network,GO East Midlands,GO020,Administrative Officer,16457,18414,Administrative Officer,1.0
+Department for Communities and Local Government,Government Office Network,GO East Midlands,GO020,Grade 7,44509,54946,Grade 7,1.0
+"Department for Environment, Food and Rural Affairs",Government Office Network,GO East Midlands,GO020,Higher Executive Officer,26676,29599,Higher Executive Officer,1.0
+Home Office,Government Office Network,GO East Midlands,GO020,Grade 7,44509,54946,Grade 7,1.0
+Home Office,Government Office Network,GO East Midlands,GO020,Higher Executive Officer,26676,29599,Higher Executive Officer,1.0
+Home Office,Government Office Network,GO East Midlands,GO020,Senior Executive Officer,32599,36177,Senior Executive Officer,0.8
+Department for Business Innovation and Skills,Government Office Network,GO East Midlands,GO022,Administrative Officer,16457,18414,Administrative Officer,1.0
+Department for Business Innovation and Skills,Government Office Network,GO East Midlands,GO022,Grade 7,44509,54946,Grade 7,1.0
+Department for Business Innovation and Skills,Government Office Network,GO East Midlands,GO022,Higher Executive Officer,26676,29599,Higher Executive Officer,1.6
+Department for Business Innovation and Skills,Government Office Network,GO East Midlands,GO022,Senior Executive Officer,32599,36177,Senior Executive Officer,1.0
+"Department for Children, Schools and Families",Government Office Network,GO East Midlands,GO022,Executive Officer,19927,23582,Executive Officer,1.0
+"Department for Children, Schools and Families",Government Office Network,GO East Midlands,GO022,Grade 7,44509,54946,Grade 7,1.0
+"Department for Children, Schools and Families",Government Office Network,GO East Midlands,GO022,Senior Executive Officer,32599,36177,Senior Executive Officer,1.0
+Department for Communities and Local Government,Government Office Network,GO East Midlands,GO022,Administrative Officer,16457,18414,Administrative Officer,1.0
+Department for Communities and Local Government,Government Office Network,GO East Midlands,GO022,Executive Officer,19927,23582,Executive Officer,4.0
+Department for Communities and Local Government,Government Office Network,GO East Midlands,GO022,Grade 6,54490,67506,Grade 6,0.8
+Department for Communities and Local Government,Government Office Network,GO East Midlands,GO022,Grade 7,44509,54946,Grade 7,2.0
+Department for Communities and Local Government,Government Office Network,GO East Midlands,GO022,Higher Executive Officer,26676,29599,Higher Executive Officer,1.8
+Department for Communities and Local Government,Government Office Network,GO East Midlands,GO022,Higher Professional & Technical Officer,31737,35255,Higher Professional & Technical Officer,1.0
+Department for Communities and Local Government,Government Office Network,GO East Midlands,GO022,Senior Executive Officer,32599,36177,Senior Executive Officer,2.9
+Department for Communities and Local Government,Government Office Network,GO East Midlands,GO022,Senior Planning Officer,40640,45139,Senior Planning Officer,4.0
+"Department for Environment, Food and Rural Affairs",Government Office Network,GO East Midlands,GO022,Senior Executive Officer,32599,36177,Senior Executive Officer,1.0
+Department for Transport,Government Office Network,GO East Midlands,GO022,Executive Officer,19927,23582,Executive Officer,1.0
+Department for Transport,Government Office Network,GO East Midlands,GO022,Grade 6,54490,67506,Grade 6,1.0
+Department for Transport,Government Office Network,GO East Midlands,GO022,Grade 7,44509,54946,Grade 7,1.0
+Department for Transport,Government Office Network,GO East Midlands,GO022,Higher Executive Officer,26676,29599,Higher Executive Officer,2.0
+Department for Transport,Government Office Network,GO East Midlands,GO022,Senior Executive Officer,32599,36177,Senior Executive Officer,1.0

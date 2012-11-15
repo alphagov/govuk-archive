@@ -1,0 +1,11 @@
+Post Unique Reference,Name,Grade,Job Title,FTE,Parent Department,Organisation,Unit,Actual Pay Floor,Actual Pay Ceiling,Notes
+GO001,Paul Pugh,SCS 2,"Director, GO East",1,Home Office,Government Office Network,GO East,95000,99999,
+GO002,Stephen Hillier,SCS 2,"Director, GO East Midlands",1,"Department for Business, Innovation and Skills",Government Office Network,GO East Midlands,95000,99999,
+GO003,N/A,SCS 2,"Director, GO London",N/A,N/A,Government Office Network,GO London,N/A,N/A,Post unfilled on 30th June
+GO004,Brian Hackland,SCS 2,"Director, GO Network Centre and Services",1,Department for Communities and Local Government,Government Office Network,GO Network Centre and Services,100000,104999,
+GO005,Jonathan Blackie,SCS 2,"Director, GO North East",1,Department for Communities and Local Government,Government Office Network,GO North East,110000,114999,
+GO006,Elizabeth Meek,SCS 2,"Director, GO North West",1,Department for Communities and Local Government,Government Office Network,GO North West,125000,129999,
+GO007,Colin Byrne,SCS 2,"Director, GO South East",1,Department for Communities and Local Government,Government Office Network,GO South East,100000,104999,
+GO008,Jon Bright,SCS 2,"Director, GO South West",1,Department for Communities and Local Government,Government Office Network,GO South West,95000,99999,
+GO009,Trudi Elliott,SCS 2,"Director, GO West Midlands",1,Department for Communities and Local Government,Government Office Network,GO West Midlands,125000,129999,
+GO010,Felicity Everiss,SCS 2,"Director, GO Yorkshire & Humber",1,Department for Education,Government Office Network,GO Yorkshire and Humber,105000,109999,

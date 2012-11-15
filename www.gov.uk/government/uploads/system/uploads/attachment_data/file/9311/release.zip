@@ -1,0 +1,63 @@
+<html>
+<head>
+<LINK href="HTTP://www.twidsoftware.co.uk/twid/DIADEM/css/styles.css" type=text/css rel=stylesheet>
+<title>TWID Download Page</title>
+</HEAD>
+<BODY bgColor=#FFFFFF leftMargin=0 topMargin=20 rightMargin=0>
+<table width="100%">
+	<tr>
+		<td width="758">
+		<img border="0" src="HTTP://www.twidsoftware.co.uk/twid/DIADEM/images/twidlogo.JPG" width="477" height="118"></td>
+		<td><img border="0" src="HTTP://www.twidsoftware.co.uk/twid/DIADEM/images/atkinslogo.png" width="165" height="40"></td>
+	</tr>
+</table>
+<div style="position: absolute; width: 759px; height: 85px; z-index: 2; left: 14px; top: 140px" id="layer2">
+	<p style="line-height: 170%; text-indent: 0in; text-align: left; direction: ltr; unicode-bidi: embed; word-break: normal; punctuation-wrap: hanging; margin: 2.0pt 0in">
+	<span style="font-size: 11.0pt; font-family: Calibri; font-variant: normal; color: black; text-transform: none; letter-spacing: 0pt; font-weight: normal; font-style: normal; vertical-align: baseline">
+	The TWID Software site is registered to Atkins Ltd for the support, 
+	maintenance and sales of TUBA, WITA, INCA and DIADEM software on behalf of 
+	the Department for Transport.&nbsp;&nbsp; </span></p><br/>
+	<span style="font-size: 11.0pt; font-family: Calibri; font-variant: normal; color: black; text-transform: none; letter-spacing: 0pt; font-weight: normal; font-style: normal; vertical-align: baseline">
+	For further information please contact:
+	<a href="mailto:twidsoftware@atkinsglobal.com"><font color=#0000CC>twidsoftware@atkinsglobal.com</font></a></span></div>
+
+<div style="position: absolute; width: 759px; height: 23px; z-index: 1; left: 12px; top: 245px" id="layer1">
+	<p style="text-align: left; direction: ltr; unicode-bidi: embed; word-break: normal; punctuation-wrap: hanging; margin-left: 0in; margin-top: 0pt; margin-bottom: 0pt">
+	<span style="font-size: 11.0pt; font-family: Calibri; color: black">To 
+	download the software application, please enter your user name and password </span></div>
+<BR><BR><BR>
+
+
+<div style="position: absolute; width: 346px; height: 210px; z-index: 4; left: 14px; top: 310px" id="layer4">
+<form name="Login" method="post" action="HTTP://www.twidsoftware.co.uk/twid/DIADEM/default.asp?mode=login">
+  <table width="320" border="0" align="center" cellspacing="0" cellpadding="0" bgcolor="#CCCCCC" style="BORDER-BOTTOM: #000000 1px solid; border-top:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000">
+    <tr> 
+      <td align="right" height="47" valign="bottom" width="94">User name: </td>
+      <td height="47" valign="bottom" width="172"> 
+        <input type="text" name="txtUserName">
+      </td>
+    </tr>
+    <tr>
+      <td align="right" width="94">Password: </td>
+      <td width="172"> 
+        <input type="password" name="txtUserPass">
+      </td>
+    </tr>
+    <tr> 
+      <td align="right" height="44" width="94">&nbsp;</td>
+      <td height="44" width="172"> 
+        <input type='image' src='HTTP://www.twidsoftware.co.uk/twid/DIADEM/images/forward.gif' name='Submit' value='Enter' alt='Enter'>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+        <input type='image' src='HTTP://www.twidsoftware.co.uk/twid/DIADEM/images/cancel.gif' name='Reset' value='Reset' alt='Reset'>
+      </td>
+    </tr>
+	<tr><td align='right' height='44' width='94'>&nbsp;</td><td>Forgot login? 
+		<a href="mailto:tuba@atkinsglobal.com">Contact Us</a></td></tr>
+    </table></form>
+</div>    
+<div style="position: absolute; width: 426px; height: 34px; z-index: 3; left: 10px; top: 485px" id="layer3">
+	<p style="text-align: left; direction: ltr; unicode-bidi: embed; word-break: normal; punctuation-wrap: hanging; margin-left: 0in; margin-top: 0pt; margin-bottom: 0pt">
+	<span style="font-size: 11.0pt; font-family: Calibri; color: black">© Atkins 
+	Limited.&nbsp; Last updated 19</span><span style="font-size: 8.0pt; font-family: Calibri; color: black; vertical-align: super">th</span><span style="font-size: 11.0pt; font-family: Calibri; color: black"> 
+	September 2012 </span></div>
+</html>

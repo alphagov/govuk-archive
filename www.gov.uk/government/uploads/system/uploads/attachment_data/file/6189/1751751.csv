@@ -1,0 +1,82 @@
+Post Unique Reference,Name,Grade,Job Title,Parent Department,Organisation,Unit,Contact Phone,Contact E-mail,Reports To,Notes,Total Salary Cost Information
+GO001,Paul Pugh,SCS 2,"Director, GO East",Home Office,Government Office Network,GO East,01223 372 500,enquiries.goeast@goeast.gsi.gov.uk,Joe Montgomery (CLG),Less than 5 direct staff - salary costs rounded up to nearest œ100k,100000
+GO002,Stephen Hillier,SCS 2,"Director, GO East Midlands","Department for Business, Innovation and Skills",Government Office Network,GO East Midlands,0115 971 9971,enquiries@goem.gsi.gov.uk,Joe Montgomery (CLG),,427027
+GO003,N/A,SCS 2,"Director, GO London",N/A,Government Office Network,GO London,N/A,N/A,Joe Montgomery (CLG),Office has been abolished - post no longer exists,554593
+GO004,Brian Hackland,SCS 2,"Director, GO Network Centre and Services",Department for Communities and Local Government,Government Office Network,GO Network Centre and Services,0303 444 1539,goncsenquiries@goncs.gsi.gov.uk,Joe Montgomery (CLG),Less than 5 direct staff - salary costs rounded up to nearest œ100k,300000
+GO005,Jonathan Blackie,SCS 2,"Director, GO North East",Department for Communities and Local Government,Government Office Network,GO North East,0191 201 3300,general.enquiries@gone.gsi.gov.uk,Joe Montgomery (CLG),,403869
+GO006,Elizabeth Meek,SCS 2,"Director, GO North West",Department for Communities and Local Government,Government Office Network,GO North West,0161 952 4000,gonwmailbox@gonw.gsi.gov.uk,Joe Montgomery (CLG),,504033
+GO007,Colin Byrne,SCS 2,"Director, GO South East",Department for Communities and Local Government,Government Office Network,GO South East,01483 882 255,info@gose.gsi.gov.uk,Joe Montgomery (CLG),,428978
+GO008,Jon Bright,SCS 2,"Director, GO South West",Department for Communities and Local Government,Government Office Network,GO South West,0117 900 1700,swcontactus@gosw.gsi.gov.uk,Joe Montgomery (CLG),,342497
+GO009,Trudi Elliott,SCS 2,"Director, GO West Midlands",Department for Communities and Local Government,Government Office Network,GO West Midlands,0121 352 5050,enquiries.team@gowm.gsi.gov.uk,Joe Montgomery (CLG),,412785
+GO010,Felicity Everiss,SCS 2,"Director, GO Yorkshire & Humber",Department for Education,Government Office Network,GO Yorkshire and Humber,0113 341 3000,yhenquiries@goyh.gsi.gov.uk,Joe Montgomery (CLG),,425284
+GO011,N/A,SCS 1A,"Deputy to the Director, GO North West",Department for Work and Pensions,Government Office Network,GO North West,0161 952 4000,gonwmailbox@gonw.gsi.gov.uk,GO006,SCS Pay Band 1A,1770457
+GO012,N/A,SCS 1A,"Deputy to the Director, GO West Midlands","Department for Business, Innovation and Skills",Government Office Network,GO West Midlands,0121 352 5050,enquiries.team@gowm.gsi.gov.uk,GO009,SCS Pay Band 1A,323647
+GO013,N/A,SCS 1,"Deputy Director, Corporate Services",Department for Communities and Local Government,Government Office Network,GO East,01223 372 500,enquiries.goeast@goeast.gsi.gov.uk,GO001,,1437429
+GO014,N/A,SCS 1,"Deputy Director, Development and Infrastructure","Department for Culture, Media and Sport",Government Office Network,GO East,01223 372 500,enquiries.goeast@goeast.gsi.gov.uk,GO001,,1147553
+GO015,N/A,SCS 1,"Deputy Director, Economy and Environment","Department for Environment, Food and Rural Affairs",Government Office Network,GO East,01223 372 500,enquiries.goeast@goeast.gsi.gov.uk,GO001,,870354
+GO016,N/A,SCS 1,"Deputy Director, Localism and Decentralisation",Department for Communities and Local Government,Government Office Network,GO East,01223 372 500,enquiries.goeast@goeast.gsi.gov.uk,GO001,,639225
+GO017,N/A,SCS 1,"Deputy Director, Safer and Stronger Communities",Home Office,Government Office Network,GO East,01223 372 500,enquiries.goeast@goeast.gsi.gov.uk,GO001,,918598
+GO018,N/A,SCS 1,"Deputy Director, Children and Learners",Department for Education,Government Office Network,GO East,01223 372 500,enquiries.goeast@goeast.gsi.gov.uk,GO001,,833671
+GO019,N/A,SCS 1,"Deputy Director, Strategy",Department for Education,Government Office Network,GO East Midlands,0115 971 9971,enquiries@goem.gsi.gov.uk,GO002,,919304
+GO020,N/A,SCS 1,"Deputy Director, Safer, Stronger Communities",Home Office,Government Office Network,GO East Midlands,0115 971 9971,enquiries@goem.gsi.gov.uk,GO002,,630473
+GO021,N/A,SCS 1,"Deputy Director, Economy, Jobs and Skills",Department for Communities and Local Government,Government Office Network,GO East Midlands,0115 971 9971,enquiries@goem.gsi.gov.uk,GO002,,536806
+GO022,N/A,SCS 1,"Deputy Director, Infrastructure",Department for Education,Government Office Network,GO East Midlands,0115 971 9971,enquiries@goem.gsi.gov.uk,GO002,,1186297
+GO023,N/A,SCS 1,"Deputy Director, Children and Learners",Department for Education,Government Office Network,GO East Midlands,0115 971 9971,enquiries@goem.gsi.gov.uk,GO002,,594145
+GO024,N/A,SCS 1,"Deputy Director, Local Government and Localities",Department for Education,Government Office Network,GO East Midlands,0115 971 9971,enquiries@goem.gsi.gov.uk,GO002,,700607
+GO025,N/A,SCS 1,"Deputy Director, Community Safety",Ministry of Justice,Government Office Network,GO London,N/A,N/A,GO003,Office has been abolished - post no longer exists,919831
+GO026,N/A,SCS 1,"Deputy Director, Children and Learners",Department for Education,Government Office Network,GO London,N/A,N/A,GO003,Office has been abolished - post no longer exists,693583
+GO027,N/A,SCS 1,"Deputy Director, Thames Gateway",N/A,Government Office Network,GO London,N/A,N/A,GO003,Office has been abolished - post no longer exists,352432
+GO028,N/A,SCS 1,"Deputy Director, Planning and Housing",Department for Transport,Government Office Network,GO London,N/A,N/A,GO003,Office has been abolished - post no longer exists,1010815
+GO029,N/A,SCS 1,"Deputy Director, Corporate and Business Strategy",Department for Transport,Government Office Network,GO London,N/A,N/A,GO003,Office has been abolished - post no longer exists,1000550
+GO030,N/A,SCS 1,"Deputy Director, Resilience and Europe",Department for Education,Government Office Network,GO London,N/A,N/A,GO003,Office has been abolished - post no longer exists,720269
+GO031,N/A,SCS 1,"Deputy Director, Local Government Practice",Department for Communities and Local Government,Government Office Network,GO London,N/A,N/A,GO003,Office has been abolished - post no longer exists,576385
+GO032,N/A,SCS 1,"Deputy Director, Locality Divison and Neighbourhood Renewal",Department for Communities and Local Government,Government Office Network,GO London,N/A,N/A,GO003,Office has been abolished - post no longer exists,1160444
+GO033,N/A,SCS 1,"Deputy Director, Network Business Planning and Governance","Department for Environment, Food and Rural Affairs",Government Office Network,GO Network Centre and Services,0303 444 1539,goncsenquiries@goncs.gsi.gov.uk,GO004,Less than 5 direct staff - salary costs rounded up to nearest œ100k,300000
+GO034,N/A,SCS 1,"Deputy Director, Strategy and Performance",Department for Communities and Local Government,Government Office Network,GO Network Centre and Services,0303 444 1539,goncsenquiries@goncs.gsi.gov.uk,GO004,,598542
+GO035,N/A,SCS 1,"Deputy Director, Network Performance and Delivery",Scottish Executive,Government Office Network,GO Network Centre and Services,0303 444 1539,goncsenquiries@goncs.gsi.gov.uk,GO004,,100000
+GO036,N/A,SCS 1,"Deputy Director, Europe",Department for Education,Government Office Network,GO North East,0191 201 3300,general.enquiries@gone.gsi.gov.uk,GO005,,286577
+GO037,N/A,SCS 1,"Deputy Director, Local Government, Partnerships and Place",Department for Communities and Local Government,Government Office Network,GO North East,0191 201 3300,general.enquiries@gone.gsi.gov.uk,GO005,,675989
+GO038,N/A,SCS 1,"Deputy Director, Children and Learners",Department for Education,Government Office Network,GO North East,0191 201 3300,general.enquiries@gone.gsi.gov.uk,GO005,,755894
+GO039,N/A,SCS 1,"Deputy Director, Environment",Department for Communities and Local Government,Government Office Network,GO North East,0191 201 3300,general.enquiries@gone.gsi.gov.uk,GO005,,1489380
+GO040,N/A,SCS 1,"Deputy Director, Corporate Services","Department for Business, Innovation and Skills",Government Office Network,GO North East,0191 201 3300,general.enquiries@gone.gsi.gov.uk,GO005,,919467
+GO041,N/A,SCS 1,"Deputy Director, Safer and Stronger Communities and Tees Valley",Home Office,Government Office Network,GO North East,0191 201 3300,general.enquiries@gone.gsi.gov.uk,GO005,,571114
+GO042,N/A,SCS 1,"Deputy Director, Economy and Strategy",Department for Communities and Local Government,Government Office Network,GO North East,0191 201 3300,general.enquiries@gone.gsi.gov.uk,GO005,,639359
+GO043,N/A,SCS 1,"Deputy Director, Children and Learners",Department for Education,Government Office Network,GO North West,0161 952 4000,gonwmailbox@gonw.gsi.gov.uk,GO011,,737466
+GO044,N/A,SCS 1,"Deputy Director, Worklessness and Social Exclusion",Department for Education,Government Office Network,GO North West,0161 952 4000,gonwmailbox@gonw.gsi.gov.uk,GO011,,709542
+GO045,N/A,SCS 1,"Deputy Director, Competiveness and Infrastructure","Department for Business, Innovation and Skills",Government Office Network,GO North West,0161 952 4000,gonwmailbox@gonw.gsi.gov.uk,GO011,,787524
+GO046,N/A,SCS 1,"Deputy Director, Housing, Planning and Transport",Department for Education,Government Office Network,GO North West,0161 952 4000,gonwmailbox@gonw.gsi.gov.uk,GO011,,1139742
+GO047,N/A,SCS 1,"Deputy Director, Strategy & Business Improvement",Department for Education,Government Office Network,GO South East,01483 882 255,info@gose.gsi.gov.uk,GO007,,1355467
+GO048,N/A,SCS 1,"Deputy Director, Corporate Services & Resilience",Department for Education,Government Office Network,GO South East,01483 882 255,info@gose.gsi.gov.uk,GO007,,484007
+GO049,N/A,SCS 1,"Deputy Director, Sustainable Communities and Hampshire & The Isle of Wight","Department for Business, Innovation and Skills",Government Office Network,GO South East,01483 882 255,info@gose.gsi.gov.uk,GO007,,1408122
+GO050,N/A,SCS 1,"Deputy Director, Safer and Stronger Communities and Kent & Medway",Home Office,Government Office Network,GO South East,01483 882 255,info@gose.gsi.gov.uk,GO007,,1150006
+GO051,N/A,SCS 1,"Deputy Director, Transport & Environment and Thames Valley",Department for Communities and Local Government,Government Office Network,GO South East,01483 882 255,info@gose.gsi.gov.uk,GO007,,1108927
+GO052,N/A,SCS 1,"Deputy Director, Safer and Stronger Communities",Home Office,Government Office Network,GO South West,0117 900 1700,swcontactus@gosw.gsi.gov.uk,GO008,,711809
+GO053,N/A,SCS 1,"Deputy Director, Regeneration and Social Exclusion",Department for Transport,Government Office Network,GO South West,0117 900 1700,swcontactus@gosw.gsi.gov.uk,GO008,,1275336
+GO054,N/A,SCS 1,"Deputy Director, Corporate Service and Regional Resillience","Department for Business, Innovation and Skills",Government Office Network,GO South West,0117 900 1700,swcontactus@gosw.gsi.gov.uk,GO008,,815671
+GO055,N/A,SCS 1,"Deputy Director, Children and Learners",Department for Education,Government Office Network,GO South West,0117 900 1700,swcontactus@gosw.gsi.gov.uk,GO008,,645575
+GO056,N/A,SCS 1,"Deputy Director, Environment, Transport and Climate","Department for Environment, Food and Rural Affairs",Government Office Network,GO South West,0117 900 1700,swcontactus@gosw.gsi.gov.uk,GO008,,819516
+GO057,N/A,SCS 1,"Deputy Director, Local Government Practice",Department for Communities and Local Government,Government Office Network,GO South West,0117 900 1700,swcontactus@gosw.gsi.gov.uk,GO008,,485048
+GO058,N/A,SCS 1,"Deputy Director, Housing, Planning and Transport","Department for Business, Innovation and Skills",Government Office Network,GO South West,0117 900 1700,swcontactus@gosw.gsi.gov.uk,GO008,,1157844
+GO059,N/A,SCS 1,"Deputy Director, Places, Communities and Local Government",Home Office,Government Office Network,GO West Midlands,0121 352 5050,enquiries.team@gowm.gsi.gov.uk,GO012,,1016501
+GO060,N/A,SCS 1,"Deputy Director, Community Safety",Home Office,Government Office Network,GO West Midlands,0121 352 5050,enquiries.team@gowm.gsi.gov.uk,GO012,,863375
+GO061,N/A,SCS 1,"Deputy Director, Sustainable Futures",Department for Communities and Local Government,Government Office Network,GO West Midlands,0121 352 5050,enquiries.team@gowm.gsi.gov.uk,GO012,,1397369
+GO062,N/A,SCS 1,"Deputy Director, Economic and Organisational Delivery",Department for Communities and Local Government,Government Office Network,GO West Midlands,0121 352 5050,enquiries.team@gowm.gsi.gov.uk,GO012,,1494030
+GO063,N/A,SCS 1,"Deputy Director, Children and Learners",Department for Education,Government Office Network,GO West Midlands,0121 352 5050,enquiries.team@gowm.gsi.gov.uk,GO012,,710232
+GO064,N/A,SCS 1,"Deputy Director, Regional Resilience",Department for Education,Government Office Network,GO Yorkshire and Humber,0113 341 3000,nick.best@goyh.gsi.gov.uk,GO010,,1088843
+GO065,N/A,SCS 1,"Deputy Director, Environment and Corporate Affairs","Department for Environment, Food and Rural Affairs",Government Office Network,GO Yorkshire and Humber,0113 341 3000,yhenquiries@goyh.gsi.gov.uk,GO010,,706091
+GO066,N/A,SCS 1,"Deputy Director, Economy and Strategy",Department for Communities and Local Government,Government Office Network,GO Yorkshire and Humber,0113 341 3000,yhenquiries@goyh.gsi.gov.uk,GO010,,770290
+GO067,N/A,SCS 1,"Deputy Director, Children and Learners",Department for Education,Government Office Network,GO Yorkshire and Humber,0113 341 3000,yhenquiries@goyh.gsi.gov.uk,GO010,,750211
+GO068,N/A,SCS 1,"Deputy Director, People and Communities","Department for Business, Innovation and Skills",Government Office Network,GO Yorkshire and Humber,0113 341 3000,yhenquiries@goyh.gsi.gov.uk,GO010,,1517141
+GO069,N/A,SCS 1,"Deputy Director, Children and Learners and Surrey & Sussex",N/A,Government Office Network,GO South East,01483 882 255,info@gose.gsi.gov.uk,GO007,,998818
+GO070,N/A,SCS 1,"Deputy Director, Crime and Community Safety",N/A,Government Office Network,GO North West,0161 952 4000,gonwmailbox@gonw.gsi.gov.uk,GO006,,540446
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,

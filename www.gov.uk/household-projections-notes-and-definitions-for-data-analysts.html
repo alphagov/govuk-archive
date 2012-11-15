@@ -1,0 +1,325 @@
+<!DOCTYPE html>
+<!--[if lt IE 9]><html class="lte-ie8 " lang="en"><![endif]--><!--[if gt IE 8]><!--><html lang="en" class="">
+<!--<![endif]--><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<title>Household projections: notes and definitions for data analysts - Detailed guidance - GOV.UK</title>
+<!--[if gt IE 8]><!--><link href="https://assets.digital.cabinet-office.gov.uk/static/application-b0064e0eeea72b668fbbeab575fc1ef9.css" media="screen" rel="stylesheet" type="text/css">
+<!--<![endif]--><!--[if IE 6]><link href="https://assets.digital.cabinet-office.gov.uk/static/application-ie6-e6cbc483d2e5bfc5336930046736edc5.css" media="screen" rel="stylesheet" type="text/css" /><![endif]--><!--[if IE 7]><link href="https://assets.digital.cabinet-office.gov.uk/static/application-ie7-48a91f15d51cda5572ad963494777439.css" media="screen" rel="stylesheet" type="text/css" /><![endif]--><!--[if IE 8]><link href="https://assets.digital.cabinet-office.gov.uk/static/application-ie8-9b44a3c9ebb1d93a978db3dea8e6043e.css" media="screen" rel="stylesheet" type="text/css" /><![endif]--><link href="https://assets.digital.cabinet-office.gov.uk/static/print-7aeb3803d5a897ff3ada32adb1f18ac9.css" media="print" rel="stylesheet" type="text/css">
+<!--[if IE 8]>
+<script type="text/javascript">
+  (function(){if(window.opera){return;}
+  setTimeout(function(){var a=document,g,b={families:(g=
+  ["nta"]),urls:["https://assets.digital.cabinet-office.gov.uk/static/fonts-ie8-25e5b867fcdd75da75da590f7f47d6d5.css"]},
+  c="https://assets.digital.cabinet-office.gov.uk/static/libs/goog/webfont-debug-c6bcf1b06367c37979a87bc1ec2c8081.js",d="script",
+  e=a.createElement(d),f=a.getElementsByTagName(d)[0],h=g.length;WebFontConfig
+  ={custom:b},e.src=c,f.parentNode.insertBefore(e,f);for(;h--;a.documentElement
+  .className+=' wf-'+g[h].replace(/\s/g,'').toLowerCase()+'-n4-loading');},0)
+  })()
+</script>
+<![endif]--><!--[if gte IE 9]><!--><link href="https://assets.digital.cabinet-office.gov.uk/static/fonts-0b36636df5b72fe5e66f71e5f6709cda.css" media="all" rel="stylesheet" type="text/css">
+<!--<![endif]--><script src="https://assets.digital.cabinet-office.gov.uk/static/libs/jquery/jquery-1.7.2-765cc76e15d62a88cd61468aeaaaeb5d.js" type="text/javascript"></script><script defer src="https://assets.digital.cabinet-office.gov.uk/static/application-b42522ff248d8a3d1591c08c308f9ccf.js" type="text/javascript"></script><!--[if lt IE 9]>
+      <script src="https://assets.digital.cabinet-office.gov.uk/static/ie-5ffa3a966dcbd83a8dab5cb0aa2193d2.js" type="text/javascript"></script>
+    <![endif]--><link rel="shortcut icon" href="https://assets.digital.cabinet-office.gov.uk/static/favicon-17634b2677b373a25c5bb3ef93212a67.ico" type="image/x-icon">
+<!-- For third-generation iPad with high-resolution Retina display: --><link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://assets.digital.cabinet-office.gov.uk/static/apple-touch-icon-144x144-eee4e09bccd7c55b9b8dca2d6715ffa4.png">
+<!-- For iPhone with high-resolution Retina display: --><link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://assets.digital.cabinet-office.gov.uk/static/apple-touch-icon-114x114-460f91576fe9c617d4fdf7df46cfaef5.png">
+<!-- For first- and second-generation iPad: --><link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://assets.digital.cabinet-office.gov.uk/static/apple-touch-icon-72x72-52dfb66accadbd018bd25b13ed7fac68.png">
+<!-- For non-Retina iPhone, iPod Touch, and Android 2.1+ devices: --><link rel="apple-touch-icon-precomposed" href="https://assets.digital.cabinet-office.gov.uk/static/apple-touch-icon-57x57-7ed7919994fcf4a885cb56cc30fbed42.png">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script id="ga-params" type="text/javascript">
+  var GOVUK = GOVUK || {};
+  GOVUK.Analytics = GOVUK.Analytics || {};
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-26179049-1']);
+  if(document.domain=='www.gov.uk') {
+    _gaq.push(['_setDomainName', '.www.gov.uk']);
+  } else {
+    _gaq.push(['_setDomainName', document.domain]);
+  }
+  _gaq.push(['_setAllowLinker', true]);
+_gaq.push(["_setCustomVar",1,"Section","citizenship and life in the uk",3]);
+GOVUK.Analytics.Section = "citizenship and life in the uk";</script><script src="https://assets.digital.cabinet-office.gov.uk/static/analytics-fcfc5fe55a09e1360cee797739b1b775.js" type="text/javascript"></script><script type="text/javascript">
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script><script defer src="https://assets.digital.cabinet-office.gov.uk/government/assets/application-8eebc8f0223debec50a1ca0dcc940554.js" type="text/javascript"></script><!--[if gt IE 8]><!--><link href="https://assets.digital.cabinet-office.gov.uk/government/assets/frontend/base-f48ac621896e600659fc8c640e748bd7.css" media="screen" rel="stylesheet" type="text/css">
+<!--<![endif]--><link href="https://assets.digital.cabinet-office.gov.uk/government/assets/frontend/print-d3bf2528208a35d4b70dd364c0e8209c.css" media="print" rel="stylesheet" type="text/css">
+<link href="https://www.gov.uk/government/feed.atom" rel="alternate" title="Recent updates" type="application/atom+xml">
+<link href="https://www.gov.uk/api/specialist/household-projections-notes-and-definitions-for-data-analysts" rel="alternate" type="application/json">
+<meta content="True" name="HandheldFriendly">
+<meta content="320" name="MobileOptimized">
+<meta content="authenticity_token" name="csrf-param">
+<meta content="e5oazWecO5YyBJyjIIB+9jSSg5qti5caynrLzYss9Gs=" name="csrf-token">
+<!--[if IE 6]><link href="https://assets.digital.cabinet-office.gov.uk/government/assets/frontend/base-ie6-c590e0567c91628be43eb637b62332b7.css" media="screen" rel="stylesheet" type="text/css" /><![endif]--><!--[if IE 7]><link href="https://assets.digital.cabinet-office.gov.uk/government/assets/frontend/base-ie7-e967a0a0787529d50a35efd64a52631a.css" media="screen" rel="stylesheet" type="text/css" /><![endif]--><!--[if IE 8]><link href="https://assets.digital.cabinet-office.gov.uk/government/assets/frontend/base-ie8-f43546d8c68d87517d665321efb5f7ac.css" media="screen" rel="stylesheet" type="text/css" /><![endif]-->
+</head>
+<body class="website government detailed-guidance">
+      <script type="text/javascript">document.body.className = ((document.body.className) ? document.body.className + ' js-enabled' : 'js-enabled');</script><a href="#content" class="visuallyhidden">Skip to main content</a>
+
+    <header role="banner" class="group" id="global-header"><div class="header-wrapper group">
+        <a href="/" title="Go to the gov.uk homepage" id="logo"><img src="https://assets.digital.cabinet-office.gov.uk/static/gov.uk_logotype-aca6b2127968da9ca8d6b7601569e07f.png" alt="GOV.UK"></a>
+
+        <a href="#search" class="button search-toggle">Search</a>
+
+        <form id="search" class="site-search" action="/search#detailed-results" method="get" role="search">
+          <label for="site-search-text" class="visuallyhidden">Search</label>
+          <input type="search" name="q" id="site-search-text" title="Search"><input class="button" type="submit" value="Search">
+</form>
+      </div>
+    </header><!--end header--><div id="global-cookie-message">
+      <p>GOV.UK uses cookies to make the site simpler. <a href="/support/cookies">Find out more about cookies</a></p>
+    </div>
+
+    
+
+      <div id="global-breadcrumb" class="header-context">
+        <nav role="navigation"><ol class="group">
+<li><a href="/">Home</a></li>
+          <li><a href="https://www.gov.uk/browse/citizenship">Citizenship and life in the UK</a></li>
+<li><a href="https://www.gov.uk/browse/citizenship/government">Living in the UK, government and democracy</a></li>
+<li><strong><a href="/browse/citizenship/government/national-and-official-statistics">National and official statistics</a></strong></li>
+</ol></nav>
+</div>
+
+    <div id="whitehall-wrapper">
+      <div id="whitehall-inner">
+        <div id="content"></div>
+        <div id="page" class="detailed-guides-show">
+          
+<div class="document_page detailedguide">
+  <div class="block-1">
+    <div class="inner-block">
+      <div class="meta">
+            <section class="change-notes"><p>Published <abbr class="published-at date" title="2012-11-14T18:05:01+00:00">14 November 2012</abbr></p>
+    </section>
+</div>
+      <section class="page-header js-hide-extra-logos"><ul class="organisations-icon-list">
+<li class="organisation department-for-communities-and-local-government" id="organisation_4">
+              <a href="http://www.communities.gov.uk/" class="organisation-logo organisation-logo-single-identity organisation-logo-single-identity-medium" rel="external" title="Department
+for Communities and
+Local Government (external website)">
+                <span>Department
+for Communities and
+Local Government</span>
+</a>
+</li>        </ul>
+<h1 class="page_title has_meta">Household projections: notes and definitions for data analysts</h1>
+<div class="page-meta">
+    <p class="summary">Methodology for calculating long term household projections, with notes and definitions for household estimates and analysis of data quality. </p>
+  <p class="inapplicable-nations">England.</p>
+</div>
+
+
+      </section>
+</div>
+  </div>
+  <div class="block-2">
+    <div class="inner-block">
+      <nav class="contextual-info" id="page-navigation"><h1>Contents</h1>
+    <nav class="detailed_guide_parts" role="navigation"><ol id="document_sections">
+<li>
+            <a href="#overview">Overview</a>
+          </li>
+          <li>
+            <a href="#background">Background</a>
+          </li>
+          <li>
+            <a href="#definition-of-a-household">Definition of a household</a>
+          </li>
+          <li>
+            <a href="#projections-of-the-number-of-households">Projections of the number of households</a>
+          </li>
+          <li>
+            <a href="#data-quality">Data quality</a>
+          </li>
+          <li>
+            <a href="#historic-series-and-archive-figures">Historic series and archive figures</a>
+          </li>
+          <li>
+            <a href="#contacts">Contacts</a>
+          </li>
+        <li class="more-like-this">
+          <a href="#more-like-this">See more like this</a>
+        </li>
+      </ol></nav></nav>
+</div>
+  </div>
+  <div class="block-3">
+    <div class="inner-block">
+      <article class="document"><div class="body">
+    <div class="govspeak">
+<h2 id="overview">Overview</h2>
+
+<p>This guidance is to be read in conjunction with the <a href="https://whitehall-admin.production.alphagov.co.uk/government/organisations/department-for-communities-and-local-government/series/household-projections">series on household projections,</a> which includes the latest statistical releases on household projections.</p>
+
+<p>The current methodology in England reflects work to improve the household projections outputs and methods to better meet user needs. This work culminated in a technical consultation exercise in March 2010, <a href="https://www.gov.uk/government/consultations/national-statistics-on-household-projections">Consultation (and responses) on proposed changes to the National Statistics on household projections.</a></p>
+
+<h2 id="background">Background</h2>
+
+<p>The background research to this methodology consultation can be found in <a href="https://whitehall-admin.production.alphagov.co.uk/government/publications/testing-methodological-changes-to-the-household-projections-model-research-report--2">Testing methodological changes to the household projections model: research report</a> (published 1 March 2010), which is a report to test the impacts of changes to the household projections methods as proposed in the ‘Options for the Future of the Household Projection Model’</p>
+
+<h2 id="definition-of-a-household">Definition of a household</h2>
+
+<p>In the 2001 Census, for the household projections and mid year estimates a household is defined as:</p>
+
+<ul>
+<li>one person living alone, or</li>
+  <li>a group of people living at the same address who share common housekeeping or a living room</li>
+</ul>
+<h2 id="projections-of-the-number-of-households">Projections of the number of households</h2>
+
+<p>The household figures for England, the English regions and local authority districts are derived by the Department for Communities and Local Government from the household projections model using population figures from the Office for National Statistics (<abbr title="Office for National Statistics">ONS</abbr>):</p>
+
+<p>(a) up to 2008 they are derived using the <abbr title="Office for National Statistics">ONS</abbr> mid-year population estimates
+(b) for 2009 onwards the 2008-based household projections are based on the <abbr title="Office for National Statistics">ONS</abbr> 2008-based population projections</p>
+
+<p>The <abbr title="Office for National Statistics">ONS</abbr> population figures are split by marital status using the <abbr title="Office for National Statistics">ONS</abbr> marital status projections, and an estimate of the communal establishment population is subtracted from the total population to give the private household population. These population figures, split by age, sex and marital status group, are multiplied by the projected ‘household representative rates’ that represent the proportion of the population in that category who are household representatives. These rates are based on the 1971, 1981, 1991 and 2001 censuses and Labour Force Survey data.</p>
+
+<p>The breakdown of the household projections into the detailed household types is given by a projection of headship rates from the 1991 and 2001 census.</p>
+
+<p>Figures for the number of households from the Census year of 2001 to the base year of the projections in 2008 are derived from projected household representative rates applied to the <abbr title="Office for National Statistics">ONS</abbr> mid-year population estimates. They are therefore not direct estimates of the actual number of households as they are derived from modelled household representative rates.</p>
+
+<p>A more detailed description of the projection methodology is available in <a href="https://www.gov.uk/government/publications/updating-dclgs-household-projections-to-a-2008-base-methodology">Updating the Department for Communities and Local Government’s household projections to a 2008 base: Methodology</a> (published 26 November 2010).</p>
+
+<h2 id="data-quality">Data quality</h2>
+
+<p>Analysis of the components of household growth, presented in Table 415 in <a href="https://www.gov.uk/government/statistical-data-sets/live-tables-on-household-projections">Live tables on household projections</a> shows that the population level is the main determiner of future household numbers, accounting for 72 per cent of growth in the 2008-based projections. The changing age structure of the population accounted for a further 20 per cent of household growth. Household formation behaviour makes a relatively small contribution to household numbers, accounting for 16 per cent of growth. Variant projections have been produced which provide an indication of the sensitivity of the projections to assumptions in the population projections (net migration, mortality and fertility) and are presented in the Live Table 416  in <a href="https://www.gov.uk/government/statistical-data-sets/live-tables-on-household-projections">Live tables on household projections.</a></p>
+
+<p>As the population projections are the main driver of household growth, a short summary of the accuracy of historic population projections is presented here. The <abbr title="Office for National Statistics">ONS</abbr> published an analysis of the accuracy of historic population projections in 2007 in <a rel="external" href="http://www.ons.gov.uk/ons/rel/population-trends-rd/population-trends/no--128--summer-2007/fifty-years-of-united-kingdom-national-population-projections--how-accurate-have-they-been-.pdf">Population Trends 128 - Fifty years of United Kingdom national population projections: how accurate have they been?(PDF, 16 pages, 869KB)</a></p>
+
+<p>The general conclusions from this analysis are that the error tends to increase with the projection period, so nearer projections are more accurate than longer run projections. The <abbr title="Office for National Statistics">ONS</abbr> analysis compared the historic projections with the latest estimates of the UK population up to mid-2005. When considering projections 20 years ahead (available from the 1955-based to 1985-based projections) the analysis found that the mean absolute error of the projected total UK population was about 2.5 per cent overall, and lower than 2 per cent when just the most recent (1975-based to 1985-based) projections were considered. This would correspond to around 1.4 to 1.7 million people in the UK (2.0 to 2.5 per cent mean absolute error) calculated on the 2008-based principal projection for 2028.  </p>
+
+<p>The table below roughly translates this mean absolute error in the UK population projections into the corresponding impact onto projected number of households in England by assuming an average household size.</p>
+
+<table>
+<thead><tr>
+<th> </th>
+      <th>2028 (20th Projection Year)</th>
+    </tr></thead>
+<tbody>
+<tr>
+<td>Population in England*</td>
+      <td>59.05 million people</td>
+    </tr>
+<tr>
+<td>+/- 2 to 2.5 per cent mean absolute error</td>
+      <td>+/- 1.18 to 1.48 million people</td>
+    </tr>
+<tr>
+<td>Average household size</td>
+      <td>2.19 (persons per household)</td>
+    </tr>
+<tr>
+<td>Households in England</td>
+      <td>26.47 million</td>
+    </tr>
+<tr>
+<td>Impact of population error</td>
+      <td>+/- 0.54 to 0.67m households</td>
+    </tr>
+<tr>
+<td>per cent household error due to pop</td>
+      <td>+/- 2.0 to 2.5 per cent</td>
+    </tr>
+</tbody>
+</table>
+<p>(The population error has been adjusted to an England level to enable comparison with the household projections which are for England.)</p>
+
+<p>Whilst this is a simplistic approach, it may also be an overestimate of the aggregate error in household projections arising from this observed error in the population projections. This is because the <abbr title="Office for National Statistics">ONS</abbr> analysis found that the largest differences between projected and actual populations were in the youngest and oldest ages, while projections of the working age population were found to be comparatively accurate. Error in the population projections for the younger age groups will have little effect on the household projections.</p>
+
+<p>In general terms, the greater the degree of disaggregation in the projections data, whether by household type, spatial area etc, the greater the risk of error arising between the projected data and the future numbers.</p>
+
+<p>Gaps between the projected population and the current population estimate can also arise from errors in the population base. This was observed for projections made between the 1991 and 2001 Censuses where there was a substantial, and consistently growing, base population error. The 2001 Census showed that the population estimates rolled forward from the 1991 Census (on which the projections made between the Censuses had been based) had increasingly overestimated the population of the UK. Therefore, the projections are more likely to contain greater error the further the base period is from the latest census point. This is a general point which can arise from any statistic produced in an inter-censual period.</p>
+
+<p>The 2011 Census data will therefore provide an excellent opportunity to assess the accuracy of historic projections and to consider whether there is evidence to further refine the methodology used to produce the household projections.</p>
+
+<p>Subject to Department for Communities and Local Governments’ central Statistical Planning activities and resource availability, we intend to undertake further work when the required data are available from the 2011 Census. In broad terms, it is intended that this work would:</p>
+
+<ul>
+<li>assess differences between projected 2011 household numbers and the 2011 census results both in aggregate and by the most important dimensions</li>
+  <li>explore potential reasons for these differences and the implications for accuracy of the household projections</li>
+  <li>inform how the methodology for projecting household formation from Census trends and Labour Force Survey data can be improved</li>
+</ul>
+<p>It is anticipated that this work would be carried out as part of, or in the preparation for, the post-Census update of the household projections.</p>
+
+<h2 id="historic-series-and-archive-figures">Historic series and archive figures</h2>
+
+<p>The data for 1861 to 1961 are largely based on the census figures for England and Wales with Wales including Monmouthshire excluded to maintain an area consistent with modern England. The figures up until 1921 use families and separate occupiers and have not been adjusted to take account of the definitional change in 1921 that effectively removed the institutional population from the figures. The figure for 1939 is based on work by A. E. Holmans (see page 63, Housing Policy in Britain 1987, Croom Helm) with a pro rata adjustment made for England using the population ratio.</p>
+
+<p>Previous projections from this century have been replaced by the 2010-based projections but information about these can be found in <a href="https://www.gov.uk/government/publications/household-projections-2008-to-2033-in-england">Statistical Release: Household projections to 2033, England</a> (published 11 March 2009).</p>
+
+<p>The supporting Live Tables for the 2006-based projections can be found <a rel="external" href="http://webarchive.nationalarchives.gov.uk/20100410180038/http:/www.communities.gov.uk/housing/housingresearch/housingstatistics/housingstatisticsby/householdestimates/livetables-households/">on a page in the National Archives.</a></p>
+
+<h2 id="contacts">Contacts</h2>
+
+<p>E-mail: <a href="mailto:housing.statistics@communities.gsi.gov.uk">housing.statistics@communities.gsi.gov.uk</a></p>
+
+<p>Telephone: +44 (0) 303 444 2276</p>
+</div>
+  </div>
+</article>
+</div>
+  </div>
+  <div class="block-4">
+    <div class="inner-block">
+      <div class="js-back-to-content back-to-content visuallyhidden">
+        <a href="#page-navigation">Back to contents</a>
+      </div>
+      <aside id="more-like-this" class="aside-more-like-this"><h1>More like this</h1>
+          <section id="guide-categories" class="categories"><div class="inner">
+              <h2>All detailed guidance about</h2>
+              <ul>
+<li class="mainstream_category" id="mainstream_category_76">
+                    <a href="/browse/citizenship/government/national-and-official-statistics">National and official statistics</a>
+</li>              </ul>
+</div>
+          </section></aside>
+</div>
+  </div>
+ </div>
+
+        </div>
+      </div>
+    </div>
+
+    <footer class="group" id="footer" role="contentinfo"><div class="footer-wrapper">
+        <nav class="footer-categories"><h2>Explore GOV.UK</h2>
+
+          <ul>
+<li><a href="/browse/driving">Driving, transport, and travel</a></li>
+            <li><a href="/browse/business">Businesses and self-employed</a></li>
+            <li><a href="/browse/education">Education and learning</a></li>
+            <li><a href="/browse/housing">Housing and local services</a></li>
+            <li><a href="/browse/tax">Money and tax</a></li>
+            <li><a href="/browse/disabilities">Disabled people</a></li>
+          </ul>
+<ul>
+<li><a href="/browse/benefits">Benefits</a></li>
+            <li><a href="/browse/employing-people">Employing people</a></li>
+            <li><a href="/browse/working">Working, jobs and pensions</a></li>
+            <li><a href="/browse/justice">Crime, justice and the law</a></li>
+            <li><a href="/browse/births-deaths-marriages">Births, deaths, marriages and care</a></li>
+            <li><a href="/browse/citizenship">Citizenship and life in the UK</a></li>
+            
+          </ul>
+<div class="copyright">
+            <a href="http://www.nationalarchives.gov.uk/information-management/our-services/crown-copyright.htm">© Crown Copyright</a>
+          </div>
+        </nav><div class="footer-meta">
+          <ul>
+<li><a href="/support">Support</a></li>
+            <li><a href="/support/cookies">Cookies</a></li>
+            <li><a href="/feedback">Feedback</a></li>
+            <li><a href="/cymraeg">Cymraeg</a></li>
+            <li>Built by the <a href="http://digital.cabinetoffice.gov.uk/">Government Digital Service</a>
+</li>
+          </ul>
+<p>All content is available under the <a href="http://www.nationalarchives.gov.uk/doc/open-government-licence/">Open Government Licence</a>, except where otherwise stated</p>
+
+        </div>
+      </div>
+    </footer><!--end footer--><div id="global-app-error" class="app-error hidden"></div>
+
+  </body>
+</html>

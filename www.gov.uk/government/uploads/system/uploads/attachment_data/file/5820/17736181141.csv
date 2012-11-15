@@ -1,0 +1,589 @@
+Department Family,Entity,Date of Payment,Expense Type,Expense Area,Supplier,Transaction number,Amount in Sterling
+Communities & Local Government,GO,01/10/2010,Agency Staff,GOE,CAVILL ROBINSON FINANCIAL RCRTMT LT,5106147300,"1,017.17"
+Communities & Local Government,GO,01/10/2010,Agency Staff,GORCU Admin DEL Votd,BADENOCH & CLARK,5106147379,"2,507.63"
+Communities & Local Government,GO,01/10/2010,Agency Staff,GORCU Admin DEL Votd,BADENOCH & CLARK,5106147382,"2,507.63"
+Communities & Local Government,GO,01/10/2010,Agency Staff,GORCU Admin DEL Votd,BADENOCH & CLARK,5106147383,"2,507.63"
+Communities & Local Government,GO,01/10/2010,Domestic Services,RCU - PAM - Property Asset Management,PHS GROUP LTD,2100185064,"1,726.50"
+Communities & Local Government,GO,01/10/2010,Fixed Maintenance,RCU - PAM - Property Asset Management,TAYLOR WOODROW CONSTRUCTION,2100185065,"51,334.50"
+Communities & Local Government,GO,01/10/2010,Insurance,RCU - PAM - Property Asset Management,BRUNTWOOD EST ALPHA PORTFOLIO LTD,2100185053,"29,282.56"
+Communities & Local Government,GO,01/10/2010,Professional services,RCU - PAM - Property Asset Management,*CAPITA SYMONDS LTD,5106147319,"1,405.91"
+Communities & Local Government,GO,01/10/2010,Publicity,GONE,PENNA COMMUNICATIONS,2100185118,"9,125.87"
+Communities & Local Government,GO,01/10/2010,Publicity,GONE,PENNA COMMUNICATIONS,2100185119,"2,400.46"
+Communities & Local Government,GO,01/10/2010,Publicity,GONE,PENNA COMMUNICATIONS,2100185120,"1,744.21"
+Communities & Local Government,GO,01/10/2010,Publicity,GONE,PENNA COMMUNICATIONS,2100185121,"1,225.38"
+Communities & Local Government,GO,01/10/2010,Variable Maintenance < £15k,RCU - PAM - Property Asset Management,TAYLOR WOODROW CONSTRUCTION,2100185065,"1,200.56"
+Communities & Local Government,GO,01/10/2010,Finance Consultancy,GOYH,YORKSHIRE FORWARD,2100185108,"1,077.59"
+Communities & Local Government,GO,04/10/2010,Agency Staff,GORCU Admin DEL Votd,REED SPECIALIST RECRUITMENT LTD,5106147500,563.66
+Communities & Local Government,GO,04/10/2010,Conferences,GOSW,DCLG GOVERNMENT PROCUREMENT CARD,1000002705,581.63
+Communities & Local Government,GO,04/10/2010,IT Maintenance,GORCU Admin DEL Votd,CESG,5106147455,779.03
+Communities & Local Government,GO,04/10/2010,IT SUPPORT,GORCU Admin DEL Votd, E-NIK LIMITED,5106147474,"51,406.25"
+Communities & Local Government,GO,04/10/2010,Fixed Maintenance,RCU - PAM - Property Asset Management,TAYLOR WOODROW CONSTRUCTION,2100185114,"111,196.57"
+Communities & Local Government,GO,04/10/2010,Professional services,RCU - PAM - Property Asset Management,DTZ DEBENHAM TIE LEUNG LTD,5106147417,"19,776.77"
+Communities & Local Government,GO,04/10/2010,Professional services,RCU - PAM - Property Asset Management,*E C HARRIS LLP(USE402561),5106147482,"14,979.15"
+Communities & Local Government,GO,04/10/2010,Publicity,GONE,PENNA COMMUNICATIONS,2100185184,"4,109.71"
+Communities & Local Government,GO,04/10/2010,Training,GOEM,DCLG GOVERNMENT PROCUREMENT CARD,1000002706,558.15
+Communities & Local Government,GO,04/10/2010,Training,GOE,FARADAY PARTNERSHIP LTD,5106147483,550.00
+Communities & Local Government,GO,04/10/2010,Training,GOE,DCLG GOVERNMENT PROCUREMENT CARD,1000002709,719.20
+Communities & Local Government,GO,04/10/2010,Training,GOSE,ASPECT TRAINING,2100185115,550.00
+Communities & Local Government,GO,04/10/2010,Training,GORCU Admin DEL Votd,ALPHA CONSOLIDATED TRAINING LTD,2100185183,"1,485.00"
+Communities & Local Government,GO,04/10/2010,Training,GORCU Admin DEL Votd,ALPHA CONSOLIDATED TRAINING LTD,5106147471,"1,800.00"
+Communities & Local Government,GO,04/10/2010,Training,GORCU Admin DEL Votd,BRAY LEINO LTD,2100185110,"1,030.00"
+Communities & Local Government,GO,04/10/2010,Training,GORCU Admin DEL Votd,BRAY LEINO LTD,2100185181,"2,060.00"
+Communities & Local Government,GO,04/10/2010,Training,GORCU Admin DEL Votd,FARADAY PARTNERSHIP LTD,2100185182,"5,650.00"
+Communities & Local Government,GO,04/10/2010,Vehicle fuel,GOE,ARVAL,5106147489,506.18
+Communities & Local Government,GO,05/10/2010,Agency Staff,GONW,*BROOK STREET BUREAU,5106147611,"1,405.23"
+Communities & Local Government,GO,05/10/2010,Water,RCU - PAM - Property Asset Management,BRISTOL WATER,5106147616,"3,713.81"
+Communities & Local Government,GO,05/10/2010,Water,RCU - PAM - Property Asset Management,THAMES WATER UTILITIES,5106147620,544.17
+Communities & Local Government,GO,05/10/2010,Post,GOYH,DCLG GOVERNMENT PROCUREMENT CARD,1000002714,581.18
+Communities & Local Government,GO,05/10/2010,Publications,GOE,PARLIAMENTARY NEWS SERVICES,5106147631,"2,203.12"
+Communities & Local Government,GO,05/10/2010,Training,GOEM,FARADAY PARTNERSHIP LTD,2100185261,"1,292.50"
+Communities & Local Government,GO,05/10/2010,Training,GOSE,DCLG GOVERNMENT PROCUREMENT CARD,1000002712,"1,138.57"
+Communities & Local Government,GO,05/10/2010,Car Lease (expense),GONE,HITACHI CAPITAL VEHICLE SOLUTIONS,5106147532,"1,763.02"
+Communities & Local Government,GO,05/10/2010,Electricity,RCU - PAM - Property Asset Management,SOUTHERN ELECTRIC PLC,2100185312,"-5,782.00"
+Communities & Local Government,GO,05/10/2010,Electricity,RCU - PAM - Property Asset Management,SOUTHERN ELECTRIC PLC,5106147714,"5,782.00"
+Communities & Local Government,GO,05/10/2010,Electricity,RCU - PAM - Property Asset Management,*NPOWER LTD,5106147625,"4,262.76"
+Communities & Local Government,GO,05/10/2010,Electricity,RCU - PAM - Property Asset Management,DANMERC PROP CONSULTANTS  & MGT LTD,5106147623,"22,560.00"
+Communities & Local Government,GO,05/10/2010,Stationery,GOYH,DCLG GOVERNMENT PROCUREMENT CARD,1000002714,"1,259.29"
+Communities & Local Government,GO,06/10/2010,Agency Staff,GOSW,DCLG GOVERNMENT PROCUREMENT CARD,1000002716,"4,549.87"
+Communities & Local Government,GO,06/10/2010,Hospitalty,GOE,BAXTERSTOREY LTD,2100185306,523.75
+Communities & Local Government,GO,06/10/2010,Travel and Subsistence Account,GONE,REDFERN TRAVEL LIMITED,2100185313,"8,675.02"
+Communities & Local Government,GO,06/10/2010,Travel and Subsistence Account,GONE,REDFERN TRAVEL LIMITED,2100185315,"4,100.71"
+Communities & Local Government,GO,06/10/2010,Fares UK,GOSW,REDFERN TRAVEL LIMITED,2100185307,"16,282.55"
+Communities & Local Government,GO,06/10/2010,Training,GORCU Admin DEL Votd,ST JOHN AMBULANCE (SAC),5106147649,666.00
+Communities & Local Government,GO,06/10/2010,Variable Maintenance < £15k,RCU - PAM - Property Asset Management,ABM MAINTENANCE LTD,5106147726,600.00
+Communities & Local Government,GO,06/10/2010,Electricity,RCU - PAM - Property Asset Management,EDF ENERGY,5106147730,"1,331.89"
+Communities & Local Government,GO,06/10/2010,Electricity,RCU - PAM - Property Asset Management,EDF ENERGY,5106147728,"5,782.00"
+Communities & Local Government,GO,06/10/2010,Electricity,RCU - PAM - Property Asset Management,EDF ENERGY,5106147729,"1,834.87"
+Communities & Local Government,GO,06/10/2010,Electricity,RCU - PAM - Property Asset Management,EDF ENERGY,5106147731,"10,844.62"
+Communities & Local Government,GO,07/10/2010,Agency Staff,GONW,BADENOCH & CLARK,5106147764,"1,450.56"
+Communities & Local Government,GO,07/10/2010,Agency Staff,GONW,REED SPECIALIST RECRUITMENT LTD,5106147783,"1,176.43"
+Communities & Local Government,GO,07/10/2010,Agency Staff,GONW,REED SPECIALIST RECRUITMENT LTD,5106147784,"1,144.64"
+Communities & Local Government,GO,07/10/2010,Agency Staff,GOYH,REED SPECIALIST RECRUITMENT LTD,2100185353,803.27
+Communities & Local Government,GO,07/10/2010,Fixed Maintenance,RCU - PAM - Property Asset Management,MITIE MANAGED SERVICES (SOUTHERN) L,5106147821,"52,300.49"
+Communities & Local Government,GO,07/10/2010,Fares UK,GOYH,REDFERN TRAVEL LIMITED,2100185352,"11,771.46"
+Communities & Local Government,GO,07/10/2010,Fares UK,GOSE,REDFERN TRAVEL LIMITED,2100185351,"3,408.86"
+Communities & Local Government,GO,07/10/2010,Subsistence UK,GOSE,REDFERN TRAVEL LIMITED,2100185351,35.36
+Communities & Local Government,GO,07/10/2010,Overseas expense,GOSE,REDFERN TRAVEL LIMITED,2100185351,584.00
+Communities & Local Government,GO,07/10/2010,Office Machinery (<£5000),GOL,DCLG GOVERNMENT PROCUREMENT CARD,1000002721,"1,000.01"
+Communities & Local Government,GO,07/10/2010,Training,GONW,BPP PROFESSIONAL EDUCATION,5106147773,"1,070.00"
+Communities & Local Government,GO,07/10/2010,Training,GOEM,DCLG GOVERNMENT PROCUREMENT CARD,1000002718,558.15
+Communities & Local Government,GO,07/10/2010,Training,GOSE,UNICOM SEMINARS LTD,5106147757,"1,695.00"
+Communities & Local Government,GO,07/10/2010,Accommodation Service Charges,RCU - PAM - Property Asset Management,ABLE DOOR SPRING & METAL WINDOW,5106147819,"4,289.93"
+Communities & Local Government,GO,07/10/2010,Stationery,GONE,DCLG GOVERNMENT PROCUREMENT CARD,1000002719,"1,093.34"
+Communities & Local Government,GO,08/10/2010,Vendor Prepayments,GOSW,ARVAL,2100185398,"3,171.97"
+Communities & Local Government,GO,08/10/2010,Vendor Prepayments,GOSW,ARVAL,2100185400,"3,171.97"
+Communities & Local Government,GO,08/10/2010,Agency Staff,GONW,REED SPECIALIST RECRUITMENT LTD,5106147902,"1,112.84"
+Communities & Local Government,GO,08/10/2010,Agency Staff,GOE,CAVILL ROBINSON FINANCIAL RCRTMT LT,5106147918,"1,017.17"
+Communities & Local Government,GO,08/10/2010,IT Maintenance,GORCU Admin DEL Votd,FUJITSU SERVICES LTD,5106147961,"4,993.11"
+Communities & Local Government,GO,08/10/2010,IT Maintenance,GORCU Admin DEL Votd,FUJITSU SERVICES LTD,5106147984,"16,500.00"
+Communities & Local Government,GO,08/10/2010,IT Maintenance,GORCU Admin DEL Votd, E-NIK LIMITED,5106147976,"6,682.81"
+Communities & Local Government,GO,08/10/2010,Travel and Subsistence Account,GOE,REDFERN TRAVEL LIMITED,2100185357,"4,736.56"
+Communities & Local Government,GO,08/10/2010,Fares UK,GOWM,REDFERN TRAVEL LIMITED,2100185404,"6,380.95"
+Communities & Local Government,GO,08/10/2010,Subsistence UK,GOWM,REDFERN TRAVEL LIMITED,2100185404,"1,573.05"
+Communities & Local Government,GO,08/10/2010,Printing,GORCU Admin DEL Votd,NEW RICOH UK,5106147967,724.37
+Communities & Local Government,GO,08/10/2010,Publicity,GOYH,PROSPECTS SERVICES LTD,2100185358,575.75
+Communities & Local Government,GO,08/10/2010,Car Lease (expense),GOSW,ARVAL,2100185398,288.40
+Communities & Local Government,GO,08/10/2010,Car Lease (expense),GOSW,ARVAL,2100185400,288.40
+Communities & Local Government,GO,08/10/2010,Telephone call costs,GORCU Admin DEL Votd,CABLE & WIRELESS,5106147972,885.66
+Communities & Local Government,GO,08/10/2010,Telephone call costs,GORCU Admin DEL Votd,MEETINGZONE LTD,5106147979,"1,621.35"
+Communities & Local Government,GO,11/10/2010,Agency Staff,GORCU Admin DEL Votd,BADENOCH & CLARK,5106148072,"2,507.63"
+Communities & Local Government,GO,11/10/2010,Fixed Maintenance,RCU - PAM - Property Asset Management,MITIE FAC SERV LTD (STH WEST & WALE,5106148085,"15,960.54"
+Communities & Local Government,GO,11/10/2010,Fixed Maintenance,RCU - PAM - Property Asset Management,MITIE FAC SERV LTD (STH WEST & WALE,5106148089,"35,072.30"
+Communities & Local Government,GO,11/10/2010,Storage,GOE,IRON MOUNTAIN (UK) LIMITED,5106148003,"1,773.62"
+Communities & Local Government,GO,11/10/2010,Professional services,GOEM,DERBYSHIRE COMMUNITY HEALTH SERV'S,2100185450,"12,500.00"
+Communities & Local Government,GO,11/10/2010,Publicity,GONE,PENNA COMMUNICATIONS,2100185405,"6,406.35"
+Communities & Local Government,GO,11/10/2010,Training,GOE,DCLG GOVERNMENT PROCUREMENT CARD,1000002734,575.00
+Communities & Local Government,GO,11/10/2010,Training,GOSE,GUILDFORD COLLEGE OF FURTHER EDUC,5106147999,"1,000.00"
+Communities & Local Government,GO,11/10/2010,Variable Maintenance < £15k,RCU - PAM - Property Asset Management,TAYLOR WOODROW CONSTRUCTION,2100185354,"22,842.30"
+Communities & Local Government,GO,11/10/2010,Variable Maintenance < £15k,RCU - PAM - Property Asset Management,TAYLOR WOODROW CONSTRUCTION,2100185356,"56,698.20"
+Communities & Local Government,GO,11/10/2010,Variable Maintenance < £15k,RCU - PAM - Property Asset Management,TAYLOR WOODROW CONSTRUCTION,2100185360,"16,947.77"
+Communities & Local Government,GO,11/10/2010,Variable Maintenance < £15k,RCU - PAM - Property Asset Management,TAYLOR WOODROW CONSTRUCTION,2300002046,"-5,491.35"
+Communities & Local Government,GO,11/10/2010,Variable Maintenance < £15k,RCU - PAM - Property Asset Management,TAYLOR WOODROW CONSTRUCTION,2300002047,"-5,172.95"
+Communities & Local Government,GO,11/10/2010,Variable Maintenance < £15k,RCU - PAM - Property Asset Management,TAYLOR WOODROW CONSTRUCTION,2300002048,"-20,956.95"
+Communities & Local Government,GO,11/10/2010,Variable Maintenance < £15k,RCU - PAM - Property Asset Management,TAYLOR WOODROW CONSTRUCTION,2300002049,"-6,477.52"
+Communities & Local Government,GO,11/10/2010,Variable Maintenance < £15k,RCU - PAM - Property Asset Management,TAYLOR WOODROW CONSTRUCTION,2300002050,"-1,590.65"
+Communities & Local Government,GO,11/10/2010,Variable Maintenance < £15k,RCU - PAM - Property Asset Management,TAYLOR WOODROW CONSTRUCTION,2300002051,"-1,979.58"
+Communities & Local Government,GO,11/10/2010,Variable Maintenance < £15k,RCU - PAM - Property Asset Management,TAYLOR WOODROW CONSTRUCTION,2300002052,"-3,258.76"
+Communities & Local Government,GO,11/10/2010,Variable Maintenance < £15k,RCU - PAM - Property Asset Management,MITIE FAC SERV LTD (STH WEST & WALE,5106148084,"11,373.54"
+Communities & Local Government,GO,11/10/2010,Variable Maintenance < £15k,RCU - PAM - Property Asset Management,MITIE FAC SERV LTD (STH WEST & WALE,5106148087,975.41
+Communities & Local Government,GO,11/10/2010,Electricity,RCU - PAM - Property Asset Management,BRUNTWOOD EST ALPHA PORTFOLIO LTD,2100185455,"2,332.12"
+Communities & Local Government,GO,11/10/2010,Dilapidation Charge,RCU - PAM - Property Asset Management,BRUNTWOOD EST ALPHA PORTFOLIO LTD,2100185454,"300,000.00"
+Communities & Local Government,GO,12/10/2010,Conferences,GONW,COUNTRY LAND & BUSINESS ASSOC,5106148177,"3,348.22"
+Communities & Local Government,GO,12/10/2010,Training,GONW,CAPITA BUSINESS SERVICES LTD,5106148110,"1,056.32"
+Communities & Local Government,GO,12/10/2010,Training,GOE,QA  LTD,5106148102,"4,495.00"
+Communities & Local Government,GO,12/10/2010,Training,GOSW,FARADAY PARTNERSHIP LTD,2100185509,643.90
+Communities & Local Government,GO,12/10/2010,Training,GORCU Admin DEL Votd,ALPHA CONSOLIDATED TRAINING LTD,2100185522,"1,600.00"
+Communities & Local Government,GO,12/10/2010,Training,GORCU Admin DEL Votd,ALPHA CONSOLIDATED TRAINING LTD,5106148243,"-1,600.00"
+Communities & Local Government,GO,12/10/2010,Variable Maintenance > £15k,RCU - PAM - Property Asset Management,SIMPSON (YORK) LTD,2100185520,"44,086.53"
+Communities & Local Government,GO,13/10/2010,Software Licences,GOWM,V8 MEDIA LTD,2100185566,"1,057.50"
+Communities & Local Government,GO,13/10/2010,Training,GORCU Admin DEL Votd,ALPHA CONSOLIDATED TRAINING LTD,5106148250,"-1,600.00"
+Communities & Local Government,GO,13/10/2010,Training,GORCU Admin DEL Votd,ALPHA CONSOLIDATED TRAINING LTD,5106148265,"12,800.00"
+Communities & Local Government,GO,13/10/2010,Training,GORCU Admin DEL Votd,ALPHA CONSOLIDATED TRAINING LTD,5106148348,"14,400.00"
+Communities & Local Government,GO,13/10/2010,Variable Maintenance < £15k,RCU - PAM - Property Asset Management,MITIE MANAGED SERVICES (SOUTHERN) L,2100185567,"12,930.22"
+Communities & Local Government,GO,13/10/2010,Electricity,RCU - PAM - Property Asset Management,NPOWER YORKSHIRE LTD,2100185515,525.23
+Communities & Local Government,GO,13/10/2010,Stationery,GOSE,OFFICE DEPOT UK LTD,5106148338,831.24
+Communities & Local Government,GO,14/10/2010,Fares UK,GOEM,REDFERN TRAVEL LIMITED,2100185632,"9,613.12"
+Communities & Local Government,GO,14/10/2010,Training,GONW,NATIONAL SCHOOL OF GOVERNMENT,5106148491,895.00
+Communities & Local Government,GO,14/10/2010,Training,GOSE,DOTTED EYES LTD,5106148370,940.00
+Communities & Local Government,GO,14/10/2010,Training,GORCU Admin DEL Votd,ALPHA CONSOLIDATED TRAINING LTD,5106148443,"1,912.50"
+Communities & Local Government,GO,14/10/2010,Training,GORCU Admin DEL Votd,ALPHA CONSOLIDATED TRAINING LTD,5106148452,"3,905.00"
+Communities & Local Government,GO,14/10/2010,Vehicle hire,GOSW,ARVAL,2100185628,"1,379.85"
+Communities & Local Government,GO,14/10/2010,Telephone call costs,GORCU Admin DEL Votd,CABLE & WIRELESS,5106148391,588.89
+Communities & Local Government,GO,14/10/2010,Telephone call costs,GORCU Admin DEL Votd,CABLE & WIRELESS,5106148410,"1,422.78"
+Communities & Local Government,GO,14/10/2010,Telephone call costs,GORCU Admin DEL Votd,CABLE & WIRELESS,5106148425,505.34
+Communities & Local Government,GO,14/10/2010,Telephone call costs,GORCU Admin DEL Votd,CABLE & WIRELESS,5106148437,773.07
+Communities & Local Government,GO,14/10/2010,Telephone call costs,GORCU Admin DEL Votd,CABLE & WIRELESS,5106148449,"1,568.73"
+Communities & Local Government,GO,14/10/2010,Telecoms equipment (non-capitalised),GORCU Admin DEL Votd,VODAFONE LTD (PAGING),5106148406,"1,157.50"
+Communities & Local Government,GO,15/10/2010,Agency Staff,GONW,*BROOK STREET BUREAU,5106148527,796.59
+Communities & Local Government,GO,15/10/2010,Agency Staff,GOYH,REED SPECIALIST RECRUITMENT LTD,2100185661,803.27
+Communities & Local Government,GO,15/10/2010,Agency Staff,GOE,CAVILL ROBINSON FINANCIAL RCRTMT LT,5106148556,"1,017.17"
+Communities & Local Government,GO,15/10/2010,Agency Staff,GORCU Admin DEL Votd,BADENOCH & CLARK,5106148630,"2,507.63"
+Communities & Local Government,GO,15/10/2010,Domestic Services,RCU - PAM - Property Asset Management,GROWING SUCCESS LTD,5106148631,695.50
+Communities & Local Government,GO,15/10/2010,Fixed Maintenance,RCU - PAM - Property Asset Management,MITIE FAC SERV LTD (STH WEST & WALE,5106148640,"15,960.54"
+Communities & Local Government,GO,15/10/2010,Fixed Maintenance,RCU - PAM - Property Asset Management,MITIE FAC SERV LTD (STH WEST & WALE,5106148641,"35,072.30"
+Communities & Local Government,GO,15/10/2010,Post,GONW,GOVERNMENT CAR & DESPATCH AGENCY,5106148540,589.00
+Communities & Local Government,GO,15/10/2010,Post,GONW,GOVERNMENT CAR & DESPATCH AGENCY,5106148551,580.00
+Communities & Local Government,GO,15/10/2010,Post,GOSE,GOVERNMENT CAR & DESPATCH AGENCY,5106148576,911.80
+Communities & Local Government,GO,15/10/2010,Professional services,RCU - PAM - Property Asset Management,ENTEC UK LTD,5106148626,"35,250.00"
+Communities & Local Government,GO,15/10/2010,Variable Maintenance < £15k,RCU - PAM - Property Asset Management,MITIE FAC SERV LTD (STH WEST & WALE,5106148637,"7,749.17"
+Communities & Local Government,GO,15/10/2010,Variable Maintenance < £15k,RCU - PAM - Property Asset Management,MITIE FAC SERV LTD (STH WEST & WALE,5106148638,"4,014.11"
+Communities & Local Government,GO,15/10/2010,Telephone call costs,GORCU Admin DEL Votd,CABLE & WIRELESS,5106148606,"1,124.97"
+Communities & Local Government,GO,15/10/2010,Electricity,RCU - PAM - Property Asset Management,*SOUTHERN ELECTRIC PLC,5106148642,"10,848.80"
+Communities & Local Government,GO,15/10/2010,Electricity,RCU - PAM - Property Asset Management,*NPOWER LTD,5106148634,"4,034.77"
+Communities & Local Government,GO,18/10/2010,Fixed Maintenance,RCU - PAM - Property Asset Management,TAYLOR WOODROW CONSTRUCTION,5106148710,"51,334.51"
+Communities & Local Government,GO,18/10/2010,Fixed Maintenance,RCU - PAM - Property Asset Management,TAYLOR WOODROW CONSTRUCTION,5106148712,"111,196.57"
+Communities & Local Government,GO,18/10/2010,Fixed Maintenance,RCU - PAM - Property Asset Management,MITIE MANAGED SERVICES LTD,5106148727,"11,198.83"
+Communities & Local Government,GO,18/10/2010,Storage,GONE,CROWN RECORDS MANAGEMENT LTD,5106148730,"2,195.85"
+Communities & Local Government,GO,18/10/2010,Training,GOEM,DCLG GOVERNMENT PROCUREMENT CARD,1000002745,"1,320.01"
+Communities & Local Government,GO,18/10/2010,Training,GORCU Admin DEL Votd,ALPHA CONSOLIDATED TRAINING LTD,5106148733,900.00
+Communities & Local Government,GO,18/10/2010,Variable Maintenance < £15k,RCU - PAM - Property Asset Management,TAYLOR WOODROW CONSTRUCTION,5106148711,"2,238.98"
+Communities & Local Government,GO,18/10/2010,Variable Maintenance < £15k,RCU - PAM - Property Asset Management,TAYLOR WOODROW CONSTRUCTION,5106148715,"14,056.16"
+Communities & Local Government,GO,18/10/2010,Variable Maintenance < £15k,RCU - PAM - Property Asset Management,MITIE MANAGED SERVICES LTD,5106148724,729.64
+Communities & Local Government,GO,18/10/2010,Telephone call costs,GORCU Admin DEL Votd,MEETINGZONE LTD,5106148728,"1,331.63"
+Communities & Local Government,GO,18/10/2010,Gas,RCU - PAM - Property Asset Management,CORONA ENERGY LTD,5106148703,689.53
+Communities & Local Government,GO,18/10/2010,Electricity,RCU - PAM - Property Asset Management,SCOTTISH POWER,5106148736,611.32
+Communities & Local Government,GO,18/10/2010,Electricity,RCU - PAM - Property Asset Management,SCOTTISH POWER,5106148737,501.14
+Communities & Local Government,GO,18/10/2010,Electricity,RCU - PAM - Property Asset Management,*EON UK PLC,5106148732,772.01
+Communities & Local Government,GO,18/10/2010,IT - Service Contracts,GORCU Admin DEL Votd,FUJITSU SERVICES LTD,5106148719,"243,412.38"
+Communities & Local Government,GO,18/10/2010,IT - Service Contracts,GORCU Admin DEL Votd,FUJITSU SERVICES LTD,5106148720,"247,108.78"
+Communities & Local Government,GO,18/10/2010,IT - Service Contracts,GORCU Admin DEL Votd,FUJITSU SERVICES LTD,5106148721,"19,387.50"
+Communities & Local Government,GO,19/10/2010,Fees,GOSW,SWAN,5106148753,"5,000.00"
+Communities & Local Government,GO,19/10/2010,Storage,GOEM,RADS,5106148834,"1,678.00"
+Communities & Local Government,GO,19/10/2010,Post,GOYH,GOVERNMENT CAR & DESPATCH AGENCY,2100185662,494.00
+Communities & Local Government,GO,19/10/2010,Training,GOEM,DCLG GOVERNMENT PROCUREMENT CARD,1000002754,"2,843.50"
+Communities & Local Government,GO,19/10/2010,Training,GORCU Admin DEL Votd,ALPHA CONSOLIDATED TRAINING LTD,5106148837,"9,600.00"
+Communities & Local Government,GO,19/10/2010,Training,GORCU Admin DEL Votd,FARADAY PARTNERSHIP LTD,5106148838,"5,800.00"
+Communities & Local Government,GO,19/10/2010,Car Lease (expense),GOYH,DCLG GOVERNMENT PROCUREMENT CARD,1000002752,944.99
+Communities & Local Government,GO,19/10/2010,Electricity,RCU - PAM - Property Asset Management,SOUTHERN ELECTRIC PLC,5106148824,"9,873.81"
+Communities & Local Government,GO,19/10/2010,Electricity,RCU - PAM - Property Asset Management,*SOUTHERN ELECTRIC PLC,5106148823,"1,272.60"
+Communities & Local Government,GO,19/10/2010,Electricity,RCU - PAM - Property Asset Management,GREEN ENERGY UK PLC,5106148825,"1,253.14"
+Communities & Local Government,GO,20/10/2010,IT Maintenance,GORCU Admin DEL Votd,FUJITSU SERVICES LTD,5106149001,"22,116.34"
+Communities & Local Government,GO,20/10/2010,Training,GOSE,FARADAY PARTNERSHIP LTD,2100185808,528.75
+Communities & Local Government,GO,20/10/2010,Training,GORCU Admin DEL Votd,ALPHA CONSOLIDATED TRAINING LTD,5106149010,"5,400.00"
+Communities & Local Government,GO,20/10/2010,Training,GORCU Admin DEL Votd,COMMUNICAID GROUP LTD,5106149009,"1,400.00"
+Communities & Local Government,GO,20/10/2010,Telephone line costs,GORCU Admin DEL Votd,FUJITSU SERVICES LTD,5106149001,"10,374.70"
+Communities & Local Government,GO,20/10/2010,Telephone call costs,GORCU Admin DEL Votd,CABLE & WIRELESS,5106149002,"46,700.76"
+Communities & Local Government,GO,20/10/2010,Telephone call costs,GORCU Admin DEL Votd,FUJITSU SERVICES LTD,5106149001,"52,066.36"
+Communities & Local Government,GO,25/10/2010,Agency Staff,GONW,*BROOK STREET BUREAU,5106149065,"1,250.31"
+Communities & Local Government,GO,25/10/2010,Agency Staff,GONW,REED SPECIALIST RECRUITMENT LTD,5106149172,"1,176.43"
+Communities & Local Government,GO,25/10/2010,Agency Staff,GOYH,REED SPECIALIST RECRUITMENT LTD,5106149160,803.27
+Communities & Local Government,GO,25/10/2010,Conferences,GONW,LANCASTER UNIVERSITY,5106149173,"1,723.14"
+Communities & Local Government,GO,25/10/2010,Conferences,GOE,DCLG GOVERNMENT PROCUREMENT CARD,1000002757,540.77
+Communities & Local Government,GO,25/10/2010,"Furniture, Fittings and carpets",RCU - PAM - Property Asset Management,FLEXIFORM BUSINESS FURNITURE LTD,5106149079,"1,762.50"
+Communities & Local Government,GO,25/10/2010,Post,GONW,PITNEY BOWES LTD (CM19 5DQ),5106149045,"1,000.00"
+Communities & Local Government,GO,25/10/2010,Publications,GOWM,NEWSFLOW EXPRESS,2100185864,604.80
+Communities & Local Government,GO,25/10/2010,Training,GOWM,ANAM CARA LIMITED,2100185869,"1,250.00"
+Communities & Local Government,GO,25/10/2010,Training,GORCU Admin DEL Votd,NATIONAL SCHOOL OF GOVERNMENT,5106149175,"3,800.00"
+Communities & Local Government,GO,25/10/2010,Training,GORCU Admin DEL Votd,NATIONAL SCHOOL OF GOVERNMENT,5106149180,"7,500.00"
+Communities & Local Government,GO,25/10/2010,Training,GORCU Admin DEL Votd,ALPHA CONSOLIDATED TRAINING LTD,5106149086,"4,800.00"
+Communities & Local Government,GO,25/10/2010,Training,GORCU Admin DEL Votd,ALPHA CONSOLIDATED TRAINING LTD,5106149183,"11,375.00"
+Communities & Local Government,GO,25/10/2010,Training,GORCU Admin DEL Votd,FARADAY PARTNERSHIP LTD,5106149179,"5,650.00"
+Communities & Local Government,GO,25/10/2010,Waste Disposal and pest control,RCU - PAM - Property Asset Management,DCLG GOVERNMENT PROCUREMENT CARD,1000002759,"2,735.07"
+Communities & Local Government,GO,25/10/2010,Accommodation Service Charges,RCU - PAM - Property Asset Management,CB RICHARD ELLIS LTD,2100185874,"19,542.22"
+Communities & Local Government,GO,26/10/2010,Agency Staff,GOE,CAVILL ROBINSON FINANCIAL RCRTMT LT,5106149279,"1,017.17"
+Communities & Local Government,GO,26/10/2010,Agency Staff,GORCU Admin DEL Votd,REED SPECIALIST RECRUITMENT LTD,5106149372,585.62
+Communities & Local Government,GO,26/10/2010,Fixed Maintenance,RCU - PAM - Property Asset Management,MITIE MANAGED SERVICES LTD,5106149278,"11,877.93"
+Communities & Local Government,GO,26/10/2010,Post,GOE,NATURAL ENGLAND,2100185821,976.30
+Communities & Local Government,GO,26/10/2010,Professional services,GORCU Admin DEL Votd,*LOGICA CMG UK LTD,5106149348,"11,149.37"
+Communities & Local Government,GO,26/10/2010,Professional services,GORCU Admin DEL Votd,*LOGICA CMG UK LTD,5106149349,462.20
+Communities & Local Government,GO,26/10/2010,Professional services,RCU - PAM - Property Asset Management,GEO HALLAM & SONS,5106149245,"12,080.47"
+Communities & Local Government,GO,26/10/2010,Removals and Porterage,RCU - PAM - Property Asset Management,BCL,5106149274,"9,067.50"
+Communities & Local Government,GO,26/10/2010,Training,GOE,ASCENTIA,5106149338,"1,210.25"
+Communities & Local Government,GO,26/10/2010,Training,GOSE,GUILDFORD COLLEGE OF FURTHER EDUC,5106149276,600.00
+Communities & Local Government,GO,26/10/2010,Training,GOSE,ULT LTD,2100185947,665.00
+Communities & Local Government,GO,26/10/2010,Training,GORCU Admin DEL Votd,ALPHA CONSOLIDATED TRAINING LTD,5106149236,"6,400.00"
+Communities & Local Government,GO,26/10/2010,Training,GORCU Admin DEL Votd,ALPHA CONSOLIDATED TRAINING LTD,5106149267,"9,100.00"
+Communities & Local Government,GO,26/10/2010,Training,GORCU Admin DEL Votd,ALPHA CONSOLIDATED TRAINING LTD,5106149380,"4,333.00"
+Communities & Local Government,GO,26/10/2010,Training,GORCU Admin DEL Votd,ALPHA CONSOLIDATED TRAINING LTD,5106149381,"3,600.00"
+Communities & Local Government,GO,26/10/2010,Gas,RCU - PAM - Property Asset Management,CORONA ENERGY LTD,5106149152,580.22
+Communities & Local Government,GO,26/10/2010,Electricity,RCU - PAM - Property Asset Management,BRUNTWOOD EST ALPHA PORTFOLIO LTD,5106149280,"2,266.09"
+Communities & Local Government,GO,26/10/2010,Office machinery consumables,GOSW,DCLG GOVERNMENT PROCUREMENT CARD,1000002762,950.84
+Communities & Local Government,GO,27/10/2010,Agency Staff,GONW,REED SPECIALIST RECRUITMENT LTD,5106149388,"1,176.43"
+Communities & Local Government,GO,27/10/2010,Agency Staff,GONW,REED SPECIALIST RECRUITMENT LTD,5106149399,565.49
+Communities & Local Government,GO,27/10/2010,Agency Staff,GOSW,DCLG GOVERNMENT PROCUREMENT CARD,1000002764,"4,505.79"
+Communities & Local Government,GO,27/10/2010,Agency Staff,GOL,REED SPECIALIST RECRUITMENT LTD,2100186004,753.08
+Communities & Local Government,GO,27/10/2010,Agency Staff,GOL,REED SPECIALIST RECRUITMENT LTD,2100186006,537.92
+Communities & Local Government,GO,27/10/2010,Agency Staff,GOL,CAPITA RESOURCING LIMITED,5106149502,"2,056.27"
+Communities & Local Government,GO,27/10/2010,Agency Staff,GORCU Admin DEL Votd,BADENOCH & CLARK,5106149507,"2,507.63"
+Communities & Local Government,GO,27/10/2010,Photocopying,GOL,CANON (UK) LTD,2100186000,"2,080.98"
+Communities & Local Government,GO,27/10/2010,Photocopying,GOL,CANON (UK) LTD,2100186001,"3,775.97"
+Communities & Local Government,GO,27/10/2010,Photocopying,GOL,CANON (UK) LTD,2100186002,"1,387.32"
+Communities & Local Government,GO,27/10/2010,Storage,GONE,CROWN RECORDS MANAGEMENT LTD,5106149478,819.35
+Communities & Local Government,GO,27/10/2010,Training,GOYH,KNOWLEDGE ACADEMY LTD,2100186012,"7,995.00"
+Communities & Local Government,GO,27/10/2010,Training,GOEM,ACCORDIA TRAINING SOLUTIONS,2100185999,"1,145.00"
+Communities & Local Government,GO,27/10/2010,Training,GOSE,ULT LTD,2100185994,910.00
+Communities & Local Government,GO,27/10/2010,Telephone call costs,GORCU Admin DEL Votd,CABLE & WIRELESS,5106149532,506.10
+Communities & Local Government,GO,27/10/2010,Telephone call costs,GORCU Admin DEL Votd,CABLE & WIRELESS,5106149533,"2,185.35"
+Communities & Local Government,GO,27/10/2010,Telephone call costs,GORCU Admin DEL Votd,CABLE & WIRELESS,5106149536,"1,445.94"
+Communities & Local Government,GO,28/10/2010,Agency Staff,GONW,REED SPECIALIST RECRUITMENT LTD,5106149694,"1,152.59"
+Communities & Local Government,GO,28/10/2010,Agency Staff,GOE,CAVILL ROBINSON FINANCIAL RCRTMT LT,5106149691,"1,017.17"
+Communities & Local Government,GO,28/10/2010,Mileage UK,GOYH,YORKSHIRE MESMAC LTD,2100186054,57.40
+Communities & Local Government,GO,28/10/2010,Fares UK,GOYH,YORKSHIRE MESMAC LTD,2100186054,126.80
+Communities & Local Government,GO,28/10/2010,Subsistence UK,GOYH,YORKSHIRE MESMAC LTD,2100186054,38.25
+Communities & Local Government,GO,28/10/2010,Post,GONE,DCLG GOVERNMENT PROCUREMENT CARD,1000002767,"1,006.98"
+Communities & Local Government,GO,28/10/2010,Publicity,GONE,PLANNING INSPECTORATE,2100186014,"20,460.00"
+Communities & Local Government,GO,28/10/2010,Publicity,GONE,PENNA COMMUNICATIONS,2100186015,"6,920.71"
+Communities & Local Government,GO,28/10/2010,Publicity,GONE,PENNA COMMUNICATIONS,2100186016,"3,141.04"
+Communities & Local Government,GO,28/10/2010,Publicity,GONE,PENNA COMMUNICATIONS,2100186017,"1,847.78"
+Communities & Local Government,GO,28/10/2010,Publicity,GONE,PENNA COMMUNICATIONS,2100186018,"7,715.36"
+Communities & Local Government,GO,28/10/2010,Publicity,GONE,PENNA COMMUNICATIONS,2100186019,867.70
+Communities & Local Government,GO,28/10/2010,Publicity,GONE,PENNA COMMUNICATIONS,2100186020,"1,586.29"
+Communities & Local Government,GO,28/10/2010,Publicity,GONE,PENNA COMMUNICATIONS,2100186021,"2,587.93"
+Communities & Local Government,GO,28/10/2010,Publicity,GONE,PENNA COMMUNICATIONS,2100186022,"1,378.51"
+Communities & Local Government,GO,28/10/2010,Rates,RCU - PAM - Property Asset Management,CAMBRIDGE CITY COUNCIL,5106149605,"1,107.00"
+Communities & Local Government,GO,28/10/2010,Rates,RCU - PAM - Property Asset Management,CAMBRIDGE CITY COUNCIL,5106149606,963.00
+Communities & Local Government,GO,28/10/2010,Rates,RCU - PAM - Property Asset Management,CAMBRIDGE CITY COUNCIL,5106149607,"2,236.00"
+Communities & Local Government,GO,28/10/2010,Rates,RCU - PAM - Property Asset Management,GUILDFORD BC,5106149609,"33,286.00"
+Communities & Local Government,GO,28/10/2010,Rates,RCU - PAM - Property Asset Management,BRISTOL CITY COUNCIL,5106149608,"62,928.00"
+Communities & Local Government,GO,28/10/2010,Rates,RCU - PAM - Property Asset Management,LEEDS TOWN HALL,5106149599,"59,214.00"
+Communities & Local Government,GO,28/10/2010,Rates,RCU - PAM - Property Asset Management,LEEDS TOWN HALL,5106149600,"18,061.00"
+Communities & Local Government,GO,28/10/2010,Rates,RCU - PAM - Property Asset Management,LEEDS TOWN HALL,5106149601,"5,962.00"
+Communities & Local Government,GO,28/10/2010,Rates,RCU - PAM - Property Asset Management,LIVERPOOL CITY COUNCIL,5106149597,"16,285.00"
+Communities & Local Government,GO,28/10/2010,Rates,RCU - PAM - Property Asset Management,NOTTINGHAM CITY COUNCIL,5106149604,"20,317.00"
+Communities & Local Government,GO,28/10/2010,Rates,RCU - PAM - Property Asset Management,NEWCASTLE CITY COUNCIL,5106149593,"51,750.00"
+Communities & Local Government,GO,28/10/2010,Rates,RCU - PAM - Property Asset Management,City of Westminster,5106149610,"90,470.00"
+Communities & Local Government,GO,28/10/2010,Rates,RCU - PAM - Property Asset Management,BIRMINGHAM CITY COUNCIL,5106149602,"78,133.00"
+Communities & Local Government,GO,28/10/2010,Rates,RCU - PAM - Property Asset Management,BIRMINGHAM CITY COUNCIL,5106149603,"15,782.00"
+Communities & Local Government,GO,28/10/2010,Training,GONW,DODS PARLIAMENTARY COMM  LTD,5106149693,564.00
+Communities & Local Government,GO,28/10/2010,Training,GOEM,DCLG GOVERNMENT PROCUREMENT CARD,1000002765,"1,706.11"
+Communities & Local Government,GO,28/10/2010,Training,GOSE,ILX GROUP PLC,2100186041,"12,500.00"
+Communities & Local Government,GO,28/10/2010,Training,GORCU Admin DEL Votd,EDHR SOLUTIONS LTD,2100186053,"1,500.00"
+Communities & Local Government,GO,28/10/2010,Vehicle hire,GOSW,ARVAL,2100186056,"3,993.16"
+Communities & Local Government,GO,28/10/2010,Telephone call costs,GORCU Admin DEL Votd,CABLE & WIRELESS,5106149611,"1,163.96"
+Communities & Local Government,GO,28/10/2010,Telephone call costs,GORCU Admin DEL Votd,CABLE & WIRELESS,5106149625,"2,971.95"
+Communities & Local Government,GO,28/10/2010,Telephone call costs,GORCU Admin DEL Votd,CABLE & WIRELESS,5106149629,542.56
+Communities & Local Government,GO,28/10/2010,Telephone call costs,GORCU Admin DEL Votd,CABLE & WIRELESS,5106149632,"1,107.04"
+Communities & Local Government,GO,28/10/2010,Telephone call costs,GORCU Admin DEL Votd,CABLE & WIRELESS,5106149635,588.89
+Communities & Local Government,GO,28/10/2010,Telephone call costs,GORCU Admin DEL Votd,CABLE & WIRELESS,5106149639,"1,423.54"
+Communities & Local Government,GO,28/10/2010,Telephone call costs,GORCU Admin DEL Votd,CABLE & WIRELESS,5106149640,"1,562.54"
+Communities & Local Government,GO,28/10/2010,Telephone call costs,GORCU Admin DEL Votd,CABLE & WIRELESS,5106149677,760.50
+Communities & Local Government,GO,28/10/2010,Telephone call costs,GORCU Admin DEL Votd,CABLE & WIRELESS,5106149684,517.52
+Communities & Local Government,GO,28/10/2010,Telephone call costs,GORCU Admin DEL Votd,CABLE & WIRELESS,5106149685,786.11
+Communities & Local Government,GO,28/10/2010,Telephone call costs,GORCU Admin DEL Votd,CABLE & WIRELESS,5106149687,"1,480.29"
+Communities & Local Government,GO,29/10/2010,Agency Staff,GORCU Admin DEL Votd,REED SPECIALIST RECRUITMENT LTD,5106149793,623.68
+Communities & Local Government,GO,29/10/2010,"IT - PC, Network & Hardware",GORCU Admin DEL Votd,FUJITSU SERVICES LTD,5106149803,"34,075.00"
+Communities & Local Government,GO,29/10/2010,IT Maintenance,GONW,FUJITSU SERVICES LTD,5106149802,"36,534.28"
+Communities & Local Government,GO,29/10/2010,IT Maintenance,GORCU Admin DEL Votd,FUJITSU SERVICES LTD,5106149799,"28,263.03"
+Communities & Local Government,GO,29/10/2010,IT Maintenance,GORCU Admin DEL Votd,FUJITSU SERVICES LTD,5106149800,"31,209.40"
+Communities & Local Government,GO,29/10/2010,IT SUPPORT,RCU - PAM - Property Asset Management,FUJITSU SERVICES LTD,5106149803,"250,275.00"
+Communities & Local Government,GO,29/10/2010,Vehicle hire,GOSE,*LEX AUTOLEASE LTD,5106149737,"2,391.45"
+Communities & Local Government,GO,29/10/2010,Telephone call costs,GORCU Admin DEL Votd,CABLE & WIRELESS,5106149798,725.97
+Communities & Local Government,GO,29/10/2010,Mobile phone costs,GORCU Admin DEL Votd,VODAFONE UK,5106149804,"16,118.09"
+Communities & Local Government,GO,29/10/2010,Mobile phone costs,GORCU Admin DEL Votd,VODAFONE UK,5106149805,"3,214.95"
+Communities & Local Government,GO,29/10/2010,Stationery,GOE,BANNER BUSINESS SUPPLIES LTD,5106148374,515.59
+Communities & Local Government,GO,29/10/2010,IT - Service Contracts,GORCU Admin DEL Votd,FUJITSU SERVICES LTD,5106149790,"6,973.32"
+Communities & Local Government,GO,29/10/2010,IT - Service Contracts,GORCU Admin DEL Votd,FUJITSU SERVICES LTD,5106149801,"243,412.38"
+Communities & Local Government,GO,01/10/2010,Travel and Subsistence Account,GORCU Admin DEL Votd,Employee Expenses,,712.50
+Communities & Local Government,GO,05/10/2010,Travel and Subsistence Account,GOEM,Employee Expenses,,724.70
+Communities & Local Government,GO,05/10/2010,Training,GOSE,Employee Expenses,,630.40
+Communities & Local Government,GO,06/10/2010,Training,GOE,Employee Expenses,,628.00
+Communities & Local Government,GO,08/10/2010,Training,GOE,Employee Expenses,,"1,047.50"
+Communities & Local Government,GO,11/10/2010,Travel and Subsistence Account,GORCU Admin DEL Votd,Employee Expenses,,"1,150.15"
+Communities & Local Government,GO,11/10/2010,Training,GONW,Employee Expenses,,535.00
+Communities & Local Government,GO,12/10/2010,Fares UK,GOSW,Employee Expenses,,96.65
+Communities & Local Government,GO,13/10/2010,Travel and Subsistence Account,GOYH,Employee Expenses,,"1,855.35"
+Communities & Local Government,GO,14/10/2010,Training,GOE,Employee Expenses,,857.50
+Communities & Local Government,GO,26/10/2010,Training,GONE,Employee Expenses,,"1,500.00"
+Communities & Local Government,GO,28/10/2010,Travel and Subsistence Account,GOSW,Employee Expenses,,523.18
+Communities & Local Government,GO,28/10/2010,Travel and Subsistence Account,GORCU Admin DEL Votd,Employee Expenses,,"1,068.55"
+Communities & Local Government,GO,28/10/2010,Training,GOEM,Employee Expenses,,500.00
+Communities & Local Government,GO,28/10/2010,Training,GOSE,Employee Expenses,,641.60
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,

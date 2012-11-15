@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-GB" xmlns="http://www.w3.org/2005/Atom">
+  <id>tag:www.gov.uk,2005:/government/publications</id>
+  <link rel="alternate" type="text/html" href="https://www.gov.uk/government"/>
+  <link rel="self" type="application/atom+xml" href="https://www.gov.uk/government/publications.atom?departments%5B%5D=department-for-transport&amp;publication_type=foi-releases"/>
+  <title>Inside government</title>
+  <subtitle>Recent publications</subtitle>
+  <author>
+    <name>HM Government</name>
+  </author>
+  <updated>2012-11-07T00:00:00+00:00</updated>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/12799</id>
+    <published>2012-11-07T00:00:00+00:00</published>
+    <updated>2012-11-07T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/additional-car-parking-at-bedwyn-station"/>
+    <title>Additional car parking at Bedwyn station</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This Freedom of Information response letter and supporting material concern additional car parking at Bedwyn station.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/10529</id>
+    <published>2012-11-06T00:00:00+00:00</published>
+    <updated>2012-11-06T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/grant-funding-paid-to-mobility-centres"/>
+    <title>Grant funding paid to mobility centres</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Department for Transport’s (&lt;abbr title="The Department for Transport"&gt;DfT&lt;/abbr&gt;’s) response to Freedom of Information (&lt;abbr title="Freedom of Information"&gt;FOI&lt;/abbr&gt;) request F0007301: Grant funding paid to mobility centres&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/10526</id>
+    <published>2012-11-06T00:00:00+00:00</published>
+    <updated>2012-11-06T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/department-hr-selection-appeal-letters"/>
+    <title>Department HR selection appeal letters</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Department for Transport’s (&lt;abbr title="The Department for Transport"&gt;DfT&lt;/abbr&gt;’s) response to Freedom of Information (&lt;abbr title="Freedom of Information"&gt;FOI&lt;/abbr&gt;) request F0007534: Department HR selection appeal letters&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/10528</id>
+    <published>2012-11-06T00:00:00+00:00</published>
+    <updated>2012-11-06T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/departmental-food-procurement-for-its-catering-operations"/>
+    <title>Departmental food procurement for its catering operations</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Department for Transport’s (&lt;abbr title="The Department for Transport"&gt;DfT&lt;/abbr&gt;’s) response to Freedom of Information (&lt;abbr title="Freedom of Information"&gt;FOI&lt;/abbr&gt;) request F00075520: Departmental food procurement for its catering operations&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/12812</id>
+    <published>2012-11-06T00:00:00+00:00</published>
+    <updated>2012-11-06T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/details-of-passenger-ship-fires-in-2010"/>
+    <title>Passenger ship fires in 2010</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Department for Transport’s (&lt;abbr title="The Department for Transport"&gt;DfT&lt;/abbr&gt;’s) response to Freedom of Information (&lt;abbr title="Freedom of Information"&gt;FOI&lt;/abbr&gt;) request F0007151: Passenger ship fires in 2010.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/10635</id>
+    <published>2012-11-06T00:00:00+00:00</published>
+    <updated>2012-11-06T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/blue-badge-scheme-contract"/>
+    <title>Blue badge scheme contract</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Department for Transport’s (DfT’s) response to Freedom of Information (&lt;abbr title="Freedom of Information"&gt;FOI&lt;/abbr&gt;) request F0007842: Blue Badge scheme contract.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/10586</id>
+    <published>2012-11-06T00:00:00+00:00</published>
+    <updated>2012-11-06T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/provision-of-road-de-icing-salt"/>
+    <title>Provision of road de-icing salt</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;&lt;abbr title="Freedom of Information"&gt;FOI&lt;/abbr&gt; Request for as much detail as possible for orders of grit during winter 2010-11, winter 2009-10 and winter 2008-09.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/13024</id>
+    <published>2012-10-31T00:00:00+00:00</published>
+    <updated>2012-10-31T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/meetings-between-the-secretary-of-state-and-bombardier"/>
+    <title>Meetings between the Secretary of State and Bombardier</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Response concerning meetings between the Secretary of State and Bombardier and material relating to High Speed 2.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/13026</id>
+    <published>2012-10-29T00:00:00+00:00</published>
+    <updated>2012-10-29T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/official-photographs-of-ministers"/>
+    <title>Official photographs of ministers</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Freedom of information response letter regarding official photographs of ministers.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/13334</id>
+    <published>2012-10-25T00:00:00+01:00</published>
+    <updated>2012-10-25T00:00:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/costs-of-hs2-spur-to-heathrow"/>
+    <title>Costs of HS2 spur to Heathrow</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Freedom of Information response regarding costs of the High Speed 2 spur to Heathrow.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/13025</id>
+    <published>2012-10-15T00:00:00+01:00</published>
+    <updated>2012-10-15T00:00:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/items-lost-or-stolen-from-the-department-in-2011"/>
+    <title>Items lost or stolen from the department in 2011</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Freedom of information response letter regarding items lost or stolen from the department in 2011.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/13023</id>
+    <published>2012-09-25T00:00:00+01:00</published>
+    <updated>2012-09-25T00:00:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/compensation-figures-paid-to-passengers-by-train-operating-companies"/>
+    <title>Compensation figures paid to passengers by train operating companies</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Freedom of information response regarding compensation paid by train operating companies operating the delay/repay scheme.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/13021</id>
+    <published>2012-09-12T00:00:00+01:00</published>
+    <updated>2012-09-12T00:00:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/ecological-impact-of-bristol-and-portbury-rail-link"/>
+    <title>Ecological impact of Bristol and Portbury rail link</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Response to ecological impact of Bristol and Portbury rail link question.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/13022</id>
+    <published>2012-09-11T00:00:00+01:00</published>
+    <updated>2012-09-11T00:00:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/facilities-management-contracts"/>
+    <title>Facilities management contracts</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Freedom of information response letter regarding facilities management contracts with Amey.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/10476</id>
+    <published>2012-09-10T00:00:00+01:00</published>
+    <updated>2012-09-10T00:00:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/press-and-communications-spend-in-the-financial-year-2011-2012"/>
+    <title>Press and communications spend in the financial year 2011/2012</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Freedom of information response letter about press and communications spend in the department in the financial year 2011/2012.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/13524</id>
+    <published>2012-09-06T00:00:00+01:00</published>
+    <updated>2012-09-06T00:00:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/unused-land-and-facilities"/>
+    <title>Unused land and facilities</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Freedom of information response regarding buildings and facilities which are unused or not used for their primary purpose.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/13548</id>
+    <published>2012-09-03T00:00:00+01:00</published>
+    <updated>2012-09-03T00:00:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/hs2-and-landscape-costs"/>
+    <title>HS2 and landscape costs</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Environmental Information Regulations (EIR) response regarding High Speed 2 and landscape costs.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/15982</id>
+    <published>2012-08-28T00:00:00+01:00</published>
+    <updated>2012-08-28T00:00:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/hemel-hempstead-station"/>
+    <title>Hemel Hempstead station</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Freedom of information response (F0009111) regarding accessibility at Hemel Hempstead station.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel="external" href="http://webarchive.nationalarchives.gov.uk/20121105134522/http://assets.dft.gov.uk/foi/dft-f0009111/dft-f0009111.pdf"&gt;Freedom of information response letter regarding accessibility at Hemel Hempstead station&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a rel="external" href="http://webarchive.nationalarchives.gov.uk/20121105134522/http://assets.dft.gov.uk/foi/dft-f0009111/annex-a-stations-update20120401.pdf"&gt;Annex A: stations update&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a rel="external" href="http://webarchive.nationalarchives.gov.uk/20121105134522/http://assets.dft.gov.uk/foi/dft-f0009111/annex-b-option-selection-report.pdf"&gt;Annex B: option selection report&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a rel="external" href="http://webarchive.nationalarchives.gov.uk/20121105134522/http://assets.dft.gov.uk/foi/dft-f0009111/email-correspondence.pdf"&gt;Email correspondence&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a rel="external" href="http://webarchive.nationalarchives.gov.uk/20121105134522/http://assets.dft.gov.uk/foi/dft-f0009111/hemel-photo-plan.pdf"&gt;Hemel Hempstead plan&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a rel="external" href="http://webarchive.nationalarchives.gov.uk/20121105134522/http://assets.dft.gov.uk/foi/dft-f0009111/hemel-photos.zip"&gt;Hemel Hempstead photos&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a rel="external" href="http://webarchive.nationalarchives.gov.uk/20121105134522/http://assets.dft.gov.uk/foi/dft-f0009111/further-email-correspondence.pdf"&gt;Further email correspondence&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/13336</id>
+    <published>2012-08-23T00:00:00+01:00</published>
+    <updated>2012-08-23T00:00:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/trade-unions"/>
+    <title>Trade Unions</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Freedom of information response regarding money paid to trade unions.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/13337</id>
+    <published>2012-08-23T00:00:00+01:00</published>
+    <updated>2012-08-23T00:00:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/hs2-and-social-media"/>
+    <title>HS2 and social media</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Freedom of information response regarding documents relating to the use of Twitter, Facebook or other social media and HS2.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+</feed>

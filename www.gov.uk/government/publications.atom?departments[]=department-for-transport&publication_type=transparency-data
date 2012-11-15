@@ -1,0 +1,1413 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-GB" xmlns="http://www.w3.org/2005/Atom">
+  <id>tag:www.gov.uk,2005:/government/publications</id>
+  <link rel="alternate" type="text/html" href="https://www.gov.uk/government"/>
+  <link rel="self" type="application/atom+xml" href="https://www.gov.uk/government/publications.atom?departments%5B%5D=department-for-transport&amp;publication_type=transparency-data"/>
+  <title>Inside government</title>
+  <subtitle>Recent publications</subtitle>
+  <author>
+    <name>HM Government</name>
+  </author>
+  <updated>2012-10-11T00:00:00+01:00</updated>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/15699</id>
+    <published>2012-10-11T00:00:00+01:00</published>
+    <updated>2012-10-11T00:00:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/bus-passenger-journeys"/>
+    <title>Bus passenger journeys</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="dft-business-plan-other-key-data"&gt;DfT Business Plan other key data&lt;/h2&gt;
+
+&lt;p&gt;Geographical coverage: England&lt;/p&gt;
+
+&lt;p&gt;Information broken down by: Region - data are available for London, English metropolitan areas (as a group), and English non-metropolitan areas (as a group)&lt;/p&gt;
+
+&lt;h2 id="latest-data"&gt;Latest data&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;In quarter 2 (April-June) 2012, there were 1.15 billion passenger journeys on local buses in England.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Most recent data table.&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;&lt;tr&gt;
+&lt;th&gt;Quarter&lt;/th&gt;
+      &lt;th&gt;Passenger journey (billions)&lt;/th&gt;
+    &lt;/tr&gt;&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;2011/12 Apr - Jun&lt;/td&gt;
+      &lt;td&gt;1.150&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2012/13 Apr-Jun&lt;/td&gt;
+      &lt;td&gt;1.149&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Percentage change&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;Bus passenger journeys in England increased by around 15% between 2004/05 and 2008/09, a period in which the English National Concessionary Travel Scheme was introduced. Growth was greater in London, with a smaller increase in the metropolitan areas outside London over this period&lt;/li&gt;
+  &lt;li&gt;Since 2008/09, passenger journeys have remained broadly flat, with continued growth in London offsetting a gradual decline in passenger numbers outside London&lt;/li&gt;
+  &lt;li&gt;Though figures for individual quarters should be interpreted with caution, the April to June 2012 figures show a fall in seasonally adjusted journeys of 2% for England compared with the previous quarter, with falls in London, metropolitan and non-metropolitan areas&lt;/li&gt;
+&lt;/ul&gt;&lt;h2 id="background-information"&gt;Background information&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Quarterly estimates are based on a panel of the 18 largest non-metropolitan operators, Passenger Transport Executives (for metropolitan areas) and Transport for London (TfL). The panel covers over 90% of the journeys made in Great Britain. Data from the quarterly panel is scaled to annual figures from the Department’s main annual survey of 700 PSV operators, and figures are then seasonally adjusted. More information is in the Guidance Notes (see link in Related Information below)&lt;/li&gt;
+  &lt;li&gt;The quarterly figures are less precise than the annual statistics which aim to report on all journeys, including those covered by smaller operators&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Quarterly figures are subject to revision due to the nature of the seasonal adjustment, and scaling to annual figures. However, these will typically be minor and not affect overall patterns shown&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+&lt;strong&gt;Publishing schedule:&lt;/strong&gt; Quarterly&lt;/li&gt;
+  &lt;li&gt;
+&lt;strong&gt;Last updated:&lt;/strong&gt; 11 October 2012&lt;/li&gt;
+  &lt;li&gt;
+&lt;strong&gt;Next update:&lt;/strong&gt; December 2012&lt;/li&gt;
+&lt;/ul&gt;&lt;h2 id="other-related-data-and-information"&gt;Other related data and information&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://whitehall-admin.production.alphagov.co.uk/technical-guidance-for-transport-stats?&amp;amp;preview=8996#bus-statistics"&gt;The full guidance notes on DfT bus statistics&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://www.gov.uk/government/organisations/department-for-transport/series/bus-statistics"&gt;Related bus statistics&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://www.gov.uk/government/publications/public-attitudes-towards-buses-march-2011"&gt;Research on attitudes to bus travel&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;h2 id="further-information"&gt;Further information&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.gov.uk/government/publications/department-for-transport-business-plan"&gt;Business Plan 2012-2015&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://www.gov.uk/government/publications/input-and-impact-indicators"&gt;Input and impact indicators&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Analyst contact: Matthew Tranter, &lt;a href="mailto:bus.statistics@dft.gsi.gov.uk"&gt;Bus statistics&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/15707</id>
+    <published>2012-10-11T00:00:00+01:00</published>
+    <updated>2012-10-11T00:00:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/rail-passenger-miles"/>
+    <title>Rail passenger miles</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="dft-business-plan-other-key-data"&gt;DfT Business plan other key data&lt;/h2&gt;
+
+&lt;p&gt;Geographical coverage: Great Britain&lt;/p&gt;
+
+&lt;p&gt;Information broken down by: Rail sector&lt;/p&gt;
+
+&lt;h2 id="latest-data"&gt;Latest data&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Passengers travelled 8.9 billion miles by rail in the first quarter of 2012-13, an increase of 3% when compared to the same quarter in 2011-12. These figures are for franchised operators only, so exclude travel with non-franchised operators, such as Grand Central, Heathrow Express and Hull Trains.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Public Performance Measure (&lt;abbr title="Public Performance Measure"&gt;PPM&lt;/abbr&gt;) for DfT franchised Train Operating Companies&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;&lt;tr&gt;
+&lt;th&gt;Quarter&lt;/th&gt;
+      &lt;th&gt;Quarterly total (billions)&lt;/th&gt;
+      &lt;th&gt;Quarterly moving annual average (&lt;abbr title="Moving Annual Average"&gt;MAA&lt;/abbr&gt;) (billions)&lt;/th&gt;
+    &lt;/tr&gt;&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;2010/11 Q1&lt;/td&gt;
+      &lt;td&gt;8.2&lt;/td&gt;
+      &lt;td&gt;8.1&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2010/11 Q2&lt;/td&gt;
+      &lt;td&gt;8.5&lt;/td&gt;
+      &lt;td&gt;8.2&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2010/11 Q3&lt;/td&gt;
+      &lt;td&gt;8.4&lt;/td&gt;
+      &lt;td&gt;8.3&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2010/11 Q4&lt;/td&gt;
+      &lt;td&gt;8.5&lt;/td&gt;
+      &lt;td&gt;8.4&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2011/12 Q1&lt;/td&gt;
+      &lt;td&gt;8.6&lt;/td&gt;
+      &lt;td&gt;8.5&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2011/12 Q2&lt;/td&gt;
+      &lt;td&gt;8.8&lt;/td&gt;
+      &lt;td&gt;8.6&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2011/12 Q3&lt;/td&gt;
+      &lt;td&gt;8.9&lt;/td&gt;
+      &lt;td&gt;8.7&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2011/12 Q4&lt;/td&gt;
+      &lt;td&gt;9.1&lt;/td&gt;
+      &lt;td&gt;8.8&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2012/13 Q1&lt;sup&gt;P&lt;/sup&gt;
+&lt;/td&gt;
+      &lt;td&gt;8.9&lt;/td&gt;
+      &lt;td&gt;8.9&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;&lt;p&gt;Source: Office of Rail Regulation (&lt;abbr title="Office of Rail Regulation"&gt;ORR&lt;/abbr&gt;)&lt;/p&gt;
+
+&lt;p&gt;Over the last ten years, other than a slight dip in 2009 during the recession, passenger rail usage has increased significantly, continuing the upward trend that has been seen since the mid-1990s.&lt;/p&gt;
+
+&lt;p&gt;&lt;sup&gt;P&lt;/sup&gt;The latest figures, for 2012-13 Q1, are provisional, and may be subject to revision at a later date.&lt;/p&gt;
+
+&lt;p&gt;The following file contains a longer time series of passenger miles figures and shows a breakdown for each of the rail sectors:&lt;/p&gt;
+
+&lt;h2 id="background-information"&gt;Background information&lt;/h2&gt;
+
+&lt;p&gt;Rail passenger kilometres totals are published quarterly by the Office of Rail Regulation (&lt;abbr title="Office of Rail Regulation"&gt;ORR&lt;/abbr&gt;). The rail industry’s central ticketing system, LENNON, is the basis for passenger kilometres data. LENNON holds information on the vast majority of national rail tickets purchased in Great Britain and is used to allocate the revenue from ticket sales between train operating companies.&lt;/p&gt;
+
+&lt;p&gt;&lt;abbr title="Office of Rail Regulation"&gt;ORR&lt;/abbr&gt; also receives quarterly non-LENNON kilometres data from train operators. Non-LENNON data are information not recorded within the LENNON system such as operator specific tickets and Passenger Transport Executive (&lt;abbr title="Passenger Transport Executive"&gt;PTE&lt;/abbr&gt;) multi-modal tickets.&lt;/p&gt;
+
+&lt;p&gt;The statistics are converted from kilometres to miles by DfT for the purposes of this publication.&lt;/p&gt;
+
+&lt;p&gt;The data supplied in the table and the charts refer to financial rather than calendar years.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;publishing schedule: quarterly&lt;/li&gt;
+  &lt;li&gt;last updated: 13 September 2012&lt;/li&gt;
+  &lt;li&gt;next update: 6 December 2013&lt;/li&gt;
+&lt;/ul&gt;&lt;h2 id="other-related-data-and-information"&gt;Other related data and information&lt;/h2&gt;
+
+&lt;p&gt;&lt;a rel="external" href="http://dataportal.orr.gov.uk/"&gt;Rail passenger kilometres statistics are published on the Office of Rail Regulation Data Portal&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://www.gov.uk/government/publications/tsgb-2011-public-transport"&gt;Annual passenger kilometres data for rail and other modes of public transport are published in Transport Statistics Great Britain (&lt;abbr title="Transport Statistics Great Britain"&gt;TSGB&lt;/abbr&gt;)&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id="further-information"&gt;Further information&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.gov.uk/government/publications/department-for-transport-business-plan"&gt;Business Plan 2012-2015&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://www.gov.uk/government/publications/input-and-impact-indicators"&gt;Input and impact indicators&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Analyst contact: &lt;a href="mailto:rail.stats@dft.gsi.gov.uk"&gt;rail.stats@dft.gsi.gov.uk&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/14775</id>
+    <published>2012-09-20T00:00:00+01:00</published>
+    <updated>2012-09-20T00:00:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/number-of-newly-registered-ultra-low-emissions-vehicles"/>
+    <title>Number of newly registered ultra low emissions vehicles</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="dft-business-plan"&gt;DfT Business plan&lt;/h2&gt;
+
+&lt;h3 id="geographical-coverage-united-kingdom"&gt;Geographical coverage: United Kingdom&lt;/h3&gt;
+
+&lt;h3 id="information-broken-down-by-data-available-by-la-on-request-published-quarterly"&gt;Information broken down by: Data available by LA on request, published quarterly.&lt;/h3&gt;
+
+&lt;h2 id="latest-data"&gt;Latest data&lt;/h2&gt;
+
+&lt;p&gt;In the second quarter of 2012 (April-June), 961 new ultra-low emission vehicles were registered for the first time in the UK. 
+Most recent data:		&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;&lt;tr&gt;
+&lt;th&gt;Quarter&lt;/th&gt;
+      &lt;th&gt;New UK registrations of ultra-low emission vehicles&lt;/th&gt;
+    &lt;/tr&gt;&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;2011  Apr-Jun&lt;/td&gt;
+      &lt;td&gt;628&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2012  Apr-Jun&lt;/td&gt;
+      &lt;td&gt;628&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Percentage change&lt;/td&gt;
+      &lt;td&gt;+53%&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;&lt;p&gt;&lt;a href="https://www.gov.uk/government/statistical-data-sets/veh01-vehicles-registered-for-the-first-time"&gt;The complete data table is available here:&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The 961 ultra-low emission vehicles registered for the first time in quarter 2 2012 represents an increase of 53 per cent from the figure of 628 in the same quarter of the previous year. Most of these vehicles use electric engines, so the Plug-In Car Grant introduced by DfT in January 2011, and an increase in the supply of electric cars to the UK market will have contributed to this increase. &lt;/p&gt;
+
+&lt;p&gt;&lt;a rel="external" href="https://assets.digital.cabinet-office.gov.uk/government/uploads/system/uploads/attachment_data/file/10538/veh0170.xls"&gt;VEH0170&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id="background-information"&gt;Background information&lt;/h2&gt;
+
+&lt;p&gt;The Department for Transport uses the term ‘ultra-low emission vehicles’ to refer to vehicles with significantly lower levels of tailpipe emissions than conventional vehicles. In practice, the term currently refers to electric, plug-in hybrid and hydrogen fuel-cell vehicles.  Vehicles that use non-fossil fuel propulsion have zero tailpipe emissions. For other propulsion types, only vehicles with tailpipe emissions below 75 grams per kilometre are included. The figures are produced from DVLA’s and DVA’s new registration system and only vehicles being registered in Great Britain or Northern Ireland for the first time are included. 
+There is a high level of seasonal variation in new vehicle registrations (for example higher sales when registration plates change in September and April), therefore it is misleading to compare data for consecutive quarters. Comparisons should be made with the same quarter of previous years.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;publishing schedule: Quarterly&lt;/li&gt;
+  &lt;li&gt;last updated: 13 September 2012&lt;/li&gt;
+  &lt;li&gt;next update: December 2012&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;a rel="external" href="http://webarchive.nationalarchives.gov.uk/20111005174110/http:/assets.dft.gov.uk/publications/adobepdf-about-717940-717943/input-01.pdf"&gt;Measurement template&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id="other-related-data-and-information"&gt;Other related data and information&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href="https://www.gov.uk/government/organisations/department-for-transport/series/vehicle-licensing-statistics"&gt;Vehicle Licensing Statistics&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id="further-information"&gt;Further information&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.gov.uk/government/publications/department-for-transport-business-plan"&gt;Business Plan 2012-2015&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://www.gov.uk/government/publications/input-and-impact-indicators"&gt;Input and impact indicators&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Analyst contact: Jeremy Grove, &lt;a href="mailto:vehicle.statistics@dft.gsi.gov.uk"&gt;vehicle.statistics@dft.gsi.gov.uk&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/12336</id>
+    <published>2012-09-17T00:00:00+01:00</published>
+    <updated>2012-09-17T00:00:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/prompt-payment-statistics"/>
+    <title>Prompt payment statistics</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Information on invoice payment performance for the Department for Transport.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/14754</id>
+    <published>2012-09-13T00:00:00+01:00</published>
+    <updated>2012-09-13T00:00:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/reliability-of-journeys-on-the-highways-agency-s-motorway-and-a-road-network"/>
+    <title>Reliability of journeys on the Highways Agency’s motorway and A road network</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="dft-business-plan-impact-indicator"&gt;DfT Business plan impact indicator&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Geographical coverage: England&lt;/li&gt;
+  &lt;li&gt;Information broken down by: national level aggrevation&lt;/li&gt;
+&lt;/ul&gt;&lt;h2 id="latest-data"&gt;Latest data&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Provisional data show that 82.6 per cent of journeys made on Highways Agency managed roads between October 2011 and September 2012 were ‘on time’. This is 0.3 percentage points lower than the previous rolling year, ending in August 2012.&lt;/li&gt;
+  &lt;li&gt;During September 2012, provisional data show that 80.5 per cent of journeys on Highways Agency’s motorway and ‘A’ road network were ‘on time’. This is 3.5 percentage points lower than the equivalent figure for September 2011.&lt;/li&gt;
+  &lt;li&gt;The annual reliability measure consistently increased up to March 2012, but has fallen in the last six months, and is now similar to the level observed towards the end of 2011. The recent downward trend in reliability reflects the substantial amount of rainfall experienced since spring compared with the same period in 2011. In September 2012, rainfall in England was around 26 per cent higher than average, compared to 22 per cent lower than average in September 2011.
+Percentage of journeys on Highways Agency motorways and A roads deemed ‘on time’: monthly from June 2012&lt;/li&gt;
+&lt;/ul&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Percentage of journeys ‘on time’&lt;/th&gt;
+      &lt;th&gt; &lt;/th&gt;
+      &lt;th&gt; &lt;/th&gt;
+      &lt;th&gt; &lt;/th&gt;
+    &lt;/tr&gt;
+&lt;tr&gt;
+&lt;th&gt; &lt;/th&gt;
+      &lt;th&gt;Year ending&lt;/th&gt;
+      &lt;th&gt;Month&lt;/th&gt;
+      &lt;th&gt;Year ending percentage points change&lt;/th&gt;
+    &lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;June 2012&lt;/td&gt;
+      &lt;td&gt;83.3&lt;/td&gt;
+      &lt;td&gt;82.3&lt;/td&gt;
+      &lt;td&gt;-0.2&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;July 2012&lt;/td&gt;
+      &lt;td&gt;83.0&lt;/td&gt;
+      &lt;td&gt;81.8&lt;/td&gt;
+      &lt;td&gt;-0.2&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;August 2012&lt;/td&gt;
+      &lt;td&gt;82.9&lt;/td&gt;
+      &lt;td&gt;81.9&lt;/td&gt;
+      &lt;td&gt;-0.1&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;September 2012&lt;sup&gt;P&lt;/sup&gt;
+&lt;/td&gt;
+      &lt;td&gt;82.6&lt;/td&gt;
+      &lt;td&gt;80..5&lt;/td&gt;
+      &lt;td&gt;-0.3&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;&lt;p&gt;Source: Highways Agency Traffic Information System (HATRIS) Database&lt;/p&gt;
+
+&lt;p&gt;&lt;sup&gt;P&lt;/sup&gt; = provisional&lt;/p&gt;
+
+&lt;h2 id="background-information"&gt;Background information&lt;/h2&gt;
+
+&lt;p&gt;This indicator monitors the reliability of journeys made on Highways Agency’s motorway and A road network.&lt;/p&gt;
+
+&lt;p&gt;The indicator is measured by the percentage of ‘journeys’ on these roads that are ‘on time’. For this measure:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;a ‘journey’ represents travel between adjacent junctions on the network&lt;/li&gt;
+  &lt;li&gt;an ‘on time journey’ is defined as one which is completed within a set reference time, drawn from historic data on that particular section of road&lt;/li&gt;
+  &lt;li&gt;reference journey times are updated for the April data each year - further information on the impact of updating reference times can be found in section 3 of the latest statistical release&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;At present, information about the reliability of journeys on individual routes, or between particular junctions on the network, are not sufficiently robust to be presented as official statistics. This is due to the range of different sources used to calculate journey times across the network.&lt;/p&gt;
+
+&lt;p&gt;The department is working with the Highways Agency to address these issues of comparability. It is likely that any actions to address these issues will also require some historic adjustment to the national series although the trends reported in national reliability to date are unlikely to change.&lt;/p&gt;
+
+&lt;p&gt;Until this programme is complete, the Highways Agency will publish information about journey time reliability at a sub-national level through the data.gov.uk webpage.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;publishing schedule: monthly&lt;/li&gt;
+  &lt;li&gt;last updated: 8 November 2012&lt;/li&gt;
+  &lt;li&gt;next update: 13 December 2012&lt;/li&gt;
+&lt;/ul&gt;&lt;h2 id="other-related-data-and-information"&gt;Other related data and information&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.gov.uk/government/publications/reliability-of-journeys-on-the-highways-agencys-motorway-and-a-road-network-september-2012"&gt;Reliability of journeys on Highways Agency’s motorway and ‘A’ road network: September2012 - statistical release page&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;h2 id="further-information"&gt;Further information&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.gov.uk/government/publications/department-for-transport-business-plan"&gt;Business Plan 2012-2015&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://www.gov.uk/government/publications/input-and-impact-indicators"&gt;Input and impact indicators&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;For further information on this impact indicator, please contact: &lt;a href="mailto:jay.symonds@dft.gsi.gov.uk"&gt;jay.symonds@dft.gsi.gov.uk&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/15346</id>
+    <published>2012-08-10T00:00:00+01:00</published>
+    <updated>2012-08-10T00:00:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/input-and-impact-indicators"/>
+    <title>Department for Transport input and impact indicators</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="about-dfts-indicators"&gt;About DfT’s indicators&lt;/h2&gt;
+
+&lt;p&gt;The department has adopted the following input and impact indicators, listed by Coalition priority, as set out in our &lt;a rel="external" href="http://www.dft.gov.uk/publications/dft-business-plan/"&gt;Business plan&lt;/a&gt;. Input indicators show the cost to the government of delivering certain products and services. Impact indicators show the performance or output of public services. These indicators aim to provide useful information to enable transport users and the wider public to make informed choices, and to make up their own minds about how the department and transport service operators are running.&lt;/p&gt;
+
+&lt;h2 id="general-indicators"&gt;General indicators&lt;/h2&gt;
+
+&lt;table&gt;
+&lt;thead&gt;&lt;tr&gt;
+&lt;th&gt;Description&lt;/th&gt;
+      &lt;th&gt;Type of data&lt;/th&gt;
+      &lt;th&gt;Publication frequency&lt;/th&gt;
+    &lt;/tr&gt;&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a rel="external" href="http://www.dft.gov.uk/publications/dft-business-plan-indicators-input-06/"&gt;Percentage of DfT’s approved project spend that is assessed as high or very high value for money&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;Input indicator&lt;/td&gt;
+      &lt;td&gt;Biannual&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a rel="external" href="http://www.dft.gov.uk/publications/dft-business-plan-indicators-impact-05/"&gt;Total greenhouse gas emissions from transport&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;Impact indicator&lt;/td&gt;
+      &lt;td&gt;Annual&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;&lt;h2 id="deliver-the-coalitions-commitments-on-high-speed-rail"&gt;Deliver the Coalition’s commitments on high speed rail&lt;/h2&gt;
+
+&lt;p&gt;As the new high speed rail network is not yet an operational railway it is not practicable to measure its performance.&lt;/p&gt;
+
+&lt;h2 id="deliver-a-sustainable-and-customer-focused-railway"&gt;Deliver a sustainable and customer-focused railway&lt;/h2&gt;
+
+&lt;table&gt;
+&lt;thead&gt;&lt;tr&gt;
+&lt;th&gt;Description&lt;/th&gt;
+      &lt;th&gt;Type of data&lt;/th&gt;
+      &lt;th&gt;Publication frequency&lt;/th&gt;
+    &lt;/tr&gt;&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a rel="external" href="http://www.dft.gov.uk/publications/dft-business-plan-indicators-input-01/"&gt;Rail subsidy per passenger mile&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;Input indicator&lt;/td&gt;
+      &lt;td&gt;Annual&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a rel="external" href="http://www.dft.gov.uk/publications/dft-business-plan-indicators-input-07/"&gt;Cost of running the rail network &lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;Input indicator&lt;/td&gt;
+      &lt;td&gt;Annual&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a rel="external" href="http://www.dft.gov.uk/publications/dft-business-plan-indicators-impact-02/"&gt;Proportion of trains running on time&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;Impact indicator&lt;/td&gt;
+      &lt;td&gt;4-weekly&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a rel="external" href="http://www.dft.gov.uk/statistics/tables/tsgb0101"&gt;Rail passenger miles&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;Other key data&lt;/td&gt;
+      &lt;td&gt;Annual&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;&lt;h2 id="support-sustainable-local-tavel"&gt;Support sustainable local tavel&lt;/h2&gt;
+
+&lt;table&gt;
+&lt;thead&gt;&lt;tr&gt;
+&lt;th&gt;Description&lt;/th&gt;
+      &lt;th&gt;Type of data&lt;/th&gt;
+      &lt;th&gt;Publication frequency&lt;/th&gt;
+    &lt;/tr&gt;&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a rel="external" href="http://www.dft.gov.uk/publications/dft-business-plan-indicators-input-02/"&gt;Bus subsidy per passenger journey&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;Input indicator&lt;/td&gt;
+      &lt;td&gt;Annual&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a rel="external" href="http://www.dft.gov.uk/publications/dft-business-plan-indicators-impact-04/"&gt;Proportion of urban trips under 5 miles taken by (i) walking or cycling, (ii) public transport&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;Impact indicator&lt;/td&gt;
+      &lt;td&gt;Annual&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a rel="external" href="http://www.dft.gov.uk/publications/dft-business-plan-indicators-impact-03/"&gt;Proportion of bus services running on time&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;Impact indicator&lt;/td&gt;
+      &lt;td&gt;Annual&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a rel="external" href="http://www.dft.gov.uk/statistics/tables/bus0106/"&gt;Bus Passenger journeys&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;Other key data&lt;/td&gt;
+      &lt;td&gt;Quarterly&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;&lt;h2 id="invest-in-our-roads-to-promote-growth-while-reducing-congestion-and-tackling-carbon"&gt;Invest in our roads to promote growth, while reducing congestion and tackling carbon&lt;/h2&gt;
+
+&lt;table&gt;
+&lt;thead&gt;&lt;tr&gt;
+&lt;th&gt;Description&lt;/th&gt;
+      &lt;th&gt;Type of data&lt;/th&gt;
+      &lt;th&gt;Publication frequency&lt;/th&gt;
+    &lt;/tr&gt;&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a rel="external" href="http://www.dft.gov.uk/publications/dft-business-plan-indicators-input-03/"&gt;Cost of maintaining the Highway’s Agency’s motorway and A road network per lane mile&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;Input indicator&lt;/td&gt;
+      &lt;td&gt;Annual&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a rel="external" href="http://www.dft.gov.uk/publications/dft-business-plan-indicators-input-04/"&gt;Cost of operating the Highway’s Agency’s motorway and A road network per vehicle mile&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;Input indicator&lt;/td&gt;
+      &lt;td&gt;Annual&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a rel="external" href="http://www.dft.gov.uk/publications/dft-business-plan-indicators-impact-01/"&gt;Reliability of journeys on the Highway Agency’s motorway and A road network&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;Impact indicator&lt;/td&gt;
+      &lt;td&gt;Monthly&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a rel="external" href="http://www.dft.gov.uk/publications/dft-business-plan-indicators-impact-06/"&gt;Annual road fatalities&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;Impact indicator&lt;/td&gt;
+      &lt;td&gt;Annual&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a rel="external" href="http://www.dft.gov.uk/publications/dft-business-plan-indicators-impact-08/"&gt;Number of newly registered Ultra Low Emission Vehicles&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;Impact indicator&lt;/td&gt;
+      &lt;td&gt;Quarterly&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a rel="external" href="http://www.dft.gov.uk/statistics/tables/veh0256/"&gt;Average new car CO2 emissions&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;Other key data&lt;/td&gt;
+      &lt;td&gt;Annual&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;&lt;h2 id="promote-sustainable-aviation"&gt;Promote sustainable aviation&lt;/h2&gt;
+
+&lt;p&gt;Aviation emissions make up part of the general impact indicator ‘Total greenhouse gas emissions from transport’, and can be identified separately within that data set. A number of further metrics are published by the &lt;a rel="external" href="http://www.caa.co.uk"&gt;Civil Aviation Authority&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id="reform-the-coastguard-and-search-and-rescue-capability"&gt;Reform the Coastguard and search and rescue capability&lt;/h2&gt;
+
+&lt;p&gt;It is not practicable to measure the performance of this Structural Reform Priority until after the Coastguard has been reformed and the search and rescue capability is in place.&lt;/p&gt;
+
+&lt;h2 id="implement-the-departments-key-cross-cutting-reform-priorities"&gt;Implement the Department’s key cross-cutting reform priorities&lt;/h2&gt;
+
+&lt;table&gt;
+&lt;thead&gt;&lt;tr&gt;
+&lt;th&gt;Description&lt;/th&gt;
+      &lt;th&gt;Type of data&lt;/th&gt;
+      &lt;th&gt;Publication frequency&lt;/th&gt;
+    &lt;/tr&gt;&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;&lt;a rel="external" href="http://www.dft.gov.uk/publications/dft-business-plan-indicators-impact-07/"&gt;Households with good transport access to key services or work&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;Impact indicator&lt;/td&gt;
+      &lt;td&gt;Annual&lt;/td&gt;
+    &lt;/tr&gt;&lt;/tbody&gt;
+&lt;/table&gt;&lt;h2 id="further-information"&gt;Further information&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel="external" href="http://www.dft.gov.uk/publications/dft-business-plan/"&gt;Department for Transport Business plan&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a rel="external" href="http://www.dft.gov.uk/statistics"&gt; Department for Transport Statistics&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/13716</id>
+    <published>2012-07-25T00:00:00+01:00</published>
+    <updated>2012-07-25T00:00:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/department-for-transport-and-ndpb-structure-charts-organisational-and-salary-disclosure-data"/>
+    <title>Department for Transport and NDPB structure charts, organisational and salary disclosure data</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Organisation structure charts (organograms) include:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;structure of the department/body down to directorate level&lt;/li&gt;
+  &lt;li&gt;positions of all Senior Civil Servant (&lt;abbr title="Senior Civil Servants"&gt;SCS&lt;/abbr&gt;) Pay Band 2 and above (or equivalent)&lt;/li&gt;
+  &lt;li&gt;names of &lt;abbr title="Senior Civil Servants"&gt;SCS&lt;/abbr&gt; Pay Band 2 and above&lt;/li&gt;
+  &lt;li&gt;salaries of all Pay Band 2 and above&lt;/li&gt;
+  &lt;li&gt;job titles of &lt;abbr title="Senior Civil Servants"&gt;SCS&lt;/abbr&gt; Pay Band 1 and 1A (or equivalent)&lt;/li&gt;
+  &lt;li&gt;reporting numbers of staff within directorates (FTE) and total salary costs of SCS1 teams&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Organisational data CSV files include:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;
+&lt;abbr title="Senior Civil Servants"&gt;SCS&lt;/abbr&gt; staff posts - name, grade, job title, team function, parent department, organisation, unit, contact details, reports, salary cost of reports&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Salary disclosure data CSV files include:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;
+&lt;abbr title="Senior Civil Servants"&gt;SCS&lt;/abbr&gt; staff salaries - name, grade, job title, FTE, parent department, organisation, unit, actual pay floor, actual pay ceiling&lt;/li&gt;
+  &lt;li&gt;Junior staff FTE - parent department, organisation, unit, reporting &lt;abbr title="Senior Civil Servants"&gt;SCS&lt;/abbr&gt;, grade, number of posts FTE&lt;/li&gt;
+&lt;/ul&gt;&lt;h2 id="department-for-transport"&gt;Department for Transport&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel="external" href="http://reference.data.gov.uk/gov-structure/organogram/?dept=dft"&gt;Department for Transport organogram&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a rel="external" href="http://data.gov.uk/dataset/organogram-dft"&gt;Organogram and staff pay data for the Department for Transport&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;h2 id="executive-agencies"&gt;Executive agencies&lt;/h2&gt;
+
+&lt;h3 id="driving-standards-agency"&gt;Driving Standards Agency&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel="external" href="http://data.gov.uk/organogram/driving-standards-agency"&gt;Driving Standards Agency organogram&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a rel="external" href="http://data.gov.uk/dataset/organogram-dsa"&gt;Organogram and staff pay data for the Driving Standards Agency&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;h3 id="driver-and-vehicle-licensing-agency"&gt;Driver and Vehicle Licensing Agency&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel="external" href="http://data.gov.uk/organogram/driver-and-vehicle-licensing-agency"&gt;Driver and Vehicle Licensing Agency organogram&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a rel="external" href="http://data.gov.uk/dataset/organogram-dvla"&gt;Organogram and staff pay data for the Driver and Vehicle Licensing Agency&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;h3 id="highways-agency"&gt;Highways Agency&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel="external" href="http://data.gov.uk/organogram/highways-agency"&gt;Highways Agency organogram&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a rel="external" href="http://data.gov.uk/dataset/organogram-ha"&gt;Organogram and staff pay data for the Highways Agency&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;h3 id="maritime-and-coastguard-agency"&gt;Maritime and Coastguard Agency&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel="external" href="http://data.gov.uk/dataset/organogram-mca"&gt;Maritime and Coastguard Agency organogram&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a rel="external" href="http://data.gov.uk/dataset/organogram-mca"&gt;Organogram and staff pay data for the Maritime and Coastguard Agency&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;h3 id="vehicle-and-operator-service-agency"&gt;Vehicle and Operator Service Agency&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel="external" href="http://data.gov.uk/organogram/vehicle-and-operator-services-agency"&gt;Vehicle and Operator Service Agency organogram&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a rel="external" href="http://data.gov.uk/dataset/organogram-vosa"&gt;Organogram and staff pay data for the Vehicle and Operator Services Agency&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;h3 id="vehicle-certification-agency"&gt;Vehicle Certification Agency&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel="external" href="http://data.gov.uk/organogram/vehicle-certification-agency"&gt;Vehicle Certification Agency organogram&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a rel="external" href="http://data.gov.uk/dataset/organogram-vca"&gt;Organogram and staff pay data for the Vehicle Certification Agency&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;h2 id="other-transport-organisations"&gt;Other transport organisations&lt;/h2&gt;
+
+&lt;h3 id="british-transport-police-authority"&gt;British Transport Police Authority&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel="external" href="http://data.gov.uk/dataset/organogram-btp"&gt;Organogram and staff pay data for the British Tranport Police Authority&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;h3 id="directly-operated-railways"&gt;Directly Operated Railways&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel="external" href="http://data.gov.uk/dataset/organogram-directly-operated-railways"&gt;Organogram and staff pay data for the Directly Operated Railways&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;h3 id="high-speed-two-hs2-ltd"&gt;High Speed Two (HS2) Ltd&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel="external" href="http://data.gov.uk/organogram/hs2-ltd"&gt;High Speed Two Ltd organogram&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a rel="external" href="http://data.gov.uk/dataset/organogram-staff-pay-hs2"&gt;Organogram and staff pay data for High Speed Two Ltd&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;h3 id="northern-lighthouse-board"&gt;Northern Lighthouse Board&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel="external" href="http://data.gov.uk/organogram/northern-lighthouse-board"&gt;Northern Lighthouse Board organogram&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a rel="external" href="http://www.data.gov.uk/dataset/organogram-staff-salaries-northern-lighthouse-board"&gt;Organogram and staff pay data for the Northern Lighthouse Board&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;h3 id="passenger-focus"&gt;Passenger Focus&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel="external" href="http://data.gov.uk/organogram/passenger-focus"&gt;Passenger Focus organogram&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a rel="external" href="http://data.gov.uk/dataset/organogram-staff-pay-passenger-focus"&gt;Organogram and staff pay data for Passenger Focus&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;h3 id="railway-heritage-committee"&gt;Railway Heritage Committee&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel="external" href="http://data.gov.uk/dataset/organogram-staff-pay-railway-heritage-committee"&gt;Organogram and staff pay data for the Railway Heritage Committee&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;h3 id="trinity-house"&gt;Trinity House&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel="external" href="http://data.gov.uk/organogram/trinity-house"&gt;Trinity House Lighthouse Service organogram&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a rel="external" href="http://www.data.gov.uk/dataset/staff-organograms-and-pay-trinity-house-lighthouse-service"&gt;Organogram and staff pay data for the Trinity House Lighthouse Service&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/12415</id>
+    <published>2012-07-20T00:00:00+01:00</published>
+    <updated>2012-07-20T00:00:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/business-expenses-and-hospitality-for-senior-officials"/>
+    <title>Business expenses and hospitality for senior officials</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;In line with Cabinet Office guidance, the department publishes the business expenses of and hospitality received by its most senior officials (the Permanent Secretary, Directors General and non-executive members of the Departmental Board).&lt;/p&gt;
+
+&lt;p&gt;Data from the quarterly reports is also available as CSV files.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel="external" href="http://data.gov.uk/dataset/dft-senior-officials-business-expenses/"&gt;Department for Transport senior officials business expenses data&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a rel="external" href="http://data.gov.uk/dataset/dft-senior-officials-hospitality/"&gt;Department for Transport senior officials hospitality data&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/10063</id>
+    <published>2012-07-13T00:00:00+01:00</published>
+    <updated>2012-07-13T00:00:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/exceptions-to-the-moratorium-on-discretionary-spend"/>
+    <title>Exceptions to the moratorium on discretionary spend</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="background"&gt;Background&lt;/h2&gt;
+
+&lt;p&gt;The government has introduced a strict moratorium in five key areas of discretionary spend:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;consulting&lt;/li&gt;
+  &lt;li&gt;Information and communications technology (ICT)&lt;/li&gt;
+  &lt;li&gt;recruitment&lt;/li&gt;
+  &lt;li&gt;marketing&lt;/li&gt;
+  &lt;li&gt;property&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Exceptions to the moratoria in key areas are listed in documents.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/9999</id>
+    <published>2012-07-13T00:00:00+01:00</published>
+    <updated>2012-07-13T00:00:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/business-plan-quarterly-data-summary-qds"/>
+    <title>Business plan quarterly data summary (QDS)</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="summary"&gt;Summary&lt;/h2&gt;
+
+&lt;p&gt;The &lt;abbr title="Quarterly Data Summary"&gt;QDS&lt;/abbr&gt; is designed to fit on a single page to provide a quarterly snapshot on how each department is spending its budget, the results it has achieved and how it is deploying its workforce.&lt;/p&gt;
+
+&lt;p&gt;The &lt;abbr title="Quarterly Data Summary"&gt;QDS&lt;/abbr&gt; follows commitments made at Budget 2011 and the written ministerial statement on business plans. Its primary purpose is to make more of the management information currently held by government available to members of the public on a regular basis.&lt;/p&gt;
+
+&lt;p&gt;We intend that an annual version of this information be formally laid in Parliament in the ‘Annual report and accounts’ for July 2011-2012 onwards.&lt;/p&gt;
+
+&lt;p&gt;The information is presented in excel format to allow the information to be presented in a re-usable format.&lt;/p&gt;
+
+&lt;p&gt;The &lt;abbr title="Quarterly Data Summary"&gt;QDS&lt;/abbr&gt; template is the same for all departments, though many of the individual indicators are unique to the department (especially input and impact indicators).&lt;/p&gt;
+
+&lt;p&gt;People should be cautious using this data to make comparisons between departments for several reasons. Firstly, the business of each department is unique and it does not make sense to compare some measures across all departments. Secondly, many of the measures are not directly comparable because they do not have common definitions, time periods, or data collection processes. Therefore, before using this data people should ensure they take full note of the caveats included in each department’s measurement annex.&lt;/p&gt;
+
+&lt;p&gt;Over time we will be making improvements to the data quality and timeliness so that the public will be able to judge the performance of each department in an increasingly meaningful and understandable manner.&lt;/p&gt;
+
+&lt;p&gt;We will be updating the &lt;abbr title="Quarterly Data Summary"&gt;QDS&lt;/abbr&gt; each quarter with the next publication following in October 2012.&lt;/p&gt;
+
+&lt;h2 id="background-information"&gt;Background information&lt;/h2&gt;
+
+&lt;p&gt;The Business Plan Quarterly Data Summary (&lt;abbr title="Quarterly Data Summary"&gt;QDS&lt;/abbr&gt;) has been developed to report departmental performance and allow comparison between departments. The &lt;abbr title="Quarterly Data Summary"&gt;QDS&lt;/abbr&gt; is divided into three sections: spending, results and people. Spending includes information on expenditure on major projects, and common areas of spend, such as estate and IT costs. Results focuses on data relevant to the &lt;abbr title="Department for Transport"&gt;DfT&lt;/abbr&gt; business plan, including input and impact indicators and structural reform plan commitments, and the people section provides data on the &lt;abbr title="Department for Transport"&gt;DfT&lt;/abbr&gt; workforce, including data on staff within &lt;abbr title="Department for Transport"&gt;DfT&lt;/abbr&gt;’s executive agencies.&lt;/p&gt;
+
+&lt;h2 id="july-2012"&gt;July 2012&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel="external" href="http://data.dft.gov.uk/business-plan-qds/dft-qds-201207.xls"&gt;&lt;abbr title="Department for Transport"&gt;DfT&lt;/abbr&gt; quarterly data summary, July 2012 (XLS, 56 KB)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a rel="external" href="http://data.dft.gov.uk/business-plan-qds/dft-qds-201207-measurement-annex.xls"&gt;&lt;abbr title="Department for Transport"&gt;DfT&lt;/abbr&gt; quarterly data summary measurement annex, July 2012 (XLS, 102 KB)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;h2 id="april-2012"&gt;April 2012&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel="external" href="http://data.dft.gov.uk/business-plan-qds/dft-qds-201204.xls"&gt;&lt;abbr title="Department for Transport"&gt;DfT&lt;/abbr&gt; quarterly data summary, April 2012 (XLS, 49 KB)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a rel="external" href="http://webarchive.nationalarchives.gov.uk/20120807082352/http://assets.dft.gov.uk/publications/business-plan-qds/dft-qds-201204.pdf"&gt;&lt;abbr title="Department for Transport"&gt;DfT&lt;/abbr&gt; quarterly data summary, April 2012 (PDF, 80 KB)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a rel="external" href="http://data.dft.gov.uk/business-plan-qds/dft-qds-201204-measurement-annex.xls"&gt;&lt;abbr title="Department for Transport"&gt;DfT&lt;/abbr&gt; quarterly data summary measurement annex, April 2012 (XLS -94 KB)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a rel="external" href="http://webarchive.nationalarchives.gov.uk/20120807082352/http://assets.dft.gov.uk/publications/business-plan-qds/dft-qds-201204-measurement-annex.pdf"&gt;&lt;abbr title="Department for Transport"&gt;DfT&lt;/abbr&gt; quarterly data summary measurement annex, April 2012 (PDF, 391 KB)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;h2 id="january-2012"&gt;January 2012&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel="external" href="http://data.dft.gov.uk/business-plan-qds/dft-qds-201201.xls"&gt;&lt;abbr title="Department for Transport"&gt;DfT&lt;/abbr&gt; quarterly data summary, January 2012 (XLS, 114 KB)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a rel="external" href="http://webarchive.nationalarchives.gov.uk/20120807082352/http://assets.dft.gov.uk/publications/business-plan-qds/dft-qds-201201.pdf"&gt;&lt;abbr title="Department for Transport"&gt;DfT&lt;/abbr&gt; quarterly data summary, January 2012 (PDF, 95 KB)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a rel="external" href="http://data.dft.gov.uk/business-plan-qds/dft-qds-201201-measurement-annex.xls"&gt;&lt;abbr title="Department for Transport"&gt;DfT&lt;/abbr&gt; quarterly data summary measurement annex, January 2012 (XLS, 450 KB)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a rel="external" href="http://webarchive.nationalarchives.gov.uk/20120807082352/http://assets.dft.gov.uk/publications/business-plan-qds/dft-qds-201201-measurement-annex.pdf"&gt;&lt;abbr title="Department for Transport"&gt;DfT&lt;/abbr&gt; quarterly data summary measurement annex, January 2012 (PDF, 394 KB)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;h2 id="october-2011"&gt;October 2011&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel="external" href="http://data.dft.gov.uk/business-plan-qds/dft-qds-201110.xls"&gt;&lt;abbr title="Department for Transport"&gt;DfT&lt;/abbr&gt; quarterly data summary, October 2011 (XLS, 171 KB)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a rel="external" href="http://webarchive.nationalarchives.gov.uk/20120807082352/http://assets.dft.gov.uk/publications/business-plan-qds/dft-qds-201110.pdf"&gt;&lt;abbr title="Department for Transport"&gt;DfT&lt;/abbr&gt; quarterly data summary, October 2011 (PDF, 116 KB)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a rel="external" href="http://data.dft.gov.uk/business-plan-qds/dft-qds-201110-measurement-annex.xls"&gt;&lt;abbr title="Department for Transport"&gt;DfT&lt;/abbr&gt; quarterly data summary measurement annex, October 2011 (XLS, 63 KB)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a rel="external" href="http://webarchive.nationalarchives.gov.uk/20120807082352/http://assets.dft.gov.uk/publications/business-plan-qds/dft-qds-201110-measurement-annex.pdf"&gt;&lt;abbr title="Department for Transport"&gt;DfT&lt;/abbr&gt; quarterly data summary measurement annex, October 2011 (PDF, 394 KB)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;h2 id="july-2011"&gt;July 2011&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel="external" href="http://data.dft.gov.uk/business-plan-qds/dft-qds-201107.xls"&gt;&lt;abbr title="Department for Transport"&gt;DfT&lt;/abbr&gt; quarterly data summary, July 2011 (XLS, 56 KB)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a rel="external" href="http://webarchive.nationalarchives.gov.uk/20120807082352/http://assets.dft.gov.uk/publications/business-plan-qds/dft-qds-201107.pdf"&gt;&lt;abbr title="Department for Transport"&gt;DfT&lt;/abbr&gt; quarterly data summary, July 2011 (PDF, 86 KB)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a rel="external" href="http://data.dft.gov.uk/business-plan-qds/dft-qds-201107-measurement-annex.xls"&gt;&lt;abbr title="Department for Transport"&gt;DfT&lt;/abbr&gt; quarterly data summary measurement annex, July 2011 (XLS, 62 KB)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a rel="external" href="http://webarchive.nationalarchives.gov.uk/20120807082352/http://assets.dft.gov.uk/publications/business-plan-qds/dft-qds-201107-measurement-annex.pdf"&gt;&lt;abbr title="Department for Transport"&gt;DfT&lt;/abbr&gt; quarterly data summary measurement annex, July 2011 (PDF, 83 KB)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/13638</id>
+    <published>2012-07-13T00:00:00+01:00</published>
+    <updated>2012-07-13T00:00:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/percentage-of-dft-s-appraised-project-spending-that-is-assessed-as-good-or-very-good-value-for-money"/>
+    <title>Percentage of DfT’s appraised project spending that is assessed as good or very good value for money</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="input-indicator"&gt;Input indicator&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;publishing schedule: biannually (From July 2012, an annual measure will also be published)&lt;/li&gt;
+  &lt;li&gt;information broken down by scheme&lt;/li&gt;
+&lt;/ul&gt;&lt;h2 id="background-information"&gt;Background information&lt;/h2&gt;
+&lt;p&gt;The indicator reports the value for money (&lt;abbr title="Value for Money"&gt;VfM&lt;/abbr&gt;) ratings presented to ministers when spending decisions are made, using the department’s &lt;abbr title="Value for Money"&gt;VfM&lt;/abbr&gt; process. It also uses the estimate of cost to the department of those decisions.&lt;/p&gt;
+
+&lt;p&gt;The department’s &lt;abbr title="Value for Money"&gt;VfM&lt;/abbr&gt; process was introduced in 2004 to consistently present to ministers a summary of the benefits and costs of transport proposals. The &lt;abbr title="Value for Money"&gt;VfM&lt;/abbr&gt; assessment measures the expected benefits to each pound of spending covered by the appraisal process. The &lt;abbr title="Value for Money"&gt;VfM&lt;/abbr&gt; process covers all major schemes that are subject to ministerial approval.&lt;/p&gt;
+
+&lt;p&gt;The indicator covers approved spending of schemes that ministers have given final approval to within the period indicated.&lt;/p&gt;
+
+&lt;p&gt;Data relating to this indicator will be published from May 2011.&lt;/p&gt;
+
+&lt;h2 id="further-information"&gt;Further information&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel="external" href="http://www.dft.gov.uk/about/howthedftworks/vfm/"&gt;Guidance on the value for money process&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a rel="external" href="http://www.dft.gov.uk/publications/dft-business-plan"&gt;Business Plan 2011 to 2015&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a rel="external" href="http://www.dft.gov.uk/publications/?agency=dft&amp;amp;tag=business-input-and-impact-indicator"&gt;Input and impact indicators&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/15697</id>
+    <published>2012-06-18T00:00:00+01:00</published>
+    <updated>2012-06-18T00:00:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/total-greenhouse-gas-emissions-from-transport"/>
+    <title>Total greenhouse gas emissions from transport</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="dft-business-plan-input-indicator"&gt;DfT Business plan input indicator&lt;/h2&gt;
+
+&lt;h3 id="geographical-coverage-united-kingdom"&gt;Geographical coverage: United Kingdom&lt;/h3&gt;
+
+&lt;h3 id="information-broken-down-by-domestic-transport-international-transport"&gt;Information broken down by: Domestic transport, international transport&lt;/h3&gt;
+
+&lt;h2 id="latest-data"&gt;Latest data&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;In 2010, total greenhouse gas emissions for transport (inc. international) were 162.5 million tonnes of CO&lt;sub&gt;2&lt;/sub&gt; equivalent (MtCO&lt;sub&gt;2&lt;/sub&gt;e) with domestic transport greenhouse gas emissions being 121.9 MtCO&lt;sub&gt;2&lt;/sub&gt;e.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Million tonnes of CO&lt;sub&gt;2&lt;/sub&gt; equivalent/Percentage&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;&lt;tr&gt;
+&lt;th&gt; &lt;/th&gt;
+      &lt;th&gt;1990&lt;/th&gt;
+      &lt;th&gt;2010&lt;/th&gt;
+      &lt;th&gt;% change 1990 to 2010&lt;/th&gt;
+    &lt;/tr&gt;&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Domestic transport&lt;/td&gt;
+      &lt;td&gt;121.5&lt;/td&gt;
+      &lt;td&gt;121.9&lt;/td&gt;
+      &lt;td&gt;0.3&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;International transport&lt;/td&gt;
+      &lt;td&gt;24.6&lt;/td&gt;
+      &lt;td&gt;40.6&lt;/td&gt;
+      &lt;td&gt;65.2&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Total transport&lt;/td&gt;
+      &lt;td&gt;146.1&lt;/td&gt;
+      &lt;td&gt;162.5&lt;/td&gt;
+      &lt;td&gt;11.2&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;&lt;h3 id="including-international-aviation-and-international-shipping"&gt;Including international aviation and international shipping&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;162.5 MtCO&lt;sub&gt;2&lt;/sub&gt;e in 2010&lt;/li&gt;
+  &lt;li&gt;Total greenhouse gas (&lt;abbr title="Domestic Greenhouse Gas"&gt;GHG&lt;/abbr&gt;) emissions from transport increased by 11% between 1990 (146.1 MtCO&lt;sub&gt;2&lt;/sub&gt;e) and 2010 (162.5 MtCO&lt;sub&gt;2&lt;/sub&gt;e)&lt;/li&gt;
+&lt;/ul&gt;&lt;h3 id="excluding-international-aviation-and-international-shipping"&gt;Excluding international aviation and international shipping&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;121.9 MtCO&lt;sub&gt;2&lt;/sub&gt;e in 2010&lt;/li&gt;
+  &lt;li&gt;Total domestic greenhouse gas (&lt;abbr title="Domestic Greenhouse Gas"&gt;GHG&lt;/abbr&gt;) emissions from transport were around the same level in 2010 (121.9 MtCO&lt;sub&gt;2&lt;/sub&gt;e) as in 1990 (121.5 MtCO&lt;sub&gt;2&lt;/sub&gt;e), making up 21% of total UK domestic greenhouse gas emissions in 2010.&lt;/li&gt;
+&lt;/ul&gt;&lt;h2 id="background-information"&gt;Background information&lt;/h2&gt;
+
+&lt;p&gt;The figures published for this indicator are the emissions from the basket of greenhouse gases covered by the Kyoto Protocol. In accordance with international reporting protocols, each of the gases is weighted by its global warming potential relative to that of carbon dioxide and presented in terms of the equivalent amount of carbon dioxide.&lt;/p&gt;
+
+&lt;p&gt;The data are compiled by &lt;abbr title="Department of Energy and Climate Change"&gt;DECC&lt;/abbr&gt; and its contractors on a calendar year basis due to the reporting timetable of the United Nations Framework Convention on Climate Change (&lt;abbr title="United Nations Framework Convention on Climate Change"&gt;UNFCCC&lt;/abbr&gt;) and the EU. The methodology behind the compilation from all sources, also agreed with the &lt;abbr title="United Nations Framework Convention on Climate Change"&gt;UNFCCC&lt;/abbr&gt;, takes some time to work through and final results for the calendar year 2010 were published in February 2012. Results for 2011 will be published in early 2013.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;publishing schedule: annually&lt;/li&gt;
+  &lt;li&gt;last updated: compiled from figures published by Department of Energy and Climate Change on 7 February 2012&lt;/li&gt;
+  &lt;li&gt;next update: compiled by figures published the by Department of Energy and Climate Change on 5 February 2013&lt;/li&gt;
+&lt;/ul&gt;&lt;h2 id="other-related-data-and-information"&gt;Other related data and information&lt;/h2&gt;
+
+&lt;p&gt;Further information on transport environment and energy statistics are available from the DfT website at:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.gov.uk/government/organisations/department-for-transport/series/energy-and-environment-statistics"&gt;Energy and environment statistics&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Further greenhouse gas emission statistics are available from the &lt;abbr title="Department of Energy and Climate Change"&gt;DECC&lt;/abbr&gt; website at:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel="external" href="http://www.decc.gov.uk/en/content/cms/statistics/climate_stats/gg_emissions/gg_emissions.aspx"&gt;&lt;abbr title="Department of Energy and Climate Change"&gt;DECC&lt;/abbr&gt; greenhouse gas emissions statistics&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;h2 id="further-information"&gt;Further information&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.gov.uk/government/publications/department-for-transport-business-plan"&gt;Business Plan 2012-2015&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://www.gov.uk/government/publications/input-and-impact-indicators"&gt;Input and impact indicators&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Analyst contact: &lt;a href="mailto:dorothya.anderson@dft.gsi.gov.uk"&gt;Dorothy A Anderson&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/14489</id>
+    <published>2012-06-15T00:00:00+01:00</published>
+    <updated>2012-06-15T00:00:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/proportion-of-trains-running-on-time"/>
+    <title>Proportion of trains running on time</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="dft-business-plan-input-indicator"&gt;DfT Business Plan input indicator&lt;/h2&gt;
+
+&lt;h3 id="geographical-coverage-dft-franchised-train-operators-great-britain"&gt;Geographical coverage: DfT franchised train operators (Great Britain)&lt;/h3&gt;
+
+&lt;h3 id="information-broken-down-by-train-operator"&gt;Information broken down by: Train operator&lt;/h3&gt;
+
+&lt;h2 id="latest-data"&gt;Latest data&lt;/h2&gt;
+
+&lt;p&gt;92.3% of trains arrived on time between 16 September 2012 and 13 October 2012 in Great Britain, an increase from 91.5% for the same period last year (GB total). The GB average headline figure incorporates Public Performance Measure (&lt;abbr title="Public Performance Measure"&gt;PPM&lt;/abbr&gt;) averages for operators franchised by devolved administrations (Arriva Trains Wales, First Scotrail, London Overground and Merseyrail), and non-franchised operators (Grand Central, Heathrow Express and Hull Trains), however, the following table covers only DfT franchised operators.&lt;/p&gt;
+
+&lt;h3 id="public-performance-measure-ppm-for-dft-franchised-train-operating-companiessup1sup"&gt;Public Performance Measure (&lt;abbr title="Public Performance Measure"&gt;PPM&lt;/abbr&gt;) for DfT franchised Train Operating Companies&lt;sup&gt;1&lt;/sup&gt;
+&lt;/h3&gt;
+
+&lt;p&gt;Percentage of trains running on time 2011-12 P7 and 2012-13 P7&lt;sup&gt;2&lt;/sup&gt;&lt;/p&gt;
+
+&lt;table&gt;&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;Latest rail period&lt;/td&gt;
+      &lt;td&gt;Latest rail period&lt;/td&gt;
+      &lt;td&gt;Moving Annual Average (&lt;abbr title="Moving Annual Average"&gt;MAA&lt;/abbr&gt;)&lt;/td&gt;
+      &lt;td&gt;Moving Annual Average (&lt;abbr title="Moving Annual Average"&gt;MAA&lt;/abbr&gt;)&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Train Operating Company&lt;/td&gt;
+      &lt;td&gt;2011-12 P7&lt;/td&gt;
+      &lt;td&gt;2012-13 P7&lt;/td&gt;
+      &lt;td&gt;2011-12 P7&lt;/td&gt;
+      &lt;td&gt;2012-13 P7&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;c2c&lt;/td&gt;
+      &lt;td&gt;96.5%&lt;/td&gt;
+      &lt;td&gt;98.3%&lt;/td&gt;
+      &lt;td&gt;94.9%&lt;/td&gt;
+      &lt;td&gt;97.4%&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Chiltern Railways&lt;/td&gt;
+      &lt;td&gt;91.4%&lt;/td&gt;
+      &lt;td&gt;96.1%&lt;/td&gt;
+      &lt;td&gt;92.6%&lt;/td&gt;
+      &lt;td&gt;94.0%&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;CrossCountry&lt;/td&gt;
+      &lt;td&gt;87.5%&lt;/td&gt;
+      &lt;td&gt;88.8%&lt;/td&gt;
+      &lt;td&gt;87.5%&lt;/td&gt;
+      &lt;td&gt;88.9%&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;East Coast&lt;/td&gt;
+      &lt;td&gt;84.1%&lt;/td&gt;
+      &lt;td&gt;88.9%&lt;/td&gt;
+      &lt;td&gt;83.1%&lt;/td&gt;
+      &lt;td&gt;87.8%&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;East Midlands Trains&lt;/td&gt;
+      &lt;td&gt;92.7%&lt;/td&gt;
+      &lt;td&gt;94.2%&lt;/td&gt;
+      &lt;td&gt;91.8%&lt;/td&gt;
+      &lt;td&gt;93.5%&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;First Capital Connect&lt;/td&gt;
+      &lt;td&gt;89.1%&lt;/td&gt;
+      &lt;td&gt;92.2%&lt;/td&gt;
+      &lt;td&gt;89.1%&lt;/td&gt;
+      &lt;td&gt;90.0%&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;First Great Western&lt;/td&gt;
+      &lt;td&gt;89.1%&lt;/td&gt;
+      &lt;td&gt;91.4%&lt;/td&gt;
+      &lt;td&gt;89.8%&lt;/td&gt;
+      &lt;td&gt;90.5%&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;First TransPennine Express&lt;/td&gt;
+      &lt;td&gt;91.7%&lt;/td&gt;
+      &lt;td&gt;90.9%&lt;/td&gt;
+      &lt;td&gt;91.1%&lt;/td&gt;
+      &lt;td&gt;93.3%&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Greater Anglia&lt;sup&gt;3&lt;/sup&gt;
+&lt;/td&gt;
+      &lt;td&gt;92.5%&lt;/td&gt;
+      &lt;td&gt;95.0%&lt;/td&gt;
+      &lt;td&gt;90.1%&lt;/td&gt;
+      &lt;td&gt;91.7%&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;London Midland&lt;/td&gt;
+      &lt;td&gt;88.6%&lt;/td&gt;
+      &lt;td&gt;86.1%&lt;/td&gt;
+      &lt;td&gt;89.3%&lt;/td&gt;
+      &lt;td&gt;89.3%&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Northern Rail&lt;/td&gt;
+      &lt;td&gt;89.6%&lt;/td&gt;
+      &lt;td&gt;90.6%&lt;/td&gt;
+      &lt;td&gt;90.3%&lt;/td&gt;
+      &lt;td&gt;91.8%&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Southeastern&lt;/td&gt;
+      &lt;td&gt;93.7%&lt;/td&gt;
+      &lt;td&gt;94.2%&lt;/td&gt;
+      &lt;td&gt;89.6%&lt;/td&gt;
+      &lt;td&gt;92.0%&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Southern&lt;/td&gt;
+      &lt;td&gt;89.7%&lt;/td&gt;
+      &lt;td&gt;88.6%&lt;/td&gt;
+      &lt;td&gt;88.9%&lt;/td&gt;
+      &lt;td&gt;89.7%&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;South West Trains&lt;/td&gt;
+      &lt;td&gt;93.9%&lt;/td&gt;
+      &lt;td&gt;92.3%&lt;/td&gt;
+      &lt;td&gt;92.6%&lt;/td&gt;
+      &lt;td&gt;91.9%&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Virgin Trains&lt;/td&gt;
+      &lt;td&gt;84.5%&lt;/td&gt;
+      &lt;td&gt;86.0%&lt;/td&gt;
+      &lt;td&gt;84.4%&lt;/td&gt;
+      &lt;td&gt;86.1%&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;&lt;sup&gt;1&lt;/sup&gt;These are provisional statistics and are subject to revision.&lt;/p&gt;
+
+&lt;p&gt;&lt;sup&gt;2&lt;/sup&gt;Period 7 2011/12 ran from 18 September 2011 to 15 October 2011.&lt;br&gt;
+Period 7 2012/13 ran from 16 September 2012 to 13 October 2012. &lt;/p&gt;
+
+&lt;p&gt;&lt;sup&gt;3&lt;/sup&gt;Formerly National Express East Anglia. Greater Anglia took over the franchise on 5 February 2012.&lt;/p&gt;
+
+&lt;p&gt;Source: Office of Rail Regulation (&lt;abbr title="Office of Rail Regulation"&gt;ORR&lt;/abbr&gt;)&lt;/p&gt;
+
+&lt;p&gt;[Google chart: Public Performance Measure (&lt;abbr title="Public Performance Measure"&gt;PPM&lt;/abbr&gt;): moving annual average to end of rail period 7: DfT franchised Train Operating Companies]&lt;/p&gt;
+
+&lt;p&gt;Between 16 September 2012 and 13 October 2012, 98.3% of c2c services arrived on time, the highest figure for any DfT franchised train operator. Virgin Trains had the lowest figure with 86.0% of trains on time.&lt;/p&gt;
+
+&lt;p&gt;Following restrictions brought in after the Hatfield crash in October 2000, &lt;abbr title="Public Performance Measure"&gt;PPM&lt;/abbr&gt; fell sharply across the country, and took nearly a decade to recover to previous levels. Since 2008/09 national &lt;abbr title="Public Performance Measure"&gt;PPM&lt;/abbr&gt; has generally been above 90%.&lt;/p&gt;
+
+&lt;p&gt;The &lt;abbr title="Public Performance Measure"&gt;PPM&lt;/abbr&gt; CSV file contains a longer time series of &lt;abbr title="Public Performance Measure"&gt;PPM&lt;/abbr&gt; figures for each of the DfT franchised train operators.&lt;/p&gt;
+
+&lt;h2 id="background-information"&gt;Background information&lt;/h2&gt;
+
+&lt;p&gt;The Public Performance Measure (&lt;abbr title="Public Performance Measure"&gt;PPM&lt;/abbr&gt;) combines figures for punctuality and reliability into a single performance record. It covers all scheduled franchised passenger services, seven days a week and measures the arrival punctuality of individual trains against their planned timetable. These plans, technically called ‘plan of the day’, are usually the same as the published timetable with amendments reflecting pre-published engineering amendments; however, they may differ from their originally published timetable. The reliability figure records the percentage of services that are cancelled.&lt;/p&gt;
+
+&lt;p&gt;&lt;abbr title="Public Performance Measure"&gt;PPM&lt;/abbr&gt; represents the percentage of trains which are ‘on time’ compared to the total number of trains planned. A train is defined as on time if it arrives at its destination within five minutes of the scheduled destination arrival time for London and South East and regional operators; or within ten minutes for long-distance operators.&lt;/p&gt;
+
+&lt;p&gt;&lt;abbr title="Public Performance Measure"&gt;PPM&lt;/abbr&gt; can fluctuate widely period-by-period for many reasons, many of which are not within the control of the train operators. For example poor &lt;abbr title="Public Performance Measure"&gt;PPM&lt;/abbr&gt; performance can also be caused by other train operators or Network Rail. More information is available from the Office of Rail Regulation (&lt;abbr title="Office of Rail Regulation"&gt;ORR&lt;/abbr&gt;) and on Network Rail’s and individual operators’ websites. &lt;abbr title="Public Performance Measure"&gt;PPM&lt;/abbr&gt; data can be expressed as either for the time period, or as a Moving Annual Average (&lt;abbr title="Moving Annual Average"&gt;MAA&lt;/abbr&gt;) which is an average for the most recent 13 four-week reporting periods. &lt;abbr title="Moving Annual Average"&gt;MAA&lt;/abbr&gt; figures smooth out short-term fluctuations and highlight the annual background.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;publishing schedule: 4 weekly&lt;/li&gt;
+  &lt;li&gt;last updated: 30 October 2012&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Further information about this indicator can be found in the measurement template.&lt;/p&gt;
+
+&lt;h2 id="other-related-data-and-information"&gt;Other related data and information&lt;/h2&gt;
+
+&lt;p&gt;&lt;abbr title="Public Performance Measure"&gt;PPM&lt;/abbr&gt; data are published on the Office of Rail Regulation &lt;a rel="external" href="http://dataportal.orr.gov.uk/"&gt;Data Portal.&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id="further-information"&gt;Further information&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.gov.uk/government/publications/department-for-transport-business-plan"&gt;Business Plan 2012-2015&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://www.gov.uk/government/publications/input-and-impact-indicators"&gt;Input and impact indicators&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Analyst contact: &lt;a href="mailto:rail.stats@dft.gsi.gov.uk"&gt;rail.stats@dft.gsi.gov.uk&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/12332</id>
+    <published>2012-05-30T00:00:00+01:00</published>
+    <updated>2012-05-30T00:00:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/permanent-secretary-meetings-with-external-organisations"/>
+    <title>Permanent Secretary meetings with external organisations</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Information about meetings between the Permanent Secretary and external organisations.&lt;/p&gt;
+
+&lt;p&gt;Data from the quarterly reports is also available as CSV files.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel="external" href="http://data.gov.uk/dataset/dft-permanent-secretary-meetings-with-external-organisations/"&gt;Department for Transport Permanent Secretary meetings with external organisations data&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/14763</id>
+    <published>2012-05-23T00:00:00+01:00</published>
+    <updated>2012-05-23T00:00:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/proportion-of-bus-services-running-on-time"/>
+    <title>Proportion of bus services running on time</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="dft-business-plan-input-indicator"&gt;DfT Business plan input indicator&lt;/h2&gt;
+
+&lt;h3 id="geographical-coverage-england"&gt;Geographical coverage: England&lt;/h3&gt;
+
+&lt;h3 id="information-broken-down-by-local-authority"&gt;Information broken down by: Local authority&lt;/h3&gt;
+
+&lt;h2 id="latest-data"&gt;Latest data&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;In 2011/12, an estimated 82.7% of non-frequent bus services in England ran on time&lt;/li&gt;
+&lt;/ul&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Most recent data&lt;/th&gt;
+      &lt;th&gt; &lt;/th&gt;
+    &lt;/tr&gt;
+&lt;tr&gt;
+&lt;th&gt;Year&lt;/th&gt;
+      &lt;th&gt;% on time&lt;/th&gt;
+    &lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;2010/11&lt;/td&gt;
+      &lt;td&gt;81.4&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2011/12&lt;/td&gt;
+      &lt;td&gt;82.7&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Percentage point change&lt;/td&gt;
+      &lt;td&gt;1.3&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;in 2011/12, an estimated 82.7% of non-frequent bus services in England ran on time (defined as between 1 minute early and 5 minutes 59 seconds late), an increase from 79.4% in 2007/08 - however, trends over time should be interpreted with caution as they can be affected by changes in methods used or reflect random variability arising from the nature of the data collection&lt;/li&gt;
+  &lt;li&gt;frequent services do not operate in all areas; the proportion of non-frequent buses on time varies by local authority - in 2011/12, the proportion ranged from 64% (Darlington) to 95% (Gloucestershire)&lt;/li&gt;
+&lt;/ul&gt;&lt;h2 id="background-information"&gt;Background information&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;improved performance will see the on-time figures for ‘non-frequent’ bus services increase, and the excess waiting time for ‘frequent’ services decrease.&lt;/li&gt;
+  &lt;li&gt;the data are supplied by local authorities and published by the Department for Transport - local authorities are given guidance to ensure consistency across the country; however as with all data collections there are likely to be some inconsistencies&lt;/li&gt;
+  &lt;li&gt;national figures are calculated by weighting the local authority data we receive; this weighting is based on the number of services in a particular local authority from the National Public Transport Data Repository (&lt;abbr title="National Public Transport Data Repository"&gt;NPTDR&lt;/abbr&gt;) - further information is available in the measurement template&lt;/li&gt;
+  &lt;li&gt;publishing schedule: annually&lt;/li&gt;
+  &lt;li&gt;last updated: 10 October 2012&lt;/li&gt;
+  &lt;li&gt;next update: September 2013&lt;/li&gt;
+&lt;/ul&gt;&lt;h2 id="other-related-data-and-information"&gt;Other related data and information&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel="external" href="http://www.clip.local.gov.uk/lgv/core/page.do?pageId=36703"&gt;The full guidance on how to compile the indicators&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://www.gov.uk/government/organisations/department-for-transport/series/bus-statistics"&gt;Related bus statistics&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://www.gov.uk/government/publications/public-attitudes-towards-buses-march-2011"&gt;Research on attitudes to bus travel&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;h2 id="further-information"&gt;Further information&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.gov.uk/government/publications/department-for-transport-business-plan"&gt;Business Plan 2012-2015&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://www.gov.uk/government/publications/input-and-impact-indicators"&gt;Input and impact indicators&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Analyst contact: Matthew Tranter, &lt;a href="mailto:bus.statistics@dft.gsi.gov.uk"&gt;Bus statistics&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/15903</id>
+    <published>2012-01-26T00:00:00+00:00</published>
+    <updated>2012-01-26T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/department-for-transport-staff-survey-2011"/>
+    <title>Department for Transport staff survey 2011</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="summary"&gt;Summary&lt;/h2&gt;
+
+&lt;p&gt;Results of the 2011 Department for Transport staff survey including and excluding figures with executive agencies.&lt;/p&gt;
+
+&lt;h2 id="past-surveys"&gt;Past surveys&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel="external" href="http://www.dft.gov.uk/publications/staff-survey-2010"&gt;Staff survey 2010&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/15681</id>
+    <published>2011-10-31T00:00:00+00:00</published>
+    <updated>2011-10-31T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/cost-of-running-the-rail-network"/>
+    <title>Cost of running the rail network</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="dft-business-plan-input-indicator"&gt;DfT Business Plan input indicator&lt;/h2&gt;
+
+&lt;h3 id="geographical-coverage-dft-franchised-train-operators-great-britain"&gt;Geographical coverage: DfT franchised train operators (Great Britain)&lt;/h3&gt;
+
+&lt;h3 id="information-broken-down-by-dft-franchised-train-operator"&gt;Information broken down by: DfT franchised train operator&lt;/h3&gt;
+
+&lt;h2 id="latest-data"&gt;Latest data&lt;/h2&gt;
+
+&lt;p&gt;The costs of running the passenger rail network by DfT franchised train operating companies are shown below.&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Cost by franchise&lt;/th&gt;
+      &lt;th&gt; &lt;/th&gt;
+      &lt;th&gt; &lt;/th&gt;
+    &lt;/tr&gt;
+&lt;tr&gt;
+&lt;th&gt;Operator&lt;/th&gt;
+      &lt;th&gt;Operating cost (£ million)&lt;/th&gt;
+      &lt;th&gt;Allocated network grant (£ million)&lt;/th&gt;
+    &lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;c2c&lt;/td&gt;
+      &lt;td&gt;100.4 &lt;sup&gt;1&lt;/sup&gt;
+&lt;/td&gt;
+      &lt;td&gt;42.2&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Chiltern Railways&lt;/td&gt;
+      &lt;td&gt;118.6 &lt;sup&gt;1&lt;/sup&gt;
+&lt;/td&gt;
+      &lt;td&gt;75.0&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;CrossCountry&lt;/td&gt;
+      &lt;td&gt;409.4 &lt;sup&gt;1&lt;/sup&gt;
+&lt;/td&gt;
+      &lt;td&gt;291.2&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;East Coast&lt;/td&gt;
+      &lt;td&gt;463.8 &lt;sup&gt;2&lt;/sup&gt;
+&lt;/td&gt;
+      &lt;td&gt;191.3&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;East Midlands Trains&lt;/td&gt;
+      &lt;td&gt;307.4&lt;sup&gt;3 &lt;/sup&gt;
+&lt;/td&gt;
+      &lt;td&gt;183.9&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;First Capital Connect&lt;/td&gt;
+      &lt;td&gt;338.5&lt;sup&gt;2 &lt;/sup&gt;
+&lt;/td&gt;
+      &lt;td&gt;117.9&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;First Great Western&lt;/td&gt;
+      &lt;td&gt;637.9&lt;sup&gt;2 &lt;/sup&gt;
+&lt;/td&gt;
+      &lt;td&gt;317.0&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;First Transpennine Express&lt;/td&gt;
+      &lt;td&gt;203.7 &lt;sup&gt;4&lt;/sup&gt;
+&lt;/td&gt;
+      &lt;td&gt;116.8&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;London Midland&lt;/td&gt;
+      &lt;td&gt;329.9 &lt;sup&gt;5&lt;/sup&gt;
+&lt;/td&gt;
+      &lt;td&gt;137.2&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;National Express East Anglia&lt;/td&gt;
+      &lt;td&gt;414.5 &lt;sup&gt;1&lt;/sup&gt;
+&lt;/td&gt;
+      &lt;td&gt;211.4&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Northern Rail&lt;/td&gt;
+      &lt;td&gt;534.0 &lt;sup&gt;6&lt;/sup&gt;
+&lt;/td&gt;
+      &lt;td&gt;359.7&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Southeastern&lt;/td&gt;
+      &lt;td&gt;624.0 &lt;sup&gt;5&lt;/sup&gt;
+&lt;/td&gt;
+      &lt;td&gt;244.6&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Southern&lt;/td&gt;
+      &lt;td&gt;421.7 &lt;sup&gt;7&lt;/sup&gt;
+&lt;/td&gt;
+      &lt;td&gt;191.1&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;South West Trains&lt;/td&gt;
+      &lt;td&gt;513.4 &lt;sup&gt;3&lt;/sup&gt;
+&lt;/td&gt;
+      &lt;td&gt;259.6&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Virgin Trains&lt;/td&gt;
+      &lt;td&gt;634.2 &lt;sup&gt;8&lt;/sup&gt;
+&lt;/td&gt;
+      &lt;td&gt;297.2&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;&lt;p&gt;Source: Train operating companies, DfT&lt;/p&gt;
+
+&lt;p&gt;The operating costs relate to the year ended (unless stated otherwise the accounts relate to a full year or 52 weeks):  &lt;/p&gt;
+
+&lt;p&gt;&lt;sup&gt;1&lt;/sup&gt; 31 December 2010&lt;br&gt;&lt;sup&gt;2&lt;/sup&gt; 31 March 2011&lt;br&gt;&lt;sup&gt;3&lt;/sup&gt; 30 April 2011&lt;br&gt;&lt;sup&gt;4&lt;/sup&gt; 31 March 2010&lt;br&gt;&lt;sup&gt;5&lt;/sup&gt; 3 July 2010&lt;br&gt;&lt;sup&gt;6&lt;/sup&gt; 8 January 2011&lt;br&gt;&lt;sup&gt;7&lt;/sup&gt; Southern’s accounts relate to 20 September 2009-3 July 2010, and so do not cover a full year&lt;br&gt;&lt;sup&gt;8&lt;/sup&gt; 5 March 2011&lt;/p&gt;
+
+&lt;h2 id="notes"&gt;Notes&lt;/h2&gt;
+
+&lt;h3 id="operating-costs"&gt;Operating costs&lt;/h3&gt;
+
+&lt;p&gt;(a) These data are based on each operator’s statutory accounts. Any figures relating to premia or associated payments to the Department for Transport or passenger transport executives are excluded.&lt;/p&gt;
+
+&lt;p&gt;(b) For each operator, the latest available statutory accounts have been used. As indicated above, the periods covered by each set of accounts do not always match. Because of this, it is not appropriate to sum up each item to derive a total cost.&lt;/p&gt;
+
+&lt;p&gt;(c) Although we have aimed to be as consistent as possible, operators may not treat all aspects of operating costs in the same way in their accounts, and so care should be taken when using these figures.&lt;/p&gt;
+
+&lt;h3 id="network-grant"&gt;Network Grant&lt;/h3&gt;
+
+&lt;p&gt;(d) This is calculated by taking the total network grant in 2010-11, and allocating it to each franchise based on their share of fixed track access charges.&lt;/p&gt;
+
+&lt;h2 id="background-information"&gt;Background information&lt;/h2&gt;
+
+&lt;p&gt;The ‘operating cost’ column shows the costs incurred by each Train Operating Company (TOC) associated with running their services; this is based on operators’ statutory accounts, and excludes any premia or subsidy. Within this total are payments made by operators to Network Rail for access to the rail network which contribute towards infrastructure costs.&lt;/p&gt;
+
+&lt;p&gt;The ‘Allocated Network Grant’ column, allocates, to each operator, the grant paid by the Department for Transport to Network Rail in 2010-11. The grant effectively pays the infrastructure costs incurred by Network Rail that are not covered by operators. In the table above, each operator is allocated a share of the grant in proportion to their fixed track access charge.&lt;/p&gt;
+
+&lt;h3 id="the-following-file-contains-these-figures-for-each-of-the-dft-franchised-train-operators"&gt;The following file contains these figures for each of the DfT franchised train operators:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;cost of rail network CSV file&lt;/li&gt;
+  &lt;li&gt;publishing schedule: annually&lt;/li&gt;
+  &lt;li&gt;last updated: 31 October 2012&lt;/li&gt;
+  &lt;li&gt;next update: December 2012&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Further information about this indicator can be found in the measurement template.&lt;/p&gt;
+
+&lt;h2 id="further-information"&gt;Further information&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.gov.uk/government/publications/department-for-transport-business-plan"&gt;Business Plan 2012-2015&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://www.gov.uk/government/publications/input-and-impact-indicators"&gt;Input and impact indicators&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Analyst contact: &lt;a href="mailto:rail.stats@dft.gsi.gov.uk"&gt;rail.stats@dft.gsi.gov.uk&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/15668</id>
+    <published>2011-10-21T00:00:00+01:00</published>
+    <updated>2011-10-21T00:00:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/bus-subsidy-per-passenger-journey"/>
+    <title>Bus subsidy per passenger journey</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="dft-business-plan-input-indicator"&gt;DfT Business Plan input indicator&lt;/h2&gt;
+
+&lt;h3 id="geographical-coverage-england"&gt;Geographical coverage: England&lt;/h3&gt;
+
+&lt;h3 id="information-broken-down-by-region---data-are-available-for-london-english-metropolitan-areas-as-a-group-and-english-non-metropolitan-areas-as-a-group"&gt;Information broken down by: Region - data are available for London, English metropolitan areas (as a group), and English non-metropolitan areas (as a group)&lt;/h3&gt;
+
+&lt;h2 id="latest-data"&gt;Latest data&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;In 2010/11, the average level of subsidy (direct from central government) per passenger journey was 9.1 pence&lt;/li&gt;
+&lt;/ul&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Most recent data&lt;/th&gt;
+      &lt;th&gt; &lt;/th&gt;
+    &lt;/tr&gt;
+&lt;tr&gt;
+&lt;th&gt;Year&lt;/th&gt;
+      &lt;th&gt;Subsidy per Journey (2010/11 prices)&lt;/th&gt;
+    &lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;2009/10&lt;/td&gt;
+      &lt;td&gt;9.6p&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2010/11&lt;/td&gt;
+      &lt;td&gt;9.1p&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Percentage change&lt;/td&gt;
+      &lt;td&gt;-5.2&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;Table for Net government support for local bus services and concessionary travel per passenger journey by metropolitan area status: England, annual from 2004/05&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;The complete set of data is available at:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;BUS0503 – Net government support for local bus services and concessionary travel per passenger journey by metropolitan area status: England, annual from 2004/05&lt;/li&gt;
+  &lt;li&gt;In 2010/11, the average level of subsidy (direct from central government) per passenger journey was 9.1 pence. This decreased (adjusted for inflation) from 10.1 pence in 2004/05&lt;/li&gt;
+  &lt;li&gt;English non-Metropolitan areas had the highest level of subsidy per passenger journey (14.5 pence in 2010/11), London had the lowest level of subsidy per passenger journey (4.8 pence in 2010/11) while English Metropolitan areas were in-between (12.0 pence in 2010/11); comparisons between London and the rest of the country should be made with care - see note in Background Information below&lt;/li&gt;
+&lt;/ul&gt;&lt;h2 id="background-information"&gt;Background information&lt;/h2&gt;
+
+&lt;p&gt;Lower subsidy per passenger journey will indicate better value for the public purse. However, this could arise as a result of reductions in the most heavily subsidised services - many of which are routes in rural areas which would be unprofitable without public subsidy. Reductions to these services would improve the ‘headline’ measure but would risk making rural communities more isolated.&lt;/p&gt;
+
+&lt;p&gt;The figures exclude expenditure on capital projects (eg bus lane priority schemes) which benefit the bus industry directly or indirectly. Outside London, the local bus industry is deregulated, but London runs an entirely tendered bus market under the oversight of Transport for London. Given the different market structures, comparisons between London and the rest of country should be made with considerable care.&lt;/p&gt;
+
+&lt;p&gt;The indicator is calculated by dividing the total Bus Service Operators’ Grant by the total passenger journeys on buses (this will include concessionary journeys). Further information is available in the measurement template (below).&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;publishing schedule: annually&lt;/li&gt;
+  &lt;li&gt;last updated: 12 January 2012&lt;/li&gt;
+  &lt;li&gt;next update: December 2012&lt;/li&gt;
+  &lt;li&gt;Measurement template&lt;/li&gt;
+&lt;/ul&gt;&lt;h2 id="other-related-data-and-information"&gt;Other related data and information&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://whitehall-admin.production.alphagov.co.uk/technical-guidance-for-transport-stats?&amp;amp;preview=8996#bus-statistics"&gt;The full guidance notes on DfT bus statistics&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://www.gov.uk/government/organisations/department-for-transport/series/bus-statistics"&gt;Related bus statistics&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a rel="external" href="http://www.dft.gov.uk/statistics/releases/public-attitudes-towards-buses-march-2011"&gt;Research on attitudes to bus travel&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;h2 id="further-information"&gt;Further information&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://whitehall-admin.production.alphagov.co.uk/government/organisations/department-for-transport/series/department-for-transport-business-plan"&gt;Business Plan 2011-2015&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a rel="external" href="http://www.dft.gov.uk/publications/?agency=dft&amp;amp;tag=business-input-and-impact-indicator"&gt;Input and impact indicators&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Analyst contact: Matthew Tranter, &lt;a href="mailto:bus.statistics@dft.gsi.gov.uk"&gt;Bus statistics&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/15142</id>
+    <published>2011-08-11T00:00:00+01:00</published>
+    <updated>2011-08-11T00:00:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/london-and-south-east-top-ten-overcrowded-train-services"/>
+    <title>London and South East 'top ten' overcrowded train services</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The department collects rail passenger counts from train operating companies (TOCs) to monitor train crowding levels. All franchises let by the Department for Transport require the train operator to address crowding and to plan their timetables in such a way as to ensure, as far as possible, that crowding is not unduly concentrated on any particular route or individual service. The tables included in the papers below show the ten most overcrowded services.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/13702</id>
+    <published>2011-07-28T00:00:00+01:00</published>
+    <updated>2011-07-28T00:00:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/proportion-of-urban-trips-under-5-miles-taken-by-i-walking-or-cycling-ii-public-transport"/>
+    <title>Proportion of urban trips under 5 miles taken by (i) walking or cycling (ii) public transport</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="type-of-indicator-impact-indicator"&gt;Type of indicator: Impact indicator&lt;/h2&gt;
+
+&lt;h3 id="geographical-coverage-england-data-are-also-available-for-great-britain"&gt;Geographical coverage: England (data are also available for Great Britain)&lt;/h3&gt;
+
+&lt;h3 id="information-broken-down-by-region-and-country"&gt;Information broken down by: Region and country&lt;/h3&gt;
+
+&lt;h2 id="latest-data"&gt;Latest data&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;In 2010, 35% of urban trips under 5 miles in England were taken by walking or cycling and 10% were taken by public transport.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;For urban trips under 5 miles in England:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;35% were taken by walking or cycling in 2010 compared with 37% in 2009.&lt;/li&gt;
+  &lt;li&gt;10% were taken by public transport in 2010, the same proportion as in 2009.&lt;/li&gt;
+  &lt;li&gt;London was the region with the highest proportion of walking or cycling and public transport trips, 39% and 26% respectively.&lt;/li&gt;
+  &lt;li&gt;The region with the lowest proportion of walking or cycling trips was the West Midlands (32%).&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;The East of England, South East, East Midlands and the South West had the lowest proportion of public transport trips (5%).&lt;/p&gt;
+
+    &lt;ul&gt;
+&lt;li&gt;&lt;a rel="external" href="http://www.dft.gov.uk/statistics/tables/nts9909"&gt;Impact indicator data by region: Great Britain, 2002 to 2010&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;&lt;h2 id="background-information"&gt;Background information&lt;/h2&gt;
+
+&lt;p&gt;The proportions of walking or cycling and public transport trips are calculated using the number of trips under 5 miles as reported in the National Travel Survey by residents living in urban areas (settlements of over 3,000 population). Data are available by region and county.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;publishing schedule: annual&lt;/li&gt;
+  &lt;li&gt;last updated: 28 July 2011&lt;/li&gt;
+  &lt;li&gt;next update: November 2012&lt;/li&gt;
+&lt;/ul&gt;&lt;h2 id="other-related-data-and-information"&gt;Other related data and information&lt;/h2&gt;
+
+&lt;p&gt;The National Travel Survey (&lt;abbr title="National Travel Survey"&gt;NTS&lt;/abbr&gt;) collects data on personal travel in Great Britain. The &lt;abbr title="National Travel Survey"&gt;NTS&lt;/abbr&gt; reports on trends in personal travel including key questions on how, why and when people travel for all age groups. &lt;a rel="external" href="http://www.dft.gov.uk/statistics/series/national-travel-survey"&gt;Further information and statistics from the &lt;abbr title="National Travel Survey"&gt;NTS&lt;/abbr&gt;.&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id="further-information"&gt;Further information&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel="external" href="http://www.dft.gov.uk/publications/dft-business-plan"&gt;Business Plan 2011-2015&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a rel="external" href="http://www.dft.gov.uk/publications/?agency=dft&amp;amp;tag=business-input-and-impact-indicator"&gt;Input and impact indicators&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Analyst contact: email &lt;a href="mailto:national.travelsurvey@dft.gsi.gov.uk"&gt;&lt;br&gt;
+national.travelsurvey@dft.gsi.gov.uk&lt;/a&gt; or telephone 020 7944 3097&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
+  </entry>
+</feed>

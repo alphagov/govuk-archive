@@ -1,0 +1,128 @@
+Department for Transport statistics,,,,,,,,,,,,,,,,
+Bus Statistics (http://www.dft.gov.uk/statistics/series/buses/),,,,,,,,,,,,,,,,
+Table BUS0903,,,,,,,,,,,,,,,,
+"Average excess waiting time for frequent services by local authority: England, annual from 2004/05",,,,,,,,,,,,,,,,
+[Former National Indicator1 178b],,,,,,,,,,,,,,,,
+,,,,,,,,,,,Percentage,,,,,
+LA Code,Local Authority,,,2004/05,2005/06,2006/07,2007/08,2008/09,2009/10,2010/11,2011/12,,,,,
+E12000001,North East,,,,,,,,,,,,,,,
+E06000005,,Darlington,,..,1.5,2.1,..,1.6,2.2,1.1,0.9,,,,,
+E06000047,,Durham,4,..,..,..,..,..,..,..,..,,,,,
+E06000001,,Hartlepool,,..,0.6,0.7,..,0.7,0.5,0.4,..,,,,,
+E06000002,,Middlesbrough,,..,..,0.1,..,1.6,2.1,2.1,1.4,,,,,
+E06000048,,Northumberland,4,..,..,..,..,..,..,..,..,,,,,
+E06000003,,Redcar and Cleveland,,..,1.9,1.0,..,2.6,2.0,2.1,2.0,,,,,
+E06000004,,Stockton-on-Tees,,..,0.9,1.0,..,0.8,1.2,0.7,0.9,,,,,
+E11000004,,Tyne and Wear ITA,"3,5",..,..,..,..,0.4,0.8,0.9,0.8,,,,,
+E12000002,North West,,,,,,,,,,
+E06000008,,Blackburn with Darwen,,..,..,..,..,..,..,..,..
+E06000009,,Blackpool,5,..,..,5.0,0.5,..,1.2,1.0,0.7
+E10000004,,Cheshire,4,..,..,..,..,..,..,..,..
+E06000049,,Cheshire East,4,..,..,..,..,..,..,..,..
+E06000050,,Cheshire West and Chester,4,..,..,..,..,..,..,..,..
+E10000006,,Cumbria,,..,..,..,..,..,..,..,..
+E06000006,,Halton,,..,..,..,..,..,0.1,0.6,0.5
+E10000017,,Lancashire,,..,1.6,..,0.7,3.2,0.7,1.0,0.8
+E06000007,,Warrington,,..,..,0.7,1.0,..,0.7,0.8,1.0
+E11000001,,Greater Manchester ITA,3,..,..,..,..,..,0.6,..,..
+E11000002,,Merseyside ITA,3,..,..,..,..,2.3,1.6,1.6,1.5
+E12000003,Yorkshire and The Humber,,,,,,,,,,
+E06000011,,East Riding of Yorkshire,,..,..,..,..,..,..,..,..
+E06000010,,"Kingston upon Hull, City of",,..,..,5.0,..,2.3,..,..,..
+E06000012,,North East Lincolnshire,,..,..,0.4,0.5,0.6,0.6,1.8,0.4
+E06000013,,North Lincolnshire,,..,..,..,..,..,..,..,..
+E10000023,,North Yorkshire,,..,..,..,..,..,..,..,..
+E06000014,,York,,..,1.1,1.5,1.4,1.5,2.0,1.4,0.8
+E11000003,,South Yorkshire ITA,3,..,..,..,..,1.5,1.6,1.7,1.8
+E11000006,,West Yorkshire ITA,3,..,..,..,..,1.1,1.0,1.2,..
+E12000004,East Midlands,,,,,,,,,,
+E06000015,,Derby,,..,..,..,..,..,..,..,..
+E10000007,,Derbyshire,,..,..,..,..,0.6,0.3,0.6,0.5
+E06000016,,Leicester,,..,..,1.3,1.0,1.2,1.2,..,1.1
+E10000018,,Leicestershire,,..,..,..,..,..,..,..,..
+E10000019,,Lincolnshire,,..,..,..,3.4,3.4,2.5,2.1,..
+E10000021,,Northamptonshire,,..,..,..,0.8,0.7,0.4,..,..
+E06000018,,Nottingham,,..,..,..,0.6,0.6,0.6,0.6,0.7
+E10000024,,Nottinghamshire,,..,..,0.7,0.7,0.8,0.7,0.7,0.9
+E06000017,,Rutland,,..,..,..,..,..,..,..,..
+E12000005,West Midlands,,,,,,,,,,
+E06000019,,"Herefordshire, County of",,..,..,..,..,..,..,..,..
+E06000051,,Shropshire,,..,..,..,..,..,..,0.7,..
+E10000028,,Staffordshire,,..,..,..,..,..,..,..,..
+E06000021,,Stoke-on-Trent,,..,..,..,..,..,..,..,..
+E06000020,,Telford and Wrekin,,..,..,22.0,..,1.0,0.8,0.8,1.9
+E10000031,,Warwickshire,,..,1.0,0.7,0.5,0.8,0.8,0.8,0.9
+E10000034,,Worcestershire,R,..,..,0.1,1.5,1.5,0.4,0.8,0.2
+E11000005,,West Midlands ITA,3,..,..,..,..,1.1,1.3,1.2,1.2
+E12000006,East of England,,,,,,,,,,
+E06000055,,Bedford,4,..,..,..,..,..,..,..,..
+E10000001,,Bedfordshire,4,..,..,..,..,..,..,..,..
+E10000003,,Cambridgeshire,,..,..,..,..,0.7,0.6,0.7,0.7
+E06000056,,Central Bedfordshire,4,..,..,..,..,..,..,..,..
+E10000012,,Essex,,..,..,..,..,1.8,1.1,1.0,0.5
+E10000015,,Hertfordshire,,..,..,..,..,..,..,..,..
+E06000032,,Luton,,..,..,..,..,1.2,..,..,1.7
+E10000020,,Norfolk,,..,..,..,..,..,..,..,..
+E06000031,,Peterborough,5,..,..,..,..,1.8,1.4,1.6,1.2
+E06000033,,Southend-on-Sea,,..,..,..,..,..,..,..,..
+E10000029,,Suffolk,,..,..,1.0,..,0.5,..,..,..
+E06000034,,Thurrock,,..,..,..,..,..,..,..,..
+E12000007,London,,3,..,..,..,..,1.1,1.1,1.0,1.0
+E12000008,South East,,,,,,,,,,
+E06000036,,Bracknell Forest,,..,..,1.6,..,..,..,..,..
+E06000043,,Brighton and Hove,,..,..,..,0.7,0.7,0.7,0.7,0.7
+E10000002,,Buckinghamshire,,..,..,..,..,..,..,..,..
+E10000011,,East Sussex,,..,..,..,..,..,..,..,..
+E10000014,,Hampshire,,..,..,..,..,1.4,0.9,1.4,0.8
+E06000046,,Isle of Wight,,..,..,..,..,..,..,..,..
+E10000016,,Kent,,..,..,..,..,..,..,..,..
+E06000035,,Medway,,..,..,..,..,..,..,..,..
+E06000042,,Milton Keynes,,..,..,..,..,..,..,..,..
+E10000025,,Oxfordshire,,1.2,1.2,1.6,1.5,1.7,1.6,1.7,1.5
+E06000044,,Portsmouth,,..,..,..,..,..,1.2,..,..
+E06000038,,Reading,,..,..,0.6,2.0,1.6,1.6,1.6,1.9
+E06000039,,Slough,,..,..,..,..,..,..,..,..
+E06000045,,Southampton,,2.7,2.7,2.6,2.4,2.4,1.4,2.2,2.5
+E10000030,,Surrey,,..,..,..,..,1.0,1.5,1.2,..
+E06000037,,West Berkshire,,..,..,..,..,..,..,..,..
+E10000032,,West Sussex,,..,..,..,..,..,..,..,..
+E06000040,,Windsor and Maidenhead,,..,..,..,..,..,8.0,..,..
+E06000041,,Wokingham,,..,..,..,..,..,..,..,1.1
+E12000009,South West,,,,,,,,,,
+E06000022,,Bath and North East Somerset,,..,..,..,..,3.0,1.8,1.4,1.9
+E06000028,,Bournemouth,,..,..,..,..,1.5,1.2,1.9,1.5
+E06000023,,"Bristol, City of",,..,..,5.5,4.1,4.7,1.2,1.1,..
+E06000052,,Cornwall,4,..,..,..,..,..,..,..,..
+E10000008,,Devon,,1.8,1.8,3.1,1.4,1.4,1.4,2.3,1.5
+E10000009,,Dorset,,..,..,..,..,2.0,..,1.5,1.4
+E10000013,,Gloucestershire,,..,..,..,..,1.6,..,3.4,2.0
+E06000024,,North Somerset,,..,..,..,..,..,1.8,..,1.4
+E06000026,,Plymouth,,..,..,..,..,1.2,0.9,1.2,0.9
+E06000029,,Poole,,..,..,..,..,0.9,1.7,1.0,1.1
+E10000027,,Somerset,,..,..,..,..,..,..,..,..
+E06000025,,South Gloucestershire,,..,..,..,..,..,..,..,..
+E06000030,,Swindon,,..,..,..,..,..,..,..,..
+E06000027,,Torbay,,..,8.4,8.4,0.9,1.3,1.3,0.9,0.6
+E06000054,,Wiltshire,4,..,..,..,0.8,0.7,..,..,..
+1 An example of the calculation of excess waiting time is available here: ,,,,,,,,,,,
+http://www.clip.local.gov.uk/lgv/core/page.do?pageId=36703 ,,,,,,,,,,,
+2 Prior to 2008/09 data were collected as part of the Best Value Performance Indicators.,,,,,,,,,,,
+From 2008/09 to 2009/10 data were collected as part of the National Indicators.  From 2010/11 data have been collated by DfT,,,,,,,,,,,
+"The methodology used for the Best Value Performance Indicators, National Indicators and DfT collation remained the same.",,,,,,,,,,,
+"3 Data are only available at ITA or London level, and therefore figures quoted are for Transport for London. Greater Manchester ITA, Merseyside ITA,",,,,,,,,,,,
+"Tyne and Wear ITA, West Midlands ITA, South Yorkshire ITA and West Yorkshire ITA respectively.  Isles of Scilly are not included.",,,,,,,,,,,
+"4 Local Government was reorganised in April 2009. County Councils were converted to one or more Unitary Authorities in these areas, removing districts.",,,,,,,,,,,
+"5 These authorities reported changes to punctuality monitoring in 2011/12, which means data may not be directly comparable with previous years.",,,,,,,,,,,
+,,,,,,,,,,,
+R Figures for 2008/09 and 2009/10 have been revised to correct an error in the figures previously published for this area.,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+Telephone: 020 7944 3094,,,,,,,,,,,
+Email: bus.statistics@dft.gsi.gov.uk,,,,,,,,,,,
+Notes & definitions (http://assets.dft.gov.uk/statistics/series/buses/bus-notes-definitions.pdf) ,,,,,,,,,,,
+,,,,,,,,,,,
+Source: Local Authorities,,,,,,,,,,,
+Last updated: 20 September 2012,,,,,,,,,,,
+Next update: Autumn 2013,,,,,,,,,,,
+
+The figures in this table are outside the scope of National Statistics,,,,,,,,,,,
