@@ -8,16 +8,7 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-11-13T13:43:56+00:00</updated>
-  <entry>
-    <id>tag:www.gov.uk,2005:Consultation/15179</id>
-    <published>2012-11-13T13:43:56+00:00</published>
-    <updated>2012-11-13T13:43:56+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/consultations/local-government-pension-scheme-investment-in-partnerships--2"/>
-    <title>Local government pension scheme: investment in partnerships</title>
-    <category>Consultation</category>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This consultation seeks views on how to remove the barriers preventing local government pension scheme funds from investing in infrastructure projects and proposes two clear options for change.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
+  <updated>2012-11-12T00:00:00+00:00</updated>
   <entry>
     <id>tag:www.gov.uk,2005:Speech/15610</id>
     <published>2012-11-12T00:00:00+00:00</published>
@@ -48,15 +39,6 @@
 &lt;p&gt;I appreciate that as a very direct form of taxation, business rates are not popular. Local government finance is too often opaque and confusing. However, we are acting in an open and transparent manner. This independent evidence shows that by postponing the 2015 revaluation, we will protect local firms and local shops from sharp changes in business rates bills at a time when we want to ensure the economy is growing. It will provide business with a stable economic environment in which to invest and support jobs for the next 5 years.&lt;/p&gt;
 
 &lt;p&gt;A copy of the document will be placed in the Library together with a copy of the &lt;a href="https://www.gov.uk/government/publications/growth-and-infrastructure-bill-impact-assessment"&gt;Impact Assessment for the Growth and Infrastructure Bill&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:Consultation/12868</id>
-    <published>2012-11-08T10:27:41+00:00</published>
-    <updated>2012-11-08T10:27:41+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/consultations/local-government-pension-scheme-investment-in-partnerships"/>
-    <title>Local government pension scheme: investment in partnerships</title>
-    <category>Consultation</category>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This consultation seeks views on how to remove the barriers preventing local government pension scheme funds from investing in infrastructure projects and proposes two clear options for change.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:NewsArticle/12425</id>
@@ -92,6 +74,24 @@
 &lt;p&gt;Investment decisions remain for individual local pension funds, which have a duty to protect the local council taxpayers, and local services and to ensure that there are no conflicts of interest.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
+    <id>tag:www.gov.uk,2005:Consultation/12868</id>
+    <published>2012-11-06T00:00:00+00:00</published>
+    <updated>2012-11-06T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/consultations/local-government-pension-scheme-investment-in-partnerships"/>
+    <title>Local government pension scheme: investment in partnerships</title>
+    <category>Consultation</category>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This consultation seeks views on how to remove the barriers preventing local government pension scheme funds from investing in infrastructure projects and proposes two clear options for change.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:Consultation/15179</id>
+    <published>2012-11-06T00:00:00+00:00</published>
+    <updated>2012-11-06T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/consultations/local-government-pension-scheme-investment-in-partnerships--2"/>
+    <title>Local government pension scheme: investment in partnerships</title>
+    <category>Consultation</category>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This consultation seeks views on how to remove the barriers preventing local government pension scheme funds from investing in infrastructure projects and proposes two clear options for change.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
     <id>tag:www.gov.uk,2005:NewsArticle/14747</id>
     <published>2012-11-02T00:00:00+00:00</published>
     <updated>2012-11-14T12:41:14+00:00</updated>
@@ -115,53 +115,82 @@
 &lt;p&gt;Images from Baroness Hanham’s visit are available from the &lt;a rel="external" href="http://www.flickr.com/photos/communitiesuk/sets/72157631902676938/"&gt;DCLG Flickr channel.&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:Publication/15726</id>
-    <published>2011-10-21T01:00:00+01:00</published>
-    <updated>2012-11-14T19:27:05+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/local-authority-capital-expenditure-and-receipts-in-england-2010-to-2011-final-outturn"/>
-    <title>Local authority capital expenditure and receipts in England: 2010 to 2011 final outturn</title>
+    <id>tag:www.gov.uk,2005:Publication/16192</id>
+    <published>2012-10-18T01:00:00+01:00</published>
+    <updated>2012-11-14T12:39:23+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/localising-support-for-council-tax-transitional-grant-scheme"/>
+    <title>Localising support for Council Tax: transitional grant scheme</title>
     <category>Publication</category>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The national statistics on the final outturn figures of local authority capital expenditure and receipts in the financial year April 2010 to March 2011. These were released on 21 October 2011 under arrangements approved by the UK Statistics Authority.&lt;/p&gt;
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Department for Communities and Local Government is making available an additional £100 million for 1 year to support those local authorities in developing well-designed council tax support schemes and maintain positive incentives to work.&lt;/p&gt;
 
-&lt;p&gt;The statistical release includes data from 2006 to 2007 up to 2010 to 2011 and incorporates minor changes to the aggregate figures. It provides additional annexes which were not in the second provisional outturn published on 8 September 2011.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;capital expenditure by local authorities in England rose to £23.1 billion in 2010 to 2011, a year-on-year increase of 8%, due mainly to the &lt;abbr title="Greater London Authority"&gt;GLA&lt;/abbr&gt;’s expenditure via Transport for London (TfL)&lt;/li&gt;
-  &lt;li&gt;if the &lt;abbr title="Greater London Authority"&gt;GLA&lt;/abbr&gt;’s expenditure was excluded from the England totals, then capital expenditure was unchanged from 2009 to 2010&lt;/li&gt;
-  &lt;li&gt;capital expenditure has risen by nearly 42% in the last four years, nearly 28% in real terms&lt;/li&gt;
-  &lt;li&gt;capital receipts were unchanged in 2010 to 2011, at £1.5 billion, from 2009 to 2010&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</content>
+&lt;p&gt;The grant will be payable in March 2013 to those authorities who adopt schemes that must comply with criteria set by Government to ensure that low income households do not face an extensive increase in their council tax liability in 2013-14. This funding will enable councils to explore more sustainable approaches to managing the funding reduction that minimise the impact on vulnerable taxpayers.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:Publication/15899</id>
-    <published>2010-10-28T01:00:00+01:00</published>
-    <updated>2012-11-14T19:29:17+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/local-authority-capital-expenditure-and-receipts-in-england-2009-to-2010-final-outturn-revised"/>
-    <title>Local authority capital expenditure and receipts in England: 2009 to 2010 final outturn (revised)</title>
-    <category>Publication</category>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;National statistics on final outturn local authority capital expenditure and receipts in the financial year April 2009 to March 2010 were originally released on 28 October 2010 under arrangements approved by the UK Statistics Authority. A revised version has been released under arrangements approved by the UK Statistics Authority, incorporating amendments made by four local authorities.&lt;/p&gt;
+    <id>tag:www.gov.uk,2005:Speech/13397</id>
+    <published>2012-10-16T01:00:00+01:00</published>
+    <updated>2012-11-15T16:52:14+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/speeches/localising-council-tax-support"/>
+    <title>Localising Council Tax support</title>
+    <category>Speech</category>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;hr&gt;&lt;p&gt;In the 2010 Spending Review, the Government announced plans to localise council tax benefit and this is being taken forward through the Local Government Finance Bill currently before Parliament. From April 2013, these reforms will localise council tax support and give councils stronger incentives to support local firms, cut fraud, promote local enterprise and get people back into work.&lt;/p&gt;
 
-&lt;p&gt;The total capital expenditure has increased by 0.07 per cent. Capital receipts remain the same.&lt;/p&gt;
+&lt;p&gt;These reforms contribute to the Government’s deficit reduction programme, delivering savings of 470million a year of taxpayers’ money in Great Britain from 2013-14. Welfare reform is vital to tackle the budget deficit, as council tax benefit expenditure in England increased from 2.0billion to 4.3billion from 1997-98 by 2010-11.&lt;/p&gt;
 
-&lt;p&gt;The main points from the latest release are:&lt;/p&gt;
+&lt;p&gt;Localisation will give local authorities the flexibility to design council tax support schemes for working age claimants in their area. We have been clear that councils have the scope to help manage the impact of the reduction in council tax support funding through securing sensible savings. To help the transition to these changes, my Department has already provided 30million of funding to help councils draw up local support schemes.&lt;/p&gt;
+
+&lt;p&gt;There is a real incentive for councils to make savings in the new localised system from cutting fraud and error, where an estimated 200 million was paid out unnecessarily in 2011-12. However, we appreciate that these savings may not be delivered immediately in the first year.&lt;/p&gt;
+
+&lt;p&gt;Consequently, to further assist the transition process, my Department is today announcing an additional 100million of funding for councils to help support them in developing well-designed council tax support schemes and maintain positive incentives to work. This is new and additional funding for local government.&lt;/p&gt;
+
+&lt;p&gt;As councils draw up their local schemes, it is clear that many are delivering savings using their local flexibilities and discretion, without unfairly increasing the burden on those who are currently on benefits. Equally, there are some councils which are asking for very large additional contributions from those on benefits.&lt;/p&gt;
+
+&lt;p&gt;The new 100million transition grant will seek to encourage best practice. The voluntary grant will be available to councils (billing and major precepting authorities) who choose to design their local schemes so that:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;the underlying trend in capital expenditure shows an increase of 8% from 2008-09 to 2009-10, to £21.4 billion&lt;/li&gt;
-  &lt;li&gt;capital expenditure has risen by 28% in the last four years, nearly 16% in real terms&lt;/li&gt;
-  &lt;li&gt;capital receipts remain well below the 2007-08 level, at £1.4 billion - this reflects a drop in the sale of assets by local authorities&lt;/li&gt;
-  &lt;li&gt;the in-year capital receipts of £1.4 billion were more than offset by the use of £1.6 billion of capital receipts to finance expenditure&lt;/li&gt;
-  &lt;li&gt;the Greater London Authority (GLA) accounts for £3.2 billion (nearly 15%) of total capital expenditure in 2009-10; £2.7 billion of this is the expenditure of Transport for London&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</content>
+&lt;li&gt;those who would be on 100 per cent support under current council tax benefit arrangements pay between zero and no more than 8.5 per cent of their council tax liability;&lt;/li&gt;
+  &lt;li&gt;the taper rate does not increase above 25 per cent;&lt;/li&gt;
+  &lt;li&gt;there is no sharp reduction in support for those entering work - for claimants currently entitled to less than 100 per cent support, the taper will be applied to an amount at least equal to their maximum eligible award.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;In allowing flexibility over aspects of the scheme, we would not expect local authorities to impose large additional increases in non-dependant deductions. Councils will rightly want to avoid collecting small payments, and it may consequently be better value for money for councils to avoid designing schemes which seek to do so.&lt;/p&gt;
+
+&lt;p&gt;The amount of funding for which councils will be eligible to apply and the timescales and process for making an application will be published shortly. We anticipate that councils will make applications after 31 January 2013, and that funding will be paid in March 2013. The grant will be a simple one, easy to apply for and swiftly paid out, to help those councils who choose to do the right thing.&lt;/p&gt;
+
+&lt;p&gt;The Government has a clear goal in tackling the deficit, and reducing spending on benefits. This measured, transitional approach will help deliver an important programme of welfare reform, whilst still protecting taxpayers’ broader interests.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:Publication/15863</id>
-    <published>2010-09-20T01:00:00+01:00</published>
-    <updated>2012-11-14T19:18:05+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/local-authority-capital-expenditure-and-financing-in-england-2007-to-2008-individual-local-authority-data"/>
-    <title>Local authority capital expenditure and financing in England: 2007 to 2008 individual local authority data</title>
+    <id>tag:www.gov.uk,2005:Publication/16203</id>
+    <published>2012-09-07T01:00:00+01:00</published>
+    <updated>2012-11-14T12:35:49+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/localising-support-for-council-tax-draft-council-tax-reduction-schemes-changes"/>
+    <title>Localising support for Council Tax: draft Council Tax reduction schemes changes</title>
     <category>Publication</category>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The data in these spreadsheets have been used to compile the final outturn estimates of local authority capital expenditure and financing for the financial year April 2007 to March 2008.&lt;/p&gt;
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Localising Council Tax support is part of a wider set of reforms to the welfare system. This sets out the changes to the July 16 version of the Default Scheme regulations in list form. More significant changes responding to customer feedback are at the top of the list. Minor changes follow.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:Publication/16206</id>
+    <published>2012-09-07T01:00:00+01:00</published>
+    <updated>2012-11-14T12:35:49+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/localising-support-for-council-tax-default-and-prescribed-requirements-schemes"/>
+    <title>Localising support for Council Tax: default and prescribed requirements schemes</title>
+    <category>Publication</category>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This note explains changes introduced by the 7 September update of the Prescribed Requirements and Default Schemes and sets out plans for the autumn. This version makes minor ‘tidying up’ amendments to the initial drafts published on 16 July, and some (more noteworthy) responses to stakeholder feedback.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:Consultation/16200</id>
+    <published>2012-08-28T01:00:00+01:00</published>
+    <updated>2012-08-28T01:00:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/consultations/localising-support-for-council-tax-council-tax-base"/>
+    <title>Localising support for Council Tax: Council Tax base</title>
+    <category>Consultation</category>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Localising council tax support is part of a wider set of reforms to the welfare system.&lt;/p&gt;
 
-&lt;p&gt;Since the publication of the original final outturn statistical release in 20 November 2008, the data in these spreadsheets have been revised (on 31 December 2008).&lt;/p&gt;&lt;/div&gt;</content>
+&lt;p&gt;This consultation sets out the government’s proposals to provide certainty to local precepting authorities by allowing the council tax base for those areas to be calculated excluding localised council tax support reductions.&lt;/p&gt;
+
+&lt;p&gt;It seeks views on:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;the government’s proposals for providing certainty for the funding of local precepting authorities&lt;/li&gt;
+  &lt;li&gt;whether proposals for providing certainty to local precepting authorities should also be applied for all special items&lt;/li&gt;
+  &lt;li&gt;the draft amending statutory instrument&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
   </entry>
 </feed>

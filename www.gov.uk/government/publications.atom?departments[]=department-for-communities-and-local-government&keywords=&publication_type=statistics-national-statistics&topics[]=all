@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-GB" xmlns="http://www.w3.org/2005/Atom">
+  <id>tag:www.gov.uk,2005:/government/publications</id>
+  <link rel="alternate" type="text/html" href="https://www.gov.uk/government"/>
+  <link rel="self" type="application/atom+xml" href="https://www.gov.uk/government/publications.atom?departments%5B%5D=department-for-communities-and-local-government&amp;keywords=&amp;publication_type=statistics-national-statistics&amp;topics%5B%5D=all"/>
+  <title>Inside government</title>
+  <subtitle>Recent publications</subtitle>
+  <author>
+    <name>HM Government</name>
+  </author>
+  <updated>2012-11-15T00:00:00+00:00</updated>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/15967</id>
+    <published>2012-11-15T00:00:00+00:00</published>
+    <updated>2012-11-15T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/house-building-in-england-july-to-september-2012"/>
+    <title>House building in England: July to September 2012</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The latest national statistics on house building in England were released on 15 November 2012.&lt;/p&gt;
+
+&lt;p&gt;Statistics in this release present figures on new build housing starts and completions in England. Figures for the UK and constituent countries are also available in the accompanying tables.&lt;/p&gt;
+
+&lt;p&gt;The latest statistics report on the period July to September 2012 and update those previously released on 16 August 2012.&lt;/p&gt;
+
+&lt;p&gt;Key points from the latest release are:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Seasonally adjusted house building starts in England increased by 18% and stood at 25,760 in the September quarter 2012.&lt;/li&gt;
+  &lt;li&gt;Seasonally adjusted completions fell, down 7% to 27,060 in the September quarter 2012.&lt;/li&gt;
+  &lt;li&gt;Private enterprise housing starts (seasonally adjusted) were 15% higher in the September quarter 2012 than the previous quarter, whilst starts by housing associations were 23% higher.&lt;/li&gt;
+  &lt;li&gt;Seasonally adjusted private enterprise completions fell by 6% and housing association completions fell by 14% from the previous quarter.&lt;/li&gt;
+  &lt;li&gt;Seasonally adjusted starts are now 52% above the trough in the March quarter 2009 but 45% below the December quarter 2005 peak. Completions are 44% below their March quarter 2007 peak.&lt;/li&gt;
+  &lt;li&gt;Annual housing starts totalled 98,020 in the 12 months to September 2012, down by 9% compared with the year before. Annual housing completions in England reached 117,190 in the 12 months to September 2012, an increase of 6% compared with the previous 12 months.&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/16254</id>
+    <published>2012-11-15T00:00:00+00:00</published>
+    <updated>2012-11-15T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/social-housing-sales-in-england-2011-to-2012"/>
+    <title>Social housing sales in England: 2011 to 2012</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This statistical release presents official statistics on the number of sales of existing social housing stock in England for 2011 to 2012.&lt;/p&gt;
+
+&lt;p&gt;Social housing sales include sales under right to buy, preserved right to buy, right to acquire, social homebuy, other outright or shared equity sales to tenants, and sales of existing stock to the private sector. The figures exclude sales through low cost home ownership schemes where these do not relate to existing social stock, i.e. sales of newly built homes for shared ownership or acquisitions of private sector homes for affordable home ownership. Intra-tenure transfers between social housing providers are also excluded.&lt;/p&gt;
+
+&lt;p&gt;Key points from the release are:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;There were an estimated 9,670 total social housing sales in England in 2011-12. This is an increase of 15% on 2010-11 but continues the low level of sales seen since 2008-09. The increase was entirely due to an increase in private registered provider sales; local authority sales were virtually unchanged.&lt;/li&gt;
+  &lt;li&gt;There were an estimated 3,720 right to buy sales in England in 2011-12 (38% of all sales), a 1% increase from 2010-11. Most (70%) right to buy sales were of local authority properties. &lt;/li&gt;
+  &lt;li&gt;The average market value of a local authority property purchased through right to buy in 2011-12 was £100,040. Average capital receipts were £73,350 and the average discount was £26,690 per property. &lt;/li&gt;
+  &lt;li&gt;Registered provider sales in 2011-12 included 140 properties sold through the right to acquire scheme (compared to 200 in 2010-11) and 40 through social homebuy (compared to 110 in 2010-11).&lt;/li&gt;
+  &lt;li&gt;A further 3,320 sales (34% of total sales) were disposals of registered provider properties to the private sector. Other shared equity and outright sales of existing stock accounted for the remaining sales.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;These statistics relate to right to buy sales by local authorities and registered providers. The statistics include sales under the right to buy and preserved right to buy schemes.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/13418</id>
+    <published>2012-09-27T00:00:00+01:00</published>
+    <updated>2012-09-27T00:00:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/newbuy-guarantee-scheme-statistics-january-to-june-2012"/>
+    <title>NewBuy guarantee scheme statistics: January to June 2012</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This first release of official statistics concerning the NewBuy Guarantee scheme was released under the auspices of the UK Statistics Authority’s code of practice on 27 September 2012.&lt;/p&gt;
+
+&lt;p&gt;Statistics on the NewBuy Guarantee scheme cover quarterly and cumulative data for England up to 30 June 2012.&lt;/p&gt;
+
+&lt;p&gt;This release sets out:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;
+&lt;strong&gt;Total Completions&lt;/strong&gt; (number of properties purchased under the scheme);&lt;/li&gt;
+  &lt;li&gt;
+&lt;strong&gt;Government’s Contingent Liability&lt;/strong&gt; (the maximum possible cost to government as a result of government’s provision of a guarantee corresponding to these completions); and&lt;/li&gt;
+  &lt;li&gt;
+&lt;strong&gt;Government’s Total Costs&lt;/strong&gt; (the amount spent by government to date in payment of claims made by mortgage lenders against this guarantee).&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/13417</id>
+    <published>2012-09-25T00:00:00+01:00</published>
+    <updated>2012-09-25T00:00:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/fire-and-rescue-authorities-in-england-operational-statistics-bulletin-for-2011-to-2012"/>
+    <title>Fire and rescue authorities in England: operational statistics bulletin for 2011 to 2012</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This publication and accompanying appendix data tables were released on Tuesday 25 September by the Department for Communities and Local Government. The publication focuses on Personnel, Health and Safety and Fire Safety for the period 1 April 2011 to 31 March 2012.&lt;/p&gt;
+
+&lt;p&gt;The key points are as follows:&lt;/p&gt;
+
+&lt;h3 id="numbers-of-staff"&gt;Numbers of staff&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;At 31 March 2012, the total number of fire and rescue authority staff (full-time equivalents) was 48,900, 4 per cent fewer than at 31 March 2011. There were 28,200 wholetime firefighter full-time equivalents (down 3 per cent on 2011), and 11,700 retained firefighter units of 24 hour cover (down 4 per cent on 2011).&lt;/li&gt;
+  &lt;li&gt;There has been a gradual increase in the representation of women and minority ethnic staff in recent years. At 31 March 2012, 4.3 per cent of firefighters were women compared with 1.7 per cent in 2002. Minority ethnic staff accounted for 3.3 per cent of firefighters compared with 1.5 per cent in 2002.&lt;/li&gt;
+&lt;/ul&gt;&lt;h3 id="staff-leaving-fire-and-rescue-authorities"&gt;Staff leaving fire and rescue authorities&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;During 2011-12 there were 4,200 staff who left fire and rescue authorities. The most common reason for leaving was normal retirement (800).&lt;/li&gt;
+&lt;/ul&gt;&lt;h3 id="health-and-safety"&gt;Health and safety&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;There were 3,400 reported injuries to firefighters in 2011-12. This is 45 per cent fewer injuries than in 2001-02.&lt;/li&gt;
+&lt;/ul&gt;&lt;h3 id="community-fire-safety"&gt;Community fire safety&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;770,000 home fire safety checks were carried out by Fire and Rescue Services and their partners in 2011-12, 7 per cent fewer than in 2010-11. There were 118,000 home fire safety checks to households with a disabled person in 2011-12, up from 87,000 in 2010-11.&lt;/li&gt;
+  &lt;li&gt;The number of home fire safety checks of households with an elderly person (over 65 years) was 272,000 in 2011-12, slightly lower than the 278,000 undertaken in 2011-12.&lt;/li&gt;
+&lt;/ul&gt;&lt;h3 id="fire-safety-audits-of-buildings"&gt;Fire safety audits of buildings&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Fire and Rescue Services carried out 82,000 audits of buildings in 2011-12, 3 per cent fewer than in 2010-11.&lt;/li&gt;
+  &lt;li&gt;Fire and rescue authorities are focusing their audit activities so that premises that are considered to represent the highest risks are more likely to be audited. The highest proportions of audits against number of known premises were care homes, hotels and hospitals.&lt;/li&gt;
+  &lt;li&gt;The overall proportion of premises found to be satisfactory in 2011-12 was 59 per cent, compared to 56 per cent in 2010-11.&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/13416</id>
+    <published>2012-09-21T00:00:00+01:00</published>
+    <updated>2012-09-21T00:00:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/social-housing-lettings-and-sales-in-england-2011-to-2012-continuous-recording"/>
+    <title>Social housing lettings and sales in England, 2011 to 2012: continuous recording</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This Statistical Release presents official statistics on new lettings and sales of existing social housing stock in England for 2011/12.&lt;/p&gt;
+
+&lt;p&gt;Statistics on new lettings in England are given for both local authorities and private registered social housing providers; and on sales of social housing in England for private registered providers. Information about the tenancy or sale, the tenants or buyers, and the property, are collected each time there is a new letting or sale transaction. Lets of general needs and supported social housing are collected, and, from 2011/12, providers have also been asked to report on affordable lettings.&lt;/p&gt;
+
+&lt;p&gt;Social housing sales include sales under Right to Buy, Preserved Right to Buy, Right to Acquire, Social HomeBuy, other outright or shared equity sales to tenants, and sales of existing stock to the private sector. No details are recorded of sales of additional equity shares purchased by existing shared owners (known as ‘staircasing’).&lt;/p&gt;
+
+&lt;p&gt;Key points from the release are:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;There were 362,610 new social lettings in 2011/12, a 2 per cent increase on 2010/11 and equating to less than 10 per cent of social stock.&lt;/li&gt;
+  &lt;li&gt;72 per cent of lets were by Private Registered Providers and 28 per cent by local authorities. Overall 67 per cent were for general needs social housing.&lt;/li&gt;
+  &lt;li&gt;The average weekly social rent was £76 in 2011/12. Private registered provider rent was £81, an increase of 6 per cent on the previous year.&lt;/li&gt;
+  &lt;li&gt;The most common type of household taking up a general needs letting was single adults aged under 60 without children (over 30 per cent), with a further 20 per cent to single adults under 60 with children.&lt;/li&gt;
+  &lt;li&gt;In the first year of collection, 4,612 affordable rent lettings were reported by private registered providers. Average weekly general needs affordable rent was £110, equating to 68 per cent of average market rent.&lt;/li&gt;
+  &lt;li&gt;There were 10,356 social housing sales by Private Registered Providers during 2011/12, an increase of 4 per cent on 2010/11.&lt;/li&gt;
+  &lt;li&gt;Most properties were sold to single adults (43 per cent) and multi-adult households with no children (32 per cent).&lt;/li&gt;
+  &lt;li&gt;The average initial share purchased was 42 per cent across all types of social housing sale, with 50 per cent being the most typical initial share.&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/15786</id>
+    <published>2012-09-12T00:00:00+01:00</published>
+    <updated>2012-09-12T00:00:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/quarterly-revenue-outturn-for-local-authorities-in-england-quarter-1-2012-to-2013"/>
+    <title>Quarterly revenue outturn for local authorities in England: Q1 2012 to 2013</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This statistical release provides quarterly revenue outturn data for local authorities in England, for quarter 1 of the financial year 2012 to 2013, and compares it to revenue account data for the same financial year.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/11793</id>
+    <published>2012-09-11T00:00:00+01:00</published>
+    <updated>2012-09-11T00:00:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/local-authority-capital-expenditure-and-receipts-england-2011-to-2012"/>
+    <title>Local authority capital expenditure and receipts: England 2011 to 2012</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The latest national statistics on the 2nd provisional outturn figures of local authority capital expenditure and receipts in the financial year April 2011 to March 2012 was released on 11 September 2012 under arrangements approved by the UK Statistics Authority.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/11797</id>
+    <published>2012-09-06T00:00:00+01:00</published>
+    <updated>2012-09-06T00:00:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/statutory-homelessness-in-england-april-to-june-2012"/>
+    <title>Statutory homelessness in England: April to June 2012</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The latest national statistics on statutory homelessness, for April to June 2012, were released on 6 September 2012, under arrangements approved by the UK Statistics Authority.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/15742</id>
+    <published>2012-08-16T00:00:00+01:00</published>
+    <updated>2012-08-16T00:00:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/house-building-june-quarter-2012-england"/>
+    <title>House building in England: April to June 2012</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The latest statistics report on the period April to June 2012 and update those previously released on 17 May 2012.&lt;/p&gt;
+
+&lt;p&gt;Key points from the latest release are:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;seasonally adjusted house building starts in England stood at 21,540 in the June quarter 2012. This is 10 per cent lower than in the March quarter 2012&lt;/li&gt;
+  &lt;li&gt;completions (seasonally adjusted) also fell, down 6 per cent to 29,470 in the June quarter 2012&lt;/li&gt;
+  &lt;li&gt;private enterprise housing starts (seasonally adjusted) were 7 per cent lower in the June quarter 2012 than the previous quarter, whilst starts by housing associations were 23 per cent lower&lt;/li&gt;
+  &lt;li&gt;seasonally adjusted private enterprise completions fell by 5 per cent and housing association completions fell by 11 per cent from the previous quarter&lt;/li&gt;
+  &lt;li&gt;seasonally adjusted starts are now 27 per cent above the trough in the March quarter 2009 but 54 percent below the December quarter 2005 peak. Completions are 39 per cent below their March quarter 2007 peak&lt;/li&gt;
+  &lt;li&gt;annual housing starts totalled 98,670 in the 12 months to June 2012, down by 10 per cent compared with the year before. Annual housing completions in England reached 118,330 in the 12 months to June 2012, an increase of 8 per cent compared with the previous 12 months&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/11713</id>
+    <published>2012-07-27T00:00:00+01:00</published>
+    <updated>2012-07-27T00:00:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/planning-applications-in-england-january-to-march-2012"/>
+    <title>Planning applications in England: January to March 2012</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The latest national statistics on Planning Applications were released under the auspices of the UK Statistics Authority on 27 July 2012.&lt;/p&gt;
+
+&lt;p&gt;In the period January to March 2012 authorities undertaking district level planning in England:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;received 120,900 applications for planning permission, an increase of 1 per cent compared with the corresponding quarter in 2011;&lt;/li&gt;
+  &lt;li&gt;decided 100,400 planning applications, 4 per cent higher than in the same quarter in the previous year;&lt;/li&gt;
+  &lt;li&gt;granted 81,500 permissions, 4 per cent higher than in the same quarter in 2011;&lt;/li&gt;
+  &lt;li&gt;and decided 4 per cent more residential decisions compared to the March quarter 2011.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;In the year ending March 2012, district level planning authorities:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;received 477,800 applications, a decrease of 1 per cent on the year ending March 2011 figure;&lt;/li&gt;
+  &lt;li&gt;decided 434,900 planning applications, a decrease of 1 per cent on the year ending March 2011 figure;&lt;/li&gt;
+  &lt;li&gt;granted 354,100 permissions, a small decrease compared to the  figure for the year to March 2011;&lt;/li&gt;
+  &lt;li&gt;decided 57 per cent of major applications in 13 weeks, 71 per cent of minors and 82 per cent of others in 8 weeks. This compares to 66 per cent for majors, 75 per cent for minors and 86 per cent for others in the year ending March 2011;&lt;/li&gt;
+  &lt;li&gt;and decided 3 per cent fewer residential decisions compared to the year ending March 2011.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;The full set of Statistics of Planning Applications Live Tables are available at &lt;a rel="external" href="http://www.communities.gov.uk/planningandbuilding/planningbuilding/planningstatistics/livetables/livetablesondevelopmentcontrolst/"&gt;Live Tables on Development Control Statistics&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/11730</id>
+    <published>2012-07-12T00:00:00+01:00</published>
+    <updated>2012-07-12T00:00:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/local-authority-revenue-expenditure-and-financing-england-2012-to-2013-budget"/>
+    <title>Local authority revenue expenditure and financing England: 2012 to 2013 budget</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The latest national statistics on the budget estimates of local authority revenue expenditure and financing for 2012-13 were released on 12 July 2011 under arrangements approved by the UK Statistics Authority.&lt;/p&gt;
+
+&lt;p&gt;The key points from the latest release are:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Revenue Expenditure is budgeted to be £98.4 billion in England in 2012-13, a decrease from £101.9 billion in 2011-12.&lt;/li&gt;
+  &lt;li&gt;27.1 per cent of budgeted revenue expenditure in 2012-13 is estimated to be funded through council tax, 28.4 per cent through formula grant and 44.4 per cent through specific grants inside Aggregate External Finance and Local Services Support Grant.&lt;/li&gt;
+  &lt;li&gt;In 2012-13 local authorities are budgeting to draw down £21 million from their reserves to finance their revenue expenditure. However, this includes figures for Greater London Authority, who are budgeted to add £481 million to their reserves. Excluding the Greater London Authority, authorities are budgeting to draw down £501 million from their reserves.&lt;/li&gt;
+  &lt;li&gt;Local Authorities are budgeting total net current expenditure of £39.2 billion on education services in 2012-13, £21.2 billion on social care, £19.6 billion on mandatory housing benefits and £11.6 billion on police services.&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/11646</id>
+    <published>2012-07-05T00:00:00+01:00</published>
+    <updated>2012-07-05T00:00:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/english-housing-survey-household-report-2010-to-2011"/>
+    <title>English housing survey household report: 2010 to 2011</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Department for Communities and Local Government published the English Housing Survey (EHS) Household Report 2010-11 on Thursday 5 July 2012.&lt;/p&gt;
+
+&lt;p&gt;This is the detailed report of findings from the survey relating to households, and builds on results reported in the English Housing Survey Headline Report published in February 2012.&lt;/p&gt;
+
+&lt;p&gt;The English Housing Survey Homes Report 2010, formally known as the Housing Stock Report, was also published on 5 July 2012.&lt;/p&gt;
+
+&lt;p&gt;The English Housing Survey began in April 2008 bringing together two former DCLG housing surveys - the English House Condition Survey and the Survey of English Housing.&lt;/p&gt;
+
+&lt;p&gt;The report includes the following findings:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The largest tenure type in 2010-11 was owner occupation, with 14.45 million households (66 per cent). This continued a slight downward trend from a peak of 14.79 million households in owner occupation (71 per cent) in 2005. The private rented sector continued to increase in size, to 3.62 million households (17 per cent).&lt;/li&gt;
+  &lt;li&gt;Owner occupiers buying with a mortgage made average weekly mortgage payments of £143. This compared to average weekly rent payments of £160 made by privately renting households, and £79 by social renters.&lt;/li&gt;
+  &lt;li&gt;59 per cent of private renters and 23 per cent of social renters said they expected to buy a home in the UK, at some point. Of these, 16 per cent had considered applying for a mortgage in the last 12 months. Recent first time buyers were 6 per cent of owner occupiers.&lt;/li&gt;
+  &lt;li&gt;There were two million recently moving households in 2010-11, compared to 1.8 million in 2009-10. Of these, 62 per cent were private renters, 22 per cent were owner occupiers and 16 per cent were social renters.&lt;/li&gt;
+  &lt;li&gt;Households living in poverty were more likely to live in homes that had significant outstanding repairs and damp problems than households who were not living in poverty.&lt;/li&gt;
+  &lt;li&gt;The majority of households were satisfied with their local areas and their accommodation. However, although the majority of people felt their areas had not changed much over the previous two years, across all tenures, they were more likely to say their local area had got worse than better.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;The Excel files below include the annex tables, and the tables and figures for each chapter.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/11648</id>
+    <published>2012-07-05T00:00:00+01:00</published>
+    <updated>2012-07-05T00:00:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/english-housing-survey-homes-statistics-2010"/>
+    <title>English housing survey: homes statistics 2010</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This volume presents the English Housing Survey Homes Web Tables which are published to accompany the English Housing Survey Homes Report.&lt;/p&gt;
+
+&lt;p&gt;The tables provide a set of detailed findings from the survey organized around seven key topic areas.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/11647</id>
+    <published>2012-07-05T00:00:00+01:00</published>
+    <updated>2012-07-05T00:00:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/english-housing-survey-homes-report-2010"/>
+    <title>English housing survey homes report: 2010</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Department for Communities and Local Government published the English Housing Survey (EHS) Homes Report 2010, formally known as the Housing Stock Report, on Thursday 5 July 2012.&lt;/p&gt;
+
+&lt;p&gt;This is the detailed report of findings relating to the housing stock from the survey, and builds on results reported in the English Housing Survey Headline Report published in February 2012.&lt;/p&gt;
+
+&lt;p&gt;The English Housing Survey Household Report 2010-11 was also published on 5 July 2012.
+The English Housing Survey began in April 2008 bringing together two former DCLG housing surveys - the English House Condition Survey and the Survey of English Housing.&lt;/p&gt;
+
+&lt;p&gt;The report includes the following findings:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;In 2010, there were 22.4 million dwellings in England. Some 66 per cent of these were owner occupied and the rest were rented, split fairly evenly between the private rented sector (17 per cent) and social rented sector (17 per cent). There were slightly more housing association dwellings (2 million) than local authority dwellings (1.8 million).&lt;/li&gt;
+  &lt;li&gt;Some 52% of the private rented stock was built before 1945 including 40 per cent built before 1919. Also, 15 per cent of private rented homes were converted flats.&lt;/li&gt;
+  &lt;li&gt;The total cost of dealing with basic disrepair (day to day maintenance) within the stock was around £31.8 billion at 2010 prices and the average cost of this type of disrepair was £1,418 per dwelling.&lt;/li&gt;
+  &lt;li&gt;The proportion of dwellings with damp problems fell from 10 per cent in 2001 to 7 per cent in 2010. This was mainly due to a fall in the incidence of problems caused by penetrating damp.&lt;/li&gt;
+  &lt;li&gt;The average energy efficiency rating for the whole stock (using SAP09) has increased from 45 in 1996 to 55 in 2010.&lt;/li&gt;
+  &lt;li&gt;The average SAP rating in the social sector in 2010 was around eight points higher than either owner occupied or private rented homes (62 compared with 54).&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;The excel files below include annex tables and the tables and figures for each chapter.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/11692</id>
+    <published>2012-07-04T00:00:00+01:00</published>
+    <updated>2012-07-04T00:00:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/fire-statistics-monitor-april-2011-to-march-2012"/>
+    <title>Fire statistics monitor: April 2011 to March 2012</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The latest national statistics on fires, casualties, false alarms and non-fire incidents attended by the fire and rescue services in England, produced by the Department for Communities and Local Government, were released on Wednesday 4 July under the auspices of the UK Statistics Authority.&lt;/p&gt;
+
+&lt;p&gt;Statistics in this release are the latest available figures for England. They focus on the period of 1 April to 2011 to 31 March 2012. Key points of the latest data are:&lt;/p&gt;
+
+&lt;h3 id="fatal-and-non-fatal-casualties"&gt;Fatal and non-fatal casualties&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;In 2011-12 there were 304 fire fatalities; 27 fewer than in 2010-11.&lt;/li&gt;
+  &lt;li&gt;Accidental dwelling fires fatalities, which account for three fifths of all fire fatalities, were down by 26 from 213 in 2010-11 to 187 in 2011-12.&lt;/li&gt;
+  &lt;li&gt;There were 4,277 non-fatal fire casualties (excluding first aid cases and where only a precautionary checks was recommended). This was 2 per cent lower than in 2010-11.&lt;/li&gt;
+&lt;/ul&gt;&lt;h3 id="incidents"&gt;Incidents&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;In England, Fire and Rescue Services attended 223,000 fires, 2 per cent lower than in 2010-11.&lt;/li&gt;
+  &lt;li&gt;Dwelling fires were 4 per cent lower at 35,000, and fires in other buildings were down by 2 per cent to 20,000. Road vehicle fires fell by 14 per cent to 24,000.&lt;/li&gt;
+  &lt;li&gt;Attendances at fire false alarms decreased by 9 per cent to 249,000. More than two thirds of these were due to apparatus, while 4 per cent were malicious false alarms.&lt;/li&gt;
+  &lt;li&gt;Fire and Rescue Services attended 133,000 non-fire incidents in 2011-12, down 9 per cent from 2010-11. The most common categories of non-fire incidents were: road traffic collisions (21 per cent), effecting entry (11 per cent), lift releases (11 per cent), flooding (9 per cent) and medical incidents (9 per cent).&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/15809</id>
+    <published>2012-06-28T00:00:00+01:00</published>
+    <updated>2012-06-28T00:00:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/local-authority-capital-expenditure-and-receipts-in-england-2011-to-2012-provisional-outturn-and-2012-to-2013-forecast"/>
+    <title>Local authority capital expenditure and receipts in England: 2011 to 2012 provisional outturn and 2012 to 2013 forecast</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The latest national statistics on the provisional outturn figures of local authority capital expenditure and receipts in the financial year April 2011 to March 2012 and forecast figures for April 2012 to March 2013 were released on 28 June 2012 under arrangements approved by the UK Statistics Authority.&lt;/p&gt;
+
+&lt;p&gt;The latest statistical release includes data from 2007-08 to 2012-13.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Capital expenditure by local authorities in England excluding special factors of Housing Revenue Account reform fell to £20.7 billion in 2011-12, a year-on-year decrease of more than 10 per cent, due partly to a reduction in expenditure on new construction and conversion. It is forecast to rise to £21.4 billion in 2012-13, a year-on-year rise of 3 per cent&lt;/li&gt;
+  &lt;li&gt;Capital receipts have increased significantly in 2011-12 to £1.8 billion excluding special factors of Housing Revenue Account reform, a year-on-year increase of 22 per cent. Receipts are forecast to rise to £2.0 billion in 2012-13&lt;/li&gt;
+  &lt;li&gt;The percentage decrease in capital expenditure in 2011-12 is nearly 14 per cent in housing, almost 13 per cent in highways and transport, and 9 per cent in education&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Special factors&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;There has been a reform to the Housing Revenue Account system of payments which is reflected in the financial statistics shown in this statistical release.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/11657</id>
+    <published>2012-06-14T00:00:00+01:00</published>
+    <updated>2012-06-14T00:00:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/statutory-homelessness-in-england-january-to-march-2012"/>
+    <title>Statutory homelessness in England: January to March 2012</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The latest national statistics on statutory homelessness for January to March 2012 and 2011/12, England, were released on 14 June 2012, under arrangements approved by the UK Statistics Authority.&lt;/p&gt;
+
+&lt;p&gt;The key points from the latest release are:&lt;/p&gt;
+
+&lt;h3 id="household-acceptances"&gt;Household acceptances&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;13,130 applicants were accepted as owed a main homelessness duty during January to March 2012, 16 per cent higher than the same quarter last year.&lt;/li&gt;
+  &lt;li&gt;On a seasonally-adjusted basis, there were 13,340 acceptances, an increase of 2 per cent from 13,100 in the previous quarter.&lt;/li&gt;
+  &lt;li&gt;During the 2011/12 financial year, there were 50,290 acceptances. This is an increase of 14 per cent from 44,160 in 2010/11.&lt;/li&gt;
+&lt;/ul&gt;&lt;h3 id="households-in-temporary-accommodation"&gt;Households in temporary accommodation&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;50,430 households were in temporary accommodation on 31 March 2012, 5 per cent more than at the same date last year.&lt;/li&gt;
+  &lt;li&gt;On a seasonally-adjusted basis, 50,510 households were in temporary accommodation on 31 March 2012, 2 per cent more than the figure of 49,430 in the previous quarter.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;The Department’s &lt;em&gt;Statistics Plan 2011/12&lt;/em&gt; (see ‘Related publications’ below) sets out the Department’s intention to reduce the detail of the statutory homelessness quarterly releases to include only the most high profile and volatile data, with a more detailed publication at year end.&lt;/p&gt;
+
+&lt;p&gt;As a result, the first three quarterly releases for 2011/12 were in a shortened form, although there was no reduction in the number of tables and data published with the quarterly release, simply a reduction in the text. This release, covering the end of the financial year, contains a fuller commentary.&lt;/p&gt;
+
+&lt;p&gt;The tables accompanying the release have been published as &lt;a rel="external" href="http://www.communities.gov.uk/housing/housingresearch/housingstatistics/housingstatisticsby/homelessnessstatistics/livetables/"&gt;live tables&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The plan was available for user consultation from 13 April to 3 June 2011 and the final version of the plan (covering the year ending March 2012) was published on 7 March 2012.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/11666</id>
+    <published>2012-05-17T00:00:00+01:00</published>
+    <updated>2012-05-17T00:00:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/house-building-in-england-january-to-march-2012"/>
+    <title>House building in England: January to March 2012</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The latest statistics report on the period January to March 2012 and update those previously released on 16 February 2012.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The data in this release has been revised to include data from other approved inspectors.&lt;/strong&gt; For more information please see the release.&lt;/p&gt;
+
+&lt;p&gt;Key points from the latest release are:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Seasonally adjusted house building starts in England stood at 24,140 in the March quarter 2012. This is 11 per cent lower than in the December quarter 2011.&lt;/li&gt;
+  &lt;li&gt;Completions (seasonally adjusted) increased, up 6 per cent to 31,010 in the March quarter 2012.&lt;/li&gt;
+  &lt;li&gt;Private enterprise housing starts (seasonally adjusted) were 8 per cent lower in the March quarter 2012 than the previous quarter, whilst starts by housing associations were 21 per cent lower.&lt;/li&gt;
+  &lt;li&gt;Private enterprise and housing association completions (seasonally adjusted) both increased by 8 per cent from the previous quarter.&lt;/li&gt;
+  &lt;li&gt;Seasonally adjusted starts are currently 42 per cent above the trough in the March quarter 2009 but 50 percent below the December quarter 2005 peak. Completions are 36 per cent below their March quarter 2007 peak.&lt;/li&gt;
+  &lt;li&gt;Annual housing starts totalled 104,970 in the 12 months to March 2012, down by 6 per cent compared with the 12 months to March 2011. Annual housing completions in England reached 117,870 in the 12 months to March 2012, an increase of 6 per cent compared with the 12 months to March 2011.&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/11635</id>
+    <published>2012-05-09T00:00:00+01:00</published>
+    <updated>2012-05-09T00:00:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/council-tax-levels-set-by-local-authorities-in-england-2012-to-2013-revised"/>
+    <title>Council Tax levels set by local authorities in England: 2012 to 2013 (Revised)</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Revised details of the level of council tax set by local authorities in England for 2012-13 were announced on 9 May 2012. This latest statistical release incorporates minor revisions to the information published on 21 March on council tax levels and associated information for the financial year 2012-13, and changes over 2011-12.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/11718</id>
+    <published>2012-04-27T00:00:00+01:00</published>
+    <updated>2012-04-27T00:00:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/planning-applications-in-england-october-to-december-2011"/>
+    <title>Planning applications in England: October to December 2011</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;In the period October to December 2011 authorities undertaking district level planning in England:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;received 111,500 applications for planning permission, an increase of 1 per cent compared with the corresponding quarter in 2010&lt;/li&gt;
+  &lt;li&gt;decided 108,600 planning applications, 1 per cent lower than in the same quarter in the previous year&lt;/li&gt;
+  &lt;li&gt;granted 88,700 permissions, a small decrease compared to the same quarter in 2010&lt;/li&gt;
+  &lt;li&gt;and decided 10 per cent fewer major residential decisions compared to the December quarter 2010.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;In the year ending December 2011, district level planning authorities:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;received 472,800 applications, a decrease of 2 per cent on the year ending December 2010 figure&lt;/li&gt;
+  &lt;li&gt;decided 430,700 planning applications, a decrease of 2 per cent on the year ending December 2010 figure&lt;/li&gt;
+  &lt;li&gt;granted 350,400 permissions, a decrease of 1 per cent on the figure for the year to December 2010&lt;/li&gt;
+  &lt;li&gt;decided 60 per cent of major applications in 13 weeks, 71 per cent of minors and 83 per cent of others in 8 weeks. This compares to 68 per cent for majors, 76 per cent for minors and 86 per cent for others in the year ending December 2010&lt;/li&gt;
+  &lt;li&gt;and decided 7 per cent fewer major residential decisions compared to the year ending December 2010.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;The full set of Statistics of Planning Applications Live Tables are available at &lt;a rel="external" href="http://www.communities.gov.uk/planningandbuilding/planningbuilding/planningstatistics/livetables/livetablesondevelopmentcontrolst/"&gt;Live Tables on Development Control Statistics&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+</feed>

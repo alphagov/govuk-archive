@@ -8,24 +8,125 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-11-14T00:00:00+00:00</updated>
+  <updated>2012-11-15T00:00:00+00:00</updated>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/15915</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/16194</id>
+    <published>2012-11-15T00:00:00+00:00</published>
+    <updated>2012-11-15T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/concessionary-travel-notes-and-definitions"/>
+    <title>Concessionary Travel notes and definitions</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This document contains notes and definitions relating to Concessionary Travel statistics&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/16253</id>
+    <published>2012-11-15T00:00:00+00:00</published>
+    <updated>2012-11-15T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/driver-certificate-of-professional-competence-cpc-statistics"/>
+    <title>Driver Certificate of Professional Competence (CPC) statistics</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="about-these-statistics"&gt;About these statistics&lt;/h2&gt;
+&lt;p&gt;These operational statistics about Driver Certificate of Professional (&lt;abbr title="Certificate of Professional Competence"&gt;CPC&lt;/abbr&gt;) modules and training have not been designated as an official statistic.&lt;/p&gt;
+
+&lt;p&gt;The statistics come from data held by the Driving Standards Agency (&lt;abbr title="Driving Standards Agency"&gt;DSA&lt;/abbr&gt;), and are compiled and published by staff in &lt;abbr title="Driving Standards Agency"&gt;DSA&lt;/abbr&gt;.&lt;/p&gt;
+
+&lt;h2 id="information-you-cannot-find"&gt;Information you cannot find&lt;/h2&gt;
+&lt;p&gt;If you cannot find the information you need, it may have been:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;published in &lt;a href="/government/publications?utf8=%E2%9C%93&amp;amp;topics%5B%5D=all&amp;amp;departments%5B%5D=driving-standards-agency&amp;amp;publication_type=foi-releases" title="Responses to FOI requests"&gt;response to an Freedom of Information (&lt;abbr title="Freedom of Information"&gt;FOI&lt;/abbr&gt;) request&lt;/a&gt;
+&lt;/li&gt;
+  &lt;li&gt;designated as an &lt;a href="/government/organisations/department-for-transport/series/driving-tests-and-instructors-statistics" title="Official driving test statistics"&gt;official statistic&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;You can &lt;a rel="external" href="https://www.dft.gov.uk/foi/form/" title="Send an FOI request"&gt;send an &lt;abbr title="Freedom of Information"&gt;FOI&lt;/abbr&gt; request&lt;/a&gt; if you still cannot find the information you need.&lt;/p&gt;
+
+&lt;h2 id="information-that-cannot-be-released"&gt;Information that cannot be released&lt;/h2&gt;
+&lt;p&gt;&lt;abbr title="Driving Standards Agency"&gt;DSA&lt;/abbr&gt; cannot send you information if it is part of an official statistic that has not yet been published. This is because the &lt;a rel="external" href="http://www.legislation.gov.uk/uksi/2008/2998/contents/made" title="Pre-release Access to Official Statistics Order 2008"&gt;Pre-release Access to Official Statistics Order 2008&lt;/a&gt; limits access to official statistics until they are published.&lt;/p&gt;
+
+&lt;h2 id="downloads"&gt;Downloads&lt;/h2&gt;
+&lt;p&gt;These older statistics are available from the The National Archives:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel="external" href="http://webarchive.nationalarchives.gov.uk/20121105135246/http://assets.dft.gov.uk/publications/dsa-practical-test-statistics-driver-cpc/dsa-driver-cpc-statistics-2011-12.csv"&gt;Driver &lt;abbr title="Certificate of Professional Competence"&gt;CPC&lt;/abbr&gt; periodic training, driver qualification cards and centre and course approvals (2011 to 2012)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a rel="external" href="http://webarchive.nationalarchives.gov.uk/20121105135246/http://assets.dft.gov.uk/publications/dsa-practical-test-statistics-driver-cpc/dsa-driver-cpc-statistics-2010-11.csv"&gt;Driver &lt;abbr title="Certificate of Professional Competence"&gt;CPC&lt;/abbr&gt; periodic training, driver qualification cards and centre and course approvals (2010 to 2011)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a rel="external" href="http://webarchive.nationalarchives.gov.uk/20121105135246/http://assets.dft.gov.uk/publications/dsa-practical-test-statistics-driver-cpc/dsa-driver-cpc-statistics-2009-10.csv"&gt;Driver &lt;abbr title="Certificate of Professional Competence"&gt;CPC&lt;/abbr&gt; periodic training, driver qualification cards and centre and course approvals (2009 to 2010)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a rel="external" href="http://webarchive.nationalarchives.gov.uk/20121105135246/http://assets.dft.gov.uk/publications/dsa-practical-test-statistics-driver-cpc/dsa_conducted_module_4_cpc_pass_rate_09-10.pdf"&gt;Driver &lt;abbr title="Certificate of Professional Competence"&gt;CPC&lt;/abbr&gt; module 4 pass rate (2009 to 2010)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a rel="external" href="http://webarchive.nationalarchives.gov.uk/20121105135246/http://assets.dft.gov.uk/publications/dsa-practical-test-statistics-driver-cpc/dsa-driver-cpc-statistics-2008-09.csv"&gt;Driver &lt;abbr title="Certificate of Professional Competence"&gt;CPC&lt;/abbr&gt; periodic training, driver qualification cards and centre and course approvals (2008 to 2009)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a rel="external" href="http://webarchive.nationalarchives.gov.uk/20121105135246/http://assets.dft.gov.uk/publications/dsa-practical-test-statistics-driver-cpc/dsa_conducted_module_4_cpc_pass_rate_08-09.pdf"&gt;Driver &lt;abbr title="Certificate of Professional Competence"&gt;CPC&lt;/abbr&gt; module 4 pass rate (2008 to 2009)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/16258</id>
+    <published>2012-11-15T00:00:00+00:00</published>
+    <updated>2012-11-15T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/right-to-buy-sales-in-england-2012-to-2013-quarters-1-and-2"/>
+    <title>Right to buy sales in England: 2012 to 2013 - quarters 1 and 2</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This statistical release presents official statistics on the number of sales of dwellings under the right to buy scheme, as well as providing statistics on receipts resulting from those sales, and starts on site as part of the one-for-one replacements.&lt;/p&gt;
+
+&lt;p&gt;Key points from the release are:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Local authorities sold an estimated 444 dwellings under the right to buy scheme in 2012-13 quarter 1. In this quarter local authorities received £24 million from right to buy sales, while 14 dwellings were started on site or acquired.&lt;/li&gt;
+  &lt;li&gt;Local authorities sold an estimated 1,043 dwellings under the right to buy scheme in 2012-13 quarter 2. In this quarter local authorities received £62 million from right to buy sales, while 234 dwellings were started on site or acquired.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;These statistics relate only to sales by local authorities under the right to buy scheme, excluding sales by registered providers under preserved right to buy.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/16106</id>
+    <published>2012-11-15T00:00:00+00:00</published>
+    <updated>2012-11-15T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/concessionary-travel-statistics-england-2011-12-and-2012-13"/>
+    <title>Concessionary Travel Statistics: England, 2011-12 and 2012-13</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This statistical release presents information on concessionary travel on buses in England during 2011/12 and 2012/13. The main focus of the release is free bus travel for older and disabled people, but it also includes information relating to concessions on other transport modes and young people’s concessions. Most of the data are derived from the Department for Transport’s survey of Travel Concession Authorities.&lt;/p&gt;
+
+&lt;p&gt;We welcome any feedback on these statistics via email to &lt;a href="mailto:bus.statistics@dft.gsi.gov.uk"&gt;bus.statistics@dft.gsi.gov.uk&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id="planned-update"&gt;Planned update:&lt;/h3&gt;
+
+&lt;p&gt;Additional data relating to total expenditure on concessionary travel will be released later in November, as soon as the latest data is available from the Department for Communities and Local Government.&lt;/p&gt;
+
+&lt;h3 id="key-points"&gt;Key points:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;In 2011/12, there were around 9.8m older and disabled concessionary bus passes in England, with an average of 109 bus journeys per pass per year.&lt;/li&gt;
+  &lt;li&gt;Pass numbers in England are forecast to increase by 3% in 2012/13, according to forecasts by Travel Concession Authorities (TCAs).&lt;/li&gt;
+  &lt;li&gt;Travel concession authorities (TCAs) paid £898m in 2011/12 to reimburse bus operators for concessionary journeys by older and disabled people, a fall of 2% in real terms since 2010/11. &lt;/li&gt;
+  &lt;li&gt;The average reimbursement per concessionary journey in 2011/12 was 84 pence, a fall of 3 pence per journey in real terms, compared to 2010/11.&lt;/li&gt;
+  &lt;li&gt;In 2012/13, 87 of the 89 travel concession authorities (TCAs) outside London offer some discretionary travel concessions, most commonly concessions for companions to disabled people and extensions to the statutory travel time period.&lt;/li&gt;
+  &lt;li&gt;In 2012/13, in all but 5 TCAs in England, some travel concession is available for young people, offered by either the TCA or on a commercial basis by bus operators. &lt;/li&gt;
+&lt;/ul&gt;&lt;h3 id="browse-statistical-tables-related-to-this-release"&gt;Browse statistical tables related to this release:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.gov.uk/government/statistical-data-sets/bus08-concessionary-travel"&gt;Concessionary Travel Statistics tables&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;h3 id="technical-information"&gt;Technical information:&lt;/h3&gt;
+&lt;p&gt;Information on bus statistics, including the pre-release access list and related technical documentation is available under the &lt;a href="https://whitehall-admin.production.alphagov.co.uk/technical-guidance-for-transport-stats?&amp;amp;preview=8996#bus-statistics"&gt;Technical Information section&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id="related-statistical-releases"&gt;Related statistical releases:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.gov.uk/government/organisations/department-for-transport/series/national-travel-survey-statistics"&gt;National Travel Survey - includes data on concessionary pass holders in Great Britain, as well as general information on travel patterns amongst older people&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://www.gov.uk/government/organisations/department-for-transport/series/light-rail-and-tram-statistics"&gt;Light Rail and Tram Statistics – includes data on concessionary journeys on light rail and tram systems and concessionary revenue for bus and light rail operators&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://www.gov.uk/government/organisations/department-for-transport/series/bus-statistics"&gt;Bus Statistics – includes a range of data on all bus travel, including overall passenger journey numbers and bus operator finance&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;h3 id="contact-us"&gt;Contact us&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="mailto:bus.statistics@dft.gsi.gov.uk"&gt;bus.statistics@dft.gsi.gov.uk&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Phone: 020 7944 6104&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/16095</id>
     <published>2012-11-14T00:00:00+00:00</published>
     <updated>2012-11-14T00:00:00+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/housing-statistics"/>
     <title>Housing statistics</title>
     <content type="html">&lt;div class="govspeak"&gt;&lt;ul&gt;
-&lt;li&gt;Dwelling stock (including vacants)&lt;/li&gt;
-  &lt;li&gt;[House building](https://www.gov.uk/government/admin/organisations/department-for-communities-and-local-government/document_series/house-building-statistics&lt;/li&gt;
-  &lt;li&gt;Household projections&lt;/li&gt;
-  &lt;li&gt;Housing market and house prices&lt;/li&gt;
-  &lt;li&gt;Rents, lettings and tenancies&lt;/li&gt;
-  &lt;li&gt;Homelessness statistics&lt;/li&gt;
-  &lt;li&gt;Household characteristics&lt;/li&gt;
-  &lt;li&gt;Housing finance and household expenditure&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.gov.uk/government/organisations/department-for-communities-and-local-government/series/dwelling-stock-including-vacants"&gt;Dwelling stock (including vacants)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://www.gov.uk/government/organisations/department-for-communities-and-local-government/series/house-building-statistics"&gt;House building&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://www.gov.uk/government/organisations/department-for-communities-and-local-government/series/household-projections"&gt;Household projections&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://www.gov.uk/government/organisations/department-for-communities-and-local-government/series/housing-market"&gt;Housing market and house prices&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://www.gov.uk/government/organisations/department-for-communities-and-local-government/series/rents-lettings-and-tenancies"&gt;Rents, lettings and tenancies&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://www.gov.uk/government/organisations/department-for-communities-and-local-government/series/homelessness-statistics"&gt;Homelessness statistics&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://www.gov.uk/government/organisations/department-for-communities-and-local-government/series/household-characteristics"&gt;Household characteristics&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://www.gov.uk/government/organisations/department-for-communities-and-local-government/series/housing-finance-and-household-expenditure-social-housing"&gt;Housing finance and household expenditure&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;Social housing sales (including Right to Buy and transfers)&lt;/p&gt;
+    &lt;p&gt;&lt;a href="https://www.gov.uk/government/organisations/department-for-communities-and-local-government/series/social-housing-sales-including-right-to-buy-and-transfers"&gt;Social housing sales (including Right to Buy and transfers)&lt;/a&gt;&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;&lt;a href="https://www.gov.uk/definitions-of-general-housing-terms"&gt;Definitions of general housing terms&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/div&gt;</content>
@@ -90,28 +191,97 @@
 &lt;p&gt;The July 2012 count also included a count of new affordable residential pitches for the second time. This was done to allow such pitches to be included in the calculation of the New Homes Bonus for individual local authorities.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/10091</id>
-    <published>2012-10-07T00:00:00+01:00</published>
-    <updated>2012-10-07T00:00:00+01:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/driver-certificate-of-professional-competence-cpc-statistics"/>
-    <title>Driver Certificate of Professional Competence (CPC) statistics</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="about-these-statistics"&gt;About these statistics&lt;/h2&gt;
-&lt;p&gt;These operational statistics about Driver Certificate of Professional (&lt;abbr title="Certificate of Professional Competence"&gt;CPC&lt;/abbr&gt;) modules and training have not been designated as an official statistic.&lt;/p&gt;
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/16177</id>
+    <published>2012-11-01T00:00:00+00:00</published>
+    <updated>2012-11-01T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/biofuel-statistics-year-5-2012-13-report-1"/>
+    <title>Biofuel statistics: Year 5 (2012/13), report 1</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This publication presents statistics on the Renewable Transport Fuel Obligation (RTFO) for the obligation year 15 April 2012 to 14 July 2012 (Year 5).&lt;/p&gt;
 
-&lt;p&gt;The statistics come from data held by the Driving Standards Agency (&lt;abbr title="Driving Standards Agency"&gt;DSA&lt;/abbr&gt;), and are compiled and published by staff in &lt;abbr title="Driving Standards Agency"&gt;DSA&lt;/abbr&gt;.&lt;/p&gt;
-
-&lt;h2 id="information-you-cannot-find"&gt;Information you cannot find&lt;/h2&gt;
-&lt;p&gt;If you cannot find the information you need, it may have been:&lt;/p&gt;
+&lt;p&gt;It includes information on:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;published in &lt;a href="/government/publications?utf8=%E2%9C%93&amp;amp;topics%5B%5D=all&amp;amp;departments%5B%5D=driving-standards-agency&amp;amp;publication_type=foi-releases" title="Responses to FOI requests"&gt;response to an Freedom of Information (&lt;abbr title="Freedom of Information"&gt;FOI&lt;/abbr&gt;) request&lt;/a&gt;
-&lt;/li&gt;
-  &lt;li&gt;designated as an &lt;a href="/government/organisations/department-for-transport/series/driving-tests-and-instructors-statistics" title="Official driving test statistics"&gt;official statistic&lt;/a&gt;
-&lt;/li&gt;
-&lt;/ul&gt;&lt;p&gt;You can &lt;a rel="external" href="https://www.dft.gov.uk/foi/form/" title="Send an FOI request"&gt;send an &lt;abbr title="Freedom of Information"&gt;FOI&lt;/abbr&gt; request&lt;/a&gt; if you still cannot find the information you need.&lt;/p&gt;
+&lt;li&gt;the amount of UK road transport fuel from renewable and fossil fuel;&lt;/li&gt;
+  &lt;li&gt;the number of Renewable Transport Fuel Certificates (RTFCs) which have been issued to sustainable renewable fuel;&lt;/li&gt;
+  &lt;li&gt;the balance of RTFCs by obligation period;&lt;/li&gt;
+  &lt;li&gt;trades of RTFCs between suppliers and/or traders; and,&lt;/li&gt;
+  &lt;li&gt;carbon and sustainability (C&amp;amp;S) characteristics of the renewable fuel supplied.&lt;/li&gt;
+&lt;/ul&gt;&lt;h3 id="the-headline-figures-are"&gt;The headline figures are:&lt;/h3&gt;
 
-&lt;h2 id="information-that-cannot-be-released"&gt;Information that cannot be released&lt;/h2&gt;
-&lt;p&gt;&lt;abbr title="Driving Standards Agency"&gt;DSA&lt;/abbr&gt; cannot send you information if it is part of an official statistic that has not yet been published. This is because the &lt;a rel="external" href="http://www.legislation.gov.uk/uksi/2008/2998/contents/made" title="Pre-release Access to Official Statistics Order 2008"&gt;Pre-release Access to Official Statistics Order 2008&lt;/a&gt; limits access to official statistics until they are published.&lt;/p&gt;&lt;/div&gt;</content>
+&lt;ul&gt;
+&lt;li&gt;6.3 billion litres of renewable transport fuel have been supplied in the 51 months since the RTFO began.&lt;/li&gt;
+&lt;/ul&gt;&lt;h3 id="in-the-first-quarter-of-year-5-of-the-rtfo-14-april-2012-to-15-july-2012"&gt;In the first quarter of Year 5 of the RTFO (14 April 2012 to 15 July 2012):&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;321 million litres of renewable fuel have been supplied, which is 2.9% of total road transport fuel reported to the RTFO Administrator against an annual obligation of 4.5%.&lt;/li&gt;
+  &lt;li&gt;More bioethanol (60%) has been supplied than biodiesel (36%). There were also small volumes of biogas, biomethanol, methyl tertiary butyl ether (MTBE) and pure vegetable oil.&lt;/li&gt;
+  &lt;li&gt;154 million RTFCs have been issued of which 69 million were for double counting feedstocks.&lt;/li&gt;
+&lt;/ul&gt;&lt;h3 id="cs-characteristics-of-the-biofuels-to-which-rtfcs-have-been-issued-37-of-the-total-biofuel185"&gt;C&amp;amp;S characteristics of the biofuels to which RTFCs have been issued (37% of the total biofuel)¹:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The largest proportion of renewable fuel was derived from non-European Community corn (66 million litres, 55% of total biofuel to which RTFCs have been issued). The most widely reported source (by feedstock and country of origin) for biodiesel was used cooking oil from the USA (8 million litres, 31% of biodiesel to which RTFCs have been issued). The most widely sourced bioethanol was corn from the United States of America (65 million litres, 76% of bioethanol to which RTFCs have been issued).&lt;/li&gt;
+  &lt;li&gt;11% of renewable fuel was sourced from UK feedstocks.&lt;/li&gt;
+  &lt;li&gt;An aggregate greenhouse gas saving of 59% compared to fossil fuels was achieved. This figure excludes emissions from indirect land-use change.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;¹ The final deadline for applying for RTFCs is 12 August following the obligation period.&lt;/p&gt;
+
+&lt;h2 id="technical-information"&gt;Technical information&lt;/h2&gt;
+
+&lt;p&gt;Information on biofuels statistics, including the pre-release access list, and related technical documentation &lt;a href="https://whitehall-admin.production.alphagov.co.uk/technical-guidance-for-transport-stats?&amp;amp;preview=8996#biofuels-statistics"&gt;can be found here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id="contact-us"&gt;Contact us&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="mailto:rtfo-compliance@dft.gsi.gov.uk"&gt;rtfo-compliance@dft.gsi.gov.uk&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Phone: 020 7944 8555&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/16178</id>
+    <published>2012-11-01T00:00:00+00:00</published>
+    <updated>2012-11-01T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/biofuel-statistics-year-4-2011-12-report-5"/>
+    <title>Biofuel statistics: Year 4 (2011/12), report 5</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This publication presents statistics on the Renewable Transport Fuel Obligation (RTFO) for the obligation year 15 April 2011 to 14 April 2012 (Year 4).&lt;/p&gt;
+
+&lt;p&gt;It includes information on:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;the amount of UK road transport fuel from renewable and fossil fuel;&lt;/li&gt;
+  &lt;li&gt;the number of Renewable Transport Fuel Certificates (RTFCs) which have been issued to sustainable renewable fuel;&lt;/li&gt;
+  &lt;li&gt;the balance of RTFCs by obligation period;&lt;/li&gt;
+  &lt;li&gt;trades of RTFCs between suppliers and/or traders; and,&lt;/li&gt;
+  &lt;li&gt;carbon and sustainability (C&amp;amp;S) characteristics of the renewable fuel supplied ¹.&lt;/li&gt;
+&lt;/ul&gt;&lt;h3 id="the-headline-figures-are"&gt;The headline figures are:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Six billion litres of renewable transport fuel have been supplied in the 48 months since the RTFO began.&lt;/li&gt;
+&lt;/ul&gt;&lt;h3 id="in-year-4-14-april-2011-to-15-april-2012-of-the-rtfo"&gt;In Year 4 (14 April 2011 to 15 April 2012) of the RTFO:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;1.6 billion litres of renewable fuel have been supplied, which is 3.6% of total road transport fuel reported to the RTFO Administrator against an annual obligation of 4.0%. &lt;/li&gt;
+  &lt;li&gt;More biodiesel (57%) has been supplied than bioethanol (43%). There were also small volumes of biogas, biomethanol and pure vegetable oil.&lt;/li&gt;
+  &lt;li&gt;1.7 billion RTFCs have been issued of which 464 million were for double counting feedstocks.&lt;/li&gt;
+&lt;/ul&gt;&lt;h3 id="from-15-dec-2011-to-14-apr-2012"&gt;From 15 Dec 2011 to 14 Apr 2012:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;43% of the Year 4 RTFCs were issued to biofuel supplied in this period.&lt;/li&gt;
+  &lt;li&gt;The largest proportion of renewable fuel was derived from used cooking oil (229 million litres, 45% of total biofuel supplied). The most widely reported source (by feedstock and country of origin) for biodiesel was used cooking oil from the Netherlands (48 million litres, 18% of biodiesel supplied). The most widely sourced bioethanol was corn from the United States of America (163 million litres, 69% of bioethanol supplied).&lt;/li&gt;
+  &lt;li&gt;12% of renewable fuel was sourced from UK feedstocks.&lt;/li&gt;
+  &lt;li&gt;An aggregate greenhouse gas saving of 63% compared to fossil fuels was achieved. This figure excludes emissions from indirect land-use change.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;¹ This report contains fuel volume and RTFC data for the whole obligation period, and verified C&amp;amp;S data on renewable fuels supplied for the period after implementation of the Renewable Energy Directive (15 December 2011 to 14 April 2012). &lt;/p&gt;
+
+&lt;p&gt;Unverified C&amp;amp;S data for renewable fuels supplied for the period 15 April to 14 December 2011 can be found in the &lt;a href="https://www.gov.uk/government/organisations/department-for-transport/series/biofuels-statistics"&gt;Biofuels series&lt;/a&gt;. We expect to publish verified data for this period in February 2013&lt;/p&gt;
+
+&lt;h2 id="technical-information"&gt;Technical information&lt;/h2&gt;
+
+&lt;p&gt;Information on biofuels statistics, including the pre-release access list, and related technical documentation &lt;a href="https://whitehall-admin.production.alphagov.co.uk/technical-guidance-for-transport-stats?&amp;amp;preview=8996#biofuels-statistics"&gt;can be found here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id="contact-us"&gt;Contact us&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="mailto:rtfo-compliance@dft.gsi.gov.uk"&gt;rtfo-compliance@dft.gsi.gov.uk&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Phone: 020 7944 8555&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/11788</id>
@@ -132,65 +302,11 @@
 &lt;/ul&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/14130</id>
-    <published>2012-09-14T00:00:00+01:00</published>
-    <updated>2012-09-14T00:00:00+01:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/approved-driving-instructor-theory-test-operational-statistics"/>
-    <title>Approved driving instructor theory test operational statistics</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="about-these-statistics"&gt;About these statistics&lt;/h2&gt;
-
-&lt;p&gt;These operational statistics about car driving theory test show pass rate information for each theory test centre.&lt;/p&gt;
-
-&lt;p&gt;The statistics show information which has not been designated as an official statistic.&lt;/p&gt;
-
-&lt;p&gt;The statistics come from data held by the Driving Standards Agency (DSA), and are compiled and published by staff in DSA.&lt;/p&gt;
-
-&lt;h2 id="information-you-cannot-find"&gt;Information you cannot find&lt;/h2&gt;
-&lt;p&gt;If you cannot find the information you need, it may have been:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;published in &lt;a href="/government/publications?utf8=%E2%9C%93&amp;amp;topics%5B%5D=all&amp;amp;departments%5B%5D=driving-standards-agency&amp;amp;publication_type=foi-releases" title="Responses to FOI requests"&gt;response to an Freedom of Information (FOI) request&lt;/a&gt;
-&lt;/li&gt;
-  &lt;li&gt;designated as an &lt;a href="/government/organisations/department-for-transport/series/driving-tests-and-instructors-statistics" title="Official driving test statistics"&gt;official statistic&lt;/a&gt;
-&lt;/li&gt;
-&lt;/ul&gt;&lt;p&gt;You can &lt;a rel="external" href="https://www.dft.gov.uk/foi/form/" title="Send an FOI request"&gt;send an FOI request&lt;/a&gt; if you still cannot find the information you need.&lt;/p&gt;
-
-&lt;h2 id="information-that-cannot-be-released"&gt;Information that cannot be released&lt;/h2&gt;
-&lt;p&gt;DSA cannot send you information if it is part of an official statistic that has not yet been published. This is because the &lt;a rel="external" href="http://www.legislation.gov.uk/uksi/2008/2998/contents/made" title="Pre-release Access to Official Statistics Order 2008"&gt;Pre-release Access to Official Statistics Order 2008&lt;/a&gt; limits access to official statistics until they are published.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/14125</id>
     <published>2012-09-14T00:00:00+01:00</published>
     <updated>2012-09-14T00:00:00+01:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/car-driving-theory-test-operational-statistics"/>
     <title>Car driving theory test operational statistics</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="about-these-statistics"&gt;About these statistics&lt;/h2&gt;
-
-&lt;p&gt;These operational statistics about car driving theory test show pass rate information for each theory test centre.&lt;/p&gt;
-
-&lt;p&gt;The statistics show information which has not been designated as an official statistic.&lt;/p&gt;
-
-&lt;p&gt;The statistics come from data held by the Driving Standards Agency (DSA), and are compiled and published by staff in DSA.&lt;/p&gt;
-
-&lt;h2 id="information-you-cannot-find"&gt;Information you cannot find&lt;/h2&gt;
-&lt;p&gt;If you cannot find the information you need, it may have been:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;published in &lt;a href="/government/publications?utf8=%E2%9C%93&amp;amp;topics%5B%5D=all&amp;amp;departments%5B%5D=driving-standards-agency&amp;amp;publication_type=foi-releases" title="Responses to FOI requests"&gt;response to an Freedom of Information (FOI) request&lt;/a&gt;
-&lt;/li&gt;
-  &lt;li&gt;designated as an &lt;a href="/government/organisations/department-for-transport/series/driving-tests-and-instructors-statistics" title="Official driving test statistics"&gt;official statistic&lt;/a&gt;
-&lt;/li&gt;
-&lt;/ul&gt;&lt;p&gt;You can &lt;a rel="external" href="https://www.dft.gov.uk/foi/form/" title="Send an FOI request"&gt;send an FOI request&lt;/a&gt; if you still cannot find the information you need.&lt;/p&gt;
-
-&lt;h2 id="information-that-cannot-be-released"&gt;Information that cannot be released&lt;/h2&gt;
-&lt;p&gt;DSA cannot send you information if it is part of an official statistic that has not yet been published. This is because the &lt;a rel="external" href="http://www.legislation.gov.uk/uksi/2008/2998/contents/made" title="Pre-release Access to Official Statistics Order 2008"&gt;Pre-release Access to Official Statistics Order 2008&lt;/a&gt; limits access to official statistics until they are published.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/13221</id>
-    <published>2012-09-14T00:00:00+01:00</published>
-    <updated>2012-09-14T00:00:00+01:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/operational-driving-theory-test-statistics"/>
-    <title>Operational driving theory test statistics</title>
     <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="about-these-statistics"&gt;About these statistics&lt;/h2&gt;
 
 &lt;p&gt;These operational statistics about car driving theory test show pass rate information for each theory test centre.&lt;/p&gt;
@@ -240,6 +356,33 @@
 &lt;p&gt;DSA cannot send you information if it is part of an official statistic that has not yet been published. This is because the &lt;a rel="external" href="http://www.legislation.gov.uk/uksi/2008/2998/contents/made" title="Pre-release Access to Official Statistics Order 2008"&gt;Pre-release Access to Official Statistics Order 2008&lt;/a&gt; limits access to official statistics until they are published.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/14128</id>
+    <published>2012-09-14T00:00:00+01:00</published>
+    <updated>2012-09-14T00:00:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/large-goods-vehicle-driving-theory-test-operational-statistics"/>
+    <title>Large goods vehicle driving theory test operational statistics  </title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="about-these-statistics"&gt;About these statistics&lt;/h2&gt;
+
+&lt;p&gt;These operational statistics about large goods vehicle driving theory test show pass rate information for each theory test centre.&lt;/p&gt;
+
+&lt;p&gt;The statistics show information which has not been designated as an official statistic.&lt;/p&gt;
+
+&lt;p&gt;The statistics come from data held by the Driving Standards Agency (DSA), and are compiled and published by staff in DSA.&lt;/p&gt;
+
+&lt;h2 id="information-you-cannot-find"&gt;Information you cannot find&lt;/h2&gt;
+&lt;p&gt;If you cannot find the information you need, it may have been:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;published in &lt;a href="/government/publications?utf8=%E2%9C%93&amp;amp;topics%5B%5D=all&amp;amp;departments%5B%5D=driving-standards-agency&amp;amp;publication_type=foi-releases" title="Responses to FOI requests"&gt;response to an Freedom of Information (FOI) request&lt;/a&gt;
+&lt;/li&gt;
+  &lt;li&gt;designated as an &lt;a href="/government/organisations/department-for-transport/series/driving-tests-and-instructors-statistics" title="Official driving test statistics"&gt;official statistic&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;You can &lt;a rel="external" href="https://www.dft.gov.uk/foi/form/" title="Send an FOI request"&gt;send an FOI request&lt;/a&gt; if you still cannot find the information you need.&lt;/p&gt;
+
+&lt;h2 id="information-that-cannot-be-released"&gt;Information that cannot be released&lt;/h2&gt;
+&lt;p&gt;DSA cannot send you information if it is part of an official statistic that has not yet been published. This is because the &lt;a rel="external" href="http://www.legislation.gov.uk/uksi/2008/2998/contents/made" title="Pre-release Access to Official Statistics Order 2008"&gt;Pre-release Access to Official Statistics Order 2008&lt;/a&gt; limits access to official statistics until they are published.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/14129</id>
     <published>2012-09-14T00:00:00+01:00</published>
     <updated>2012-09-14T00:00:00+01:00</updated>
@@ -267,14 +410,41 @@
 &lt;p&gt;DSA cannot send you information if it is part of an official statistic that has not yet been published. This is because the &lt;a rel="external" href="http://www.legislation.gov.uk/uksi/2008/2998/contents/made" title="Pre-release Access to Official Statistics Order 2008"&gt;Pre-release Access to Official Statistics Order 2008&lt;/a&gt; limits access to official statistics until they are published.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/14128</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/13221</id>
     <published>2012-09-14T00:00:00+01:00</published>
     <updated>2012-09-14T00:00:00+01:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/large-goods-vehicle-driving-theory-test-operational-statistics"/>
-    <title>Large goods vehicle driving theory test operational statistics  </title>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/operational-driving-theory-test-statistics"/>
+    <title>Operational driving theory test statistics</title>
     <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="about-these-statistics"&gt;About these statistics&lt;/h2&gt;
 
-&lt;p&gt;These operational statistics about large goods vehicle driving theory test show pass rate information for each theory test centre.&lt;/p&gt;
+&lt;p&gt;These operational statistics about car driving theory test show pass rate information for each theory test centre.&lt;/p&gt;
+
+&lt;p&gt;The statistics show information which has not been designated as an official statistic.&lt;/p&gt;
+
+&lt;p&gt;The statistics come from data held by the Driving Standards Agency (DSA), and are compiled and published by staff in DSA.&lt;/p&gt;
+
+&lt;h2 id="information-you-cannot-find"&gt;Information you cannot find&lt;/h2&gt;
+&lt;p&gt;If you cannot find the information you need, it may have been:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;published in &lt;a href="/government/publications?utf8=%E2%9C%93&amp;amp;topics%5B%5D=all&amp;amp;departments%5B%5D=driving-standards-agency&amp;amp;publication_type=foi-releases" title="Responses to FOI requests"&gt;response to an Freedom of Information (FOI) request&lt;/a&gt;
+&lt;/li&gt;
+  &lt;li&gt;designated as an &lt;a href="/government/organisations/department-for-transport/series/driving-tests-and-instructors-statistics" title="Official driving test statistics"&gt;official statistic&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;You can &lt;a rel="external" href="https://www.dft.gov.uk/foi/form/" title="Send an FOI request"&gt;send an FOI request&lt;/a&gt; if you still cannot find the information you need.&lt;/p&gt;
+
+&lt;h2 id="information-that-cannot-be-released"&gt;Information that cannot be released&lt;/h2&gt;
+&lt;p&gt;DSA cannot send you information if it is part of an official statistic that has not yet been published. This is because the &lt;a rel="external" href="http://www.legislation.gov.uk/uksi/2008/2998/contents/made" title="Pre-release Access to Official Statistics Order 2008"&gt;Pre-release Access to Official Statistics Order 2008&lt;/a&gt; limits access to official statistics until they are published.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/14130</id>
+    <published>2012-09-14T00:00:00+01:00</published>
+    <updated>2012-09-14T00:00:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/approved-driving-instructor-theory-test-operational-statistics"/>
+    <title>Approved driving instructor theory test operational statistics</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="about-these-statistics"&gt;About these statistics&lt;/h2&gt;
+
+&lt;p&gt;These operational statistics about car driving theory test show pass rate information for each theory test centre.&lt;/p&gt;
 
 &lt;p&gt;The statistics show information which has not been designated as an official statistic.&lt;/p&gt;
 
@@ -377,113 +547,5 @@
 &lt;li&gt;&lt;a href="mailto:subnational.stats@dft.gsi.gov.uk"&gt;subnational.stats@dft.gsi.gov.uk&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Phone: 020 7944 6104&lt;/li&gt;
 &lt;/ul&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/11630</id>
-    <published>2012-08-23T00:00:00+01:00</published>
-    <updated>2012-08-23T00:00:00+01:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/code-for-sustainable-homes-and-energy-performance-of-buildings-data-england-wales-and-northern-ireland-up-to-end-of-june-2012"/>
-    <title>Code for sustainable homes and energy performance of buildings data: England, Wales and Northern Ireland up to end of June 2012</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The latest official statistics on the Code for Sustainable Homes and Average Energy Efficiency (SAP ratings) were released on 23 August 2012.&lt;/p&gt;
-
-&lt;p&gt;Statistics in this release relating to the Code for Sustainable Homes show the number of dwellings that have been certified to the standards set out in the Code Technical Guide.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/15879</id>
-    <published>2012-08-16T00:00:00+01:00</published>
-    <updated>2012-08-16T00:00:00+01:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/homelessness-prevention-and-relief-england-2011-to-2012"/>
-    <title>Homelessness prevention and relief: England 2011 to 2012</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This is an official statistics release on homelessness prevention and relief in England that took place outside the homelessness statutory framework in 2011 to 2012. This is the 4th year for which figures on homelessness prevention and relief have been published by the Department for Communities and Local Government under arrangements approved by the UK Statistics Authority.&lt;/p&gt;
-
-&lt;p&gt;Although the previous three releases were badged as ‘experimental’ official statistics in recognition that this is a relatively new data series, DCLG statisticians judge that the response rates and the quality of the figures received for 2011-12 have now improved enough for the ‘experimental’ label to now be removed.&lt;/p&gt;
-
-&lt;p&gt;The key points from the latest release are:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;in 2011-12, a total of 199,000 cases of homelessness prevention or relief are estimated to have taken place outside the statutory homelessness framework in England. Of these cases, 174,800 (88 per cent) were preventions and 24,200 (12 per cent) were cases of relief&lt;/li&gt;
-  &lt;li&gt;the total number of cases of homelessness prevention or relief increased by 5 per cent when compared to 2010-11. This is due to prevention cases increasing by 7 per cent, whilst cases of relief decreased by 2 per cent&lt;/li&gt;
-  &lt;li&gt;in 2011-12, 57 per cent of cases of homelessness prevention and relief involved the household being assisted to obtain alternative accommodation. The remaining 43 per cent involved the cases being assisted to remain in their existing home. This has not changed since 2010-11.&lt;/li&gt;
-  &lt;li&gt;the most common action taken to prevent or relieve homelessness was the use of landlord incentive schemes to secure private rented sector accommodation. In 2011-12, 27,600 cases (14 per cent) were assisted in obtaining alternative accommodation this way, though this was a decrease of 10 per cent compared to 2010-11&lt;/li&gt;
-  &lt;li&gt;the amount of homelessness prevention and relief activity varied across the regions. The North East had the highest rate of cases of prevention and relief with 11.8 cases per 1,000 households. The West Midlands (11.7 cases per 1,000 households), Yorkshire and the Humber (11.5) and the East Midlands (10.8) also had high rates of prevention and relief. The East of England, with 6.8 cases per 1,000 households, had the lowest rate.&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/14102</id>
-    <published>2012-08-16T00:00:00+01:00</published>
-    <updated>2012-08-16T00:00:00+01:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/passenger-carrying-vehicle-practical-driving-test-operational-statistics"/>
-    <title>Passenger carrying vehicle practical driving test operational statistics</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="about-these-statistics"&gt;About these statistics&lt;/h2&gt;
-&lt;p&gt;These operational statistics about passenger carrying vehicle practical driving tests show pass rate information for each driving test centre.&lt;/p&gt;
-
-&lt;p&gt;The statistics show information which has not been designated as an official statistic.&lt;/p&gt;
-
-&lt;p&gt;The statistics come from data held by the Driving Standards Agency (&lt;abbr title="Driving Standards Agency"&gt;DSA&lt;/abbr&gt;), and are compiled and published by staff in &lt;abbr title="Driving Standards Agency"&gt;DSA&lt;/abbr&gt;.&lt;/p&gt;
-
-&lt;h2 id="information-you-cannot-find"&gt;Information you cannot find&lt;/h2&gt;
-&lt;p&gt;If you cannot find the information you need, it may have been:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;published in &lt;a href="/government/publications?utf8=%E2%9C%93&amp;amp;topics%5B%5D=all&amp;amp;departments%5B%5D=driving-standards-agency&amp;amp;publication_type=foi-releases" title="Responses to FOI requests"&gt;response to an Freedom of Information (&lt;abbr title="Freedom of Information"&gt;FOI&lt;/abbr&gt;) request&lt;/a&gt;
-&lt;/li&gt;
-  &lt;li&gt;designated as an &lt;a href="/government/organisations/department-for-transport/series/driving-tests-and-instructors-statistics" title="Official driving test statistics"&gt;official statistic&lt;/a&gt;
-&lt;/li&gt;
-&lt;/ul&gt;&lt;p&gt;You can &lt;a rel="external" href="https://www.dft.gov.uk/foi/form/" title="Send an FOI request"&gt;send an &lt;abbr title="Freedom of Information"&gt;FOI&lt;/abbr&gt; request&lt;/a&gt; if you still cannot find the information you need.&lt;/p&gt;
-
-&lt;h2 id="information-that-cannot-be-released"&gt;Information that cannot be released&lt;/h2&gt;
-&lt;p&gt;&lt;abbr title="Driving Standards Agency"&gt;DSA&lt;/abbr&gt; cannot send you information if it is part of an official statistic that has not yet been published. This is because the &lt;a rel="external" href="http://www.legislation.gov.uk/uksi/2008/2998/contents/made" title="Pre-release Access to Official Statistics Order 2008"&gt;Pre-release Access to Official Statistics Order 2008&lt;/a&gt; limits access to official statistics until they are published.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/14104</id>
-    <published>2012-08-16T00:00:00+01:00</published>
-    <updated>2012-08-16T00:00:00+01:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/large-goods-vehicle-practical-driving-test-operational-statistics"/>
-    <title>Large goods vehicle practical driving test operational statistics</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="about-these-statistics"&gt;About these statistics&lt;/h2&gt;
-&lt;p&gt;These operational statistics about large goods vehicle practical driving tests show pass rate information for each driving test centre.&lt;/p&gt;
-
-&lt;p&gt;The statistics show information which has not been designated as an official statistic.&lt;/p&gt;
-
-&lt;p&gt;The statistics come from data held by the Driving Standards Agency (&lt;abbr title="Driving Standards Agency"&gt;DSA&lt;/abbr&gt;), and are compiled and published by staff in &lt;abbr title="Driving Standards Agency"&gt;DSA&lt;/abbr&gt;.&lt;/p&gt;
-
-&lt;h2 id="information-you-cannot-find"&gt;Information you cannot find&lt;/h2&gt;
-&lt;p&gt;If you cannot find the information you need, it may have been:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;published in &lt;a href="/government/publications?utf8=%E2%9C%93&amp;amp;topics%5B%5D=all&amp;amp;departments%5B%5D=driving-standards-agency&amp;amp;publication_type=foi-releases" title="Responses to FOI requests"&gt;response to an Freedom of Information (&lt;abbr title="Freedom of Information"&gt;FOI&lt;/abbr&gt;) request&lt;/a&gt;
-&lt;/li&gt;
-  &lt;li&gt;designated as an &lt;a href="/government/organisations/department-for-transport/series/driving-tests-and-instructors-statistics" title="Official driving test statistics"&gt;official statistic&lt;/a&gt;
-&lt;/li&gt;
-&lt;/ul&gt;&lt;p&gt;You can &lt;a rel="external" href="https://www.dft.gov.uk/foi/form/" title="Send an FOI request"&gt;send an &lt;abbr title="Freedom of Information"&gt;FOI&lt;/abbr&gt; request&lt;/a&gt; if you still cannot find the information you need.&lt;/p&gt;
-
-&lt;h2 id="information-that-cannot-be-released"&gt;Information that cannot be released&lt;/h2&gt;
-&lt;p&gt;&lt;abbr title="Driving Standards Agency"&gt;DSA&lt;/abbr&gt; cannot send you information if it is part of an official statistic that has not yet been published. This is because the &lt;a rel="external" href="http://www.legislation.gov.uk/uksi/2008/2998/contents/made" title="Pre-release Access to Official Statistics Order 2008"&gt;Pre-release Access to Official Statistics Order 2008&lt;/a&gt; limits access to official statistics until they are published.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/14105</id>
-    <published>2012-08-16T00:00:00+01:00</published>
-    <updated>2012-08-16T00:00:00+01:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/motorcycle-practical-riding-test-operational-statistics"/>
-    <title>Motorcycle practical riding test operational statistics</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="about-these-statistics"&gt;About these statistics&lt;/h2&gt;
-&lt;p&gt;These operational statistics about motorcycle practical riding tests show pass rate information for each driving test centre.&lt;/p&gt;
-
-&lt;p&gt;The statistics show information which has not been designated as an official statistic.&lt;/p&gt;
-
-&lt;p&gt;The statistics come from data held by the Driving Standards Agency (&lt;abbr title="Driving Standards Agency"&gt;DSA&lt;/abbr&gt;), and are compiled and published by staff in &lt;abbr title="Driving Standards Agency"&gt;DSA&lt;/abbr&gt;.&lt;/p&gt;
-
-&lt;h2 id="information-you-cannot-find"&gt;Information you cannot find&lt;/h2&gt;
-&lt;p&gt;If you cannot find the information you need, it may have been:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;published in &lt;a href="/government/publications?utf8=%E2%9C%93&amp;amp;topics%5B%5D=all&amp;amp;departments%5B%5D=driving-standards-agency&amp;amp;publication_type=foi-releases" title="Responses to FOI requests"&gt;response to an Freedom of Information (&lt;abbr title="Freedom of Information"&gt;FOI&lt;/abbr&gt;) request&lt;/a&gt;
-&lt;/li&gt;
-  &lt;li&gt;designated as an &lt;a href="/government/organisations/department-for-transport/series/driving-tests-and-instructors-statistics" title="Official driving test statistics"&gt;official statistic&lt;/a&gt;
-&lt;/li&gt;
-&lt;/ul&gt;&lt;p&gt;You can &lt;a rel="external" href="https://www.dft.gov.uk/foi/form/" title="Send an FOI request"&gt;send an &lt;abbr title="Freedom of Information"&gt;FOI&lt;/abbr&gt; request&lt;/a&gt; if you still cannot find the information you need.&lt;/p&gt;
-
-&lt;h2 id="information-that-cannot-be-released"&gt;Information that cannot be released&lt;/h2&gt;
-&lt;p&gt;&lt;abbr title="Driving Standards Agency"&gt;DSA&lt;/abbr&gt; cannot send you information if it is part of an official statistic that has not yet been published. This is because the &lt;a rel="external" href="http://www.legislation.gov.uk/uksi/2008/2998/contents/made" title="Pre-release Access to Official Statistics Order 2008"&gt;Pre-release Access to Official Statistics Order 2008&lt;/a&gt; limits access to official statistics until they are published.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
 </feed>
