@@ -10,7 +10,7 @@
   </author>
   <updated>2012-10-11T00:00:00+01:00</updated>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/15699</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/16311</id>
     <published>2012-10-11T00:00:00+01:00</published>
     <updated>2012-10-11T00:00:00+01:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/bus-passenger-journeys"/>
@@ -26,6 +26,8 @@
 &lt;ul&gt;
 &lt;li&gt;In quarter 2 (April-June) 2012, there were 1.15 billion passenger journeys on local buses in England.&lt;/li&gt;
 &lt;/ul&gt;&lt;p&gt;Most recent data table.&lt;/p&gt;
+
+&lt;p&gt;&lt;a rel="external" href="http://charts.dft.gov.uk/dft-business-plan/indicators/#10"&gt;Click here to view this data in an interactive chart&lt;/a&gt;&lt;/p&gt;
 
 &lt;table&gt;
 &lt;thead&gt;&lt;tr&gt;
@@ -79,7 +81,7 @@
 &lt;/ul&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/15707</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/16312</id>
     <published>2012-10-11T00:00:00+01:00</published>
     <updated>2012-10-11T00:00:00+01:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/rail-passenger-miles"/>
@@ -95,6 +97,8 @@
 &lt;ul&gt;
 &lt;li&gt;Passengers travelled 8.9 billion miles by rail in the first quarter of 2012-13, an increase of 3% when compared to the same quarter in 2011-12. These figures are for franchised operators only, so exclude travel with non-franchised operators, such as Grand Central, Heathrow Express and Hull Trains.&lt;/li&gt;
 &lt;/ul&gt;&lt;p&gt;Public Performance Measure (&lt;abbr title="Public Performance Measure"&gt;PPM&lt;/abbr&gt;) for DfT franchised Train Operating Companies&lt;/p&gt;
+
+&lt;p&gt;&lt;a rel="external" href="http://charts.dft.gov.uk/dft-business-plan/indicators/#11"&gt;Click here to view this data in an interactive chart&lt;/a&gt;&lt;/p&gt;
 
 &lt;table&gt;
 &lt;thead&gt;&lt;tr&gt;
@@ -188,7 +192,7 @@
 &lt;/ul&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/14754</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/16301</id>
     <published>2012-09-13T00:00:00+01:00</published>
     <updated>2012-09-13T00:00:00+01:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/reliability-of-journeys-on-the-highways-agency-s-motorway-and-a-road-network"/>
@@ -203,51 +207,19 @@
 &lt;ul&gt;
 &lt;li&gt;Provisional data show that 82.6 per cent of journeys made on Highways Agency managed roads between October 2011 and September 2012 were ‘on time’. This is 0.3 percentage points lower than the previous rolling year, ending in August 2012.&lt;/li&gt;
   &lt;li&gt;During September 2012, provisional data show that 80.5 per cent of journeys on Highways Agency’s motorway and ‘A’ road network were ‘on time’. This is 3.5 percentage points lower than the equivalent figure for September 2011.&lt;/li&gt;
-  &lt;li&gt;The annual reliability measure consistently increased up to March 2012, but has fallen in the last six months, and is now similar to the level observed towards the end of 2011. The recent downward trend in reliability reflects the substantial amount of rainfall experienced since spring compared with the same period in 2011. In September 2012, rainfall in England was around 26 per cent higher than average, compared to 22 per cent lower than average in September 2011.
-Percentage of journeys on Highways Agency motorways and A roads deemed ‘on time’: monthly from June 2012&lt;/li&gt;
-&lt;/ul&gt;&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Percentage of journeys ‘on time’&lt;/th&gt;
-      &lt;th&gt; &lt;/th&gt;
-      &lt;th&gt; &lt;/th&gt;
-      &lt;th&gt; &lt;/th&gt;
-    &lt;/tr&gt;
-&lt;tr&gt;
-&lt;th&gt; &lt;/th&gt;
-      &lt;th&gt;Year ending&lt;/th&gt;
-      &lt;th&gt;Month&lt;/th&gt;
-      &lt;th&gt;Year ending percentage points change&lt;/th&gt;
-    &lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;June 2012&lt;/td&gt;
-      &lt;td&gt;83.3&lt;/td&gt;
-      &lt;td&gt;82.3&lt;/td&gt;
-      &lt;td&gt;-0.2&lt;/td&gt;
-    &lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;July 2012&lt;/td&gt;
-      &lt;td&gt;83.0&lt;/td&gt;
-      &lt;td&gt;81.8&lt;/td&gt;
-      &lt;td&gt;-0.2&lt;/td&gt;
-    &lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;August 2012&lt;/td&gt;
-      &lt;td&gt;82.9&lt;/td&gt;
-      &lt;td&gt;81.9&lt;/td&gt;
-      &lt;td&gt;-0.1&lt;/td&gt;
-    &lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;September 2012&lt;sup&gt;P&lt;/sup&gt;
-&lt;/td&gt;
-      &lt;td&gt;82.6&lt;/td&gt;
-      &lt;td&gt;80..5&lt;/td&gt;
-      &lt;td&gt;-0.3&lt;/td&gt;
-    &lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;&lt;p&gt;Source: Highways Agency Traffic Information System (HATRIS) Database&lt;/p&gt;
+  &lt;li&gt;The annual reliability measure consistently increased up to March 2012, but has fallen in the last six months, and is now similar to the level observed towards the end of 2011. The recent downward trend in reliability reflects the substantial amount of rainfall experienced since spring compared with the same period in 2011. In September 2012, rainfall in England was around 26 per cent higher than average, compared to 22 per cent lower than average in September 2011.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;a rel="external" href="http://charts.dft.gov.uk/dft-business-plan/indicators/#01"&gt;Click here to view this data in an interactive chart&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Percentage of journeys on Highways Agency motorways and A roads deemed ‘on time’: monthly from June 2012
+| Percentage of journeys ‘on time’ |  |  |  |
+|  | Year ending | Month | Year ending percentage points change |
+|——–|——-|——-|——-|
+| June 2012 | 83.3 | 82.3 | -0.2 |
+| July 2012 | 83.0 | 81.8 | -0.2 |
+| August 2012| 82.9 | 81.9 | -0.1 |
+| September 2012&lt;sup&gt;P&lt;/sup&gt; | 82.6 | 80..5 | -0.3 |&lt;/p&gt;
+
+&lt;p&gt;Source: Highways Agency Traffic Information System (HATRIS) Database&lt;/p&gt;
 
 &lt;p&gt;&lt;sup&gt;P&lt;/sup&gt; = provisional&lt;/p&gt;
 
@@ -285,7 +257,7 @@ Percentage of journeys on Highways Agency motorways and A roads deemed ‘on tim
 &lt;/ul&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/14489</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/16300</id>
     <published>2012-06-15T00:00:00+01:00</published>
     <updated>2012-06-15T00:00:00+01:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/proportion-of-trains-running-on-time"/>
@@ -299,6 +271,8 @@ Percentage of journeys on Highways Agency motorways and A roads deemed ‘on tim
 &lt;h2 id="latest-data"&gt;Latest data&lt;/h2&gt;
 
 &lt;p&gt;92.3% of trains arrived on time between 16 September 2012 and 13 October 2012 in Great Britain, an increase from 91.5% for the same period last year (GB total). The GB average headline figure incorporates Public Performance Measure (&lt;abbr title="Public Performance Measure"&gt;PPM&lt;/abbr&gt;) averages for operators franchised by devolved administrations (Arriva Trains Wales, First Scotrail, London Overground and Merseyrail), and non-franchised operators (Grand Central, Heathrow Express and Hull Trains), however, the following table covers only DfT franchised operators.&lt;/p&gt;
+
+&lt;p&gt;&lt;a rel="external" href="http://charts.dft.gov.uk/dft-business-plan/indicators/#02"&gt;Click here to view this data in an interactive chart&lt;/a&gt;&lt;/p&gt;
 
 &lt;h3 id="public-performance-measure-ppm-for-dft-franchised-train-operating-companiessup1sup"&gt;Public Performance Measure (&lt;abbr title="Public Performance Measure"&gt;PPM&lt;/abbr&gt;) for DfT franchised Train Operating Companies&lt;sup&gt;1&lt;/sup&gt;
 &lt;/h3&gt;
@@ -470,7 +444,7 @@ Period 7 2012/13 ran from 16 September 2012 to 13 October 2012. &lt;/p&gt;
 &lt;/ul&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/14763</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/16303</id>
     <published>2012-05-23T00:00:00+01:00</published>
     <updated>2012-05-23T00:00:00+01:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/proportion-of-bus-services-running-on-time"/>
@@ -480,6 +454,8 @@ Period 7 2012/13 ran from 16 September 2012 to 13 October 2012. &lt;/p&gt;
 &lt;h3 id="geographical-coverage-england"&gt;Geographical coverage: England&lt;/h3&gt;
 
 &lt;h3 id="information-broken-down-by-local-authority"&gt;Information broken down by: Local authority&lt;/h3&gt;
+
+&lt;p&gt;&lt;a rel="external" href="http://charts.dft.gov.uk/dft-business-plan/indicators/#03"&gt;Click here to view this data in an interactive chart&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id="latest-data"&gt;Latest data&lt;/h2&gt;
 
@@ -538,7 +514,7 @@ Period 7 2012/13 ran from 16 September 2012 to 13 October 2012. &lt;/p&gt;
 &lt;/ul&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/15681</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/16310</id>
     <published>2011-10-31T00:00:00+00:00</published>
     <updated>2011-10-31T00:00:00+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/cost-of-running-the-rail-network"/>
@@ -552,6 +528,8 @@ Period 7 2012/13 ran from 16 September 2012 to 13 October 2012. &lt;/p&gt;
 &lt;h2 id="latest-data"&gt;Latest data&lt;/h2&gt;
 
 &lt;p&gt;The costs of running the passenger rail network by DfT franchised train operating companies are shown below.&lt;/p&gt;
+
+&lt;p&gt;&lt;a rel="external" href="http://charts.dft.gov.uk/dft-business-plan/indicators/#09"&gt;Click here to view this data in an interactive chart&lt;/a&gt;&lt;/p&gt;
 
 &lt;table&gt;
 &lt;thead&gt;
@@ -703,7 +681,7 @@ Period 7 2012/13 ran from 16 September 2012 to 13 October 2012. &lt;/p&gt;
 &lt;/ul&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/15668</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/16309</id>
     <published>2011-10-21T00:00:00+01:00</published>
     <updated>2011-10-21T00:00:00+01:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/bus-subsidy-per-passenger-journey"/>
@@ -718,7 +696,9 @@ Period 7 2012/13 ran from 16 September 2012 to 13 October 2012. &lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;In 2010/11, the average level of subsidy (direct from central government) per passenger journey was 9.1 pence&lt;/li&gt;
-&lt;/ul&gt;&lt;table&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;a rel="external" href="http://charts.dft.gov.uk/dft-business-plan/indicators/#08"&gt;Click here to view this data in an interactive chart&lt;/a&gt;&lt;/p&gt;
+
+&lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th&gt;Most recent data&lt;/th&gt;
@@ -839,7 +819,7 @@ national.travelsurvey@dft.gsi.gov.uk&lt;/a&gt; or telephone 020 7944 3097&lt;/li
 &lt;/ul&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/14771</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/16306</id>
     <published>2011-06-30T00:00:00+01:00</published>
     <updated>2011-06-30T00:00:00+01:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/annual-road-fatalities"/>
@@ -856,7 +836,9 @@ national.travelsurvey@dft.gsi.gov.uk&lt;/a&gt; or telephone 020 7944 3097&lt;/li
 &lt;li&gt;In 2011, 1,901 people were killed, 3% (51) greater than in 2010; the number of fatalities increased for pedestrians, and car occupants, by 12% and 6% respectively, but decreased for pedal cyclists and motorcyclists, by 4% and 10% respectively; over the same period motor vehicle traffic remained broadly stable - compared with the 2005-9 average, the number killed in 2011 was 32% lower&lt;/li&gt;
   &lt;li&gt;2011 saw the first annual increase in fatalities since 2003, but this year’s figure remains below the 2009 figure of 2,222; adverse weather (heavy snow falls) experienced in the first and last quarters of 2010 but not in 2011 are likely to be a factor in the increase in fatalities recorded in 2011&lt;/li&gt;
   &lt;li&gt;For reported road accidents in year-ending March 2012; there were 1,870 road fatalities, a 1% drop from the year-ending March 2011 figure of 1,881&lt;/li&gt;
-&lt;/ul&gt;&lt;table&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;a rel="external" href="http://charts.dft.gov.uk/dft-business-plan/indicators/#05"&gt;Click here to view this data in an interactive chart&lt;/a&gt;&lt;/p&gt;
+
+&lt;table&gt;
 &lt;thead&gt;&lt;tr&gt;
 &lt;th&gt;Year&lt;/th&gt;
       &lt;th&gt;Road accident fatalities&lt;/th&gt;
@@ -1086,7 +1068,7 @@ national.travelsurvey@dft.gsi.gov.uk&lt;/a&gt; or telephone 020 7944 3097&lt;/li
 &lt;/ul&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/15665</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/16308</id>
     <published>2011-05-13T00:00:00+01:00</published>
     <updated>2011-05-13T00:00:00+01:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/rail-subsidy-per-passenger-mile"/>
@@ -1109,6 +1091,8 @@ national.travelsurvey@dft.gsi.gov.uk&lt;/a&gt; or telephone 020 7944 3097&lt;/li
   &lt;li&gt;(b) an allocation of the Network Grant (that is, payments made directly to Network Rail)&lt;/li&gt;
   &lt;li&gt;this is calculated by taking the total network grant, apportioned according to each franchise’s share of fixed track access charges&lt;/li&gt;
 &lt;/ul&gt;&lt;p&gt;Rail subsidy per passenger mile by Train Operating Company (TOC)&lt;sup&gt;1&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a rel="external" href="http://charts.dft.gov.uk/dft-business-plan/indicators/#07"&gt;Click here to view this data in an interactive chart&lt;/a&gt;&lt;/p&gt;
 
 &lt;table&gt;
 &lt;thead&gt;

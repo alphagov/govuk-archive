@@ -7,22 +7,30 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-11-15T00:00:00+00:00</updated>
+  <updated>2012-11-16T00:00:00+00:00</updated>
   <entry>
-    <id>tag:www.gov.uk,2005:Publication/16258</id>
-    <published>2012-11-15T00:00:00+00:00</published>
-    <updated>2012-11-15T09:29:50+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/right-to-buy-sales-in-england-2012-to-2013-quarters-1-and-2"/>
-    <title>Right to buy sales in England: 2012 to 2013 - quarters 1 and 2</title>
-    <summary>Total Right to Buy sales by quarter.</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This statistical release presents official statistics on the number of sales of dwellings under the right to buy scheme, as well as providing statistics on receipts resulting from those sales, and starts on site as part of the one-for-one replacements.&lt;/p&gt;
+    <id>tag:www.gov.uk,2005:Publication/16331</id>
+    <published>2012-11-16T00:00:00+00:00</published>
+    <updated>2012-11-16T09:30:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/affordable-housing-starts-and-completions-funded-by-the-hca-and-the-gla-april-to-september-2012-13"/>
+    <title>Affordable housing starts and completions funded by the HCA and the GLA - April to September 2012-13</title>
+    <summary>Starts and completions of affordable housing for England, bringing together those funded by the HCA and those funded by the GLA.</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The latest statistics on affordable housing starts and completions funded by the Homes and Communities Agency (HCA) and the Greater London Authority (GLA) were released on Friday 16 November 2012.&lt;/p&gt;
 
-&lt;p&gt;Key points from the release are:&lt;/p&gt;
+&lt;p&gt;The figures show the supply of homes delivered under the accelerated land disposal programme, the 2011-15 affordable homes programme (including the affordable homes programme, empty homes, homelessness change, mortgage rescue and traveller pitch funding), the economic assets programme, firstbuy, the get Britain building programme, the kickstart housing delivery programme, the national affordable housing programme and the property and regeneration programme. Details about these programmes can be found in the &lt;a rel="external" href="http://www.homesandcommunities.co.uk/housing-statistics"&gt;HCA Housing statistics release&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The key points were:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Local authorities sold an estimated 444 dwellings under the right to buy scheme in 2012-13 quarter 1. In this quarter local authorities received £24 million from right to buy sales, while 14 dwellings were started on site or acquired.&lt;/li&gt;
-  &lt;li&gt;Local authorities sold an estimated 1,043 dwellings under the right to buy scheme in 2012-13 quarter 2. In this quarter local authorities received £62 million from right to buy sales, while 234 dwellings were started on site or acquired.&lt;/li&gt;
-&lt;/ul&gt;&lt;p&gt;These statistics relate only to sales by local authorities under the right to buy scheme, excluding sales by registered providers under preserved right to buy.&lt;/p&gt;&lt;/div&gt;</content>
+&lt;li&gt;Between 1 April and 30 September 2012, there were 3,735 affordable housing starts on site delivered in England through programmes managed by the HCA and the GLA. This represents an increase of 678 per cent compared to the 480 (revised) started in the same period of the previous year.&lt;/li&gt;
+  &lt;li&gt;Between 1 April and 30 September 2012, there were 11,432 affordable housing completions delivered through programmes through programmes managed by the HCA and the GLA. This represents a decrease of 11 per cent compared to the 12,778 completed in the same period in the previous year.&lt;/li&gt;
+&lt;/ul&gt;&lt;h2 id="background"&gt;Background&lt;/h2&gt;
+
+&lt;p&gt;Information on the number of affordable homes delivered under the HCA affordable housing programmes is published twice a year. From April 2012, the Mayor of London has had strategic oversight of housing, regeneration and economic development in London. This means that the HCA no longer publish affordable housing starts and completions for London and this responsibility has been taken over by the GLA. DCLG combines data from the HCA and the GLA to publish six monthly affordable housing starts and completions delivered nationally under the affordable housing programmes of the HCA and GLA.&lt;/p&gt;
+
+&lt;p&gt;For more information about the HCA affordable housing statistics, see their &lt;a rel="external" href="http://www.homesandcommunities.co.uk/housing-statistics"&gt;website&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;For more information about the GLA affordable housing statistics, see their &lt;a rel="external" href="http://data.london.gov.uk/datastore/package/gla-affordable-housing-programme-outturn"&gt;website&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:Publication/16254</id>
@@ -44,6 +52,22 @@
   &lt;li&gt;Registered provider sales in 2011-12 included 140 properties sold through the right to acquire scheme (compared to 200 in 2010-11) and 40 through social homebuy (compared to 110 in 2010-11).&lt;/li&gt;
   &lt;li&gt;A further 3,320 sales (34% of total sales) were disposals of registered provider properties to the private sector. Other shared equity and outright sales of existing stock accounted for the remaining sales.&lt;/li&gt;
 &lt;/ul&gt;&lt;p&gt;These statistics relate to right to buy sales by local authorities and registered providers. The statistics include sales under the right to buy and preserved right to buy schemes.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:Publication/16258</id>
+    <published>2012-11-15T00:00:00+00:00</published>
+    <updated>2012-11-15T09:29:50+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/right-to-buy-sales-in-england-2012-to-2013-quarters-1-and-2"/>
+    <title>Right to buy sales in England: 2012 to 2013 - quarters 1 and 2</title>
+    <summary>Total Right to Buy sales by quarter.</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This statistical release presents official statistics on the number of sales of dwellings under the right to buy scheme, as well as providing statistics on receipts resulting from those sales, and starts on site as part of the one-for-one replacements.&lt;/p&gt;
+
+&lt;p&gt;Key points from the release are:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Local authorities sold an estimated 444 dwellings under the right to buy scheme in 2012-13 quarter 1. In this quarter local authorities received £24 million from right to buy sales, while 14 dwellings were started on site or acquired.&lt;/li&gt;
+  &lt;li&gt;Local authorities sold an estimated 1,043 dwellings under the right to buy scheme in 2012-13 quarter 2. In this quarter local authorities received £62 million from right to buy sales, while 234 dwellings were started on site or acquired.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;These statistics relate only to sales by local authorities under the right to buy scheme, excluding sales by registered providers under preserved right to buy.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:Publication/15967</id>
@@ -70,7 +94,7 @@
 &lt;/ul&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:Publication/14476</id>
+    <id>tag:www.gov.uk,2005:Publication/16273</id>
     <published>2012-11-12T00:00:00+00:00</published>
     <updated>2012-11-13T10:39:01+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/growth-and-infrastructure-bill-impact-assessment"/>
@@ -79,21 +103,6 @@
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The measures in the Growth and Infrastructure Bill will help to remove unnecessary bureaucracy that can hinder sustainable growth.&lt;/p&gt;
 
 &lt;p&gt;This impact assessment provides a statement of the impact that the Bill will have on businesses, local government and communities.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:Publication/15152</id>
-    <published>2012-11-09T00:00:00+00:00</published>
-    <updated>2012-11-13T13:52:56+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/changes-to-the-allocation-of-housing-and-homelessness-regulations"/>
-    <title>Changes to the Allocation of Housing and Homelessness Regulations</title>
-    <summary>Letter to local housing authorities about the Allocation of Housing and Homelessness Regulations which came into force on 8 November 2012.</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;&lt;a rel="external" href="http://www.legislation.gov.uk/uksi/2012/2588/made"&gt;The Allocation of Housing and Homelessness (Eligibility) (England) (Amendment) Regulations 2012&lt;/a&gt; came into force on 8 November 2012.&lt;/p&gt;
-
-&lt;p&gt;The regulations amend &lt;a rel="external" href="http://www.legislation.gov.uk/uksi/2006/1294/contents/made"&gt;The Allocation of Housing and Homelessness (Eligibility) (England) Regulations 2006&lt;/a&gt; in order to maintain the Government’s policy on eligibility for social hog and homelessness assistance in relation to non European Economic Area nationals.&lt;/p&gt;
-
-&lt;p&gt;&lt;abbr title="Department for Communities and Local Government"&gt;DCLG&lt;/abbr&gt; is making these amendments following a ruling in the Court of Justice of the European Union in the case of Zambrano (C-34/09).&lt;/p&gt;
-
-&lt;p&gt;The department wrote to chief housing officers about the new regulations on 17 October.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:NewsArticle/16022</id>
@@ -125,6 +134,21 @@
 &lt;p&gt;“For too long, councils have been restricted in the way they provided homeless assistance when good quality rented accommodation was available right on their doorstep. Today’s changes will lead to a fairer system.&lt;/p&gt;
 
 &lt;p&gt;“The safeguards we’ve put in place today will give vulnerable families the reassurance they need whether they’re housed in the private or social rented sector, and with new freedoms and flexibilities, councils can now fulfil their duty and provide a safe and secure roof for the people who need it most.”&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:Publication/15152</id>
+    <published>2012-11-09T00:00:00+00:00</published>
+    <updated>2012-11-13T13:52:56+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/changes-to-the-allocation-of-housing-and-homelessness-regulations"/>
+    <title>Changes to the Allocation of Housing and Homelessness Regulations</title>
+    <summary>Letter to local housing authorities about the Allocation of Housing and Homelessness Regulations which came into force on 8 November 2012.</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;&lt;a rel="external" href="http://www.legislation.gov.uk/uksi/2012/2588/made"&gt;The Allocation of Housing and Homelessness (Eligibility) (England) (Amendment) Regulations 2012&lt;/a&gt; came into force on 8 November 2012.&lt;/p&gt;
+
+&lt;p&gt;The regulations amend &lt;a rel="external" href="http://www.legislation.gov.uk/uksi/2006/1294/contents/made"&gt;The Allocation of Housing and Homelessness (Eligibility) (England) Regulations 2006&lt;/a&gt; in order to maintain the Government’s policy on eligibility for social hog and homelessness assistance in relation to non European Economic Area nationals.&lt;/p&gt;
+
+&lt;p&gt;&lt;abbr title="Department for Communities and Local Government"&gt;DCLG&lt;/abbr&gt; is making these amendments following a ruling in the Court of Justice of the European Union in the case of Zambrano (C-34/09).&lt;/p&gt;
+
+&lt;p&gt;The department wrote to chief housing officers about the new regulations on 17 October.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:Publication/13294</id>
@@ -273,55 +297,5 @@
 &lt;p&gt;We also work with the &lt;a rel="external" href="http://www.housing.org.uk/" title="National Housing Federation"&gt;National Housing Federation&lt;/a&gt; to develop and deliver policy on housing.&lt;/p&gt;
 
 &lt;p&gt;The &lt;a rel="external" href="http://www.homesandcommunities.co.uk/" title="Homes and Communities Agency"&gt;Homes and Communities Agency&lt;/a&gt; is the national housing and regeneration agency for England (other than in London). It plays an important role in increasing the supply of available homes, such as helping to bring empty homes and surplus public sector land back into use.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:Policy/14076</id>
-    <published>2012-11-07T17:06:05+00:00</published>
-    <updated>2012-11-07T17:06:05+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/policies/helping-people-to-buy-a-home"/>
-    <title>Helping people to buy a home</title>
-    <summary>We're helping people who want to own their own home through schemes like Right to Buy, FirstBuy and NewBuy, and encouraging self-builders.</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="issue"&gt;Issue&lt;/h2&gt;
-&lt;p&gt;Surveys and research consistently show that most people want to own their own home. But with house prices rising rapidly in the 10 years from 1997, many potential first-time buyers have not been able to afford it. &lt;/p&gt;
-
-&lt;p&gt;Many people have also found it even harder recently to pay the high deposits needed for a mortgage.&lt;/p&gt;
-
-&lt;h2 id="actions"&gt;Actions&lt;/h2&gt;
-
-&lt;h3 id="right-to-buy"&gt;Right to Buy&lt;/h3&gt;
-&lt;p&gt;We’re encouraging more tenants to exercise their &lt;a href="https://www.gov.uk/government/policies/helping-people-to-buy-a-home/supporting-pages/right-to-buy" title="Right to Buy"&gt;Right to Buy&lt;/a&gt; their council house by increasing the maximum discount that buyers can get off the market value of their home to £75,000.  &lt;/p&gt;
-
-&lt;h3 id="first-time-buyers"&gt;First-time buyers&lt;/h3&gt;
-&lt;p&gt;We’ve introduced &lt;a href="https://www.gov.uk/government/policies/helping-people-to-buy-a-home/supporting-pages/help-for-first-time-buyers" title="Help for first-time buyers"&gt;schemes that provide financial help to first-time buyers&lt;/a&gt; who wouldn’t otherwise be able to afford to buy a home.&lt;/p&gt;
-
-&lt;h3 id="buying-a-new-build-home"&gt;Buying a new-build home&lt;/h3&gt;
-&lt;p&gt;We’re working with the &lt;a rel="external" href="http://www.hbf.co.uk/" title="Home Builders Federation"&gt;Home Builders Federation&lt;/a&gt; and the &lt;a rel="external" href="http://www.cml.org.uk/cml/home" title="Council of Mortgage Lenders"&gt;Council of Mortgage Lenders&lt;/a&gt; to help people buy a newly built home through the &lt;a rel="external" href="http://www.newbuy.org.uk/" title="NewBuy scheme website"&gt;NewBuy scheme.&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id="preventing-repossessions"&gt;Preventing repossessions&lt;/h3&gt;
-&lt;p&gt;We provide a range of measures to help home owners in financial difficulty, including:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;funding for debt advice services &lt;/li&gt;
-  &lt;li&gt;a scheme, Support for Mortgage Interest, which provides financial help for mortgage interest payments for people receiving benefits&lt;/li&gt;
-  &lt;li&gt;the Mortgage Rescue Scheme, which provides financial help for mortgage payments for people assessed by councils as being in priority need&lt;/li&gt;
-&lt;/ul&gt;&lt;h2 id="background"&gt;Background&lt;/h2&gt;
-
-&lt;h3 id="giving-people-the-right-to-buy"&gt;Giving people the Right to Buy&lt;/h3&gt;
-
-&lt;p&gt;Councils have always been able to sell houses to their tenants, but the &lt;a rel="external" href="http://www.legislation.gov.uk/ukpga/1980/51" title="Housing Act 1980"&gt;Housing Act 1980&lt;/a&gt; extended the practice to all social tenants with secure tenancies, giving them the legal right to buy their home, rather than it being at the landlord’s discretion.&lt;/p&gt;
-
-&lt;p&gt;The Housing Act 1980 also introduced a discount for buyers so that they could buy their council or housing association home at a lower price than the market price.&lt;/p&gt;
-
-&lt;p&gt;The last 30 years have seen significant changes to social tenants’ right to buy their properties, including big reductions to the discounts available. Currently, fewer than 3,000 homes are sold each year in England, compared with more than 60,000 in the financial year 2002 to 2003.&lt;/p&gt;
-
-&lt;h3 id="residential-leasehold"&gt;Residential leasehold&lt;/h3&gt;
-&lt;p&gt;Leasehold is a long-established way of owning property in England and Wales based on an agreement between the freeholder and leaseholder (sometimes also referred to as landlord and tenant). There are (by industry estimates) around 1 million houses and 2 million flats held on long leases in England  – ‘long’ meaning more than 21 years’ duration when granted. Around 40% of recent new-build properties in England are leasehold.&lt;/p&gt;
-
-&lt;p&gt;The law about leasehold tenure is complex. The aim of the law about leasehold tenure is to protect both leaseholders and freeholders.&lt;/p&gt;
-
-&lt;h2 id="who-weve-consulted"&gt;Who we’ve consulted&lt;/h2&gt;
-&lt;p&gt;The &lt;a href="https://www.gov.uk/government/consultations/reinvigorating-right-to-buy--2" title="Reinvigorating Right to Buy"&gt;‘Reinvigorating Right to Buy’ consultation&lt;/a&gt; ran from 22 December 2011 to 2 February 2012. We published our &lt;a href="/government/uploads/system/uploads/attachment_data/file/8424/2102921.pdf"&gt;response to the consultation&lt;/a&gt; on 12 March 2012. &lt;/p&gt;
-
-&lt;p&gt;The consultation resulted in the discount for Right to Buy being increased to a maximum of £75,000 when the tenant has lived in an eligible property for 5 or more years. Money from additional sales will be used to fund the building of new affordable homes. Nearly all councils have now signed an agreement with the government that each additional home sold nationally under Right to Buy will be replaced by a new affordable home to rent. &lt;/p&gt;&lt;/div&gt;</content>
   </entry>
 </feed>
