@@ -262,11 +262,50 @@
 &lt;/ul&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/14336</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/14288</id>
     <published>2012-11-12T00:00:00+00:00</published>
     <updated>2012-11-12T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/dclg-ministerial-information-july-to-sept-2010"/>
-    <title>DCLG ministerial information: July to Sept 2010</title>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/dclg-spending-data-september-2012"/>
+    <title>DCLG spending data: September 2012</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;HM Treasury requires that all central government departments publish details of their spending for transactions over £25,000, and publish monthly data by the last day of each month. This department has lowered its threshold and publishes its transactions over £250.&lt;/p&gt;
+
+&lt;p&gt;Available below are the spending report and the Government Procurement Card spending report for September 2012.&lt;/p&gt;
+
+&lt;p&gt;Points to note on this report:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Over £250 transparency spending data is taken from SAP’s general ledger payment transactions.&lt;/li&gt;
+  &lt;li&gt;As required by HM Treasury, the data relates to accounts payable payments and credit note transactions for grants and procurement expenditure, recorded at the time the transaction was processed on SAP. The data excludes any subsequent journal transactions and accounts receivable receipts.&lt;/li&gt;
+  &lt;li&gt;Travel, subsistence and other employee transactions - these are currently published on a summarised anonomised basis. They are summarised by ‘Expense area’, then ‘Expense type’, by day.&lt;/li&gt;
+  &lt;li&gt;The terms ‘localism’ and ‘neighbourhoods’ in the spreadsheets refer to groups within DCLG. They cover policy areas such as housing, planning and local government.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;The data is published in CSV and Excel formats in payment date sequence.&lt;/p&gt;
+
+&lt;h2 id="order"&gt;Order&lt;/h2&gt;
+
+&lt;p&gt;This publication is only available online.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/14295</id>
+    <published>2012-11-12T00:00:00+00:00</published>
+    <updated>2012-11-12T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/dclg-ministerial-information-aug-to-sept-2010"/>
+    <title>DCLG ministerial information: Aug to Sept 2010</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;These publications include:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;gifts given to, and received by, ministers&lt;/li&gt;
+  &lt;li&gt;hospitality received by ministers&lt;/li&gt;
+  &lt;li&gt;overseas travel by ministers&lt;/li&gt;
+  &lt;li&gt;ministers’ meeting with external organisations (including meetings with newspaper and media owners, editors and senior executives)
+*gifts and hospitality received by special advisers&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/14311</id>
+    <published>2012-11-12T00:00:00+00:00</published>
+    <updated>2012-11-12T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/dclg-ministerial-information-oct-to-dec-2010"/>
+    <title>DCLG ministerial information: Oct to Dec 2010</title>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;These publications include:&lt;/p&gt;
 
 &lt;ul&gt;
@@ -278,59 +317,27 @@
 &lt;/ul&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/14338</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/14328</id>
     <published>2012-11-12T00:00:00+00:00</published>
     <updated>2012-11-12T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/dclg-ministerial-information-oct-to-dec-2011"/>
-    <title>DCLG ministerial information: Oct to Dec 2011</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;These publications include:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;gifts given to, and received by, ministers  &lt;/li&gt;
-  &lt;li&gt;hospitality received by ministers  &lt;/li&gt;
-  &lt;li&gt;overseas travel by ministers trans  &lt;/li&gt;
-  &lt;li&gt;ministers’ meeting with external organisations (including meetings with newspaper and media owners, editors and senior executives)  &lt;/li&gt;
-  &lt;li&gt;gifts and hospitality received by special advisers  &lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</content>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/queen-elizabeth-ii-conference-centre-procurement-expenditure-2009-to-2010"/>
+    <title>Queen Elizabeth II Conference Centre procurement expenditure: 2009 to 2010</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;DCLG spending data on procurement for the Queen Elzabeth II Conference Centre for 2009 to 2010.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/14345</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/14331</id>
     <published>2012-11-12T00:00:00+00:00</published>
     <updated>2012-11-12T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/dclg-ministerial-information-jan-to-march-2012"/>
-    <title>DCLG ministerial information: Jan to March 2012</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;These publications include:&lt;/p&gt;
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/contracts-and-tenders-transparency-data-for-dclg"/>
+    <title>Contracts and tenders transparency data for DCLG</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Government has set out the need for greater transparency across its operations to enable the public to hold public bodies and politicians to account. This includes commitments relating to public expenditure, intended to help achieve better value for money.&lt;/p&gt;
 
-&lt;ul&gt;
-&lt;li&gt;gifts given to, and received by, ministers  &lt;/li&gt;
-  &lt;li&gt;hospitality received by ministers  &lt;/li&gt;
-  &lt;li&gt;overseas travel by ministers trans  &lt;/li&gt;
-  &lt;li&gt;ministers’ meeting with external organisations (including meetings with newspaper and media owners, editors and senior executives)  &lt;/li&gt;
-  &lt;li&gt;gifts and hospitality received by special advisers  &lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/14348</id>
-    <published>2012-11-12T00:00:00+00:00</published>
-    <updated>2012-11-12T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/dclg-ministerial-information-april-to-june-2012"/>
-    <title>DCLG ministerial information: April to June 2012</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;These publications include:&lt;/p&gt;
+&lt;p&gt;As part of the transparency agenda, all new central Government tenders and contracts over £10,000 are to be published from January 2011. Details of opportunities are published in a single location called &lt;a rel="external" href="http://www.contractsfinder.businesslink.gov.uk/" title="Visit the Contracts Finder website"&gt;Contracts Finder&lt;/a&gt;. Contracts Finder is the main source of Government contracting opportunities.&lt;/p&gt;
 
-&lt;ul&gt;
-&lt;li&gt;gifts given to, and received by, ministers&lt;/li&gt;
-  &lt;li&gt;hospitality received by ministers&lt;/li&gt;
-  &lt;li&gt;overseas travel by ministers trans&lt;/li&gt;
-  &lt;li&gt;ministers’ meeting with external organisations (including meetings with newspaper and media owners, editors and senior executives)&lt;/li&gt;
-  &lt;li&gt;gifts and hospitality received by special advisers&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/14441</id>
-    <published>2012-11-12T00:00:00+00:00</published>
-    <updated>2012-11-12T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/dclg-permanent-secretary-data-2012"/>
-    <title>DCLG Permanent Secretary data: 2012</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;DCLG is publishing staff data in support of  the Government’s transparency agenda. Following are details for 2012 of the Permanent Secretary’s meetings, lunches and dinners with external organisations.&lt;/p&gt;&lt;/div&gt;</content>
+&lt;p&gt;The Department is going further by publishing our contracts with a value of more than £500. As an initial step we are publishing data for July and August 2012 using purchase order detail for our low value procurements supplemented by additional documentation, where available. See the related downloads section below.&lt;/p&gt;
+
+&lt;p&gt;Going forward we will be publishing further low value information here each month, but with a longer term aim of adding the over £500 contract documentation to central Contracts Finder portal by the end of January 2013.&lt;/p&gt;
+
+&lt;p&gt;All organisations looking to bid for public sector contracts should be aware that if they are awarded a new Government contract, the resulting contract between the supplier and Government will be published. In some circumstances, limited redactions will be made to some contracts before they are published in order to comply with existing law.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
 </feed>
