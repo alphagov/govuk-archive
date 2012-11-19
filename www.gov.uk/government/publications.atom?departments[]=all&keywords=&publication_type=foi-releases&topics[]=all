@@ -10,36 +10,20 @@
   </author>
   <updated>2012-11-13T00:00:00+00:00</updated>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/15320</id>
-    <published>2012-11-13T00:00:00+00:00</published>
-    <updated>2012-11-13T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/occurrences-where-a-candidate-has-failed-to-attend-their-driving-test"/>
-    <title>Occurrences where a candidate has failed to attend their driving test</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Information about occurrences where a candidate has failed to attend their driving test.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/15323</id>
-    <published>2012-11-13T00:00:00+00:00</published>
-    <updated>2012-11-13T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/cost-of-the-driver-cpc-recording-and-evidencing-database"/>
-    <title>Cost of the Driver CPC recording and evidencing database</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Information about the cost of the Driver CPC recording and evidencing database.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/15331</id>
-    <published>2012-11-13T00:00:00+00:00</published>
-    <updated>2012-11-13T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/short-notice-driving-test-cancellations-and-fee-reimbursements"/>
-    <title>Short notice driving test cancellations and fee reimbursements </title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Information about short notice driving test cancellations and fee reimbursements.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/15340</id>
     <published>2012-11-13T00:00:00+00:00</published>
     <updated>2012-11-13T00:00:00+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/car-theory-and-practical-driving-tests-passed-on-6-or-more-attempts-at-stoke-on-trent"/>
     <title>Car theory and practical driving tests passed on 6 or more attempts at Stoke on Trent</title>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Information about car theory and practical driving tests passed on 6 or more attempts at Stoke on Trent.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/15338</id>
+    <published>2012-11-13T00:00:00+00:00</published>
+    <updated>2012-11-13T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/car-theory-and-practical-driving-tests-taken-in-london"/>
+    <title>Car theory and practical driving tests taken in London</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Information about car theory and practical driving tests taken in London.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/15337</id>
@@ -50,12 +34,28 @@
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Information about DVLA medical driver appraisals completed by DSA.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/15338</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/15320</id>
     <published>2012-11-13T00:00:00+00:00</published>
     <updated>2012-11-13T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/car-theory-and-practical-driving-tests-taken-in-london"/>
-    <title>Car theory and practical driving tests taken in London</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Information about car theory and practical driving tests taken in London.&lt;/p&gt;&lt;/div&gt;</content>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/occurrences-where-a-candidate-has-failed-to-attend-their-driving-test"/>
+    <title>Occurrences where a candidate has failed to attend their driving test</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Information about occurrences where a candidate has failed to attend their driving test.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/15331</id>
+    <published>2012-11-13T00:00:00+00:00</published>
+    <updated>2012-11-13T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/short-notice-driving-test-cancellations-and-fee-reimbursements"/>
+    <title>Short notice driving test cancellations and fee reimbursements </title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Information about short notice driving test cancellations and fee reimbursements.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/15323</id>
+    <published>2012-11-13T00:00:00+00:00</published>
+    <updated>2012-11-13T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/cost-of-the-driver-cpc-recording-and-evidencing-database"/>
+    <title>Cost of the Driver CPC recording and evidencing database</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Information about the cost of the Driver CPC recording and evidencing database.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/15335</id>
@@ -74,12 +74,12 @@
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This Freedom of Information response letter and supporting material concern additional car parking at Bedwyn station.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/10528</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/10586</id>
     <published>2012-11-06T00:00:00+00:00</published>
     <updated>2012-11-06T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/departmental-food-procurement-for-its-catering-operations"/>
-    <title>Departmental food procurement for its catering operations</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Department for Transport’s (&lt;abbr title="The Department for Transport"&gt;DfT&lt;/abbr&gt;’s) response to Freedom of Information (&lt;abbr title="Freedom of Information"&gt;FOI&lt;/abbr&gt;) request F00075520: Departmental food procurement for its catering operations&lt;/p&gt;&lt;/div&gt;</content>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/provision-of-road-de-icing-salt"/>
+    <title>Provision of road de-icing salt</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;&lt;abbr title="Freedom of Information"&gt;FOI&lt;/abbr&gt; Request for as much detail as possible for orders of grit during winter 2010-11, winter 2009-10 and winter 2008-09.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/10529</id>
@@ -90,12 +90,12 @@
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Department for Transport’s (&lt;abbr title="The Department for Transport"&gt;DfT&lt;/abbr&gt;’s) response to Freedom of Information (&lt;abbr title="Freedom of Information"&gt;FOI&lt;/abbr&gt;) request F0007301: Grant funding paid to mobility centres&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/10526</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/10635</id>
     <published>2012-11-06T00:00:00+00:00</published>
     <updated>2012-11-06T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/department-hr-selection-appeal-letters"/>
-    <title>Department HR selection appeal letters</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Department for Transport’s (&lt;abbr title="The Department for Transport"&gt;DfT&lt;/abbr&gt;’s) response to Freedom of Information (&lt;abbr title="Freedom of Information"&gt;FOI&lt;/abbr&gt;) request F0007534: Department HR selection appeal letters&lt;/p&gt;&lt;/div&gt;</content>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/blue-badge-scheme-contract"/>
+    <title>Blue badge scheme contract</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Department for Transport’s (DfT’s) response to Freedom of Information (&lt;abbr title="Freedom of Information"&gt;FOI&lt;/abbr&gt;) request F0007842: Blue Badge scheme contract.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/12812</id>
@@ -106,20 +106,20 @@
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Department for Transport’s (&lt;abbr title="The Department for Transport"&gt;DfT&lt;/abbr&gt;’s) response to Freedom of Information (&lt;abbr title="Freedom of Information"&gt;FOI&lt;/abbr&gt;) request F0007151: Passenger ship fires in 2010.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/10586</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/10528</id>
     <published>2012-11-06T00:00:00+00:00</published>
     <updated>2012-11-06T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/provision-of-road-de-icing-salt"/>
-    <title>Provision of road de-icing salt</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;&lt;abbr title="Freedom of Information"&gt;FOI&lt;/abbr&gt; Request for as much detail as possible for orders of grit during winter 2010-11, winter 2009-10 and winter 2008-09.&lt;/p&gt;&lt;/div&gt;</content>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/departmental-food-procurement-for-its-catering-operations"/>
+    <title>Departmental food procurement for its catering operations</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Department for Transport’s (&lt;abbr title="The Department for Transport"&gt;DfT&lt;/abbr&gt;’s) response to Freedom of Information (&lt;abbr title="Freedom of Information"&gt;FOI&lt;/abbr&gt;) request F00075520: Departmental food procurement for its catering operations&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/10635</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/10526</id>
     <published>2012-11-06T00:00:00+00:00</published>
     <updated>2012-11-06T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/blue-badge-scheme-contract"/>
-    <title>Blue badge scheme contract</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Department for Transport’s (DfT’s) response to Freedom of Information (&lt;abbr title="Freedom of Information"&gt;FOI&lt;/abbr&gt;) request F0007842: Blue Badge scheme contract.&lt;/p&gt;&lt;/div&gt;</content>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/department-hr-selection-appeal-letters"/>
+    <title>Department HR selection appeal letters</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Department for Transport’s (&lt;abbr title="The Department for Transport"&gt;DfT&lt;/abbr&gt;’s) response to Freedom of Information (&lt;abbr title="Freedom of Information"&gt;FOI&lt;/abbr&gt;) request F0007534: Department HR selection appeal letters&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/13024</id>
@@ -146,27 +146,27 @@
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Freedom of Information response regarding costs of the High Speed 2 spur to Heathrow.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/13057</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/15659</id>
     <published>2012-10-19T00:00:00+01:00</published>
     <updated>2012-10-19T00:00:00+01:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/car-practical-driving-tests-at-trowbridge-westbury-chippenham-and-swindon"/>
-    <title>Car practical driving tests at Trowbridge, Westbury, Chippenham and Swindon</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Information about car practical driving tests at Trowbridge, Westbury, Chippenham and Swindon.&lt;/p&gt;&lt;/div&gt;</content>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/assaults-on-and-bribes-offered-to-driving-examiners"/>
+    <title>Assaults on and bribes offered to driving examiners</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Questions about assaults on and bribes offered to driving examiners.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/13059</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/15490</id>
     <published>2012-10-19T00:00:00+01:00</published>
     <updated>2012-10-19T00:00:00+01:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/attempts-to-pass-car-practical-driving-tests"/>
-    <title>Attempts to pass car practical driving tests</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Information about attempts to pass car practical driving tests.&lt;/p&gt;&lt;/div&gt;</content>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/the-number-of-lgv-category-c-and-c-e-conducted-and-passed-since-2004-05"/>
+    <title>LGV category C and C+E practical driving tests taken and passed from 2004 to 2005</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Information about LGV category C and C+E practical driving tests taken and passed from 2004 to 2005.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/13060</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/14953</id>
     <published>2012-10-19T00:00:00+01:00</published>
     <updated>2012-10-19T00:00:00+01:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/driving-test-refund-policy"/>
-    <title>Driving test refund policy</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Questions about the driving test refund policy.&lt;/p&gt;&lt;/div&gt;</content>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/statistics-about-practical-car-tests-and-adis"/>
+    <title>Statistics about practical car tests and ADIs</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Statistics about practical car tests and ADIs.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
 </feed>
