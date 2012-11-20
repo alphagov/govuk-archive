@@ -10,7 +10,7 @@
   </author>
   <updated>2012-11-15T00:00:00+00:00</updated>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/16290</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/16457</id>
     <published>2012-11-15T00:00:00+00:00</published>
     <updated>2012-11-15T00:00:00+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/department-for-transport-regulated-agents-and-in-flight-suppliers"/>
@@ -60,7 +60,15 @@ Department for Transport
 &lt;br&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/13341</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/16414</id>
+    <published>2012-10-30T00:00:00+00:00</published>
+    <updated>2012-10-30T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/strategic-salt-protocol"/>
+    <title>Strategic salt protocol</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The offer price for strategic salt and protocols for its allocation to English highway authorities and advance notice of further work on a range of salt issues.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/16423</id>
     <published>2012-10-18T00:00:00+01:00</published>
     <updated>2012-10-18T00:00:00+01:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/security-requirements-for-moving-dangerous-goods-by-road-and-rail"/>
@@ -187,6 +195,14 @@ email: &lt;a href="mailto:maritimesecurity@dft.gsi.gov.uk"&gt;maritimesecurity@d
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The aim of this document is to provide certified DfT trainers with the necessary information to enable them to deliver training primarily to UK aerodrome managers, aircraft operators in the UK, security approved air cargo agents and In-flight supplies companies on aviation security.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/15942</id>
+    <published>2012-08-09T00:00:00+01:00</published>
+    <updated>2012-08-09T00:00:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/security-in-design-of-stations-sidos-guide"/>
+    <title>Security in design of stations (SIDOS) guide</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This guidance document was jointly produced by the Department for Transport, the Centre for the Protection of National Infrastructure and the British Transport Police. It contains generic security recommendations for designers, architects and planners on how to design effective and proportionate physical security for new and major redevelopment railway stations.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/13701</id>
     <published>2012-08-09T00:00:00+01:00</published>
     <updated>2012-08-09T00:00:00+01:00</updated>
@@ -195,14 +211,6 @@ email: &lt;a href="mailto:maritimesecurity@dft.gsi.gov.uk"&gt;maritimesecurity@d
     <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="summary"&gt;Summary&lt;/h2&gt;
 
 &lt;p&gt;Security guidance for operators of buses and coaches, bus stations and depots. This document has been created to help strengthen security and maintain passenger confidence in using bus and coach services and facilities.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/15942</id>
-    <published>2012-08-09T00:00:00+01:00</published>
-    <updated>2012-08-09T00:00:00+01:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/security-in-design-of-stations-sidos-guide"/>
-    <title>Security in design of stations (SIDOS) guide</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This guidance document was jointly produced by the Department for Transport, the Centre for the Protection of National Infrastructure and the British Transport Police. It contains generic security recommendations for designers, architects and planners on how to design effective and proportionate physical security for new and major redevelopment railway stations.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/10316</id>
@@ -409,14 +417,6 @@ Limited quantity pack size applicable to UN 1791 Packing Group III. Valid until:
     <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="summary"&gt;Summary&lt;/h2&gt;
 
 &lt;p&gt;A range of training aids available from the Department for Transport to support the security training of staff working in the maritime industry. This material has been created to help personnel at UK ports and on UK flagged ships who carry out duties in accordance with the International Ship and Port Facility Security Code (ISPS Code).&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/15605</id>
-    <published>2011-10-31T00:00:00+00:00</published>
-    <updated>2011-10-31T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/strategic-salt-protocol"/>
-    <title>Strategic salt protocol</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The offer price for strategic salt and protocols for its allocation to English highway authorities and advance notice of further work on a range of salt issues.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/10256</id>

@@ -8,7 +8,25 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-11-15T09:30:10+00:00</updated>
+  <updated>2012-11-19T00:00:00+00:00</updated>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/16298</id>
+    <published>2012-11-19T00:00:00+00:00</published>
+    <updated>2012-11-19T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/street-lighting"/>
+    <title>Street lighting</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Freedom of Information response regarding the switching off of street lighting on sections of some roads.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/16370</id>
+    <published>2012-11-19T00:00:00+00:00</published>
+    <updated>2012-11-19T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/model-ship-security-plan-templates"/>
+    <title>Model ship security plan templates</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;These model ship plans will help company and ship security officers to compile a ship security plan (SSP) under the International Ship and Port Facility Security (ISPS) Code, for agreement and verification by the Department for Transport. &lt;/p&gt;
+
+&lt;p&gt;The documents are cruise ship and ro-ro (roll-on/roll-off) passenger ferry templates. A &lt;a rel="external" href="http://www.dft.gov.uk/mca/mcga07-home/shipsandcargoes/mcga-shipsregsandguidance/mcga_dops_maritimesecurity_mainpage/dops_ms-guidance/mcga_dops_msb_ssp/dops_msb__model_ship_security_plan.htm"&gt;template for use with cargo ships&lt;/a&gt; is available on the &lt;a rel="external" href="http://www.dft.gov.uk/mca/"&gt;Maritime and Coastguard website&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/16093</id>
     <published>2012-11-15T09:30:10+00:00</published>
@@ -18,7 +36,7 @@
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;We are currently seeking views on whether to transpose the requirements of 3 European directives on railway safety and interoperability so that these provisions are in force for the Channel Tunnel. In recognition of the Tunnel’s cross-border nature these we would like to incorporate the provisions of these railway safety and interoperability directives by making amendments to the Channel Tunnel (Safety) Order 2007.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/16290</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/16457</id>
     <published>2012-11-15T00:00:00+00:00</published>
     <updated>2012-11-15T00:00:00+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/department-for-transport-regulated-agents-and-in-flight-suppliers"/>
@@ -288,14 +306,6 @@ Department for Transport
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This Freedom of Information response letter and supporting material concern additional car parking at Bedwyn station.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/12812</id>
-    <published>2012-11-06T00:00:00+00:00</published>
-    <updated>2012-11-06T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/details-of-passenger-ship-fires-in-2010"/>
-    <title>Passenger ship fires in 2010</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Department for Transport’s (&lt;abbr title="The Department for Transport"&gt;DfT&lt;/abbr&gt;’s) response to Freedom of Information (&lt;abbr title="Freedom of Information"&gt;FOI&lt;/abbr&gt;) request F0007151: Passenger ship fires in 2010.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/10586</id>
     <published>2012-11-06T00:00:00+00:00</published>
     <updated>2012-11-06T00:00:00+00:00</updated>
@@ -304,27 +314,12 @@ Department for Transport
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;&lt;abbr title="Freedom of Information"&gt;FOI&lt;/abbr&gt; Request for as much detail as possible for orders of grit during winter 2010-11, winter 2009-10 and winter 2008-09.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/15321</id>
-    <published>2012-11-05T00:00:00+00:00</published>
-    <updated>2012-11-05T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/help-notes-for-the-railways-interoperability-regulations-2011"/>
-    <title>Help notes for the Railways (Interoperability) Regulations 2011</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;These help notes are for the Railways (Interoperability) Regulations 2011 (RIR 2011) which apply to all of the United Kingdom including the British half of the Channel Tunnel.&lt;/p&gt;
-
-&lt;p&gt;These help notes are published by the Department for Transport (DfT) to assist industry and others who are affected by the Railways (Interoperability) Regulations 2011 to fulfil their statutory obligations. They do not cover every circumstance and users should consider seeking further advice from the appropriate safety authority (Office of Rail Regulation, Intergovernmental Commission and Department for Regional Development).&lt;/p&gt;
-
-&lt;p&gt;These help notes are produced in line with the Department for Business, Innovation and Skills guide to code of practice on guidance which is available at:  &lt;a href="http://www.betterregulation.gov.uk"&gt;www.betterregulation.gov.uk&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;The reader will find that the process-based parts of help notes variously use the two terms:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;“must” and “shall”&lt;/li&gt;
-  &lt;li&gt;“should” or “may”&lt;/li&gt;
-&lt;/ul&gt;&lt;p&gt;“Must” or “shall” indicates that a statutory duty needs to be fulfilled.&lt;/p&gt;
-
-&lt;p&gt;“Should” or “may” indicates a recommendation to achieve the best outcome.&lt;/p&gt;
-
-&lt;p&gt;If you have any comments, queries or suggestions on existing or further help notes, please e-mail &lt;a href="mailto:mailto:interoperability@dft.gsi.gov.uk"&gt;interoperability@dft.gsi.gov.uk&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;</content>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/12812</id>
+    <published>2012-11-06T00:00:00+00:00</published>
+    <updated>2012-11-06T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/details-of-passenger-ship-fires-in-2010"/>
+    <title>Passenger ship fires in 2010</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Department for Transport’s (&lt;abbr title="The Department for Transport"&gt;DfT&lt;/abbr&gt;’s) response to Freedom of Information (&lt;abbr title="Freedom of Information"&gt;FOI&lt;/abbr&gt;) request F0007151: Passenger ship fires in 2010.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/15227</id>
@@ -349,6 +344,29 @@ Department for Transport
 &lt;ul&gt;
 &lt;li&gt;&lt;a rel="external" href="http://www.dft.gov.uk/publications/a-list-of-rail-interoperability-derogations-applied-for-by-the-united-kingdom"&gt;A list of derogations applied for by the United Kingdom&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/15321</id>
+    <published>2012-11-05T00:00:00+00:00</published>
+    <updated>2012-11-05T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/help-notes-for-the-railways-interoperability-regulations-2011"/>
+    <title>Help notes for the Railways (Interoperability) Regulations 2011</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;These help notes are for the Railways (Interoperability) Regulations 2011 (RIR 2011) which apply to all of the United Kingdom including the British half of the Channel Tunnel.&lt;/p&gt;
+
+&lt;p&gt;These help notes are published by the Department for Transport (DfT) to assist industry and others who are affected by the Railways (Interoperability) Regulations 2011 to fulfil their statutory obligations. They do not cover every circumstance and users should consider seeking further advice from the appropriate safety authority (Office of Rail Regulation, Intergovernmental Commission and Department for Regional Development).&lt;/p&gt;
+
+&lt;p&gt;These help notes are produced in line with the Department for Business, Innovation and Skills guide to code of practice on guidance which is available at:  &lt;a href="http://www.betterregulation.gov.uk"&gt;www.betterregulation.gov.uk&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The reader will find that the process-based parts of help notes variously use the two terms:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;“must” and “shall”&lt;/li&gt;
+  &lt;li&gt;“should” or “may”&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;“Must” or “shall” indicates that a statutory duty needs to be fulfilled.&lt;/p&gt;
+
+&lt;p&gt;“Should” or “may” indicates a recommendation to achieve the best outcome.&lt;/p&gt;
+
+&lt;p&gt;If you have any comments, queries or suggestions on existing or further help notes, please e-mail &lt;a href="mailto:mailto:interoperability@dft.gsi.gov.uk"&gt;interoperability@dft.gsi.gov.uk&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/14473</id>
@@ -435,18 +453,12 @@ Airports Commission
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Response concerning meetings between the Secretary of State and Bombardier and material relating to High Speed 2.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/13215</id>
-    <published>2012-10-29T00:00:00+00:00</published>
-    <updated>2012-10-29T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/chiltern-railways-bicester-to-oxford-improvements-order-second-addendum-inspectors-report"/>
-    <title>Chiltern Railways (Bicester to Oxford improvements) order: second addendum inspector's report</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This is the second addendum inspector’s report to the Secretary of State, into the inquiry for the Chiltern Railways (Bicester to Oxford improvements) order.&lt;/p&gt;
-
-&lt;h2 id="related-documents"&gt;Related documents&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a rel="external" href="http://www.dft.gov.uk/publications/twa-20121017a/"&gt;Chiltern Railways (Bicester to Oxford improvements) Secretary of State’s decision letter, 17 October 2012&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</content>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/16414</id>
+    <published>2012-10-30T00:00:00+00:00</published>
+    <updated>2012-10-30T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/strategic-salt-protocol"/>
+    <title>Strategic salt protocol</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The offer price for strategic salt and protocols for its allocation to English highway authorities and advance notice of further work on a range of salt issues.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/13233</id>
@@ -467,20 +479,6 @@ Airports Commission
     <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="summary"&gt;Summary&lt;/h2&gt;
 
 &lt;p&gt;This letter gives consent to the mortgaging or charging of dues on ships under section 24 of the Merchant Shipping Act 1853. The letter concerns the harbour authorities of Birkenhead Port Limited, Heysham Port Limited, The Manchester Ship Canal Company Limited, The Mersey Docks and Harbour Company Limited and Port of Sheerness Limited.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/13256</id>
-    <published>2012-10-29T00:00:00+00:00</published>
-    <updated>2012-10-29T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/chiltern-railways-bicester-to-oxford-improvements-secretary-of-states-decision-letter"/>
-    <title>Chiltern Railways (Bicester to Oxford improvements) Secretary of State's decision letter</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This letter announces the Secretary of State’s decision on the Chiltern Railways (Bicester to Oxford improvements) order.&lt;/p&gt;
-
-&lt;h2 id="related-documents"&gt;Related documents&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a rel="external" href="http://www.dft.gov.uk/publications/chiltern-second-addendum/"&gt;Chiltern Railways (Bicester to Oxford improvements) order: second addendum inspector’s report&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/14249</id>
@@ -513,13 +511,5 @@ Airports Commission
 &lt;ul&gt;
 &lt;li&gt;&lt;a rel="external" href="http://www.dft.gov.uk/publications/lstf"&gt;Video presentation by the Parliamentary Under-Secretary of State for Transport&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/13334</id>
-    <published>2012-10-25T00:00:00+01:00</published>
-    <updated>2012-10-25T00:00:00+01:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/costs-of-hs2-spur-to-heathrow"/>
-    <title>Costs of HS2 spur to Heathrow</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Freedom of Information response regarding costs of the High Speed 2 spur to Heathrow.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
 </feed>

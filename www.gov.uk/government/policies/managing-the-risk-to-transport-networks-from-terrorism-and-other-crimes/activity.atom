@@ -10,7 +10,7 @@
   </author>
   <updated>2012-11-15T00:00:00+00:00</updated>
   <entry>
-    <id>tag:www.gov.uk,2005:Publication/16290</id>
+    <id>tag:www.gov.uk,2005:Publication/16457</id>
     <published>2012-11-15T00:00:00+00:00</published>
     <updated>2012-11-09T16:34:50+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/department-for-transport-regulated-agents-and-in-flight-suppliers"/>
@@ -61,7 +61,16 @@ Department for Transport
 &lt;br&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:Publication/13341</id>
+    <id>tag:www.gov.uk,2005:Publication/16414</id>
+    <published>2012-10-30T00:00:00+00:00</published>
+    <updated>2012-11-02T13:52:02+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/strategic-salt-protocol"/>
+    <title>Strategic salt protocol</title>
+    <category>Publication</category>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The offer price for strategic salt and protocols for its allocation to English highway authorities and advance notice of further work on a range of salt issues.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:Publication/16423</id>
     <published>2012-10-18T01:00:00+01:00</published>
     <updated>2012-11-08T21:11:41+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/security-requirements-for-moving-dangerous-goods-by-road-and-rail"/>
@@ -242,22 +251,5 @@ email: &lt;a href="mailto:maritimesecurity@dft.gsi.gov.uk"&gt;maritimesecurity@d
 &lt;ul&gt;
 &lt;li&gt;&lt;a rel="external" href="http://www.dft.gov.uk/consultations/dft-2011-21/"&gt;Better regulation for aviation security consultation, 14 July 2011, updated 26 June 2012&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:NewsArticle/15126</id>
-    <published>2012-06-15T00:00:00+01:00</published>
-    <updated>2012-10-14T11:44:58+01:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/the-changing-face-of-disclosure-and-barring"/>
-    <title>The changing face of disclosure and barring</title>
-    <category>News Article</category>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;We know that good safeguarding practices should involve more than just a criminal record check, such as rigorous reference checking and face-to-face interviews, on-going training and day-to-day management.&lt;/p&gt;
-
-&lt;p&gt;While as an employer you are best placed to maintain safeguarding practice on the ground, from September 2012, the government is scaling back the criminal records and barring systems to ‘common sense’ levels whilst ensuring that they continue to provide effective safeguarding. These changes will impact on organisations across England, Wales and Northern Ireland and it is important for employers to understand what the impact of these changes might be in their organisation.&lt;/p&gt;
-
-&lt;p&gt;The most important changes will be to reduce the numbers of people requiring criminal record checks by reducing regulated activity and scrapping controlled activity. This means that criminal records checks will only be mandatory for those working in close and unsupervised contact with vulnerable groups including children.&lt;/p&gt;
-
-&lt;p&gt;The Home Office has produced a &lt;a rel="external" href="http://www.homeoffice.gov.uk/publications/crime/disclosure-and-barring/"&gt;leaflet explaining these changes&lt;/a&gt;, as well as letting you know about other changes happening over the next six months.&lt;/p&gt;
-
-&lt;p&gt;There will also be a number of seminars on the changes during June and July.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
 </feed>
