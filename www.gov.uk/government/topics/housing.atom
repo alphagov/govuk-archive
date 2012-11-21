@@ -7,7 +7,18 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-11-16T00:00:00+00:00</updated>
+  <updated>2012-11-20T00:00:00+00:00</updated>
+  <entry>
+    <id>tag:www.gov.uk,2005:Publication/16489</id>
+    <published>2012-11-20T00:00:00+00:00</published>
+    <updated>2012-11-20T15:01:01+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/right-to-buy-notice-in-reply-to-a-tenants-claim-rtb2"/>
+    <title>Right to Buy: notice in reply to a tenant's claim (RTB2)</title>
+    <summary>The RTB2 is the notice that a council sends to a tenant who has applied to buy their home through the Right to Buy scheme.</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;When a council tenant applies to buy their home through the Right to Buy scheme, the council will send a notice (RTB2) within 4 weeks of receiving the completed application form (RTB1).&lt;/p&gt;
+
+&lt;p&gt;This will confirm if the tenant has the Right to Buy their home.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
   <entry>
     <id>tag:www.gov.uk,2005:Publication/16331</id>
     <published>2012-11-16T00:00:00+00:00</published>
@@ -31,6 +42,22 @@
 &lt;p&gt;For more information about the HCA affordable housing statistics, see their &lt;a rel="external" href="http://www.homesandcommunities.co.uk/housing-statistics"&gt;website&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;For more information about the GLA affordable housing statistics, see their &lt;a rel="external" href="http://data.london.gov.uk/datastore/package/gla-affordable-housing-programme-outturn"&gt;website&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:Publication/16258</id>
+    <published>2012-11-15T00:00:00+00:00</published>
+    <updated>2012-11-15T09:29:50+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/right-to-buy-sales-in-england-2012-to-2013-quarters-1-and-2"/>
+    <title>Right to buy sales in England: 2012 to 2013 - quarters 1 and 2</title>
+    <summary>Total Right to Buy sales by quarter.</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This statistical release presents official statistics on the number of sales of dwellings under the right to buy scheme, as well as providing statistics on receipts resulting from those sales, and starts on site as part of the one-for-one replacements.&lt;/p&gt;
+
+&lt;p&gt;Key points from the release are:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Local authorities sold an estimated 444 dwellings under the right to buy scheme in 2012-13 quarter 1. In this quarter local authorities received £24 million from right to buy sales, while 14 dwellings were started on site or acquired.&lt;/li&gt;
+  &lt;li&gt;Local authorities sold an estimated 1,043 dwellings under the right to buy scheme in 2012-13 quarter 2. In this quarter local authorities received £62 million from right to buy sales, while 234 dwellings were started on site or acquired.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;These statistics relate only to sales by local authorities under the right to buy scheme, excluding sales by registered providers under preserved right to buy.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:Publication/16254</id>
@@ -76,22 +103,6 @@
   &lt;li&gt;Seasonally adjusted starts are now 52% above the trough in the March quarter 2009 but 45% below the December quarter 2005 peak. Completions are 44% below their March quarter 2007 peak.&lt;/li&gt;
   &lt;li&gt;Annual housing starts totalled 98,020 in the 12 months to September 2012, down by 9% compared with the year before. Annual housing completions in England reached 117,190 in the 12 months to September 2012, an increase of 6% compared with the previous 12 months.&lt;/li&gt;
 &lt;/ul&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:Publication/16258</id>
-    <published>2012-11-15T00:00:00+00:00</published>
-    <updated>2012-11-15T09:29:50+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/right-to-buy-sales-in-england-2012-to-2013-quarters-1-and-2"/>
-    <title>Right to buy sales in England: 2012 to 2013 - quarters 1 and 2</title>
-    <summary>Total Right to Buy sales by quarter.</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This statistical release presents official statistics on the number of sales of dwellings under the right to buy scheme, as well as providing statistics on receipts resulting from those sales, and starts on site as part of the one-for-one replacements.&lt;/p&gt;
-
-&lt;p&gt;Key points from the release are:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Local authorities sold an estimated 444 dwellings under the right to buy scheme in 2012-13 quarter 1. In this quarter local authorities received £24 million from right to buy sales, while 14 dwellings were started on site or acquired.&lt;/li&gt;
-  &lt;li&gt;Local authorities sold an estimated 1,043 dwellings under the right to buy scheme in 2012-13 quarter 2. In this quarter local authorities received £62 million from right to buy sales, while 234 dwellings were started on site or acquired.&lt;/li&gt;
-&lt;/ul&gt;&lt;p&gt;These statistics relate only to sales by local authorities under the right to buy scheme, excluding sales by registered providers under preserved right to buy.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:Publication/16273</id>
@@ -237,65 +248,5 @@
 &lt;h3 id="sitra"&gt;Sitra&lt;/h3&gt;
 
 &lt;p&gt;&lt;a rel="external" href="http://www.sitra.org.uk/" title="Sitra"&gt;Sitra&lt;/a&gt; is an umbrella membership organisation dedicated to raising standards in the housing care and support sector. Sitra is funded by &lt;abbr title="Department for Communities and Local Government"&gt;DCLG&lt;/abbr&gt;.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:Policy/16137</id>
-    <published>2012-11-07T17:06:36+00:00</published>
-    <updated>2012-11-07T17:06:36+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/policies/increasing-the-number-of-available-homes"/>
-    <title>Increasing the number of available homes</title>
-    <summary>We're helping to get Britain building again, through schemes like the NewBuy Guarantee, New Homes Bonus and loan guarantees for developers.</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="issue"&gt;Issue&lt;/h2&gt;
-
-&lt;p&gt;For decades, there have not been enough homes to meet the needs of our growing and ageing population. From 2009 to 2010, only 115,000 new-builds were completed in England – fewer than any year in peace time since the 1920s and nearly a quarter of a million homes in England have stood empty for more than 6 months.&lt;/p&gt;
-
-&lt;p&gt;The housing market is also one of the biggest casualties of the 2008 global credit crunch and the government’s priority has been to rectify a situation where lenders couldn’t lend, so builders couldn’t build and buyers couldn’t buy.  &lt;/p&gt;
-
-&lt;h2 id="actions"&gt;Actions&lt;/h2&gt;
-&lt;p&gt;The government wants builders, investors and local councils to increase the supply of both new-builds and repurposed empty homes. The Department for Communities and Local Government (&lt;abbr title="Department for Communities and Local Government"&gt;DCLG&lt;/abbr&gt;) schemes listed here should act together to increase housing supply by:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;removing unnecessarily complex regulations &lt;/li&gt;
-  &lt;li&gt;providing finance for projects that can’t proceed without it&lt;/li&gt;
-  &lt;li&gt;helping buyers who can’t afford to buy a home because they can’t afford the deposit &lt;/li&gt;
-&lt;/ul&gt;&lt;p&gt;We’ve created a £570 million &lt;a href="https://www.gov.uk/government/policies/increasing-the-number-of-available-homes/supporting-pages/get-britain-building" title="Get Britain Building"&gt;Get Britain Building&lt;/a&gt; investment fund for developers. This will help to build new homes on development sites that have stalled, haven’t started or are classified as being on hold. &lt;/p&gt;
-
-&lt;p&gt;We’ve idenitified enough formerly used, &lt;a href="https://www.gov.uk/government/policies/increasing-the-number-of-available-homes/supporting-pages/bringing-surplus-public-sector-land-back-into-use" title="Bringing surplus public-sector land back into use"&gt;surplus public sector land&lt;/a&gt; to support up to 100,000 new homes and are looking to sell this quickly to help get Britain building. A &lt;a rel="external" href="http://www.savills.co.uk/contact/research-results.aspx?currentSitePageId=141274&amp;amp;keyword=case+for+housing&amp;amp;date=&amp;amp;country=" title="Savills: The Case for Housing: The impact of house building on the UK economy"&gt;2010 report by property group, Savills&lt;/a&gt; estimated that this could add 1% to the output of the economy.&lt;/p&gt;
-
-&lt;p&gt;We’ve introduced the &lt;a href="https://www.gov.uk/government/policies/increasing-the-number-of-available-homes/supporting-pages/new-homes-bonus" title="New Homes Bonus"&gt;New Homes Bonus&lt;/a&gt;. This is a grant to local councils for increasing the number of homes and their use. We are also pursuing other actions to bring &lt;a href="https://www.gov.uk/government/policies/increasing-the-number-of-available-homes/supporting-pages/empty-homes" title="Empty homes"&gt;empty homes&lt;/a&gt; back into use.&lt;/p&gt;
-
-&lt;p&gt;We’re also offering new loan guarantees for housing developers that are backed by government to encourage the building of more &lt;a href="https://www.gov.uk/government/policies/improving-the-rented-housing-sector--2/supporting-pages/providing-affordable-homes-for-rent" title="Providing affordable homes for rent"&gt;social&lt;/a&gt; and &lt;a href="https://www.gov.uk/government/policies/improving-the-rented-housing-sector--2/supporting-pages/private-rented-sector"&gt;privately rented&lt;/a&gt; housing.&lt;/p&gt;
-
-&lt;p&gt;We’re reducing regulations on house builders to &lt;a href="https://www.gov.uk/government/policies/making-the-planning-system-work-more-efficiently-and-effectively" title="Making the planning system work more efficiently and effectively"&gt;make the planning system more efficient and effective&lt;/a&gt;, and are offering finance options to &lt;a href="https://www.gov.uk/government/policies/increasing-the-number-of-available-homes" title="Self-builders"&gt;self-builders&lt;/a&gt; from a specially created fund of £30 million.&lt;/p&gt;
-
-&lt;p&gt;We help community groups to build new homes through the &lt;a href="https://www.gov.uk/government/policies/giving-people-more-power-over-what-happens-in-their-neighbourhood/supporting-pages/community-right-to-build" title="Community Right to Build"&gt;Community Right to Build&lt;/a&gt; which became law on 6 April 2012. It is now easier to bring vacant and underused public land back into use through the &lt;a href="https://www.gov.uk/government/policies/giving-people-more-power-over-what-happens-in-their-neighbourhood/supporting-pages/community-right-to-reclaim-land" title="Community Right to Reclaim Land"&gt;Community Right to Reclaim Land&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;We’re also promoting &lt;a href="https://www.gov.uk/government/policies/increasing-the-number-of-available-homes/supporting-pages/community-led-design" title="Community-led design"&gt;community-led design&lt;/a&gt; which should lead to more building schemes being approved by local councils. &lt;/p&gt;
-
-&lt;p&gt;We’re helping buyers with the &lt;a href="https://www.gov.uk/government/policies/increasing-the-number-of-available-homes/supporting-pages/newbuy-guarantee-scheme" title="NewBuy Guarantee scheme"&gt;NewBuy Guarantee scheme&lt;/a&gt;, which started in March 2012 and allows buyers to get a mortgage on a new-build homes with only a fraction of the deposit they would normally require. More than 40 housing developers and 6 major lenders now offer the scheme.&lt;/p&gt;
-
-&lt;p&gt;Councils can also use &lt;a href="https://www.gov.uk/government/policies/increasing-the-number-of-available-homes/supporting-pages/private-finance-initiatives" title="Private finance initiatives"&gt;private finance initiatives&lt;/a&gt; for housing refurbishment and regeneration, where other grants or funding wouldn’t have been enough to make the changes needed. &lt;/p&gt;
-
-&lt;h2 id="background"&gt;Background&lt;/h2&gt;
-&lt;p&gt;On 21 November 2011 we published &lt;a href="https://www.gov.uk/government/publications/laying-the-foundations-a-housing-strategy-for-england--2" title="Laying the foundations: a housing strategy for England"&gt;‘Laying the foundations: a housing strategy for England’.&lt;/a&gt; This explained our plans to reform the housing market, including measures to stimulate house building and bring empty homes back into use.&lt;/p&gt;
-
-&lt;h2 id="who-weve-consulted"&gt;Who we’ve consulted&lt;/h2&gt;
-&lt;p&gt;We ran a &lt;a href="https://www.gov.uk/government/consultations/new-homes-bonus" title="New Home Bonus"&gt;consultation on the design of New Homes Bonus&lt;/a&gt; between 12 November and 24 December 2010, receiving 470 responses. The final scheme design was published on 17 February 2011.&lt;/p&gt;
-
-&lt;p&gt;Each year, the government also consults local councils on the provisional allocations of New Homes Bonus, which are published towards the end of each calendar year.&lt;/p&gt;
-
-&lt;h2 id="bills-and-legislation"&gt;Bills and legislation&lt;/h2&gt;
-&lt;p&gt;The Community Right to Build was introduced by the &lt;a rel="external" href="http://www.legislation.gov.uk/ukpga/2011/20/contents/enacted"&gt;Localism Act 2011.&lt;/a&gt; The Act means that more decisions about housing are taken locally.&lt;/p&gt;
-
-&lt;h2 id="who-were-working-with"&gt;Who we’re working with&lt;/h2&gt;
-&lt;p&gt;&lt;abbr title="Department for Communities and Local Government"&gt;DCLG&lt;/abbr&gt; works closely with the &lt;a rel="external" href="http://www.hbf.co.uk/" title="Home Builders Federation"&gt;Home Builders Federation&lt;/a&gt; to find ways to encourage house building. We work with them on developing policy, particularly on NewBuy.&lt;/p&gt;
-
-&lt;p&gt;The &lt;a rel="external" href="http://www.cih.org/" title="Chartered Institute of Housing"&gt;Chartered Institute of Housing&lt;/a&gt; represents 22,000 housing professionals who work mostly in local councils, housing associations, arms-length management organisations and the private sector. They work with government to help ensure that housing policy takes into account the experience and expertise of their members.&lt;/p&gt;
-
-&lt;p&gt;The &lt;a rel="external" href="http://www.ukgbc.org/" title="UK Green Building Council"&gt;UK Green Building Council&lt;/a&gt;  is a membership organisation campaigning for a sustainable built environment. We work with them to develop environmental building standards and regulations to achieve zero carbon targets.&lt;/p&gt;
-
-&lt;p&gt;We also work with the &lt;a rel="external" href="http://www.housing.org.uk/" title="National Housing Federation"&gt;National Housing Federation&lt;/a&gt; to develop and deliver policy on housing.&lt;/p&gt;
-
-&lt;p&gt;The &lt;a rel="external" href="http://www.homesandcommunities.co.uk/" title="Homes and Communities Agency"&gt;Homes and Communities Agency&lt;/a&gt; is the national housing and regeneration agency for England (other than in London). It plays an important role in increasing the supply of available homes, such as helping to bring empty homes and surplus public sector land back into use.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
 </feed>

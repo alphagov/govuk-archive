@@ -8,7 +8,17 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-11-16T00:00:00+00:00</updated>
+  <updated>2012-11-20T00:00:00+00:00</updated>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/16489</id>
+    <published>2012-11-20T00:00:00+00:00</published>
+    <updated>2012-11-20T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/right-to-buy-notice-in-reply-to-a-tenants-claim-rtb2"/>
+    <title>Right to Buy: notice in reply to a tenant's claim (RTB2)</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;When a council tenant applies to buy their home through the Right to Buy scheme, the council will send a notice (RTB2) within 4 weeks of receiving the completed application form (RTB1).&lt;/p&gt;
+
+&lt;p&gt;This will confirm if the tenant has the Right to Buy their home.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/16331</id>
     <published>2012-11-16T00:00:00+00:00</published>
@@ -33,27 +43,19 @@
 &lt;p&gt;For more information about the GLA affordable housing statistics, see their &lt;a rel="external" href="http://data.london.gov.uk/datastore/package/gla-affordable-housing-programme-outturn"&gt;website&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/15967</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/16258</id>
     <published>2012-11-15T00:00:00+00:00</published>
     <updated>2012-11-15T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/house-building-in-england-july-to-september-2012"/>
-    <title>House building in England: July to September 2012</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The latest national statistics on house building in England were released on 15 November 2012.&lt;/p&gt;
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/right-to-buy-sales-in-england-2012-to-2013-quarters-1-and-2"/>
+    <title>Right to buy sales in England: 2012 to 2013 - quarters 1 and 2</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This statistical release presents official statistics on the number of sales of dwellings under the right to buy scheme, as well as providing statistics on receipts resulting from those sales, and starts on site as part of the one-for-one replacements.&lt;/p&gt;
 
-&lt;p&gt;Statistics in this release present figures on new build housing starts and completions in England. Figures for the UK and constituent countries are also available in the accompanying tables.&lt;/p&gt;
-
-&lt;p&gt;The latest statistics report on the period July to September 2012 and update those previously released on 16 August 2012.&lt;/p&gt;
-
-&lt;p&gt;Key points from the latest release are:&lt;/p&gt;
+&lt;p&gt;Key points from the release are:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Seasonally adjusted house building starts in England increased by 18% and stood at 25,760 in the September quarter 2012.&lt;/li&gt;
-  &lt;li&gt;Seasonally adjusted completions fell, down 7% to 27,060 in the September quarter 2012.&lt;/li&gt;
-  &lt;li&gt;Private enterprise housing starts (seasonally adjusted) were 15% higher in the September quarter 2012 than the previous quarter, whilst starts by housing associations were 23% higher.&lt;/li&gt;
-  &lt;li&gt;Seasonally adjusted private enterprise completions fell by 6% and housing association completions fell by 14% from the previous quarter.&lt;/li&gt;
-  &lt;li&gt;Seasonally adjusted starts are now 52% above the trough in the March quarter 2009 but 45% below the December quarter 2005 peak. Completions are 44% below their March quarter 2007 peak.&lt;/li&gt;
-  &lt;li&gt;Annual housing starts totalled 98,020 in the 12 months to September 2012, down by 9% compared with the year before. Annual housing completions in England reached 117,190 in the 12 months to September 2012, an increase of 6% compared with the previous 12 months.&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</content>
+&lt;li&gt;Local authorities sold an estimated 444 dwellings under the right to buy scheme in 2012-13 quarter 1. In this quarter local authorities received £24 million from right to buy sales, while 14 dwellings were started on site or acquired.&lt;/li&gt;
+  &lt;li&gt;Local authorities sold an estimated 1,043 dwellings under the right to buy scheme in 2012-13 quarter 2. In this quarter local authorities received £62 million from right to buy sales, while 234 dwellings were started on site or acquired.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;These statistics relate only to sales by local authorities under the right to buy scheme, excluding sales by registered providers under preserved right to buy.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/16254</id>
@@ -76,19 +78,27 @@
 &lt;/ul&gt;&lt;p&gt;These statistics relate to right to buy sales by local authorities and registered providers. The statistics include sales under the right to buy and preserved right to buy schemes.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/16258</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/15967</id>
     <published>2012-11-15T00:00:00+00:00</published>
     <updated>2012-11-15T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/right-to-buy-sales-in-england-2012-to-2013-quarters-1-and-2"/>
-    <title>Right to buy sales in England: 2012 to 2013 - quarters 1 and 2</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This statistical release presents official statistics on the number of sales of dwellings under the right to buy scheme, as well as providing statistics on receipts resulting from those sales, and starts on site as part of the one-for-one replacements.&lt;/p&gt;
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/house-building-in-england-july-to-september-2012"/>
+    <title>House building in England: July to September 2012</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The latest national statistics on house building in England were released on 15 November 2012.&lt;/p&gt;
 
-&lt;p&gt;Key points from the release are:&lt;/p&gt;
+&lt;p&gt;Statistics in this release present figures on new build housing starts and completions in England. Figures for the UK and constituent countries are also available in the accompanying tables.&lt;/p&gt;
+
+&lt;p&gt;The latest statistics report on the period July to September 2012 and update those previously released on 16 August 2012.&lt;/p&gt;
+
+&lt;p&gt;Key points from the latest release are:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Local authorities sold an estimated 444 dwellings under the right to buy scheme in 2012-13 quarter 1. In this quarter local authorities received £24 million from right to buy sales, while 14 dwellings were started on site or acquired.&lt;/li&gt;
-  &lt;li&gt;Local authorities sold an estimated 1,043 dwellings under the right to buy scheme in 2012-13 quarter 2. In this quarter local authorities received £62 million from right to buy sales, while 234 dwellings were started on site or acquired.&lt;/li&gt;
-&lt;/ul&gt;&lt;p&gt;These statistics relate only to sales by local authorities under the right to buy scheme, excluding sales by registered providers under preserved right to buy.&lt;/p&gt;&lt;/div&gt;</content>
+&lt;li&gt;Seasonally adjusted house building starts in England increased by 18% and stood at 25,760 in the September quarter 2012.&lt;/li&gt;
+  &lt;li&gt;Seasonally adjusted completions fell, down 7% to 27,060 in the September quarter 2012.&lt;/li&gt;
+  &lt;li&gt;Private enterprise housing starts (seasonally adjusted) were 15% higher in the September quarter 2012 than the previous quarter, whilst starts by housing associations were 23% higher.&lt;/li&gt;
+  &lt;li&gt;Seasonally adjusted private enterprise completions fell by 6% and housing association completions fell by 14% from the previous quarter.&lt;/li&gt;
+  &lt;li&gt;Seasonally adjusted starts are now 52% above the trough in the March quarter 2009 but 45% below the December quarter 2005 peak. Completions are 44% below their March quarter 2007 peak.&lt;/li&gt;
+  &lt;li&gt;Annual housing starts totalled 98,020 in the 12 months to September 2012, down by 9% compared with the year before. Annual housing completions in England reached 117,190 in the 12 months to September 2012, an increase of 6% compared with the previous 12 months.&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/16273</id>
@@ -194,33 +204,6 @@
 &lt;p&gt;&lt;strong&gt;Please note:&lt;/strong&gt; This guidance updates the version published on 21 March 2011, provided below as a &lt;em&gt;Related Publication&lt;/em&gt;.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/15742</id>
-    <published>2012-08-16T00:00:00+01:00</published>
-    <updated>2012-08-16T00:00:00+01:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/house-building-june-quarter-2012-england"/>
-    <title>House building in England: April to June 2012</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The latest statistics report on the period April to June 2012 and update those previously released on 17 May 2012.&lt;/p&gt;
-
-&lt;p&gt;Key points from the latest release are:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;seasonally adjusted house building starts in England stood at 21,540 in the June quarter 2012. This is 10 per cent lower than in the March quarter 2012&lt;/li&gt;
-  &lt;li&gt;completions (seasonally adjusted) also fell, down 6 per cent to 29,470 in the June quarter 2012&lt;/li&gt;
-  &lt;li&gt;private enterprise housing starts (seasonally adjusted) were 7 per cent lower in the June quarter 2012 than the previous quarter, whilst starts by housing associations were 23 per cent lower&lt;/li&gt;
-  &lt;li&gt;seasonally adjusted private enterprise completions fell by 5 per cent and housing association completions fell by 11 per cent from the previous quarter&lt;/li&gt;
-  &lt;li&gt;seasonally adjusted starts are now 27 per cent above the trough in the March quarter 2009 but 54 percent below the December quarter 2005 peak. Completions are 39 per cent below their March quarter 2007 peak&lt;/li&gt;
-  &lt;li&gt;annual housing starts totalled 98,670 in the 12 months to June 2012, down by 10 per cent compared with the year before. Annual housing completions in England reached 118,330 in the 12 months to June 2012, an increase of 8 per cent compared with the previous 12 months&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/11810</id>
-    <published>2012-08-16T00:00:00+01:00</published>
-    <updated>2012-08-16T00:00:00+01:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/costs-of-homelessness-evidence-review"/>
-    <title>Costs of homelessness: evidence review</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This paper is intended to provide an initial overview of evidence held by government and other organisations, including that already published, of the magnitude of financial costs to government from homelessness. The paper describes the evidence currently available, with the aim of providing a basis for further research and analysis.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/11811</id>
     <published>2012-08-16T00:00:00+01:00</published>
     <updated>2012-08-16T00:00:00+01:00</updated>
@@ -231,6 +214,14 @@
 &lt;p&gt;In this report we turn our attention up stream to think about how services can be managed in a way that prevents all households, regardless of whether they are families, couples, or single people, from reaching a crisis point where they are faced with homelessness.&lt;/p&gt;
 
 &lt;p&gt;Round 2 of the Homelessness Transition Fund was announced by the charity Homeless Link on 16 August 2012.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/11810</id>
+    <published>2012-08-16T00:00:00+01:00</published>
+    <updated>2012-08-16T00:00:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/costs-of-homelessness-evidence-review"/>
+    <title>Costs of homelessness: evidence review</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This paper is intended to provide an initial overview of evidence held by government and other organisations, including that already published, of the magnitude of financial costs to government from homelessness. The paper describes the evidence currently available, with the aim of providing a basis for further research and analysis.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/15879</id>
@@ -250,6 +241,25 @@
   &lt;li&gt;in 2011-12, 57 per cent of cases of homelessness prevention and relief involved the household being assisted to obtain alternative accommodation. The remaining 43 per cent involved the cases being assisted to remain in their existing home. This has not changed since 2010-11.&lt;/li&gt;
   &lt;li&gt;the most common action taken to prevent or relieve homelessness was the use of landlord incentive schemes to secure private rented sector accommodation. In 2011-12, 27,600 cases (14 per cent) were assisted in obtaining alternative accommodation this way, though this was a decrease of 10 per cent compared to 2010-11&lt;/li&gt;
   &lt;li&gt;the amount of homelessness prevention and relief activity varied across the regions. The North East had the highest rate of cases of prevention and relief with 11.8 cases per 1,000 households. The West Midlands (11.7 cases per 1,000 households), Yorkshire and the Humber (11.5) and the East Midlands (10.8) also had high rates of prevention and relief. The East of England, with 6.8 cases per 1,000 households, had the lowest rate.&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/15742</id>
+    <published>2012-08-16T00:00:00+01:00</published>
+    <updated>2012-08-16T00:00:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/house-building-june-quarter-2012-england"/>
+    <title>House building in England: April to June 2012</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The latest statistics report on the period April to June 2012 and update those previously released on 17 May 2012.&lt;/p&gt;
+
+&lt;p&gt;Key points from the latest release are:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;seasonally adjusted house building starts in England stood at 21,540 in the June quarter 2012. This is 10 per cent lower than in the March quarter 2012&lt;/li&gt;
+  &lt;li&gt;completions (seasonally adjusted) also fell, down 6 per cent to 29,470 in the June quarter 2012&lt;/li&gt;
+  &lt;li&gt;private enterprise housing starts (seasonally adjusted) were 7 per cent lower in the June quarter 2012 than the previous quarter, whilst starts by housing associations were 23 per cent lower&lt;/li&gt;
+  &lt;li&gt;seasonally adjusted private enterprise completions fell by 5 per cent and housing association completions fell by 11 per cent from the previous quarter&lt;/li&gt;
+  &lt;li&gt;seasonally adjusted starts are now 27 per cent above the trough in the March quarter 2009 but 54 percent below the December quarter 2005 peak. Completions are 39 per cent below their March quarter 2007 peak&lt;/li&gt;
+  &lt;li&gt;annual housing starts totalled 98,670 in the 12 months to June 2012, down by 10 per cent compared with the year before. Annual housing completions in England reached 118,330 in the 12 months to June 2012, an increase of 8 per cent compared with the previous 12 months&lt;/li&gt;
 &lt;/ul&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
@@ -298,29 +308,5 @@
   &lt;li&gt;Households living in poverty were more likely to live in homes that had significant outstanding repairs and damp problems than households who were not living in poverty.&lt;/li&gt;
   &lt;li&gt;The majority of households were satisfied with their local areas and their accommodation. However, although the majority of people felt their areas had not changed much over the previous two years, across all tenures, they were more likely to say their local area had got worse than better.&lt;/li&gt;
 &lt;/ul&gt;&lt;p&gt;The Excel files below include the annex tables, and the tables and figures for each chapter.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/11647</id>
-    <published>2012-07-05T00:00:00+01:00</published>
-    <updated>2012-07-05T00:00:00+01:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/english-housing-survey-homes-report-2010"/>
-    <title>English housing survey homes report: 2010</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Department for Communities and Local Government published the English Housing Survey (EHS) Homes Report 2010, formally known as the Housing Stock Report, on Thursday 5 July 2012.&lt;/p&gt;
-
-&lt;p&gt;This is the detailed report of findings relating to the housing stock from the survey, and builds on results reported in the English Housing Survey Headline Report published in February 2012.&lt;/p&gt;
-
-&lt;p&gt;The English Housing Survey Household Report 2010-11 was also published on 5 July 2012.
-The English Housing Survey began in April 2008 bringing together two former DCLG housing surveys - the English House Condition Survey and the Survey of English Housing.&lt;/p&gt;
-
-&lt;p&gt;The report includes the following findings:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;In 2010, there were 22.4 million dwellings in England. Some 66 per cent of these were owner occupied and the rest were rented, split fairly evenly between the private rented sector (17 per cent) and social rented sector (17 per cent). There were slightly more housing association dwellings (2 million) than local authority dwellings (1.8 million).&lt;/li&gt;
-  &lt;li&gt;Some 52% of the private rented stock was built before 1945 including 40 per cent built before 1919. Also, 15 per cent of private rented homes were converted flats.&lt;/li&gt;
-  &lt;li&gt;The total cost of dealing with basic disrepair (day to day maintenance) within the stock was around £31.8 billion at 2010 prices and the average cost of this type of disrepair was £1,418 per dwelling.&lt;/li&gt;
-  &lt;li&gt;The proportion of dwellings with damp problems fell from 10 per cent in 2001 to 7 per cent in 2010. This was mainly due to a fall in the incidence of problems caused by penetrating damp.&lt;/li&gt;
-  &lt;li&gt;The average energy efficiency rating for the whole stock (using SAP09) has increased from 45 in 1996 to 55 in 2010.&lt;/li&gt;
-  &lt;li&gt;The average SAP rating in the social sector in 2010 was around eight points higher than either owner occupied or private rented homes (62 compared with 54).&lt;/li&gt;
-&lt;/ul&gt;&lt;p&gt;The excel files below include annex tables and the tables and figures for each chapter.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
 </feed>

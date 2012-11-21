@@ -8,7 +8,22 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-11-19T00:00:00+00:00</updated>
+  <updated>2012-11-20T09:31:27+00:00</updated>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/16458</id>
+    <published>2012-11-20T09:31:27+00:00</published>
+    <updated>2012-11-20T09:31:27+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/consultations/implementation-of-port-security-regulations-2009-at-certain-ports"/>
+    <title>Implementation of Port Security Regulations 2009 at certain ports</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The purpose of Directive 2005/65/EC is to enhance security coordination in the wider area at certain ports. The directive requires the following:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;designation of a port security authority&lt;/li&gt;
+  &lt;li&gt;appointment of a port security officer&lt;/li&gt;
+  &lt;li&gt;a port security risk assessment to be conducted&lt;/li&gt;
+  &lt;li&gt;creation of a port security plan&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;The draft designation orders which we are are consulting on here append plan(s) outlining the area which the port security authority will have responsibility over.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/16298</id>
     <published>2012-11-19T00:00:00+00:00</published>
@@ -306,20 +321,20 @@ Department for Transport
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This Freedom of Information response letter and supporting material concern additional car parking at Bedwyn station.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/10586</id>
-    <published>2012-11-06T00:00:00+00:00</published>
-    <updated>2012-11-06T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/provision-of-road-de-icing-salt"/>
-    <title>Provision of road de-icing salt</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;&lt;abbr title="Freedom of Information"&gt;FOI&lt;/abbr&gt; Request for as much detail as possible for orders of grit during winter 2010-11, winter 2009-10 and winter 2008-09.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/12812</id>
     <published>2012-11-06T00:00:00+00:00</published>
     <updated>2012-11-06T00:00:00+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/details-of-passenger-ship-fires-in-2010"/>
     <title>Passenger ship fires in 2010</title>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Department for Transport’s (&lt;abbr title="The Department for Transport"&gt;DfT&lt;/abbr&gt;’s) response to Freedom of Information (&lt;abbr title="Freedom of Information"&gt;FOI&lt;/abbr&gt;) request F0007151: Passenger ship fires in 2010.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/10586</id>
+    <published>2012-11-06T00:00:00+00:00</published>
+    <updated>2012-11-06T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/provision-of-road-de-icing-salt"/>
+    <title>Provision of road de-icing salt</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;&lt;abbr title="Freedom of Information"&gt;FOI&lt;/abbr&gt; Request for as much detail as possible for orders of grit during winter 2010-11, winter 2009-10 and winter 2008-09.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/15227</id>
@@ -369,7 +384,7 @@ Department for Transport
 &lt;p&gt;If you have any comments, queries or suggestions on existing or further help notes, please e-mail &lt;a href="mailto:mailto:interoperability@dft.gsi.gov.uk"&gt;interoperability@dft.gsi.gov.uk&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/14473</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/16473</id>
     <published>2012-11-02T00:00:00+00:00</published>
     <updated>2012-11-02T00:00:00+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/airports-commission"/>
@@ -384,7 +399,7 @@ Department for Transport
 
 &lt;h3 id="emailing-the-airports-commission"&gt;Emailing the Airports Commission&lt;/h3&gt;
 
-&lt;p&gt;If you wish to write, please send your email to &lt;a href="mailto:airport.enquiries@dft.gsi.gov.uk"&gt;airport.enquiries@dft.gsi.gov.uk&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;If you wish to write, please send your email to &lt;a href="mailto:airports.enquiries@airports.gsi.gov.uk"&gt;airports.enquiries@airports.gsi.gov.uk&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h3 id="writing-to-the-airports-commission"&gt;Writing to the Airports Commission&lt;/h3&gt;
 
@@ -479,37 +494,5 @@ Airports Commission
     <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="summary"&gt;Summary&lt;/h2&gt;
 
 &lt;p&gt;This letter gives consent to the mortgaging or charging of dues on ships under section 24 of the Merchant Shipping Act 1853. The letter concerns the harbour authorities of Birkenhead Port Limited, Heysham Port Limited, The Manchester Ship Canal Company Limited, The Mersey Docks and Harbour Company Limited and Port of Sheerness Limited.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/14249</id>
-    <published>2012-10-26T00:00:00+01:00</published>
-    <updated>2012-10-26T00:00:00+01:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/local-sustainable-transport-fund"/>
-    <title>Local Sustainable Transport Fund</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Local Transport White Paper Creating Growth, Cutting Carbon, published in January 2011, placed localism at the heart of the transport agenda in order to cut carbon emissions and create local growth. A total of £560 million was originally made available through the Local Sustainable Transport Fund to enable the Department to fund a number of high quality bids. Funding was topped up with a further £40 million to £600 million in 2012 to accommodate approval for a greater number of bids (with match funding being provided by local authority partners). In total, DfT awarded funding to 96 packages to 77 authorities to deliver their schemes between 2011 and 2015. Along with local contributions provided by all funded project teams, over £1 billion is now being invested in local sustainable travel.&lt;/p&gt;
-
-&lt;p&gt;The funding announcements made were as follows:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;11 September 2012, Ministers approved just under £5 million to Tyne and Wear ITA for a small project, based on the strongest elements of their Large Project proposal (which was turned down for funding in June 2012)&lt;/li&gt;
-  &lt;li&gt;27 June 2012, Ministers awarded £225 million to 12 large projects (above £5 million), plus £41 million to 14 tranche 2 projects (small projects up to £5 million)&lt;/li&gt;
-  &lt;li&gt;24 May 2012, Ministers awarded £113 million to 30 tranche 2 projects (small projects up to £5 million)&lt;/li&gt;
-  &lt;li&gt;5 July 2011, Ministers awarded £155 million to 39 tranche 1 projects (small projects up to £5 million)&lt;/li&gt;
-&lt;/ul&gt;&lt;p&gt;The Local Sustainable Transport Fund bidding rounds are now closed and the fund is fully committed.&lt;/p&gt;
-
-&lt;h2 id="lstf-workshops"&gt;LSTF workshops&lt;/h2&gt;
-
-&lt;p&gt;Materials from the department’s programme of workshops with local authorities.&lt;/p&gt;
-
-&lt;h3 id="tranche-2---october-2011"&gt;Tranche 2 - October 2011&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a rel="external" href="http://www.dft.gov.uk/publications/lstf-tranche2-workshops/"&gt;Video presentation by the Parliamentary Under-Secretary of State for Transport&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a rel="external" href="http://www.bis.gov.uk/assets/BISCore/economic-development/docs/S/supporting-local-growth-tom-smyth-bis"&gt;Workshop presentation: ‘Supporting Local Growth’ by Tom Smyth - BIS (PPT - 186 KB)&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;h3 id="tranche-1---february-2011"&gt;Tranche 1 - February 2011&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a rel="external" href="http://www.dft.gov.uk/publications/lstf"&gt;Video presentation by the Parliamentary Under-Secretary of State for Transport&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</content>
   </entry>
 </feed>
