@@ -8,7 +8,23 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-11-20T09:31:27+00:00</updated>
+  <updated>2012-11-21T00:00:00+00:00</updated>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/16627</id>
+    <published>2012-11-21T00:00:00+00:00</published>
+    <updated>2012-11-21T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/contact-telephone-numbers-for-crosscountry-rail"/>
+    <title>Contact telephone numbers for Crosscountry rail</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Freedom of Information request regarding geographical contact telephone numbers for Crosscountry&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/16632</id>
+    <published>2012-11-21T00:00:00+00:00</published>
+    <updated>2012-11-21T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/decision-letter-greater-manchester-light-rapid-transit-system"/>
+    <title>Decision letter - Greater Manchester (Light Rapid Transit System) </title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Decision letter to authorise a modification to the route of an extension of the Metrolink system near Oldham Town Centre.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/16458</id>
     <published>2012-11-20T09:31:27+00:00</published>
@@ -25,6 +41,14 @@
 &lt;/ul&gt;&lt;p&gt;The draft designation orders which we are are consulting on here append plan(s) outlining the area which the port security authority will have responsibility over.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/16298</id>
+    <published>2012-11-19T00:00:00+00:00</published>
+    <updated>2012-11-19T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/street-lighting"/>
+    <title>Street lighting</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Freedom of Information response regarding the switching off of street lighting on sections of some roads.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/16370</id>
     <published>2012-11-19T00:00:00+00:00</published>
     <updated>2012-11-19T00:00:00+00:00</updated>
@@ -33,14 +57,6 @@
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;These model ship plans will help company and ship security officers to compile a ship security plan (SSP) under the International Ship and Port Facility Security (ISPS) Code, for agreement and verification by the Department for Transport. &lt;/p&gt;
 
 &lt;p&gt;The documents are cruise ship and ro-ro (roll-on/roll-off) passenger ferry templates. A &lt;a rel="external" href="http://www.dft.gov.uk/mca/mcga07-home/shipsandcargoes/mcga-shipsregsandguidance/mcga_dops_maritimesecurity_mainpage/dops_ms-guidance/mcga_dops_msb_ssp/dops_msb__model_ship_security_plan.htm"&gt;template for use with cargo ships&lt;/a&gt; is available on the &lt;a rel="external" href="http://www.dft.gov.uk/mca/"&gt;Maritime and Coastguard website&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/16298</id>
-    <published>2012-11-19T00:00:00+00:00</published>
-    <updated>2012-11-19T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/street-lighting"/>
-    <title>Street lighting</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Freedom of Information response regarding the switching off of street lighting on sections of some roads.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/16093</id>
@@ -137,36 +153,12 @@ Department for Transport
 &lt;/ul&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/15331</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/15323</id>
     <published>2012-11-13T00:00:00+00:00</published>
     <updated>2012-11-13T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/short-notice-driving-test-cancellations-and-fee-reimbursements"/>
-    <title>Short notice driving test cancellations and fee reimbursements </title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Information about short notice driving test cancellations and fee reimbursements.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/15338</id>
-    <published>2012-11-13T00:00:00+00:00</published>
-    <updated>2012-11-13T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/car-theory-and-practical-driving-tests-taken-in-london"/>
-    <title>Car theory and practical driving tests taken in London</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Information about car theory and practical driving tests taken in London.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/15337</id>
-    <published>2012-11-13T00:00:00+00:00</published>
-    <updated>2012-11-13T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/dvla-medical-driver-appraisals-completed-by-dsa"/>
-    <title>DVLA medical driver appraisals completed by DSA</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Information about DVLA medical driver appraisals completed by DSA.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/15340</id>
-    <published>2012-11-13T00:00:00+00:00</published>
-    <updated>2012-11-13T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/car-theory-and-practical-driving-tests-passed-on-6-or-more-attempts-at-stoke-on-trent"/>
-    <title>Car theory and practical driving tests passed on 6 or more attempts at Stoke on Trent</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Information about car theory and practical driving tests passed on 6 or more attempts at Stoke on Trent.&lt;/p&gt;&lt;/div&gt;</content>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/cost-of-the-driver-cpc-recording-and-evidencing-database"/>
+    <title>Cost of the Driver CPC recording and evidencing database</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Information about the cost of the Driver CPC recording and evidencing database.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/15074</id>
@@ -177,14 +169,6 @@ Department for Transport
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This consultation seeks views on amending the Road Traffic Act 1988 to remove the need for insurers to issue a motor insurance certificate when an insurance policy is taken out. At present the certificate is used as evidence of valid insurance cover and there are circumstances when it must be produced by the insured to demonstrate they have valid cover.&lt;/p&gt;
 
 &lt;p&gt;Insurers are required by law to enter details of all motor insurance policies onto the motor insurance database (&lt;abbr title="motor insurance database"&gt;MID&lt;/abbr&gt;). This consultation document considers using the &lt;abbr title="motor insurance database"&gt;MID&lt;/abbr&gt; as the single source for checking if insurance cover is in place and considers what further changes and developments are needed to make this work.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/15323</id>
-    <published>2012-11-13T00:00:00+00:00</published>
-    <updated>2012-11-13T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/cost-of-the-driver-cpc-recording-and-evidencing-database"/>
-    <title>Cost of the Driver CPC recording and evidencing database</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Information about the cost of the Driver CPC recording and evidencing database.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/15320</id>
@@ -207,6 +191,38 @@ Department for Transport
 &lt;p&gt;This spreadsheet tool is intended to provide indicative estimates only and &lt;abbr title="low carbon emission bus"&gt;DfT&lt;/abbr&gt; does not vouch for the accuracy of such estimates. Please note that the Department for Transport does not accept any liability for any decisions that may be taken on the basis of such estimates.&lt;/p&gt;
 
 &lt;p&gt;This toolkit will be routinely updated and refined. Details of any updates or changes that are made will be outlined in the ‘Intro’ worksheet of the toolkit. We therefore encourage you to visit this website regularly and download the toolkit to ensure you are using the latest version.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/15331</id>
+    <published>2012-11-13T00:00:00+00:00</published>
+    <updated>2012-11-13T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/short-notice-driving-test-cancellations-and-fee-reimbursements"/>
+    <title>Short notice driving test cancellations and fee reimbursements </title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Information about short notice driving test cancellations and fee reimbursements.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/15337</id>
+    <published>2012-11-13T00:00:00+00:00</published>
+    <updated>2012-11-13T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/dvla-medical-driver-appraisals-completed-by-dsa"/>
+    <title>DVLA medical driver appraisals completed by DSA</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Information about DVLA medical driver appraisals completed by DSA.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/15340</id>
+    <published>2012-11-13T00:00:00+00:00</published>
+    <updated>2012-11-13T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/car-theory-and-practical-driving-tests-passed-on-6-or-more-attempts-at-stoke-on-trent"/>
+    <title>Car theory and practical driving tests passed on 6 or more attempts at Stoke on Trent</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Information about car theory and practical driving tests passed on 6 or more attempts at Stoke on Trent.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/15338</id>
+    <published>2012-11-13T00:00:00+00:00</published>
+    <updated>2012-11-13T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/car-theory-and-practical-driving-tests-taken-in-london"/>
+    <title>Car theory and practical driving tests taken in London</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Information about car theory and practical driving tests taken in London.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/14274</id>
@@ -433,414 +449,5 @@ Department for Transport
   &lt;li&gt;&lt;a rel="external" href="http://www.dft.gov.uk/news/statements/hammond-20121109a"&gt;Heavy goods vehicles, written statement by Stephen Hammond, Parliamentary Under Secretary of State for Transport&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a rel="external" href="http://www.dft.gov.uk/news/press-releases/dft-press-20121109a"&gt;Plans unveiled to increase lorry speeds to boost growth press release&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/14464</id>
-    <published>2012-11-08T00:00:00+00:00</published>
-    <updated>2012-11-08T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/history-of-road-safety-and-the-driving-test"/>
-    <title>History of road safety and the driving test</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="introduction"&gt;Introduction&lt;/h2&gt;
-&lt;p&gt;Driver licences were first introduced in Britain by the Motor Car Act, 1903, purely as a means of identifying vehicles and their drivers. &lt;/p&gt;
-
-&lt;p&gt;All motor vehicles had to be registered, display registration marks and be licensed annually at a cost of 20 shillings (£1).&lt;/p&gt;
-
-&lt;p&gt;The fee for the first driving licence, which was obtained over the counter at Post Offices, was 5 shillings (25p).&lt;/p&gt;
-
-&lt;p&gt;Failure to sign your driving licence with your ‘ordinary signature’ could lead to a fine of up to £5.&lt;/p&gt;
-
-&lt;p&gt;In 1921 there were only 1 million drivers in Britain. By 1939 this figure had risen to 3 million. But it was only during the 1960s, when cars became more affordable, that motoring really took off.&lt;/p&gt;
-
-&lt;p&gt;In 1973 the number of drivers had risen to about 20 million and a centralised computer-based licensing system was brought in to cope with the huge increase in demand for both driver and vehicle licences.&lt;/p&gt;
-
-&lt;h2 id="the-highway-code"&gt;The Highway Code&lt;/h2&gt;
-&lt;p&gt;Hundreds of thousands of copies of The Highway Code are sold each year, ensuring that it never leaves the bestseller lists. It’s one of the few books in print that can lay claim to saving thousands of lives. &lt;/p&gt;
-
-&lt;p&gt;When it was first launched in 1931 there were just 2.3 million motor vehicles in Great Britain, yet over 7,000 people were killed in road accidents each year.&lt;/p&gt;
-
-&lt;figure class="image embedded"&gt;&lt;div class="img"&gt;&lt;img alt="The Highway Code first edition" src="https://assets.digital.cabinet-office.gov.uk/government/uploads/system/uploads/image_data/file/1084/highway-code-first-edition.jpg"&gt;&lt;/div&gt;
-  &lt;figcaption&gt;The Highway Code first edition&lt;/figcaption&gt;&lt;/figure&gt;&lt;p&gt;Today there are more than 27 million vehicles on our roads but, thanks to greater public awareness, advances in technology and the introduction of British summer time, only half the number of road deaths occur.&lt;/p&gt;
-
-&lt;p&gt;Some things have not changed over the years: the very first edition of The Highway Code urged all road users to be careful and considerate towards others, putting safety first. However, other aspects of the code have changed considerably. For example, in 1931 mirrors were not even mentioned and drivers were advised to sound their horn when overtaking.&lt;/p&gt;
-
-&lt;p&gt;Nowadays, advice on how to cross the road fills a whole chapter, but in the early days it only merited a paragraph. More than a third of the original 24-page booklet described the various hand signals the police and road users should use, compared to the single page given to the subject in the current edition.&lt;/p&gt;
-
-&lt;h3 id="the-first-edition"&gt;The first edition&lt;/h3&gt;
-&lt;p&gt;The first edition was published in 1931, it:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;cost 1 old penny&lt;/li&gt;
-  &lt;li&gt;was the only one to carry advertisements, for the AA, The Autocar magazine, The Motorcycle magazine, Castrol Motor Oil, BP, Motor Union Insurance and the RAC&lt;/li&gt;
-  &lt;li&gt;contained 18 pages of advice, compared to 135 pages in the 2007 edition&lt;/li&gt;
-  &lt;li&gt;included advice to drivers of horse drawn vehicles to ‘rotate the whip above the head; then incline the whip to the right or left to show the direction in which the turn is to be made.’&lt;/li&gt;
-&lt;/ul&gt;&lt;p&gt;Since those early days, regular revisions of the Code have reflected changes in technology and developments in traffic management and road safety.&lt;/p&gt;
-
-&lt;h3 id="road-signs"&gt;Road signs&lt;/h3&gt;
-&lt;p&gt;Diagrams of road signs - just 10 signs in all - were first seen in the second edition, as was a warning about the dangers of driving when affected by alcohol or fatigue.&lt;/p&gt;
-
-&lt;h3 id="stopping-distances"&gt;Stopping distances&lt;/h3&gt;
-&lt;p&gt;Stopping distances made their first appearance in the third edition, along with new sections giving hints on driving and cycling.&lt;/p&gt;
-
-&lt;h3 id="in-colour"&gt;In colour&lt;/h3&gt;
-&lt;p&gt;The 1954 Highway Code, complemented by brand new colour illustrations, gave over the back cover to first aid guidance, while the expanded traffic signs section contained the first triangular warning signs.&lt;/p&gt;
-
-&lt;h3 id="motorways"&gt;Motorways&lt;/h3&gt;
-&lt;p&gt;The arrival of motorways in the late 1950s led to the inclusion, in the fifth edition, of a new section on motorway driving. It explained such things as how to use exit slip roads and advising drivers to avoid drowsiness by stretching their legs at the parking or service areas.&lt;/p&gt;
-
-&lt;h3 id="photographs-and-3d-illustrations"&gt;Photographs and 3D illustrations&lt;/h3&gt;
-&lt;p&gt;By the sixth edition in 1968 photographs and 3D illustrations had been included to help make rules clear and the price had risen from 6 old pence to 1/3d (6p). After decimalisation reprinted editions cost just 6 new pence.&lt;/p&gt;
-
-&lt;h3 id="green-cross-code"&gt;Green Cross Code&lt;/h3&gt;
-&lt;p&gt;The 70-page 1978 edition introduced the Green Cross Code for pedestrians and the new orange badges for people with a disability. Prompted by soaring car crime statistics, the amended version contained advice on vehicle security.&lt;/p&gt;
-
-&lt;h3 id="theory-test"&gt;Theory test&lt;/h3&gt;
-&lt;p&gt;The 1990s saw a new format taller booklet and the inclusion of a section geared to the new driving theory test, which in the current edition has now become part of the Code itself.&lt;/p&gt;
-
-&lt;h3 id="getting-social"&gt;Getting social&lt;/h3&gt;
-&lt;p&gt;In 2011 the Highway Code joined social networking websites Twitter and Facebook to share reminders of the rules of the road.&lt;/p&gt;
-
-&lt;h3 id="the-highway-code-app"&gt;The Highway Code app&lt;/h3&gt;
-&lt;p&gt;In May 2012 &lt;a rel="external" href="https://itunes.apple.com/gb/app/official-highway-code/id522687241?mt=8" title="The Official Highway Code app"&gt;The Official Highway Code app&lt;/a&gt; for iPhone, iPod Touch and iPad was launched, priced £3.99.&lt;/p&gt;
-
-&lt;div class="call-to-action"&gt;
-&lt;p&gt;&lt;a href="/highway-code" title="Read the Highway Code on GOV.UK"&gt;Read The Highway Code on GOV.UK&lt;/a&gt;.&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;h2 id="development-and-timeline-of-british-driving-road-safety-and-driving-tests"&gt;Development and timeline of British driving, road safety and driving tests&lt;/h2&gt;
-
-&lt;h2 id="section"&gt;1888&lt;/h2&gt;
-&lt;p&gt;The first recorded sale of a manufactured motor car was to Emile Roger of Paris, who bought a petrol-driven Benz.&lt;/p&gt;
-
-&lt;h2 id="section-1"&gt;1907&lt;/h2&gt;
-&lt;p&gt;Cabs with meters began operating in London.&lt;/p&gt;
-
-&lt;h2 id="section-2"&gt;1930&lt;/h2&gt;
-&lt;p&gt;Regulations introduced covering endorsements and fitness declaration. The Road Traffic Act 1930 introduces licensing system for public service vehicles (&lt;abbr title="Public service vehicle"&gt;PSV&lt;/abbr&gt;). In the early days of motoring, one licence covered both cars and motorcycles use. Age restrictions and a form of driving tests brought in for disabled drivers. Full licences for disabled drivers valid for 1 year.&lt;/p&gt;
-
-&lt;h2 id="section-3"&gt;1931&lt;/h2&gt;
-&lt;p&gt;&lt;abbr title="Public service vehicle"&gt;PSV&lt;/abbr&gt; drivers could be required to take a test, at discretion of Traffic Commissioners.
-The first edition of the Highway Code was published including advice for motorcycle riders.&lt;/p&gt;
-
-&lt;h2 id="february"&gt;1934 (16 February)&lt;/h2&gt;
-&lt;p&gt;Licences for lorry drivers were introduced under the Road Traffic Act, 1934 - the licensing authority could require the applicant to submit to a practical test of their ability.
-‘Belisha’ beacons provide advanced warning of new pedestrian crossings.&lt;/p&gt;
-
-&lt;h2 id="march"&gt;1935 (16 March)&lt;/h2&gt;
-&lt;p&gt;Voluntary testing was introduced by the Road Traffic Act, 1934, to avoid a rush of candidates when the test becomes compulsory. Mr J Beene was the first person to pass his driving test, at a cost of 7/ 6d (37.5p)&lt;/p&gt;
-
-&lt;h2 id="june"&gt;1935 (1 June)&lt;/h2&gt;
-&lt;p&gt;Compulsory testing was brought in for all drivers and riders who started driving on or after 1 April 1934:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;around 246,000 candidates applied&lt;/li&gt;
-  &lt;li&gt;the pass rate was 63%&lt;/li&gt;
-  &lt;li&gt;between 9 and 16 half-hour tests were conducted each day by 250 examiners&lt;/li&gt;
-&lt;/ul&gt;&lt;p&gt;Those passing the motorcycling test did not need to take another test to drive a car. The test was conducted by the examiner positioning themselves at a point where they could observe the motorcyclist’s riding such as beside a common or in a city square.&lt;/p&gt;
-
-&lt;p&gt;In the case of sidecar outfits or three-wheelers, the examiner might have accompanied the rider.&lt;/p&gt;
-
-&lt;p&gt;Examiners were responsible for:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;handling the booking of driving tests&lt;/li&gt;
-  &lt;li&gt;they met candidates at pre-arranged locations such as car parks or railway stations because there were no test centres&lt;/li&gt;
-&lt;/ul&gt;&lt;p&gt;Other road safety milestones included:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;anyone buying a driving licence must put ‘L’ plates on the car and eventually take a driving test to get their full licence&lt;/li&gt;
-  &lt;li&gt;a 30 miles per hour (mph) speed limit was introduced in urban areas&lt;/li&gt;
-  &lt;li&gt;windscreen wipers were used for the first time&lt;/li&gt;
-&lt;/ul&gt;&lt;h2 id="january"&gt;1937 (1 January)&lt;/h2&gt;
-&lt;p&gt;Speedometers and safety glass in windscreens were made compulsory.
-Provisional licences were brought in for heavy goods vehicle (&lt;abbr title="Heavy goods vehicle"&gt;HGV&lt;/abbr&gt;) drivers.&lt;/p&gt;
-
-&lt;h2 id="september"&gt;1939 (2 September)&lt;/h2&gt;
-&lt;p&gt;Driving tests were suspended for the duration of World War 2. During the war, examiners  were redeployed to traffic duties and supervision of fuel rationing.&lt;/p&gt;
-
-&lt;h2 id="january-1"&gt;1940 (1 January)&lt;/h2&gt;
-&lt;p&gt;&lt;abbr title="Heavy goods vehicle"&gt;HGV&lt;/abbr&gt; licences and tests were suspended during World War 2.&lt;/p&gt;
-
-&lt;h2 id="november"&gt;1946 (1 November)&lt;/h2&gt;
-&lt;p&gt;Testing resumed after World War 2.&lt;/p&gt;
-
-&lt;h2 id="section-4"&gt;1947&lt;/h2&gt;
-&lt;p&gt;The Motor Vehicles (Driving Licences) Regulations placed motorcyclists in their own licence group, but testing remained virtually unchanged until the 1960s.&lt;/p&gt;
-
-&lt;h2 id="february-1"&gt;1947 (18 February)&lt;/h2&gt;
-&lt;p&gt;A period of 1 year was granted for wartime provisional licences to be converted into full licence without passing the test.&lt;/p&gt;
-
-&lt;h2 id="section-5"&gt;1950&lt;/h2&gt;
-&lt;p&gt;The pass rate for the driving test was 50%.&lt;/p&gt;
-
-&lt;h2 id="section-6"&gt;1951&lt;/h2&gt;
-&lt;p&gt;Zebra crossings were introduced.&lt;/p&gt;
-
-&lt;h2 id="october"&gt;1956 (19 October)&lt;/h2&gt;
-&lt;p&gt;The test fee doubled from 10 shillings (50p) to £1.&lt;/p&gt;
-
-&lt;h2 id="november-1"&gt;1956 (24 November)&lt;/h2&gt;
-&lt;p&gt;Testing was suspended during the Suez Crisis. Learners were allowed to drive unaccompanied and examiners helped to administer petrol rations. &lt;/p&gt;
-
-&lt;h2 id="april"&gt;1957 (15 April)&lt;/h2&gt;
-&lt;p&gt;Testing resumed after Suez Crisis.&lt;/p&gt;
-
-&lt;h2 id="july"&gt;1957 (15 July)&lt;/h2&gt;
-&lt;p&gt;Provisional licences were no longer stamped with ‘passed test’.&lt;/p&gt;
-
-&lt;h2 id="september-1"&gt;1957 (1 September)&lt;/h2&gt;
-&lt;p&gt;The three-year driving licence was introduced under the Road Traffic Act 1956. The fee for a replacement licence, if lost or defaced, rises by 150% from 1 shilling (5p) to 2/ 6d (12.5p).&lt;/p&gt;
-
-&lt;h2 id="march-1"&gt;1958 (1 March)&lt;/h2&gt;
-&lt;p&gt;Provisional licences are valid for 6 months.&lt;/p&gt;
-
-&lt;h2 id="december"&gt;1958 (December)&lt;/h2&gt;
-&lt;p&gt;The M6 Preston bypass was the first stretch of motorway built.&lt;/p&gt;
-
-&lt;h2 id="section-7"&gt;1959&lt;/h2&gt;
-&lt;p&gt;A new examiner training facility was acquired at Stanmore training school, near Heathrow. Until then, examiners were trained ‘on the job’.&lt;/p&gt;
-
-&lt;h2 id="november-2"&gt;1959 (2 November)&lt;/h2&gt;
-&lt;p&gt;The M1 was officially opened, in the early days it had none of the following:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;speed limit&lt;/li&gt;
-  &lt;li&gt;central reservation&lt;/li&gt;
-  &lt;li&gt;crash barriers&lt;/li&gt;
-  &lt;li&gt;motorway lighting&lt;/li&gt;
-&lt;/ul&gt;&lt;h2 id="july-1"&gt;1961 (1 July)&lt;/h2&gt;
-&lt;p&gt;Learner riders were restricted to machines of no more than 250cc capacity in order to deal with the high number of motorcycling fatalities.&lt;/p&gt;
-
-&lt;h2 id="april-1"&gt;1962 (1 April)&lt;/h2&gt;
-&lt;p&gt;People who had held more than 7 provisional licences were required to take a driving test; if they failed to do so, the licensing authority could refuse a further application for a licence.&lt;/p&gt;
-
-&lt;h2 id="section-8"&gt;1963&lt;/h2&gt;
-&lt;p&gt;The Road Traffic Act 1962 permitted riders to ride motorcycles of more than 250cc after passing their test. New grouping systems were introduced for driving tests and driving licences and a distinction was made between the test of competence and the test of fitness.  Mopeds were placed in their own vehicle group for driving test purposes.&lt;/p&gt;
-
-&lt;h2 id="section-9"&gt;1964&lt;/h2&gt;
-&lt;p&gt;A voluntary register of approved driving instructors (ADIs) was set up under the Road Traffic Act 1962. To become an &lt;abbr title="Approved driving instructor"&gt;ADI&lt;/abbr&gt; you had to pass stringent written and practical tests. &lt;/p&gt;
-
-&lt;h2 id="section-10"&gt;1965&lt;/h2&gt;
-&lt;p&gt;Centralised licensing system was set up at new Swansea Driver and Vehicle Licensing Centre (&lt;abbr title="Driver and vehicle licensing centre"&gt;DVLC&lt;/abbr&gt;), taking over licence issue from County/Borough councils.&lt;/p&gt;
-
-&lt;h2 id="may"&gt;1965 (1 May)&lt;/h2&gt;
-&lt;p&gt;The application form for a driving or motorcycle licence was revised. The medical standard for eyesight was changed. The distance from which a driving test candidate must be able read a number plate was changed to 67 feet for 3 1/8 inch high characters.&lt;/p&gt;
-
-&lt;h2 id="may-1"&gt;1967 (10 May)&lt;/h2&gt;
-&lt;p&gt;The Road Safety Act 1967 paved the way for regulations covering the licensing and testing of &lt;abbr title="Heavy goods vehicle"&gt;HGV&lt;/abbr&gt; drivers. The Driving and Motor Licences Division (&lt;abbr title="Driving and motor licensing division"&gt;DMLD&lt;/abbr&gt;) began promoting safe driving through film and TV ‘shorts’.&lt;/p&gt;
-
-&lt;h2 id="october-1"&gt;1967 (8 October)&lt;/h2&gt;
-&lt;p&gt;New drink-drive laws came into force: the legal limit was 80mg alcohol in 100ml blood.&lt;/p&gt;
-
-&lt;h2 id="july-2"&gt;1968 (2 July)&lt;/h2&gt;
-&lt;p&gt;The test fee was increased to £1 and 15 shillings (£1.75p).&lt;/p&gt;
-
-&lt;h2 id="june-1"&gt;1969 (2 June)&lt;/h2&gt;
-&lt;p&gt;Changes to the driving test included:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;vehicles used in the test must not have dual accelerator control unless this had been made inoperable&lt;/li&gt;
-  &lt;li&gt;a separate driving licence group for automatic vehicles was introduced&lt;/li&gt;
-  &lt;li&gt;candidates were required to produce their driving licence to the examiner at the test and sign the examiner’s attendance record - examiners could refuse to conduct a test if these requirements were not met&lt;/li&gt;
-&lt;/ul&gt;&lt;h2 id="june-2"&gt;1969 (25 June)&lt;/h2&gt;
-&lt;p&gt;The Vehicle and Driver Licences Act introduced new regulations, including a licence fee increase and the specification of vehicle groupings for the purposes of driving tests.&lt;/p&gt;
-
-&lt;h2 id="august"&gt;1969 (4 August)&lt;/h2&gt;
-&lt;p&gt;An up-to-date scheme was introduced for licensing and testing new lorry drivers.&lt;/p&gt;
-
-&lt;h2 id="november-3"&gt;1969 (November)&lt;/h2&gt;
-&lt;p&gt;The first official driving manual published, called ‘Driving - the Ministry of Transport Manual’, priced 12/ 6d (62.5p).&lt;/p&gt;
-
-&lt;h2 id="section-11"&gt;1970&lt;/h2&gt;
-&lt;p&gt;All driving instructors now had to be officially registered. A total of 3,500 people are prosecuted for driving on a forged licence or wrongfully attempting to obtain a licence.&lt;/p&gt;
-
-&lt;p&gt;The new &lt;abbr title="Heavy goods vehicle"&gt;HGV&lt;/abbr&gt; test prompted a change in &lt;abbr title="Public service vehicle"&gt;PSV&lt;/abbr&gt; testing. Previously, vehicle inspectors had carried out &lt;abbr title="Public service vehicle"&gt;PSV&lt;/abbr&gt; driving tests: this was taken over by &lt;abbr title="Heavy goods vehicle"&gt;HGV&lt;/abbr&gt; qualified examiners.&lt;/p&gt;
-
-&lt;h2 id="section-12"&gt;1972&lt;/h2&gt;
-&lt;p&gt;The demand for driving tests rose by 20%, and a further 15% in the following year, leading to a huge backlog of tests.&lt;/p&gt;
-
-&lt;h2 id="december-1"&gt;1972 (16 December)&lt;/h2&gt;
-&lt;p&gt;The minimum age for riders of motorbikes over 50cc was raised from 16 to 17.&lt;/p&gt;
-
-&lt;h2 id="section-13"&gt;1973&lt;/h2&gt;
-&lt;p&gt;Crash helmets were made compulsory. The top speed for mopeds was set at 30mph.&lt;/p&gt;
-
-&lt;h2 id="march-2"&gt;1973 (1 March)&lt;/h2&gt;
-&lt;p&gt;Computerised driving licences were issued for the first time, with green paper licences replacing the old-style red booklets. A full licence was still only valid for 3 years.&lt;/p&gt;
-
-&lt;h2 id="may-"&gt;1975 (May )&lt;/h2&gt;
-&lt;p&gt;Candidates no longer have to demonstrate arm signals.&lt;/p&gt;
-
-&lt;h2 id="january-2"&gt;1976 (1 January)&lt;/h2&gt;
-&lt;p&gt;Full licences are now valid until the age of 70.&lt;/p&gt;
-
-&lt;h2 id="july-1976"&gt;July 1976&lt;/h2&gt;
-&lt;p&gt;The Stanmore training school where examiners were trained was relocated to new premises at Cardington, Bedfordshire. Newly recruited ‘L’ test examiners had to undergo four weeks of training.&lt;/p&gt;
-
-&lt;h2 id="section-14"&gt;1981&lt;/h2&gt;
-&lt;p&gt;The government produced a 3 point package of changes:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;the maximum size of learner machines was reduced to 125cc&lt;/li&gt;
-  &lt;li&gt;provisional motorcycling licence entitlement was limited to 2 years&lt;/li&gt;
-  &lt;li&gt;a two-part test was introduced with the intention of reducing accidents by steering learners to take training with approved organisations on suitable motorcycles - the first part of the test included some basic off-road motorcycle control exercises - usually conducted at large goods vehicle (LGV) centres - the second part included the usual on-road riding&lt;/li&gt;
-&lt;/ol&gt;&lt;h2 id="october-2"&gt;1982 (1 October)&lt;/h2&gt;
-&lt;p&gt;Provisional licences were extended until the age of 70.&lt;/p&gt;
-
-&lt;h2 id="march-3"&gt;1985 (March)&lt;/h2&gt;
-&lt;p&gt;&lt;abbr title="Public service vehicle"&gt;PSV&lt;/abbr&gt; driving tests became compulsory. Previously, Traffic Commissioners decided whether local applicants took the test.&lt;/p&gt;
-
-&lt;h2 id="section-15"&gt;1988&lt;/h2&gt;
-&lt;p&gt;Driving tests were now conducted under the provisions of the Road Traffic Act 1988.&lt;/p&gt;
-
-&lt;h2 id="october-3"&gt;1989 (1 October)&lt;/h2&gt;
-&lt;p&gt;A new accompanied motorcycle test was introduced. Prompted by alarming accident figures, the old-style ‘part 2’ motorcycle test, where the examiner stood by the roadside, was replaced by the new, more demanding ‘pursuit test’. The examiner now follows the candidate on a motorcycle and maintains radio contact during the test.&lt;/p&gt;
-
-&lt;h2 id="april-2"&gt;1990 (1 April)&lt;/h2&gt;
-&lt;p&gt;The Driving Standards Agency (&lt;abbr title="Driving Standards Agency"&gt;DSA&lt;/abbr&gt;) was created as an executive agency of the Department for Transport (DfT). &lt;abbr title="Driver and vehicle licensing centre"&gt;DVLC&lt;/abbr&gt; became an executive agency of DfT and was renamed the Driver and Vehicle Licensing Agency (DVLA).&lt;/p&gt;
-
-&lt;p&gt;Provisional licence holders were prevented from carrying pillion passengers, even if the passenger is a full licence holder. Compulsory Basic Training (&lt;abbr title="Compulsory basic training"&gt;CBT&lt;/abbr&gt;) was introduced for all new learner riders of motorcycles and mopeds. &lt;abbr title="Compulsory basic training"&gt;CBT&lt;/abbr&gt; comprises 5 elements including a minimum two-hour accompanied road ride. The course was designed to ensure new riders have a basic level of competence before they are allowed to ride on public roads displaying L plates and continue the learning process.&lt;/p&gt;
-
-&lt;h2 id="may-2"&gt;1990 (1 May)&lt;/h2&gt;
-&lt;p&gt;Examiners gave candidates a brief explanation of faults committed during the test, plus advice on areas for improvement.&lt;/p&gt;
-
-&lt;h2 id="october-4"&gt;1990 (October)&lt;/h2&gt;
-&lt;p&gt;Under new legislation, anyone accompanying a learner driver must be at least 21 and must have held a driving licence for a minimum of 3 years.&lt;/p&gt;
-
-&lt;h2 id="november-4"&gt;1995 (November)&lt;/h2&gt;
-&lt;p&gt;The Pass Plus scheme was introduced to help newly qualified young drivers gain valuable driving experience and reduce the risk of them being involved in an accident.&lt;/p&gt;
-
-&lt;h2 id="july-3"&gt;1996 (1 July)&lt;/h2&gt;
-&lt;p&gt;A separate written theory test was introduced replacing questions asked about the Highway Code during practical test. Candidates now have to produce their driving licence for their test.&lt;/p&gt;
-
-&lt;h2 id="october-5"&gt;1996 (1 October)&lt;/h2&gt;
-&lt;p&gt;The theory test pass mark was raised from 26/35 to 30/35.&lt;/p&gt;
-
-&lt;h2 id="section-16"&gt;1997&lt;/h2&gt;
-&lt;p&gt;Introduction of additional licence categories and tests for learners aged over 21 years riding larger motorcycles (Direct Access Scheme) and small motorcycles. &lt;/p&gt;
-
-&lt;p&gt;New riders under 21 years restricted to riding machines of 125cc whilst learning. Once they pass the test they were then restricted to riding machines of 25kw (33bhp) for two years. After this period they could ride any size of motorcycle.&lt;/p&gt;
-
-&lt;h2 id="january-3"&gt;1997 (1 January)&lt;/h2&gt;
-&lt;p&gt;New licence and test changes include:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;a new test category was created for a car with large trailer (B+E)&lt;/li&gt;
-  &lt;li&gt;licence categories and tests were introduced for Direct Access and small motorcycles&lt;/li&gt;
-  &lt;li&gt;the written theory test was introduced for LGV and &lt;abbr title="Passenger carrying vehicle"&gt;PCV&lt;/abbr&gt; drivers&lt;/li&gt;
-&lt;/ul&gt;&lt;h2 id="march-4"&gt;1997 (1 March)&lt;/h2&gt;
-&lt;p&gt;Photographic ID was required for both practical and theory tests.&lt;/p&gt;
-
-&lt;h2 id="june-3"&gt;1997 (1 June)&lt;/h2&gt;
-&lt;p&gt;If a new driver gained 6 or more penalty points during the first 2 years of driving, they lost their licence and must retake both the theory and practical driving test before being allowed back on the roads.&lt;/p&gt;
-
-&lt;h2 id="september-2"&gt;1997 (29 September)&lt;/h2&gt;
-&lt;p&gt;Waiting times between tests was reintroduced for unsuccessful candidates:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;for car drivers and motorcycle riders, the minimum wait of 10 days between tests of the same category  &lt;/li&gt;
-  &lt;li&gt;for lorry and bus driver testing, a minimum wait of 3 days between tests of the same category&lt;/li&gt;
-&lt;/ul&gt;&lt;h2 id="august-1"&gt;1998 (August)&lt;/h2&gt;
-&lt;p&gt;Photocard licences were introduced from 1 July 1999 for both first time issues and licence renewals.&lt;/p&gt;
-
-&lt;h2 id="february-2"&gt;1999 (February)&lt;/h2&gt;
-&lt;p&gt;The newly revised Highway Code was published, with current advice and up-to-date legislation for all road users.&lt;/p&gt;
-
-&lt;h2 id="april-3"&gt;1999 (6 April)&lt;/h2&gt;
-&lt;p&gt;Cars being used for a driving test must now have a front passenger seat belt, head restraint and rear-view mirror.&lt;/p&gt;
-
-&lt;h2 id="may-3"&gt;1999 (4 May)&lt;/h2&gt;
-&lt;p&gt;Changes to the ‘L’ test included extending the length of the test, randomising the emergency stop manoeuvre and failing candidates for committing 16 or more driving faults.&lt;/p&gt;
-
-&lt;h2 id="january-4"&gt;2000 (4 January)&lt;/h2&gt;
-&lt;p&gt;The touch-screen theory test was introduced.&lt;/p&gt;
-
-&lt;h2 id="february-3"&gt;2001 (1 February)&lt;/h2&gt;
-&lt;p&gt;Drivers gaining a full car licence must now pass compulsory basic training (&lt;abbr title="Compulsory basic training"&gt;CBT&lt;/abbr&gt;) before being allowed to ride a moped.&lt;/p&gt;
-
-&lt;p&gt;Various changes to the motorcycle training regulations were introduced, including the:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;reduction of the validity period for a &lt;abbr title="Compulsory basic training"&gt;CBT&lt;/abbr&gt; certificate from 3 to 2 years&lt;/li&gt;
-  &lt;li&gt;removal of the 2 year on - 1 year off rule for provisional licence holders&lt;/li&gt;
-  &lt;li&gt;requirement for drivers gaining a full car licence to take &lt;abbr title="Compulsory basic training"&gt;CBT&lt;/abbr&gt; before being able to ride a moped&lt;/li&gt;
-&lt;/ul&gt;&lt;h2 id="december-2"&gt;2001 (19 December)&lt;/h2&gt;
-&lt;p&gt;Candidates can now book their theory test via the internet.&lt;/p&gt;
-
-&lt;h2 id="nov"&gt;2002 (14 Nov)&lt;/h2&gt;
-&lt;p&gt;A hazard perception element was introduced into the motorcycle theory test; this uses video clips to test candidates’ awareness of hazards on the road.&lt;/p&gt;
-
-&lt;h2 id="september-3"&gt;2003 (1 September)&lt;/h2&gt;
-&lt;p&gt;‘Show me’ and ‘tell me’ vehicle safety questions were added to the beginning of the driving test.&lt;/p&gt;
-
-&lt;h2 id="october-6"&gt;2003 (24 October)&lt;/h2&gt;
-&lt;p&gt;Candidates can book their practical test on the Internet for the first time.&lt;/p&gt;
-
-&lt;h2 id="november-5"&gt;2006 (November)&lt;/h2&gt;
-&lt;p&gt;Enhanced rider scheme was launched&lt;/p&gt;
-
-&lt;h2 id="february-4"&gt;2007 (February)&lt;/h2&gt;
-&lt;p&gt;The register of post-test motorcycle training (&lt;abbr title="Register of post-test motorcycle trainers"&gt;RPMT&lt;/abbr&gt;) was introduced&lt;/p&gt;
-
-&lt;h2 id="september-4"&gt;2007 (3 September)&lt;/h2&gt;
-&lt;p&gt;The number of questions in car and motorcycle theory test changed from 35 to 50.&lt;/p&gt;
-
-&lt;h2 id="september-5"&gt;2008 (10 September)&lt;/h2&gt;
-&lt;p&gt;Further changes to the driving test included:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;an assessment of eco-safe driving was introduced in the driving test&lt;/li&gt;
-  &lt;li&gt;Driver certificate of professional competence (&lt;abbr title="Certificate of professional competence"&gt;CPC&lt;/abbr&gt;) was introduced for professional bus and coach drivers&lt;/li&gt;
-&lt;/ul&gt;&lt;h2 id="april-4"&gt;2009 (27 April)&lt;/h2&gt;
-&lt;p&gt;A new two part modular motorcycle test was introduced enabling the UK to comply with the EU Second Directive requiring new and more demanding manoeuvres to be tested.&lt;/p&gt;
-
-&lt;h3 id="module-1"&gt;Module 1&lt;/h3&gt;
-&lt;p&gt;Module 1 contains the specified manoeuvres element of the test which is conducted off-road. It includes exercises designed to assess the rider’s ability to control their machine safely, including avoidance and emergency stop exercises.&lt;/p&gt;
-
-&lt;h3 id="module-2"&gt;Module 2&lt;/h3&gt;
-&lt;p&gt;Module 2 includes an eyesight test and 30 minutes of on-road riding, assessing the rider’s ability to safely interact with other road users.&lt;/p&gt;
-
-&lt;h2 id="september-6"&gt;2009 (10 September)&lt;/h2&gt;
-&lt;p&gt;Driver &lt;abbr title="Certificate of professional competence"&gt;CPC&lt;/abbr&gt; for lorry drivers was introduced.&lt;/p&gt;
-
-&lt;h2 id="september-7"&gt;2009 (28 September)&lt;/h2&gt;
-&lt;p&gt;A case study was introduced into the theory test.&lt;/p&gt;
-
-&lt;h2 id="april-5"&gt;2010 (6 April)&lt;/h2&gt;
-
-&lt;h3 id="observer-on-test"&gt;Observer on test&lt;/h3&gt;
-&lt;p&gt;From 6 April 2010, driving test candidates have been encouraged to take their instructor with them on their test.&lt;/p&gt;
-
-&lt;h2 id="june-4"&gt;2010 (June)&lt;/h2&gt;
-&lt;p&gt;The new coalition government announced a review of the current motorcycle test. &lt;/p&gt;
-
-&lt;h2 id="october-7"&gt;2010 (4 October)&lt;/h2&gt;
-&lt;p&gt;‘Independent driving’ became part of the practical driving test - candidates have to drive for 10 minutes making their own decisions.&lt;/p&gt;
-
-&lt;h2 id="september-8"&gt;2011 (September)&lt;/h2&gt;
-&lt;p&gt;New case study was introduced into the theory test.&lt;/p&gt;
-
-&lt;h2 id="top-10-driving-test-facts"&gt;Top 10 driving test facts&lt;/h2&gt;
-&lt;p&gt;The driving test’s been going for more than 75  years - here are a few facts:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Mr Beene was the first person to pass the driving test in 1935: he paid the grand total of 7/ 6p (37.5p) to take the test&lt;/li&gt;
-  &lt;li&gt;there were no test centres in 1935 so you had to arrange to meet the examiner somewhere like a post office, train station or town hall&lt;/li&gt;
-  &lt;li&gt;the test was suspended for the duration of World War 2 and didn’t resume until 1 November 1946&lt;/li&gt;
-  &lt;li&gt;in 1975, candidates no longer had to demonstrate hand signals&lt;/li&gt;
-  &lt;li&gt;the theory test was introduced in 1996, replacing questions about the Highway Code during the practical test&lt;/li&gt;
-  &lt;li&gt;driving was much more hazardous 75 years ago, 7,343 people were killed on Great Britain’s roads when only 2.4 million vehicles were in use - in 2008, 2,538 people were killed with 26.5 million vehicles on the road&lt;/li&gt;
-  &lt;li&gt;candidates could book their theory test online for the first time in December 2001&lt;/li&gt;
-  &lt;li&gt;the pass rate in 1935 was 63 per cent compared to 46 per cent in 2009&lt;/li&gt;
-  &lt;li&gt;1969 saw the first driving test set for an automatic vehicle&lt;/li&gt;
-  &lt;li&gt;since 1935 more than 46 million tests have been taken&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/12799</id>
-    <published>2012-11-07T00:00:00+00:00</published>
-    <updated>2012-11-07T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/additional-car-parking-at-bedwyn-station"/>
-    <title>Additional car parking at Bedwyn station</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This Freedom of Information response letter and supporting material concern additional car parking at Bedwyn station.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
 </feed>

@@ -8,7 +8,15 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-11-20T00:00:00+00:00</updated>
+  <updated>2012-11-21T00:00:00+00:00</updated>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/16651</id>
+    <published>2012-11-21T00:00:00+00:00</published>
+    <updated>2012-11-21T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/business-rates-retention-policy-statement"/>
+    <title>Business rates retention: policy statement</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This policy statement provides early confirmation of the government’s policy decisions on the business rates retention scheme following the technical consultation that took place in the summer, and ahead of the provisional local government finance settlement which will constitute the government’s formal response to consultation. This policy statement, which includes an updated step-by-step guide to the scheme’s workings, will support local authorities in their preparations for smooth implementation of the business rates retention scheme from April 2013.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/16424</id>
     <published>2012-11-20T00:00:00+00:00</published>
@@ -57,20 +65,20 @@
 &lt;/ul&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/16401</id>
-    <published>2012-11-19T00:00:00+00:00</published>
-    <updated>2012-11-19T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/improvement-notice-issued-to-blackpool-borough-council"/>
-    <title>Improvement notice issued to Blackpool Borough Council</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Improvement notice issued to Blackpool Borough Council by the Department for Education.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/16406</id>
     <published>2012-11-19T00:00:00+00:00</published>
     <updated>2012-11-19T00:00:00+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/improvement-notice-issued-to-walsall-metropolitan-borough-council"/>
     <title>Improvement notice issued to Walsall Metropolitan Borough Council</title>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Improvement notice issued to Walsall Metropolitan Borough Council by the Department for Education.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/16401</id>
+    <published>2012-11-19T00:00:00+00:00</published>
+    <updated>2012-11-19T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/improvement-notice-issued-to-blackpool-borough-council"/>
+    <title>Improvement notice issued to Blackpool Borough Council</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Improvement notice issued to Blackpool Borough Council by the Department for Education.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/15105</id>
@@ -119,6 +127,14 @@
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The government wants to make it easier to set up new town and parish councils. This discussion paper presents a range of proposals that would help achieve this. We would like your views on these, as well as any other comments or ideas.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/16468</id>
+    <published>2012-10-29T00:00:00+00:00</published>
+    <updated>2012-10-29T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/localising-support-for-council-tax-explanatory-note-on-restated-default-scheme-universal-credit-provisions"/>
+    <title>Localising support for Council Tax: explanatory note on restated default scheme universal credit provisions</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Explanatory note on &lt;a href="https://www.gov.uk/government/publications/localising-support-for-council-tax-restated-default-scheme-universal-credit-provisions"&gt;restated default scheme universal credit provisions&lt;/a&gt;, detailing how these support work incentives and take into account minor amendments since the &lt;a href="https://www.gov.uk/government/publications/localising-support-for-council-tax-default-scheme-draft-regulations"&gt;July 2012 publication&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/16472</id>
     <published>2012-10-29T00:00:00+00:00</published>
     <updated>2012-10-29T00:00:00+00:00</updated>
@@ -127,14 +143,6 @@
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Restated default scheme universal credit provisions taking into account minor amendments since the &lt;a href="https://www.gov.uk/government/publications/localising-support-for-council-tax-default-scheme-draft-regulations"&gt;July 2012 publication&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;For more information see the &lt;a href="https://www.gov.uk/government/publications/localising-support-for-council-tax-explanatory-note-on-restated-default-scheme-universal-credit-provisions"&gt;explanatory note&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/16468</id>
-    <published>2012-10-29T00:00:00+00:00</published>
-    <updated>2012-10-29T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/localising-support-for-council-tax-explanatory-note-on-restated-default-scheme-universal-credit-provisions"/>
-    <title>Localising support for Council Tax: explanatory note on restated default scheme universal credit provisions</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Explanatory note on &lt;a href="https://www.gov.uk/government/publications/localising-support-for-council-tax-restated-default-scheme-universal-credit-provisions"&gt;restated default scheme universal credit provisions&lt;/a&gt;, detailing how these support work incentives and take into account minor amendments since the &lt;a href="https://www.gov.uk/government/publications/localising-support-for-council-tax-default-scheme-draft-regulations"&gt;July 2012 publication&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/14249</id>
@@ -246,13 +254,5 @@
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/improvement-notice-issued-to-wiltshire-council"/>
     <title>Improvement notice issued to Wiltshire Council</title>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Improvement Notice issued to Wiltshire Council by the Department for Education.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/16547</id>
-    <published>2012-10-15T00:00:00+01:00</published>
-    <updated>2012-10-15T00:00:00+01:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/improvement-notice-issued-to-london-borough-of-sutton"/>
-    <title>Improvement notice issued to London Borough of Sutton</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Improvement notice issued to London Borough of Sutton by the Department for Education.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
 </feed>

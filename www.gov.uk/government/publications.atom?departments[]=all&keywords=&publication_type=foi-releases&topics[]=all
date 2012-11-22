@@ -8,7 +8,15 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-11-19T00:00:00+00:00</updated>
+  <updated>2012-11-21T00:00:00+00:00</updated>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/16627</id>
+    <published>2012-11-21T00:00:00+00:00</published>
+    <updated>2012-11-21T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/contact-telephone-numbers-for-crosscountry-rail"/>
+    <title>Contact telephone numbers for Crosscountry rail</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Freedom of Information request regarding geographical contact telephone numbers for Crosscountry&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/16298</id>
     <published>2012-11-19T00:00:00+00:00</published>
@@ -16,22 +24,6 @@
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/street-lighting"/>
     <title>Street lighting</title>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Freedom of Information response regarding the switching off of street lighting on sections of some roads.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/15335</id>
-    <published>2012-11-13T00:00:00+00:00</published>
-    <updated>2012-11-13T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/top-10-serious-and-dangerous-faults-made-on-the-car-practical-driving-test"/>
-    <title>Top 10 serious and dangerous faults made on the car practical driving test </title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Information about the top 10 serious and dangerous faults made on the car practical driving test.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/15323</id>
-    <published>2012-11-13T00:00:00+00:00</published>
-    <updated>2012-11-13T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/cost-of-the-driver-cpc-recording-and-evidencing-database"/>
-    <title>Cost of the Driver CPC recording and evidencing database</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Information about the cost of the Driver CPC recording and evidencing database.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/15331</id>
@@ -42,12 +34,28 @@
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Information about short notice driving test cancellations and fee reimbursements.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/15323</id>
+    <published>2012-11-13T00:00:00+00:00</published>
+    <updated>2012-11-13T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/cost-of-the-driver-cpc-recording-and-evidencing-database"/>
+    <title>Cost of the Driver CPC recording and evidencing database</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Information about the cost of the Driver CPC recording and evidencing database.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/15320</id>
     <published>2012-11-13T00:00:00+00:00</published>
     <updated>2012-11-13T00:00:00+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/occurrences-where-a-candidate-has-failed-to-attend-their-driving-test"/>
     <title>Occurrences where a candidate has failed to attend their driving test</title>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Information about occurrences where a candidate has failed to attend their driving test.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/15335</id>
+    <published>2012-11-13T00:00:00+00:00</published>
+    <updated>2012-11-13T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/top-10-serious-and-dangerous-faults-made-on-the-car-practical-driving-test"/>
+    <title>Top 10 serious and dangerous faults made on the car practical driving test </title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Information about the top 10 serious and dangerous faults made on the car practical driving test.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/15337</id>
@@ -82,20 +90,20 @@
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This Freedom of Information response letter and supporting material concern additional car parking at Bedwyn station.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/10526</id>
-    <published>2012-11-06T00:00:00+00:00</published>
-    <updated>2012-11-06T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/department-hr-selection-appeal-letters"/>
-    <title>Department HR selection appeal letters</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Department for Transport’s (&lt;abbr title="The Department for Transport"&gt;DfT&lt;/abbr&gt;’s) response to Freedom of Information (&lt;abbr title="Freedom of Information"&gt;FOI&lt;/abbr&gt;) request F0007534: Department HR selection appeal letters&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/12812</id>
     <published>2012-11-06T00:00:00+00:00</published>
     <updated>2012-11-06T00:00:00+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/details-of-passenger-ship-fires-in-2010"/>
     <title>Passenger ship fires in 2010</title>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Department for Transport’s (&lt;abbr title="The Department for Transport"&gt;DfT&lt;/abbr&gt;’s) response to Freedom of Information (&lt;abbr title="Freedom of Information"&gt;FOI&lt;/abbr&gt;) request F0007151: Passenger ship fires in 2010.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/10526</id>
+    <published>2012-11-06T00:00:00+00:00</published>
+    <updated>2012-11-06T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/department-hr-selection-appeal-letters"/>
+    <title>Department HR selection appeal letters</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Department for Transport’s (&lt;abbr title="The Department for Transport"&gt;DfT&lt;/abbr&gt;’s) response to Freedom of Information (&lt;abbr title="Freedom of Information"&gt;FOI&lt;/abbr&gt;) request F0007534: Department HR selection appeal letters&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/10528</id>
@@ -160,13 +168,5 @@
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/car-practical-driving-tests-at-trowbridge-westbury-chippenham-and-swindon"/>
     <title>Car practical driving tests at Trowbridge, Westbury, Chippenham and Swindon</title>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Information about car practical driving tests at Trowbridge, Westbury, Chippenham and Swindon.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/13059</id>
-    <published>2012-10-19T00:00:00+01:00</published>
-    <updated>2012-10-19T00:00:00+01:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/attempts-to-pass-car-practical-driving-tests"/>
-    <title>Attempts to pass car practical driving tests</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Information about attempts to pass car practical driving tests.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
 </feed>
