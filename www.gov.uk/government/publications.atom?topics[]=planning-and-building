@@ -8,7 +8,17 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-11-21T12:28:41+00:00</updated>
+  <updated>2012-11-22T10:33:47+00:00</updated>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/16667</id>
+    <published>2012-11-22T10:33:47+00:00</published>
+    <updated>2012-11-22T10:33:47+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/consultations/planning-performance-and-the-planning-guarantee"/>
+    <title>Planning performance and the Planning Guarantee</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This consultation links to the Government’s proposals, contained within Clause 1 of the Growth and Infrastructure Bill, to introduce legislation to give applicants the choice of submitting planning applications direct to the secretary of state, where the local planning authority is underperforming.  &lt;/p&gt;
+
+&lt;p&gt;The consultation seeks views on what measures to use to identify an authority’s performance, how to identify underperformance and how to identify improved performance and related measures to underpin the Planning Guarantee.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/16388</id>
     <published>2012-11-21T12:28:41+00:00</published>
@@ -34,6 +44,16 @@
 &lt;p&gt;The government is consulting on a set of proposals to make the planning appeals process faster and more transparent, improve consistency and certainty in decision taking timescales. The proposals will bring cost and time benefits for those appealing decisions and local authorities.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/16273</id>
+    <published>2012-11-12T00:00:00+00:00</published>
+    <updated>2012-11-12T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/growth-and-infrastructure-bill-impact-assessment"/>
+    <title>Growth and Infrastructure Bill: impact assessment</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The measures in the Growth and Infrastructure Bill will help to remove unnecessary bureaucracy that can hinder sustainable growth.&lt;/p&gt;
+
+&lt;p&gt;This impact assessment provides a statement of the impact that the Bill will have on businesses, local government and communities.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/14388</id>
     <published>2012-11-12T00:00:00+00:00</published>
     <updated>2012-11-12T00:00:00+00:00</updated>
@@ -44,16 +64,6 @@
 &lt;p&gt;The government is consulting on a set of proposals to amend the Town and Country Planning (General Permitted Development) Order 1995 to allow homeowners and businesses to make larger extensions to their homes and business premises without requiring a planning application, and to allow quicker installation of broadband infrastructure.&lt;/p&gt;
 
 &lt;p&gt;Please submit your views using the questionnaire below.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/16273</id>
-    <published>2012-11-12T00:00:00+00:00</published>
-    <updated>2012-11-12T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/growth-and-infrastructure-bill-impact-assessment"/>
-    <title>Growth and Infrastructure Bill: impact assessment</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The measures in the Growth and Infrastructure Bill will help to remove unnecessary bureaucracy that can hinder sustainable growth.&lt;/p&gt;
-
-&lt;p&gt;This impact assessment provides a statement of the impact that the Bill will have on businesses, local government and communities.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/16084</id>
@@ -162,14 +172,6 @@
 &lt;p&gt;Statistics in this release relating to the Code for Sustainable Homes show the number of dwellings that have been certified to the standards set out in the Code Technical Guide.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/11809</id>
-    <published>2012-08-22T00:00:00+01:00</published>
-    <updated>2012-08-22T00:00:00+01:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/space-for-food-growing-a-guide"/>
-    <title>Space for food growing: a guide</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This guide is aimed both at community groups that might be looking for land to start their food growing project or trying to find new ways to encourage people to get involved in their existing scheme and at individuals who might be interested in growing their own food but are not sure whether to wait for a local authority allotment or continue their search elsewhere. The guidance can also be used by voluntary groups trying to decide what activities might suit their client base or by individuals who have yet to be convinced that food growing is really for them. The guide provides links to sources of further advice and guidance and also to more detailed information on where to go to get funding or to learn from established projects.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/11808</id>
     <published>2012-08-22T00:00:00+01:00</published>
     <updated>2012-08-22T00:00:00+01:00</updated>
@@ -186,6 +188,14 @@
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/food-growing-case-studies"/>
     <title>Food growing: case studies</title>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The projects included in this document showcase best practice and the varied approaches that community groups have taken to getting land to use for their food growing projects. From space on housing estates now being run as a mini social enterprise, to derelict allotment land, every project shows that where community groups work together with their local authorities or other local landowners, great achievements can follow.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/11809</id>
+    <published>2012-08-22T00:00:00+01:00</published>
+    <updated>2012-08-22T00:00:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/space-for-food-growing-a-guide"/>
+    <title>Space for food growing: a guide</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This guide is aimed both at community groups that might be looking for land to start their food growing project or trying to find new ways to encourage people to get involved in their existing scheme and at individuals who might be interested in growing their own food but are not sure whether to wait for a local authority allotment or continue their search elsewhere. The guidance can also be used by voluntary groups trying to decide what activities might suit their client base or by individuals who have yet to be convinced that food growing is really for them. The guide provides links to sources of further advice and guidance and also to more detailed information on where to go to get funding or to learn from established projects.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/12703</id>
@@ -227,17 +237,5 @@
   &lt;li&gt;decided 57 per cent of major applications in 13 weeks, 71 per cent of minors and 82 per cent of others in 8 weeks. This compares to 66 per cent for majors, 75 per cent for minors and 86 per cent for others in the year ending March 2011;&lt;/li&gt;
   &lt;li&gt;and decided 3 per cent fewer residential decisions compared to the year ending March 2011.&lt;/li&gt;
 &lt;/ul&gt;&lt;p&gt;The full set of Statistics of Planning Applications Live Tables are available at &lt;a rel="external" href="http://www.communities.gov.uk/planningandbuilding/planningbuilding/planningstatistics/livetables/livetablesondevelopmentcontrolst/"&gt;Live Tables on Development Control Statistics&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/12704</id>
-    <published>2012-07-25T01:00:00+01:00</published>
-    <updated>2012-07-25T01:00:00+01:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/consultations/strategic-environmental-assessment-of-revoking-the-east-of-england-regional-strategy"/>
-    <title>Strategic Environmental Assessment of revoking the east of England regional strategy</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This Environmental Report is a consultation document on the likely significant environmental effects of revocation of the East of England Plan and the Regional Economic Strategy (which together form the regional strategy in force for the East of England).&lt;/p&gt;
-
-&lt;p&gt;This report succeeds the previous environmental report for the revocation of the East of England Regional Strategy which was consulted on between October 2011 and January 2012. It is a stand alone document the intention of which is to provide the reader with an up-to-date comprehensive assessment of the environmental effects of the revocation of the East of England Plan and the Regional Economic Strategy without the need to refer back to the previous environmental report.&lt;/p&gt;
-
-&lt;p&gt;At the end of the period all consultation responses will be considered, including those already submitted during the earlier response period.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
 </feed>

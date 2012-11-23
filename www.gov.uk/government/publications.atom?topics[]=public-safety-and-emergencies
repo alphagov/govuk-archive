@@ -8,7 +8,15 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-10-10T01:00:00+01:00</updated>
+  <updated>2012-11-22T00:00:00+00:00</updated>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/16737</id>
+    <published>2012-11-22T00:00:00+00:00</published>
+    <updated>2012-11-22T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/hazardous-materials-operational-guidance-for-the-fire-and-rescue-service"/>
+    <title>Hazardous materials: operational guidance for the fire and rescue service</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This document provides comprehensive yet flexible guidance that can be adapted to the nature, scale and requirements of the incident. It consolidates the content of over 500 items of previously published subject related documents.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/13407</id>
     <published>2012-10-10T01:00:00+01:00</published>
@@ -20,22 +28,20 @@
 &lt;p&gt;This is so that fire and rescue authorities can comply with their duties for automatic enrolment under workplace pension reform.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/13421</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/16762</id>
     <published>2012-10-02T00:00:00+01:00</published>
     <updated>2012-10-02T00:00:00+01:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/fire-and-rescue-bulletin-26-2012"/>
     <title>Fire and rescue bulletin: 26/2012</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Welcome to the Fire and Rescue Service Bulletin for October 2012, covering areas of interest and relevance to the Fire Service.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/13402</id>
-    <published>2012-09-20T01:00:00+01:00</published>
-    <updated>2012-09-20T01:00:00+01:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/consultations/guidance-on-statements-of-assurance-for-fire-and-rescue-authorities-in-england"/>
-    <title>Guidance on statements of assurance for fire and rescue authorities in England</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Consultation on guidance on statements of assurance for fire and rescue authorities in England.&lt;/p&gt;
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The fire and rescue bulletin for October 2012 covers:&lt;/p&gt;
 
-&lt;p&gt;The consultation seeks views on ‘light-touch’ guidance on statements of assurance for fire and rescue authorities in England&lt;/p&gt;&lt;/div&gt;</content>
+&lt;ul&gt;
+&lt;li&gt;Fire Kills campaign annual report 2011 to 2012&lt;/li&gt;
+  &lt;li&gt;Fire Kills campaign national advertising 2012 to 2013&lt;/li&gt;
+  &lt;li&gt;fire procurement pipelines&lt;/li&gt;
+  &lt;li&gt;new developments for the fire service emergency cover toolkit&lt;/li&gt;
+  &lt;li&gt;publication of consultations on guidance for statements of assurance and intervention protocol&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/13403</id>
@@ -46,6 +52,16 @@
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Consultation on guidance on statements of assurance for fire and rescue authorities in England and Protocol on Government intervention action for fire and rescue authorities in England.&lt;/p&gt;
 
 &lt;p&gt;The consultation seeks views on the revision of the protocol on Government intervention action and applies to fire and rescue authorities in England only.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/13402</id>
+    <published>2012-09-20T01:00:00+01:00</published>
+    <updated>2012-09-20T01:00:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/consultations/guidance-on-statements-of-assurance-for-fire-and-rescue-authorities-in-england"/>
+    <title>Guidance on statements of assurance for fire and rescue authorities in England</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Consultation on guidance on statements of assurance for fire and rescue authorities in England.&lt;/p&gt;
+
+&lt;p&gt;The consultation seeks views on ‘light-touch’ guidance on statements of assurance for fire and rescue authorities in England&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/11791</id>
@@ -66,12 +82,18 @@
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This annual report details the work undertaken by the Fire Kills campaign in 2011 to 2012. The Department for Communities and Local Government Fire Kills campaign aims to raise awareness of key fire safety messages to the general public.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/13415</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/16759</id>
     <published>2012-09-04T00:00:00+01:00</published>
     <updated>2012-09-04T00:00:00+01:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/fire-and-rescue-bulletin-25-2012"/>
     <title>Fire and rescue bulletin: 25/2012</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Welcome to the Fire and Rescue Service Bulletin for September 2012, covering areas of interest and relevance to the Fire Service.&lt;/p&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The fire and rescue bulletin for September 2012 covers:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;consultation on changing the name of Bedfordshire and Luton combined fire authority&lt;/li&gt;
+  &lt;li&gt;access to fire and rescue incident records in England&lt;/li&gt;
+  &lt;li&gt;publication of the government response to the exercise watermark report&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/12701</id>
@@ -244,20 +266,6 @@
 &lt;li&gt;the next steps in securing the future of the Fire Service College&lt;/li&gt;
   &lt;li&gt;the announcement of the opening of the bidding round for fire capital funding for 2013-15&lt;/li&gt;
   &lt;li&gt;the announcement that the fire kills campaign has been given approval to continue in 2012-13&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/11441</id>
-    <published>2012-03-29T00:00:00+01:00</published>
-    <updated>2012-03-29T00:00:00+01:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/fire-and-rescue-bulletin-8-2012-immediate"/>
-    <title>Fire and rescue bulletin: 8/2012 immediate</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The fire and rescue bulletin for March 2012 is issued for the immediate attention of fire and rescue authorities.&lt;/p&gt;
-
-&lt;p&gt;It covers:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;the government’s response to the consultation paper on increases to employee contributions in the firefighters’ pension schemes from April 2012&lt;/li&gt;
 &lt;/ul&gt;&lt;/div&gt;</content>
   </entry>
 </feed>

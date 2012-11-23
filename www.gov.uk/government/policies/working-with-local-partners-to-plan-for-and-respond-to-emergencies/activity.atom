@@ -8,15 +8,30 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-09-04T01:00:00+01:00</updated>
+  <updated>2012-11-22T00:00:00+00:00</updated>
   <entry>
-    <id>tag:www.gov.uk,2005:Publication/13415</id>
+    <id>tag:www.gov.uk,2005:Publication/16737</id>
+    <published>2012-11-22T00:00:00+00:00</published>
+    <updated>2012-11-22T16:26:28+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/hazardous-materials-operational-guidance-for-the-fire-and-rescue-service"/>
+    <title>Hazardous materials: operational guidance for the fire and rescue service</title>
+    <category>Publication</category>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This document provides comprehensive yet flexible guidance that can be adapted to the nature, scale and requirements of the incident. It consolidates the content of over 500 items of previously published subject related documents.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:Publication/16759</id>
     <published>2012-09-04T01:00:00+01:00</published>
     <updated>2012-11-14T12:39:19+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/fire-and-rescue-bulletin-25-2012"/>
     <title>Fire and rescue bulletin: 25/2012</title>
     <category>Publication</category>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Welcome to the Fire and Rescue Service Bulletin for September 2012, covering areas of interest and relevance to the Fire Service.&lt;/p&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The fire and rescue bulletin for September 2012 covers:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;consultation on changing the name of Bedfordshire and Luton combined fire authority&lt;/li&gt;
+  &lt;li&gt;access to fire and rescue incident records in England&lt;/li&gt;
+  &lt;li&gt;publication of the government response to the exercise watermark report&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:NewsArticle/14666</id>
@@ -214,42 +229,5 @@
 &lt;h3 id="media-enquiries"&gt;Media enquiries&lt;/h3&gt;
 
 &lt;p&gt;Visit our &lt;a rel="external" href="http://www.communities.gov.uk/corporate/about/who/policycontacts/newsroomcontacts"&gt;newsroom contacts page&lt;/a&gt; for media enquiry contact details.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:NewsArticle/9936</id>
-    <published>2011-09-07T00:00:00+01:00</published>
-    <updated>2012-11-14T12:30:41+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/the-riots-one-month-on-the-good-work-must-continue"/>
-    <title>The riots one month on: the good work must continue</title>
-    <category>News Article</category>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This week marks one month since the worst of the rioting hit the streets of some of our biggest cities. Since then, councils have been pulling out all the stops to get affected areas back to normal, local businesses back up and running, and those forced to move out of their homes back into safe and stable accommodation.&lt;/p&gt;
-
-&lt;p&gt;Within days of the riots taking place, the Government launched a multi million pound package of support to overcome the immediate recovery issues that communities and businesses were facing and to help them get back on their feet. The latest figures show that 30 local authorities are making use of the funds to support the small traders, businesses and families in their area that were directly affected by the riots.&lt;/p&gt;
-
-&lt;p&gt;The money has been used for a wide range of support measures - from helping small businesses with upfront costs like insurance excesses, building repairs, and carrying out safety checks, to reducing business rates and encouraging customers back into affected areas. It has also been used to meet the immediate costs of emergency accommodation for families who have been made homeless and offer council tax discounts or relief to those whose homes have been damaged but are still habitable.&lt;/p&gt;
-
-&lt;p&gt;Local authorities played a key role in the immediate recovery operation and continue to lead the way by administering the support schemes, which are delivering tangible results and making a real difference to communities:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;
-&lt;a rel="external" href="http://www.croydon.gov.uk/advice/emergencies/civil-unrest/latest-information"&gt;Croydon Council&lt;/a&gt; (external link) has opened a temporary ‘one stop shop’ to provide people affected by the civil unrest with immediate advice and support on everything from insurance claims to housing and emergency benefits. A £100,000 ‘Family Support Fund’ has also been made available to families directly affected to cover short-term costs and bring about a sense of normality - for example using the money to buy school uniforms for the new school year, or to meet higher rental costs of temporary accommodation.&lt;/li&gt;
-  &lt;li&gt;
-&lt;a rel="external" href="http://www.manchester.gov.uk/news/article/6047/council_announces_support_package_for_riot-hit_businesses"&gt;Manchester City Council&lt;/a&gt; (external link) has reduced business rates to businesses in the city and made grants of up to £2,500 and loans available to those who took a direct hit from the riots. The city also launched the &lt;a rel="external" href="http://www.manchester.gov.uk/info/100009/events_leisure_and_tourism/5228/i_love_mcr"&gt;I Love MCR campaign&lt;/a&gt; (external link) to demonstrate pride in the city and encourage people back to shop, eat, drink and socialise in the city.&lt;/li&gt;
-  &lt;li&gt;
-&lt;a rel="external" href="http://www.ealing.gov.uk/homepage/64/riot_recovery"&gt;Ealing Council&lt;/a&gt; (external link) has a £250,000 fund to help independent traders that suffered damage from vandals and looters, helping them pay for things like new glazing and building repairs. The council has also offered interest free repayable grants to the worst affected small traders, which are likely to have to remain closed for up to six months.&lt;/li&gt;
-  &lt;li&gt;
-&lt;a rel="external" href="http://www.lambeth.gov.uk/News/2011/220811LambethBusinessCommunitiesWorkingTogether.htm"&gt;Lambeth Council&lt;/a&gt; (external link) has been holding ‘drop in’ surgeries for businesses to learn more about the recovery support available, how to apply for funds to tide them over while they get back on their feet again, and get help filling out compensation forms.&lt;/li&gt;
-&lt;/ul&gt;&lt;p&gt;The support packages were part of concerted, cross-Government action to help rebuild communities, open up shops and buildings which were damaged, make sure people who lost their homes were re-housed, and to help councils get their areas back to normal as quickly as possible. The measures announced included:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;a £10million Recovery Scheme which was put in place to help councils with the immediate costs of making their areas safe, clear and clean again, and to enable them to provide council tax discounts to affected residents.&lt;/li&gt;
-  &lt;li&gt;a £20million High Street Support Scheme to support Small and Medium sized business affected by the disturbances by providing business rate hardship relief, rebuilding confidence and helping affected businesses get back up and running.&lt;/li&gt;
-  &lt;li&gt;a £1million Homelessness Support Scheme which met the immediate costs of re-housing those made homeless by the disturbances with a maximum payment threshold of up to £5,000 per household, with discretion applied for exceptional costs.&lt;/li&gt;
-  &lt;li&gt;a £20million London Enterprise Fund to kick-start economic growth and regeneration mainly in Tottenham and Croydon, to be administered by the Mayor of London alongside his £50million recovery fund.&lt;/li&gt;
-&lt;/ul&gt;&lt;p&gt;The measures came on top of support for individual homeowners and businesses under the Riot (Damages) Act and local authorities under the Bellwin Scheme, and a £3million ‘High Street Fund’ set up with contributions from the Mayor, leading UK companies and local authorities to offer initial recovery grants to small businesses.&lt;/p&gt;
-
-&lt;p&gt;This week, the Secretary of State is meeting with the leaders of those local authorities affected by the riots to discuss how to restore commercial and community confidence in affected areas, and any difficulties they are facing in recovering from the disturbances or any barriers that need addressing.&lt;/p&gt;
-
-&lt;p&gt;And whilst areas are given time to recover and return to normality, they have pledged to continue to work closely with councils and provide support at a national level to ensure that every business forced to close, and every family forced to move, are helped back into their community as quickly as possible.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
 </feed>

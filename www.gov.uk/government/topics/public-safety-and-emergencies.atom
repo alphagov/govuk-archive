@@ -7,7 +7,16 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-11-14T00:00:00+00:00</updated>
+  <updated>2012-11-22T00:00:00+00:00</updated>
+  <entry>
+    <id>tag:www.gov.uk,2005:Publication/16737</id>
+    <published>2012-11-22T00:00:00+00:00</published>
+    <updated>2012-11-22T16:26:28+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/hazardous-materials-operational-guidance-for-the-fire-and-rescue-service"/>
+    <title>Hazardous materials: operational guidance for the fire and rescue service</title>
+    <summary>Best practice guidance to help fire and rescue authorities to resolve incidents involving hazardous materials safely and efficiently.</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This document provides comprehensive yet flexible guidance that can be adapted to the nature, scale and requirements of the incident. It consolidates the content of over 500 items of previously published subject related documents.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
   <entry>
     <id>tag:www.gov.uk,2005:Speech/16085</id>
     <published>2012-11-14T00:00:00+00:00</published>
@@ -443,13 +452,21 @@
 &lt;p&gt;This is so that fire and rescue authorities can comply with their duties for automatic enrolment under workplace pension reform.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:Publication/13421</id>
+    <id>tag:www.gov.uk,2005:Publication/16762</id>
     <published>2012-10-02T01:00:00+01:00</published>
     <updated>2012-11-14T12:39:20+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/fire-and-rescue-bulletin-26-2012"/>
     <title>Fire and rescue bulletin: 26/2012</title>
-    <summary/>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Welcome to the Fire and Rescue Service Bulletin for October 2012, covering areas of interest and relevance to the Fire Service.&lt;/p&gt;&lt;/div&gt;</content>
+    <summary>Fire and rescue bulletins cover issues of interest and relevance to fire and rescue authorities. </summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The fire and rescue bulletin for October 2012 covers:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Fire Kills campaign annual report 2011 to 2012&lt;/li&gt;
+  &lt;li&gt;Fire Kills campaign national advertising 2012 to 2013&lt;/li&gt;
+  &lt;li&gt;fire procurement pipelines&lt;/li&gt;
+  &lt;li&gt;new developments for the fire service emergency cover toolkit&lt;/li&gt;
+  &lt;li&gt;publication of consultations on guidance for statements of assurance and intervention protocol&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:Consultation/13402</id>
@@ -461,16 +478,5 @@
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Consultation on guidance on statements of assurance for fire and rescue authorities in England.&lt;/p&gt;
 
 &lt;p&gt;The consultation seeks views on ‘light-touch’ guidance on statements of assurance for fire and rescue authorities in England&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:Consultation/13403</id>
-    <published>2012-09-20T01:00:00+01:00</published>
-    <updated>2012-09-20T01:00:00+01:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/consultations/protocol-on-government-intervention-action-on-fire-and-rescue-authorities-in-england"/>
-    <title>Protocol on government intervention action on fire and rescue authorities in England</title>
-    <summary>Consultation about revising the protocol on government intervention action for fire and rescue authorities in England.</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Consultation on guidance on statements of assurance for fire and rescue authorities in England and Protocol on Government intervention action for fire and rescue authorities in England.&lt;/p&gt;
-
-&lt;p&gt;The consultation seeks views on the revision of the protocol on Government intervention action and applies to fire and rescue authorities in England only.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
 </feed>

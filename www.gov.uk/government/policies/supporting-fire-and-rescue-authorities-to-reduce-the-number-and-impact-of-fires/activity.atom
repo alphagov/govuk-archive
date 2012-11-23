@@ -8,7 +8,16 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-11-14T00:00:00+00:00</updated>
+  <updated>2012-11-22T00:00:00+00:00</updated>
+  <entry>
+    <id>tag:www.gov.uk,2005:Publication/16737</id>
+    <published>2012-11-22T00:00:00+00:00</published>
+    <updated>2012-11-22T16:26:28+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/hazardous-materials-operational-guidance-for-the-fire-and-rescue-service"/>
+    <title>Hazardous materials: operational guidance for the fire and rescue service</title>
+    <category>Publication</category>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This document provides comprehensive yet flexible guidance that can be adapted to the nature, scale and requirements of the incident. It consolidates the content of over 500 items of previously published subject related documents.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
   <entry>
     <id>tag:www.gov.uk,2005:Speech/16085</id>
     <published>2012-11-14T00:00:00+00:00</published>
@@ -263,13 +272,21 @@
 &lt;p&gt;This is so that fire and rescue authorities can comply with their duties for automatic enrolment under workplace pension reform.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:Publication/13421</id>
+    <id>tag:www.gov.uk,2005:Publication/16762</id>
     <published>2012-10-02T01:00:00+01:00</published>
     <updated>2012-11-14T12:39:20+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/fire-and-rescue-bulletin-26-2012"/>
     <title>Fire and rescue bulletin: 26/2012</title>
     <category>Publication</category>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Welcome to the Fire and Rescue Service Bulletin for October 2012, covering areas of interest and relevance to the Fire Service.&lt;/p&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The fire and rescue bulletin for October 2012 covers:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Fire Kills campaign annual report 2011 to 2012&lt;/li&gt;
+  &lt;li&gt;Fire Kills campaign national advertising 2012 to 2013&lt;/li&gt;
+  &lt;li&gt;fire procurement pipelines&lt;/li&gt;
+  &lt;li&gt;new developments for the fire service emergency cover toolkit&lt;/li&gt;
+  &lt;li&gt;publication of consultations on guidance for statements of assurance and intervention protocol&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:Consultation/13402</id>
@@ -406,16 +423,5 @@ In delivering for your communities, you need to engage them - give them a real u
 &lt;p&gt;I hope that I have given you a clear indication of where my priorities lie. I recognise that there are tough times ahead but I believe fire and rescue authorities and Chief Fire Officers can provide the leadership needed to continue to deliver a trusted and excellent public service. A new and more collaborative national-local relationship provides an opportunity for fire and rescue authorities, and organisations like CFOA, to play an ever stronger part in setting the agenda and in keeping our communities and our nation safe. I look forward to working with you all. Fire and rescue services are hugely respected in the UK and have the ability to reach high.&lt;/p&gt;
 
 &lt;p&gt;Thank you.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:Publication/11791</id>
-    <published>2012-09-13T01:00:00+01:00</published>
-    <updated>2012-11-14T12:35:47+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/firefighters-pension-scheme-2015-equality-statement"/>
-    <title>Firefighters' pension scheme 2015: equality statement</title>
-    <category>Publication</category>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This equality statement considers the impact of the proposed firefighters’ pension scheme design from April 2015. This assessment has been carried out in pursuance of the public sector equality duty.&lt;/p&gt;
-
-&lt;p&gt;The equality statement is a living document and, given the need to ensure that the assessment is robust, the assessment process will continue beyond the publication of this statement. The Department for Communities and Local Government will continue to consider whether the firefighters’ pension scheme design might be adjusted, or any mitigating actions necessary, to ensure that due regard has been given to the public sector equality duty, prior to the introduction of legislation on the detailed scheme design.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
 </feed>
