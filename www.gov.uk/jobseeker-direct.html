@@ -52,7 +52,8 @@ GOVUK.Analytics.Format = "transaction";</script><script src="https://assets.digi
   })();
 </script><script src="https://assets.digital.cabinet-office.gov.uk/frontend/frontend-6762b7c503ac52e7e6677b53035ddbfa.js" type="text/javascript"></script><link title="Search" rel="search" type="application/opensearchdescription+xml" href="/search/opensearch.xml">
 <!--[if gt IE 8]><!--><link href="https://assets.digital.cabinet-office.gov.uk/frontend/application-d7bb4a19602c342b5ab840c97a9da47f.css" media="screen" rel="stylesheet" type="text/css">
-<!--<![endif]--><!--[if IE 6]><link href="https://assets.digital.cabinet-office.gov.uk/frontend/application-ie6-b1f73f60f37dd3d7a171edd880868d4f.css" media="screen" rel="stylesheet" type="text/css" /><![endif]--><!--[if IE 7]><link href="https://assets.digital.cabinet-office.gov.uk/frontend/application-ie7-4c5d766a7695c3da9fa4bac71ad6e6c4.css" media="screen" rel="stylesheet" type="text/css" /><![endif]--><!--[if IE 8]><link href="https://assets.digital.cabinet-office.gov.uk/frontend/application-ie8-e9b014d48954049a0390acea41f616fb.css" media="screen" rel="stylesheet" type="text/css" /><![endif]-->
+<!--<![endif]--><link rel="alternate" type="application/json" href="/api/jobs-jobsearch.json">
+<!--[if IE 6]><link href="https://assets.digital.cabinet-office.gov.uk/frontend/application-ie6-b1f73f60f37dd3d7a171edd880868d4f.css" media="screen" rel="stylesheet" type="text/css" /><![endif]--><!--[if IE 7]><link href="https://assets.digital.cabinet-office.gov.uk/frontend/application-ie7-4c5d766a7695c3da9fa4bac71ad6e6c4.css" media="screen" rel="stylesheet" type="text/css" /><![endif]--><!--[if IE 8]><link href="https://assets.digital.cabinet-office.gov.uk/frontend/application-ie8-e9b014d48954049a0390acea41f616fb.css" media="screen" rel="stylesheet" type="text/css" /><![endif]-->
 </head>
 <body class="mainstream">
       <script type="text/javascript">document.body.className = ((document.body.className) ? document.body.className + ' js-enabled' : 'js-enabled');</script><a href="#content" class="visuallyhidden">Skip to main content</a>
@@ -107,10 +108,11 @@ GOVUK.Analytics.Format = "transaction";</script><script src="https://assets.digi
 <li class="active"><a href="#before-you-start">Before you start</a></li>
 		    		<li><a href="#other-ways-to-apply">Other ways to apply</a></li>
 		  		</ul></nav><div class="js-tab-content tab-content">
-    			<div class="js-tab-pane tab-pane" id="before-you-start">
-						<div class="application-notice info-notice">
-							<p>Universal Jobmatch has replaced the Jobcentre Plus job search tool.</p>
-						</div>
+          <div class="js-tab-pane tab-pane" id="before-you-start">
+            <div class="application-notice info-notice">
+              <p><a href="https://myaccount.gateway.gov.uk/RegisterOrLogon.aspx?gwv=1.0&amp;gwrealm=urn:TransformingLabourMarketServices&amp;gwlang=en-GB&amp;gwtheme=directgov&amp;gwcategory=IND&amp;gwaction=REGISTER_UID&amp;gwreply=https%3a%2f%2fjobsearch.direct.gov.uk%2fFedHandler.ashx&amp;gwreplytext=Universal+Jobmatch" rel="external">Register with Universal Jobmatch</a> or <a href="https://jobsearch.direct.gov.uk/FedHandler.ashx" rel="external">login to your existing account</a> for services including saved job searches, email alerts and keeping track of your past applications. You can still search and apply for jobs without an account.</p>
+            </div>
+            <p>Universal Jobmatch has replaced the Jobcentre Plus job search tool.</p>
             <p>If you're having problems registering with Universal Jobmatch:</p>
             <ul>
 <li>check your email spam folder for the confirmation email</li>
@@ -128,7 +130,33 @@ GOVUK.Analytics.Format = "transaction";</script><script src="https://assets.digi
 				</div>
       </section>
 </div>
-   </article>
+   </article><!-- report_a_problem -->
+<p class="report-a-problem-toggle"><a href="">Is something wrong with this page?</a></p>
+<div class="report-a-problem-container">
+  <p>Help us improve GOV.UK by telling us:</p>
+  <form accept-charset="UTF-8" action="/feedback" method="post">
+    <div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"></div>
+    <input id="url" name="url" type="hidden" value="https://www.gov.uk/jobs-jobsearch"><label for="what_doing">
+      What you were doing
+      <input id="what_doing" name="what_doing" type="text"></label>
+    <label for="what_wrong">
+      What went wrong
+      <input id="what_wrong" name="what_wrong" type="text"></label>
+    
+    <div><button name="commit" type="submit" class="button">Send</button></div>
+
+    <!--<p>If you have more extensive feedback, please visit the <a href="/feedback">support page</a>.</p>-->
+  </form>
+</div>
+<!-- end report_a_problem -->
+
+<div class="meta-data group">
+  <div class="inner">
+      <p class="modified-date">Last updated: 20 November 2012</p>
+  </div>
+</div>
+
+
 </div>
 
 </section>

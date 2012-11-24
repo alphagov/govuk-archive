@@ -8,9 +8,49 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-11-22T14:00:00+00:00</updated>
+  <updated>2012-11-23T00:00:00+00:00</updated>
   <entry>
-    <id>tag:www.gov.uk,2005:NewsArticle/16757</id>
+    <id>tag:www.gov.uk,2005:Publication/16871</id>
+    <published>2012-11-23T00:00:00+00:00</published>
+    <updated>2012-11-23T14:44:01+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/guidance-for-local-transport-bodies"/>
+    <title>Guidance for Local Transport Bodies</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Department for Transport has announced its firm intention to devolve funding for local major transport schemes to Local Transport Bodies from 2015. The guidance sets out the necessary arrangement Local Transport Bodies will need to have in place to ensure value for money and sound decision making.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:Publication/16840</id>
+    <published>2012-11-23T00:00:00+00:00</published>
+    <updated>2012-11-02T10:48:40+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/list-of-certifications-granted-for-approved-devices"/>
+    <title>List of certifications granted for 'approved devices'</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="summary"&gt;Summary&lt;/h2&gt;
+
+&lt;p&gt;List of certifications granted by the Secretary of State for Transport for ‘approved devices’, CCTV and associated evidence-recording equipment, under the Transport Act 2000 and the Traffic Management Act 2004.&lt;/p&gt;
+
+&lt;h2 id="see-also"&gt;See also&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel="external" href="http://www.dft.gov.uk/publications/tma-part-6-certification-of-approved-devices"&gt;Civil traffic enforcement: certification of approved devices&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:Publication/16838</id>
+    <published>2012-11-23T00:00:00+00:00</published>
+    <updated>2012-11-23T12:33:35+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/queen-elizabeth-ii-conference-centre-expenditure-october-2012"/>
+    <title>Queen Elizabeth II Conference Centre expenditure: October 2012</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Spending over £250 for the Queen Elizabeth II Conference Centre for October 2012.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:Publication/16819</id>
+    <published>2012-11-23T00:00:00+00:00</published>
+    <updated>2012-11-23T12:33:07+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/dclg-exceptions-to-spending-controls-1-april-2012-to-30-september-2012"/>
+    <title>DCLG exceptions to spending controls: 1 April 2012 to 30 September 2012</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Approved spending for Department for Communities and Local Government for 1 April 2012 to 30 September 2012.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:NewsArticle/16890</id>
     <published>2012-11-22T14:00:00+00:00</published>
     <updated>2012-11-22T14:26:07+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/weekly-collection-saved-as-government-scheme-delivers-for-6-million-families"/>
@@ -25,9 +65,9 @@
 
 &lt;p&gt;The fund was set up in February to support comprehensive and cost effective weekly collections that harness innovation, use new technology and spread reward schemes to increase recycling.&lt;/p&gt;
 
-&lt;p&gt;Councils already receive funding for bin collections through central government formula grant and from the money raised locally via council tax: in total, council spending will be £114 million this year. A further 4 million households continue to provide weekly collections outside the support scheme. &lt;/p&gt;
+&lt;p&gt;Councils already receive funding for bin collections through central government formula grant and from the money raised locally via Council Tax: in total, council spending will be £114 million this year. A further 4 million households continue to provide weekly collections outside the support scheme. &lt;/p&gt;
 
-&lt;p&gt;Research found that two-thirds of people think frequent and regular rubbish collections are the most important feature of the waste service. Another survey found that two thirds of the public thought government should mandate weekly collections; that weekly collections were better; and that problems with flies and smells were much worse with fortnightly collections.&lt;/p&gt;
+&lt;p&gt;Research found that two-thirds of people think frequent and regular rubbish collections are the most important feature of the waste service. Another survey found that two-thirds of the public thought government should mandate weekly collections; that weekly collections were better; and that problems with flies and smells were much worse with fortnightly collections.&lt;/p&gt;
 
 &lt;p&gt;Government has already scrapped bin taxes plans via the Localism Act; reversed Audit Commission rules which marked down councils for not adopting fortnightly rubbish collections; and abolished Whitehall targets which created perverse incentives to downgrade waste collection services.&lt;/p&gt;
 
@@ -45,17 +85,17 @@
 &lt;li&gt;The Weekly Collection Support Scheme encourages councils to focus on 4 things: better weekly collections, cost effective bids, environmental improvements and better use of innovative ideas or technology that help residents to recycle more and do their bit for the environment. 118 councils submitted final bids. For more information, see the &lt;a rel="external" href="https://assets.digital.cabinet-office.gov.uk/government/uploads/system/uploads/attachment_data/file/15038/Weekly_Collection_Support_Scheme_-_successful_bids.xls"&gt;list of 90 winning bids&lt;/a&gt;, which gives a short description of what each of the schemes will do.&lt;/li&gt;
   &lt;li&gt;Evidence: opinion research they carried out actually found that two-thirds of people think frequent and regular rubbish collections are the most important feature of the waste service. (Ipsos-MORI, ‘Weekly or fortnightly: Public attitudes to waste collections’, July 2008.)&lt;/li&gt;
   &lt;li&gt;Fortnightly collections rose from just 13 councils across the United Kingdom in 2000 to 225 in 2008 (Alternate weekly collections conference, aspects of alternate weekly collection, July 2008). In Northern Ireland, as of 2010 to 2011, 92% of local authorities offer a fortnightly collection; in Scotland 72%, and Wales 77% according to &lt;a rel="external" href="http://www.wrap.org.uk/" title="WRAP"&gt;WRAP’s&lt;/a&gt;, local authority waste and recycling information portal, statistics for 2010 to 2011. &lt;/li&gt;
-  &lt;li&gt;The Sauce-Icaro attitudes to waste and recycling in Great Britain, December 2011 found that two-thirds (67%) agreed with the statement the government should mandate weekly collections. Weekly collections had higher satisfaction levels than fortnightly (83% compared to 74%). Reports of problems with flies and smells for fortnightly collections was more than double that for weekly (14% compared to 6%).&lt;/li&gt;
-  &lt;li&gt;What next: in the weeks to come the department will begin working with councils, the Local Government Association and Defra to support them to work together to procure the best deals as consortiums or groups to ensure value for money for the taxpayer. A consequence of this means the department has provided a synopsis of each successful bid, but will not be disclosing further specific bid details as this would have an adverse effect on competition between prospective companies and potentially put local authorities in a disadvantageous position.&lt;/li&gt;
+  &lt;li&gt;The Sauce-Icaro attitudes to waste and recycling in Great Britain, December 2011 found that two-thirds (67%) agreed with the statement the government should mandate weekly collections. Weekly collections had higher satisfaction levels than fortnightly (83% compared to 74%). Reports of problems with flies and smells for fortnightly collections were more than double that for weekly (14% compared to 6%).&lt;/li&gt;
+  &lt;li&gt;What next: in the weeks to come the department will begin working with councils, the Local Government Association and Defra to support them to work together to procure the best deals as consortiums or groups to ensure value for money for the taxpayer. This means the department has provided a synopsis of each successful bid, but will not be disclosing further specific bid details as this would have an adverse effect on competition between prospective companies and potentially put local authorities in a disadvantageous position.&lt;/li&gt;
 &lt;/ol&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:NewsArticle/16798</id>
+    <id>tag:www.gov.uk,2005:NewsArticle/16804</id>
     <published>2012-11-22T12:30:00+00:00</published>
     <updated>2012-11-22T12:41:54+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/eric-pickles-visits-hidden-homes-in-wandsworth"/>
     <title>Eric Pickles visits ‘Hidden Homes’ in Wandsworth</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Eric Pickles visited the Rollo housing estate in the London Borough of Wandsworth today (22 July 2012) to see how £3.6 million of government funding is helping the council provide more affordable homes for local families.&lt;/p&gt;
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Eric Pickles visited the Rollo housing estate in the London Borough of Wandsworth today (22 November 2012) to see how £3.6 million of government funding is helping the council provide more affordable homes for local families.&lt;/p&gt;
 
 &lt;p&gt;Mr Pickles unveiled the final 38 affordable new homes of the Hidden Homes initiative that celebrates its 10th anniversary this year. &lt;/p&gt;
 
@@ -183,46 +223,6 @@ Public Enquiries: 0300 330 3000  &lt;/p&gt;&lt;/div&gt;</content>
     <updated>2012-11-22T16:23:45+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/bis-monthly-spend-january-2011"/>
     <title>BIS monthly spend: January 2011</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The government is committed to setting new standards for transparency so the public can more easily see how and where taxpayers’ money is being spent and hold politicians, government departments and public bodies to account. &lt;/p&gt;
-
-&lt;p&gt;All central government departments must publish details of their spending over £25,000, and publish monthly information by the last day of each month.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:Publication/16776</id>
-    <published>2012-11-22T00:00:00+00:00</published>
-    <updated>2012-11-22T16:19:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/bis-monthly-spend-february-2011"/>
-    <title>BIS monthly spend: February 2011</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The government is committed to setting new standards for transparency so the public can more easily see how and where taxpayers’ money is being spent and hold politicians, government departments and public bodies to account. &lt;/p&gt;
-
-&lt;p&gt;All central government departments must publish details of their spending over £25,000, and publish monthly information by the last day of each month.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:Publication/16775</id>
-    <published>2012-11-22T00:00:00+00:00</published>
-    <updated>2012-11-22T16:19:17+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/bis-monthly-spend-march-2011"/>
-    <title>BIS monthly spend: March 2011</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The government is committed to setting new standards for transparency so the public can more easily see how and where taxpayers’ money is being spent and hold politicians, government departments and public bodies to account. &lt;/p&gt;
-
-&lt;p&gt;All central government departments must publish details of their spending over £25,000, and publish monthly information by the last day of each month.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:Publication/16773</id>
-    <published>2012-11-22T00:00:00+00:00</published>
-    <updated>2012-11-22T16:18:47+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/bis-monthly-spend-april-2011"/>
-    <title>BIS monthly spend: April 2011</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The government is committed to setting new standards for transparency so the public can more easily see how and where taxpayers’ money is being spent and hold politicians, government departments and public bodies to account. &lt;/p&gt;
-
-&lt;p&gt;All central government departments must publish details of their spending over £25,000, and publish monthly information by the last day of each month.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:Publication/16772</id>
-    <published>2012-11-22T00:00:00+00:00</published>
-    <updated>2012-11-22T16:19:30+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/bis-monthly-spend-may-2011"/>
-    <title>BIS monthly spend: May 2011</title>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The government is committed to setting new standards for transparency so the public can more easily see how and where taxpayers’ money is being spent and hold politicians, government departments and public bodies to account. &lt;/p&gt;
 
 &lt;p&gt;All central government departments must publish details of their spending over £25,000, and publish monthly information by the last day of each month.&lt;/p&gt;&lt;/div&gt;</content>

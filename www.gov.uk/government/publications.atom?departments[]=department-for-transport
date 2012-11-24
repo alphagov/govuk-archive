@@ -8,7 +8,31 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-11-22T10:14:52+00:00</updated>
+  <updated>2012-11-23T00:00:00+00:00</updated>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/16840</id>
+    <published>2012-11-23T00:00:00+00:00</published>
+    <updated>2012-11-23T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/list-of-certifications-granted-for-approved-devices"/>
+    <title>List of certifications granted for 'approved devices'</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="summary"&gt;Summary&lt;/h2&gt;
+
+&lt;p&gt;List of certifications granted by the Secretary of State for Transport for ‘approved devices’, CCTV and associated evidence-recording equipment, under the Transport Act 2000 and the Traffic Management Act 2004.&lt;/p&gt;
+
+&lt;h2 id="see-also"&gt;See also&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel="external" href="http://www.dft.gov.uk/publications/tma-part-6-certification-of-approved-devices"&gt;Civil traffic enforcement: certification of approved devices&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/16871</id>
+    <published>2012-11-23T00:00:00+00:00</published>
+    <updated>2012-11-23T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/guidance-for-local-transport-bodies"/>
+    <title>Guidance for Local Transport Bodies</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Department for Transport has announced its firm intention to devolve funding for local major transport schemes to Local Transport Bodies from 2015. The guidance sets out the necessary arrangement Local Transport Bodies will need to have in place to ensure value for money and sound decision making.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/16697</id>
     <published>2012-11-22T10:14:52+00:00</published>
@@ -56,6 +80,24 @@
 &lt;li&gt;&lt;a href="mailto:maritime.stats@dft.gsi.gov.uk"&gt;maritime.stats@dft.gsi.gov.uk&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Phone: 020 7944 2021&lt;/li&gt;
 &lt;/ul&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/16910</id>
+    <published>2012-11-21T00:00:00+00:00</published>
+    <updated>2012-11-21T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/exceptions-to-the-moratorium-on-discretionary-spend"/>
+    <title>Exceptions to the moratorium on discretionary spend</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="background"&gt;Background&lt;/h2&gt;
+
+&lt;p&gt;The government has introduced a strict moratorium in 5 key areas of discretionary spend:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;consulting&lt;/li&gt;
+  &lt;li&gt;Information and communications technology (ICT)&lt;/li&gt;
+  &lt;li&gt;recruitment&lt;/li&gt;
+  &lt;li&gt;marketing  &lt;/li&gt;
+  &lt;li&gt;property &lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Exceptions to the moratoria in key areas are listed in documents.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/16723</id>
@@ -231,14 +273,6 @@ UK Department for Transport
 &lt;p&gt;Phone: +44 (0)20 7944 3077&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/16298</id>
-    <published>2012-11-19T00:00:00+00:00</published>
-    <updated>2012-11-19T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/street-lighting"/>
-    <title>Street lighting</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Freedom of Information response regarding the switching off of street lighting on sections of some roads.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/16370</id>
     <published>2012-11-19T00:00:00+00:00</published>
     <updated>2012-11-19T00:00:00+00:00</updated>
@@ -249,70 +283,20 @@ UK Department for Transport
 &lt;p&gt;The documents are cruise ship and ro-ro (roll-on/roll-off) passenger ferry templates. A &lt;a rel="external" href="http://www.dft.gov.uk/mca/mcga07-home/shipsandcargoes/mcga-shipsregsandguidance/mcga_dops_maritimesecurity_mainpage/dops_ms-guidance/mcga_dops_msb_ssp/dops_msb__model_ship_security_plan.htm"&gt;template for use with cargo ships&lt;/a&gt; is available on the &lt;a rel="external" href="http://www.dft.gov.uk/mca/"&gt;Maritime and Coastguard website&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/16298</id>
+    <published>2012-11-19T00:00:00+00:00</published>
+    <updated>2012-11-19T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/street-lighting"/>
+    <title>Street lighting</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Freedom of Information response regarding the switching off of street lighting on sections of some roads.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/16093</id>
     <published>2012-11-15T09:30:10+00:00</published>
     <updated>2012-11-15T09:30:10+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/consultations/channel-tunnel-transposition-of-railway-safety-and-interoperability-directives"/>
     <title>Channel Tunnel: transposition of railway safety and interoperability directives</title>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;We are currently seeking views on whether to transpose the requirements of 3 European directives on railway safety and interoperability so that these provisions are in force for the Channel Tunnel. In recognition of the Tunnel’s cross-border nature these we would like to incorporate the provisions of these railway safety and interoperability directives by making amendments to the Channel Tunnel (Safety) Order 2007.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/16791</id>
-    <published>2012-11-15T00:00:00+00:00</published>
-    <updated>2012-11-15T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/department-for-transport-regulated-agents-and-in-flight-suppliers"/>
-    <title>Department for Transport regulated agents and in-flight suppliers</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="contact-number-for-all-enquiries"&gt;Contact number for all enquiries&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Phone: 0207 944 6430&lt;/li&gt;
-  &lt;li&gt;Email: &lt;a href="mailto:transec.cargo@dft.gsi.gov.uk"&gt;transec.cargo@dft.gsi.gov.uk&lt;/a&gt;
-&lt;/li&gt;
-&lt;/ul&gt;&lt;h2 id="communication-with-cargo-and-in-flight-supplies-inspectors"&gt;Communication with Cargo and In-Flight supplies inspectors&lt;/h2&gt;
-
-&lt;p&gt;Could all non-urgent communication with inspectors, wherever possible, please be sent to their email addresses (listed below).&lt;/p&gt;
-
-&lt;h2 id="cargo-and-in-flight-supplies-inspectors"&gt;Cargo and in-flight supplies inspectors&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Christian Whitley, Team Leader Cargo and In-flight Supplies &lt;a href="mailto:Christian.whitley@dft.gsi.gov.uk"&gt;christian.whitley@dft.gsi.gov.uk&lt;/a&gt;
-&lt;/li&gt;
-  &lt;li&gt;Daz Salmon &lt;a href="mailto:daz.salmon@dft.gsi.gov.uk"&gt;daz.salmon@dft.gsi.gov.uk&lt;/a&gt;
-&lt;/li&gt;
-  &lt;li&gt;Gillian Stephens &lt;a href="mailto:gillian.stephens@dft.gsi.gov.uk"&gt;gillian.stephens@dft.gsi.gov.uk&lt;/a&gt;
-&lt;/li&gt;
-  &lt;li&gt;James Sidney &lt;a href="mailto:james.sidney@dft.gsi.gov.uk"&gt;james.sidney@dft.gsi.gov.uk&lt;/a&gt;
-&lt;/li&gt;
-  &lt;li&gt;Jerry Koster &lt;a href="mailto:jerry.koster@dft.gsi.gov.uk"&gt;jerry.koster@dft.gsi.gov.uk&lt;/a&gt;
-&lt;/li&gt;
-  &lt;li&gt;Martin Gurney &lt;a href="mailto:martin.gurney@dft.gsi.gov.uk"&gt;martin.gurney@dft.gsi.gov.uk&lt;/a&gt;
-&lt;/li&gt;
-  &lt;li&gt;Maurice Stearn &lt;a href="mailto:maurice.stearn@dft.gsi.gov.uk"&gt;maurice.stearn@dft.gsi.gov.uk&lt;/a&gt;
-&lt;/li&gt;
-  &lt;li&gt;Carole Cousins &lt;a href="mailto:carole.cousins@dft.gsi.gov.uk"&gt;carole.cousins@dft.gsi.gov.uk&lt;/a&gt;
-&lt;/li&gt;
-&lt;/ul&gt;&lt;h2 id="validation-and-known-consignors-scheme"&gt;Validation and Known Consignors Scheme&lt;/h2&gt;
-
-&lt;p&gt;Email all enquires to &lt;a href="mailto:current.cargovalidations@dft.gsi.gov.uk"&gt;current.cargovalidations@dft.gsi.gov.uk&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id="correspondence"&gt;Correspondence&lt;/h2&gt;
-
-&lt;div class="address"&gt;&lt;div class="adr org fn"&gt;&lt;p&gt;
-
-Department for Transport  
-&lt;br&gt;Transport Security Compliance  
-&lt;br&gt;3rd Floor, Fry Building  
-&lt;br&gt;2 Marsham Street  
-&lt;br&gt;London, SW1P 4DF
-&lt;br&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/16194</id>
-    <published>2012-11-15T00:00:00+00:00</published>
-    <updated>2012-11-15T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/concessionary-travel-notes-and-definitions"/>
-    <title>Concessionary Travel notes and definitions</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This document contains notes and definitions relating to Concessionary Travel statistics&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/16104</id>
@@ -359,6 +343,64 @@ Department for Transport
 &lt;/ul&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/16866</id>
+    <published>2012-11-15T00:00:00+00:00</published>
+    <updated>2012-11-15T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/department-for-transport-regulated-agents-and-in-flight-suppliers"/>
+    <title>Department for Transport regulated agents and in-flight suppliers</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="contact-number-for-all-enquiries"&gt;Contact number for all enquiries&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Phone: 020 7944 6430&lt;/li&gt;
+  &lt;li&gt;Email: &lt;a href="mailto:transec.cargo@dft.gsi.gov.uk"&gt;transec.cargo@dft.gsi.gov.uk&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;&lt;h2 id="communication-with-cargo-and-in-flight-supplies-inspectors"&gt;Communication with cargo and in-flight supplies inspectors&lt;/h2&gt;
+
+&lt;p&gt;Could all non-urgent communication with inspectors, wherever possible, please be sent to their email addresses (listed below).&lt;/p&gt;
+
+&lt;h2 id="cargo-and-in-flight-supplies-inspectors"&gt;Cargo and in-flight supplies inspectors&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Christian Whitley, Team Leader Cargo and In-flight Supplies &lt;a href="mailto:Christian.whitley@dft.gsi.gov.uk"&gt;christian.whitley@dft.gsi.gov.uk&lt;/a&gt;
+&lt;/li&gt;
+  &lt;li&gt;Daz Salmon &lt;a href="mailto:daz.salmon@dft.gsi.gov.uk"&gt;daz.salmon@dft.gsi.gov.uk&lt;/a&gt;
+&lt;/li&gt;
+  &lt;li&gt;Gillian Stephens &lt;a href="mailto:gillian.stephens@dft.gsi.gov.uk"&gt;gillian.stephens@dft.gsi.gov.uk&lt;/a&gt;
+&lt;/li&gt;
+  &lt;li&gt;James Sidney &lt;a href="mailto:james.sidney@dft.gsi.gov.uk"&gt;james.sidney@dft.gsi.gov.uk&lt;/a&gt;
+&lt;/li&gt;
+  &lt;li&gt;Jerry Koster &lt;a href="mailto:jerry.koster@dft.gsi.gov.uk"&gt;jerry.koster@dft.gsi.gov.uk&lt;/a&gt;
+&lt;/li&gt;
+  &lt;li&gt;Martin Gurney &lt;a href="mailto:martin.gurney@dft.gsi.gov.uk"&gt;martin.gurney@dft.gsi.gov.uk&lt;/a&gt;
+&lt;/li&gt;
+  &lt;li&gt;Maurice Stearn &lt;a href="mailto:maurice.stearn@dft.gsi.gov.uk"&gt;maurice.stearn@dft.gsi.gov.uk&lt;/a&gt;
+&lt;/li&gt;
+  &lt;li&gt;Carole Cousins &lt;a href="mailto:carole.cousins@dft.gsi.gov.uk"&gt;carole.cousins@dft.gsi.gov.uk&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;&lt;h2 id="validation-and-known-consignors-scheme"&gt;Validation and Known Consignors scheme&lt;/h2&gt;
+
+&lt;p&gt;Email all enquires to &lt;a href="mailto:current.cargovalidations@dft.gsi.gov.uk"&gt;current.cargovalidations@dft.gsi.gov.uk&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id="correspondence"&gt;Correspondence&lt;/h2&gt;
+
+&lt;div class="address"&gt;&lt;div class="adr org fn"&gt;&lt;p&gt;
+
+Department for Transport  
+&lt;br&gt;Transport Security Compliance  
+&lt;br&gt;3rd Floor, Fry Building  
+&lt;br&gt;2 Marsham Street  
+&lt;br&gt;London, SW1P 4DF
+&lt;br&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/16194</id>
+    <published>2012-11-15T00:00:00+00:00</published>
+    <updated>2012-11-15T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/concessionary-travel-notes-and-definitions"/>
+    <title>Concessionary Travel notes and definitions</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This document contains notes and definitions relating to Concessionary Travel statistics&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/16106</id>
     <published>2012-11-15T00:00:00+00:00</published>
     <updated>2012-11-15T00:00:00+00:00</updated>
@@ -401,16 +443,6 @@ Department for Transport
 &lt;/ul&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/15074</id>
-    <published>2012-11-13T00:00:00+00:00</published>
-    <updated>2012-11-13T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/consultations/removal-of-motor-insurance-certificates"/>
-    <title>Removal of motor insurance certificates</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This consultation seeks views on amending the Road Traffic Act 1988 to remove the need for insurers to issue a motor insurance certificate when an insurance policy is taken out. At present the certificate is used as evidence of valid insurance cover and there are circumstances when it must be produced by the insured to demonstrate they have valid cover.&lt;/p&gt;
-
-&lt;p&gt;Insurers are required by law to enter details of all motor insurance policies onto the motor insurance database (&lt;abbr title="motor insurance database"&gt;MID&lt;/abbr&gt;). This consultation document considers using the &lt;abbr title="motor insurance database"&gt;MID&lt;/abbr&gt; as the single source for checking if insurance cover is in place and considers what further changes and developments are needed to make this work.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/15105</id>
     <published>2012-11-13T00:00:00+00:00</published>
     <updated>2012-11-13T00:00:00+00:00</updated>
@@ -423,6 +455,16 @@ Department for Transport
 &lt;p&gt;This spreadsheet tool is intended to provide indicative estimates only and &lt;abbr title="low carbon emission bus"&gt;DfT&lt;/abbr&gt; does not vouch for the accuracy of such estimates. Please note that the Department for Transport does not accept any liability for any decisions that may be taken on the basis of such estimates.&lt;/p&gt;
 
 &lt;p&gt;This toolkit will be routinely updated and refined. Details of any updates or changes that are made will be outlined in the ‘Intro’ worksheet of the toolkit. We therefore encourage you to visit this website regularly and download the toolkit to ensure you are using the latest version.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/15074</id>
+    <published>2012-11-13T00:00:00+00:00</published>
+    <updated>2012-11-13T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/consultations/removal-of-motor-insurance-certificates"/>
+    <title>Removal of motor insurance certificates</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This consultation seeks views on amending the Road Traffic Act 1988 to remove the need for insurers to issue a motor insurance certificate when an insurance policy is taken out. At present the certificate is used as evidence of valid insurance cover and there are circumstances when it must be produced by the insured to demonstrate they have valid cover.&lt;/p&gt;
+
+&lt;p&gt;Insurers are required by law to enter details of all motor insurance policies onto the motor insurance database (&lt;abbr title="motor insurance database"&gt;MID&lt;/abbr&gt;). This consultation document considers using the &lt;abbr title="motor insurance database"&gt;MID&lt;/abbr&gt; as the single source for checking if insurance cover is in place and considers what further changes and developments are needed to make this work.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/14274</id>
@@ -486,167 +528,6 @@ Fax: +44 (0)20 7944 2194&lt;/p&gt;
   &lt;li&gt;&lt;a rel="external" href="http://www.dft.gov.uk/publications/aviation-permits-doc-requirements-foreign-airlines-aircraft"&gt;Aviation Permits - documentary requirements for foreign airlines/aircraft&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a rel="external" href="http://www.dft.gov.uk/publications/extra-bilateral-flight-application-procedures/"&gt;Extra-bilateral flight application procedures&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/14151</id>
-    <published>2012-11-10T00:00:00+00:00</published>
-    <updated>2012-11-10T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/maritime-statistics-directive-reporting-guidance"/>
-    <title>Maritime Statistics Directive reporting guidance</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="summary"&gt;Summary&lt;/h2&gt;
-
-&lt;p&gt;Help for shipping lines, their agents and ports to complete statistical returns on maritime freight traffic through ports, as required by the European Commission Maritime Statistics Directive (95/64/EU).&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a rel="external" href="http://webarchive.nationalarchives.gov.uk/20120606215114/http://www.dft.gov.uk/publications/ecmsd-rules-and-code-lists/"&gt;administrative rules and code lists&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a rel="external" href="http://webarchive.nationalarchives.gov.uk/20120606215114/http://www.dft.gov.uk/publications/ecmsd-submission-methods/"&gt;submission methods&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a rel="external" href="http://webarchive.nationalarchives.gov.uk/20120606215114/http://www.dft.gov.uk/publications/ecmsd-faqs/"&gt;frequently asked questions&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;h2 id="what-is-the-maritime-statistics-directive"&gt;What is the Maritime Statistics Directive?&lt;/h2&gt;
-
-&lt;p&gt;The Maritime Statistics Directive is a piece of European Union legislation passed in December 1995 &lt;a rel="external" href="http://eur-lex.europa.eu/smartapi/cgi/sga_doc?smartapi!celexplus!prod!CELEXnumdoc&amp;amp;lg=EN&amp;amp;numdoc=31995L0064"&gt;Council Directive 96/64/EC&lt;/a&gt; which requires Member States to supply to the Statistical Office of the European Communities (Eurostat) information relating to maritime traffic through its’ ports. The UK has been required to report data under the Directive since 1 January 2000. The &lt;a rel="external" href="http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:141:0029:0047:EN:PDF"&gt;directive was ‘recast’&lt;/a&gt; in 2009, bringing together the original directive and various subsequent amendments in one document.&lt;/p&gt;
-
-&lt;h2 id="is-the-provision-of-data-obligatory"&gt;Is the provision of data obligatory?&lt;/h2&gt;
-
-&lt;p&gt;Yes. The directive requires the government to make collection obligatory in the United Kingdom. The legal powers in the UK are by means of a &lt;a rel="external" href="http://www.legislation.gov.uk/uksi/1997/2330/contents/made"&gt;statutory instrument&lt;/a&gt; under section 2(2) of the European Communities Act 1972. The statutory instrument (number 2330 of 1997) obliges all relevant bodies in the transport industry to provide data to &lt;abbr title="Department for Transport"&gt;DfT&lt;/abbr&gt; for onward transmission to Eurostat.&lt;/p&gt;
-
-&lt;h2 id="who-has-to-provide-the-data"&gt;Who has to provide the data?&lt;/h2&gt;
-
-&lt;p&gt;Although the statutory instrument requires all relevant transport organisations to provide the data, the detailed data has to be provided by the shipping lines or their agents for freight movements through major UK ports (i.e. those handling more than one million tonnes of freight per annum). In addition, port authorities at major ports have to provide quarterly aggregated data to confirm the completeness of the data collected from shipping lines/agents.
-At minor ports (those handling less than 1 million tonnes) only annual aggregate figures are required from port authorities.&lt;/p&gt;
-
-&lt;h2 id="why-are-the-data-collected"&gt;Why are the data collected?&lt;/h2&gt;
-
-&lt;p&gt;The data collected under the directive are used by the European Commission to assist in policy development at a European level and to monitor the impact of European policy measures.&lt;/p&gt;
-
-&lt;p&gt;But the UK government has collected statistics on port traffic in the UK since longer before the Directive came in. These have been used by government, business and the wider public in developing and debating maritime transport policy and in planning operations and new ventures. The effect of the Directive was to change the detail of what was already collected in the UK and introduce much more consistency in European port statistics.&lt;/p&gt;
-
-&lt;h2 id="who-is-responsible-for-ensuring-collection-of-data-in-the-uk"&gt;Who is responsible for ensuring collection of data in the UK?&lt;/h2&gt;
-
-&lt;p&gt;The government department with overall responsibility for the data collection is the Department for Transport, (&lt;abbr title="Department for Transport"&gt;DfT&lt;/abbr&gt;). It employs a collection agent, BMT Reliability consultants, to carry out the day-to-day operation of the data collection activity.&lt;/p&gt;
-
-&lt;h2 id="where-can-i-find-the-results-from-the-data-collected"&gt;Where can I find the results from the data collected?&lt;/h2&gt;
-
-&lt;p&gt;The Department for Transport publishes UK data. Eurostat publishes &lt;a rel="external" href="http://epp.eurostat.ec.europa.eu/portal/page/portal/eurostat/home"&gt;Europe-wide data&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id="what-data-has-to-be-collected-and-how-often"&gt;What data has to be collected and how often?&lt;/h2&gt;
-
-&lt;p&gt;The Directive requires the collection of statistics on freight traffic, vessels and passenger traffic through ports throughout the European Union. The &lt;abbr title="Department for Transport"&gt;DfT&lt;/abbr&gt; has the means to collect data on vessels and passenger traffic separately, so the system described here relates to the requirements for freight traffic only.&lt;/p&gt;
-
-&lt;p&gt;Data relating to freight traffic is only being collected in detail for UK ports handling more than one million tonnes of freight per annum (‘major ports’). This detailed data includes:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;the reporting port;&lt;/li&gt;
-  &lt;li&gt;the Lloyds Register Number (or IMO Number) for the vessel (or name, flag and deadweight);&lt;/li&gt;
-  &lt;li&gt;the direction of movement (inwards or outwards);&lt;/li&gt;
-  &lt;li&gt;port of loading for inwards cargo or unloading for outwards cargo;&lt;/li&gt;
-  &lt;li&gt;for unitised traffic the type of units (container, accompanied trailer, unaccompanied trailer etc.);&lt;/li&gt;
-  &lt;li&gt;whether they are loaded or empty units;&lt;/li&gt;
-  &lt;li&gt;the number of units and the freight tonnage;&lt;/li&gt;
-  &lt;li&gt;for other traffic, the broad product group and freight tonnage.&lt;/li&gt;
-&lt;/ul&gt;&lt;p&gt;This data has to be provided at least quarterly and is being collected primarily from shipping lines or their agents.&lt;/p&gt;
-
-&lt;p&gt;In addition, the ‘major’ port authorities (where traffic exceeds one million tonnes per annum) are providing the following information on a ‘retrospective’ quarterly basis:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;the names of all shipping lines and agents using their port;&lt;/li&gt;
-  &lt;li&gt;the identity of all vessels using their port; and&lt;/li&gt;
-  &lt;li&gt;the gross weight and number of units of goods in and out of their port.&lt;/li&gt;
-&lt;/ul&gt;&lt;p&gt;Data for other ports, handling less than one million tonnes a year, is being provided only annually in summary form by port authorities. 
-For more see &lt;a rel="external" href="http://www.dft.gov.uk/publications/ecmsd-rules-and-code-lists/"&gt;administrative rules&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id="how-are-the-data-collected-in-the-uk"&gt;How are the data collected in the UK?&lt;/h2&gt;
-
-&lt;p&gt;These range of options are available by which data providers can supply the data:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;by sending the data automatically via a Port Community System&lt;/li&gt;
-  &lt;li&gt;by entering the data through web based forms (iSDES)&lt;/li&gt;
-  &lt;li&gt;by submitting ASCII data files in a &lt;abbr title="Department for Transport"&gt;DfT&lt;/abbr&gt; approved format&lt;/li&gt;
-  &lt;li&gt;by completing paper forms&lt;/li&gt;
-&lt;/ul&gt;&lt;p&gt;The collection agency provide a central database to collect and store the data received by these methods, ready for transmission to &lt;abbr title="Department for Transport"&gt;DfT&lt;/abbr&gt;.&lt;/p&gt;
-
-&lt;p&gt;For more details see &lt;a rel="external" href="http://www.dft.gov.uk/publications/ecmsd-submission-methods/"&gt;submission methods&lt;/a&gt; and &lt;a rel="external" href="http://www.dft.gov.uk/publications/ecmsd-rules-and-code-lists/"&gt;administrative rules&lt;/a&gt;.     &lt;/p&gt;
-
-&lt;h2 id="how-can-i-get-further-information"&gt;How can I get further information?&lt;/h2&gt;
-
-&lt;p&gt;You can obtain further information from the contacts listed below.&lt;/p&gt;
-
-&lt;h2 id="contact-us"&gt;Contact us&lt;/h2&gt;
-&lt;p&gt;For enquiries about statistical results or general data collection policy please contact:&lt;/p&gt;
-
-&lt;div class="address"&gt;&lt;div class="adr org fn"&gt;&lt;p&gt;
-
-Department for Transport.
-&lt;br&gt;Maritime Statistics Help Desk
-&lt;br&gt;Maritime Statistics Collection Agency
-&lt;br&gt;BMT Reliability Consultants Limited
-&lt;br&gt;12 Little Park Farm Road
-&lt;br&gt;Fareham
-&lt;br&gt;Hampshire
-&lt;br&gt;PO15 5SU
-&lt;br&gt;Tel: 01489 553290
-&lt;br&gt;Fax: 01489 553291
-&lt;br&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;To ask questions/send messages to the help desk:
-&lt;a href="help@maritimestatistics.co.uk"&gt;help@maritimestatistics.co.uk&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;For help with providing data please contact the Maritime Statistics Help Desk.&lt;/p&gt;
-
-&lt;p&gt;To submit data:
-&lt;a href="data@maritimestatistics.co.uk"&gt;data@maritimestatistics.co.uk&lt;/a&gt;&lt;/p&gt;
-
-&lt;div class="address"&gt;&lt;div class="adr org fn"&gt;&lt;p&gt;
-
-Department for Transport
-&lt;br&gt;Maritime Statistics Branch
-&lt;br&gt;Department for Transport
-&lt;br&gt;Zone 2/19
-&lt;br&gt;Great Minster House
-&lt;br&gt;76 Marsham Street
-&lt;br&gt;London
-&lt;br&gt;SW1P 4DR
-&lt;br&gt;Tel: 020 7944 3087
-&lt;br&gt;Fax: 020 7944 2165
-&lt;br&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;&lt;a href="maritime.statistics@dft.gsi.gov.uk"&gt;maritime.statistics@dft.gsi.gov.uk&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/14244</id>
-    <published>2012-11-10T00:00:00+00:00</published>
-    <updated>2012-11-10T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/standards-for-official-statistics-published-by-the-department-for-transport"/>
-    <title>Standards for official statistics published by the Department for Transport</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This page features information on the department’s approach to the use of administrative sources for statistical purposes is set out at the link below. This includes details of individual administrative data sources used.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href="https://www.gov.uk/government/publications/statement-of-administrative-sources-for-official-statistics-published-by-the-department-for-transport"&gt;Statement on administrative sources&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;The ‘Statement on pre-release access’ document sets out the Department for Transport’s operational arrangements for giving ministers and their officials pre-release access to official statistics once they have attained their final form prior to publication.&lt;/p&gt;
-
-&lt;p&gt;The ‘Statement on quality’ document sets out the Department for Transport’s statement on quality policy.&lt;/p&gt;
-
-&lt;p&gt;This ‘Statement on revisions’ document sets out the Department for Transport’s statement on revisions to our statistics.&lt;/p&gt;
-
-&lt;p&gt;The ‘User service statement’ document sets out the Department for Transport’s statement on revisions to our statistics.&lt;/p&gt;
-
-&lt;p&gt;The ‘Survey compliance costs’ gives the compliance costs of statistical surveys carried out by the department.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/14071</id>
-    <published>2012-11-10T00:00:00+00:00</published>
-    <updated>2012-11-10T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/statement-of-administrative-sources-for-official-statistics-published-by-the-department-for-transport"/>
-    <title>Statement of administrative sources for official statistics published by the Department for Transport</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Official statistics published by the Department for Transport are based on 2 main sources – data gathered from statistical surveys, and data extracted from administrative or management systems. This statement sets out the Department for Transport’s approach to the use of administrative sources for statistical purposes, as required by Protocol 3 of the Code of Practice for Official Statistics.&lt;/p&gt;
-
-&lt;p&gt;A number of administrative sources are currently used by the Department for Transport statistical teams to compile official statistics. In all cases where such sources are used, professional statisticians are involved in quality assuring the use of the data for statistical purposes.&lt;/p&gt;
-
-&lt;p&gt;By using data which are already available within administrative or management systems, rather than collecting data afresh, we are able to limit the overall burden placed on data providers, and also avoid the costs of mounting dedicated data collection exercises. In addition, the information we extract from such systems often has the advantage of being more timely than statistical data and, when compared with data from surveys (and particularly sample surveys), can also deliver data with a greater breadth of coverage.&lt;/p&gt;
-
-&lt;p&gt;Examples of our use of administrative systems include data from the Driver Vehicle Licensing Agency (&lt;abbr title="Driver and Vehicle Licensing Agency"&gt;DVLA&lt;/abbr&gt;) to produce Vehicle Registration and Licensing Statistics, and by taking a sample of vehicles from &lt;abbr title="Driver and Vehicle Licensing Agency"&gt;DVLA&lt;/abbr&gt; records to produce statistics for road freight statistics. Estimates of vehicle excise duty evasion are also produced using the administrative data held by the &lt;abbr title="Driver and Vehicle Licensing Agency"&gt;DVLA&lt;/abbr&gt;. We use the Maritime and Coastguard Agency (MCA) Seafarer Documentation System as an input to UK Seafarer Statistics.&lt;/p&gt;
-
-&lt;p&gt;The UK Statistics Authority actively encourages public bodies to exploit administrative and management sources for statistical purposes. However the Authority recognises that the statistical advantages of such arrangements can only be fully realised if statisticians have appropriate access to such systems; if statistical purposes are reflected in the design, management, and development of such systems; and if adequate safeguards are put in place to ensure the professional integrity of any official statistics derived from them. The Authority‘s main requirements are set out in the third Protocol attached to their Code of Practice for Official Statistics.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/14078</id>

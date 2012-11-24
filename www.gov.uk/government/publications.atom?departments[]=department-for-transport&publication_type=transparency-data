@@ -8,7 +8,25 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-10-11T00:00:00+01:00</updated>
+  <updated>2012-11-21T00:00:00+00:00</updated>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/16910</id>
+    <published>2012-11-21T00:00:00+00:00</published>
+    <updated>2012-11-21T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/exceptions-to-the-moratorium-on-discretionary-spend"/>
+    <title>Exceptions to the moratorium on discretionary spend</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="background"&gt;Background&lt;/h2&gt;
+
+&lt;p&gt;The government has introduced a strict moratorium in 5 key areas of discretionary spend:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;consulting&lt;/li&gt;
+  &lt;li&gt;Information and communications technology (ICT)&lt;/li&gt;
+  &lt;li&gt;recruitment&lt;/li&gt;
+  &lt;li&gt;marketing  &lt;/li&gt;
+  &lt;li&gt;property &lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Exceptions to the moratoria in key areas are listed in documents.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/16311</id>
     <published>2012-10-11T00:00:00+01:00</published>
@@ -609,22 +627,31 @@ There is a high level of seasonal variation in new vehicle registrations (for ex
 &lt;/ul&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/10063</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/13638</id>
     <published>2012-07-13T00:00:00+01:00</published>
     <updated>2012-07-13T00:00:00+01:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/exceptions-to-the-moratorium-on-discretionary-spend"/>
-    <title>Exceptions to the moratorium on discretionary spend</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="background"&gt;Background&lt;/h2&gt;
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/percentage-of-dft-s-appraised-project-spending-that-is-assessed-as-good-or-very-good-value-for-money"/>
+    <title>Percentage of DfT’s appraised project spending that is assessed as good or very good value for money</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="input-indicator"&gt;Input indicator&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;publishing schedule: biannually (From July 2012, an annual measure will also be published)&lt;/li&gt;
+  &lt;li&gt;information broken down by scheme&lt;/li&gt;
+&lt;/ul&gt;&lt;h2 id="background-information"&gt;Background information&lt;/h2&gt;
+&lt;p&gt;The indicator reports the value for money (&lt;abbr title="Value for Money"&gt;VfM&lt;/abbr&gt;) ratings presented to ministers when spending decisions are made, using the department’s &lt;abbr title="Value for Money"&gt;VfM&lt;/abbr&gt; process. It also uses the estimate of cost to the department of those decisions.&lt;/p&gt;
 
-&lt;p&gt;The government has introduced a strict moratorium in five key areas of discretionary spend:&lt;/p&gt;
+&lt;p&gt;The department’s &lt;abbr title="Value for Money"&gt;VfM&lt;/abbr&gt; process was introduced in 2004 to consistently present to ministers a summary of the benefits and costs of transport proposals. The &lt;abbr title="Value for Money"&gt;VfM&lt;/abbr&gt; assessment measures the expected benefits to each pound of spending covered by the appraisal process. The &lt;abbr title="Value for Money"&gt;VfM&lt;/abbr&gt; process covers all major schemes that are subject to ministerial approval.&lt;/p&gt;
+
+&lt;p&gt;The indicator covers approved spending of schemes that ministers have given final approval to within the period indicated.&lt;/p&gt;
+
+&lt;p&gt;Data relating to this indicator will be published from May 2011.&lt;/p&gt;
+
+&lt;h2 id="further-information"&gt;Further information&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;consulting&lt;/li&gt;
-  &lt;li&gt;Information and communications technology (ICT)&lt;/li&gt;
-  &lt;li&gt;recruitment&lt;/li&gt;
-  &lt;li&gt;marketing&lt;/li&gt;
-  &lt;li&gt;property&lt;/li&gt;
-&lt;/ul&gt;&lt;p&gt;Exceptions to the moratoria in key areas are listed in documents.&lt;/p&gt;&lt;/div&gt;</content>
+&lt;li&gt;&lt;a rel="external" href="http://www.dft.gov.uk/about/howthedftworks/vfm/"&gt;Guidance on the value for money process&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a rel="external" href="http://www.dft.gov.uk/publications/dft-business-plan"&gt;Business Plan 2011 to 2015&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a rel="external" href="http://www.dft.gov.uk/publications/?agency=dft&amp;amp;tag=business-input-and-impact-indicator"&gt;Input and impact indicators&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/9999</id>
@@ -687,33 +714,6 @@ There is a high level of seasonal variation in new vehicle registrations (for ex
   &lt;li&gt;&lt;a rel="external" href="http://webarchive.nationalarchives.gov.uk/20120807082352/http://assets.dft.gov.uk/publications/business-plan-qds/dft-qds-201107.pdf"&gt;&lt;abbr title="Department for Transport"&gt;DfT&lt;/abbr&gt; quarterly data summary, July 2011 (PDF, 86 KB)&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a rel="external" href="http://data.dft.gov.uk/business-plan-qds/dft-qds-201107-measurement-annex.xls"&gt;&lt;abbr title="Department for Transport"&gt;DfT&lt;/abbr&gt; quarterly data summary measurement annex, July 2011 (XLS, 62 KB)&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a rel="external" href="http://webarchive.nationalarchives.gov.uk/20120807082352/http://assets.dft.gov.uk/publications/business-plan-qds/dft-qds-201107-measurement-annex.pdf"&gt;&lt;abbr title="Department for Transport"&gt;DfT&lt;/abbr&gt; quarterly data summary measurement annex, July 2011 (PDF, 83 KB)&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/13638</id>
-    <published>2012-07-13T00:00:00+01:00</published>
-    <updated>2012-07-13T00:00:00+01:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/percentage-of-dft-s-appraised-project-spending-that-is-assessed-as-good-or-very-good-value-for-money"/>
-    <title>Percentage of DfT’s appraised project spending that is assessed as good or very good value for money</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="input-indicator"&gt;Input indicator&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;publishing schedule: biannually (From July 2012, an annual measure will also be published)&lt;/li&gt;
-  &lt;li&gt;information broken down by scheme&lt;/li&gt;
-&lt;/ul&gt;&lt;h2 id="background-information"&gt;Background information&lt;/h2&gt;
-&lt;p&gt;The indicator reports the value for money (&lt;abbr title="Value for Money"&gt;VfM&lt;/abbr&gt;) ratings presented to ministers when spending decisions are made, using the department’s &lt;abbr title="Value for Money"&gt;VfM&lt;/abbr&gt; process. It also uses the estimate of cost to the department of those decisions.&lt;/p&gt;
-
-&lt;p&gt;The department’s &lt;abbr title="Value for Money"&gt;VfM&lt;/abbr&gt; process was introduced in 2004 to consistently present to ministers a summary of the benefits and costs of transport proposals. The &lt;abbr title="Value for Money"&gt;VfM&lt;/abbr&gt; assessment measures the expected benefits to each pound of spending covered by the appraisal process. The &lt;abbr title="Value for Money"&gt;VfM&lt;/abbr&gt; process covers all major schemes that are subject to ministerial approval.&lt;/p&gt;
-
-&lt;p&gt;The indicator covers approved spending of schemes that ministers have given final approval to within the period indicated.&lt;/p&gt;
-
-&lt;p&gt;Data relating to this indicator will be published from May 2011.&lt;/p&gt;
-
-&lt;h2 id="further-information"&gt;Further information&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a rel="external" href="http://www.dft.gov.uk/about/howthedftworks/vfm/"&gt;Guidance on the value for money process&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a rel="external" href="http://www.dft.gov.uk/publications/dft-business-plan"&gt;Business Plan 2011 to 2015&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a rel="external" href="http://www.dft.gov.uk/publications/?agency=dft&amp;amp;tag=business-input-and-impact-indicator"&gt;Input and impact indicators&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/div&gt;</content>
   </entry>
   <entry>

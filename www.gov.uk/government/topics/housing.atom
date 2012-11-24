@@ -9,13 +9,13 @@
   </author>
   <updated>2012-11-22T12:30:00+00:00</updated>
   <entry>
-    <id>tag:www.gov.uk,2005:NewsArticle/16798</id>
+    <id>tag:www.gov.uk,2005:NewsArticle/16804</id>
     <published>2012-11-22T12:30:00+00:00</published>
     <updated>2012-11-22T12:41:54+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/eric-pickles-visits-hidden-homes-in-wandsworth"/>
     <title>Eric Pickles visits ‘Hidden Homes’ in Wandsworth</title>
     <summary>Communities Secretary Eric Pickles marks the 10th anniversary of the Hidden Homes initiative.</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Eric Pickles visited the Rollo housing estate in the London Borough of Wandsworth today (22 July 2012) to see how £3.6 million of government funding is helping the council provide more affordable homes for local families.&lt;/p&gt;
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Eric Pickles visited the Rollo housing estate in the London Borough of Wandsworth today (22 November 2012) to see how £3.6 million of government funding is helping the council provide more affordable homes for local families.&lt;/p&gt;
 
 &lt;p&gt;Mr Pickles unveiled the final 38 affordable new homes of the Hidden Homes initiative that celebrates its 10th anniversary this year. &lt;/p&gt;
 
@@ -102,6 +102,27 @@
 &lt;/ul&gt;&lt;p&gt;These statistics relate only to sales by local authorities under the right to buy scheme, excluding sales by registered providers under preserved right to buy.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
+    <id>tag:www.gov.uk,2005:Publication/16254</id>
+    <published>2012-11-15T00:00:00+00:00</published>
+    <updated>2012-11-15T09:29:29+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/social-housing-sales-in-england-2011-to-2012"/>
+    <title>Social housing sales in England: 2011 to 2012</title>
+    <summary>Total social housing sales in England, including Right to Buy, Right to Acquire and Social Homebuy.</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This statistical release presents official statistics on the number of sales of existing social housing stock in England for 2011 to 2012.&lt;/p&gt;
+
+&lt;p&gt;Social housing sales include sales under right to buy, preserved right to buy, right to acquire, social homebuy, other outright or shared equity sales to tenants, and sales of existing stock to the private sector. The figures exclude sales through low cost home ownership schemes where these do not relate to existing social stock, i.e. sales of newly built homes for shared ownership or acquisitions of private sector homes for affordable home ownership. Intra-tenure transfers between social housing providers are also excluded.&lt;/p&gt;
+
+&lt;p&gt;Key points from the release are:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;There were an estimated 9,670 total social housing sales in England in 2011-12. This is an increase of 15% on 2010-11 but continues the low level of sales seen since 2008-09. The increase was entirely due to an increase in private registered provider sales; local authority sales were virtually unchanged.&lt;/li&gt;
+  &lt;li&gt;There were an estimated 3,720 right to buy sales in England in 2011-12 (38% of all sales), a 1% increase from 2010-11. Most (70%) right to buy sales were of local authority properties. &lt;/li&gt;
+  &lt;li&gt;The average market value of a local authority property purchased through right to buy in 2011-12 was £100,040. Average capital receipts were £73,350 and the average discount was £26,690 per property. &lt;/li&gt;
+  &lt;li&gt;Registered provider sales in 2011-12 included 140 properties sold through the right to acquire scheme (compared to 200 in 2010-11) and 40 through social homebuy (compared to 110 in 2010-11).&lt;/li&gt;
+  &lt;li&gt;A further 3,320 sales (34% of total sales) were disposals of registered provider properties to the private sector. Other shared equity and outright sales of existing stock accounted for the remaining sales.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;These statistics relate to right to buy sales by local authorities and registered providers. The statistics include sales under the right to buy and preserved right to buy schemes.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
     <id>tag:www.gov.uk,2005:Publication/15967</id>
     <published>2012-11-15T00:00:00+00:00</published>
     <updated>2012-11-15T09:30:15+00:00</updated>
@@ -124,27 +145,6 @@
   &lt;li&gt;Seasonally adjusted starts are now 52% above the trough in the March quarter 2009 but 45% below the December quarter 2005 peak. Completions are 44% below their March quarter 2007 peak.&lt;/li&gt;
   &lt;li&gt;Annual housing starts totalled 98,020 in the 12 months to September 2012, down by 9% compared with the year before. Annual housing completions in England reached 117,190 in the 12 months to September 2012, an increase of 6% compared with the previous 12 months.&lt;/li&gt;
 &lt;/ul&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:Publication/16254</id>
-    <published>2012-11-15T00:00:00+00:00</published>
-    <updated>2012-11-15T09:29:29+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/social-housing-sales-in-england-2011-to-2012"/>
-    <title>Social housing sales in England: 2011 to 2012</title>
-    <summary>Total social housing sales in England, including Right to Buy, Right to Acquire and Social Homebuy.</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This statistical release presents official statistics on the number of sales of existing social housing stock in England for 2011 to 2012.&lt;/p&gt;
-
-&lt;p&gt;Social housing sales include sales under right to buy, preserved right to buy, right to acquire, social homebuy, other outright or shared equity sales to tenants, and sales of existing stock to the private sector. The figures exclude sales through low cost home ownership schemes where these do not relate to existing social stock, i.e. sales of newly built homes for shared ownership or acquisitions of private sector homes for affordable home ownership. Intra-tenure transfers between social housing providers are also excluded.&lt;/p&gt;
-
-&lt;p&gt;Key points from the release are:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;There were an estimated 9,670 total social housing sales in England in 2011-12. This is an increase of 15% on 2010-11 but continues the low level of sales seen since 2008-09. The increase was entirely due to an increase in private registered provider sales; local authority sales were virtually unchanged.&lt;/li&gt;
-  &lt;li&gt;There were an estimated 3,720 right to buy sales in England in 2011-12 (38% of all sales), a 1% increase from 2010-11. Most (70%) right to buy sales were of local authority properties. &lt;/li&gt;
-  &lt;li&gt;The average market value of a local authority property purchased through right to buy in 2011-12 was £100,040. Average capital receipts were £73,350 and the average discount was £26,690 per property. &lt;/li&gt;
-  &lt;li&gt;Registered provider sales in 2011-12 included 140 properties sold through the right to acquire scheme (compared to 200 in 2010-11) and 40 through social homebuy (compared to 110 in 2010-11).&lt;/li&gt;
-  &lt;li&gt;A further 3,320 sales (34% of total sales) were disposals of registered provider properties to the private sector. Other shared equity and outright sales of existing stock accounted for the remaining sales.&lt;/li&gt;
-&lt;/ul&gt;&lt;p&gt;These statistics relate to right to buy sales by local authorities and registered providers. The statistics include sales under the right to buy and preserved right to buy schemes.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:Publication/16273</id>

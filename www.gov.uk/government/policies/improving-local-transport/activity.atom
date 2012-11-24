@@ -8,7 +8,33 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-11-15T09:53:00+00:00</updated>
+  <updated>2012-11-23T00:00:00+00:00</updated>
+  <entry>
+    <id>tag:www.gov.uk,2005:Publication/16840</id>
+    <published>2012-11-23T00:00:00+00:00</published>
+    <updated>2012-11-02T10:48:40+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/list-of-certifications-granted-for-approved-devices"/>
+    <title>List of certifications granted for 'approved devices'</title>
+    <category>Publication</category>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="summary"&gt;Summary&lt;/h2&gt;
+
+&lt;p&gt;List of certifications granted by the Secretary of State for Transport for ‘approved devices’, CCTV and associated evidence-recording equipment, under the Transport Act 2000 and the Traffic Management Act 2004.&lt;/p&gt;
+
+&lt;h2 id="see-also"&gt;See also&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel="external" href="http://www.dft.gov.uk/publications/tma-part-6-certification-of-approved-devices"&gt;Civil traffic enforcement: certification of approved devices&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:Publication/16871</id>
+    <published>2012-11-23T00:00:00+00:00</published>
+    <updated>2012-11-23T14:44:01+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/guidance-for-local-transport-bodies"/>
+    <title>Guidance for Local Transport Bodies</title>
+    <category>Publication</category>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Department for Transport has announced its firm intention to devolve funding for local major transport schemes to Local Transport Bodies from 2015. The guidance sets out the necessary arrangement Local Transport Bodies will need to have in place to ensure value for money and sound decision making.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
   <entry>
     <id>tag:www.gov.uk,2005:NewsArticle/16121</id>
     <published>2012-11-15T09:53:00+00:00</published>
@@ -252,90 +278,5 @@ Public Enquiries: 0300 330 3000&lt;/p&gt;
   &lt;li&gt;Analyst contact: Matthew Tranter, &lt;a href="mailto:bus.statistics@dft.gsi.gov.uk"&gt;Bus statistics&lt;/a&gt;
 &lt;/li&gt;
 &lt;/ul&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:Publication/13254</id>
-    <published>2012-10-04T01:00:00+01:00</published>
-    <updated>2012-11-08T14:37:42+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/operation-of-traffic-signals-during-low-demand-periods"/>
-    <title>Operation of traffic signals during low demand periods</title>
-    <category>Publication</category>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Traffic signal design is a science that has been developed through decades to a point where the maximum efficiency can be squeezed out of the most congested of junctions. Conflicting needs of all road users are measured, evaluated and optimised such that the ever-increasing and varying demands continue to be managed with ingenuity and perfection.&lt;/p&gt;
-
-&lt;p&gt;But roads aren’t always busy. In many cases the very justification for signal control is based on a problem that may only exist for a couple of hours each weekday. Even the most congested networks have their quiet moment, yet, in a deserted city at three in the morning, signals still cycle for non-existent traffic. Any driver who ventures into this scenario may sit in frustration at a red light while the ‘intelligent’ control system optimises the signals for phantom conflicting demands.&lt;/p&gt;
-
-&lt;p&gt;In other countries various techniques are applied to ‘demote’ signalised junctions to priority mode of operation, for example the flashing amber on main road/flashing red on minor road employed in some States of the USA, or signals that simply turn off overnight as in parts of Europe.&lt;/p&gt;
-
-&lt;p&gt;The Department for Transport commissioned a desktop study to investigate options for signal controlled installations that could&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;reduce unnecessary delays to traffic, hence minimising overall vehicle delays and emissions;&lt;/li&gt;
-  &lt;li&gt;reduce the energy consumption of signal installations; and&lt;/li&gt;
-  &lt;li&gt;maintain or enhance levels of safety, especially for vulnerable road users.&lt;/li&gt;
-&lt;/ul&gt;&lt;p&gt;The study reviewed current practice in the UK and overseas, developed an assessment technique to identify the types of installation that may be suitable for an alternative low-demand strategy during periods of low demand and in liaison with 12 Local Authorities devised 25 potential control strategy options to meet the objectives. These options were then modelled on a small hypothetical VISSIM network, enabling assessment on factors relating to economy, environment, safety, legislation and design, and classified according to their potential for implementation - short, medium or long term - depending upon factors such as required changes to legislation, technology or driver comprehension.&lt;/p&gt;
-
-&lt;p&gt;The findings were notable - the options offering most benefit during low demand periods were also the most difficult to implement. However there are opportunities for embracing developing technologies and making minor changes to installation parameters that could reduce installation and maintenance costs and improve the efficiency of low demand methods of operation that retain signal control and its intrinsic safety compared with priority operation. The outcome of the research commissioned by the Department for Transport on options for signalling in periods of low demand are presented in this report.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:NewsArticle/14925</id>
-    <published>2012-09-28T01:00:00+01:00</published>
-    <updated>2012-11-08T16:16:50+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/greater-rights-for-motorists--2"/>
-    <title>Greater rights for motorists</title>
-    <category>News Article</category>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;From Monday (1 October) motorists will be given greater rights as new laws banning wheel clamping and towing take effect.&lt;/p&gt;
-
-&lt;p&gt;It will be an offence to clamp, tow, block-in or immobilise a vehicle without lawful authority on private land under the Protection of Freedoms Act 2012. These changes will end abuses by rogue clamping firms who prey on motorists by charging excessive release fees. If clampers break the law, they could be liable to an unlimited fine in the Crown Court or up to £5,000 in a Magistrates Court.&lt;/p&gt;
-
-&lt;p&gt;Lord Taylor of Holbeach, the Home Office Minister with responsibility for changes to vehicle clamping law, said:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;This common sense ban will give motorists the protection they deserve against rogue wheel-clamping and towing companies.&lt;/p&gt;
-
-  &lt;p&gt;It will save motorists £55 million each year in clamping charges and finally penalise the real criminals - the corrupt firms themselves.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Other changes to vehicle laws include extending police powers to remove vehicles parked on private land. This will ensure landowners have a means to keep their land clear from obstructive or dangerously parked cars.&lt;/p&gt;
-
-&lt;p&gt;The Department for Transport is also strengthening laws around ticketing, so unpaid charges can be claimed from the keeper of the vehicle, as well as the driver. The government has also agreed that an Independent Appeals Service funded by the British Parking Association will be established from 1 October. This free service will allow motorists to appeal a parking charge issued on private land by a company that is a member of the BPA’s Approved Operator Scheme.&lt;/p&gt;
-
-&lt;p&gt;Local Transport Minister Norman Baker said:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;These new parking arrangements deliver a fairer legal framework for motorists and landowners, while getting rid of the indiscriminate clamping and towing by private companies for good.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;These changes are being introduced on Monday as part of the Protection of Freedoms Act 2012, which received Royal Assent in May this year. They were all raised by members of the public through a cross-government survey, ‘Your Freedom’. People had the chance to suggest ideas on restoring liberties that have been lost, repealing unnecessary laws and stripping away excessive regulation. The Act aims to restore traditional British freedoms to the heart of the Whitehall agenda.&lt;/p&gt;
-
-&lt;h2 id="notes-to-editors"&gt;Notes to editors&lt;/h2&gt;
-
-&lt;p&gt;Home Office: Wheel clamping ban&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Evidence collated by the government showed that around 500,000 clampings were taking place annually on private land with an average release fee of £112 and almost all clamp fees were paid.&lt;/li&gt;
-  &lt;li&gt;The ban will not change existing lawful authority, such as traffic enforcement by local authorities and police on highways, but will effectively ban clamping on private land.&lt;/li&gt;
-  &lt;li&gt;The ban also applies to towing away and blocking in. Anyone who clamps a vehicle or tows it away on private land without specific lawful authority to do so may face criminal proceedings.&lt;/li&gt;
-  &lt;li&gt;Lawful authority to clamp or tow vehicles will remain for various organisations and public bodies. For example, the Driver and Vehicle Licensing Authority (DVLA) will retain the legal authority to clamp or tow away vehicles as part of its work in combating evasion of Vehicle Excise Duty. The Vehicle and Operator Services Authority has similar powers to prevent the use of un-roadworthy vehicles on the road. Others include airports, ports, as well as some railway stations and common land.&lt;/li&gt;
-&lt;/ol&gt;&lt;p&gt;Extension of police powers to move vehicles parked dangerously on private land&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;The extension of police powers will not constitute a duty on the police to remove vehicles. It is expected that police forces will respond in light of the circumstances of the incident and available resources.&lt;/li&gt;
-  &lt;li&gt;The government set up the Your Freedom website to allow members of the public to suggest unnecessary laws which should be repealed. There was a commitment to take views expressed into account when considering the scope of the Protection of Freedoms Bill. The removal of restrictions on time for civil partnership and marriage ceremonies was considered an appropriate repeal to include within the Bill, which received Royal Assent in May 2012.&lt;/li&gt;
-  &lt;li&gt;For more information, contact the Home Office press office on 020 7035 3535.&lt;/li&gt;
-&lt;/ol&gt;&lt;p&gt;Department for Transport measures&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;The Government is strengthening the enforcement arrangements for ticketing in private car parks, by allowing landowners to reclaim unpaid parking charges from the keeper of a vehicle if the driver is not known and the keeper refuses to say who the driver is.&lt;/li&gt;
-  &lt;li&gt;
-&lt;a rel="external" href="http://www.dft.gov.uk/publications/guidance-unpaid-parking-charges/"&gt;Guidance on the new provisions is available&lt;/a&gt; .&lt;/li&gt;
-  &lt;li&gt;As part of this change from October 1st 2012, car parking operators who are members of the British Parking Association’s Approved Operator Scheme (AOS), will be required to offer motorists a new independent appeals service called ‘Parking on Private Land Appeals’ (&lt;abbr title="Parking on Private Land Appeals"&gt;POPLA&lt;/abbr&gt;).&lt;/li&gt;
-  &lt;li&gt;
-&lt;abbr title="Parking on Private Land Appeals"&gt;POPLA&lt;/abbr&gt; will be provided as a free service to motorists and will be operated by London Councils who also run the appeals service for Transport for London and London Borough Council issued tickets. Its decisions will be binding on parking operators, but not on motorists.&lt;/li&gt;
-  &lt;li&gt;The Independent Appeals Service will be able to consider whether car park operators are providing motorists with adequate signs, which clearly lay out the terms and conditions of parking. They will also consider whether parking charges are reasonable under relevant contract and consumer protection legislation.&lt;/li&gt;
-  &lt;li&gt;Car parks managed by operators who are not members of an Accredited Trade Association and are therefore not able to request registered keeper details from DVLA, will not be covered by &lt;abbr title="Parking on Private Land Appeals"&gt;POPLA&lt;/abbr&gt;.&lt;/li&gt;
-  &lt;li&gt;For more information on these areas, call the Department for Transport on 020 7944 3066.&lt;/li&gt;
-&lt;/ol&gt;&lt;p&gt;Press enquiries: 020 7944 3108&lt;br&gt;
-Out of hours: 020 7944 4292&lt;br&gt;
-Public enquiries: 0300 330 3000&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
 </feed>

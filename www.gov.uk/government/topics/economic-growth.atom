@@ -7,7 +7,33 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-11-21T09:33:06+00:00</updated>
+  <updated>2012-11-23T00:00:00+00:00</updated>
+  <entry>
+    <id>tag:www.gov.uk,2005:Publication/16871</id>
+    <published>2012-11-23T00:00:00+00:00</published>
+    <updated>2012-11-23T14:44:01+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/guidance-for-local-transport-bodies"/>
+    <title>Guidance for Local Transport Bodies</title>
+    <summary/>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Department for Transport has announced its firm intention to devolve funding for local major transport schemes to Local Transport Bodies from 2015. The guidance sets out the necessary arrangement Local Transport Bodies will need to have in place to ensure value for money and sound decision making.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:Publication/16840</id>
+    <published>2012-11-23T00:00:00+00:00</published>
+    <updated>2012-11-02T10:48:40+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/list-of-certifications-granted-for-approved-devices"/>
+    <title>List of certifications granted for 'approved devices'</title>
+    <summary>CCTV and evidence-recording equipment must be certified under the Transport Act 2000 and the Traffic Management Act 2004.</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="summary"&gt;Summary&lt;/h2&gt;
+
+&lt;p&gt;List of certifications granted by the Secretary of State for Transport for ‘approved devices’, CCTV and associated evidence-recording equipment, under the Transport Act 2000 and the Traffic Management Act 2004.&lt;/p&gt;
+
+&lt;h2 id="see-also"&gt;See also&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel="external" href="http://www.dft.gov.uk/publications/tma-part-6-certification-of-approved-devices"&gt;Civil traffic enforcement: certification of approved devices&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
+  </entry>
   <entry>
     <id>tag:www.gov.uk,2005:NewsArticle/16621</id>
     <published>2012-11-21T09:33:06+00:00</published>
@@ -50,19 +76,28 @@ Out of Hours: 020 7944 4292&lt;br&gt;
 Public Enquiries: 0300 330 3000 &lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:Speech/16736</id>
+    <id>tag:www.gov.uk,2005:Publication/16627</id>
     <published>2012-11-21T00:00:00+00:00</published>
-    <updated>2012-11-22T12:53:19+00:00</updated>
+    <updated>2012-11-21T09:30:57+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/contact-telephone-numbers-for-crosscountry-rail"/>
+    <title>Contact telephone numbers for Crosscountry rail</title>
+    <summary/>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Freedom of Information request regarding geographical contact telephone numbers for Crosscountry&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:Speech/16872</id>
+    <published>2012-11-21T00:00:00+00:00</published>
+    <updated>2012-11-23T14:48:35+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/speeches/uk-major-ports-group-annual-parliamentary-reception"/>
     <title>UK Major Ports Group annual parliamentary reception</title>
-    <summary>Our ports have a front and centre role in the life of our nation.</summary>
+    <summary>Ports are an essential part of the economic growth of the country.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="opening-remarks"&gt;Opening remarks&lt;/h2&gt;
 
 &lt;p&gt;Thank you for that introduction Charles (Charles Hammond – Chairman UK Major Ports Group/UKMPG).&lt;/p&gt;
 
 &lt;p&gt;And thank you also for asking me along - I’m delighted to have this chance to meet with you this evening.&lt;/p&gt;
 
-&lt;p&gt;Facts are stubborn things&lt;/p&gt;
+&lt;h2 id="facts-are-stubborn-things"&gt;Facts are stubborn things&lt;/h2&gt;
 
 &lt;p&gt;John Adams, second President of the United States, said, “Facts are stubborn things”.&lt;/p&gt;
 
@@ -71,7 +106,7 @@ Public Enquiries: 0300 330 3000 &lt;/p&gt;&lt;/div&gt;</content>
 &lt;ul&gt;
 &lt;li&gt;every year more than 500 million tonnes of freight and well over 20 million international passengers pass through our ports&lt;/li&gt;
   &lt;li&gt;they account for over 95% of our imports and exports by volume&lt;/li&gt;
-  &lt;li&gt;and they employ around a hundred and thirty thousand people and contribute close to £7 billion to &lt;abbr title="Gross Domestic Product"&gt;GDP&lt;/abbr&gt; (Oxford Economics Report 2011)&lt;/li&gt;
+  &lt;li&gt;and they employ around 130,000 people and contribute close to £7 billion to &lt;abbr title="Gross Domestic Product"&gt;GDP&lt;/abbr&gt; (Oxford Economics Report 2011)&lt;/li&gt;
 &lt;/ul&gt;&lt;h2 id="our-ports-matter-more-than-ever"&gt;Our ports matter more than ever&lt;/h2&gt;
 
 &lt;p&gt;Put simply, our ports matter.&lt;/p&gt;
@@ -124,17 +159,17 @@ Public Enquiries: 0300 330 3000 &lt;/p&gt;&lt;/div&gt;</content>
 
 &lt;p&gt;But, as always, your members have been equal to them&lt;/p&gt;
 
-&lt;p&gt;For me, the fact that UK ports increased their total traffic by 1.5 percent last year is a huge achievement when set against the backdrop of continuing worldwide economic difficulties.&lt;/p&gt;
+&lt;p&gt;For me, the fact that UK ports increased their total traffic by 1.5 per cent last year is a huge achievement when set against the backdrop of continuing worldwide economic difficulties.&lt;/p&gt;
 
 &lt;p&gt;I believe that suggests your members are well placed to benefit as the economy picks up.&lt;/p&gt;
 
 &lt;p&gt;And, with interest rates at their lowest for generations, now is a good time for stable, profitable businesses to invest for the future.&lt;/p&gt;
 
-&lt;p&gt;But this government knows that we must play our part too.  And there are two main strands to this:&lt;/p&gt;
+&lt;p&gt;But this government knows that we must play our part too.  And there are 2 main strands to this:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;creating an environment in which ports and maritime-related  business of all kinds can succeed&lt;/li&gt;
-  &lt;li&gt;making sure that the infrastructure for which Government has direct responsibility complements and supports the work you do&lt;/li&gt;
+&lt;li&gt;creating an environment in which ports and maritime-related business of all kinds can succeed&lt;/li&gt;
+  &lt;li&gt;making sure that the infrastructure for which government has direct responsibility complements and supports the work you do&lt;/li&gt;
 &lt;/ul&gt;&lt;p&gt;That’s why we’re supporting major container port developments like those already under construction at Felixstowe, London Gateway and Southampton.&lt;/p&gt;
 
 &lt;p&gt;This is crucial if these ports are to welcome the largest container vessels which are coming into service.  &lt;/p&gt;
@@ -143,13 +178,13 @@ Public Enquiries: 0300 330 3000 &lt;/p&gt;&lt;/div&gt;</content>
 
 &lt;p&gt;But these investments will help make sure that as many deep-sea boxes as possible are delivered directly to this country.  And that the country is ready for recovery and growth in trade in manufactured goods. &lt;/p&gt;
 
-&lt;p&gt;To which UK port will they come?  That’s up to you. I’ll be as interested as anyone to see how the competition in this sector plays out. &lt;/p&gt;
+&lt;p&gt;To which UK port will they come? That’s up to you. I’ll be as interested as anyone to see how the competition in this sector plays out. &lt;/p&gt;
 
 &lt;p&gt;And others will follow. Liverpool, Bristol, Dover and Teesport also have the necessary consents to expand their businesses.&lt;/p&gt;
 
 &lt;p&gt;But beyond the container sector, it’s imperative that every port is able to pursue a vision for the future - whether that’s responding to the opportunities brought by offshore energy, or it’s tapping into the potential of the tourism and leisure market.&lt;/p&gt;
 
-&lt;p&gt;So, regardless of the business model or maritime market your members choose, I want to make sure the Government creates the right environment for them to grow and prosper.&lt;/p&gt;
+&lt;p&gt;So, regardless of the business model or maritime market your members choose, I want to make sure the government creates the right environment for them to grow and prosper.&lt;/p&gt;
 
 &lt;h2 id="better-infrastructure-less-regulation"&gt;Better infrastructure, less regulation&lt;/h2&gt;
 
@@ -157,7 +192,7 @@ Public Enquiries: 0300 330 3000 &lt;/p&gt;&lt;/div&gt;</content>
 
 &lt;p&gt;This includes far-reaching improvements to the rail freight network…as part of a £9.4 billion rail investment package announced this summer.&lt;/p&gt;
 
-&lt;p&gt;Among the new initiatives is a high capacity ‘electric rail spine’ running from the South Coast ports to the West Midlands and Yorkshire. &lt;/p&gt;
+&lt;p&gt;Among the new initiatives is a high capacity ‘electric rail spine’ running from the south coast ports to the west Midlands and Yorkshire. &lt;/p&gt;
 
 &lt;p&gt;We are also looking at ways to relieve the congestion on road routes to and from ports&lt;/p&gt;
 
@@ -200,15 +235,6 @@ Public Enquiries: 0300 330 3000 &lt;/p&gt;&lt;/div&gt;</content>
 &lt;p&gt;Thank you.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:Publication/16627</id>
-    <published>2012-11-21T00:00:00+00:00</published>
-    <updated>2012-11-21T09:30:57+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/contact-telephone-numbers-for-crosscountry-rail"/>
-    <title>Contact telephone numbers for Crosscountry rail</title>
-    <summary/>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Freedom of Information request regarding geographical contact telephone numbers for Crosscountry&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
     <id>tag:www.gov.uk,2005:Publication/16723</id>
     <published>2012-11-21T00:00:00+00:00</published>
     <updated>2012-11-22T08:31:08+00:00</updated>
@@ -218,12 +244,12 @@ Public Enquiries: 0300 330 3000 &lt;/p&gt;&lt;/div&gt;</content>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Decision letter to authorise a modification to the route of an extension of the Metrolink system near Oldham Town Centre.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:NewsArticle/16735</id>
+    <id>tag:www.gov.uk,2005:NewsArticle/16873</id>
     <published>2012-11-20T14:38:00+00:00</published>
-    <updated>2012-11-20T14:38:23+00:00</updated>
+    <updated>2012-11-23T14:50:09+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/crucial-road-improvements-to-be-delivered-twice-as-fast"/>
     <title>Crucial road improvements to be delivered twice as fast</title>
-    <summary>Accelerated improvements to various motorways will see benefits for drivers and hauliers.</summary>
+    <summary>Accelerated improvements to various motorways will see more benefits for drivers and hauliers.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Motorists and hauliers will benefit from increased capacity on England’s motorways by spring 2015 thanks to the acceleration of three upgrades, Transport Secretary Patrick McLoughlin announced today. &lt;/p&gt;
 
 &lt;p&gt;These will be delivered in this spending review period rather than the next, as the government introduces major improvements to the way road schemes are planned and built.&lt;/p&gt;
@@ -440,41 +466,5 @@ Public Enquiries: 0300 330 3000&lt;/p&gt;&lt;/div&gt;</content>
 &lt;p&gt;Well, down the years I’ve discovered another rule - never keep an audience from their dinner.&lt;/p&gt;
 
 &lt;p&gt;So, ahead of our dinner and discussion, it only remains for me to say thank you for listening and here’s to a night of good food and great conversation.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:NewsArticle/16508</id>
-    <published>2012-11-19T00:00:00+00:00</published>
-    <updated>2012-11-20T16:16:21+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/eric-pickles-sees-west-midlands-newest-business-growth-projects"/>
-    <title>Eric Pickles sees West Midlands' newest business growth projects</title>
-    <summary>Communities Secretary Eric Pickles saw first hand today how local growth is flourishing in Aston and Wolverhampton.</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Local growth is flourishing in Aston and Wolverhampton as a result of locally directed government funding to create high-tech manufacturing jobs.&lt;/p&gt;
-
-&lt;p&gt;Mr Pickles began his tour at the Sertec Group Holdings in Aston where he signed a contract for £2 million of Growing Places funding from the Greater Birmingham and Solihull local enterprise partnership. This will allow them to purchase new ground at the Aston Regional Investment site and improve its infrastructure connections.&lt;/p&gt;
-
-&lt;p&gt;Sertec is looking to relocate to a new advanced manufacturing hub in Aston, 1 of 6 economic zones unveiled by Birmingham City Council. This new hub is phase one of Aston’s regional investment sites capable of delivering 3,000 jobs, 300,000 square feet of office or industrial space and bringing in over £30 million of private sector money.&lt;/p&gt;
-
-&lt;p&gt;Mr Pickles inspected a subsidiary plant of Sertec also set to benefit. Presslite is a local family-run business that manufactures automotive parts for major car companies and employs 150 people.&lt;/p&gt;
-
-&lt;p&gt;The Communities Secretary then travelled to the i54 enterprise zone near Wolverhampton where he met senior representatives from 3 companies. Moog, a high-tech aerospace business; Eurofins, a food testing laboratory; and Jaguar Land-Rover who will start building their new engine there creating at least 750 new jobs following their £355 million investment backed up by £10 million from government. &lt;/p&gt;
-
-&lt;p&gt;All 3 firms were attracted by the low business rates, streamlined planning permissions within the enterprise zone as well as a £40 million joint investment from Wolverhampton City Council and Staffordshire County Council in a new junction off the M54 that will service the site.&lt;/p&gt;
-
-&lt;p&gt;Mr Pickles said:&lt;/p&gt;
-
-&lt;p&gt;“Local enterprise partnerships are making decisions everyday to unlock much-needed local growth and give private sector companies every reason to invest and locate to their areas.&lt;/p&gt;
-
-&lt;p&gt;“Through our enterprise zones - like the i54 in Wolverhampton - and our Growing Places Fund - put to such good use in Aston - civic and businesses leaders in the West Midlands are helping create new jobs for their residents by bringing new firms to their local economy.”&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:Publication/16370</id>
-    <published>2012-11-19T00:00:00+00:00</published>
-    <updated>2012-11-19T11:01:37+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/model-ship-security-plan-templates"/>
-    <title>Model ship security plan templates</title>
-    <summary>Model plans to help company and ship security officers compile a ship security plan.</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;These model ship plans will help company and ship security officers to compile a ship security plan (SSP) under the International Ship and Port Facility Security (ISPS) Code, for agreement and verification by the Department for Transport. &lt;/p&gt;
-
-&lt;p&gt;The documents are cruise ship and ro-ro (roll-on/roll-off) passenger ferry templates. A &lt;a rel="external" href="http://www.dft.gov.uk/mca/mcga07-home/shipsandcargoes/mcga-shipsregsandguidance/mcga_dops_maritimesecurity_mainpage/dops_ms-guidance/mcga_dops_msb_ssp/dops_msb__model_ship_security_plan.htm"&gt;template for use with cargo ships&lt;/a&gt; is available on the &lt;a rel="external" href="http://www.dft.gov.uk/mca/"&gt;Maritime and Coastguard website&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
 </feed>
