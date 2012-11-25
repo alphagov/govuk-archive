@@ -294,11 +294,26 @@
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;These datasets and organogram shows posts and salary information for staff at DCLG as of 30 June 2010. They’re shared here as part of the effort to make government operations and spending more transparent to the public.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/14328</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/14288</id>
     <published>2012-11-12T00:00:00+00:00</published>
     <updated>2012-11-12T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/queen-elizabeth-ii-conference-centre-procurement-expenditure-2009-to-2010"/>
-    <title>Queen Elizabeth II Conference Centre procurement expenditure: 2009 to 2010</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;DCLG spending data on procurement for the Queen Elzabeth II Conference Centre for 2009 to 2010.&lt;/p&gt;&lt;/div&gt;</content>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/dclg-spending-data-september-2012"/>
+    <title>DCLG spending data: September 2012</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;HM Treasury requires that all central government departments publish details of their spending for transactions over £25,000, and publish monthly data by the last day of each month. This department has lowered its threshold and publishes its transactions over £250.&lt;/p&gt;
+
+&lt;p&gt;Available below are the spending report and the Government Procurement Card spending report for September 2012.&lt;/p&gt;
+
+&lt;p&gt;Points to note on this report:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Over £250 transparency spending data is taken from SAP’s general ledger payment transactions.&lt;/li&gt;
+  &lt;li&gt;As required by HM Treasury, the data relates to accounts payable payments and credit note transactions for grants and procurement expenditure, recorded at the time the transaction was processed on SAP. The data excludes any subsequent journal transactions and accounts receivable receipts.&lt;/li&gt;
+  &lt;li&gt;Travel, subsistence and other employee transactions - these are currently published on a summarised anonomised basis. They are summarised by ‘Expense area’, then ‘Expense type’, by day.&lt;/li&gt;
+  &lt;li&gt;The terms ‘localism’ and ‘neighbourhoods’ in the spreadsheets refer to groups within DCLG. They cover policy areas such as housing, planning and local government.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;The data is published in CSV and Excel formats in payment date sequence.&lt;/p&gt;
+
+&lt;h2 id="order"&gt;Order&lt;/h2&gt;
+
+&lt;p&gt;This publication is only available online.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
 </feed>
