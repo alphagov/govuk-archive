@@ -8,7 +8,16 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-11-22T00:00:00+00:00</updated>
+  <updated>2012-11-25T00:00:00+00:00</updated>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/16920</id>
+    <published>2012-11-25T00:00:00+00:00</published>
+    <updated>2012-11-25T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/firefighters-pension-scheme-reforms"/>
+    <title>Firefighters’ pension scheme reforms</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This document provides details of the firefighters’ pension scheme from 2015. It relates to the &lt;a href="https://www.gov.uk/government/publications/firefighters-pension-scheme-heads-of-agreement"&gt;heads
+of agreement&lt;/a&gt; on the core parameters for reforms to the firefighters’ pension scheme that was published by the Department for Communities and Local Government on 9 February 2012.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/16737</id>
     <published>2012-11-22T00:00:00+00:00</published>
@@ -44,14 +53,42 @@
 &lt;/ul&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/13403</id>
-    <published>2012-09-20T01:00:00+01:00</published>
-    <updated>2012-09-20T01:00:00+01:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/consultations/protocol-on-government-intervention-action-on-fire-and-rescue-authorities-in-england"/>
-    <title>Protocol on government intervention action on fire and rescue authorities in England</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Consultation on guidance on statements of assurance for fire and rescue authorities in England and Protocol on Government intervention action for fire and rescue authorities in England.&lt;/p&gt;
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/16926</id>
+    <published>2012-09-25T00:00:00+01:00</published>
+    <updated>2012-09-25T00:00:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/fire-and-rescue-authorities-in-england-operational-statistics-bulletin-for-2011-to-2012"/>
+    <title>Fire and rescue authorities in England: operational statistics bulletin for 2011 to 2012</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This publication and accompanying appendix data tables were released on Tuesday 25 September 2012 by the Department for Communities and Local Government. The publication focuses on personnel, health and safety and fire safety for the period 1 April 2011 to 31 March 2012.&lt;/p&gt;
 
-&lt;p&gt;The consultation seeks views on the revision of the protocol on Government intervention action and applies to fire and rescue authorities in England only.&lt;/p&gt;&lt;/div&gt;</content>
+&lt;p&gt;The key points are as follows:&lt;/p&gt;
+
+&lt;h3 id="numbers-of-staff"&gt;Numbers of staff&lt;/h3&gt;
+
+&lt;p&gt;At 31 March 2012, the total number of fire and rescue authority staff (full-time equivalents) was 48,900: 4% fewer than at 31 March 2011. There were 28,200 whole-time firefighter full-time equivalents (down 3% on 2011) and 11,700 retained firefighter units of 24-hour cover (down 4% on 2011).&lt;/p&gt;
+
+&lt;p&gt;There has been a gradual increase in the representation of women and minority ethnic staff in recent years. At 31 March 2012, 4.3% of firefighters were women compared with 1.7% in 2002. Minority ethnic staff accounted for 3.3% of firefighters compared with 1.5% in 2002.&lt;/p&gt;
+
+&lt;h3 id="staff-leaving-fire-and-rescue-authorities"&gt;Staff leaving fire and rescue authorities&lt;/h3&gt;
+
+&lt;p&gt;During 2011 to 2012 there were 4,200 staff who left fire and rescue authorities. The most common reason for leaving was normal retirement (800).&lt;/p&gt;
+
+&lt;h3 id="health-and-safety"&gt;Health and safety&lt;/h3&gt;
+
+&lt;p&gt;There were 3,400 reported injuries to firefighters in 2011 to 2012. This is 45% fewer injuries than in 2001 to 2002.&lt;/p&gt;
+
+&lt;h3 id="community-fire-safety"&gt;Community fire safety&lt;/h3&gt;
+
+&lt;p&gt;770,000 home fire safety checks were carried out by fire and rescue services and their partners in 2011 to 2012, 7% fewer than in 2010 to 2011. There were 118,000 home fire safety checks to households with a disabled person in 2011 to 2012, up from 87,000 in 2010 to 2011.&lt;/p&gt;
+
+&lt;p&gt;The number of home fire safety checks of households with an elderly person (over 65 years) was 272,000 in 2011 to 2012, slightly lower than the 278,000 undertaken in 2010 to 2011.&lt;/p&gt;
+
+&lt;h3 id="fire-safety-audits-of-buildings"&gt;Fire safety audits of buildings&lt;/h3&gt;
+
+&lt;p&gt;Fire and rescue services carried out 82,000 audits of buildings in 2011 to 2012, 3% fewer than in 2010 to 2011.&lt;/p&gt;
+
+&lt;p&gt;Fire and rescue authorities are focusing their audit activities so that premises that are considered to represent the highest risks are more likely to be audited. The highest proportions of audits against number of known premises were care homes, hotels and hospitals.&lt;/p&gt;
+
+&lt;p&gt;The overall proportion of premises found to be satisfactory in 2011 to 2012 was 59%, compared to 56% in 2010 to 2011.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/13402</id>
@@ -62,6 +99,16 @@
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Consultation on guidance on statements of assurance for fire and rescue authorities in England.&lt;/p&gt;
 
 &lt;p&gt;The consultation seeks views on ‘light-touch’ guidance on statements of assurance for fire and rescue authorities in England&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/13403</id>
+    <published>2012-09-20T01:00:00+01:00</published>
+    <updated>2012-09-20T01:00:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/consultations/protocol-on-government-intervention-action-on-fire-and-rescue-authorities-in-england"/>
+    <title>Protocol on government intervention action on fire and rescue authorities in England</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Consultation on guidance on statements of assurance for fire and rescue authorities in England and Protocol on Government intervention action for fire and rescue authorities in England.&lt;/p&gt;
+
+&lt;p&gt;The consultation seeks views on the revision of the protocol on Government intervention action and applies to fire and rescue authorities in England only.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/11791</id>
@@ -142,31 +189,6 @@
 &lt;/ul&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/15729</id>
-    <published>2012-07-04T00:00:00+01:00</published>
-    <updated>2012-07-04T00:00:00+01:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/fire-incidents-response-times-england-2011-to-2012"/>
-    <title>Fire incidents response times: England 2011 to 2012</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This publication and accompanying data tables were released on Wednesday 4 July 2012 by the Department for Communities and Local Government. The publication focuses on trends in average response times at England level.&lt;/p&gt;
-
-&lt;p&gt;Statistics in this release are the latest figures available for England and relate to periods up to 31 March 2012.&lt;/p&gt;
-
-&lt;p&gt;The key points are as follows:&lt;/p&gt;
-
-&lt;h3 id="response-times"&gt;Response times&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;In 2011-12, the average response time to fires in dwellings was 7.2 minutes (10 seconds shorter than in 2010-11) and 7.9 minutes to fires in other buildings (5 seconds shorter than in 2010-11).&lt;/li&gt;
-  &lt;li&gt;Average response times in 2011-12 were higher than in 2001-02 by around 22 per cent for dwelling fires and by around 29 per cent for fires in other buildings.&lt;/li&gt;
-&lt;/ul&gt;&lt;h3 id="severity-of-fires"&gt;Severity of fires&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;On average, improvements in fire safety and prevention have greatly outweighed the effect of longer average response times.&lt;/li&gt;
-  &lt;li&gt;In 2011-12, there were 54 per cent fewer fire non-fatal casualties and 34 per cent fewer fire fatalities than in 2001-02.&lt;/li&gt;
-  &lt;li&gt;In 2011-12, the average area of damage in dwelling fires was 20 per cent lower than in 2001-02.&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/11692</id>
     <published>2012-07-04T00:00:00+01:00</published>
     <updated>2012-07-04T00:00:00+01:00</updated>
@@ -189,6 +211,31 @@
   &lt;li&gt;Dwelling fires were 4 per cent lower at 35,000, and fires in other buildings were down by 2 per cent to 20,000. Road vehicle fires fell by 14 per cent to 24,000.&lt;/li&gt;
   &lt;li&gt;Attendances at fire false alarms decreased by 9 per cent to 249,000. More than two thirds of these were due to apparatus, while 4 per cent were malicious false alarms.&lt;/li&gt;
   &lt;li&gt;Fire and Rescue Services attended 133,000 non-fire incidents in 2011-12, down 9 per cent from 2010-11. The most common categories of non-fire incidents were: road traffic collisions (21 per cent), effecting entry (11 per cent), lift releases (11 per cent), flooding (9 per cent) and medical incidents (9 per cent).&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/15729</id>
+    <published>2012-07-04T00:00:00+01:00</published>
+    <updated>2012-07-04T00:00:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/fire-incidents-response-times-england-2011-to-2012"/>
+    <title>Fire incidents response times: England 2011 to 2012</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This publication and accompanying data tables were released on Wednesday 4 July 2012 by the Department for Communities and Local Government. The publication focuses on trends in average response times at England level.&lt;/p&gt;
+
+&lt;p&gt;Statistics in this release are the latest figures available for England and relate to periods up to 31 March 2012.&lt;/p&gt;
+
+&lt;p&gt;The key points are as follows:&lt;/p&gt;
+
+&lt;h3 id="response-times"&gt;Response times&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;In 2011-12, the average response time to fires in dwellings was 7.2 minutes (10 seconds shorter than in 2010-11) and 7.9 minutes to fires in other buildings (5 seconds shorter than in 2010-11).&lt;/li&gt;
+  &lt;li&gt;Average response times in 2011-12 were higher than in 2001-02 by around 22 per cent for dwelling fires and by around 29 per cent for fires in other buildings.&lt;/li&gt;
+&lt;/ul&gt;&lt;h3 id="severity-of-fires"&gt;Severity of fires&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;On average, improvements in fire safety and prevention have greatly outweighed the effect of longer average response times.&lt;/li&gt;
+  &lt;li&gt;In 2011-12, there were 54 per cent fewer fire non-fatal casualties and 34 per cent fewer fire fatalities than in 2001-02.&lt;/li&gt;
+  &lt;li&gt;In 2011-12, the average area of damage in dwelling fires was 20 per cent lower than in 2001-02.&lt;/li&gt;
 &lt;/ul&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
@@ -244,28 +291,6 @@
   &lt;li&gt;Secretary of State determination under article 36 of the Fire Safety Order&lt;/li&gt;
   &lt;li&gt;national operational guidance&lt;/li&gt;
   &lt;li&gt;fire and rescue authority reporting: Olympic Games period&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/11256</id>
-    <published>2012-04-04T00:00:00+01:00</published>
-    <updated>2012-04-04T00:00:00+01:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/operational-guidance-for-the-fire-and-rescue-authorities-operational-risk"/>
-    <title>Operational guidance for the fire and rescue authorities: operational risk</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Fire and Rescue Service Operational Guidance - Operational Risk Information provides robust yet flexible guidance on developing and maintaining a consistent approach to managing, processing and using strategic and tactical operational risk information across the fire and rescue authorities in England.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/11423</id>
-    <published>2012-04-02T00:00:00+01:00</published>
-    <updated>2012-04-02T00:00:00+01:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/fire-and-rescue-bulletin-20-2012"/>
-    <title>Fire and rescue bulletin: 20/2012</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The fire and rescue bulletin for April 2012 covers:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;the next steps in securing the future of the Fire Service College&lt;/li&gt;
-  &lt;li&gt;the announcement of the opening of the bidding round for fire capital funding for 2013-15&lt;/li&gt;
-  &lt;li&gt;the announcement that the fire kills campaign has been given approval to continue in 2012-13&lt;/li&gt;
 &lt;/ul&gt;&lt;/div&gt;</content>
   </entry>
 </feed>

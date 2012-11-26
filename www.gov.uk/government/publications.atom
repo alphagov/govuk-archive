@@ -8,14 +8,23 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-11-23T00:00:00+00:00</updated>
+  <updated>2012-11-25T00:00:00+00:00</updated>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/16871</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/16920</id>
+    <published>2012-11-25T00:00:00+00:00</published>
+    <updated>2012-11-25T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/firefighters-pension-scheme-reforms"/>
+    <title>Firefighters’ pension scheme reforms</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This document provides details of the firefighters’ pension scheme from 2015. It relates to the &lt;a href="https://www.gov.uk/government/publications/firefighters-pension-scheme-heads-of-agreement"&gt;heads
+of agreement&lt;/a&gt; on the core parameters for reforms to the firefighters’ pension scheme that was published by the Department for Communities and Local Government on 9 February 2012.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/16838</id>
     <published>2012-11-23T00:00:00+00:00</published>
     <updated>2012-11-23T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/guidance-for-local-transport-bodies"/>
-    <title>Guidance for Local Transport Bodies</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Department for Transport has announced its firm intention to devolve funding for local major transport schemes to Local Transport Bodies from 2015. The guidance sets out the necessary arrangement Local Transport Bodies will need to have in place to ensure value for money and sound decision making.&lt;/p&gt;&lt;/div&gt;</content>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/queen-elizabeth-ii-conference-centre-expenditure-october-2012"/>
+    <title>Queen Elizabeth II Conference Centre expenditure: October 2012</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Spending over £250 for the Queen Elizabeth II Conference Centre for October 2012.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/16840</id>
@@ -34,20 +43,20 @@
 &lt;/ul&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/16871</id>
+    <published>2012-11-23T00:00:00+00:00</published>
+    <updated>2012-11-23T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/guidance-for-local-transport-bodies"/>
+    <title>Guidance for Local Transport Bodies</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Department for Transport has announced its firm intention to devolve funding for local major transport schemes to Local Transport Bodies from 2015. The guidance sets out the necessary arrangement Local Transport Bodies will need to have in place to ensure value for money and sound decision making.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/16819</id>
     <published>2012-11-23T00:00:00+00:00</published>
     <updated>2012-11-23T00:00:00+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/dclg-exceptions-to-spending-controls-1-april-2012-to-30-september-2012"/>
     <title>DCLG exceptions to spending controls: 1 April 2012 to 30 September 2012</title>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Approved spending for Department for Communities and Local Government for 1 April 2012 to 30 September 2012.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/16838</id>
-    <published>2012-11-23T00:00:00+00:00</published>
-    <updated>2012-11-23T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/queen-elizabeth-ii-conference-centre-expenditure-october-2012"/>
-    <title>Queen Elizabeth II Conference Centre expenditure: October 2012</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Spending over £250 for the Queen Elizabeth II Conference Centre for October 2012.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/16667</id>
@@ -80,6 +89,16 @@
 &lt;/ul&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/16773</id>
+    <published>2012-11-22T00:00:00+00:00</published>
+    <updated>2012-11-22T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/bis-monthly-spend-april-2011"/>
+    <title>BIS monthly spend: April 2011</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The government is committed to setting new standards for transparency so the public can more easily see how and where taxpayers’ money is being spent and hold politicians, government departments and public bodies to account. &lt;/p&gt;
+
+&lt;p&gt;All central government departments must publish details of their spending over £25,000, and publish monthly information by the last day of each month.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/16772</id>
     <published>2012-11-22T00:00:00+00:00</published>
     <updated>2012-11-22T00:00:00+00:00</updated>
@@ -90,42 +109,11 @@
 &lt;p&gt;All central government departments must publish details of their spending over £25,000, and publish monthly information by the last day of each month.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/16770</id>
-    <published>2012-11-22T00:00:00+00:00</published>
-    <updated>2012-11-22T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/bis-monthly-spend-july-2011"/>
-    <title>BIS monthly spend: July 2011</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The government is committed to setting new standards for transparency so the public can more easily see how and where taxpayers’ money is being spent and hold politicians, government departments and public bodies to account. &lt;/p&gt;
-
-&lt;p&gt;All central government departments must publish details of their spending over £25,000, and publish monthly information by the last day of each month.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/16771</id>
     <published>2012-11-22T00:00:00+00:00</published>
     <updated>2012-11-22T00:00:00+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/bis-monthly-spend-june-2011"/>
     <title>BIS monthly spend: June 2011</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The government is committed to setting new standards for transparency so the public can more easily see how and where taxpayers’ money is being spent and hold politicians, government departments and public bodies to account. &lt;/p&gt;
-
-&lt;p&gt;All central government departments must publish details of their spending over £25,000, and publish monthly information by the last day of each month.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/16769</id>
-    <published>2012-11-22T00:00:00+00:00</published>
-    <updated>2012-11-22T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/bis-monthly-spend-august-2011"/>
-    <title>BIS monthly spend: August 2011</title>
-    <content type="html">&lt;div class="govspeak"&gt;
-&lt;p&gt;The government is committed to setting new standards for transparency so the public can more easily see how and where taxpayers’ money is being spent and hold politicians, government departments and public bodies to account. &lt;/p&gt;
-
-&lt;p&gt;All central government departments must publish details of their spending over £25,000, and publish monthly information by the last day of each month.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/16773</id>
-    <published>2012-11-22T00:00:00+00:00</published>
-    <updated>2012-11-22T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/bis-monthly-spend-april-2011"/>
-    <title>BIS monthly spend: April 2011</title>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The government is committed to setting new standards for transparency so the public can more easily see how and where taxpayers’ money is being spent and hold politicians, government departments and public bodies to account. &lt;/p&gt;
 
 &lt;p&gt;All central government departments must publish details of their spending over £25,000, and publish monthly information by the last day of each month.&lt;/p&gt;&lt;/div&gt;</content>
@@ -157,6 +145,27 @@
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/bis-monthly-spend-january-2011"/>
     <title>BIS monthly spend: January 2011</title>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The government is committed to setting new standards for transparency so the public can more easily see how and where taxpayers’ money is being spent and hold politicians, government departments and public bodies to account. &lt;/p&gt;
+
+&lt;p&gt;All central government departments must publish details of their spending over £25,000, and publish monthly information by the last day of each month.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/16770</id>
+    <published>2012-11-22T00:00:00+00:00</published>
+    <updated>2012-11-22T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/bis-monthly-spend-july-2011"/>
+    <title>BIS monthly spend: July 2011</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The government is committed to setting new standards for transparency so the public can more easily see how and where taxpayers’ money is being spent and hold politicians, government departments and public bodies to account. &lt;/p&gt;
+
+&lt;p&gt;All central government departments must publish details of their spending over £25,000, and publish monthly information by the last day of each month.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/16769</id>
+    <published>2012-11-22T00:00:00+00:00</published>
+    <updated>2012-11-22T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/bis-monthly-spend-august-2011"/>
+    <title>BIS monthly spend: August 2011</title>
+    <content type="html">&lt;div class="govspeak"&gt;
+&lt;p&gt;The government is committed to setting new standards for transparency so the public can more easily see how and where taxpayers’ money is being spent and hold politicians, government departments and public bodies to account. &lt;/p&gt;
 
 &lt;p&gt;All central government departments must publish details of their spending over £25,000, and publish monthly information by the last day of each month.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
@@ -206,16 +215,6 @@
     <updated>2012-11-22T00:00:00+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/bis-monthly-spend-january-2012"/>
     <title>BIS monthly spend: January 2012</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The government is committed to setting new standards for transparency so the public can more easily see how and where taxpayers’ money is being spent and hold politicians, government departments and public bodies to account. &lt;/p&gt;
-
-&lt;p&gt;All central government departments must publish details of their spending over £25,000, and publish monthly information by the last day of each month.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/16761</id>
-    <published>2012-11-22T00:00:00+00:00</published>
-    <updated>2012-11-22T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/bis-monthly-spend-february-2012"/>
-    <title>BIS monthly spend: February 2012</title>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The government is committed to setting new standards for transparency so the public can more easily see how and where taxpayers’ money is being spent and hold politicians, government departments and public bodies to account. &lt;/p&gt;
 
 &lt;p&gt;All central government departments must publish details of their spending over £25,000, and publish monthly information by the last day of each month.&lt;/p&gt;&lt;/div&gt;</content>

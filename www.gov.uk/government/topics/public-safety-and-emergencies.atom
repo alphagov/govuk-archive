@@ -7,7 +7,17 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-11-22T00:00:00+00:00</updated>
+  <updated>2012-11-25T00:00:00+00:00</updated>
+  <entry>
+    <id>tag:www.gov.uk,2005:Publication/16920</id>
+    <published>2012-11-25T00:00:00+00:00</published>
+    <updated>2012-11-25T12:36:08+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/firefighters-pension-scheme-reforms"/>
+    <title>Firefighters’ pension scheme reforms</title>
+    <summary>Details of the firefighters' pension scheme from 2015.</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This document provides details of the firefighters’ pension scheme from 2015. It relates to the &lt;a href="https://www.gov.uk/government/publications/firefighters-pension-scheme-heads-of-agreement"&gt;heads
+of agreement&lt;/a&gt; on the core parameters for reforms to the firefighters’ pension scheme that was published by the Department for Communities and Local Government on 9 February 2012.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
   <entry>
     <id>tag:www.gov.uk,2005:Publication/16737</id>
     <published>2012-11-22T00:00:00+00:00</published>
@@ -467,16 +477,5 @@
   &lt;li&gt;new developments for the fire service emergency cover toolkit&lt;/li&gt;
   &lt;li&gt;publication of consultations on guidance for statements of assurance and intervention protocol&lt;/li&gt;
 &lt;/ul&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:Consultation/13403</id>
-    <published>2012-09-20T01:00:00+01:00</published>
-    <updated>2012-09-20T01:00:00+01:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/consultations/protocol-on-government-intervention-action-on-fire-and-rescue-authorities-in-england"/>
-    <title>Protocol on government intervention action on fire and rescue authorities in England</title>
-    <summary>Consultation about revising the protocol on government intervention action for fire and rescue authorities in England.</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Consultation on guidance on statements of assurance for fire and rescue authorities in England and Protocol on Government intervention action for fire and rescue authorities in England.&lt;/p&gt;
-
-&lt;p&gt;The consultation seeks views on the revision of the protocol on Government intervention action and applies to fire and rescue authorities in England only.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
 </feed>

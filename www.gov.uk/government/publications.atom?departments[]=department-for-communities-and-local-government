@@ -8,7 +8,16 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-11-23T00:00:00+00:00</updated>
+  <updated>2012-11-25T00:00:00+00:00</updated>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/16920</id>
+    <published>2012-11-25T00:00:00+00:00</published>
+    <updated>2012-11-25T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/firefighters-pension-scheme-reforms"/>
+    <title>Firefighters’ pension scheme reforms</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This document provides details of the firefighters’ pension scheme from 2015. It relates to the &lt;a href="https://www.gov.uk/government/publications/firefighters-pension-scheme-heads-of-agreement"&gt;heads
+of agreement&lt;/a&gt; on the core parameters for reforms to the firefighters’ pension scheme that was published by the Department for Communities and Local Government on 9 February 2012.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/16819</id>
     <published>2012-11-23T00:00:00+00:00</published>
@@ -123,20 +132,20 @@
 &lt;p&gt;This will confirm if the tenant has the Right to Buy their home.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/16406</id>
-    <published>2012-11-19T00:00:00+00:00</published>
-    <updated>2012-11-19T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/improvement-notice-issued-to-walsall-metropolitan-borough-council"/>
-    <title>Improvement notice issued to Walsall Metropolitan Borough Council</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Improvement notice issued to Walsall Metropolitan Borough Council by the Department for Education.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/16401</id>
     <published>2012-11-19T00:00:00+00:00</published>
     <updated>2012-11-19T00:00:00+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/improvement-notice-issued-to-blackpool-borough-council"/>
     <title>Improvement notice issued to Blackpool Borough Council</title>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Improvement notice issued to Blackpool Borough Council by the Department for Education.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/16406</id>
+    <published>2012-11-19T00:00:00+00:00</published>
+    <updated>2012-11-19T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/improvement-notice-issued-to-walsall-metropolitan-borough-council"/>
+    <title>Improvement notice issued to Walsall Metropolitan Borough Council</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Improvement notice issued to Walsall Metropolitan Borough Council by the Department for Education.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/16331</id>
@@ -275,19 +284,11 @@
 &lt;/ul&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/15129</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/15274</id>
     <published>2012-11-13T00:00:00+00:00</published>
     <updated>2012-11-13T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/dclg-special-advisers-data-august-to-september-2010"/>
-    <title>DCLG special advisers data: August to September 2010</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Details of meetings between special advisers to the DCLG and media and business representatives, as well as of gifts and hospitality received by them. This data supports the government’s commitment to transparency and covers the period from August to September 2010.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/15132</id>
-    <published>2012-11-13T00:00:00+00:00</published>
-    <updated>2012-11-13T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/dclg-special-advisers-data-january-to-march-2011"/>
-    <title> DCLG special advisers data: January to March 2011</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Details of meetings between special advisers to the DCLG and media and business representatives, as well as of gifts and hospitality received by them. This data supports the government’s commitment to transparency and covers the period from January to March 2011.&lt;/p&gt;&lt;/div&gt;</content>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/dclg-staff-data-and-organogram-march-2011--3"/>
+    <title>DCLG staff data and organogram: March 2011</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;These datasets and organogram shows posts and salary information for staff at DCLG as of 31 March 2011. They’re shared here as part of the effort to make government operations and spending more transparent to the public.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
 </feed>
