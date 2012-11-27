@@ -8,7 +8,25 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-11-07T00:00:00+00:00</updated>
+  <updated>2012-11-23T00:00:00+00:00</updated>
+  <entry>
+    <id>tag:www.gov.uk,2005:Publication/16882</id>
+    <published>2012-11-23T00:00:00+00:00</published>
+    <updated>2012-11-26T10:46:45+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/housing-capital-receipts-exemptions-from-regulations"/>
+    <title>Housing capital receipts: exemptions from regulations</title>
+    <category>Publication</category>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Use of receipts arising from the disposal of housing assets (ie assets held under part 2 of the Housing Act 1985 and for which account is made in the Housing Revenue Account) is governed by the &lt;a rel="external" href="http://www.legislation.gov.uk/uksi/2012/1324/made"&gt;Local Authorities (Capital Finance and Accounting) (England) Regulations 2003 (as amended.)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;These regulations require that, in short: &lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;receipts arising from Right to Buy (and similar sales may be retained to cover the cost of transacting the sales and to cover the debt on the properties sold, but a proportion of the remainder must be surrendered to central government &lt;/li&gt;
+  &lt;li&gt;receipts arising from all other disposals may be retained in full provided they are spent on affordable housing, regeneration or the paying down of housing debt (each of which is defined in the regulations).&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;However, section 11(6) of the &lt;a rel="external" href="http://www.legislation.gov.uk/ukpga/2003/26/contents"&gt;Local Government Act 2003&lt;/a&gt; (as inserted by section 174 of the &lt;a rel="external" href="http://www.legislation.gov.uk/ukpga/2011/20/contents"&gt;Localism Act 2011&lt;/a&gt;) permits the secretary of state to enter into agreements with local authorities with the effect that any requirement imposed by these regulations does not apply, or is modified in its application.&lt;/p&gt;
+
+&lt;p&gt;To enter into such an agreement it is necessary for any interested authority to make an application to the secretary of state. This guidance sets out the Department for Communities and Local Government’s policy on such exemptions.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
   <entry>
     <id>tag:www.gov.uk,2005:Speech/14936</id>
     <published>2012-11-07T00:00:00+00:00</published>
@@ -286,14 +304,5 @@ House Exchange Manager&lt;br&gt;
 &lt;p&gt;This booklet does not deal with agricultural lettings, or lettings by housing associations, local authorities or other social landlords.&lt;/p&gt;
 
 &lt;p&gt;If you are sharing or are going to share part of the landlord’s home, you should read our separate booklet called &lt;a href="https://www.gov.uk/government/publications/renting-rooms-in-someones-home-a-guide-for-people-renting-from-resident-landlords"&gt;‘Renting rooms in someone’s home - a guide for people renting from resident landlords’&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:Publication/15781</id>
-    <published>2007-08-09T01:00:00+01:00</published>
-    <updated>2012-11-14T19:19:59+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/strategic-housing-market-assessments-practice-guidance"/>
-    <title>Strategic housing market assessments: practice guidance  </title>
-    <category>Publication</category>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This practice guidance sets out a framework that local authorities and regional bodies can follow to develop a good understanding of how housing markets operate. It promotes an approach to assessing housing need and demand that can inform the development of local development documents and regional spatial strategy planning for housing policies, as set out in Planning Policy Statement 3: Housing (PPS3).&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
 </feed>

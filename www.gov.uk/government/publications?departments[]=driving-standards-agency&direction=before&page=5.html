@@ -43,15 +43,15 @@
     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
-</script><script defer src="https://assets.digital.cabinet-office.gov.uk/government/assets/application-8eebc8f0223debec50a1ca0dcc940554.js" type="text/javascript"></script><!--[if gt IE 8]><!--><link href="https://assets.digital.cabinet-office.gov.uk/government/assets/frontend/base-0b3d962b8ec50583c824b8de2ce88a27.css" media="screen" rel="stylesheet" type="text/css">
-<!--<![endif]--><link href="https://assets.digital.cabinet-office.gov.uk/government/assets/frontend/print-46bdc07cb3503dc26b8cf8ffdc0b8053.css" media="print" rel="stylesheet" type="text/css">
+</script><script defer src="https://assets.digital.cabinet-office.gov.uk/government/assets/application-a239688d17bcccf06a6180975dc96a1e.js" type="text/javascript"></script><!--[if gt IE 8]><!--><link href="https://assets.digital.cabinet-office.gov.uk/government/assets/frontend/base-adad700455e1a11fcd1b0977d7dc2441.css" media="screen" rel="stylesheet" type="text/css">
+<!--<![endif]--><link href="https://assets.digital.cabinet-office.gov.uk/government/assets/frontend/print-3a87362d1fe4dc933a4d5f6446e9c377.css" media="print" rel="stylesheet" type="text/css">
 <link href="https://www.gov.uk/government/publications.atom?departments%5B%5D=driving-standards-agency" rel="alternate" title="Recent publications" type="application/atom+xml">
-<link rel="next" type="application/json" href="/government/publications.json?page=6">
+<link rel="next" type="application/json" href="/government/publications.json?departments%5B%5D=driving-standards-agency&amp;direction=before&amp;page=6">
 <meta content="True" name="HandheldFriendly">
 <meta content="320" name="MobileOptimized">
 <meta content="authenticity_token" name="csrf-param">
-<meta content="cUt6K4gbR8HKFwMJZ19O7F64iEhza7RUarFPN09L654=" name="csrf-token">
-<!--[if IE 6]><link href="https://assets.digital.cabinet-office.gov.uk/government/assets/frontend/base-ie6-5aed613cf338971d79609887ab62c2f5.css" media="screen" rel="stylesheet" type="text/css" /><script>var ieVersion = 6;</script><![endif]--><!--[if IE 7]><link href="https://assets.digital.cabinet-office.gov.uk/government/assets/frontend/base-ie7-5643206dc51ba72fe9be2ca44f47c660.css" media="screen" rel="stylesheet" type="text/css" /><script>var ieVersion = 7;</script><![endif]--><!--[if IE 8]><link href="https://assets.digital.cabinet-office.gov.uk/government/assets/frontend/base-ie8-d92b0b2a5cf3fc5ae47f4ae3606980f6.css" media="screen" rel="stylesheet" type="text/css" /><script>var ieVersion = 8;</script><![endif]-->
+<meta content="TpCrY7Q6vnDDYkuAkxFpe9Z/169NGdbr4blIacsPHys=" name="csrf-token">
+<!--[if IE 6]><link href="https://assets.digital.cabinet-office.gov.uk/government/assets/frontend/base-ie6-ee72fbc151825fcfe51017d932483cfb.css" media="screen" rel="stylesheet" type="text/css" /><script>var ieVersion = 6;</script><![endif]--><!--[if IE 7]><link href="https://assets.digital.cabinet-office.gov.uk/government/assets/frontend/base-ie7-330087016652116d102a1bd047066bba.css" media="screen" rel="stylesheet" type="text/css" /><script>var ieVersion = 7;</script><![endif]--><!--[if IE 8]><link href="https://assets.digital.cabinet-office.gov.uk/government/assets/frontend/base-ie8-c89569fd028648ba5867f3bbd1814c3e.css" media="screen" rel="stylesheet" type="text/css" /><script>var ieVersion = 8;</script><![endif]-->
 </head>
 <body class="website government">
       <script type="text/javascript">document.body.className = ((document.body.className) ? document.body.className + ' js-enabled' : 'js-enabled');</script><a href="#content" class="visuallyhidden">Skip to main content</a>
@@ -99,7 +99,7 @@
         <div class="progress-bar js-progress-bar" id="progress-bar" data-join-count="2">
           <div class="bar"><div class="joined"></div></div>
           <p>
-            2 of 24  ministerial departments have moved their corporate websites to GOV.UK.
+            2 of 23  ministerial departments have moved their corporate websites to GOV.UK.
             <a href="/government">More will join soon</a>
           </p>
         </div>
@@ -163,21 +163,19 @@
       <div class="filter">
         <div class="filter-inner">
             <div class="publication-type">
-              <label class="title" for="publication_type">Publication type</label>
-              <select id="publication_type" name="publication_type"><option value="all" selected>All publication types</option>
+              <label class="title" for="publication_filter_option">Publication type</label>
+              <select id="publication_filter_option" name="publication_filter_option"><option value="all" selected>All publication types</option>
 <option value="policy-papers">Policy papers</option>
 <option value="consultations">Consultations</option>
 <option value="impact-assessments">Impact assessments</option>
 <option value="guidance">Guidance</option>
 <option value="forms">Forms</option>
 <option value="statistics">Statistics</option>
-<option value="statistics-national-statistics">Statistics - national statistics</option>
 <option value="research-and-analysis">Research and analysis</option>
 <option value="corporate-reports">Corporate reports</option>
-<option value="transparency-data">Transparency data</option>
 <option value="treaties">Treaties</option>
 <option value="foi-releases">FOI releases</option>
-<option value="independent-reports">Independent reports</option>
+<option value="independent-rpeorts">Independent rpeorts</option>
 <option value="circulars-letters-and-bulletins">Circulars, letters and bulletins</option>
 <option value="promotional-material">Promotional material</option></select>
 </div>
@@ -230,7 +228,9 @@
 </form>
 </div>
 
-    <div class="subscribe"><a href="https://www.gov.uk/government/publications.atom?departments%5B%5D=driving-standards-agency" class="feed">feed</a></div>
+    <div class="filter-feed">
+      <div class="subscribe"><a href="https://www.gov.uk/government/publications.atom?departments%5B%5D=driving-standards-agency" class="feed">feed</a></div>
+    </div>
   </div>
 </div>
 
@@ -246,23 +246,6 @@
             <th scope="col">Publication Series</th>
           </tr></thead>
 <tbody>
-<tr class="publication document-row recent" id="publication_14125">
-<th scope="row" class="title attribute">
-              <a href="/government/publications/car-driving-theory-test-operational-statistics" title="View Car driving theory test operational statistics">Car driving theory test operational statistics</a>
-            </th>
-            <td class="attribute publication_date">
-              <abbr class="publication_date" title="2012-09-14">14 September 2012</abbr>
-            </td>
-            <td class="attribute organisations">
-              <abbr title="Driving Standards Agency">DSA</abbr>
-            </td>
-            <td class="publication_type attribute">
-              Statistics
-            </td>
-            <td class="publication_series attribute">
-                Part of a series: <a href="/government/organisations/driving-standards-agency/series/operational-driving-theory-test-statistics">Operational driving theory test statistics</a>
-            </td>
-</tr>
 <tr class="publication document-row recent" id="publication_14126">
 <th scope="row" class="title attribute">
               <a href="/government/publications/motorcycle-riding-theory-test-operational-statistics" title="View Motorcycle riding theory test operational statistics ">Motorcycle riding theory test operational statistics </a>
@@ -280,9 +263,9 @@
                 Part of a series: <a href="/government/organisations/driving-standards-agency/series/operational-driving-theory-test-statistics">Operational driving theory test statistics</a>
             </td>
 </tr>
-<tr class="publication document-row recent" id="publication_14130">
+<tr class="publication document-row recent" id="publication_14128">
 <th scope="row" class="title attribute">
-              <a href="/government/publications/approved-driving-instructor-theory-test-operational-statistics" title="View Approved driving instructor theory test operational statistics">Approved driving instructor theory test operational statistics</a>
+              <a href="/government/publications/large-goods-vehicle-driving-theory-test-operational-statistics" title="View Large goods vehicle driving theory test operational statistics  ">Large goods vehicle driving theory test operational statistics  </a>
             </th>
             <td class="attribute publication_date">
               <abbr class="publication_date" title="2012-09-14">14 September 2012</abbr>
@@ -297,9 +280,26 @@
                 Part of a series: <a href="/government/organisations/driving-standards-agency/series/operational-driving-theory-test-statistics">Operational driving theory test statistics</a>
             </td>
 </tr>
-<tr class="publication document-row" id="publication_13221">
+<tr class="publication document-row recent" id="publication_14129">
 <th scope="row" class="title attribute">
-              <a href="/government/publications/operational-driving-theory-test-statistics" title="View Operational driving theory test statistics">Operational driving theory test statistics</a>
+              <a href="/government/publications/passenger-carrying-vehicle-driving-theory-test-operational-statistics" title="View Passenger carrying vehicle driving theory test operational statistics ">Passenger carrying vehicle driving theory test operational statistics </a>
+            </th>
+            <td class="attribute publication_date">
+              <abbr class="publication_date" title="2012-09-14">14 September 2012</abbr>
+            </td>
+            <td class="attribute organisations">
+              <abbr title="Driving Standards Agency">DSA</abbr>
+            </td>
+            <td class="publication_type attribute">
+              Statistics
+            </td>
+            <td class="publication_series attribute">
+                Part of a series: <a href="/government/organisations/driving-standards-agency/series/operational-driving-theory-test-statistics">Operational driving theory test statistics</a>
+            </td>
+</tr>
+<tr class="publication document-row" id="publication_14130">
+<th scope="row" class="title attribute">
+              <a href="/government/publications/approved-driving-instructor-theory-test-operational-statistics" title="View Approved driving instructor theory test operational statistics">Approved driving instructor theory test operational statistics</a>
             </th>
             <td class="attribute publication_date">
               <abbr class="publication_date" title="2012-09-14">14 September 2012</abbr>
@@ -513,9 +513,9 @@
                 Part of a series: <a href="/government/organisations/department-for-transport/series/transport-annual-reports">Transport annual reports</a>
             </td>
 </tr>
-<tr class="publication document-row" id="publication_11118">
+<tr class="publication document-row" id="publication_11109">
 <th scope="row" class="title attribute">
-              <a href="/government/publications/dsa-contact-centre-call-escalation-procedure" title="View DSA contact centre call escalation procedure">DSA contact centre call escalation procedure</a>
+              <a href="/government/publications/car-theory-and-practical-driving-tests-in-nottinghamshire-with-an-interpreter-or-voiceover" title="View Car theory and practical driving tests in Nottinghamshire with an interpreter or voiceover">Car theory and practical driving tests in Nottinghamshire with an interpreter or voiceover</a>
             </th>
             <td class="attribute publication_date">
               <abbr class="publication_date" title="2012-06-26">26 June 2012</abbr>
@@ -529,9 +529,9 @@
             <td class="publication_series attribute">
             </td>
 </tr>
-<tr class="publication document-row" id="publication_11121">
+<tr class="publication document-row" id="publication_11110">
 <th scope="row" class="title attribute">
-              <a href="/government/publications/car-theory-and-practical-driving-tests-taken-in-2011-split-by-gender-and-age" title="View Car theory and practical driving tests taken in 2011 split by gender and age">Car theory and practical driving tests taken in 2011 split by gender and age</a>
+              <a href="/government/publications/dsa-guidelines-for-establishing-a-level-of-driving-standard-for-driving-examiners" title="View DSA guidelines for establishing a level of driving standard for driving examiners">DSA guidelines for establishing a level of driving standard for driving examiners</a>
             </th>
             <td class="attribute publication_date">
               <abbr class="publication_date" title="2012-06-26">26 June 2012</abbr>
@@ -545,9 +545,9 @@
             <td class="publication_series attribute">
             </td>
 </tr>
-<tr class="publication document-row" id="publication_11122">
+<tr class="publication document-row" id="publication_11129">
 <th scope="row" class="title attribute">
-              <a href="/government/publications/theory-and-practical-driving-tests-taken-with-an-interpreter-or-voiceover-in-scotland" title="View Theory and practical driving tests taken with an interpreter or voiceover in Scotland">Theory and practical driving tests taken with an interpreter or voiceover in Scotland</a>
+              <a href="/government/publications/car-practical-driving-tests-taken-and-passed-at-herne-bay" title="View Car practical driving tests taken and passed at Herne Bay">Car practical driving tests taken and passed at Herne Bay</a>
             </th>
             <td class="attribute publication_date">
               <abbr class="publication_date" title="2012-06-26">26 June 2012</abbr>
@@ -561,9 +561,9 @@
             <td class="publication_series attribute">
             </td>
 </tr>
-<tr class="publication document-row" id="publication_14990">
+<tr class="publication document-row" id="publication_15006">
 <th scope="row" class="title attribute">
-              <a href="/government/publications/dsa-staff-headcount-and-vacancies" title="View DSA staff headcount and vacancies">DSA staff headcount and vacancies</a>
+              <a href="/government/publications/lorry-and-lorry-and-trailer-practical-tests-conducted-and-passed" title="View Lorry and lorry and trailer practical tests conducted and passed">Lorry and lorry and trailer practical tests conducted and passed</a>
             </th>
             <td class="attribute publication_date">
               <abbr class="publication_date" title="2012-06-26">26 June 2012</abbr>
@@ -585,6 +585,7 @@
       <li class="next">
 <a href="/government/publications?departments%5B%5D=driving-standards-agency&amp;direction=before&amp;page=6">Next page <span>6 of 23</span></a>
 </li>
+
     </ul></nav>
 </div>
 </div>

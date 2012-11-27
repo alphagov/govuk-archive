@@ -43,15 +43,15 @@
     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
-</script><script defer src="https://assets.digital.cabinet-office.gov.uk/government/assets/application-8eebc8f0223debec50a1ca0dcc940554.js" type="text/javascript"></script><!--[if gt IE 8]><!--><link href="https://assets.digital.cabinet-office.gov.uk/government/assets/frontend/base-0b3d962b8ec50583c824b8de2ce88a27.css" media="screen" rel="stylesheet" type="text/css">
-<!--<![endif]--><link href="https://assets.digital.cabinet-office.gov.uk/government/assets/frontend/print-46bdc07cb3503dc26b8cf8ffdc0b8053.css" media="print" rel="stylesheet" type="text/css">
+</script><script defer src="https://assets.digital.cabinet-office.gov.uk/government/assets/application-a239688d17bcccf06a6180975dc96a1e.js" type="text/javascript"></script><!--[if gt IE 8]><!--><link href="https://assets.digital.cabinet-office.gov.uk/government/assets/frontend/base-adad700455e1a11fcd1b0977d7dc2441.css" media="screen" rel="stylesheet" type="text/css">
+<!--<![endif]--><link href="https://assets.digital.cabinet-office.gov.uk/government/assets/frontend/print-3a87362d1fe4dc933a4d5f6446e9c377.css" media="print" rel="stylesheet" type="text/css">
 <link href="https://www.gov.uk/government/publications.atom?topics%5B%5D=transport" rel="alternate" title="Recent publications" type="application/atom+xml">
-<link rel="next" type="application/json" href="/government/publications.json?page=10">
+<link rel="next" type="application/json" href="/government/publications.json?direction=before&amp;page=10&amp;topics%5B%5D=transport">
 <meta content="True" name="HandheldFriendly">
 <meta content="320" name="MobileOptimized">
 <meta content="authenticity_token" name="csrf-param">
-<meta content="M2H68gmGY+VOgYuiAVN/3/F8f3opyAgqQqFjh0zcmOs=" name="csrf-token">
-<!--[if IE 6]><link href="https://assets.digital.cabinet-office.gov.uk/government/assets/frontend/base-ie6-5aed613cf338971d79609887ab62c2f5.css" media="screen" rel="stylesheet" type="text/css" /><script>var ieVersion = 6;</script><![endif]--><!--[if IE 7]><link href="https://assets.digital.cabinet-office.gov.uk/government/assets/frontend/base-ie7-5643206dc51ba72fe9be2ca44f47c660.css" media="screen" rel="stylesheet" type="text/css" /><script>var ieVersion = 7;</script><![endif]--><!--[if IE 8]><link href="https://assets.digital.cabinet-office.gov.uk/government/assets/frontend/base-ie8-d92b0b2a5cf3fc5ae47f4ae3606980f6.css" media="screen" rel="stylesheet" type="text/css" /><script>var ieVersion = 8;</script><![endif]-->
+<meta content="VgkD6rHXhxKLa1oie6jo1giLTSI5ytK2TGrtQLXrCBc=" name="csrf-token">
+<!--[if IE 6]><link href="https://assets.digital.cabinet-office.gov.uk/government/assets/frontend/base-ie6-ee72fbc151825fcfe51017d932483cfb.css" media="screen" rel="stylesheet" type="text/css" /><script>var ieVersion = 6;</script><![endif]--><!--[if IE 7]><link href="https://assets.digital.cabinet-office.gov.uk/government/assets/frontend/base-ie7-330087016652116d102a1bd047066bba.css" media="screen" rel="stylesheet" type="text/css" /><script>var ieVersion = 7;</script><![endif]--><!--[if IE 8]><link href="https://assets.digital.cabinet-office.gov.uk/government/assets/frontend/base-ie8-c89569fd028648ba5867f3bbd1814c3e.css" media="screen" rel="stylesheet" type="text/css" /><script>var ieVersion = 8;</script><![endif]-->
 </head>
 <body class="website government">
       <script type="text/javascript">document.body.className = ((document.body.className) ? document.body.className + ' js-enabled' : 'js-enabled');</script><a href="#content" class="visuallyhidden">Skip to main content</a>
@@ -99,7 +99,7 @@
         <div class="progress-bar js-progress-bar" id="progress-bar" data-join-count="2">
           <div class="bar"><div class="joined"></div></div>
           <p>
-            2 of 24  ministerial departments have moved their corporate websites to GOV.UK.
+            2 of 23  ministerial departments have moved their corporate websites to GOV.UK.
             <a href="/government">More will join soon</a>
           </p>
         </div>
@@ -163,21 +163,19 @@
       <div class="filter">
         <div class="filter-inner">
             <div class="publication-type">
-              <label class="title" for="publication_type">Publication type</label>
-              <select id="publication_type" name="publication_type"><option value="all" selected>All publication types</option>
+              <label class="title" for="publication_filter_option">Publication type</label>
+              <select id="publication_filter_option" name="publication_filter_option"><option value="all" selected>All publication types</option>
 <option value="policy-papers">Policy papers</option>
 <option value="consultations">Consultations</option>
 <option value="impact-assessments">Impact assessments</option>
 <option value="guidance">Guidance</option>
 <option value="forms">Forms</option>
 <option value="statistics">Statistics</option>
-<option value="statistics-national-statistics">Statistics - national statistics</option>
 <option value="research-and-analysis">Research and analysis</option>
 <option value="corporate-reports">Corporate reports</option>
-<option value="transparency-data">Transparency data</option>
 <option value="treaties">Treaties</option>
 <option value="foi-releases">FOI releases</option>
-<option value="independent-reports">Independent reports</option>
+<option value="independent-rpeorts">Independent rpeorts</option>
 <option value="circulars-letters-and-bulletins">Circulars, letters and bulletins</option>
 <option value="promotional-material">Promotional material</option></select>
 </div>
@@ -223,14 +221,16 @@
         </div>
       </div>
       <div class="results">
-        <p class="count"><span>1330</span> results</p>
+        <p class="count"><span>1332</span> results</p>
         <p class="selections"></p>
       </div>
     </fieldset>
 </form>
 </div>
 
-    <div class="subscribe"><a href="https://www.gov.uk/government/publications.atom?topics%5B%5D=transport" class="feed">feed</a></div>
+    <div class="filter-feed">
+      <div class="subscribe"><a href="https://www.gov.uk/government/publications.atom?topics%5B%5D=transport" class="feed">feed</a></div>
+    </div>
   </div>
 </div>
 
@@ -246,6 +246,39 @@
             <th scope="col">Publication Series</th>
           </tr></thead>
 <tbody>
+<tr class="publication document-row recent" id="publication_13224">
+<th scope="row" class="title attribute">
+              <a href="/government/publications/monitoring-and-evaluation-framework-for-local-authority-major-schemes" title="View Monitoring and evaluation framework for Local Authority Major Schemes">Monitoring and evaluation framework for Local Authority Major Schemes</a>
+            </th>
+            <td class="attribute publication_date">
+              <abbr class="publication_date" title="2012-09-20">20 September 2012</abbr>
+            </td>
+            <td class="attribute organisations">
+              <abbr title="Department for Transport">DFT</abbr>
+            </td>
+            <td class="publication_type attribute">
+              Guidance
+            </td>
+            <td class="publication_series attribute">
+                Part of a series: <a href="/government/organisations/department-for-transport/series/background-to-local-major-transport-schemes">Background to local major transport schemes</a>
+            </td>
+</tr>
+<tr class="publication document-row recent" id="publication_15819">
+<th scope="row" class="title attribute">
+              <a href="/government/publications/unadopted-private-roads" title="View Unadopted (private) roads">Unadopted (private) roads</a>
+            </th>
+            <td class="attribute publication_date">
+              <abbr class="publication_date" title="2012-09-18">18 September 2012</abbr>
+            </td>
+            <td class="attribute organisations">
+              <abbr title="Department for Transport">DFT</abbr>
+            </td>
+            <td class="publication_type attribute">
+              Form
+            </td>
+            <td class="publication_series attribute">
+            </td>
+</tr>
 <tr class="publication document-row recent" id="publication_15636">
 <th scope="row" class="title attribute">
               <a href="/government/publications/list-of-bus-operators-in-england-claiming-smartcard-automatic-vehicle-location-or-low-carbon-emission-incentives" title="View List of bus operators in England claiming smartcard, automatic vehicle location or low carbon emission incentives">List of bus operators in England claiming smartcard, automatic vehicle location or low carbon emission incentives</a>
@@ -263,7 +296,7 @@
                 Part of a series: <a href="/government/organisations/department-for-transport/series/background-to-the-bus-service-operators-grant-bsog">Background to the Bus Service Operators Grant (BSOG)</a>
             </td>
 </tr>
-<tr class="publication document-row recent" id="publication_15989">
+<tr class="publication document-row" id="publication_15989">
 <th scope="row" class="title attribute">
               <a href="/government/publications/london-midland-ticket-office-opening-hours-decision" title="View London Midland ticket office opening hours decision">London Midland ticket office opening hours decision</a>
             </th>
@@ -279,7 +312,24 @@
             <td class="publication_series attribute">
             </td>
 </tr>
-<tr class="publication document-row recent" id="publication_14125">
+<tr class="publication document-row" id="publication_13211">
+<th scope="row" class="title attribute">
+              <a href="/government/publications/letter-to-all-english-bus-operators-about-bus-service-operators-grant-reform--2" title="View Letter to all English bus operators about bus service operators grant reform">Letter to all English bus operators about bus service operators grant reform</a>
+            </th>
+            <td class="attribute publication_date">
+              <abbr class="publication_date" title="2012-09-17">17 September 2012</abbr>
+            </td>
+            <td class="attribute organisations">
+              <abbr title="Department for Transport">DFT</abbr>
+            </td>
+            <td class="publication_type attribute">
+              Circular, letter or bulletin
+            </td>
+            <td class="publication_series attribute">
+                Part of a series: <a href="/government/organisations/department-for-transport/series/background-to-the-bus-service-operators-grant-bsog">Background to the Bus Service Operators Grant (BSOG)</a>
+            </td>
+</tr>
+<tr class="publication document-row" id="publication_14125">
 <th scope="row" class="title attribute">
               <a href="/government/publications/car-driving-theory-test-operational-statistics" title="View Car driving theory test operational statistics">Car driving theory test operational statistics</a>
             </th>
@@ -529,56 +579,6 @@
             <td class="publication_series attribute">
             </td>
 </tr>
-<tr class="publication document-row" id="publication_10285">
-<th scope="row" class="title attribute">
-              <a href="/government/publications/c2c-rail-limited" title="View c2c Rail Limited">c2c Rail Limited</a>
-            </th>
-            <td class="attribute publication_date">
-              <abbr class="publication_date" title="2012-09-06">6 September 2012</abbr>
-            </td>
-            <td class="attribute organisations">
-              <abbr title="Department for Transport">DFT</abbr>
-            </td>
-            <td class="publication_type attribute">
-              Guidance
-            </td>
-            <td class="publication_series attribute">
-                Part of a series: <a href="/government/organisations/department-for-transport/series/public-register-of-rail-passenger-franchise-agreements">Public register of rail passenger franchise agreements</a>
-            </td>
-</tr>
-<tr class="publication document-row" id="publication_12354">
-<th scope="row" class="title attribute">
-              <a href="/government/publications/east-coast-mainline-company-limited" title="View East Coast Mainline Company Limited">East Coast Mainline Company Limited</a>
-            </th>
-            <td class="attribute publication_date">
-              <abbr class="publication_date" title="2012-09-06">6 September 2012</abbr>
-            </td>
-            <td class="attribute organisations">
-              <abbr title="Department for Transport">DFT</abbr>
-            </td>
-            <td class="publication_type attribute">
-              Guidance
-            </td>
-            <td class="publication_series attribute">
-                Part of a series: <a href="/government/organisations/department-for-transport/series/public-register-of-rail-passenger-franchise-agreements">Public register of rail passenger franchise agreements</a>
-            </td>
-</tr>
-<tr class="publication document-row" id="publication_12215">
-<th scope="row" class="title attribute">
-              <a href="/government/publications/accessibility-planning-policy-evaluation-and-future-directions" title="View Accessibility planning policy: Evaluation and future directions">Accessibility planning policy: Evaluation and future directions</a>
-            </th>
-            <td class="attribute publication_date">
-              <abbr class="publication_date" title="2012-09-06">6 September 2012</abbr>
-            </td>
-            <td class="attribute organisations">
-              <abbr title="Department for Transport">DFT</abbr>
-            </td>
-            <td class="publication_type attribute">
-              Guidance
-            </td>
-            <td class="publication_series attribute">
-            </td>
-</tr>
 </tbody>
 </table>
 <nav id="show-more-documents" role="navigation"><ul class="previous-next-navigation">
@@ -587,6 +587,7 @@
       <li class="next">
 <a href="/government/publications?direction=before&amp;page=10&amp;topics%5B%5D=transport">Next page <span>10 of 67</span></a>
 </li>
+
     </ul></nav>
 </div>
 </div>
