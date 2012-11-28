@@ -7,7 +7,18 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-11-26T14:34:38+00:00</updated>
+  <updated>2012-11-27T00:00:00+00:00</updated>
+  <entry>
+    <id>tag:www.gov.uk,2005:Publication/17022</id>
+    <published>2012-11-27T00:00:00+00:00</published>
+    <updated>2012-11-14T12:35:23+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/local-authority-revenue-expenditure-and-financing-england-2010-to-2011-individual-local-authority-data--5"/>
+    <title>Local authority revenue expenditure and financing England: 2010 to 2011 individual local authority data</title>
+    <summary/>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The data in the above spreadsheets have been used to compile the final outturn estimates of local authority revenue expenditure and financing for the financial year April 2010 to March 2011. &lt;/p&gt;
+
+&lt;p&gt;Since the publication of the original final outturn statistical release (4 April 2012), the data in these spreadsheets have been revised on 27 November 2012. The changes over the previously published figures are generally small.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
   <entry>
     <id>tag:www.gov.uk,2005:Consultation/16973</id>
     <published>2012-11-26T14:34:38+00:00</published>
@@ -86,13 +97,22 @@ Out of hours: 020 7944 4292&lt;br&gt;
 Public enquiries: 0300 330 3000&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:Publication/16871</id>
+    <id>tag:www.gov.uk,2005:Publication/16882</id>
     <published>2012-11-23T00:00:00+00:00</published>
-    <updated>2012-11-23T14:44:01+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/guidance-for-local-transport-bodies"/>
-    <title>Guidance for Local Transport Bodies</title>
-    <summary/>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Department for Transport has announced its firm intention to devolve funding for local major transport schemes to Local Transport Bodies from 2015. The guidance sets out the necessary arrangement Local Transport Bodies will need to have in place to ensure value for money and sound decision making.&lt;/p&gt;&lt;/div&gt;</content>
+    <updated>2012-11-26T10:46:45+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/housing-capital-receipts-exemptions-from-regulations"/>
+    <title>Housing capital receipts: exemptions from regulations</title>
+    <summary>Guidance for local authorities applying to use receipts from the disposal of council housing assets in ways not prescribed in regulations.</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Use of receipts arising from the disposal of housing assets (ie assets held under part 2 of the Housing Act 1985 and for which account is made in the Housing Revenue Account) is governed by the &lt;a rel="external" href="http://www.legislation.gov.uk/uksi/2012/1324/made"&gt;Local Authorities (Capital Finance and Accounting) (England) Regulations 2003 (as amended.)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;These regulations require that, in short: &lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;receipts arising from Right to Buy (and similar sales may be retained to cover the cost of transacting the sales and to cover the debt on the properties sold, but a proportion of the remainder must be surrendered to central government &lt;/li&gt;
+  &lt;li&gt;receipts arising from all other disposals may be retained in full provided they are spent on affordable housing, regeneration or the paying down of housing debt (each of which is defined in the regulations).&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;However, section 11(6) of the &lt;a rel="external" href="http://www.legislation.gov.uk/ukpga/2003/26/contents"&gt;Local Government Act 2003&lt;/a&gt; (as inserted by section 174 of the &lt;a rel="external" href="http://www.legislation.gov.uk/ukpga/2011/20/contents"&gt;Localism Act 2011&lt;/a&gt;) permits the secretary of state to enter into agreements with local authorities with the effect that any requirement imposed by these regulations does not apply, or is modified in its application.&lt;/p&gt;
+
+&lt;p&gt;To enter into such an agreement it is necessary for any interested authority to make an application to the secretary of state. This guidance sets out the Department for Communities and Local Government’s policy on such exemptions.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:Publication/16840</id>
@@ -112,30 +132,21 @@ Public enquiries: 0300 330 3000&lt;/p&gt;&lt;/div&gt;</content>
 &lt;/ul&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:Publication/16882</id>
+    <id>tag:www.gov.uk,2005:Publication/16871</id>
     <published>2012-11-23T00:00:00+00:00</published>
-    <updated>2012-11-26T10:46:45+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/housing-capital-receipts-exemptions-from-regulations"/>
-    <title>Housing capital receipts: exemptions from regulations</title>
-    <summary>Guidance for local authorities applying to use receipts from the disposal of council housing assets in ways not prescribed in regulations.</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Use of receipts arising from the disposal of housing assets (ie assets held under part 2 of the Housing Act 1985 and for which account is made in the Housing Revenue Account) is governed by the &lt;a rel="external" href="http://www.legislation.gov.uk/uksi/2012/1324/made"&gt;Local Authorities (Capital Finance and Accounting) (England) Regulations 2003 (as amended.)&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;These regulations require that, in short: &lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;receipts arising from Right to Buy (and similar sales may be retained to cover the cost of transacting the sales and to cover the debt on the properties sold, but a proportion of the remainder must be surrendered to central government &lt;/li&gt;
-  &lt;li&gt;receipts arising from all other disposals may be retained in full provided they are spent on affordable housing, regeneration or the paying down of housing debt (each of which is defined in the regulations).&lt;/li&gt;
-&lt;/ul&gt;&lt;p&gt;However, section 11(6) of the &lt;a rel="external" href="http://www.legislation.gov.uk/ukpga/2003/26/contents"&gt;Local Government Act 2003&lt;/a&gt; (as inserted by section 174 of the &lt;a rel="external" href="http://www.legislation.gov.uk/ukpga/2011/20/contents"&gt;Localism Act 2011&lt;/a&gt;) permits the secretary of state to enter into agreements with local authorities with the effect that any requirement imposed by these regulations does not apply, or is modified in its application.&lt;/p&gt;
-
-&lt;p&gt;To enter into such an agreement it is necessary for any interested authority to make an application to the secretary of state. This guidance sets out the Department for Communities and Local Government’s policy on such exemptions.&lt;/p&gt;&lt;/div&gt;</content>
+    <updated>2012-11-23T14:44:01+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/guidance-for-local-transport-bodies"/>
+    <title>Guidance for Local Transport Bodies</title>
+    <summary/>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Department for Transport has announced its firm intention to devolve funding for local major transport schemes to Local Transport Bodies from 2015. The guidance sets out the necessary arrangement Local Transport Bodies will need to have in place to ensure value for money and sound decision making.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:NewsArticle/16890</id>
+    <id>tag:www.gov.uk,2005:NewsArticle/17061</id>
     <published>2012-11-22T14:00:00+00:00</published>
     <updated>2012-11-22T14:26:07+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/weekly-collection-saved-as-government-scheme-delivers-for-6-million-families"/>
     <title>‘Weekly collection saved’ as government scheme delivers for 6 million families </title>
-    <summary>Local Government Secretary Eric Pickles today announced that over 6 million families will keep getting a weekly bin service. </summary>
+    <summary>Local Government Secretary Eric Pickles announced that over 6 million families will keep getting a weekly bin service. </summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This is thanks to the government’s £250 million &lt;a href="https://www.gov.uk/government/policies/making-sure-council-tax-payers-get-good-value-for-money/supporting-pages/bins-and-waste-collection"&gt;Weekly Collection Support Scheme&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;The best 90 projects, from 85 councils, have today been selected from an over-subscribed scheme to share in the funding. Ministers are concerned that without the fund weekly bin collections could have all but disappeared by 2015, as is happening in other parts of the United Kingdom, such as Northern Ireland.&lt;/p&gt;
@@ -208,23 +219,5 @@ Public enquiries: 0300 330 3000&lt;/p&gt;&lt;/div&gt;</content>
   &lt;li&gt;&lt;a href="https://www.gov.uk/a-plain-english-guide-to-business-rates-retention"&gt;Business rates retention: plain English guide&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href="https://www.gov.uk/government/speeches/business-rates-retention"&gt;Written ministerial statement&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:Consultation/16636</id>
-    <published>2012-11-21T13:00:41+00:00</published>
-    <updated>2012-11-21T13:00:41+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/consultations/technical-reforms-to-council-tax-when-dwellings-should-not-be-liable-to-the-empty-homes-premium"/>
-    <title>Technical reforms to Council Tax: when dwellings should not be liable to the empty homes premium</title>
-    <summary>Consultation about the government's proposals on homes that should not be charged the empty homes premium.</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The &lt;a rel="external" href="http://www.legislation.gov.uk/ukpga/2012/17/introduction/enacted"&gt;Local Government Finance Act 2012&lt;/a&gt; allows a billing authority to charge an empty homes premium to provide a stronger incentive to get homes back into productive use and remove the blight of such properties on local neighbourhoods.&lt;/p&gt;
-
-&lt;p&gt;The premium was subject to a consultation, ‘&lt;a href="https://www.gov.uk/government/consultations/technical-reforms-of-council-tax"&gt;Technical Reforms to Council Tax&lt;/a&gt;’, which ended on 29 December 2011. The government published its response on 28 May 2012, which confirmed its intention to proceed with the premium and stated that:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;it will not be payable until a dwelling has been empty and unfurnished for 2 years&lt;/li&gt;
-  &lt;li&gt;the maximum premium that an authority will be able to charge will be 50%&lt;/li&gt;
-&lt;/ul&gt;&lt;p&gt;This consultation invited views on the government’s proposals on exceptions to the premium: dwellings which may otherwise be liable for the premium, but which are subject to circumstances that mean that it would not be appropriate for it to apply.&lt;/p&gt;
-
-&lt;p&gt;The summary of responses was published on 21 November 2012.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
 </feed>

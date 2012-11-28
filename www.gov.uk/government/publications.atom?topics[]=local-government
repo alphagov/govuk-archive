@@ -8,7 +8,17 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-08-28T01:00:00+01:00</updated>
+  <updated>2012-11-27T00:00:00+00:00</updated>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/17022</id>
+    <published>2012-11-27T00:00:00+00:00</published>
+    <updated>2012-11-27T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/local-authority-revenue-expenditure-and-financing-england-2010-to-2011-individual-local-authority-data--5"/>
+    <title>Local authority revenue expenditure and financing England: 2010 to 2011 individual local authority data</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The data in the above spreadsheets have been used to compile the final outturn estimates of local authority revenue expenditure and financing for the financial year April 2010 to March 2011. &lt;/p&gt;
+
+&lt;p&gt;Since the publication of the original final outturn statistical release (4 April 2012), the data in these spreadsheets have been revised on 27 November 2012. The changes over the previously published figures are generally small.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/16973</id>
     <published>2012-08-28T01:00:00+01:00</published>
@@ -44,14 +54,6 @@
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This consultation sets out the government’s proposals on how the Council Tax empty homes premium is to be included in the calculation of the Council Tax base.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/16871</id>
-    <published>2012-11-23T00:00:00+00:00</published>
-    <updated>2012-11-23T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/guidance-for-local-transport-bodies"/>
-    <title>Guidance for Local Transport Bodies</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Department for Transport has announced its firm intention to devolve funding for local major transport schemes to Local Transport Bodies from 2015. The guidance sets out the necessary arrangement Local Transport Bodies will need to have in place to ensure value for money and sound decision making.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/16840</id>
     <published>2012-11-23T00:00:00+00:00</published>
     <updated>2012-11-23T00:00:00+00:00</updated>
@@ -66,6 +68,14 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a rel="external" href="http://www.dft.gov.uk/publications/tma-part-6-certification-of-approved-devices"&gt;Civil traffic enforcement: certification of approved devices&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/16871</id>
+    <published>2012-11-23T00:00:00+00:00</published>
+    <updated>2012-11-23T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/guidance-for-local-transport-bodies"/>
+    <title>Guidance for Local Transport Bodies</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Department for Transport has announced its firm intention to devolve funding for local major transport schemes to Local Transport Bodies from 2015. The guidance sets out the necessary arrangement Local Transport Bodies will need to have in place to ensure value for money and sound decision making.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/16882</id>
@@ -110,27 +120,6 @@
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This policy statement provides early confirmation of the government’s policy decisions on the business rates retention scheme following the technical consultation that took place in the summer, and ahead of the provisional local government finance settlement which will constitute the government’s formal response to consultation. This policy statement, which includes an updated step-by-step guide to the scheme’s workings, will support local authorities in their preparations for smooth implementation of the business rates retention scheme from April 2013.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/16424</id>
-    <published>2012-11-20T00:00:00+00:00</published>
-    <updated>2012-11-20T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/national-non-domestic-rates-collected-by-local-authorities-in-england-2011-12-update"/>
-    <title>National non-domestic rates collected by local authorities in England 2011-12 (update)</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;An updated statistical release giving details of the national non-domestic rates collected by local authorities in England in 2011-12 was published on 20 November 2012. &lt;/p&gt;
-
-&lt;p&gt;It provided updated information on figures that were announced on &lt;a href="https://www.gov.uk/government/publications/non-domestic-rates-collected-by-local-councils-in-england-2011-to-2012"&gt;15 August 2012&lt;/a&gt;. &lt;/p&gt;
-
-&lt;p&gt;The latest statistics release includes data from 2007-08 to 2011-12.&lt;/p&gt;
-
-&lt;p&gt;The key points from the latest release are: &lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;the net rate yield (after allowances for changes in respect of previous years and reliefs) increased by 9.1% to £21 billion in 2011-12&lt;/li&gt;
-  &lt;li&gt;the contribution to the pool (net rate yield after allowances for collection costs including losses) also increased by 9.2% to £20.7 billion in 2011-12&lt;/li&gt;
-  &lt;li&gt;between 2007-08 and 2011-12 the contribution to the pool from the local lists increased by £3.5 billion or 21%&lt;/li&gt;
-  &lt;li&gt;London accounts for 29% of the contribution to the national pool while having only 15% of the population&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/16427</id>
     <published>2012-11-20T00:00:00+00:00</published>
     <updated>2012-11-20T00:00:00+00:00</updated>
@@ -154,6 +143,27 @@
 &lt;li&gt;Between 2011 and 2012 the number of long-term empty dwellings subject to a discount fell by 28,000 (or 22%). In the same period the number of long-term empty dwellings not subject to a discount increased by 8,000 (or 5%). This gives a net reduction of 20,000, or 7%, in the total number of long term empty dwellings between 2011 and 2012.&lt;/li&gt;
   &lt;li&gt;The number of long term empty dwellings that were subject to a discount has fallen by 86,000, or 47%, between 2008 and 2012. In the same period the number of long term empty dwellings that do not receive a discount has increased by 18,000 or 13%. This gives a net reduction of 68,000, or 21%, in the total number of long term empty dwellings between 2008 and 2012. &lt;/li&gt;
   &lt;li&gt;Since the introduction of the New Homes Bonus in the summer of 2010 a large number of authorities have taken the opportunity to review the empty properties and second homes in their area. A number have also altered the level of discount awarded with many abolishing the discount for empty properties altogether.&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/16424</id>
+    <published>2012-11-20T00:00:00+00:00</published>
+    <updated>2012-11-20T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/national-non-domestic-rates-collected-by-local-authorities-in-england-2011-12-update"/>
+    <title>National non-domestic rates collected by local authorities in England 2011-12 (update)</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;An updated statistical release giving details of the national non-domestic rates collected by local authorities in England in 2011-12 was published on 20 November 2012. &lt;/p&gt;
+
+&lt;p&gt;It provided updated information on figures that were announced on &lt;a href="https://www.gov.uk/government/publications/non-domestic-rates-collected-by-local-councils-in-england-2011-to-2012"&gt;15 August 2012&lt;/a&gt;. &lt;/p&gt;
+
+&lt;p&gt;The latest statistics release includes data from 2007-08 to 2011-12.&lt;/p&gt;
+
+&lt;p&gt;The key points from the latest release are: &lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;the net rate yield (after allowances for changes in respect of previous years and reliefs) increased by 9.1% to £21 billion in 2011-12&lt;/li&gt;
+  &lt;li&gt;the contribution to the pool (net rate yield after allowances for collection costs including losses) also increased by 9.2% to £20.7 billion in 2011-12&lt;/li&gt;
+  &lt;li&gt;between 2007-08 and 2011-12 the contribution to the pool from the local lists increased by £3.5 billion or 21%&lt;/li&gt;
+  &lt;li&gt;London accounts for 29% of the contribution to the national pool while having only 15% of the population&lt;/li&gt;
 &lt;/ul&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
@@ -235,37 +245,5 @@
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Restated default scheme universal credit provisions taking into account minor amendments since the &lt;a href="https://www.gov.uk/government/publications/localising-support-for-council-tax-default-scheme-draft-regulations"&gt;July 2012 publication&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;For more information see the &lt;a href="https://www.gov.uk/government/publications/localising-support-for-council-tax-explanatory-note-on-restated-default-scheme-universal-credit-provisions"&gt;explanatory note&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/14249</id>
-    <published>2012-10-26T00:00:00+01:00</published>
-    <updated>2012-10-26T00:00:00+01:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/local-sustainable-transport-fund"/>
-    <title>Local Sustainable Transport Fund</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Local Transport White Paper Creating Growth, Cutting Carbon, published in January 2011, placed localism at the heart of the transport agenda in order to cut carbon emissions and create local growth. A total of £560 million was originally made available through the Local Sustainable Transport Fund to enable the Department to fund a number of high quality bids. Funding was topped up with a further £40 million to £600 million in 2012 to accommodate approval for a greater number of bids (with match funding being provided by local authority partners). In total, DfT awarded funding to 96 packages to 77 authorities to deliver their schemes between 2011 and 2015. Along with local contributions provided by all funded project teams, over £1 billion is now being invested in local sustainable travel.&lt;/p&gt;
-
-&lt;p&gt;The funding announcements made were as follows:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;11 September 2012, Ministers approved just under £5 million to Tyne and Wear ITA for a small project, based on the strongest elements of their Large Project proposal (which was turned down for funding in June 2012)&lt;/li&gt;
-  &lt;li&gt;27 June 2012, Ministers awarded £225 million to 12 large projects (above £5 million), plus £41 million to 14 tranche 2 projects (small projects up to £5 million)&lt;/li&gt;
-  &lt;li&gt;24 May 2012, Ministers awarded £113 million to 30 tranche 2 projects (small projects up to £5 million)&lt;/li&gt;
-  &lt;li&gt;5 July 2011, Ministers awarded £155 million to 39 tranche 1 projects (small projects up to £5 million)&lt;/li&gt;
-&lt;/ul&gt;&lt;p&gt;The Local Sustainable Transport Fund bidding rounds are now closed and the fund is fully committed.&lt;/p&gt;
-
-&lt;h2 id="lstf-workshops"&gt;LSTF workshops&lt;/h2&gt;
-
-&lt;p&gt;Materials from the department’s programme of workshops with local authorities.&lt;/p&gt;
-
-&lt;h3 id="tranche-2---october-2011"&gt;Tranche 2 - October 2011&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a rel="external" href="http://www.dft.gov.uk/publications/lstf-tranche2-workshops/"&gt;Video presentation by the Parliamentary Under-Secretary of State for Transport&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a rel="external" href="http://www.bis.gov.uk/assets/BISCore/economic-development/docs/S/supporting-local-growth-tom-smyth-bis"&gt;Workshop presentation: ‘Supporting Local Growth’ by Tom Smyth - BIS (PPT - 186 KB)&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;h3 id="tranche-1---february-2011"&gt;Tranche 1 - February 2011&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a rel="external" href="http://www.dft.gov.uk/publications/lstf"&gt;Video presentation by the Parliamentary Under-Secretary of State for Transport&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</content>
   </entry>
 </feed>
