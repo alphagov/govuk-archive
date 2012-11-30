@@ -8,7 +8,27 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-11-25T00:00:00+00:00</updated>
+  <updated>2012-11-29T00:00:00+00:00</updated>
+  <entry>
+    <id>tag:www.gov.uk,2005:Publication/17107</id>
+    <published>2012-11-29T00:00:00+00:00</published>
+    <updated>2012-11-29T15:39:37+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/generic-risk-assessment-2-3-rescues-from-lifts-and-escalators"/>
+    <title>Generic risk assessment 2.3: rescues from lifts and escalators</title>
+    <category>Publication</category>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Generic risk assessment 2.3 examines the hazards, risks and control measures relating to fire service personnel, the personnel of other agencies and members of the public when attending incidents involving lifts, escalators and moving walkways.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:Publication/17112</id>
+    <published>2012-11-29T00:00:00+00:00</published>
+    <updated>2012-11-29T15:39:16+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/generic-risk-assessment-5-7-incidents-involving-explosives"/>
+    <title>Generic risk assessment 5.7: incidents involving explosives</title>
+    <category>Publication</category>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Generic risk assessment 5.7 examines the hazards, risks and control measures relating to incidents involving ‘commercial’ explosives, while in manufacture, storage or transportation. It does not cover improvised explosive devices.&lt;/p&gt;
+
+&lt;p&gt;This replaces the guidance published in November 2008.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
   <entry>
     <id>tag:www.gov.uk,2005:Publication/16920</id>
     <published>2012-11-25T00:00:00+00:00</published>
@@ -266,17 +286,6 @@ of agreement&lt;/a&gt; on the core parameters for reforms to the firefighters’
 &lt;/ol&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:Consultation/13407</id>
-    <published>2012-10-10T01:00:00+01:00</published>
-    <updated>2012-10-10T01:00:00+01:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/consultations/amendments-to-the-new-firefighters-pension-scheme-2006-automatic-enrolment"/>
-    <title>Amendments to the new firefighters' pension scheme 2006: automatic enrolment</title>
-    <category>Consultation</category>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This consultation covers amendments to the new firefighters’ pension scheme (England), as set out in the Firefighters’ Pension Scheme (England) Order 2006.&lt;/p&gt;
-
-&lt;p&gt;This is so that fire and rescue authorities can comply with their duties for automatic enrolment under workplace pension reform.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
     <id>tag:www.gov.uk,2005:Publication/16762</id>
     <published>2012-10-02T01:00:00+01:00</published>
     <updated>2012-11-14T12:39:20+00:00</updated>
@@ -331,16 +340,5 @@ of agreement&lt;/a&gt; on the core parameters for reforms to the firefighters’
 &lt;p&gt;Fire and rescue authorities are focusing their audit activities so that premises that are considered to represent the highest risks are more likely to be audited. The highest proportions of audits against number of known premises were care homes, hotels and hospitals.&lt;/p&gt;
 
 &lt;p&gt;The overall proportion of premises found to be satisfactory in 2011 to 2012 was 59%, compared to 56% in 2010 to 2011.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:Consultation/13402</id>
-    <published>2012-09-20T01:00:00+01:00</published>
-    <updated>2012-09-20T01:00:00+01:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/consultations/guidance-on-statements-of-assurance-for-fire-and-rescue-authorities-in-england"/>
-    <title>Guidance on statements of assurance for fire and rescue authorities in England</title>
-    <category>Consultation</category>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Consultation on guidance on statements of assurance for fire and rescue authorities in England.&lt;/p&gt;
-
-&lt;p&gt;The consultation seeks views on ‘light-touch’ guidance on statements of assurance for fire and rescue authorities in England&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
 </feed>

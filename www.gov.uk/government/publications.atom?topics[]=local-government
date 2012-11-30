@@ -8,7 +8,17 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-11-27T00:00:00+00:00</updated>
+  <updated>2012-11-29T00:00:00+00:00</updated>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/17266</id>
+    <published>2012-11-29T00:00:00+00:00</published>
+    <updated>2012-11-29T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/localising-support-for-council-tax-guidance-note-on-administrative-matters"/>
+    <title>Localising support for Council Tax: guidance note on administrative matters </title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The administrative elements will in future operate under existing Council Tax provisions in the Local Government Finance Act and related regulations.&lt;/p&gt;
+
+&lt;p&gt;This note will provide clarity for local authorities on how some administrative elements will be dealt with under these provisions, where these are not covered in the Default Scheme and Prescribed Requirements Regulations.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/17022</id>
     <published>2012-11-27T00:00:00+00:00</published>
@@ -120,6 +130,27 @@
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This policy statement provides early confirmation of the government’s policy decisions on the business rates retention scheme following the technical consultation that took place in the summer, and ahead of the provisional local government finance settlement which will constitute the government’s formal response to consultation. This policy statement, which includes an updated step-by-step guide to the scheme’s workings, will support local authorities in their preparations for smooth implementation of the business rates retention scheme from April 2013.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/16424</id>
+    <published>2012-11-20T00:00:00+00:00</published>
+    <updated>2012-11-20T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/national-non-domestic-rates-collected-by-local-authorities-in-england-2011-12-update"/>
+    <title>National non-domestic rates collected by local authorities in England 2011-12 (update)</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;An updated statistical release giving details of the national non-domestic rates collected by local authorities in England in 2011-12 was published on 20 November 2012. &lt;/p&gt;
+
+&lt;p&gt;It provided updated information on figures that were announced on &lt;a href="https://www.gov.uk/government/publications/non-domestic-rates-collected-by-local-councils-in-england-2011-to-2012"&gt;15 August 2012&lt;/a&gt;. &lt;/p&gt;
+
+&lt;p&gt;The latest statistics release includes data from 2007-08 to 2011-12.&lt;/p&gt;
+
+&lt;p&gt;The key points from the latest release are: &lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;the net rate yield (after allowances for changes in respect of previous years and reliefs) increased by 9.1% to £21 billion in 2011-12&lt;/li&gt;
+  &lt;li&gt;the contribution to the pool (net rate yield after allowances for collection costs including losses) also increased by 9.2% to £20.7 billion in 2011-12&lt;/li&gt;
+  &lt;li&gt;between 2007-08 and 2011-12 the contribution to the pool from the local lists increased by £3.5 billion or 21%&lt;/li&gt;
+  &lt;li&gt;London accounts for 29% of the contribution to the national pool while having only 15% of the population&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/16427</id>
     <published>2012-11-20T00:00:00+00:00</published>
     <updated>2012-11-20T00:00:00+00:00</updated>
@@ -143,27 +174,6 @@
 &lt;li&gt;Between 2011 and 2012 the number of long-term empty dwellings subject to a discount fell by 28,000 (or 22%). In the same period the number of long-term empty dwellings not subject to a discount increased by 8,000 (or 5%). This gives a net reduction of 20,000, or 7%, in the total number of long term empty dwellings between 2011 and 2012.&lt;/li&gt;
   &lt;li&gt;The number of long term empty dwellings that were subject to a discount has fallen by 86,000, or 47%, between 2008 and 2012. In the same period the number of long term empty dwellings that do not receive a discount has increased by 18,000 or 13%. This gives a net reduction of 68,000, or 21%, in the total number of long term empty dwellings between 2008 and 2012. &lt;/li&gt;
   &lt;li&gt;Since the introduction of the New Homes Bonus in the summer of 2010 a large number of authorities have taken the opportunity to review the empty properties and second homes in their area. A number have also altered the level of discount awarded with many abolishing the discount for empty properties altogether.&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/16424</id>
-    <published>2012-11-20T00:00:00+00:00</published>
-    <updated>2012-11-20T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/national-non-domestic-rates-collected-by-local-authorities-in-england-2011-12-update"/>
-    <title>National non-domestic rates collected by local authorities in England 2011-12 (update)</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;An updated statistical release giving details of the national non-domestic rates collected by local authorities in England in 2011-12 was published on 20 November 2012. &lt;/p&gt;
-
-&lt;p&gt;It provided updated information on figures that were announced on &lt;a href="https://www.gov.uk/government/publications/non-domestic-rates-collected-by-local-councils-in-england-2011-to-2012"&gt;15 August 2012&lt;/a&gt;. &lt;/p&gt;
-
-&lt;p&gt;The latest statistics release includes data from 2007-08 to 2011-12.&lt;/p&gt;
-
-&lt;p&gt;The key points from the latest release are: &lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;the net rate yield (after allowances for changes in respect of previous years and reliefs) increased by 9.1% to £21 billion in 2011-12&lt;/li&gt;
-  &lt;li&gt;the contribution to the pool (net rate yield after allowances for collection costs including losses) also increased by 9.2% to £20.7 billion in 2011-12&lt;/li&gt;
-  &lt;li&gt;between 2007-08 and 2011-12 the contribution to the pool from the local lists increased by £3.5 billion or 21%&lt;/li&gt;
-  &lt;li&gt;London accounts for 29% of the contribution to the national pool while having only 15% of the population&lt;/li&gt;
 &lt;/ul&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
@@ -243,13 +253,5 @@
 &lt;p&gt;Capital expenditure rose steadily from £19.8 billion in 2008 to 2009 to £23.1 billion in 2010 to 2011, but has fallen back in 2011 to 2012 to £20.0 billion.&lt;/p&gt;
 
 &lt;p&gt;Capital receipts, excluding housing revenue account self-financing determination and premium, rose to £2.0 billion in 2011 to 2012, a year-on-year increase of nearly 34%.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/16468</id>
-    <published>2012-10-29T00:00:00+00:00</published>
-    <updated>2012-10-29T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/localising-support-for-council-tax-explanatory-note-on-restated-default-scheme-universal-credit-provisions"/>
-    <title>Localising support for Council Tax: explanatory note on restated default scheme universal credit provisions</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Explanatory note on &lt;a href="https://www.gov.uk/government/publications/localising-support-for-council-tax-restated-default-scheme-universal-credit-provisions"&gt;restated default scheme universal credit provisions&lt;/a&gt;, detailing how these support work incentives and take into account minor amendments since the &lt;a href="https://www.gov.uk/government/publications/localising-support-for-council-tax-default-scheme-draft-regulations"&gt;July 2012 publication&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
 </feed>

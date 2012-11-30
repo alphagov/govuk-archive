@@ -8,7 +8,25 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-11-25T00:00:00+00:00</updated>
+  <updated>2012-11-29T00:00:00+00:00</updated>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/17107</id>
+    <published>2012-11-29T00:00:00+00:00</published>
+    <updated>2012-11-29T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/generic-risk-assessment-2-3-rescues-from-lifts-and-escalators"/>
+    <title>Generic risk assessment 2.3: rescues from lifts and escalators</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Generic risk assessment 2.3 examines the hazards, risks and control measures relating to fire service personnel, the personnel of other agencies and members of the public when attending incidents involving lifts, escalators and moving walkways.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/17112</id>
+    <published>2012-11-29T00:00:00+00:00</published>
+    <updated>2012-11-29T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/generic-risk-assessment-5-7-incidents-involving-explosives"/>
+    <title>Generic risk assessment 5.7: incidents involving explosives</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Generic risk assessment 5.7 examines the hazards, risks and control measures relating to incidents involving ‘commercial’ explosives, while in manufacture, storage or transportation. It does not cover improvised explosive devices.&lt;/p&gt;
+
+&lt;p&gt;This replaces the guidance published in November 2008.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/16920</id>
     <published>2012-11-25T00:00:00+00:00</published>
@@ -25,16 +43,6 @@ of agreement&lt;/a&gt; on the core parameters for reforms to the firefighters’
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/hazardous-materials-operational-guidance-for-the-fire-and-rescue-service"/>
     <title>Hazardous materials: operational guidance for the fire and rescue service</title>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This document provides comprehensive yet flexible guidance that can be adapted to the nature, scale and requirements of the incident. It consolidates the content of over 500 items of previously published subject related documents.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/13407</id>
-    <published>2012-10-10T01:00:00+01:00</published>
-    <updated>2012-10-10T01:00:00+01:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/consultations/amendments-to-the-new-firefighters-pension-scheme-2006-automatic-enrolment"/>
-    <title>Amendments to the new firefighters' pension scheme 2006: automatic enrolment</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This consultation covers amendments to the new firefighters’ pension scheme (England), as set out in the Firefighters’ Pension Scheme (England) Order 2006.&lt;/p&gt;
-
-&lt;p&gt;This is so that fire and rescue authorities can comply with their duties for automatic enrolment under workplace pension reform.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/16762</id>
@@ -91,16 +99,6 @@ of agreement&lt;/a&gt; on the core parameters for reforms to the firefighters’
 &lt;p&gt;The overall proportion of premises found to be satisfactory in 2011 to 2012 was 59%, compared to 56% in 2010 to 2011.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/13402</id>
-    <published>2012-09-20T01:00:00+01:00</published>
-    <updated>2012-09-20T01:00:00+01:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/consultations/guidance-on-statements-of-assurance-for-fire-and-rescue-authorities-in-england"/>
-    <title>Guidance on statements of assurance for fire and rescue authorities in England</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Consultation on guidance on statements of assurance for fire and rescue authorities in England.&lt;/p&gt;
-
-&lt;p&gt;The consultation seeks views on ‘light-touch’ guidance on statements of assurance for fire and rescue authorities in England&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/13403</id>
     <published>2012-09-20T01:00:00+01:00</published>
     <updated>2012-09-20T01:00:00+01:00</updated>
@@ -109,6 +107,16 @@ of agreement&lt;/a&gt; on the core parameters for reforms to the firefighters’
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Consultation on guidance on statements of assurance for fire and rescue authorities in England and Protocol on Government intervention action for fire and rescue authorities in England.&lt;/p&gt;
 
 &lt;p&gt;The consultation seeks views on the revision of the protocol on Government intervention action and applies to fire and rescue authorities in England only.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/13402</id>
+    <published>2012-09-20T01:00:00+01:00</published>
+    <updated>2012-09-20T01:00:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/consultations/guidance-on-statements-of-assurance-for-fire-and-rescue-authorities-in-england"/>
+    <title>Guidance on statements of assurance for fire and rescue authorities in England</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Consultation on guidance on statements of assurance for fire and rescue authorities in England.&lt;/p&gt;
+
+&lt;p&gt;The consultation seeks views on ‘light-touch’ guidance on statements of assurance for fire and rescue authorities in England&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/11791</id>
@@ -189,31 +197,6 @@ of agreement&lt;/a&gt; on the core parameters for reforms to the firefighters’
 &lt;/ul&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/11692</id>
-    <published>2012-07-04T00:00:00+01:00</published>
-    <updated>2012-07-04T00:00:00+01:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/fire-statistics-monitor-april-2011-to-march-2012"/>
-    <title>Fire statistics monitor: April 2011 to March 2012</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The latest national statistics on fires, casualties, false alarms and non-fire incidents attended by the fire and rescue services in England, produced by the Department for Communities and Local Government, were released on Wednesday 4 July under the auspices of the UK Statistics Authority.&lt;/p&gt;
-
-&lt;p&gt;Statistics in this release are the latest available figures for England. They focus on the period of 1 April to 2011 to 31 March 2012. Key points of the latest data are:&lt;/p&gt;
-
-&lt;h3 id="fatal-and-non-fatal-casualties"&gt;Fatal and non-fatal casualties&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;In 2011-12 there were 304 fire fatalities; 27 fewer than in 2010-11.&lt;/li&gt;
-  &lt;li&gt;Accidental dwelling fires fatalities, which account for three fifths of all fire fatalities, were down by 26 from 213 in 2010-11 to 187 in 2011-12.&lt;/li&gt;
-  &lt;li&gt;There were 4,277 non-fatal fire casualties (excluding first aid cases and where only a precautionary checks was recommended). This was 2 per cent lower than in 2010-11.&lt;/li&gt;
-&lt;/ul&gt;&lt;h3 id="incidents"&gt;Incidents&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;In England, Fire and Rescue Services attended 223,000 fires, 2 per cent lower than in 2010-11.&lt;/li&gt;
-  &lt;li&gt;Dwelling fires were 4 per cent lower at 35,000, and fires in other buildings were down by 2 per cent to 20,000. Road vehicle fires fell by 14 per cent to 24,000.&lt;/li&gt;
-  &lt;li&gt;Attendances at fire false alarms decreased by 9 per cent to 249,000. More than two thirds of these were due to apparatus, while 4 per cent were malicious false alarms.&lt;/li&gt;
-  &lt;li&gt;Fire and Rescue Services attended 133,000 non-fire incidents in 2011-12, down 9 per cent from 2010-11. The most common categories of non-fire incidents were: road traffic collisions (21 per cent), effecting entry (11 per cent), lift releases (11 per cent), flooding (9 per cent) and medical incidents (9 per cent).&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/15729</id>
     <published>2012-07-04T00:00:00+01:00</published>
     <updated>2012-07-04T00:00:00+01:00</updated>
@@ -236,6 +219,31 @@ of agreement&lt;/a&gt; on the core parameters for reforms to the firefighters’
 &lt;li&gt;On average, improvements in fire safety and prevention have greatly outweighed the effect of longer average response times.&lt;/li&gt;
   &lt;li&gt;In 2011-12, there were 54 per cent fewer fire non-fatal casualties and 34 per cent fewer fire fatalities than in 2001-02.&lt;/li&gt;
   &lt;li&gt;In 2011-12, the average area of damage in dwelling fires was 20 per cent lower than in 2001-02.&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/11692</id>
+    <published>2012-07-04T00:00:00+01:00</published>
+    <updated>2012-07-04T00:00:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/fire-statistics-monitor-april-2011-to-march-2012"/>
+    <title>Fire statistics monitor: April 2011 to March 2012</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The latest national statistics on fires, casualties, false alarms and non-fire incidents attended by the fire and rescue services in England, produced by the Department for Communities and Local Government, were released on Wednesday 4 July under the auspices of the UK Statistics Authority.&lt;/p&gt;
+
+&lt;p&gt;Statistics in this release are the latest available figures for England. They focus on the period of 1 April to 2011 to 31 March 2012. Key points of the latest data are:&lt;/p&gt;
+
+&lt;h3 id="fatal-and-non-fatal-casualties"&gt;Fatal and non-fatal casualties&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;In 2011-12 there were 304 fire fatalities; 27 fewer than in 2010-11.&lt;/li&gt;
+  &lt;li&gt;Accidental dwelling fires fatalities, which account for three fifths of all fire fatalities, were down by 26 from 213 in 2010-11 to 187 in 2011-12.&lt;/li&gt;
+  &lt;li&gt;There were 4,277 non-fatal fire casualties (excluding first aid cases and where only a precautionary checks was recommended). This was 2 per cent lower than in 2010-11.&lt;/li&gt;
+&lt;/ul&gt;&lt;h3 id="incidents"&gt;Incidents&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;In England, Fire and Rescue Services attended 223,000 fires, 2 per cent lower than in 2010-11.&lt;/li&gt;
+  &lt;li&gt;Dwelling fires were 4 per cent lower at 35,000, and fires in other buildings were down by 2 per cent to 20,000. Road vehicle fires fell by 14 per cent to 24,000.&lt;/li&gt;
+  &lt;li&gt;Attendances at fire false alarms decreased by 9 per cent to 249,000. More than two thirds of these were due to apparatus, while 4 per cent were malicious false alarms.&lt;/li&gt;
+  &lt;li&gt;Fire and Rescue Services attended 133,000 non-fire incidents in 2011-12, down 9 per cent from 2010-11. The most common categories of non-fire incidents were: road traffic collisions (21 per cent), effecting entry (11 per cent), lift releases (11 per cent), flooding (9 per cent) and medical incidents (9 per cent).&lt;/li&gt;
 &lt;/ul&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
@@ -275,22 +283,5 @@ of agreement&lt;/a&gt; on the core parameters for reforms to the firefighters’
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This document sets out the proposed final agreement on the design for the firefighters’ pension scheme in England to be introduced from April 2015.&lt;/p&gt;
 
 &lt;p&gt;The government has made clear this sets out our final position on the main elements of scheme design, which unions will now take to their executives. The government reserves its position on all aspects of this proposed scheme design.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/11424</id>
-    <published>2012-05-15T00:00:00+01:00</published>
-    <updated>2012-05-15T00:00:00+01:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/fire-and-rescue-bulletin-21-2012"/>
-    <title>Fire and rescue bulletin: 21/2012</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The fire and rescue bulletin for May 2012 covers:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;revised Civil Contingencies Act regulations and guidance&lt;/li&gt;
-  &lt;li&gt;strategic governance arrangements for fire and rescue national resilience&lt;/li&gt;
-  &lt;li&gt;payment of Fire Capital Grant and Fire Revenue Grant 2012/13&lt;/li&gt;
-  &lt;li&gt;Secretary of State determination under article 36 of the Fire Safety Order&lt;/li&gt;
-  &lt;li&gt;national operational guidance&lt;/li&gt;
-  &lt;li&gt;fire and rescue authority reporting: Olympic Games period&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</content>
   </entry>
 </feed>
