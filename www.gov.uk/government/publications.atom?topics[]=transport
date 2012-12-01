@@ -10,7 +10,21 @@
   </author>
   <updated>2012-11-28T00:00:00+00:00</updated>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/17176</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/17200</id>
+    <published>2012-11-28T00:00:00+00:00</published>
+    <updated>2012-11-28T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/relocation-of-falkirk-driving-test-centre-to-grangemouth"/>
+    <title>Relocation of Falkirk driving test centre to Grangemouth</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Driving Standards Agency (&lt;abbr title="Driving Standards Agency"&gt;DSA&lt;/abbr&gt;) has closed the driving test centre at Falkirk and opened a new one in Grangemouth. This is to improve facilities for driving examiners and candidates. &lt;/p&gt;
+
+&lt;p&gt;The new test centre opened on 9 November 2012.&lt;/p&gt;
+
+&lt;p&gt;&lt;abbr title="Driving Standards Agency"&gt;DSA&lt;/abbr&gt; considers that driving test candidates and staff won’t have any significant or detrimental impact on their journeys to the centre, or on its driving test routes. &lt;/p&gt;
+
+&lt;p&gt;The new centre is easily accessible via the network of main roads in the area. It’s located 4.2 miles away from the original centre. &lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/17476</id>
     <published>2012-11-28T00:00:00+00:00</published>
     <updated>2012-11-28T00:00:00+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/department-for-transport-regulated-agents-and-in-flight-suppliers"/>
@@ -59,20 +73,6 @@ Transport Security Compliance
 &lt;br&gt;2 Marsham Street  
 &lt;br&gt;London, SW1P 4DF
 &lt;br&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/17200</id>
-    <published>2012-11-28T00:00:00+00:00</published>
-    <updated>2012-11-28T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/relocation-of-falkirk-driving-test-centre-to-grangemouth"/>
-    <title>Relocation of Falkirk driving test centre to Grangemouth</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Driving Standards Agency (&lt;abbr title="Driving Standards Agency"&gt;DSA&lt;/abbr&gt;) has closed the driving test centre at Falkirk and opened a new one in Grangemouth. This is to improve facilities for driving examiners and candidates. &lt;/p&gt;
-
-&lt;p&gt;The new test centre opened on 9 November 2012.&lt;/p&gt;
-
-&lt;p&gt;&lt;abbr title="Driving Standards Agency"&gt;DSA&lt;/abbr&gt; considers that driving test candidates and staff won’t have any significant or detrimental impact on their journeys to the centre, or on its driving test routes. &lt;/p&gt;
-
-&lt;p&gt;The new centre is easily accessible via the network of main roads in the area. It’s located 4.2 miles away from the original centre. &lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/17145</id>
@@ -367,17 +367,11 @@ Transport Security Compliance
 &lt;/ul&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/15105</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/15323</id>
     <published>2012-11-13T00:00:00+00:00</published>
     <updated>2012-11-13T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/low-carbon-bus-calculator"/>
-    <title>Low carbon bus calculator</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;We recognise that the benefits of purchasing a low carbon bus will be different for each operator and will depend on the way in which the bus in service is used. So, Department for Transport economists have produced a transparent, user-friendly toolkit to be used by bus operators and local authorities to calculate the likely benefits on investing in a low carbon emission bus (&lt;abbr title="low carbon emission bus"&gt;LCEB&lt;/abbr&gt;). Your assessment should always compare the &lt;abbr title="low carbon emission bus"&gt;LCEB&lt;/abbr&gt; to an equivalent diesel bus.&lt;/p&gt;
-
-&lt;p&gt;This toolkit allows you flexibility in changing the input assumptions to those most relevant to you. You will be able to assess the financial implications of purchasing a &lt;abbr title="low carbon emission bus"&gt;LCEB&lt;/abbr&gt;, based on the fuel savings on offer (as advised by &lt;abbr title="low carbon emission bus"&gt;LCEB&lt;/abbr&gt; manufacturers or experienced in trials).&lt;/p&gt;
-
-&lt;p&gt;This spreadsheet tool is intended to provide indicative estimates only and &lt;abbr title="low carbon emission bus"&gt;DfT&lt;/abbr&gt; does not vouch for the accuracy of such estimates. Please note that the Department for Transport does not accept any liability for any decisions that may be taken on the basis of such estimates.&lt;/p&gt;
-
-&lt;p&gt;This toolkit will be routinely updated and refined. Details of any updates or changes that are made will be outlined in the ‘Intro’ worksheet of the toolkit. We therefore encourage you to visit this website regularly and download the toolkit to ensure you are using the latest version.&lt;/p&gt;&lt;/div&gt;</content>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/cost-of-the-driver-cpc-recording-and-evidencing-database"/>
+    <title>Cost of the Driver CPC recording and evidencing database</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Information about the cost of the Driver CPC recording and evidencing database.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
 </feed>

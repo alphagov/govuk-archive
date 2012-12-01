@@ -8,7 +8,16 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-11-23T00:00:00+00:00</updated>
+  <updated>2012-11-30T13:48:48+00:00</updated>
+  <entry>
+    <id>tag:www.gov.uk,2005:Consultation/17377</id>
+    <published>2012-11-30T13:48:48+00:00</published>
+    <updated>2012-11-30T13:48:48+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/consultations/english-housing-survey-dissemination-strategy"/>
+    <title>English housing survey dissemination strategy</title>
+    <category>Consultation</category>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Consultation about the dissemination strategy for the English housing survey, asking for comments from users of housing survey data on the type and content of outputs that they would like to see.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
   <entry>
     <id>tag:www.gov.uk,2005:Publication/16882</id>
     <published>2012-11-23T00:00:00+00:00</published>
@@ -273,25 +282,5 @@ House Exchange Manager&lt;br&gt;
 &lt;p&gt;This booklet do not deal with agricultural lettings, or lettings by housing associations, local authorities or other social landlords.&lt;/p&gt;
 
 &lt;p&gt;However, if you are sharing or are going to share part of your home, you should read our separate booklets called &lt;a href="https://www.gov.uk/government/publications/letting-rooms-in-your-home-a-guide-for-resident-landlords"&gt;‘Letting rooms in your home: a guide for resident landlords’&lt;/a&gt; and &lt;a href="https://www.gov.uk/government/publications/renting-rooms-in-someones-home-a-guide-for-people-renting-from-resident-landlords"&gt;‘Renting rooms in someone’s home: a guide for people renting from resident landlords’&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:Publication/15907</id>
-    <published>2009-04-21T01:00:00+01:00</published>
-    <updated>2012-11-14T12:40:04+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/letting-rooms-in-your-home-a-guide-for-resident-landlords"/>
-    <title>Letting rooms in your home: a guide for resident landlords</title>
-    <category>Publication</category>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;You should read this booklet if you are letting (or thinking of letting) part of your only or main home. &lt;/p&gt;
-
-&lt;p&gt;In law, a resident landlord letting is one where the landlord and the person he or she lets to live in the same building. This includes conversions where they live in different parts of the same property (however long ago it was converted).&lt;/p&gt;
-
-&lt;p&gt;However, if&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;the property is split into purpose built flats, with landlord and occupier in different flats, or&lt;/li&gt;
-  &lt;li&gt;you do not live in the same property as the person you let to,&lt;/li&gt;
-&lt;/ul&gt;&lt;p&gt;you should instead read the booklet &lt;a href="https://www.gov.uk/government/publications/assured-and-assured-shorthold-tenancies-a-guide-for-landlords"&gt;‘Assured and assured shorthold tenancies - a guide for landlords’&lt;/a&gt; if the letting began on or after 15 January 1989.&lt;/p&gt;
-
-&lt;p&gt;If it began before this date read; &lt;a href="https://www.gov.uk/government/publications/regulated-tenancies"&gt;‘Regulated tenancies’&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
 </feed>

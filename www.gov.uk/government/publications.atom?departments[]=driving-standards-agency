@@ -625,14 +625,6 @@ Provisional licences were brought in for heavy goods vehicle (&lt;abbr title="He
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Information about approved driving instructor and practical driving test statistics.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/13064</id>
-    <published>2012-10-19T00:00:00+01:00</published>
-    <updated>2012-10-19T00:00:00+01:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/candidates-taking-their-theory-and-practical-car-and-motorcycle-tests"/>
-    <title>Candidates taking their theory and practical car and motorcycle tests</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Information about candidates taking their theory and practical car and motorcycle tests.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/15659</id>
     <published>2012-10-19T00:00:00+01:00</published>
     <updated>2012-10-19T00:00:00+01:00</updated>
@@ -647,5 +639,13 @@ Provisional licences were brought in for heavy goods vehicle (&lt;abbr title="He
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/statistics-about-practical-car-tests-and-adis"/>
     <title>Statistics about practical car tests and ADIs</title>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Statistics about practical car tests and ADIs.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/13054</id>
+    <published>2012-10-19T00:00:00+01:00</published>
+    <updated>2012-10-19T00:00:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/practical-driving-test-fraud-at-bradfords-heaton-and-thornbury-test-centres"/>
+    <title>Practical driving test fraud at Bradford's Heaton and Thornbury test centres</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Information about practical driving test fraud at Bradford’s Heaton and Thornbury test centres.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
 </feed>
