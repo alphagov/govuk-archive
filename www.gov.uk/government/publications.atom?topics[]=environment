@@ -8,7 +8,15 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-11-30T13:09:02+00:00</updated>
+  <updated>2012-12-02T14:46:17+00:00</updated>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/17547</id>
+    <published>2012-12-02T14:46:17+00:00</published>
+    <updated>2012-12-02T14:46:17+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/consultations/zero-carbon-for-new-non-domestic-buildings"/>
+    <title>Zero carbon for new non-domestic buildings</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This consultation sets out proposals for working towards the government’s ambition that all new non-domestic buildings should be zero carbon from 2019, with the public sector leading the way from 2018.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/17341</id>
     <published>2012-11-30T13:09:02+00:00</published>
@@ -128,6 +136,14 @@
 &lt;p&gt;Statistics in this release relating to the Code for Sustainable Homes show the number of dwellings that have been certified to the standards set out in the Code Technical Guide.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/11809</id>
+    <published>2012-08-22T00:00:00+01:00</published>
+    <updated>2012-08-22T00:00:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/space-for-food-growing-a-guide"/>
+    <title>Space for food growing: a guide</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This guide is aimed both at community groups that might be looking for land to start their food growing project or trying to find new ways to encourage people to get involved in their existing scheme and at individuals who might be interested in growing their own food but are not sure whether to wait for a local authority allotment or continue their search elsewhere. The guidance can also be used by voluntary groups trying to decide what activities might suit their client base or by individuals who have yet to be convinced that food growing is really for them. The guide provides links to sources of further advice and guidance and also to more detailed information on where to go to get funding or to learn from established projects.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/11808</id>
     <published>2012-08-22T00:00:00+01:00</published>
     <updated>2012-08-22T00:00:00+01:00</updated>
@@ -136,14 +152,6 @@
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This document sets out the potential funding available to community and voluntary organisations to start either a food growing or community orchards project. It identifies the different grant schemes open to local groups, green spaces, allotment organisations or trusts, and also where to go to get help when looking for funding.&lt;/p&gt;
 
 &lt;p&gt;This replaces the guidance published in August 2011.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/11809</id>
-    <published>2012-08-22T00:00:00+01:00</published>
-    <updated>2012-08-22T00:00:00+01:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/space-for-food-growing-a-guide"/>
-    <title>Space for food growing: a guide</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This guide is aimed both at community groups that might be looking for land to start their food growing project or trying to find new ways to encourage people to get involved in their existing scheme and at individuals who might be interested in growing their own food but are not sure whether to wait for a local authority allotment or continue their search elsewhere. The guidance can also be used by voluntary groups trying to decide what activities might suit their client base or by individuals who have yet to be convinced that food growing is really for them. The guide provides links to sources of further advice and guidance and also to more detailed information on where to go to get funding or to learn from established projects.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/12703</id>
@@ -206,14 +214,6 @@
 &lt;p&gt;Statistics in this release relating to the Code for sustainable homes show the number of dwellings that have been certified to the standards set out in the Code Technical Guide.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/11387</id>
-    <published>2012-04-11T00:00:00+01:00</published>
-    <updated>2012-04-11T00:00:00+01:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/tree-preservation-orders-changes-to-the-system-in-england"/>
-    <title>Tree preservation orders: changes to the system in England</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;A summary of the main changes brought about by the &lt;em&gt;Tree and Country Planning (Tree Preservation) (England) Regulations 2012&lt;/em&gt;, taking effect from 6 April 2012.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/11409</id>
     <published>2012-04-11T00:00:00+01:00</published>
     <updated>2012-04-11T00:00:00+01:00</updated>
@@ -222,6 +222,14 @@
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;A leaflet on tree preservation procedures in England. Mainly for the benefit of tree owners, their neighbours and local community groups, it answers commonly asked questions about the procedures.&lt;/p&gt;
 
 &lt;p&gt;This replaces &lt;em&gt;Protected trees: A guide to tree preservation procedures&lt;/em&gt; published on 10 March 2010.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/11387</id>
+    <published>2012-04-11T00:00:00+01:00</published>
+    <updated>2012-04-11T00:00:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/tree-preservation-orders-changes-to-the-system-in-england"/>
+    <title>Tree preservation orders: changes to the system in England</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;A summary of the main changes brought about by the &lt;em&gt;Tree and Country Planning (Tree Preservation) (England) Regulations 2012&lt;/em&gt;, taking effect from 6 April 2012.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/11301</id>
@@ -247,15 +255,5 @@
   &lt;li&gt;opening up access to the Energy Performance Certificate register of more than seven million Energy Performance Certificates&lt;/li&gt;
   &lt;li&gt;amending the Regulations so the Energy Performance Certificate is provided earlier to prospective buyers and tenants, increasing the likelihood of people acting on recommendations which identify cost effective savings.&lt;/li&gt;
 &lt;/ul&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/11769</id>
-    <published>2012-03-21T00:00:00+00:00</published>
-    <updated>2012-03-21T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/shaping-our-future-implementation-plan-for-government-commitments"/>
-    <title>Shaping our future: implementation plan for government commitments</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;In March 2010, the previous Government published Shaping Our Future, a joint report by a Task Force comprising ministers from the Department for Environment, Food andd Rural Affairs, the Department for Energy and Climate Change, the Department for Communities and Local Government and the former Office for the Third Sector (now the Office for Civil Society), and civil society groups with a strong interest in sustainable development and climate change.&lt;/p&gt;
-
-&lt;p&gt;The four departments have now completed a joint review of the actions assigned to government in Shaping Our Future. The resulting Implementation Plan sets out proposals for taking forward these actions, helping to meet relevant commitments in the Coalition’s programme for Government.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
 </feed>

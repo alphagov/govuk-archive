@@ -8,7 +8,16 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-11-30T13:09:02+00:00</updated>
+  <updated>2012-12-02T14:46:17+00:00</updated>
+  <entry>
+    <id>tag:www.gov.uk,2005:Consultation/17547</id>
+    <published>2012-12-02T14:46:17+00:00</published>
+    <updated>2012-12-02T14:46:17+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/consultations/zero-carbon-for-new-non-domestic-buildings"/>
+    <title>Zero carbon for new non-domestic buildings</title>
+    <category>Consultation</category>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This consultation sets out proposals for working towards the government’s ambition that all new non-domestic buildings should be zero carbon from 2019, with the public sector leading the way from 2018.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
   <entry>
     <id>tag:www.gov.uk,2005:Consultation/17341</id>
     <published>2012-11-30T13:09:02+00:00</published>
@@ -318,16 +327,5 @@ So the government has acted to ensure that more land is brought forward for deve
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The latest official statistics on the Code for Sustainable Homes and Average Energy Efficiency (SAP ratings) were released on 23 August 2012.&lt;/p&gt;
 
 &lt;p&gt;Statistics in this release relating to the Code for Sustainable Homes show the number of dwellings that have been certified to the standards set out in the Code Technical Guide.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:Publication/11808</id>
-    <published>2012-08-22T01:00:00+01:00</published>
-    <updated>2012-11-14T12:35:57+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/potential-funding-for-community-green-spaces"/>
-    <title>Potential funding for community green spaces</title>
-    <category>Publication</category>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This document sets out the potential funding available to community and voluntary organisations to start either a food growing or community orchards project. It identifies the different grant schemes open to local groups, green spaces, allotment organisations or trusts, and also where to go to get help when looking for funding.&lt;/p&gt;
-
-&lt;p&gt;This replaces the guidance published in August 2011.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
 </feed>
