@@ -8,7 +8,41 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-11-29T00:00:00+00:00</updated>
+  <updated>2012-12-03T00:00:00+00:00</updated>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/17290</id>
+    <published>2012-12-03T00:00:00+00:00</published>
+    <updated>2012-12-03T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/ministerial-photographs"/>
+    <title>Ministerial photographs</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This Freedom of Information response details photographs of the Department for Transport’s ministers commissioned since May 2010.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/17298</id>
+    <published>2012-12-03T00:00:00+00:00</published>
+    <updated>2012-12-03T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/legal-advice-expenditure"/>
+    <title>Legal advice expenditure</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Freedom of Information response concerning departmental spend on seeking legal advice.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/17573</id>
+    <published>2012-12-03T00:00:00+00:00</published>
+    <updated>2012-12-03T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/traffic-authorisations"/>
+    <title>Traffic authorisations</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This Freedom of Information response letter concerns traffic authorisations given to Westminster City Council between 1 January 2000 and 31 December 2010.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/17618</id>
+    <published>2012-12-03T00:00:00+00:00</published>
+    <updated>2012-12-03T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/green-bus-fund-round-4"/>
+    <title>Green Bus Fund round 4</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Green Bus Fund supports bus companies and local authorities in England to help them buy new low carbon buses. Its main purpose is to support and speed up the introduction of hundreds of low carbon buses across England.&lt;/p&gt;
+
+&lt;p&gt;This bidding guidance and documents are intended for bus operators and local authorities who want to submit bids for grant under the 4th round of the government’s Green Bus Fund. The bidding guidance explains the eligibility terms, the bidding process and how bids should be submitted.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/17214</id>
     <published>2012-11-29T00:00:00+00:00</published>
@@ -78,7 +112,7 @@
 &lt;/ul&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/17476</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/17634</id>
     <published>2012-11-28T00:00:00+00:00</published>
     <updated>2012-11-28T00:00:00+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/department-for-transport-regulated-agents-and-in-flight-suppliers"/>
@@ -230,7 +264,7 @@ Transport Security Compliance
 &lt;/ul&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/16998</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/17623</id>
     <published>2012-11-27T09:52:40+00:00</published>
     <updated>2012-11-27T09:52:40+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/consultations/speed-limit-exemptions"/>
@@ -271,34 +305,12 @@ Transport Security Compliance
 &lt;/ul&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/16857</id>
-    <published>2012-11-26T00:00:00+00:00</published>
-    <updated>2012-11-26T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/camborne-pool-redruth-stage-1-east-west-link-inspectors-report"/>
-    <title>Camborne-Pool-Redruth Stage 1 East-West Link inspector's report</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This inspector’s report was written by the inspector who held inquiries following the publication of Cornwall Council’s side roads order and compulsory purchase order.&lt;/p&gt;
-
-&lt;h2 id="related-documents"&gt;Related documents&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="http://www.gov.uk/government/publications/camborne-pool-redruth-stage-1-east-west-link-decision-letter/" title="decision letter"&gt;Camborne-Pool-Redruth Stage 1 East-West Link decision letter, 22 November 2012&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/16897</id>
     <published>2012-11-26T00:00:00+00:00</published>
     <updated>2012-11-26T00:00:00+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/general-conditions-of-contract-for-goods"/>
     <title>General conditions of contract for goods</title>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This document gives details on the standard conditions of contract used for the purchase of goods and the supply of services associated with those goods.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/16899</id>
-    <published>2012-11-26T00:00:00+00:00</published>
-    <updated>2012-11-26T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/purchase-order-conditions-of-contract"/>
-    <title>Purchase order conditions of contract</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This document details the department’s current standard conditions of contract used when placing a purchase order (typically for goods and services valued at less than £25,000).&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/17238</id>
@@ -329,12 +341,26 @@ Transport Security Compliance
 &lt;/ul&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/16908</id>
-    <published>2012-11-25T00:00:00+00:00</published>
-    <updated>2012-11-25T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/instructions-for-organisations-producing-reports-for-the-department-for-transport"/>
-    <title>Instructions for organisations producing reports for the Department for Transport</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Organisations contracted to produce reports for the Department for Transport must follow these guidelines. Following these guidelines will help the department meet its online accessibility, usability and transparency obligations.&lt;/p&gt;&lt;/div&gt;</content>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/16857</id>
+    <published>2012-11-26T00:00:00+00:00</published>
+    <updated>2012-11-26T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/camborne-pool-redruth-stage-1-east-west-link-inspectors-report"/>
+    <title>Camborne-Pool-Redruth Stage 1 East-West Link inspector's report</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This inspector’s report was written by the inspector who held inquiries following the publication of Cornwall Council’s side roads order and compulsory purchase order.&lt;/p&gt;
+
+&lt;h2 id="related-documents"&gt;Related documents&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.gov.uk/government/publications/camborne-pool-redruth-stage-1-east-west-link-decision-letter/" title="decision letter"&gt;Camborne-Pool-Redruth Stage 1 East-West Link decision letter, 22 November 2012&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/17635</id>
+    <published>2012-11-26T00:00:00+00:00</published>
+    <updated>2012-11-26T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/purchase-order-conditions-of-contract"/>
+    <title>Purchase order conditions of contract</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This document details the department’s current standard conditions of contract used when placing a purchase order (typically for goods and services valued at less than £25,000).&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/16907</id>
@@ -343,6 +369,14 @@ Transport Security Compliance
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/instructions-for-formatting-tender-submission-documentation"/>
     <title>Instructions for formatting tender submission documentation</title>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;All contracts above £10k are published on &lt;a rel="external" href="http://webarchive.nationalarchives.gov.uk/20121105134522/http://www.contractsfinder.businesslink.gov.uk/?site=1000&amp;amp;lang=en"&gt;Contracts Finder&lt;/a&gt;. To meet online accessibility, usablity and transparency requirements, every reasonable effort must be taken to supply all documentation as rich text format (&lt;abbr title="rich text format"&gt;RTF&lt;/abbr&gt;)/Word and comma separated value (&lt;abbr title="comma separated value"&gt;CSV&lt;/abbr&gt;)/Excel files. &lt;abbr title="rich text format"&gt;RTF&lt;/abbr&gt; and &lt;abbr title="comma separated value"&gt;CSV&lt;/abbr&gt; files are preferred to Word/Excel files as they are non-proprietory, however, it may be acceptable to use Word/Excel files if functionality, formatting or file size is an issue.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/16908</id>
+    <published>2012-11-25T00:00:00+00:00</published>
+    <updated>2012-11-25T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/instructions-for-organisations-producing-reports-for-the-department-for-transport"/>
+    <title>Instructions for organisations producing reports for the Department for Transport</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Organisations contracted to produce reports for the Department for Transport must follow these guidelines. Following these guidelines will help the department meet its online accessibility, usability and transparency obligations.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/16840</id>
@@ -387,71 +421,5 @@ Transport Security Compliance
   &lt;li&gt;changes to who can assess whether someone is under the influence of drugs; and&lt;/li&gt;
   &lt;li&gt;amendments to the regimes for aviation, rail and shipping which mirror the road regime.&lt;/li&gt;
 &lt;/ul&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/16705</id>
-    <published>2012-11-22T00:00:00+00:00</published>
-    <updated>2012-11-22T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/road-goods-vehicles-travelling-to-mainland-europe-quarter-3-2012"/>
-    <title>Road goods vehicles travelling to mainland Europe: quarter 3 2012</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="key-points"&gt;Key points&lt;/h2&gt;
-
-&lt;h3 id="rolling-annual-total"&gt;Rolling Annual total&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;There were 2.43 million goods vehicles travelling from Great Britain to mainland Europe in the four quarters ending Q3 2012. This is a 2.4% decline compared to the four quarters ending Q3 2011 and 16% lower than the peak in 2007. However, the number of goods vehicles travelling from Great Britain to mainland Europe has increased by over 70% in the last 20 years.    &lt;/li&gt;
-  &lt;li&gt;Of these goods vehicles, 1.81 million were powered vehicles and 622 thousand were unaccompanied trailers. Both powered vehicles and unaccompanied trailers have fallen compared to the four quarters ending Q3 2011 by 0.9% and 6.7% respectively.   &lt;/li&gt;
-&lt;/ul&gt;&lt;h3 id="quarter-3-2012"&gt;Quarter 3 2012&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;During quarter 3 2012, 611 thousand goods vehicles travelled from Great Britain to mainland Europe, of which 452 thousand were powered vehicles (an increase of 3.5% on Q3 2011) and 158 thousand were unaccompanied trailers (down 3.1% on Q3 2011). 452 thousand of these goods vehicles were powered vehicles and 154 thousand were unaccompanied trailers, down 2% and 9% respectively on Q2 2011.&lt;/li&gt;
-&lt;/ul&gt;&lt;h2 id="technical-information"&gt;Technical information&lt;/h2&gt;
-
-&lt;p&gt;Information on roll-on, roll-off international freight statistics, including the pre-release access list, and related technical documentation &lt;a href="https://www.gov.uk/technical-guidance-for-transport-stats#roll-on-roll-off-international-freight-statistics"&gt;can be found here&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id="contact-us"&gt;Contact us&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="mailto:maritime.stats@dft.gsi.gov.uk"&gt;maritime.stats@dft.gsi.gov.uk&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Phone: 020 7944 2021&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/16634</id>
-    <published>2012-07-25T01:00:00+01:00</published>
-    <updated>2012-07-25T01:00:00+01:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/consultations/targeted-consultation-on-a-proposed-amendment-to-the-renewable-transport-fuel-obligations-order-2007-as-amended-civil-penalties"/>
-    <title>Targeted consultation on a proposed amendment to the Renewable Transport Fuel Obligations Order 2007 (as amended) - civil penalties</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="summary"&gt;Summary&lt;/h2&gt;
-
-&lt;p&gt;The Renewable Transport Fuel Obligation (&lt;abbr title="Renewable Transport Fuel Obligation"&gt;RTFO&lt;/abbr&gt;) scheme requires suppliers of road transport fuel to ensure that a certain proportion of the fuel they supply comes from sustainable renewable sources. To ensure effective enforcement of the scheme the &lt;abbr title="Renewable Transport Fuel Obligation"&gt;RTFO&lt;/abbr&gt; administrator has powers to issue civil penalties.&lt;/p&gt;
-
-&lt;p&gt;The government is proposing to amend the Renewable Transport Fuel Obligations Order 2007 to put it beyond doubt that civil penalties issued under the scheme are enforceable as civil debts.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/16910</id>
-    <published>2012-11-21T00:00:00+00:00</published>
-    <updated>2012-11-21T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/exceptions-to-the-moratorium-on-discretionary-spend"/>
-    <title>Exceptions to the moratorium on discretionary spend</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="background"&gt;Background&lt;/h2&gt;
-
-&lt;p&gt;The government has introduced a strict moratorium in 5 key areas of discretionary spend:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;consulting&lt;/li&gt;
-  &lt;li&gt;Information and communications technology (ICT)&lt;/li&gt;
-  &lt;li&gt;recruitment&lt;/li&gt;
-  &lt;li&gt;marketing  &lt;/li&gt;
-  &lt;li&gt;property &lt;/li&gt;
-&lt;/ul&gt;&lt;p&gt;Exceptions to the moratoria in key areas are listed in documents.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/17110</id>
-    <published>2012-11-21T00:00:00+00:00</published>
-    <updated>2012-11-21T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/decision-letter-greater-manchester-light-rapid-transit-system"/>
-    <title>Greater Manchester: light rapid transit system (Oldham, Manchester Street modification) decision letter</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Decision letter to authorise a modification to the route of an extension of the Metrolink system near Oldham Town Centre.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
 </feed>

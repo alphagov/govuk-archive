@@ -8,9 +8,27 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-11-28T00:00:00+00:00</updated>
+  <updated>2012-12-03T00:00:00+00:00</updated>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/17476</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/17573</id>
+    <published>2012-12-03T00:00:00+00:00</published>
+    <updated>2012-12-03T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/traffic-authorisations"/>
+    <title>Traffic authorisations</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This Freedom of Information response letter concerns traffic authorisations given to Westminster City Council between 1 January 2000 and 31 December 2010.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/17618</id>
+    <published>2012-12-03T00:00:00+00:00</published>
+    <updated>2012-12-03T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/green-bus-fund-round-4"/>
+    <title>Green Bus Fund round 4</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Green Bus Fund supports bus companies and local authorities in England to help them buy new low carbon buses. Its main purpose is to support and speed up the introduction of hundreds of low carbon buses across England.&lt;/p&gt;
+
+&lt;p&gt;This bidding guidance and documents are intended for bus operators and local authorities who want to submit bids for grant under the 4th round of the government’s Green Bus Fund. The bidding guidance explains the eligibility terms, the bidding process and how bids should be submitted.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/17634</id>
     <published>2012-11-28T00:00:00+00:00</published>
     <updated>2012-11-28T00:00:00+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/department-for-transport-regulated-agents-and-in-flight-suppliers"/>
@@ -61,7 +79,7 @@ Transport Security Compliance
 &lt;br&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/16998</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/17623</id>
     <published>2012-11-27T09:52:40+00:00</published>
     <updated>2012-11-27T09:52:40+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/consultations/speed-limit-exemptions"/>
@@ -102,20 +120,6 @@ Transport Security Compliance
 &lt;/ul&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/16855</id>
-    <published>2012-11-26T00:00:00+00:00</published>
-    <updated>2012-11-26T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/camborne-pool-redruth-stage-1-east-west-link-decision-letter"/>
-    <title>Camborne-Pool-Redruth Stage 1 East-West Link decision letter</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This decision letter features the Secretary of State’s decision on Cornwall Council’s side roads order and compulsory purchase order.&lt;/p&gt;
-
-&lt;h2 id="related-documents"&gt;Related documents&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="http://www.gov.uk/government/publications/camborne-pool-redruth-stage-1-east-west-link-inspectors-report" title="inspectors report"&gt;Camborne-Pool-Redruth Stage 1 East-West Link inspector’s report&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/17238</id>
     <published>2012-11-26T00:00:00+00:00</published>
     <updated>2012-11-26T00:00:00+00:00</updated>
@@ -127,6 +131,20 @@ Transport Security Compliance
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a rel="external" href="http://www.dft.gov.uk/publications?tag=public-register-of-franchise-agreements"&gt;Public Register of Franchise Agreements&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/16855</id>
+    <published>2012-11-26T00:00:00+00:00</published>
+    <updated>2012-11-26T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/camborne-pool-redruth-stage-1-east-west-link-decision-letter"/>
+    <title>Camborne-Pool-Redruth Stage 1 East-West Link decision letter</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This decision letter features the Secretary of State’s decision on Cornwall Council’s side roads order and compulsory purchase order.&lt;/p&gt;
+
+&lt;h2 id="related-documents"&gt;Related documents&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.gov.uk/government/publications/camborne-pool-redruth-stage-1-east-west-link-inspectors-report" title="inspectors report"&gt;Camborne-Pool-Redruth Stage 1 East-West Link inspector’s report&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
@@ -180,20 +198,20 @@ Transport Security Compliance
 &lt;p&gt;The government is proposing to amend the Renewable Transport Fuel Obligations Order 2007 to put it beyond doubt that civil penalties issued under the scheme are enforceable as civil debts.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/16627</id>
-    <published>2012-11-21T00:00:00+00:00</published>
-    <updated>2012-11-21T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/contact-telephone-numbers-for-crosscountry-rail"/>
-    <title>Contact telephone numbers for Crosscountry rail</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Freedom of Information request regarding geographical contact telephone numbers for Crosscountry&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/17110</id>
     <published>2012-11-21T00:00:00+00:00</published>
     <updated>2012-11-21T00:00:00+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/decision-letter-greater-manchester-light-rapid-transit-system"/>
     <title>Greater Manchester: light rapid transit system (Oldham, Manchester Street modification) decision letter</title>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Decision letter to authorise a modification to the route of an extension of the Metrolink system near Oldham Town Centre.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/16627</id>
+    <published>2012-11-21T00:00:00+00:00</published>
+    <updated>2012-11-21T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/contact-telephone-numbers-for-crosscountry-rail"/>
+    <title>Contact telephone numbers for Crosscountry rail</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Freedom of Information request regarding geographical contact telephone numbers for Crosscountry&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/16458</id>
@@ -211,14 +229,6 @@ Transport Security Compliance
 &lt;/ul&gt;&lt;p&gt;The draft designation orders which we are are consulting on here append plan(s) outlining the area which the port security authority will have responsibility over.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/16298</id>
-    <published>2012-11-19T00:00:00+00:00</published>
-    <updated>2012-11-19T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/street-lighting"/>
-    <title>Street lighting</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Freedom of Information response regarding the switching off of street lighting on sections of some roads.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/16370</id>
     <published>2012-11-19T00:00:00+00:00</published>
     <updated>2012-11-19T00:00:00+00:00</updated>
@@ -227,6 +237,14 @@ Transport Security Compliance
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;These model ship plans will help company and ship security officers to compile a ship security plan (SSP) under the International Ship and Port Facility Security (ISPS) Code, for agreement and verification by the Department for Transport. &lt;/p&gt;
 
 &lt;p&gt;The documents are cruise ship and ro-ro (roll-on/roll-off) passenger ferry templates. A &lt;a rel="external" href="http://www.dft.gov.uk/mca/mcga07-home/shipsandcargoes/mcga-shipsregsandguidance/mcga_dops_maritimesecurity_mainpage/dops_ms-guidance/mcga_dops_msb_ssp/dops_msb__model_ship_security_plan.htm"&gt;template for use with cargo ships&lt;/a&gt; is available on the &lt;a rel="external" href="http://www.dft.gov.uk/mca/"&gt;Maritime and Coastguard website&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/16298</id>
+    <published>2012-11-19T00:00:00+00:00</published>
+    <updated>2012-11-19T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/street-lighting"/>
+    <title>Street lighting</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Freedom of Information response regarding the switching off of street lighting on sections of some roads.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/16093</id>
@@ -322,138 +340,5 @@ Fax: +44 (0)20 7944 2194&lt;/p&gt;
   &lt;li&gt;&lt;a rel="external" href="http://www.dft.gov.uk/publications/aviation-permits-doc-requirements-foreign-airlines-aircraft"&gt;Aviation Permits - documentary requirements for foreign airlines/aircraft&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a rel="external" href="http://www.dft.gov.uk/publications/extra-bilateral-flight-application-procedures/"&gt;Extra-bilateral flight application procedures&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/14151</id>
-    <published>2012-11-10T00:00:00+00:00</published>
-    <updated>2012-11-10T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/maritime-statistics-directive-reporting-guidance"/>
-    <title>Maritime Statistics Directive reporting guidance</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="summary"&gt;Summary&lt;/h2&gt;
-
-&lt;p&gt;Help for shipping lines, their agents and ports to complete statistical returns on maritime freight traffic through ports, as required by the European Commission Maritime Statistics Directive (95/64/EU).&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a rel="external" href="http://webarchive.nationalarchives.gov.uk/20120606215114/http://www.dft.gov.uk/publications/ecmsd-rules-and-code-lists/"&gt;administrative rules and code lists&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a rel="external" href="http://webarchive.nationalarchives.gov.uk/20120606215114/http://www.dft.gov.uk/publications/ecmsd-submission-methods/"&gt;submission methods&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a rel="external" href="http://webarchive.nationalarchives.gov.uk/20120606215114/http://www.dft.gov.uk/publications/ecmsd-faqs/"&gt;frequently asked questions&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;h2 id="what-is-the-maritime-statistics-directive"&gt;What is the Maritime Statistics Directive?&lt;/h2&gt;
-
-&lt;p&gt;The Maritime Statistics Directive is a piece of European Union legislation passed in December 1995 &lt;a rel="external" href="http://eur-lex.europa.eu/smartapi/cgi/sga_doc?smartapi!celexplus!prod!CELEXnumdoc&amp;amp;lg=EN&amp;amp;numdoc=31995L0064"&gt;Council Directive 96/64/EC&lt;/a&gt; which requires Member States to supply to the Statistical Office of the European Communities (Eurostat) information relating to maritime traffic through its’ ports. The UK has been required to report data under the Directive since 1 January 2000. The &lt;a rel="external" href="http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:141:0029:0047:EN:PDF"&gt;directive was ‘recast’&lt;/a&gt; in 2009, bringing together the original directive and various subsequent amendments in one document.&lt;/p&gt;
-
-&lt;h2 id="is-the-provision-of-data-obligatory"&gt;Is the provision of data obligatory?&lt;/h2&gt;
-
-&lt;p&gt;Yes. The directive requires the government to make collection obligatory in the United Kingdom. The legal powers in the UK are by means of a &lt;a rel="external" href="http://www.legislation.gov.uk/uksi/1997/2330/contents/made"&gt;statutory instrument&lt;/a&gt; under section 2(2) of the European Communities Act 1972. The statutory instrument (number 2330 of 1997) obliges all relevant bodies in the transport industry to provide data to &lt;abbr title="Department for Transport"&gt;DfT&lt;/abbr&gt; for onward transmission to Eurostat.&lt;/p&gt;
-
-&lt;h2 id="who-has-to-provide-the-data"&gt;Who has to provide the data?&lt;/h2&gt;
-
-&lt;p&gt;Although the statutory instrument requires all relevant transport organisations to provide the data, the detailed data has to be provided by the shipping lines or their agents for freight movements through major UK ports (i.e. those handling more than one million tonnes of freight per annum). In addition, port authorities at major ports have to provide quarterly aggregated data to confirm the completeness of the data collected from shipping lines/agents.
-At minor ports (those handling less than 1 million tonnes) only annual aggregate figures are required from port authorities.&lt;/p&gt;
-
-&lt;h2 id="why-are-the-data-collected"&gt;Why are the data collected?&lt;/h2&gt;
-
-&lt;p&gt;The data collected under the directive are used by the European Commission to assist in policy development at a European level and to monitor the impact of European policy measures.&lt;/p&gt;
-
-&lt;p&gt;But the UK government has collected statistics on port traffic in the UK since longer before the Directive came in. These have been used by government, business and the wider public in developing and debating maritime transport policy and in planning operations and new ventures. The effect of the Directive was to change the detail of what was already collected in the UK and introduce much more consistency in European port statistics.&lt;/p&gt;
-
-&lt;h2 id="who-is-responsible-for-ensuring-collection-of-data-in-the-uk"&gt;Who is responsible for ensuring collection of data in the UK?&lt;/h2&gt;
-
-&lt;p&gt;The government department with overall responsibility for the data collection is the Department for Transport, (&lt;abbr title="Department for Transport"&gt;DfT&lt;/abbr&gt;). It employs a collection agent, BMT Reliability consultants, to carry out the day-to-day operation of the data collection activity.&lt;/p&gt;
-
-&lt;h2 id="where-can-i-find-the-results-from-the-data-collected"&gt;Where can I find the results from the data collected?&lt;/h2&gt;
-
-&lt;p&gt;The Department for Transport publishes UK data. Eurostat publishes &lt;a rel="external" href="http://epp.eurostat.ec.europa.eu/portal/page/portal/eurostat/home"&gt;Europe-wide data&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id="what-data-has-to-be-collected-and-how-often"&gt;What data has to be collected and how often?&lt;/h2&gt;
-
-&lt;p&gt;The Directive requires the collection of statistics on freight traffic, vessels and passenger traffic through ports throughout the European Union. The &lt;abbr title="Department for Transport"&gt;DfT&lt;/abbr&gt; has the means to collect data on vessels and passenger traffic separately, so the system described here relates to the requirements for freight traffic only.&lt;/p&gt;
-
-&lt;p&gt;Data relating to freight traffic is only being collected in detail for UK ports handling more than one million tonnes of freight per annum (‘major ports’). This detailed data includes:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;the reporting port;&lt;/li&gt;
-  &lt;li&gt;the Lloyds Register Number (or IMO Number) for the vessel (or name, flag and deadweight);&lt;/li&gt;
-  &lt;li&gt;the direction of movement (inwards or outwards);&lt;/li&gt;
-  &lt;li&gt;port of loading for inwards cargo or unloading for outwards cargo;&lt;/li&gt;
-  &lt;li&gt;for unitised traffic the type of units (container, accompanied trailer, unaccompanied trailer etc.);&lt;/li&gt;
-  &lt;li&gt;whether they are loaded or empty units;&lt;/li&gt;
-  &lt;li&gt;the number of units and the freight tonnage;&lt;/li&gt;
-  &lt;li&gt;for other traffic, the broad product group and freight tonnage.&lt;/li&gt;
-&lt;/ul&gt;&lt;p&gt;This data has to be provided at least quarterly and is being collected primarily from shipping lines or their agents.&lt;/p&gt;
-
-&lt;p&gt;In addition, the ‘major’ port authorities (where traffic exceeds one million tonnes per annum) are providing the following information on a ‘retrospective’ quarterly basis:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;the names of all shipping lines and agents using their port;&lt;/li&gt;
-  &lt;li&gt;the identity of all vessels using their port; and&lt;/li&gt;
-  &lt;li&gt;the gross weight and number of units of goods in and out of their port.&lt;/li&gt;
-&lt;/ul&gt;&lt;p&gt;Data for other ports, handling less than one million tonnes a year, is being provided only annually in summary form by port authorities. 
-For more see &lt;a rel="external" href="http://www.dft.gov.uk/publications/ecmsd-rules-and-code-lists/"&gt;administrative rules&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id="how-are-the-data-collected-in-the-uk"&gt;How are the data collected in the UK?&lt;/h2&gt;
-
-&lt;p&gt;These range of options are available by which data providers can supply the data:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;by sending the data automatically via a Port Community System&lt;/li&gt;
-  &lt;li&gt;by entering the data through web based forms (iSDES)&lt;/li&gt;
-  &lt;li&gt;by submitting ASCII data files in a &lt;abbr title="Department for Transport"&gt;DfT&lt;/abbr&gt; approved format&lt;/li&gt;
-  &lt;li&gt;by completing paper forms&lt;/li&gt;
-&lt;/ul&gt;&lt;p&gt;The collection agency provide a central database to collect and store the data received by these methods, ready for transmission to &lt;abbr title="Department for Transport"&gt;DfT&lt;/abbr&gt;.&lt;/p&gt;
-
-&lt;p&gt;For more details see &lt;a rel="external" href="http://www.dft.gov.uk/publications/ecmsd-submission-methods/"&gt;submission methods&lt;/a&gt; and &lt;a rel="external" href="http://www.dft.gov.uk/publications/ecmsd-rules-and-code-lists/"&gt;administrative rules&lt;/a&gt;.     &lt;/p&gt;
-
-&lt;h2 id="how-can-i-get-further-information"&gt;How can I get further information?&lt;/h2&gt;
-
-&lt;p&gt;You can obtain further information from the contacts listed below.&lt;/p&gt;
-
-&lt;h2 id="contact-us"&gt;Contact us&lt;/h2&gt;
-&lt;p&gt;For enquiries about statistical results or general data collection policy please contact:&lt;/p&gt;
-
-&lt;div class="address"&gt;&lt;div class="adr org fn"&gt;&lt;p&gt;
-
-Department for Transport.
-&lt;br&gt;Maritime Statistics Help Desk
-&lt;br&gt;Maritime Statistics Collection Agency
-&lt;br&gt;BMT Reliability Consultants Limited
-&lt;br&gt;12 Little Park Farm Road
-&lt;br&gt;Fareham
-&lt;br&gt;Hampshire
-&lt;br&gt;PO15 5SU
-&lt;br&gt;Tel: 01489 553290
-&lt;br&gt;Fax: 01489 553291
-&lt;br&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;To ask questions/send messages to the help desk:
-&lt;a href="help@maritimestatistics.co.uk"&gt;help@maritimestatistics.co.uk&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;For help with providing data please contact the Maritime Statistics Help Desk.&lt;/p&gt;
-
-&lt;p&gt;To submit data:
-&lt;a href="data@maritimestatistics.co.uk"&gt;data@maritimestatistics.co.uk&lt;/a&gt;&lt;/p&gt;
-
-&lt;div class="address"&gt;&lt;div class="adr org fn"&gt;&lt;p&gt;
-
-Department for Transport
-&lt;br&gt;Maritime Statistics Branch
-&lt;br&gt;Department for Transport
-&lt;br&gt;Zone 2/19
-&lt;br&gt;Great Minster House
-&lt;br&gt;76 Marsham Street
-&lt;br&gt;London
-&lt;br&gt;SW1P 4DR
-&lt;br&gt;Tel: 020 7944 3087
-&lt;br&gt;Fax: 020 7944 2165
-&lt;br&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;&lt;a href="maritime.statistics@dft.gsi.gov.uk"&gt;maritime.statistics@dft.gsi.gov.uk&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/12799</id>
-    <published>2012-11-07T00:00:00+00:00</published>
-    <updated>2012-11-07T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/additional-car-parking-at-bedwyn-station"/>
-    <title>Additional car parking at Bedwyn station</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This Freedom of Information response letter and supporting material concern additional car parking at Bedwyn station.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
 </feed>

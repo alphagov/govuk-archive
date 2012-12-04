@@ -8,7 +8,31 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-11-21T00:00:00+00:00</updated>
+  <updated>2012-12-03T00:00:00+00:00</updated>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/17290</id>
+    <published>2012-12-03T00:00:00+00:00</published>
+    <updated>2012-12-03T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/ministerial-photographs"/>
+    <title>Ministerial photographs</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This Freedom of Information response details photographs of the Department for Transport’s ministers commissioned since May 2010.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/17298</id>
+    <published>2012-12-03T00:00:00+00:00</published>
+    <updated>2012-12-03T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/legal-advice-expenditure"/>
+    <title>Legal advice expenditure</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Freedom of Information response concerning departmental spend on seeking legal advice.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/17573</id>
+    <published>2012-12-03T00:00:00+00:00</published>
+    <updated>2012-12-03T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/traffic-authorisations"/>
+    <title>Traffic authorisations</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This Freedom of Information response letter concerns traffic authorisations given to Westminster City Council between 1 January 2000 and 31 December 2010.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/16627</id>
     <published>2012-11-21T00:00:00+00:00</published>
@@ -24,6 +48,14 @@
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/street-lighting"/>
     <title>Street lighting</title>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Freedom of Information response regarding the switching off of street lighting on sections of some roads.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/15338</id>
+    <published>2012-11-13T00:00:00+00:00</published>
+    <updated>2012-11-13T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/car-theory-and-practical-driving-tests-taken-in-london"/>
+    <title>Car theory and practical driving tests taken in London</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Information about car theory and practical driving tests taken in London.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/15331</id>
@@ -42,12 +74,12 @@
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Information about the cost of the Driver CPC recording and evidencing database.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/15320</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/15340</id>
     <published>2012-11-13T00:00:00+00:00</published>
     <updated>2012-11-13T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/occurrences-where-a-candidate-has-failed-to-attend-their-driving-test"/>
-    <title>Occurrences where a candidate has failed to attend their driving test</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Information about occurrences where a candidate has failed to attend their driving test.&lt;/p&gt;&lt;/div&gt;</content>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/car-theory-and-practical-driving-tests-passed-on-6-or-more-attempts-at-stoke-on-trent"/>
+    <title>Car theory and practical driving tests passed on 6 or more attempts at Stoke on Trent</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Information about car theory and practical driving tests passed on 6 or more attempts at Stoke on Trent.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/15335</id>
@@ -66,20 +98,12 @@
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Information about DVLA medical driver appraisals completed by DSA.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/15338</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/15320</id>
     <published>2012-11-13T00:00:00+00:00</published>
     <updated>2012-11-13T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/car-theory-and-practical-driving-tests-taken-in-london"/>
-    <title>Car theory and practical driving tests taken in London</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Information about car theory and practical driving tests taken in London.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/15340</id>
-    <published>2012-11-13T00:00:00+00:00</published>
-    <updated>2012-11-13T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/car-theory-and-practical-driving-tests-passed-on-6-or-more-attempts-at-stoke-on-trent"/>
-    <title>Car theory and practical driving tests passed on 6 or more attempts at Stoke on Trent</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Information about car theory and practical driving tests passed on 6 or more attempts at Stoke on Trent.&lt;/p&gt;&lt;/div&gt;</content>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/occurrences-where-a-candidate-has-failed-to-attend-their-driving-test"/>
+    <title>Occurrences where a candidate has failed to attend their driving test</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Information about occurrences where a candidate has failed to attend their driving test.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/12799</id>
@@ -144,29 +168,5 @@
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/meetings-between-the-secretary-of-state-and-bombardier"/>
     <title>Meetings between the Secretary of State and Bombardier</title>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Response concerning meetings between the Secretary of State and Bombardier and material relating to High Speed 2.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/13026</id>
-    <published>2012-10-29T00:00:00+00:00</published>
-    <updated>2012-10-29T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/official-photographs-of-ministers"/>
-    <title>Official photographs of ministers</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Freedom of information response letter regarding official photographs of ministers.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/13334</id>
-    <published>2012-10-25T00:00:00+01:00</published>
-    <updated>2012-10-25T00:00:00+01:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/costs-of-hs2-spur-to-heathrow"/>
-    <title>Costs of HS2 spur to Heathrow</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Freedom of Information response regarding costs of the High Speed 2 spur to Heathrow.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/13057</id>
-    <published>2012-10-19T00:00:00+01:00</published>
-    <updated>2012-10-19T00:00:00+01:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/car-practical-driving-tests-at-trowbridge-westbury-chippenham-and-swindon"/>
-    <title>Car practical driving tests at Trowbridge, Westbury, Chippenham and Swindon</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Information about car practical driving tests at Trowbridge, Westbury, Chippenham and Swindon.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
 </feed>

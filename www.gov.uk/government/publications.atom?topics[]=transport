@@ -8,7 +8,25 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-11-28T00:00:00+00:00</updated>
+  <updated>2012-12-03T00:00:00+00:00</updated>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/17573</id>
+    <published>2012-12-03T00:00:00+00:00</published>
+    <updated>2012-12-03T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/traffic-authorisations"/>
+    <title>Traffic authorisations</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This Freedom of Information response letter concerns traffic authorisations given to Westminster City Council between 1 January 2000 and 31 December 2010.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/17618</id>
+    <published>2012-12-03T00:00:00+00:00</published>
+    <updated>2012-12-03T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/green-bus-fund-round-4"/>
+    <title>Green Bus Fund round 4</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Green Bus Fund supports bus companies and local authorities in England to help them buy new low carbon buses. Its main purpose is to support and speed up the introduction of hundreds of low carbon buses across England.&lt;/p&gt;
+
+&lt;p&gt;This bidding guidance and documents are intended for bus operators and local authorities who want to submit bids for grant under the 4th round of the government’s Green Bus Fund. The bidding guidance explains the eligibility terms, the bidding process and how bids should be submitted.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/17200</id>
     <published>2012-11-28T00:00:00+00:00</published>
@@ -24,7 +42,7 @@
 &lt;p&gt;The new centre is easily accessible via the network of main roads in the area. It’s located 4.2 miles away from the original centre. &lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/17476</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/17634</id>
     <published>2012-11-28T00:00:00+00:00</published>
     <updated>2012-11-28T00:00:00+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/department-for-transport-regulated-agents-and-in-flight-suppliers"/>
@@ -135,7 +153,7 @@ Transport Security Compliance
 &lt;/table&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/16998</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/17623</id>
     <published>2012-11-27T09:52:40+00:00</published>
     <updated>2012-11-27T09:52:40+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/consultations/speed-limit-exemptions"/>
@@ -274,20 +292,20 @@ Transport Security Compliance
 &lt;p&gt;The government is proposing to amend the Renewable Transport Fuel Obligations Order 2007 to put it beyond doubt that civil penalties issued under the scheme are enforceable as civil debts.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/17110</id>
-    <published>2012-11-21T00:00:00+00:00</published>
-    <updated>2012-11-21T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/decision-letter-greater-manchester-light-rapid-transit-system"/>
-    <title>Greater Manchester: light rapid transit system (Oldham, Manchester Street modification) decision letter</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Decision letter to authorise a modification to the route of an extension of the Metrolink system near Oldham Town Centre.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/16627</id>
     <published>2012-11-21T00:00:00+00:00</published>
     <updated>2012-11-21T00:00:00+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/contact-telephone-numbers-for-crosscountry-rail"/>
     <title>Contact telephone numbers for Crosscountry rail</title>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Freedom of Information request regarding geographical contact telephone numbers for Crosscountry&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/17110</id>
+    <published>2012-11-21T00:00:00+00:00</published>
+    <updated>2012-11-21T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/decision-letter-greater-manchester-light-rapid-transit-system"/>
+    <title>Greater Manchester: light rapid transit system (Oldham, Manchester Street modification) decision letter</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Decision letter to authorise a modification to the route of an extension of the Metrolink system near Oldham Town Centre.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/16458</id>
@@ -329,49 +347,5 @@ Transport Security Compliance
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/consultations/channel-tunnel-transposition-of-railway-safety-and-interoperability-directives"/>
     <title>Channel Tunnel: transposition of railway safety and interoperability directives</title>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;We are currently seeking views on whether to transpose the requirements of 3 European directives on railway safety and interoperability so that these provisions are in force for the Channel Tunnel. In recognition of the Tunnel’s cross-border nature these we would like to incorporate the provisions of these railway safety and interoperability directives by making amendments to the Channel Tunnel (Safety) Order 2007.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/16253</id>
-    <published>2012-11-15T00:00:00+00:00</published>
-    <updated>2012-11-15T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/driver-certificate-of-professional-competence-cpc-statistics"/>
-    <title>Driver Certificate of Professional Competence (CPC) statistics</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="about-these-statistics"&gt;About these statistics&lt;/h2&gt;
-&lt;p&gt;These operational statistics about Driver Certificate of Professional (&lt;abbr title="Certificate of Professional Competence"&gt;CPC&lt;/abbr&gt;) modules and training have not been designated as an official statistic.&lt;/p&gt;
-
-&lt;p&gt;The statistics come from data held by the Driving Standards Agency (&lt;abbr title="Driving Standards Agency"&gt;DSA&lt;/abbr&gt;), and are compiled and published by staff in &lt;abbr title="Driving Standards Agency"&gt;DSA&lt;/abbr&gt;.&lt;/p&gt;
-
-&lt;h2 id="information-you-cannot-find"&gt;Information you cannot find&lt;/h2&gt;
-&lt;p&gt;If you cannot find the information you need, it may have been:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;published in &lt;a href="/government/publications?utf8=%E2%9C%93&amp;amp;topics%5B%5D=all&amp;amp;departments%5B%5D=driving-standards-agency&amp;amp;publication_type=foi-releases" title="Responses to FOI requests"&gt;response to an Freedom of Information (&lt;abbr title="Freedom of Information"&gt;FOI&lt;/abbr&gt;) request&lt;/a&gt;
-&lt;/li&gt;
-  &lt;li&gt;designated as an &lt;a href="/government/organisations/department-for-transport/series/driving-tests-and-instructors-statistics" title="Official driving test statistics"&gt;official statistic&lt;/a&gt;
-&lt;/li&gt;
-&lt;/ul&gt;&lt;p&gt;You can &lt;a rel="external" href="https://www.dft.gov.uk/foi/form/" title="Send an FOI request"&gt;send an &lt;abbr title="Freedom of Information"&gt;FOI&lt;/abbr&gt; request&lt;/a&gt; if you still cannot find the information you need.&lt;/p&gt;
-
-&lt;h2 id="information-that-cannot-be-released"&gt;Information that cannot be released&lt;/h2&gt;
-&lt;p&gt;&lt;abbr title="Driving Standards Agency"&gt;DSA&lt;/abbr&gt; cannot send you information if it is part of an official statistic that has not yet been published. This is because the &lt;a rel="external" href="http://www.legislation.gov.uk/uksi/2008/2998/contents/made" title="Pre-release Access to Official Statistics Order 2008"&gt;Pre-release Access to Official Statistics Order 2008&lt;/a&gt; limits access to official statistics until they are published.&lt;/p&gt;
-
-&lt;h2 id="downloads"&gt;Downloads&lt;/h2&gt;
-&lt;p&gt;These older statistics are available from the The National Archives:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a rel="external" href="http://webarchive.nationalarchives.gov.uk/20121105135246/http://assets.dft.gov.uk/publications/dsa-practical-test-statistics-driver-cpc/dsa-driver-cpc-statistics-2011-12.csv"&gt;Driver &lt;abbr title="Certificate of Professional Competence"&gt;CPC&lt;/abbr&gt; periodic training, driver qualification cards and centre and course approvals (2011 to 2012)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a rel="external" href="http://webarchive.nationalarchives.gov.uk/20121105135246/http://assets.dft.gov.uk/publications/dsa-practical-test-statistics-driver-cpc/dsa-driver-cpc-statistics-2010-11.csv"&gt;Driver &lt;abbr title="Certificate of Professional Competence"&gt;CPC&lt;/abbr&gt; periodic training, driver qualification cards and centre and course approvals (2010 to 2011)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a rel="external" href="http://webarchive.nationalarchives.gov.uk/20121105135246/http://assets.dft.gov.uk/publications/dsa-practical-test-statistics-driver-cpc/dsa-driver-cpc-statistics-2009-10.csv"&gt;Driver &lt;abbr title="Certificate of Professional Competence"&gt;CPC&lt;/abbr&gt; periodic training, driver qualification cards and centre and course approvals (2009 to 2010)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a rel="external" href="http://webarchive.nationalarchives.gov.uk/20121105135246/http://assets.dft.gov.uk/publications/dsa-practical-test-statistics-driver-cpc/dsa_conducted_module_4_cpc_pass_rate_09-10.pdf"&gt;Driver &lt;abbr title="Certificate of Professional Competence"&gt;CPC&lt;/abbr&gt; module 4 pass rate (2009 to 2010)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a rel="external" href="http://webarchive.nationalarchives.gov.uk/20121105135246/http://assets.dft.gov.uk/publications/dsa-practical-test-statistics-driver-cpc/dsa-driver-cpc-statistics-2008-09.csv"&gt;Driver &lt;abbr title="Certificate of Professional Competence"&gt;CPC&lt;/abbr&gt; periodic training, driver qualification cards and centre and course approvals (2008 to 2009)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a rel="external" href="http://webarchive.nationalarchives.gov.uk/20121105135246/http://assets.dft.gov.uk/publications/dsa-practical-test-statistics-driver-cpc/dsa_conducted_module_4_cpc_pass_rate_08-09.pdf"&gt;Driver &lt;abbr title="Certificate of Professional Competence"&gt;CPC&lt;/abbr&gt; module 4 pass rate (2008 to 2009)&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/15320</id>
-    <published>2012-11-13T00:00:00+00:00</published>
-    <updated>2012-11-13T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/occurrences-where-a-candidate-has-failed-to-attend-their-driving-test"/>
-    <title>Occurrences where a candidate has failed to attend their driving test</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Information about occurrences where a candidate has failed to attend their driving test.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
 </feed>

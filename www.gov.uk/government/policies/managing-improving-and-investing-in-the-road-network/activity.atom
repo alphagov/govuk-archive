@@ -8,7 +8,16 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-11-27T09:56:00+00:00</updated>
+  <updated>2012-12-03T00:00:00+00:00</updated>
+  <entry>
+    <id>tag:www.gov.uk,2005:Publication/17573</id>
+    <published>2012-12-03T00:00:00+00:00</published>
+    <updated>2012-12-03T09:31:08+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/traffic-authorisations"/>
+    <title>Traffic authorisations</title>
+    <category>Publication</category>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This Freedom of Information response letter concerns traffic authorisations given to Westminster City Council between 1 January 2000 and 31 December 2010.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
   <entry>
     <id>tag:www.gov.uk,2005:NewsArticle/17387</id>
     <published>2012-11-27T09:56:00+00:00</published>
@@ -57,7 +66,7 @@ Public enquiries: 0300 330 3000&lt;/p&gt;
 &lt;/ul&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:Consultation/16998</id>
+    <id>tag:www.gov.uk,2005:Consultation/17623</id>
     <published>2012-11-27T09:52:40+00:00</published>
     <updated>2012-11-27T09:52:40+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/consultations/speed-limit-exemptions"/>
@@ -266,49 +275,5 @@ Public Enquiries: 0300 330 3000&lt;/p&gt;&lt;/div&gt;</content>
     <title>Street lighting</title>
     <category>Publication</category>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Freedom of Information response regarding the switching off of street lighting on sections of some roads.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:NewsArticle/16037</id>
-    <published>2012-11-13T10:35:00+00:00</published>
-    <updated>2012-11-13T10:35:28+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/consultation-to-scrap-motor-insurance-certificates-launched"/>
-    <title>Consultation to scrap motor insurance certificates launched</title>
-    <category>News Article</category>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Drivers could benefit from less motor insurance red tape after a government consultation to scrap the legal requirement to issue certificates was launched today.&lt;/p&gt;
-
-&lt;p&gt;The 8 week exercise will seek the views of the industry, motorists and other stakeholders on the benefits of moving towards a purely online system.&lt;/p&gt;
-
-&lt;p&gt;Under current law, insurance companies must issue a paper or electronic certificate when agreeing a policy. However, many organisations, including the police and vehicle rental companies, already rely on information stored on the Motor Insurer’s Database (MID) as evidence of valid insurance.&lt;/p&gt;
-
-&lt;p&gt;Roads Minister Stephen Hammond said:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;More and more people are using technology to organise their everyday lives so it is only right we look at how we can make life easier for motorists and industry.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;That is why we are launching a consultation to scrap the legal requirement for insurance certificates to be issued and consolidate a system whereby all information is online.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;This has the potential to make significant savings down the line which I hope will be passed on to policyholders. It will also make the lives of motorists and police easier.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Benefits to moving to an online system include:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;motorists will no longer be forced to retain certificates as details will be accessible online. This will remove the legal requirement whereby vehicle owners are required to return their certificates to insurance companies in order to cancel the policy&lt;/li&gt;
-  &lt;li&gt;police and the commercial motor industry would be better able to check details at source, instead of relying on policyholder documents which can be forged. The Police already use a download of the MID to identify uninsured drivers on the road.
-If the consultation is successful then the Department would look to repeal the current law&lt;/li&gt;
-&lt;/ul&gt;&lt;p&gt;The proposal is part of the government’s Red Tape Challenge, which invited the public and stakeholders to give their views on which regulations should stay, be improved, or be scrapped altogether.&lt;/p&gt;
-
-&lt;h2 id="notes-to-editors"&gt;Notes to editors&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;the &lt;a href="https://www.gov.uk/government/consultations/removal-of-motor-insurance-certificates"&gt;consultation document&lt;/a&gt; is available on the DfT website&lt;/li&gt;
-  &lt;li&gt;the department proposes to amend s147 (1) of the Road Traffic Act 1988 to remove the need for insurers to issue motor insurance certificates (whether issued as a paper document or electronically)&lt;/li&gt;
-  &lt;li&gt;the Association of British Insurers (ABI) estimate the cost of producing each certificate is about £1 and around 34.2 million insurance documents are issued per annum.&lt;/li&gt;
-&lt;/ul&gt;&lt;p&gt;Press Enquiries: 020 7944 3066 &lt;br&gt;
-Out of Hours: 020 7944 4292 &lt;br&gt;
-Public Enquiries: 0300 330 3000&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
 </feed>
