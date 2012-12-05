@@ -8,14 +8,27 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-11-23T00:00:00+00:00</updated>
+  <updated>2012-12-04T00:00:00+00:00</updated>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/16819</id>
-    <published>2012-11-23T00:00:00+00:00</published>
-    <updated>2012-11-23T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/dclg-exceptions-to-spending-controls-1-april-2012-to-30-september-2012"/>
-    <title>DCLG exceptions to spending controls: 1 April 2012 to 30 September 2012</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Approved spending for Department for Communities and Local Government for 1 April 2012 to 30 September 2012.&lt;/p&gt;&lt;/div&gt;</content>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/17656</id>
+    <published>2012-12-04T00:00:00+00:00</published>
+    <updated>2012-12-04T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/dclg-business-plan-quarterly-data-summary-quarter-1-2012-to-2013"/>
+    <title>DCLG business plan quarterly data summary: quarter 1 2012 to 2013</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Under the new quarterly data summary framework departments’ spending data is published every quarter; to show the taxpayer how the government is spending their money. &lt;/p&gt;
+
+&lt;p&gt;The &lt;abbr title="quarterly data summary"&gt;QDS&lt;/abbr&gt; grew out of commitments made in the 2011 Budget and the written ministerial statement on business plans. For the financial year 2012 to 2013 the &lt;abbr title="quarterly data summary"&gt;QDS&lt;/abbr&gt; has been revised and improved in line with Action 9 of the &lt;a rel="external" href="http://www.civilservice.gov.uk/reform"&gt;Civil Service Reform Plan&lt;/a&gt; to provide a common set of data that will enable comparisons of operational performance across government so that departments and individuals can be held to account.&lt;/p&gt;
+
+&lt;p&gt;The &lt;abbr title="quarterly data summary"&gt;QDS&lt;/abbr&gt; breaks down the total spend of the department in 3 ways: by budget, by internal operation and by transaction. At the moment this data is published by individual departments in Excel format, however, in the future the intention is to make this data available centrally through an online application. &lt;/p&gt;
+
+&lt;p&gt;Over time we will be making further improvements to the quality of the data and its timeliness. We expect that with time this process will allow the public to better understand the performance of each department and government operations in a meaningful way.&lt;/p&gt;
+
+&lt;p&gt;The &lt;abbr title="quarterly data summary"&gt;QDS&lt;/abbr&gt; template is the same for all departments, though the individual detail of grants and policy will differ from department to department. In using this data:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;People should ensure they take full note of the caveats noted in each department’s return.&lt;/li&gt;
+  &lt;li&gt;As the improvement of the &lt;abbr title="quarterly data summary"&gt;QDS&lt;/abbr&gt; is an ongoing process data quality and completeness will be developed over time and therefore necessary caution should be applied to any comparative analysis undertaken. &lt;/li&gt;
+&lt;/ol&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/16838</id>
@@ -24,6 +37,14 @@
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/queen-elizabeth-ii-conference-centre-expenditure-october-2012"/>
     <title>Queen Elizabeth II Conference Centre expenditure: October 2012</title>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Spending over £250 for the Queen Elizabeth II Conference Centre for October 2012.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/16819</id>
+    <published>2012-11-23T00:00:00+00:00</published>
+    <updated>2012-11-23T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/dclg-exceptions-to-spending-controls-1-april-2012-to-30-september-2012"/>
+    <title>DCLG exceptions to spending controls: 1 April 2012 to 30 September 2012</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Approved spending for Department for Communities and Local Government for 1 April 2012 to 30 September 2012.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/16401</id>
@@ -42,12 +63,118 @@
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Improvement notice issued to Walsall Metropolitan Borough Council by the Department for Education.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/15139</id>
+    <published>2012-11-13T00:00:00+00:00</published>
+    <updated>2012-11-13T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/dclg-special-advisers-data-july-to-september-2011"/>
+    <title>DCLG special advisers data: July to September 2011</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Details of meetings between special advisers to the DCLG and media and business representatives, as well as of gifts and hospitality received by them. This data supports the government’s commitment to transparency and covers the period from July to September 2011.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/15148</id>
+    <published>2012-11-13T00:00:00+00:00</published>
+    <updated>2012-11-13T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/dclg-special-advisers-data-october-to-december-2011"/>
+    <title>DCLG special advisers data: October to December 2011</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Details of meetings between special advisers to the DCLG and media and business representatives, as well as of gifts and hospitality received by them. This data supports the government’s commitment to transparency and covers the period from October and December 2011.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/15144</id>
+    <published>2012-11-13T00:00:00+00:00</published>
+    <updated>2012-11-13T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/dclg-special-advisers-data-october-to-december-2010"/>
+    <title>DCLG special advisers data: October to December 2010</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Details of meetings between special advisers to the DCLG and media and business representatives, as well as of gifts and hospitality received by them. This data supports the government’s commitment to transparency and covers the period from October to December 2010.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/15141</id>
     <published>2012-11-13T00:00:00+00:00</published>
     <updated>2012-11-13T00:00:00+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/dclg-special-advisers-data-may-to-july-2010"/>
     <title>DCLG special advisers data: May to July 2010</title>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Details of meetings between special advisers to the DCLG and media and business representatives, as well as of gifts and hospitality received by them. This data supports the government’s commitment to transparency and covers the period from May to July 2010.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/15991</id>
+    <published>2012-11-13T00:00:00+00:00</published>
+    <updated>2012-11-13T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/dclg-public-data-and-transparency-programme-board"/>
+    <title>DCLG Public Data and Transparency Programme Board</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;We are committed to transparency within government. We have gone beyond the commitments set out by the Prime Minister in 2010, in particular by publishing spend over £250 and spend on the Government Procurement Card. &lt;/p&gt;
+
+&lt;p&gt;The DCLG Public Data and Transparency Programme Board will exist until the end of 2012.&lt;/p&gt;
+
+&lt;h2 id="local-public-data-panel"&gt;Local Public Data Panel&lt;/h2&gt;
+
+&lt;p&gt;We support the &lt;a rel="external" href="http://data.gov.uk/blog/local-public-data-panel"&gt;Local Public Data Panel&lt;/a&gt;, chaired by Professor Nigel Shadbolt.&lt;/p&gt;
+
+&lt;p&gt;It was established to help:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;the release of local public data&lt;/li&gt;
+  &lt;li&gt;information sharing&lt;/li&gt;
+  &lt;li&gt;set common standards for releasing data&lt;/li&gt;
+  &lt;li&gt;make local public services better understood and more accessible&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;The panel aims to:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;ensure understanding of the case for making local public data freely available for re-use&lt;/li&gt;
+  &lt;li&gt;promote innovative uses of local public data&lt;/li&gt;
+  &lt;li&gt;sponsor the further development of a single place on line at &lt;a rel="external" href="http://data.gov.uk/"&gt;data.gov.uk&lt;/a&gt; for all public sector data, while meeting the specific needs of the local government sector&lt;/li&gt;
+  &lt;li&gt;encourage agreed standards for greater data and information sharing by local strategic partnerships.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;The panel operates a &lt;a rel="external" href="http://data.gov.uk/blog/local-public-data-panel"&gt;blog&lt;/a&gt; where you can see activity and read the minutes of their meetings.&lt;/p&gt;
+
+&lt;h2 id="making-a-difference-with-data"&gt;Making a Difference with Data&lt;/h2&gt;
+
+&lt;p&gt;The &lt;a rel="external" href="http://www.madwdata.org.uk/"&gt;Making a Difference with Data&lt;/a&gt; initiative aims to raise awareness about how you can access data from local public services such as local authorities, the police and the NHS. &lt;/p&gt;
+
+&lt;p&gt;You can use it to raise issues, campaign, and influence decision-making in your local community. &lt;/p&gt;
+
+&lt;p&gt;The initiative brings together stories and examples showing how local information and data is being used to make a difference in important areas. The initiative is funded by the Department for Communities and Local Government (DCLG) in partnership with Improvement and Efficiency West Midlands (IEWM) and is supported by the Local Public Data Panel.&lt;/p&gt;
+
+&lt;p&gt;A recent project under this initiative, DCLG, in partnership with the London Borough of Lambeth, has developed an &lt;a rel="external" href="http://www.lambeth-in-numbers.co.uk/login"&gt;on-line tool&lt;/a&gt; to demonstrate how better access to information can help improve policy and decision-making at the local level. &lt;/p&gt;
+
+&lt;p&gt;This tool will be used to stimulate further debate in Lambeth and other local authorities about open data.  We want this to help councils and their residents and communities understand what data is available and how they can use it to influence local public services.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/15136</id>
+    <published>2012-11-13T00:00:00+00:00</published>
+    <updated>2012-11-13T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/dclg-special-advisers-data-january-to-march-2012"/>
+    <title>DCLG special advisers data: January to March 2012</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Details of meetings between special advisers to the DCLG and media and business representatives, as well as of gifts and hospitality received by them. This data supports the government’s commitment to transparency and covers the period from January to March 2012.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/15132</id>
+    <published>2012-11-13T00:00:00+00:00</published>
+    <updated>2012-11-13T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/dclg-special-advisers-data-january-to-march-2011"/>
+    <title> DCLG special advisers data: January to March 2011</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Details of meetings between special advisers to the DCLG and media and business representatives, as well as of gifts and hospitality received by them. This data supports the government’s commitment to transparency and covers the period from January to March 2011.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/15129</id>
+    <published>2012-11-13T00:00:00+00:00</published>
+    <updated>2012-11-13T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/dclg-special-advisers-data-august-to-september-2010"/>
+    <title>DCLG special advisers data: August to September 2010</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Details of meetings between special advisers to the DCLG and media and business representatives, as well as of gifts and hospitality received by them. This data supports the government’s commitment to transparency and covers the period from August to September 2010.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/15122</id>
+    <published>2012-11-13T00:00:00+00:00</published>
+    <updated>2012-11-13T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/dclg-special-advisers-data-april-to-june-2012"/>
+    <title>DCLG special advisers data: April to June 2012</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Details of meetings between special advisers to the DCLG and media and business representatives, as well as of gifts and hospitality received by them. This data supports the government’s commitment to transparency and covers the period from April to June 2012.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/15116</id>
+    <published>2012-11-13T00:00:00+00:00</published>
+    <updated>2012-11-13T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/dclg-special-advisers-data-april-to-june-2011"/>
+    <title>DCLG special advisers data: April to June 2011</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Details of meetings between special advisers to the DCLG and media and business representatives, as well as of gifts and hospitality received by them. This data supports the government’s commitment to transparency and covers the period from April to June 2011.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/16280</id>
@@ -156,118 +283,12 @@
 &lt;/ul&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/15991</id>
-    <published>2012-11-13T00:00:00+00:00</published>
-    <updated>2012-11-13T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/dclg-public-data-and-transparency-programme-board"/>
-    <title>DCLG Public Data and Transparency Programme Board</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;We are committed to transparency within government. We have gone beyond the commitments set out by the Prime Minister in 2010, in particular by publishing spend over £250 and spend on the Government Procurement Card. &lt;/p&gt;
-
-&lt;p&gt;The DCLG Public Data and Transparency Programme Board will exist until the end of 2012.&lt;/p&gt;
-
-&lt;h2 id="local-public-data-panel"&gt;Local Public Data Panel&lt;/h2&gt;
-
-&lt;p&gt;We support the &lt;a rel="external" href="http://data.gov.uk/blog/local-public-data-panel"&gt;Local Public Data Panel&lt;/a&gt;, chaired by Professor Nigel Shadbolt.&lt;/p&gt;
-
-&lt;p&gt;It was established to help:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;the release of local public data&lt;/li&gt;
-  &lt;li&gt;information sharing&lt;/li&gt;
-  &lt;li&gt;set common standards for releasing data&lt;/li&gt;
-  &lt;li&gt;make local public services better understood and more accessible&lt;/li&gt;
-&lt;/ul&gt;&lt;p&gt;The panel aims to:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;ensure understanding of the case for making local public data freely available for re-use&lt;/li&gt;
-  &lt;li&gt;promote innovative uses of local public data&lt;/li&gt;
-  &lt;li&gt;sponsor the further development of a single place on line at &lt;a rel="external" href="http://data.gov.uk/"&gt;data.gov.uk&lt;/a&gt; for all public sector data, while meeting the specific needs of the local government sector&lt;/li&gt;
-  &lt;li&gt;encourage agreed standards for greater data and information sharing by local strategic partnerships.&lt;/li&gt;
-&lt;/ul&gt;&lt;p&gt;The panel operates a &lt;a rel="external" href="http://data.gov.uk/blog/local-public-data-panel"&gt;blog&lt;/a&gt; where you can see activity and read the minutes of their meetings.&lt;/p&gt;
-
-&lt;h2 id="making-a-difference-with-data"&gt;Making a Difference with Data&lt;/h2&gt;
-
-&lt;p&gt;The &lt;a rel="external" href="http://www.madwdata.org.uk/"&gt;Making a Difference with Data&lt;/a&gt; initiative aims to raise awareness about how you can access data from local public services such as local authorities, the police and the NHS. &lt;/p&gt;
-
-&lt;p&gt;You can use it to raise issues, campaign, and influence decision-making in your local community. &lt;/p&gt;
-
-&lt;p&gt;The initiative brings together stories and examples showing how local information and data is being used to make a difference in important areas. The initiative is funded by the Department for Communities and Local Government (DCLG) in partnership with Improvement and Efficiency West Midlands (IEWM) and is supported by the Local Public Data Panel.&lt;/p&gt;
-
-&lt;p&gt;A recent project under this initiative, DCLG, in partnership with the London Borough of Lambeth, has developed an &lt;a rel="external" href="http://www.lambeth-in-numbers.co.uk/login"&gt;on-line tool&lt;/a&gt; to demonstrate how better access to information can help improve policy and decision-making at the local level. &lt;/p&gt;
-
-&lt;p&gt;This tool will be used to stimulate further debate in Lambeth and other local authorities about open data.  We want this to help councils and their residents and communities understand what data is available and how they can use it to influence local public services.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/15148</id>
-    <published>2012-11-13T00:00:00+00:00</published>
-    <updated>2012-11-13T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/dclg-special-advisers-data-october-to-december-2011"/>
-    <title>DCLG special advisers data: October to December 2011</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Details of meetings between special advisers to the DCLG and media and business representatives, as well as of gifts and hospitality received by them. This data supports the government’s commitment to transparency and covers the period from October and December 2011.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/15144</id>
-    <published>2012-11-13T00:00:00+00:00</published>
-    <updated>2012-11-13T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/dclg-special-advisers-data-october-to-december-2010"/>
-    <title>DCLG special advisers data: October to December 2010</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Details of meetings between special advisers to the DCLG and media and business representatives, as well as of gifts and hospitality received by them. This data supports the government’s commitment to transparency and covers the period from October to December 2010.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/15263</id>
     <published>2012-11-13T00:00:00+00:00</published>
     <updated>2012-11-13T00:00:00+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/dclg-staff-data-and-organogram-march-2012--5"/>
     <title>DCLG staff data and organogram: March 2012</title>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;These datasets and organogram shows posts and salary information for staff at DCLG as of 31 March 2012. They’re shared here as part of the effort to make government operations and spending more transparent to the public.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/15139</id>
-    <published>2012-11-13T00:00:00+00:00</published>
-    <updated>2012-11-13T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/dclg-special-advisers-data-july-to-september-2011"/>
-    <title>DCLG special advisers data: July to September 2011</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Details of meetings between special advisers to the DCLG and media and business representatives, as well as of gifts and hospitality received by them. This data supports the government’s commitment to transparency and covers the period from July to September 2011.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/15136</id>
-    <published>2012-11-13T00:00:00+00:00</published>
-    <updated>2012-11-13T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/dclg-special-advisers-data-january-to-march-2012"/>
-    <title>DCLG special advisers data: January to March 2012</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Details of meetings between special advisers to the DCLG and media and business representatives, as well as of gifts and hospitality received by them. This data supports the government’s commitment to transparency and covers the period from January to March 2012.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/15132</id>
-    <published>2012-11-13T00:00:00+00:00</published>
-    <updated>2012-11-13T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/dclg-special-advisers-data-january-to-march-2011"/>
-    <title> DCLG special advisers data: January to March 2011</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Details of meetings between special advisers to the DCLG and media and business representatives, as well as of gifts and hospitality received by them. This data supports the government’s commitment to transparency and covers the period from January to March 2011.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/15129</id>
-    <published>2012-11-13T00:00:00+00:00</published>
-    <updated>2012-11-13T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/dclg-special-advisers-data-august-to-september-2010"/>
-    <title>DCLG special advisers data: August to September 2010</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Details of meetings between special advisers to the DCLG and media and business representatives, as well as of gifts and hospitality received by them. This data supports the government’s commitment to transparency and covers the period from August to September 2010.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/15122</id>
-    <published>2012-11-13T00:00:00+00:00</published>
-    <updated>2012-11-13T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/dclg-special-advisers-data-april-to-june-2012"/>
-    <title>DCLG special advisers data: April to June 2012</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Details of meetings between special advisers to the DCLG and media and business representatives, as well as of gifts and hospitality received by them. This data supports the government’s commitment to transparency and covers the period from April to June 2012.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/15116</id>
-    <published>2012-11-13T00:00:00+00:00</published>
-    <updated>2012-11-13T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/dclg-special-advisers-data-april-to-june-2011"/>
-    <title>DCLG special advisers data: April to June 2011</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Details of meetings between special advisers to the DCLG and media and business representatives, as well as of gifts and hospitality received by them. This data supports the government’s commitment to transparency and covers the period from April to June 2011.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/15274</id>
@@ -292,21 +313,5 @@
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/dclg-staff-data-and-organogram-june-2010"/>
     <title>DCLG staff data and organogram: June 2010</title>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;These datasets and organogram shows posts and salary information for staff at DCLG as of 30 June 2010. They’re shared here as part of the effort to make government operations and spending more transparent to the public.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/14311</id>
-    <published>2012-11-12T00:00:00+00:00</published>
-    <updated>2012-11-12T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/dclg-ministerial-information-oct-to-dec-2010"/>
-    <title>DCLG ministerial information: Oct to Dec 2010</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;These publications include:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;gifts given to, and received by, ministers&lt;/li&gt;
-  &lt;li&gt;hospitality received by ministers  &lt;/li&gt;
-  &lt;li&gt;overseas travel by ministers  &lt;/li&gt;
-  &lt;li&gt;ministers’ meeting with external organisations (including meetings with newspaper and media owners, editors and senior executives)  &lt;/li&gt;
-  &lt;li&gt;gifts and hospitality received by special advisers  &lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</content>
   </entry>
 </feed>

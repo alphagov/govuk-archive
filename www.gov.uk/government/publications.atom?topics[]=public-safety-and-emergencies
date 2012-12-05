@@ -8,7 +8,23 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-11-29T00:00:00+00:00</updated>
+  <updated>2012-12-03T00:00:00+00:00</updated>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/17621</id>
+    <published>2012-12-03T00:00:00+00:00</published>
+    <updated>2012-12-03T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/fire-and-rescue-bulletin-28-2012"/>
+    <title>Fire and rescue bulletin: 28/2012</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The fire and rescue bulletin for December 2012 covers:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;consultation on proposed increases to employee pension contribution rates&lt;/li&gt;
+  &lt;li&gt;departmental response to the consultation on amendments to the new Firefighters’ Pension Scheme&lt;/li&gt;
+  &lt;li&gt;update on the funding arrangements for localising support for council tax&lt;/li&gt;
+  &lt;li&gt;government’s policy statement on business rates retention&lt;/li&gt;
+  &lt;li&gt;publication of operational guidance and generic risk assessments&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
+  </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/17107</id>
     <published>2012-11-29T00:00:00+00:00</published>
@@ -43,6 +59,22 @@ of agreement&lt;/a&gt; on the core parameters for reforms to the firefighters’
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/hazardous-materials-operational-guidance-for-the-fire-and-rescue-service"/>
     <title>Hazardous materials: operational guidance for the fire and rescue service</title>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This document provides comprehensive yet flexible guidance that can be adapted to the nature, scale and requirements of the incident. It consolidates the content of over 500 items of previously published subject related documents.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/17643</id>
+    <published>2012-11-05T00:00:00+00:00</published>
+    <updated>2012-11-05T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/fire-and-rescue-bulletin-27-2012"/>
+    <title>Fire and rescue bulletin: 27/2012</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The fire and rescue bulletin for November 2012 covers:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;recruitment of a new Chief Fire and Rescue Adviser&lt;/li&gt;
+  &lt;li&gt;recruitment of 2 fire and rescue secondees&lt;/li&gt;
+  &lt;li&gt;consultation on ‘Improving Local Government Transparency’&lt;/li&gt;
+  &lt;li&gt;announcement of a third year of council tax freeze for 2013-14&lt;/li&gt;
+  &lt;li&gt;transitional grant for localising support for Council Tax&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/16762</id>
@@ -99,16 +131,6 @@ of agreement&lt;/a&gt; on the core parameters for reforms to the firefighters’
 &lt;p&gt;The overall proportion of premises found to be satisfactory in 2011 to 2012 was 59%, compared to 56% in 2010 to 2011.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/13403</id>
-    <published>2012-09-20T01:00:00+01:00</published>
-    <updated>2012-09-20T01:00:00+01:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/consultations/protocol-on-government-intervention-action-on-fire-and-rescue-authorities-in-england"/>
-    <title>Protocol on government intervention action on fire and rescue authorities in England</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Consultation on guidance on statements of assurance for fire and rescue authorities in England and Protocol on Government intervention action for fire and rescue authorities in England.&lt;/p&gt;
-
-&lt;p&gt;The consultation seeks views on the revision of the protocol on Government intervention action and applies to fire and rescue authorities in England only.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/13402</id>
     <published>2012-09-20T01:00:00+01:00</published>
     <updated>2012-09-20T01:00:00+01:00</updated>
@@ -117,6 +139,16 @@ of agreement&lt;/a&gt; on the core parameters for reforms to the firefighters’
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Consultation on guidance on statements of assurance for fire and rescue authorities in England.&lt;/p&gt;
 
 &lt;p&gt;The consultation seeks views on ‘light-touch’ guidance on statements of assurance for fire and rescue authorities in England&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/13403</id>
+    <published>2012-09-20T01:00:00+01:00</published>
+    <updated>2012-09-20T01:00:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/consultations/protocol-on-government-intervention-action-on-fire-and-rescue-authorities-in-england"/>
+    <title>Protocol on government intervention action on fire and rescue authorities in England</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Consultation on guidance on statements of assurance for fire and rescue authorities in England and Protocol on Government intervention action for fire and rescue authorities in England.&lt;/p&gt;
+
+&lt;p&gt;The consultation seeks views on the revision of the protocol on Government intervention action and applies to fire and rescue authorities in England only.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/11791</id>
@@ -257,31 +289,5 @@ of agreement&lt;/a&gt; on the core parameters for reforms to the firefighters’
 &lt;ul&gt;
 &lt;li&gt;national coordination and advisory arrangements: London 2012 Olympic Games&lt;/li&gt;
 &lt;/ul&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/11426</id>
-    <published>2012-06-11T00:00:00+01:00</published>
-    <updated>2012-06-11T00:00:00+01:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/fire-and-rescue-bulletin-22-2012"/>
-    <title>Fire and rescue bulletin: 22/2012</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The fire and rescue bulletin for June 2012 covers:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Community Right to Challenge: statutory guidance (draft)&lt;/li&gt;
-  &lt;li&gt;consultation on localising support for Council Tax: funding arrangements consultation&lt;/li&gt;
-  &lt;li&gt;fire and rescue authority use of electromagnetic spectrum&lt;/li&gt;
-  &lt;li&gt;review of content of the publication fire statistics Great Britain&lt;/li&gt;
-  &lt;li&gt;emergency services interoperability at incidents: awareness training package&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/16662</id>
-    <published>2012-05-24T00:00:00+01:00</published>
-    <updated>2012-05-24T00:00:00+01:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/firefighters-pension-scheme-proposed-final-agreement"/>
-    <title>Firefighters' pension scheme: proposed final agreement</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This document sets out the proposed final agreement on the design for the firefighters’ pension scheme in England to be introduced from April 2015.&lt;/p&gt;
-
-&lt;p&gt;The government has made clear this sets out our final position on the main elements of scheme design, which unions will now take to their executives. The government reserves its position on all aspects of this proposed scheme design.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
 </feed>
