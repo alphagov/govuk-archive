@@ -43,15 +43,15 @@
     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
-</script><script defer src="https://assets.digital.cabinet-office.gov.uk/government/assets/application-a239688d17bcccf06a6180975dc96a1e.js" type="text/javascript"></script><!--[if gt IE 8]><!--><link href="https://assets.digital.cabinet-office.gov.uk/government/assets/frontend/base-ed0067412352d037dc7d88a233470ddd.css" media="screen" rel="stylesheet" type="text/css">
+</script><script defer src="https://assets.digital.cabinet-office.gov.uk/government/assets/application-ca258e9195b26d33bb5b61d0d2743237.js" type="text/javascript"></script><!--[if gt IE 8]><!--><link href="https://assets.digital.cabinet-office.gov.uk/government/assets/frontend/base-0d2d3d6be12501c0fb02a03e3c10cd51.css" media="screen" rel="stylesheet" type="text/css">
 <!--<![endif]--><link href="https://assets.digital.cabinet-office.gov.uk/government/assets/frontend/print-3a87362d1fe4dc933a4d5f6446e9c377.css" media="print" rel="stylesheet" type="text/css">
 <link href="https://www.gov.uk/government/publications.atom?departments%5B%5D=department-for-communities-and-local-government&amp;keywords=&amp;publication_type=statistics&amp;topics%5B%5D=all" rel="alternate" title="Recent publications" type="application/atom+xml">
 <link rel="next" type="application/json" href="/government/publications.json?date=2011-01-01&amp;departments%5B%5D=department-for-communities-and-local-government&amp;direction=after&amp;keywords=&amp;page=5&amp;publication_type=statistics&amp;topics%5B%5D=all">
 <meta content="True" name="HandheldFriendly">
 <meta content="320" name="MobileOptimized">
 <meta content="authenticity_token" name="csrf-param">
-<meta content="MMGte0lXArrK6vOezBvNpTFU6SG8wlwiOFvuLEAyNNg=" name="csrf-token">
-<!--[if IE 6]><link href="https://assets.digital.cabinet-office.gov.uk/government/assets/frontend/base-ie6-dd9efb7d2b626191dbfafd048ae1d375.css" media="screen" rel="stylesheet" type="text/css" /><script>var ieVersion = 6;</script><![endif]--><!--[if IE 7]><link href="https://assets.digital.cabinet-office.gov.uk/government/assets/frontend/base-ie7-8d0daf916709d91caecdf7ea316c6736.css" media="screen" rel="stylesheet" type="text/css" /><script>var ieVersion = 7;</script><![endif]--><!--[if IE 8]><link href="https://assets.digital.cabinet-office.gov.uk/government/assets/frontend/base-ie8-7bbd27e1084bbcdc2861675f98a05961.css" media="screen" rel="stylesheet" type="text/css" /><script>var ieVersion = 8;</script><![endif]-->
+<meta content="WYULKYytU+QfgpLgIA3KM4z3m7mxig1jSn/7IyYYcdU=" name="csrf-token">
+<!--[if IE 6]><link href="https://assets.digital.cabinet-office.gov.uk/government/assets/frontend/base-ie6-71f073fdcacdca26879fdca8415ba68f.css" media="screen" rel="stylesheet" type="text/css" /><script>var ieVersion = 6;</script><![endif]--><!--[if IE 7]><link href="https://assets.digital.cabinet-office.gov.uk/government/assets/frontend/base-ie7-0db149f3fc248a61408eb2ce3fd01bfd.css" media="screen" rel="stylesheet" type="text/css" /><script>var ieVersion = 7;</script><![endif]--><!--[if IE 8]><link href="https://assets.digital.cabinet-office.gov.uk/government/assets/frontend/base-ie8-9ae1b12c0bb113e645bf7b8827e27030.css" media="screen" rel="stylesheet" type="text/css" /><script>var ieVersion = 8;</script><![endif]-->
 </head>
 <body class="website government">
       <script type="text/javascript">document.body.className = ((document.body.className) ? document.body.className + ' js-enabled' : 'js-enabled');</script><a href="#content" class="visuallyhidden">Skip to main content</a>
@@ -99,7 +99,7 @@
         <div class="progress-bar js-progress-bar" id="progress-bar" data-join-count="2">
           <div class="bar"><div class="joined"></div></div>
           <p>
-            2 of 23  ministerial departments have moved their corporate websites to GOV.UK.
+            2 of 24 ministerial departments have moved their corporate websites to GOV.UK.
             <a href="/government">More will join soon</a>
           </p>
         </div>
@@ -115,17 +115,47 @@
 
 <div class="block-2">
   <div class="inner-block">
-    
     <div class="filter-block">
   <h2>You can use the filters to show only results that match your interests</h2>
   <form accept-charset="UTF-8" action="/government/publications" class="js-document-filter" id="document-filter" method="get">
 <div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"></div>
     <fieldset>
 <legend class="visuallyhidden">Filter publications</legend>
+
+      <div class="filter" id="keyword-filter">
+        <div class="filter-inner">
+          <label class="title" for="keywords">Contains</label>
+          <input id="keywords" name="keywords" placeholder="keywords" type="text" value="">
+</div>
+      </div>
+
       <div class="filter">
         <div class="filter-inner">
-          <label class="visuallyhidden" for="topics">Topic</label>
-          <select class="multi-row-select" id="topics" multiple name="topics[]" size="9"><option value="all" selected>All topics</option>
+            <div class="publication-type">
+              <label class="title" for="publication_filter_option">Publication type</label>
+              <select class="single-row-select" id="publication_filter_option" name="publication_filter_option"><option value="all">All publication types</option>
+<option value="policy-papers">Policy papers</option>
+<option value="consultations">Consultations</option>
+<option value="impact-assessments">Impact assessments</option>
+<option value="guidance">Guidance</option>
+<option value="forms">Forms</option>
+<option value="statistics" selected>Statistics</option>
+<option value="research-and-analysis">Research and analysis</option>
+<option value="corporate-reports">Corporate reports</option>
+<option value="transparency-data">Transparency data</option>
+<option value="treaties">Treaties</option>
+<option value="foi-releases">FOI releases</option>
+<option value="independent-reports">Independent reports</option>
+<option value="circulars-letters-and-bulletins">Circulars, letters and bulletins</option>
+<option value="promotional-material">Promotional material</option></select>
+</div>
+        </div>
+      </div>
+
+      <div class="filter">
+        <div class="filter-inner">
+          <label for="topics">Topic</label>
+          <select class="multi-row-select" id="topics" multiple name="topics[]" size="5"><option value="all" selected>All topics</option>
 <option value="climate-change">Climate change</option>
 <option value="community-and-society">Community and society</option>
 <option value="economic-growth">Economic growth</option>
@@ -140,8 +170,8 @@
       </div>
       <div class="filter">
         <div class="filter-inner">
-          <label class="visuallyhidden" for="departments">Department</label>
-          <select class="multi-row-select" id="departments" multiple name="departments[]" size="9"><option value="all">All departments</option>
+          <label for="departments">Department</label>
+          <select class="multi-row-select" id="departments" multiple name="departments[]" size="5"><option value="all">All departments</option>
 <option value="attorney-generals-office">Attorney General's Office</option>
 <option value="building-regulations-advisory-committee">Building Regulations Advisory Committee</option>
 <option value="department-for-business-innovation-skills">Department for Business, Innovation &amp; Skills</option>
@@ -160,30 +190,10 @@
 <option value="vehicle-certification-agency">Vehicle Certification Agency</option></select>
 </div>
       </div>
-      
+
       <div class="filter">
         <div class="filter-inner">
-            <div class="publication-type">
-              <label class="title" for="publication_filter_option">Publication type</label>
-              <select id="publication_filter_option" name="publication_filter_option"><option value="all">All publication types</option>
-<option value="policy-papers">Policy papers</option>
-<option value="consultations">Consultations</option>
-<option value="impact-assessments">Impact assessments</option>
-<option value="guidance">Guidance</option>
-<option value="forms">Forms</option>
-<option value="statistics" selected>Statistics</option>
-<option value="research-and-analysis">Research and analysis</option>
-<option value="corporate-reports">Corporate reports</option>
-<option value="transparency-data">Transparency data</option>
-<option value="treaties">Treaties</option>
-<option value="foi-releases">FOI releases</option>
-<option value="independent-reports">Independent reports</option>
-<option value="circulars-letters-and-bulletins">Circulars, letters and bulletins</option>
-<option value="promotional-material">Promotional material</option></select>
-</div>
-
-          <label class="title" for="keywords">Contains</label>
-          <input id="keywords" name="keywords" placeholder="keywords" type="text" value=""><div class="date-range">
+            <div class="date-range">
               <h3>Published</h3>
                 <label class="checkbox" for="direction_before">
                   <input id="direction_before" name="direction" type="radio" value="before">
@@ -192,7 +202,7 @@
                   <input checked id="direction_after" name="direction" type="radio" value="after">
                   After
 </label>              <label class="visuallyhidden" for="date">Date</label>
-              <select id="date" name="date"><option value="2013-01-01">January 2013</option>
+              <select class="single-row-select" id="date" name="date"><option value="2013-01-01">January 2013</option>
 <option value="2012-12-01">December 2012</option>
 <option value="2012-11-01">November 2012</option>
 <option value="2012-10-01">October 2012</option>
@@ -222,380 +232,383 @@
 </div>
         </div>
       </div>
-      <div class="results">
-        <p class="count"><span>141</span> results</p>
-        <p class="selections"></p>
-      </div>
     </fieldset>
 </form>
 </div>
 
-    <div class="filter-feed">
-      <div class="subscribe"><a href="https://www.gov.uk/government/publications.atom?departments%5B%5D=department-for-communities-and-local-government&amp;keywords=&amp;publication_type=statistics&amp;topics%5B%5D=all" class="feed">feed</a></div>
-    </div>
   </div>
 </div>
 
 <div class="block-4">
-  <div class="inner-block filter-results" id="publications-container" aria-live="polite">
+  <div class="inner-block">
+    <div class="filter-results-summary">
+  <h3 class="selections"></h3>
+</div>
     
-      <table class="document-list emphasise-recent" id="document-list">
+    <div class="filter-feed">
+      <div class="subscribe"><a href="https://www.gov.uk/government/publications.atom?departments%5B%5D=department-for-communities-and-local-government&amp;keywords=&amp;publication_type=statistics&amp;topics%5B%5D=all" class="feed">feed</a></div>
+    </div>
+    
+    <div class="filter-results" id="publications-container" aria-live="polite">
+      
+        <table class="document-list emphasise-recent" id="document-list">
 <thead class="visuallyhidden"><tr>
 <th scope="col">Title</th>
-            <th scope="col">Publication Date</th>
-            <th scope="col">Publication Organisations</th>
-            <th scope="col">Publication Type</th>
-            <th scope="col">Publication Series</th>
-          </tr></thead>
+              <th scope="col">Publication Date</th>
+              <th scope="col">Publication Organisations</th>
+              <th scope="col">Publication Type</th>
+              <th scope="col">Publication Series</th>
+            </tr></thead>
 <tbody>
 <tr class="publication document-row recent" id="publication_16282">
 <th scope="row" class="title attribute">
-              <a href="/government/publications/local-authority-capital-expenditure-and-financing-to-england-2010-to-2011-individual-local-authority-data" title="View Local authority capital expenditure and financing in England: 2010 to 2011 individual local authority data">Local authority capital expenditure and financing in England: 2010 to 2011 individual local authority data</a>
-            </th>
-            <td class="attribute publication_date">
-              <abbr class="publication_date" title="2011-10-26">26 October 2011</abbr>
-            </td>
-            <td class="attribute organisations">
-              <abbr title="Department for Communities and Local Government">DCLG</abbr>
-            </td>
-            <td class="publication_type attribute">
-              Statistics
-            </td>
-            <td class="publication_series attribute">
-                Part of a series: <a href="/government/organisations/department-for-communities-and-local-government/series/local-authority-capital-expenditure-receipts-and-financing">Local authority capital expenditure, receipts and financing</a>
-            </td>
+                <a href="/government/publications/local-authority-capital-expenditure-and-financing-to-england-2010-to-2011-individual-local-authority-data" title="View Local authority capital expenditure and financing in England: 2010 to 2011 individual local authority data">Local authority capital expenditure and financing in England: 2010 to 2011 individual local authority data</a>
+              </th>
+              <td class="attribute publication_date">
+                <abbr class="publication_date" title="2011-10-26">26 October 2011</abbr>
+              </td>
+              <td class="attribute organisations">
+                <abbr title="Department for Communities and Local Government">DCLG</abbr>
+              </td>
+              <td class="publication_type attribute">
+                Statistics
+              </td>
+              <td class="publication_series attribute">
+                  Part of a series: <a href="/government/organisations/department-for-communities-and-local-government/series/local-authority-capital-expenditure-receipts-and-financing">Local authority capital expenditure, receipts and financing</a>
+              </td>
 </tr>
 <tr class="publication document-row recent" id="publication_11763">
 <th scope="row" class="title attribute">
-              <a href="/government/publications/supporting-people-local-system-data-q4-2010-to-2011" title="View Supporting people local system data: Q4 2010 to 2011">Supporting people local system data: Q4 2010 to 2011</a>
-            </th>
-            <td class="attribute publication_date">
-              <abbr class="publication_date" title="2011-10-27">27 October 2011</abbr>
-            </td>
-            <td class="attribute organisations">
-              <abbr title="Department for Communities and Local Government">DCLG</abbr>
-            </td>
-            <td class="publication_type attribute">
-              Statistics
-            </td>
-            <td class="publication_series attribute">
-            </td>
+                <a href="/government/publications/supporting-people-local-system-data-q4-2010-to-2011" title="View Supporting people local system data: Q4 2010 to 2011">Supporting people local system data: Q4 2010 to 2011</a>
+              </th>
+              <td class="attribute publication_date">
+                <abbr class="publication_date" title="2011-10-27">27 October 2011</abbr>
+              </td>
+              <td class="attribute organisations">
+                <abbr title="Department for Communities and Local Government">DCLG</abbr>
+              </td>
+              <td class="publication_type attribute">
+                Statistics
+              </td>
+              <td class="publication_series attribute">
+              </td>
 </tr>
 <tr class="publication document-row recent" id="publication_11700">
 <th scope="row" class="title attribute">
-              <a href="/government/publications/net-supply-of-housing-in-england-2010-to-2011" title="View Net supply of housing in England: 2010 to 2011">Net supply of housing in England: 2010 to 2011</a>
-            </th>
-            <td class="attribute publication_date">
-              <abbr class="publication_date" title="2011-11-02">2 November 2011</abbr>
-            </td>
-            <td class="attribute organisations">
-              <abbr title="Department for Communities and Local Government">DCLG</abbr>
-            </td>
-            <td class="publication_type attribute">
-              Statistics
-            </td>
-            <td class="publication_series attribute">
-                Part of a series: <a href="/government/organisations/department-for-communities-and-local-government/series/net-supply-of-housing">Net supply of housing</a>
-            </td>
+                <a href="/government/publications/net-supply-of-housing-in-england-2010-to-2011" title="View Net supply of housing in England: 2010 to 2011">Net supply of housing in England: 2010 to 2011</a>
+              </th>
+              <td class="attribute publication_date">
+                <abbr class="publication_date" title="2011-11-02">2 November 2011</abbr>
+              </td>
+              <td class="attribute organisations">
+                <abbr title="Department for Communities and Local Government">DCLG</abbr>
+              </td>
+              <td class="publication_type attribute">
+                Statistics
+              </td>
+              <td class="publication_series attribute">
+                  Part of a series: <a href="/government/organisations/department-for-communities-and-local-government/series/net-supply-of-housing">Net supply of housing</a>
+              </td>
 </tr>
 <tr class="publication document-row" id="publication_11638">
 <th scope="row" class="title attribute">
-              <a href="/government/publications/council-taxbase-2011-in-england" title="View Council Taxbase 2011 in England">Council Taxbase 2011 in England</a>
-            </th>
-            <td class="attribute publication_date">
-              <abbr class="publication_date" title="2011-11-16">16 November 2011</abbr>
-            </td>
-            <td class="attribute organisations">
-              <abbr title="Department for Communities and Local Government">DCLG</abbr>
-            </td>
-            <td class="publication_type attribute">
-              Statistics
-            </td>
-            <td class="publication_series attribute">
-                Part of a series: <a href="/government/organisations/department-for-communities-and-local-government/series/council-taxbase-statistics">Council Taxbase statistics</a>
-            </td>
+                <a href="/government/publications/council-taxbase-2011-in-england" title="View Council Taxbase 2011 in England">Council Taxbase 2011 in England</a>
+              </th>
+              <td class="attribute publication_date">
+                <abbr class="publication_date" title="2011-11-16">16 November 2011</abbr>
+              </td>
+              <td class="attribute organisations">
+                <abbr title="Department for Communities and Local Government">DCLG</abbr>
+              </td>
+              <td class="publication_type attribute">
+                Statistics
+              </td>
+              <td class="publication_series attribute">
+                  Part of a series: <a href="/government/organisations/department-for-communities-and-local-government/series/council-taxbase-statistics">Council Taxbase statistics</a>
+              </td>
 </tr>
 <tr class="publication document-row" id="publication_11670">
 <th scope="row" class="title attribute">
-              <a href="/government/publications/house-building-in-england-july-to-september-2011" title="View House building in England: July to September 2011">House building in England: July to September 2011</a>
-            </th>
-            <td class="attribute publication_date">
-              <abbr class="publication_date" title="2011-11-17">17 November 2011</abbr>
-            </td>
-            <td class="attribute organisations">
-              <abbr title="Department for Communities and Local Government">DCLG</abbr>
-            </td>
-            <td class="publication_type attribute">
-              Statistics - national statistics
-            </td>
-            <td class="publication_series attribute">
-                Part of a series: <a href="/government/organisations/department-for-communities-and-local-government/series/house-building-statistics">House building statistics</a>
-            </td>
+                <a href="/government/publications/house-building-in-england-july-to-september-2011" title="View House building in England: July to September 2011">House building in England: July to September 2011</a>
+              </th>
+              <td class="attribute publication_date">
+                <abbr class="publication_date" title="2011-11-17">17 November 2011</abbr>
+              </td>
+              <td class="attribute organisations">
+                <abbr title="Department for Communities and Local Government">DCLG</abbr>
+              </td>
+              <td class="publication_type attribute">
+                Statistics - national statistics
+              </td>
+              <td class="publication_series attribute">
+                  Part of a series: <a href="/government/organisations/department-for-communities-and-local-government/series/house-building-statistics">House building statistics</a>
+              </td>
 </tr>
 <tr class="publication document-row" id="publication_15767">
 <th scope="row" class="title attribute">
-              <a href="/government/publications/gypsy-and-traveller-caravan-count-july-2011" title="View Gypsy and traveller caravan count: July 2011">Gypsy and traveller caravan count: July 2011</a>
-            </th>
-            <td class="attribute publication_date">
-              <abbr class="publication_date" title="2011-11-17">17 November 2011</abbr>
-            </td>
-            <td class="attribute organisations">
-              <abbr title="Department for Communities and Local Government">DCLG</abbr>
-            </td>
-            <td class="publication_type attribute">
-              Statistics
-            </td>
-            <td class="publication_series attribute">
-            </td>
+                <a href="/government/publications/gypsy-and-traveller-caravan-count-july-2011" title="View Gypsy and traveller caravan count: July 2011">Gypsy and traveller caravan count: July 2011</a>
+              </th>
+              <td class="attribute publication_date">
+                <abbr class="publication_date" title="2011-11-17">17 November 2011</abbr>
+              </td>
+              <td class="attribute organisations">
+                <abbr title="Department for Communities and Local Government">DCLG</abbr>
+              </td>
+              <td class="publication_type attribute">
+                Statistics
+              </td>
+              <td class="publication_series attribute">
+              </td>
 </tr>
 <tr class="publication document-row" id="publication_11627">
 <th scope="row" class="title attribute">
-              <a href="/government/publications/code-for-sustainable-homes-and-energy-performance-of-buildings-data-september-2011" title="View Code for sustainable homes and energy performance of buildings data: September 2011">Code for sustainable homes and energy performance of buildings data: September 2011</a>
-            </th>
-            <td class="attribute publication_date">
-              <abbr class="publication_date" title="2011-11-24">24 November 2011</abbr>
-            </td>
-            <td class="attribute organisations">
-              <abbr title="Department for Communities and Local Government">DCLG</abbr>
-            </td>
-            <td class="publication_type attribute">
-              Statistics
-            </td>
-            <td class="publication_series attribute">
-                Part of a series: <a href="/government/organisations/department-for-communities-and-local-government/series/code-for-sustainable-homes-statistics">Code for sustainable homes statistics</a>
-            </td>
+                <a href="/government/publications/code-for-sustainable-homes-and-energy-performance-of-buildings-data-september-2011" title="View Code for sustainable homes and energy performance of buildings data: September 2011">Code for sustainable homes and energy performance of buildings data: September 2011</a>
+              </th>
+              <td class="attribute publication_date">
+                <abbr class="publication_date" title="2011-11-24">24 November 2011</abbr>
+              </td>
+              <td class="attribute organisations">
+                <abbr title="Department for Communities and Local Government">DCLG</abbr>
+              </td>
+              <td class="publication_type attribute">
+                Statistics
+              </td>
+              <td class="publication_series attribute">
+                  Part of a series: <a href="/government/organisations/department-for-communities-and-local-government/series/code-for-sustainable-homes-statistics">Code for sustainable homes statistics</a>
+              </td>
 </tr>
 <tr class="publication document-row" id="publication_16927">
 <th scope="row" class="title attribute">
-              <a href="/government/publications/fire-statistics-great-britain-2010-to-2011" title="View Fire statistics Great Britain 2010 to 2011">Fire statistics Great Britain 2010 to 2011</a>
-            </th>
-            <td class="attribute publication_date">
-              <abbr class="publication_date" title="2011-11-25">25 November 2011</abbr>
-            </td>
-            <td class="attribute organisations">
-              <abbr title="Department for Communities and Local Government">DCLG</abbr>
-            </td>
-            <td class="publication_type attribute">
-              Statistics - national statistics
-            </td>
-            <td class="publication_series attribute">
-                Part of a series: <a href="/government/organisations/department-for-communities-and-local-government/series/fire-statistics-great-britain">Fire statistics Great Britain </a>
-            </td>
+                <a href="/government/publications/fire-statistics-great-britain-2010-to-2011" title="View Fire statistics Great Britain 2010 to 2011">Fire statistics Great Britain 2010 to 2011</a>
+              </th>
+              <td class="attribute publication_date">
+                <abbr class="publication_date" title="2011-11-25">25 November 2011</abbr>
+              </td>
+              <td class="attribute organisations">
+                <abbr title="Department for Communities and Local Government">DCLG</abbr>
+              </td>
+              <td class="publication_type attribute">
+                Statistics - national statistics
+              </td>
+              <td class="publication_series attribute">
+                  Part of a series: <a href="/government/organisations/department-for-communities-and-local-government/series/fire-statistics-great-britain">Fire statistics Great Britain </a>
+              </td>
 </tr>
 <tr class="publication document-row" id="publication_11684">
 <th scope="row" class="title attribute">
-              <a href="/government/publications/local-authority-housing-statistics-for-england-2010-to-2011" title="View Local authority housing statistics for England: 2010 to 2011">Local authority housing statistics for England: 2010 to 2011</a>
-            </th>
-            <td class="attribute publication_date">
-              <abbr class="publication_date" title="2011-11-30">30 November 2011</abbr>
-            </td>
-            <td class="attribute organisations">
-              <abbr title="Department for Communities and Local Government">DCLG</abbr>
-            </td>
-            <td class="publication_type attribute">
-              Statistics
-            </td>
-            <td class="publication_series attribute">
-                Part of a series: <a href="/government/organisations/department-for-communities-and-local-government/series/local-authority-housing-data">Local authority housing data</a>
-            </td>
+                <a href="/government/publications/local-authority-housing-statistics-for-england-2010-to-2011" title="View Local authority housing statistics for England: 2010 to 2011">Local authority housing statistics for England: 2010 to 2011</a>
+              </th>
+              <td class="attribute publication_date">
+                <abbr class="publication_date" title="2011-11-30">30 November 2011</abbr>
+              </td>
+              <td class="attribute organisations">
+                <abbr title="Department for Communities and Local Government">DCLG</abbr>
+              </td>
+              <td class="publication_type attribute">
+                Statistics
+              </td>
+              <td class="publication_series attribute">
+                  Part of a series: <a href="/government/organisations/department-for-communities-and-local-government/series/local-authority-housing-data">Local authority housing data</a>
+              </td>
 </tr>
 <tr class="publication document-row" id="publication_15830">
 <th scope="row" class="title attribute">
-              <a href="/government/publications/dwelling-stock-estimates-in-england-2011" title="View Dwelling stock estimates in England: 2011">Dwelling stock estimates in England: 2011</a>
-            </th>
-            <td class="attribute publication_date">
-              <abbr class="publication_date" title="2011-11-30">30 November 2011</abbr>
-            </td>
-            <td class="attribute organisations">
-              <abbr title="Department for Communities and Local Government">DCLG</abbr>
-            </td>
-            <td class="publication_type attribute">
-              Statistics
-            </td>
-            <td class="publication_series attribute">
-                Part of a series: <a href="/government/organisations/department-for-communities-and-local-government/series/dwelling-stock-including-vacants">Dwelling stock (including vacants)</a>
-            </td>
+                <a href="/government/publications/dwelling-stock-estimates-in-england-2011" title="View Dwelling stock estimates in England: 2011">Dwelling stock estimates in England: 2011</a>
+              </th>
+              <td class="attribute publication_date">
+                <abbr class="publication_date" title="2011-11-30">30 November 2011</abbr>
+              </td>
+              <td class="attribute organisations">
+                <abbr title="Department for Communities and Local Government">DCLG</abbr>
+              </td>
+              <td class="publication_type attribute">
+                Statistics
+              </td>
+              <td class="publication_series attribute">
+                  Part of a series: <a href="/government/organisations/department-for-communities-and-local-government/series/dwelling-stock-including-vacants">Dwelling stock (including vacants)</a>
+              </td>
 </tr>
 <tr class="publication document-row" id="publication_11682">
 <th scope="row" class="title attribute">
-              <a href="/government/publications/local-authority-borrowing-and-investments-2010-to-2011" title="View Local authority borrowing and investments 2010 to 2011">Local authority borrowing and investments 2010 to 2011</a>
-            </th>
-            <td class="attribute publication_date">
-              <abbr class="publication_date" title="2011-12-01">1 December 2011</abbr>
-            </td>
-            <td class="attribute organisations">
-              <abbr title="Department for Communities and Local Government">DCLG</abbr>
-            </td>
-            <td class="publication_type attribute">
-              Statistics
-            </td>
-            <td class="publication_series attribute">
-                Part of a series: <a href="/government/organisations/department-for-communities-and-local-government/series/borrowing-and-investments-by-uk-local-authorities">Borrowing and investments by UK local authorities</a>
-            </td>
+                <a href="/government/publications/local-authority-borrowing-and-investments-2010-to-2011" title="View Local authority borrowing and investments 2010 to 2011">Local authority borrowing and investments 2010 to 2011</a>
+              </th>
+              <td class="attribute publication_date">
+                <abbr class="publication_date" title="2011-12-01">1 December 2011</abbr>
+              </td>
+              <td class="attribute organisations">
+                <abbr title="Department for Communities and Local Government">DCLG</abbr>
+              </td>
+              <td class="publication_type attribute">
+                Statistics
+              </td>
+              <td class="publication_series attribute">
+                  Part of a series: <a href="/government/organisations/department-for-communities-and-local-government/series/borrowing-and-investments-by-uk-local-authorities">Borrowing and investments by UK local authorities</a>
+              </td>
 </tr>
 <tr class="publication document-row" id="publication_11661">
 <th scope="row" class="title attribute">
-              <a href="/government/publications/statutory-homelessness-in-england-july-to-september-2011" title="View Statutory homelessness in England: July to September 2011">Statutory homelessness in England: July to September 2011</a>
-            </th>
-            <td class="attribute publication_date">
-              <abbr class="publication_date" title="2011-12-08">8 December 2011</abbr>
-            </td>
-            <td class="attribute organisations">
-              <abbr title="Department for Communities and Local Government">DCLG</abbr>
-            </td>
-            <td class="publication_type attribute">
-              Statistics - national statistics
-            </td>
-            <td class="publication_series attribute">
-                Part of a series: <a href="/government/organisations/department-for-communities-and-local-government/series/homelessness-statistics">Homelessness statistics</a>
-            </td>
+                <a href="/government/publications/statutory-homelessness-in-england-july-to-september-2011" title="View Statutory homelessness in England: July to September 2011">Statutory homelessness in England: July to September 2011</a>
+              </th>
+              <td class="attribute publication_date">
+                <abbr class="publication_date" title="2011-12-08">8 December 2011</abbr>
+              </td>
+              <td class="attribute organisations">
+                <abbr title="Department for Communities and Local Government">DCLG</abbr>
+              </td>
+              <td class="publication_type attribute">
+                Statistics - national statistics
+              </td>
+              <td class="publication_series attribute">
+                  Part of a series: <a href="/government/organisations/department-for-communities-and-local-government/series/homelessness-statistics">Homelessness statistics</a>
+              </td>
 </tr>
 <tr class="publication document-row" id="publication_16935">
 <th scope="row" class="title attribute">
-              <a href="/government/publications/quarterly-revenue-outturn-for-local-authorities-in-england-q2-2011-to-2012" title="View Quarterly revenue outturn for local authorities in England: Q2 2011 to 2012">Quarterly revenue outturn for local authorities in England: Q2 2011 to 2012</a>
-            </th>
-            <td class="attribute publication_date">
-              <abbr class="publication_date" title="2011-12-09">9 December 2011</abbr>
-            </td>
-            <td class="attribute organisations">
-              <abbr title="Department for Communities and Local Government">DCLG</abbr>
-            </td>
-            <td class="publication_type attribute">
-              Statistics
-            </td>
-            <td class="publication_series attribute">
-                Part of a series: <a href="/government/organisations/department-for-communities-and-local-government/series/quarterly-revenue-outturn-for-local-authorities-in-england">Quarterly revenue outturn for local authorities in England</a>
-            </td>
+                <a href="/government/publications/quarterly-revenue-outturn-for-local-authorities-in-england-q2-2011-to-2012" title="View Quarterly revenue outturn for local authorities in England: Q2 2011 to 2012">Quarterly revenue outturn for local authorities in England: Q2 2011 to 2012</a>
+              </th>
+              <td class="attribute publication_date">
+                <abbr class="publication_date" title="2011-12-09">9 December 2011</abbr>
+              </td>
+              <td class="attribute organisations">
+                <abbr title="Department for Communities and Local Government">DCLG</abbr>
+              </td>
+              <td class="publication_type attribute">
+                Statistics
+              </td>
+              <td class="publication_series attribute">
+                  Part of a series: <a href="/government/organisations/department-for-communities-and-local-government/series/quarterly-revenue-outturn-for-local-authorities-in-england">Quarterly revenue outturn for local authorities in England</a>
+              </td>
 </tr>
 <tr class="publication document-row" id="publication_15862">
 <th scope="row" class="title attribute">
-              <a href="/government/publications/english-housing-survey-bulletin-issue-5" title="View English housing survey bulletin: issue 5">English housing survey bulletin: issue 5</a>
-            </th>
-            <td class="attribute publication_date">
-              <abbr class="publication_date" title="2011-12-15">15 December 2011</abbr>
-            </td>
-            <td class="attribute organisations">
-              <abbr title="Department for Communities and Local Government">DCLG</abbr>
-            </td>
-            <td class="publication_type attribute">
-              Statistics
-            </td>
-            <td class="publication_series attribute">
-                Part of a series: <a href="/government/organisations/department-for-communities-and-local-government/series/english-housing-survey">English housing survey</a>
-            </td>
+                <a href="/government/publications/english-housing-survey-bulletin-issue-5" title="View English housing survey bulletin: issue 5">English housing survey bulletin: issue 5</a>
+              </th>
+              <td class="attribute publication_date">
+                <abbr class="publication_date" title="2011-12-15">15 December 2011</abbr>
+              </td>
+              <td class="attribute organisations">
+                <abbr title="Department for Communities and Local Government">DCLG</abbr>
+              </td>
+              <td class="publication_type attribute">
+                Statistics
+              </td>
+              <td class="publication_series attribute">
+                  Part of a series: <a href="/government/organisations/department-for-communities-and-local-government/series/english-housing-survey">English housing survey</a>
+              </td>
 </tr>
 <tr class="publication document-row" id="publication_15794">
 <th scope="row" class="title attribute">
-              <a href="/government/publications/social-lettings-tables-2010-to-2011" title="View Social lettings tables: 2010 to 2011">Social lettings tables: 2010 to 2011</a>
-            </th>
-            <td class="attribute publication_date">
-              <abbr class="publication_date" title="2011-12-21">21 December 2011</abbr>
-            </td>
-            <td class="attribute organisations">
-              <abbr title="Department for Communities and Local Government">DCLG</abbr>
-            </td>
-            <td class="publication_type attribute">
-              Statistics
-            </td>
-            <td class="publication_series attribute">
-                Part of a series: <a href="/government/organisations/department-for-communities-and-local-government/series/rents-lettings-and-tenancies">Rents, lettings and tenancies</a>
-            </td>
+                <a href="/government/publications/social-lettings-tables-2010-to-2011" title="View Social lettings tables: 2010 to 2011">Social lettings tables: 2010 to 2011</a>
+              </th>
+              <td class="attribute publication_date">
+                <abbr class="publication_date" title="2011-12-21">21 December 2011</abbr>
+              </td>
+              <td class="attribute organisations">
+                <abbr title="Department for Communities and Local Government">DCLG</abbr>
+              </td>
+              <td class="publication_type attribute">
+                Statistics
+              </td>
+              <td class="publication_series attribute">
+                  Part of a series: <a href="/government/organisations/department-for-communities-and-local-government/series/rents-lettings-and-tenancies">Rents, lettings and tenancies</a>
+              </td>
 </tr>
 <tr class="publication document-row" id="publication_15985">
 <th scope="row" class="title attribute">
-              <a href="/government/publications/queen-elizabeth-ii-conference-centre-spending-over-500-october-2011" title="View Queen Elizabeth II Conference Centre spending over £500: October 2011">Queen Elizabeth II Conference Centre spending over £500: October 2011</a>
-            </th>
-            <td class="attribute publication_date">
-              <abbr class="publication_date" title="2011-12-30">30 December 2011</abbr>
-            </td>
-            <td class="attribute organisations">
-              <abbr title="Department for Communities and Local Government">DCLG</abbr>
-            </td>
-            <td class="publication_type attribute">
-              Statistics
-            </td>
-            <td class="publication_series attribute">
-            </td>
+                <a href="/government/publications/queen-elizabeth-ii-conference-centre-spending-over-500-october-2011" title="View Queen Elizabeth II Conference Centre spending over £500: October 2011">Queen Elizabeth II Conference Centre spending over £500: October 2011</a>
+              </th>
+              <td class="attribute publication_date">
+                <abbr class="publication_date" title="2011-12-30">30 December 2011</abbr>
+              </td>
+              <td class="attribute organisations">
+                <abbr title="Department for Communities and Local Government">DCLG</abbr>
+              </td>
+              <td class="publication_type attribute">
+                Statistics
+              </td>
+              <td class="publication_series attribute">
+              </td>
 </tr>
 <tr class="publication document-row" id="publication_11690">
 <th scope="row" class="title attribute">
-              <a href="/government/publications/fire-statistics-monitor-april-to-september-2011" title="View Fire statistics monitor: April to September 2011">Fire statistics monitor: April to September 2011</a>
-            </th>
-            <td class="attribute publication_date">
-              <abbr class="publication_date" title="2012-01-31">31 January 2012</abbr>
-            </td>
-            <td class="attribute organisations">
-              <abbr title="Department for Communities and Local Government">DCLG</abbr>
-            </td>
-            <td class="publication_type attribute">
-              Statistics - national statistics
-            </td>
-            <td class="publication_series attribute">
-                Part of a series: <a href="/government/organisations/department-for-communities-and-local-government/series/fire-statistics-monitor">Fire statistics monitor</a>
-            </td>
+                <a href="/government/publications/fire-statistics-monitor-april-to-september-2011" title="View Fire statistics monitor: April to September 2011">Fire statistics monitor: April to September 2011</a>
+              </th>
+              <td class="attribute publication_date">
+                <abbr class="publication_date" title="2012-01-31">31 January 2012</abbr>
+              </td>
+              <td class="attribute organisations">
+                <abbr title="Department for Communities and Local Government">DCLG</abbr>
+              </td>
+              <td class="publication_type attribute">
+                Statistics - national statistics
+              </td>
+              <td class="publication_series attribute">
+                  Part of a series: <a href="/government/organisations/department-for-communities-and-local-government/series/fire-statistics-monitor">Fire statistics monitor</a>
+              </td>
 </tr>
 <tr class="publication document-row" id="publication_16944">
 <th scope="row" class="title attribute">
-              <a href="/government/publications/planning-applications-in-england-april-to-september-2011" title="View Planning applications in England: April to September 2011">Planning applications in England: April to September 2011</a>
-            </th>
-            <td class="attribute publication_date">
-              <abbr class="publication_date" title="2012-02-03">3 February 2012</abbr>
-            </td>
-            <td class="attribute organisations">
-              <abbr title="Department for Communities and Local Government">DCLG</abbr>
-            </td>
-            <td class="publication_type attribute">
-              Statistics - national statistics
-            </td>
-            <td class="publication_series attribute">
-                Part of a series: <a href="/government/organisations/department-for-communities-and-local-government/series/planning-applications-statistics">Planning applications statistics</a>
-            </td>
+                <a href="/government/publications/planning-applications-in-england-april-to-september-2011" title="View Planning applications in England: April to September 2011">Planning applications in England: April to September 2011</a>
+              </th>
+              <td class="attribute publication_date">
+                <abbr class="publication_date" title="2012-02-03">3 February 2012</abbr>
+              </td>
+              <td class="attribute organisations">
+                <abbr title="Department for Communities and Local Government">DCLG</abbr>
+              </td>
+              <td class="publication_type attribute">
+                Statistics - national statistics
+              </td>
+              <td class="publication_series attribute">
+                  Part of a series: <a href="/government/organisations/department-for-communities-and-local-government/series/planning-applications-statistics">Planning applications statistics</a>
+              </td>
 </tr>
 <tr class="publication document-row" id="publication_11645">
 <th scope="row" class="title attribute">
-              <a href="/government/publications/english-housing-survey-headline-report-2010-to-2011" title="View English housing survey headline report: 2010 to 2011">English housing survey headline report: 2010 to 2011</a>
-            </th>
-            <td class="attribute publication_date">
-              <abbr class="publication_date" title="2012-02-09">9 February 2012</abbr>
-            </td>
-            <td class="attribute organisations">
-              <abbr title="Department for Communities and Local Government">DCLG</abbr>
-            </td>
-            <td class="publication_type attribute">
-              Statistics - national statistics
-            </td>
-            <td class="publication_series attribute">
-                Part of a series: <a href="/government/organisations/department-for-communities-and-local-government/series/english-housing-survey">English housing survey</a>
-            </td>
+                <a href="/government/publications/english-housing-survey-headline-report-2010-to-2011" title="View English housing survey headline report: 2010 to 2011">English housing survey headline report: 2010 to 2011</a>
+              </th>
+              <td class="attribute publication_date">
+                <abbr class="publication_date" title="2012-02-09">9 February 2012</abbr>
+              </td>
+              <td class="attribute organisations">
+                <abbr title="Department for Communities and Local Government">DCLG</abbr>
+              </td>
+              <td class="publication_type attribute">
+                Statistics - national statistics
+              </td>
+              <td class="publication_series attribute">
+                  Part of a series: <a href="/government/organisations/department-for-communities-and-local-government/series/english-housing-survey">English housing survey</a>
+              </td>
 </tr>
 <tr class="publication document-row" id="publication_15857">
 <th scope="row" class="title attribute">
-              <a href="/government/publications/english-housing-survey-bulletin-issue-6" title="View English housing survey bulletin: issue 6">English housing survey bulletin: issue 6</a>
-            </th>
-            <td class="attribute publication_date">
-              <abbr class="publication_date" title="2012-02-09">9 February 2012</abbr>
-            </td>
-            <td class="attribute organisations">
-              <abbr title="Department for Communities and Local Government">DCLG</abbr>
-            </td>
-            <td class="publication_type attribute">
-              Statistics
-            </td>
-            <td class="publication_series attribute">
-                Part of a series: <a href="/government/organisations/department-for-communities-and-local-government/series/english-housing-survey">English housing survey</a>
-            </td>
+                <a href="/government/publications/english-housing-survey-bulletin-issue-6" title="View English housing survey bulletin: issue 6">English housing survey bulletin: issue 6</a>
+              </th>
+              <td class="attribute publication_date">
+                <abbr class="publication_date" title="2012-02-09">9 February 2012</abbr>
+              </td>
+              <td class="attribute organisations">
+                <abbr title="Department for Communities and Local Government">DCLG</abbr>
+              </td>
+              <td class="publication_type attribute">
+                Statistics
+              </td>
+              <td class="publication_series attribute">
+                  Part of a series: <a href="/government/organisations/department-for-communities-and-local-government/series/english-housing-survey">English housing survey</a>
+              </td>
 </tr>
 </tbody>
 </table>
 <nav id="show-more-documents" role="navigation"><ul class="previous-next-navigation">
-<li class="previous"><a href="/government/publications?date=2011-01-01&amp;departments%5B%5D=department-for-communities-and-local-government&amp;direction=after&amp;keywords=&amp;page=3&amp;publication_type=statistics&amp;topics%5B%5D=all&amp;utf8=%E2%9C%93">Previous Page <span>3 of 8</span></a></li>
+<li class="previous"><a href="/government/publications?date=2011-01-01&amp;departments%5B%5D=department-for-communities-and-local-government&amp;direction=after&amp;keywords=&amp;page=3&amp;publication_type=statistics&amp;topics%5B%5D=all&amp;utf8=%E2%9C%93">Previous Page <span>3 of 10</span></a></li>
 
       <li class="next">
-<a href="/government/publications?date=2011-01-01&amp;departments%5B%5D=department-for-communities-and-local-government&amp;direction=after&amp;keywords=&amp;page=5&amp;publication_type=statistics&amp;topics%5B%5D=all&amp;utf8=%E2%9C%93">Next page <span>5 of 8</span></a>
+<a href="/government/publications?date=2011-01-01&amp;departments%5B%5D=department-for-communities-and-local-government&amp;direction=after&amp;keywords=&amp;page=5&amp;publication_type=statistics&amp;topics%5B%5D=all&amp;utf8=%E2%9C%93">Next page <span>5 of 10</span></a>
 </li>
 
     </ul></nav>
 </div>
+  </div>
 </div>
 
         </div>

@@ -43,14 +43,14 @@
     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
-</script><script defer src="https://assets.digital.cabinet-office.gov.uk/government/assets/application-a239688d17bcccf06a6180975dc96a1e.js" type="text/javascript"></script><!--[if gt IE 8]><!--><link href="https://assets.digital.cabinet-office.gov.uk/government/assets/frontend/base-ed0067412352d037dc7d88a233470ddd.css" media="screen" rel="stylesheet" type="text/css">
+</script><script defer src="https://assets.digital.cabinet-office.gov.uk/government/assets/application-ca258e9195b26d33bb5b61d0d2743237.js" type="text/javascript"></script><!--[if gt IE 8]><!--><link href="https://assets.digital.cabinet-office.gov.uk/government/assets/frontend/base-0d2d3d6be12501c0fb02a03e3c10cd51.css" media="screen" rel="stylesheet" type="text/css">
 <!--<![endif]--><link href="https://assets.digital.cabinet-office.gov.uk/government/assets/frontend/print-3a87362d1fe4dc933a4d5f6446e9c377.css" media="print" rel="stylesheet" type="text/css">
 <link href="https://www.gov.uk/government/feed" rel="alternate" title="Recent updates" type="application/atom+xml">
 <meta content="True" name="HandheldFriendly">
 <meta content="320" name="MobileOptimized">
 <meta content="authenticity_token" name="csrf-param">
-<meta content="/mBVPgSO4J421CqH0eVIVk44OOap6QT+NJioterZnfA=" name="csrf-token">
-<!--[if IE 6]><link href="https://assets.digital.cabinet-office.gov.uk/government/assets/frontend/base-ie6-dd9efb7d2b626191dbfafd048ae1d375.css" media="screen" rel="stylesheet" type="text/css" /><script>var ieVersion = 6;</script><![endif]--><!--[if IE 7]><link href="https://assets.digital.cabinet-office.gov.uk/government/assets/frontend/base-ie7-8d0daf916709d91caecdf7ea316c6736.css" media="screen" rel="stylesheet" type="text/css" /><script>var ieVersion = 7;</script><![endif]--><!--[if IE 8]><link href="https://assets.digital.cabinet-office.gov.uk/government/assets/frontend/base-ie8-7bbd27e1084bbcdc2861675f98a05961.css" media="screen" rel="stylesheet" type="text/css" /><script>var ieVersion = 8;</script><![endif]-->
+<meta content="j22dQ046u3cDhhTP/KeVmFSCGwDNbSu6pQCTSag9ROM=" name="csrf-token">
+<!--[if IE 6]><link href="https://assets.digital.cabinet-office.gov.uk/government/assets/frontend/base-ie6-71f073fdcacdca26879fdca8415ba68f.css" media="screen" rel="stylesheet" type="text/css" /><script>var ieVersion = 6;</script><![endif]--><!--[if IE 7]><link href="https://assets.digital.cabinet-office.gov.uk/government/assets/frontend/base-ie7-0db149f3fc248a61408eb2ce3fd01bfd.css" media="screen" rel="stylesheet" type="text/css" /><script>var ieVersion = 7;</script><![endif]--><!--[if IE 8]><link href="https://assets.digital.cabinet-office.gov.uk/government/assets/frontend/base-ie8-9ae1b12c0bb113e645bf7b8827e27030.css" media="screen" rel="stylesheet" type="text/css" /><script>var ieVersion = 8;</script><![endif]-->
 </head>
 <body class="website government">
       <script type="text/javascript">document.body.className = ((document.body.className) ? document.body.className + ' js-enabled' : 'js-enabled');</script><a href="#content" class="visuallyhidden">Skip to main content</a>
@@ -98,7 +98,7 @@
         <div class="progress-bar js-progress-bar" id="progress-bar" data-join-count="2">
           <div class="bar"><div class="joined"></div></div>
           <p>
-            2 of 23  ministerial departments have moved their corporate websites to GOV.UK.
+            2 of 24 ministerial departments have moved their corporate websites to GOV.UK.
             <a href="/government">More will join soon</a>
           </p>
         </div>
@@ -120,10 +120,23 @@
 <div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"></div>
     <fieldset>
 <legend class="visuallyhidden">Filter policies</legend>
+
+      <div class="filter" id="keyword-filter">
+        <div class="filter-inner">
+          <label class="title" for="keywords">Contains</label>
+          <input id="keywords" name="keywords" placeholder="keywords" type="text" value="">
+</div>
+      </div>
+
       <div class="filter">
         <div class="filter-inner">
-          <label class="visuallyhidden" for="topics">Topic</label>
-          <select class="multi-row-select" id="topics" multiple name="topics[]" size="9"><option value="all" selected>All topics</option>
+        </div>
+      </div>
+
+      <div class="filter">
+        <div class="filter-inner">
+          <label for="topics">Topic</label>
+          <select class="multi-row-select" id="topics" multiple name="topics[]" size="5"><option value="all" selected>All topics</option>
 <option value="climate-change">Climate change</option>
 <option value="community-and-society">Community and society</option>
 <option value="economic-growth">Economic growth</option>
@@ -138,8 +151,8 @@
       </div>
       <div class="filter">
         <div class="filter-inner">
-          <label class="visuallyhidden" for="departments">Department</label>
-          <select class="multi-row-select" id="departments" multiple name="departments[]" size="9"><option value="all">All departments</option>
+          <label for="departments">Department</label>
+          <select class="multi-row-select" id="departments" multiple name="departments[]" size="5"><option value="all">All departments</option>
 <option value="department-for-communities-and-local-government">Department for Communities and Local Government</option>
 <option value="driver-and-vehicle-licensing-agency">Driver and Vehicle Licensing Agency</option>
 <option value="driving-standards-agency">Driving Standards Agency</option>
@@ -150,19 +163,13 @@
 <option value="vehicle-and-operator-services-agency">Vehicle and Operator Services Agency</option></select>
 </div>
       </div>
-      
+
       <div class="filter">
         <div class="filter-inner">
-
-          <label class="title" for="keywords">Contains</label>
-          <input id="keywords" name="keywords" placeholder="keywords" type="text" value=""><div class="submit">
+          <div class="submit">
           <input class="button" name="commit" type="submit" value="Refresh results">
 </div>
         </div>
-      </div>
-      <div class="results">
-        <p class="count"><span>11</span> results</p>
-        <p class="selections"></p>
       </div>
     </fieldset>
 </form>
@@ -172,138 +179,144 @@
 </div>
 
 <div class="block-3">
-  <div class="inner-block filter-results" aria-live="polite">
-      <table class="document-list emphasise-recent" id="document-list">
+  <div class="inner-block">
+    <div class="filter-results-summary">
+  <h3 class="selections"></h3>
+</div>
+    
+    <div class="filter-results" aria-live="polite">
+        <table class="document-list emphasise-recent" id="document-list">
 <thead class="visuallyhidden"><tr>
 <th scope="col">Title</th>
-            <th scope="col">Organisations</th>
-            <th scope="col">Topic</th>
-          </tr></thead>
+              <th scope="col">Organisations</th>
+              <th scope="col">Topic</th>
+            </tr></thead>
 <tbody>
 <tr class="policy document-row recent" id="policy_14272">
 <th scope="row" class="title attribute">
-                <a href="/government/policies/developing-a-new-high-speed-rail-network" title="View Developing a new high speed rail network">Developing a new high speed rail network</a>
-              </th>
-              <td class="attribute organisations">
-                <abbr title="Department for Transport">DFT</abbr>
-              </td>
-              <td class="attribute topics">
-                Economic growth, Transport
-              </td>
+                  <a href="/government/policies/developing-a-new-high-speed-rail-network" title="View Developing a new high speed rail network">Developing a new high speed rail network</a>
+                </th>
+                <td class="attribute organisations">
+                  <abbr title="Department for Transport">DFT</abbr>
+                </td>
+                <td class="attribute topics">
+                  Economic growth, Transport
+                </td>
 </tr>
 <tr class="policy document-row recent" id="policy_16387">
 <th scope="row" class="title attribute">
-                <a href="/government/policies/expanding-and-improving-the-rail-network" title="View Expanding and improving the rail network">Expanding and improving the rail network</a>
-              </th>
-              <td class="attribute organisations">
-                <abbr title="Department for Transport">DFT</abbr>
-              </td>
-              <td class="attribute topics">
-                Economic growth, Transport
-              </td>
+                  <a href="/government/policies/expanding-and-improving-the-rail-network" title="View Expanding and improving the rail network">Expanding and improving the rail network</a>
+                </th>
+                <td class="attribute organisations">
+                  <abbr title="Department for Transport">DFT</abbr>
+                </td>
+                <td class="attribute topics">
+                  Economic growth, Transport
+                </td>
 </tr>
 <tr class="policy document-row recent" id="policy_16150">
 <th scope="row" class="title attribute">
-                <a href="/government/policies/improving-local-transport" title="View Improving local transport">Improving local transport</a>
-              </th>
-              <td class="attribute organisations">
-                <abbr title="Department for Transport">DFT</abbr>
-              </td>
-              <td class="attribute topics">
-                Economic growth, Transport, Local government
-              </td>
+                  <a href="/government/policies/improving-local-transport" title="View Improving local transport">Improving local transport</a>
+                </th>
+                <td class="attribute organisations">
+                  <abbr title="Department for Transport">DFT</abbr>
+                </td>
+                <td class="attribute topics">
+                  Economic growth, Transport, Local government
+                </td>
 </tr>
 <tr class="policy document-row" id="policy_16296">
 <th scope="row" class="title attribute">
-                <a href="/government/policies/making-roads-safer" title="View Making roads safer">Making roads safer</a>
-              </th>
-              <td class="attribute organisations">
-                <abbr title="Department for Transport">DFT</abbr>, <abbr title="Driver and Vehicle Licensing Agency">DVLA</abbr>, <abbr title="Driving Standards Agency">DSA</abbr>, <abbr title="Vehicle and Operator Services Agency">VOSA</abbr> and <abbr title="Vehicle Certification Agency">VCA</abbr>
-              </td>
-              <td class="attribute topics">
-                Transport
-              </td>
+                  <a href="/government/policies/making-roads-safer" title="View Making roads safer">Making roads safer</a>
+                </th>
+                <td class="attribute organisations">
+                  <abbr title="Department for Transport">DFT</abbr>, <abbr title="Driver and Vehicle Licensing Agency">DVLA</abbr>, <abbr title="Driving Standards Agency">DSA</abbr>, <abbr title="Vehicle and Operator Services Agency">VOSA</abbr> and <abbr title="Vehicle Certification Agency">VCA</abbr>
+                </td>
+                <td class="attribute topics">
+                  Transport
+                </td>
 </tr>
 <tr class="policy document-row" id="policy_16630">
 <th scope="row" class="title attribute">
-                <a href="/government/policies/making-sure-uk-airports-and-airlines-are-safe-secure-and-competitive-while-reducing-their-impacts-on-the-environment-and-communities" title="View Making sure UK airports and airlines are safe, secure and competitive while reducing their impacts on the environment and communities">Making sure UK airports and airlines are safe, secure and competitive while reducing their impacts on the environment and communities</a>
-              </th>
-              <td class="attribute organisations">
-                <abbr title="Department for Transport">DFT</abbr>
-              </td>
-              <td class="attribute topics">
-                Economic growth, Transport
-              </td>
+                  <a href="/government/policies/making-sure-uk-airports-and-airlines-are-safe-secure-and-competitive-while-reducing-their-impacts-on-the-environment-and-communities" title="View Making sure UK airports and airlines are safe, secure and competitive while reducing their impacts on the environment and communities">Making sure UK airports and airlines are safe, secure and competitive while reducing their impacts on the environment and communities</a>
+                </th>
+                <td class="attribute organisations">
+                  <abbr title="Department for Transport">DFT</abbr>
+                </td>
+                <td class="attribute topics">
+                  Economic growth, Transport
+                </td>
 </tr>
 <tr class="policy document-row" id="policy_16244">
 <th scope="row" class="title attribute">
-                <a href="/government/policies/making-transport-more-accessible-to-all" title="View Making transport more accessible to all">Making transport more accessible to all</a>
-              </th>
-              <td class="attribute organisations">
-                <abbr title="Department for Transport">DFT</abbr>
-              </td>
-              <td class="attribute topics">
-                Transport
-              </td>
+                  <a href="/government/policies/making-transport-more-accessible-to-all" title="View Making transport more accessible to all">Making transport more accessible to all</a>
+                </th>
+                <td class="attribute organisations">
+                  <abbr title="Department for Transport">DFT</abbr>
+                </td>
+                <td class="attribute topics">
+                  Transport
+                </td>
 </tr>
 <tr class="policy document-row" id="policy_17167">
 <th scope="row" class="title attribute">
-                <a href="/government/policies/managing-the-risk-to-transport-networks-from-terrorism-and-other-crimes" title="View Managing the risk to transport networks from terrorism and other crimes">Managing the risk to transport networks from terrorism and other crimes</a>
-              </th>
-              <td class="attribute organisations">
-                <abbr title="Department for Transport">DFT</abbr>
-              </td>
-              <td class="attribute topics">
-                National security, Transport
-              </td>
+                  <a href="/government/policies/managing-the-risk-to-transport-networks-from-terrorism-and-other-crimes" title="View Managing the risk to transport networks from terrorism and other crimes">Managing the risk to transport networks from terrorism and other crimes</a>
+                </th>
+                <td class="attribute organisations">
+                  <abbr title="Department for Transport">DFT</abbr>
+                </td>
+                <td class="attribute topics">
+                  National security, Transport
+                </td>
 </tr>
 <tr class="policy document-row" id="policy_17209">
 <th scope="row" class="title attribute">
-                <a href="/government/policies/managing-improving-and-investing-in-the-road-network" title="View Managing, improving and investing in the road network">Managing, improving and investing in the road network</a>
-              </th>
-              <td class="attribute organisations">
-                <abbr title="Department for Transport">DFT</abbr> and <abbr title="Highways Agency">HA</abbr>
-              </td>
-              <td class="attribute topics">
-                Transport, Economic growth
-              </td>
+                  <a href="/government/policies/managing-improving-and-investing-in-the-road-network" title="View Managing, improving and investing in the road network">Managing, improving and investing in the road network</a>
+                </th>
+                <td class="attribute organisations">
+                  <abbr title="Department for Transport">DFT</abbr> and <abbr title="Highways Agency">HA</abbr>
+                </td>
+                <td class="attribute topics">
+                  Transport, Economic growth
+                </td>
 </tr>
 <tr class="policy document-row" id="policy_17229">
 <th scope="row" class="title attribute">
-                <a href="/government/policies/providing-effective-regulation-of-freight-transport" title="View Providing effective regulation of freight transport">Providing effective regulation of freight transport</a>
-              </th>
-              <td class="attribute organisations">
-                <abbr title="Department for Transport">DFT</abbr>
-              </td>
-              <td class="attribute topics">
-                Transport
-              </td>
+                  <a href="/government/policies/providing-effective-regulation-of-freight-transport" title="View Providing effective regulation of freight transport">Providing effective regulation of freight transport</a>
+                </th>
+                <td class="attribute organisations">
+                  <abbr title="Department for Transport">DFT</abbr>
+                </td>
+                <td class="attribute topics">
+                  Transport
+                </td>
 </tr>
 <tr class="policy document-row" id="policy_16292">
 <th scope="row" class="title attribute">
-                <a href="/government/policies/reducing-greenhouse-gases-and-other-emissions-from-transport" title="View Reducing greenhouse gases and other emissions from transport">Reducing greenhouse gases and other emissions from transport</a>
-              </th>
-              <td class="attribute organisations">
-                <abbr title="Department for Transport">DFT</abbr>, <abbr title="Vehicle and Operator Services Agency">VOSA</abbr> and <abbr title="Vehicle Certification Agency">VCA</abbr>
-              </td>
-              <td class="attribute topics">
-                Climate change, Transport
-              </td>
+                  <a href="/government/policies/reducing-greenhouse-gases-and-other-emissions-from-transport" title="View Reducing greenhouse gases and other emissions from transport">Reducing greenhouse gases and other emissions from transport</a>
+                </th>
+                <td class="attribute organisations">
+                  <abbr title="Department for Transport">DFT</abbr>, <abbr title="Vehicle and Operator Services Agency">VOSA</abbr> and <abbr title="Vehicle Certification Agency">VCA</abbr>
+                </td>
+                <td class="attribute topics">
+                  Climate change, Transport
+                </td>
 </tr>
 <tr class="policy document-row" id="policy_16294">
 <th scope="row" class="title attribute">
-                <a href="/government/policies/sustaining-a-thriving-maritime-sector" title="View Sustaining a thriving maritime sector">Sustaining a thriving maritime sector</a>
-              </th>
-              <td class="attribute organisations">
-                <abbr title="Department for Transport">DFT</abbr> and <abbr title="Maritime and Coastguard Agency">MCA</abbr>
-              </td>
-              <td class="attribute topics">
-                Economic growth, Transport
-              </td>
+                  <a href="/government/policies/sustaining-a-thriving-maritime-sector" title="View Sustaining a thriving maritime sector">Sustaining a thriving maritime sector</a>
+                </th>
+                <td class="attribute organisations">
+                  <abbr title="Department for Transport">DFT</abbr> and <abbr title="Maritime and Coastguard Agency">MCA</abbr>
+                </td>
+                <td class="attribute topics">
+                  Economic growth, Transport
+                </td>
 </tr>
 </tbody>
 </table>
 </div>
+  </div>
 </div>
 
         </div>

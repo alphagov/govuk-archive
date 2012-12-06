@@ -60,7 +60,7 @@
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:Consultation/17341</id>
-    <published>2012-11-30T13:09:02+00:00</published>
+    <published>2012-11-30T00:00:00+00:00</published>
     <updated>2012-11-30T13:09:02+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/consultations/strategic-environmental-assessment-about-revoking-the-south-west-regional-strategy-environmental-report"/>
     <title>Strategic environmental assessment about revoking the South West regional strategy: environmental report</title>
@@ -329,32 +329,6 @@ So the government has acted to ensure that more land is brought forward for deve
 &lt;/ul&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:Consultation/16962</id>
-    <published>2012-11-26T15:10:31+00:00</published>
-    <updated>2012-11-26T15:10:31+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/consultations/nationally-significant-infrastructure-planning-expanding-and-improving-the-one-stop-shop-approach-for-consents"/>
-    <title>Nationally significant infrastructure planning: expanding and improving the ‘one stop shop’ approach for consents</title>
-    <summary>Consultation seeking views on which consents could be brought within the scope of an expanded ‘one stop shop’ for major infrastructure.</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;On 6 September 2012, the Prime Minister and Deputy Prime Minister set out a &lt;a href="https://www.gov.uk/government/news/plan-to-boost-british-housebuilding-jobs-and-the-economy"&gt;major package of reforms to housing and planning&lt;/a&gt; to help create conditions for economic growth. This announcement included a commitment to ‘work to extend the principle of a one-stop-shop for non-planning consents for major infrastructure’.&lt;/p&gt;
-
-&lt;p&gt;The aim of this consultation is to seek views from interested bodies on what consents should be moved within the scope of an expanded ‘one stop shop’ for major infrastructure and on proposals for streamlining the current list of statutory consultees that developers are required to consult before applying for a development consent order.&lt;/p&gt;
-
-&lt;p&gt;In a separate consultation we are seeking views on proposals to &lt;a href="https://www.gov.uk/government/consultations/nationally-significant-infrastructure-planning-extending-the-regime-to-business-and-commercial-projects"&gt;extend the nationally significant infrastructure planning regime to business and commercial projects&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:Consultation/16960</id>
-    <published>2012-11-26T15:10:11+00:00</published>
-    <updated>2012-11-26T15:10:11+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/consultations/nationally-significant-infrastructure-planning-extending-the-regime-to-business-and-commercial-projects"/>
-    <title>Nationally significant infrastructure planning: extending the regime to business and commercial projects</title>
-    <summary>Consultation seeking views on the proposal to extend the nationally significant infrastructure planning regime to business and commercial projects.</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;To help speed up planning decisions for the most complex projects and to increase choice for developers, the government proposes to extend the scope of the Planning Act 2008 so that a wider range of development can be brought within the nationally significant infrastructure planning regime. This will allow developers of nationally significant business or commercial projects to apply to the Secretary of State for the option of using the streamlined planning regime set out in the Planning Act. &lt;/p&gt;
-
-&lt;p&gt;This consultation seeks views about the proposal to extend the nationally significant infrastructure regime and, in particular, about the types and forms of business and commercial projects to be prescribed in regulations.&lt;/p&gt;
-
-&lt;p&gt;In a separate consultation we are seeking views on proposals to &lt;a href="https://www.gov.uk/government/consultations/nationally-significant-infrastructure-planning-expanding-and-improving-the-one-stop-shop-approach-for-consents"&gt;expand and improve the ‘one stop shop’ approach for consents&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
     <id>tag:www.gov.uk,2005:Policy/16971</id>
     <published>2012-11-26T13:52:20+00:00</published>
     <updated>2012-11-26T13:52:20+00:00</updated>
@@ -441,6 +415,19 @@ The &lt;a rel="external" href="http://www.legislation.gov.uk/ukpga/1984/55" titl
 &lt;/ul&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
+    <id>tag:www.gov.uk,2005:Consultation/16960</id>
+    <published>2012-11-26T00:00:00+00:00</published>
+    <updated>2012-11-26T15:10:11+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/consultations/nationally-significant-infrastructure-planning-extending-the-regime-to-business-and-commercial-projects"/>
+    <title>Nationally significant infrastructure planning: extending the regime to business and commercial projects</title>
+    <summary>Consultation seeking views on the proposal to extend the nationally significant infrastructure planning regime to business and commercial projects.</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;To help speed up planning decisions for the most complex projects and to increase choice for developers, the government proposes to extend the scope of the Planning Act 2008 so that a wider range of development can be brought within the nationally significant infrastructure planning regime. This will allow developers of nationally significant business or commercial projects to apply to the Secretary of State for the option of using the streamlined planning regime set out in the Planning Act. &lt;/p&gt;
+
+&lt;p&gt;This consultation seeks views about the proposal to extend the nationally significant infrastructure regime and, in particular, about the types and forms of business and commercial projects to be prescribed in regulations.&lt;/p&gt;
+
+&lt;p&gt;In a separate consultation we are seeking views on proposals to &lt;a href="https://www.gov.uk/government/consultations/nationally-significant-infrastructure-planning-expanding-and-improving-the-one-stop-shop-approach-for-consents"&gt;expand and improve the ‘one stop shop’ approach for consents&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
     <id>tag:www.gov.uk,2005:NewsArticle/16956</id>
     <published>2012-11-26T00:00:00+00:00</published>
     <updated>2012-11-26T13:39:14+00:00</updated>
@@ -468,6 +455,19 @@ The &lt;a rel="external" href="http://www.legislation.gov.uk/ukpga/1984/55" titl
 &lt;p&gt;Recent reforms have already given significant additional powers to councils and communities so they can decide on the scale and location of development in their areas. With this power comes a responsibility to ensure that local planning decisions are efficient and effective.&lt;/p&gt;
 
 &lt;p&gt;The Growth and Infrastructure Bill will also give planning applicants the ability to apply directly to the Planning Inspectorate where there is clear evidence that a council’s planning service is performing very poorly and failing to administer a proper service for both applicants and local residents.  A consultation recently published sets out how these proposals would work, including the basis for assessing performance.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:Consultation/16962</id>
+    <published>2012-11-26T00:00:00+00:00</published>
+    <updated>2012-11-26T15:10:31+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/consultations/nationally-significant-infrastructure-planning-expanding-and-improving-the-one-stop-shop-approach-for-consents"/>
+    <title>Nationally significant infrastructure planning: expanding and improving the ‘one stop shop’ approach for consents</title>
+    <summary>Consultation seeking views on which consents could be brought within the scope of an expanded ‘one stop shop’ for major infrastructure.</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;On 6 September 2012, the Prime Minister and Deputy Prime Minister set out a &lt;a href="https://www.gov.uk/government/news/plan-to-boost-british-housebuilding-jobs-and-the-economy"&gt;major package of reforms to housing and planning&lt;/a&gt; to help create conditions for economic growth. This announcement included a commitment to ‘work to extend the principle of a one-stop-shop for non-planning consents for major infrastructure’.&lt;/p&gt;
+
+&lt;p&gt;The aim of this consultation is to seek views from interested bodies on what consents should be moved within the scope of an expanded ‘one stop shop’ for major infrastructure and on proposals for streamlining the current list of statutory consultees that developers are required to consult before applying for a development consent order.&lt;/p&gt;
+
+&lt;p&gt;In a separate consultation we are seeking views on proposals to &lt;a href="https://www.gov.uk/government/consultations/nationally-significant-infrastructure-planning-extending-the-regime-to-business-and-commercial-projects"&gt;extend the nationally significant infrastructure planning regime to business and commercial projects&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:Policy/16917</id>

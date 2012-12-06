@@ -43,15 +43,15 @@
     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
-</script><script defer src="https://assets.digital.cabinet-office.gov.uk/government/assets/application-a239688d17bcccf06a6180975dc96a1e.js" type="text/javascript"></script><!--[if gt IE 8]><!--><link href="https://assets.digital.cabinet-office.gov.uk/government/assets/frontend/base-ed0067412352d037dc7d88a233470ddd.css" media="screen" rel="stylesheet" type="text/css">
+</script><script defer src="https://assets.digital.cabinet-office.gov.uk/government/assets/application-ca258e9195b26d33bb5b61d0d2743237.js" type="text/javascript"></script><!--[if gt IE 8]><!--><link href="https://assets.digital.cabinet-office.gov.uk/government/assets/frontend/base-0d2d3d6be12501c0fb02a03e3c10cd51.css" media="screen" rel="stylesheet" type="text/css">
 <!--<![endif]--><link href="https://assets.digital.cabinet-office.gov.uk/government/assets/frontend/print-3a87362d1fe4dc933a4d5f6446e9c377.css" media="print" rel="stylesheet" type="text/css">
 <link href="https://www.gov.uk/government/announcements.atom" rel="alternate" title="Recent announcements" type="application/atom+xml">
 <link rel="next" type="application/json" href="/government/announcements.json?direction=before&amp;page=59">
 <meta content="True" name="HandheldFriendly">
 <meta content="320" name="MobileOptimized">
 <meta content="authenticity_token" name="csrf-param">
-<meta content="CNAODfnUKiLLHghS1P+1K/yEoHtL2Bf/XQY6YzZFr3I=" name="csrf-token">
-<!--[if IE 6]><link href="https://assets.digital.cabinet-office.gov.uk/government/assets/frontend/base-ie6-dd9efb7d2b626191dbfafd048ae1d375.css" media="screen" rel="stylesheet" type="text/css" /><script>var ieVersion = 6;</script><![endif]--><!--[if IE 7]><link href="https://assets.digital.cabinet-office.gov.uk/government/assets/frontend/base-ie7-8d0daf916709d91caecdf7ea316c6736.css" media="screen" rel="stylesheet" type="text/css" /><script>var ieVersion = 7;</script><![endif]--><!--[if IE 8]><link href="https://assets.digital.cabinet-office.gov.uk/government/assets/frontend/base-ie8-7bbd27e1084bbcdc2861675f98a05961.css" media="screen" rel="stylesheet" type="text/css" /><script>var ieVersion = 8;</script><![endif]-->
+<meta content="QrCV4TXZFeiwlTKkpKxVn7BX/nrrwmXhttEB5Mhle2w=" name="csrf-token">
+<!--[if IE 6]><link href="https://assets.digital.cabinet-office.gov.uk/government/assets/frontend/base-ie6-71f073fdcacdca26879fdca8415ba68f.css" media="screen" rel="stylesheet" type="text/css" /><script>var ieVersion = 6;</script><![endif]--><!--[if IE 7]><link href="https://assets.digital.cabinet-office.gov.uk/government/assets/frontend/base-ie7-0db149f3fc248a61408eb2ce3fd01bfd.css" media="screen" rel="stylesheet" type="text/css" /><script>var ieVersion = 7;</script><![endif]--><!--[if IE 8]><link href="https://assets.digital.cabinet-office.gov.uk/government/assets/frontend/base-ie8-9ae1b12c0bb113e645bf7b8827e27030.css" media="screen" rel="stylesheet" type="text/css" /><script>var ieVersion = 8;</script><![endif]-->
 </head>
 <body class="website government">
       <script type="text/javascript">document.body.className = ((document.body.className) ? document.body.className + ' js-enabled' : 'js-enabled');</script><a href="#content" class="visuallyhidden">Skip to main content</a>
@@ -99,7 +99,7 @@
         <div class="progress-bar js-progress-bar" id="progress-bar" data-join-count="2">
           <div class="bar"><div class="joined"></div></div>
           <p>
-            2 of 23  ministerial departments have moved their corporate websites to GOV.UK.
+            2 of 24 ministerial departments have moved their corporate websites to GOV.UK.
             <a href="/government">More will join soon</a>
           </p>
         </div>
@@ -120,10 +120,23 @@
 <div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"></div>
     <fieldset>
 <legend class="visuallyhidden">Filter announcements</legend>
+
+      <div class="filter" id="keyword-filter">
+        <div class="filter-inner">
+          <label class="title" for="keywords">Contains</label>
+          <input id="keywords" name="keywords" placeholder="keywords" type="text" value="">
+</div>
+      </div>
+
       <div class="filter">
         <div class="filter-inner">
-          <label class="visuallyhidden" for="topics">Topic</label>
-          <select class="multi-row-select" id="topics" multiple name="topics[]" size="9"><option value="all" selected>All topics</option>
+        </div>
+      </div>
+
+      <div class="filter">
+        <div class="filter-inner">
+          <label for="topics">Topic</label>
+          <select class="multi-row-select" id="topics" multiple name="topics[]" size="5"><option value="all" selected>All topics</option>
 <option value="climate-change">Climate change</option>
 <option value="community-and-society">Community and society</option>
 <option value="economic-growth">Economic growth</option>
@@ -138,13 +151,14 @@
       </div>
       <div class="filter">
         <div class="filter-inner">
-          <label class="visuallyhidden" for="departments">Department</label>
-          <select class="multi-row-select" id="departments" multiple name="departments[]" size="9"><option value="all" selected>All departments</option>
+          <label for="departments">Department</label>
+          <select class="multi-row-select" id="departments" multiple name="departments[]" size="5"><option value="all" selected>All departments</option>
 <option value="attorney-generals-office">Attorney General's Office</option>
 <option value="building-regulations-advisory-committee">Building Regulations Advisory Committee</option>
 <option value="department-for-business-innovation-skills">Department for Business, Innovation &amp; Skills</option>
 <option value="cabinet-office">Cabinet Office</option>
 <option value="department-for-communities-and-local-government">Department for Communities and Local Government</option>
+<option value="ministry-of-defence">Ministry of Defence</option>
 <option value="driver-and-vehicle-licensing-agency">Driver and Vehicle Licensing Agency</option>
 <option value="driving-standards-agency">Driving Standards Agency</option>
 <option value="highways-agency">Highways Agency</option>
@@ -152,12 +166,10 @@
 <option value="department-for-transport">Department for Transport</option></select>
 </div>
       </div>
-      
+
       <div class="filter">
         <div class="filter-inner">
-
-          <label class="title" for="keywords">Contains</label>
-          <input id="keywords" name="keywords" placeholder="keywords" type="text" value=""><div class="date-range">
+            <div class="date-range">
               <h3>Published</h3>
                 <label class="checkbox" for="direction_before">
                   <input checked id="direction_before" name="direction" type="radio" value="before">
@@ -166,7 +178,7 @@
                   <input id="direction_after" name="direction" type="radio" value="after">
                   After
 </label>              <label class="visuallyhidden" for="date">Date</label>
-              <select id="date" name="date"><option value="2013-01-01">January 2013</option>
+              <select class="single-row-select" id="date" name="date"><option value="2013-01-01">January 2013</option>
 <option value="2012-12-01">December 2012</option>
 <option value="2012-11-01">November 2012</option>
 <option value="2012-10-01">October 2012</option>
@@ -196,22 +208,24 @@
 </div>
         </div>
       </div>
-      <div class="results">
-        <p class="count"><span>2219</span> results</p>
-        <p class="selections"></p>
-      </div>
     </fieldset>
 </form>
+</div>
+
+  </div>
+</div>
+
+<div class="block-4">
+  <div class="inner-block">
+    <div class="filter-results-summary">
+  <h3 class="selections"></h3>
 </div>
 
     <div class="filter-feed">
       <div class="subscribe"><a href="https://www.gov.uk/government/announcements.atom" class="feed">feed</a></div>
     </div>
-  </div>
-</div>
 
-<div class="block-4">
-  <div class="inner-block filter-results" id="announcements-container" aria-live="polite">
+    <div class="filter-results" id="announcements-container" aria-live="polite">
       <table class="document-list emphasise-recent" id="document-list">
 <thead class="visuallyhidden"><tr>
 <th scope="col">Title</th>
@@ -220,7 +234,147 @@
             <th scope="col">Announcement Type</th>
           </tr></thead>
 <tbody>
-<tr class="news_article document-row recent" id="news_article_7647">
+<tr class="news_article document-row recent" id="news_article_9198">
+<th scope="row" class="title attribute">
+              <a href="/government/news/changes-to-the-audit-commission-board-july-2011" title="View Changes to the Audit Commission board: July 2011">Changes to the Audit Commission board: July 2011</a>
+            </th>
+            <td class="attribute first_published_at">
+              <abbr class="first_published_at" title="2011-07-21T00:00:00+01:00">21 July 2011</abbr>
+            </td>
+            <td class="attribute organisations">
+              <abbr title="Department for Communities and Local Government">DCLG</abbr>
+            </td>
+            <td class="announcement_type attribute">
+              News article
+            </td>
+</tr>
+<tr class="news_article document-row recent" id="news_article_9456">
+<th scope="row" class="title attribute">
+              <a href="/government/news/grant-shapps-joins-forces-with-industry-to-take-self-build-to-the-masses--2" title="View Grant Shapps joins forces with industry to take self build to the masses">Grant Shapps joins forces with industry to take self build to the masses</a>
+            </th>
+            <td class="attribute first_published_at">
+              <abbr class="first_published_at" title="2011-07-21T00:00:00+01:00">21 July 2011</abbr>
+            </td>
+            <td class="attribute organisations">
+              <abbr title="Department for Communities and Local Government">DCLG</abbr>
+            </td>
+            <td class="announcement_type attribute">
+              News article
+            </td>
+</tr>
+<tr class="speech document-row recent" id="speech_16351">
+<th scope="row" class="title attribute">
+              <a href="/government/speeches/olympic-airspace--4" title="View Olympic airspace">Olympic airspace</a>
+            </th>
+            <td class="attribute first_published_at">
+              <abbr class="delivered_on" title="2011-07-19">19 July 2011</abbr>
+            </td>
+            <td class="attribute organisations">
+              <abbr title="Department for Transport">DFT</abbr>
+            </td>
+            <td class="announcement_type attribute">
+              Statement to parliament
+            </td>
+</tr>
+<tr class="news_article document-row" id="news_article_7958">
+<th scope="row" class="title attribute">
+              <a href="/government/news/fines-imposed-for-contempt-of-court-from-online-images" title="View Fines imposed for contempt of court from online images ">Fines imposed for contempt of court from online images </a>
+            </th>
+            <td class="attribute first_published_at">
+              <abbr class="first_published_at" title="2011-07-19T00:00:00+01:00">19 July 2011</abbr>
+            </td>
+            <td class="attribute organisations">
+              <abbr title="Attorney General's Office">AGO</abbr>
+            </td>
+            <td class="announcement_type attribute">
+              News article
+            </td>
+</tr>
+<tr class="news_article document-row" id="news_article_9267">
+<th scope="row" class="title attribute">
+              <a href="/government/news/department-for-communities-and-local-government-publishes-2010-to-2011-annual-report-and-accounts" title="View Department for Communities and Local Government publishes 2010 to 2011 annual report and accounts">Department for Communities and Local Government publishes 2010 to 2011 annual report and accounts</a>
+            </th>
+            <td class="attribute first_published_at">
+              <abbr class="first_published_at" title="2011-07-19T00:00:00+01:00">19 July 2011</abbr>
+            </td>
+            <td class="attribute organisations">
+              <abbr title="Department for Communities and Local Government">DCLG</abbr>
+            </td>
+            <td class="announcement_type attribute">
+              News article
+            </td>
+</tr>
+<tr class="news_article document-row" id="news_article_9092">
+<th scope="row" class="title attribute">
+              <a href="/government/news/andrew-stunell-visits-low-carbon-coronation-street-of-the-future" title="View Andrew Stunell visits low-carbon Coronation Street of the future">Andrew Stunell visits low-carbon Coronation Street of the future</a>
+            </th>
+            <td class="attribute first_published_at">
+              <abbr class="first_published_at" title="2011-07-19T00:00:00+01:00">19 July 2011</abbr>
+            </td>
+            <td class="attribute organisations">
+              <abbr title="Department for Communities and Local Government">DCLG</abbr>
+            </td>
+            <td class="announcement_type attribute">
+              News article
+            </td>
+</tr>
+<tr class="speech document-row" id="speech_16190">
+<th scope="row" class="title attribute">
+              <a href="/government/speeches/speech-at-office-of-rail-regulation-pr13-launch" title="View Office of Rail Regulation PR13 launch">Office of Rail Regulation PR13 launch</a>
+            </th>
+            <td class="attribute first_published_at">
+              <abbr class="delivered_on" title="2011-07-18">18 July 2011</abbr>
+            </td>
+            <td class="attribute organisations">
+              <abbr title="Department for Transport">DFT</abbr>
+            </td>
+            <td class="announcement_type attribute">
+              Speech
+            </td>
+</tr>
+<tr class="news_article document-row" id="news_article_9243">
+<th scope="row" class="title attribute">
+              <a href="/government/news/councils-freed-from-begging-bowl-put-on-path-to-growth" title="View Councils freed from begging bowl put on path to growth">Councils freed from begging bowl put on path to growth</a>
+            </th>
+            <td class="attribute first_published_at">
+              <abbr class="first_published_at" title="2011-07-18T00:00:00+01:00">18 July 2011</abbr>
+            </td>
+            <td class="attribute organisations">
+              <abbr title="Department for Communities and Local Government">DCLG</abbr>
+            </td>
+            <td class="announcement_type attribute">
+              News article
+            </td>
+</tr>
+<tr class="news_article document-row" id="news_article_9773">
+<th scope="row" class="title attribute">
+              <a href="/government/news/one-year-on-and-vanguard-communities-instigate-social-change" title="View One year on and vanguard communities instigate social change">One year on and vanguard communities instigate social change</a>
+            </th>
+            <td class="attribute first_published_at">
+              <abbr class="first_published_at" title="2011-07-18T00:00:00+01:00">18 July 2011</abbr>
+            </td>
+            <td class="attribute organisations">
+              <abbr title="Department for Communities and Local Government">DCLG</abbr>
+            </td>
+            <td class="announcement_type attribute">
+              News article
+            </td>
+</tr>
+<tr class="news_article document-row" id="news_article_9839">
+<th scope="row" class="title attribute">
+              <a href="/government/news/response-to-an-inaccurate-article-in-the-daily-telegraph-about-the-governments-forthcoming-planning-reforms" title="View Response to an inaccurate article in The Daily Telegraph about the government's forthcoming planning reforms">Response to an inaccurate article in The Daily Telegraph about the government's forthcoming planning reforms</a>
+            </th>
+            <td class="attribute first_published_at">
+              <abbr class="first_published_at" title="2011-07-18T00:00:00+01:00">18 July 2011</abbr>
+            </td>
+            <td class="attribute organisations">
+              <abbr title="Department for Communities and Local Government">DCLG</abbr>
+            </td>
+            <td class="announcement_type attribute">
+              News article
+            </td>
+</tr>
+<tr class="news_article document-row" id="news_article_7647">
 <th scope="row" class="title attribute">
               <a href="/government/news/lansio-cyfeiriadur-ar-lein-yr-hyfforddwyr-gyrru" title="View Lansio cyfeiriadur ar-lein yr hyfforddwyr gyrru">Lansio cyfeiriadur ar-lein yr hyfforddwyr gyrru</a>
             </th>
@@ -234,7 +388,7 @@
               News article
             </td>
 </tr>
-<tr class="news_article document-row recent" id="news_article_9957">
+<tr class="news_article document-row" id="news_article_9957">
 <th scope="row" class="title attribute">
               <a href="/government/news/worcestershire-flag-flies-at-department-for-communities-and-local-government" title="View Worcestershire flag flies at Department for Communities and Local Government">Worcestershire flag flies at Department for Communities and Local Government</a>
             </th>
@@ -248,7 +402,7 @@
               News article
             </td>
 </tr>
-<tr class="news_article document-row recent" id="news_article_12262">
+<tr class="news_article document-row" id="news_article_12262">
 <th scope="row" class="title attribute">
               <a href="/government/news/online-directory-of-driving-instructors-launched" title="View Online directory of driving instructors launched">Online directory of driving instructors launched</a>
             </th>
@@ -360,157 +514,18 @@
               News article
             </td>
 </tr>
-<tr class="news_article document-row" id="news_article_9412">
-<th scope="row" class="title attribute">
-              <a href="/government/news/government-announces-new-affordable-homes-programme-set-to-exceed-expectations" title="View Government announces new Affordable Homes programme set to exceed expectations">Government announces new Affordable Homes programme set to exceed expectations</a>
-            </th>
-            <td class="attribute first_published_at">
-              <abbr class="first_published_at" title="2011-07-14T00:00:00+01:00">14 July 2011</abbr>
-            </td>
-            <td class="attribute organisations">
-              <abbr title="Department for Communities and Local Government">DCLG</abbr>
-            </td>
-            <td class="announcement_type attribute">
-              News article
-            </td>
-</tr>
-<tr class="speech document-row" id="speech_14853">
-<th scope="row" class="title attribute">
-              <a href="/government/speeches/crossrail-annual-update--8" title="View Crossrail - annual update">Crossrail - annual update</a>
-            </th>
-            <td class="attribute first_published_at">
-              <abbr class="delivered_on" title="2011-07-13">13 July 2011</abbr>
-            </td>
-            <td class="attribute organisations">
-              <abbr title="Department for Transport">DFT</abbr>
-            </td>
-            <td class="announcement_type attribute">
-              Statement to parliament
-            </td>
-</tr>
-<tr class="news_article document-row" id="news_article_7650">
-<th scope="row" class="title attribute">
-              <a href="/government/news/dsa-yn-adnewyddu-contract-cyhoeddi-gyda-r-llyfrfa" title="View DSA yn adnewyddu contract cyhoeddi gyda’r Llyfrfa">DSA yn adnewyddu contract cyhoeddi gyda’r Llyfrfa</a>
-            </th>
-            <td class="attribute first_published_at">
-              <abbr class="first_published_at" title="2011-07-13T00:00:00+01:00">13 July 2011</abbr>
-            </td>
-            <td class="attribute organisations">
-              <abbr title="Driving Standards Agency">DSA</abbr>
-            </td>
-            <td class="announcement_type attribute">
-              News article
-            </td>
-</tr>
-<tr class="news_article document-row" id="news_article_12261">
-<th scope="row" class="title attribute">
-              <a href="/government/news/dsa-renews-publishing-contract-with-the-stationery-office" title="View DSA renews publishing contract with The Stationery Office">DSA renews publishing contract with The Stationery Office</a>
-            </th>
-            <td class="attribute first_published_at">
-              <abbr class="first_published_at" title="2011-07-13T00:00:00+01:00">13 July 2011</abbr>
-            </td>
-            <td class="attribute organisations">
-              <abbr title="Driving Standards Agency">DSA</abbr>
-            </td>
-            <td class="announcement_type attribute">
-              News article
-            </td>
-</tr>
-<tr class="news_article document-row" id="news_article_7956">
-<th scope="row" class="title attribute">
-              <a href="/government/news/new-government-prosecutors-join-crown-prosecution-service" title="View New government prosecutors join Crown Prosecution Service ">New government prosecutors join Crown Prosecution Service </a>
-            </th>
-            <td class="attribute first_published_at">
-              <abbr class="first_published_at" title="2011-07-12T00:00:00+01:00">12 July 2011</abbr>
-            </td>
-            <td class="attribute organisations">
-              <abbr title="Attorney General's Office">AGO</abbr>
-            </td>
-            <td class="announcement_type attribute">
-              News article
-            </td>
-</tr>
-<tr class="speech document-row" id="speech_13734">
-<th scope="row" class="title attribute">
-              <a href="/government/speeches/search-and-rescue-interim-contract" title="View Search and rescue interim contract">Search and rescue interim contract</a>
-            </th>
-            <td class="attribute first_published_at">
-              <abbr class="delivered_on" title="2011-07-11">11 July 2011</abbr>
-            </td>
-            <td class="attribute organisations">
-              <abbr title="Department for Transport">DFT</abbr>
-            </td>
-            <td class="announcement_type attribute">
-              Statement to parliament
-            </td>
-</tr>
-<tr class="speech document-row" id="speech_12983">
-<th scope="row" class="title attribute">
-              <a href="/government/speeches/the-olympic-route-network-designation-amendment-order-2011" title="View The Olympic Route Network Designation (Amendment) Order 2011">The Olympic Route Network Designation (Amendment) Order 2011</a>
-            </th>
-            <td class="attribute first_published_at">
-              <abbr class="delivered_on" title="2011-07-11">11 July 2011</abbr>
-            </td>
-            <td class="attribute organisations">
-              <abbr title="Department for Transport">DFT</abbr>
-            </td>
-            <td class="announcement_type attribute">
-              Statement to parliament
-            </td>
-</tr>
-<tr class="news_article document-row" id="news_article_9837">
-<th scope="row" class="title attribute">
-              <a href="/government/news/residents-stamp-their-authority-on-local-post-office" title="View Residents stamp their authority on local post office">Residents stamp their authority on local post office</a>
-            </th>
-            <td class="attribute first_published_at">
-              <abbr class="first_published_at" title="2011-07-11T00:00:00+01:00">11 July 2011</abbr>
-            </td>
-            <td class="attribute organisations">
-              <abbr title="Department for Communities and Local Government">DCLG</abbr>
-            </td>
-            <td class="announcement_type attribute">
-              News article
-            </td>
-</tr>
-<tr class="news_article document-row" id="news_article_9952">
-<th scope="row" class="title attribute">
-              <a href="/government/news/warwickshire-flag-to-fly-at-department-for-communities-and-local-government" title="View Warwickshire flag to fly at Department for Communities and Local Government">Warwickshire flag to fly at Department for Communities and Local Government</a>
-            </th>
-            <td class="attribute first_published_at">
-              <abbr class="first_published_at" title="2011-07-11T00:00:00+01:00">11 July 2011</abbr>
-            </td>
-            <td class="attribute organisations">
-              <abbr title="Department for Communities and Local Government">DCLG</abbr>
-            </td>
-            <td class="announcement_type attribute">
-              News article
-            </td>
-</tr>
-<tr class="news_article document-row" id="news_article_9297">
-<th scope="row" class="title attribute">
-              <a href="/government/news/armchair-auditors-are-here-to-stay" title="View Armchair auditors are here to stay">Armchair auditors are here to stay</a>
-            </th>
-            <td class="attribute first_published_at">
-              <abbr class="first_published_at" title="2011-07-08T00:00:00+01:00">8 July 2011</abbr>
-            </td>
-            <td class="attribute organisations">
-              <abbr title="Department for Communities and Local Government">DCLG</abbr>
-            </td>
-            <td class="announcement_type attribute">
-              News article
-            </td>
-</tr>
 </tbody>
 </table>
 <nav id="show-more-documents" role="navigation"><ul class="previous-next-navigation">
-<li class="previous"><a href="/government/announcements?direction=before&amp;page=57">Previous Page <span>57 of 111</span></a></li>
+<li class="previous"><a href="/government/announcements?direction=before&amp;page=57">Previous Page <span>57 of 112</span></a></li>
 
       <li class="next">
-<a href="/government/announcements?direction=before&amp;page=59">Next page <span>59 of 111</span></a>
+<a href="/government/announcements?direction=before&amp;page=59">Next page <span>59 of 112</span></a>
 </li>
 
     </ul></nav>
 </div>
+  </div>
 </div>
 
         </div>

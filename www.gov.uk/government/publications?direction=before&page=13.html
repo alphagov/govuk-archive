@@ -43,15 +43,15 @@
     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
-</script><script defer src="https://assets.digital.cabinet-office.gov.uk/government/assets/application-a239688d17bcccf06a6180975dc96a1e.js" type="text/javascript"></script><!--[if gt IE 8]><!--><link href="https://assets.digital.cabinet-office.gov.uk/government/assets/frontend/base-ed0067412352d037dc7d88a233470ddd.css" media="screen" rel="stylesheet" type="text/css">
+</script><script defer src="https://assets.digital.cabinet-office.gov.uk/government/assets/application-ca258e9195b26d33bb5b61d0d2743237.js" type="text/javascript"></script><!--[if gt IE 8]><!--><link href="https://assets.digital.cabinet-office.gov.uk/government/assets/frontend/base-0d2d3d6be12501c0fb02a03e3c10cd51.css" media="screen" rel="stylesheet" type="text/css">
 <!--<![endif]--><link href="https://assets.digital.cabinet-office.gov.uk/government/assets/frontend/print-3a87362d1fe4dc933a4d5f6446e9c377.css" media="print" rel="stylesheet" type="text/css">
 <link href="https://www.gov.uk/government/publications.atom" rel="alternate" title="Recent publications" type="application/atom+xml">
 <link rel="next" type="application/json" href="/government/publications.json?direction=before&amp;page=14">
 <meta content="True" name="HandheldFriendly">
 <meta content="320" name="MobileOptimized">
 <meta content="authenticity_token" name="csrf-param">
-<meta content="qnygFVniJajHux7KPsjmhWMzPJ0QIrJ1lKyO5nkv/y8=" name="csrf-token">
-<!--[if IE 6]><link href="https://assets.digital.cabinet-office.gov.uk/government/assets/frontend/base-ie6-dd9efb7d2b626191dbfafd048ae1d375.css" media="screen" rel="stylesheet" type="text/css" /><script>var ieVersion = 6;</script><![endif]--><!--[if IE 7]><link href="https://assets.digital.cabinet-office.gov.uk/government/assets/frontend/base-ie7-8d0daf916709d91caecdf7ea316c6736.css" media="screen" rel="stylesheet" type="text/css" /><script>var ieVersion = 7;</script><![endif]--><!--[if IE 8]><link href="https://assets.digital.cabinet-office.gov.uk/government/assets/frontend/base-ie8-7bbd27e1084bbcdc2861675f98a05961.css" media="screen" rel="stylesheet" type="text/css" /><script>var ieVersion = 8;</script><![endif]-->
+<meta content="CaMBDaynLmXPenXfryVjvxKrKYi0GHbaK6SXJ7vUfQQ=" name="csrf-token">
+<!--[if IE 6]><link href="https://assets.digital.cabinet-office.gov.uk/government/assets/frontend/base-ie6-71f073fdcacdca26879fdca8415ba68f.css" media="screen" rel="stylesheet" type="text/css" /><script>var ieVersion = 6;</script><![endif]--><!--[if IE 7]><link href="https://assets.digital.cabinet-office.gov.uk/government/assets/frontend/base-ie7-0db149f3fc248a61408eb2ce3fd01bfd.css" media="screen" rel="stylesheet" type="text/css" /><script>var ieVersion = 7;</script><![endif]--><!--[if IE 8]><link href="https://assets.digital.cabinet-office.gov.uk/government/assets/frontend/base-ie8-9ae1b12c0bb113e645bf7b8827e27030.css" media="screen" rel="stylesheet" type="text/css" /><script>var ieVersion = 8;</script><![endif]-->
 </head>
 <body class="website government">
       <script type="text/javascript">document.body.className = ((document.body.className) ? document.body.className + ' js-enabled' : 'js-enabled');</script><a href="#content" class="visuallyhidden">Skip to main content</a>
@@ -99,7 +99,7 @@
         <div class="progress-bar js-progress-bar" id="progress-bar" data-join-count="2">
           <div class="bar"><div class="joined"></div></div>
           <p>
-            2 of 23  ministerial departments have moved their corporate websites to GOV.UK.
+            2 of 24 ministerial departments have moved their corporate websites to GOV.UK.
             <a href="/government">More will join soon</a>
           </p>
         </div>
@@ -115,17 +115,47 @@
 
 <div class="block-2">
   <div class="inner-block">
-    
     <div class="filter-block">
   <h2>You can use the filters to show only results that match your interests</h2>
   <form accept-charset="UTF-8" action="/government/publications" class="js-document-filter" id="document-filter" method="get">
 <div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"></div>
     <fieldset>
 <legend class="visuallyhidden">Filter publications</legend>
+
+      <div class="filter" id="keyword-filter">
+        <div class="filter-inner">
+          <label class="title" for="keywords">Contains</label>
+          <input id="keywords" name="keywords" placeholder="keywords" type="text" value="">
+</div>
+      </div>
+
       <div class="filter">
         <div class="filter-inner">
-          <label class="visuallyhidden" for="topics">Topic</label>
-          <select class="multi-row-select" id="topics" multiple name="topics[]" size="9"><option value="all" selected>All topics</option>
+            <div class="publication-type">
+              <label class="title" for="publication_filter_option">Publication type</label>
+              <select class="single-row-select" id="publication_filter_option" name="publication_filter_option"><option value="all" selected>All publication types</option>
+<option value="policy-papers">Policy papers</option>
+<option value="consultations">Consultations</option>
+<option value="impact-assessments">Impact assessments</option>
+<option value="guidance">Guidance</option>
+<option value="forms">Forms</option>
+<option value="statistics">Statistics</option>
+<option value="research-and-analysis">Research and analysis</option>
+<option value="corporate-reports">Corporate reports</option>
+<option value="transparency-data">Transparency data</option>
+<option value="treaties">Treaties</option>
+<option value="foi-releases">FOI releases</option>
+<option value="independent-reports">Independent reports</option>
+<option value="circulars-letters-and-bulletins">Circulars, letters and bulletins</option>
+<option value="promotional-material">Promotional material</option></select>
+</div>
+        </div>
+      </div>
+
+      <div class="filter">
+        <div class="filter-inner">
+          <label for="topics">Topic</label>
+          <select class="multi-row-select" id="topics" multiple name="topics[]" size="5"><option value="all" selected>All topics</option>
 <option value="climate-change">Climate change</option>
 <option value="community-and-society">Community and society</option>
 <option value="economic-growth">Economic growth</option>
@@ -140,8 +170,8 @@
       </div>
       <div class="filter">
         <div class="filter-inner">
-          <label class="visuallyhidden" for="departments">Department</label>
-          <select class="multi-row-select" id="departments" multiple name="departments[]" size="9"><option value="all" selected>All departments</option>
+          <label for="departments">Department</label>
+          <select class="multi-row-select" id="departments" multiple name="departments[]" size="5"><option value="all" selected>All departments</option>
 <option value="attorney-generals-office">Attorney General's Office</option>
 <option value="building-regulations-advisory-committee">Building Regulations Advisory Committee</option>
 <option value="department-for-business-innovation-skills">Department for Business, Innovation &amp; Skills</option>
@@ -160,30 +190,10 @@
 <option value="vehicle-certification-agency">Vehicle Certification Agency</option></select>
 </div>
       </div>
-      
+
       <div class="filter">
         <div class="filter-inner">
-            <div class="publication-type">
-              <label class="title" for="publication_filter_option">Publication type</label>
-              <select id="publication_filter_option" name="publication_filter_option"><option value="all" selected>All publication types</option>
-<option value="policy-papers">Policy papers</option>
-<option value="consultations">Consultations</option>
-<option value="impact-assessments">Impact assessments</option>
-<option value="guidance">Guidance</option>
-<option value="forms">Forms</option>
-<option value="statistics">Statistics</option>
-<option value="research-and-analysis">Research and analysis</option>
-<option value="corporate-reports">Corporate reports</option>
-<option value="transparency-data">Transparency data</option>
-<option value="treaties">Treaties</option>
-<option value="foi-releases">FOI releases</option>
-<option value="independent-reports">Independent reports</option>
-<option value="circulars-letters-and-bulletins">Circulars, letters and bulletins</option>
-<option value="promotional-material">Promotional material</option></select>
-</div>
-
-          <label class="title" for="keywords">Contains</label>
-          <input id="keywords" name="keywords" placeholder="keywords" type="text" value=""><div class="date-range">
+            <div class="date-range">
               <h3>Published</h3>
                 <label class="checkbox" for="direction_before">
                   <input checked id="direction_before" name="direction" type="radio" value="before">
@@ -192,7 +202,7 @@
                   <input id="direction_after" name="direction" type="radio" value="after">
                   After
 </label>              <label class="visuallyhidden" for="date">Date</label>
-              <select id="date" name="date"><option value="2013-01-01">January 2013</option>
+              <select class="single-row-select" id="date" name="date"><option value="2013-01-01">January 2013</option>
 <option value="2012-12-01">December 2012</option>
 <option value="2012-11-01">November 2012</option>
 <option value="2012-10-01">October 2012</option>
@@ -222,365 +232,386 @@
 </div>
         </div>
       </div>
-      <div class="results">
-        <p class="count"><span>3019</span> results</p>
-        <p class="selections"></p>
-      </div>
     </fieldset>
 </form>
 </div>
 
-    <div class="filter-feed">
-      <div class="subscribe"><a href="https://www.gov.uk/government/publications.atom" class="feed">feed</a></div>
-    </div>
   </div>
 </div>
 
 <div class="block-4">
-  <div class="inner-block filter-results" id="publications-container" aria-live="polite">
+  <div class="inner-block">
+    <div class="filter-results-summary">
+  <h3 class="selections"></h3>
+</div>
     
-      <table class="document-list emphasise-recent" id="document-list">
+    <div class="filter-feed">
+      <div class="subscribe"><a href="https://www.gov.uk/government/publications.atom" class="feed">feed</a></div>
+    </div>
+    
+    <div class="filter-results" id="publications-container" aria-live="polite">
+      
+        <table class="document-list emphasise-recent" id="document-list">
 <thead class="visuallyhidden"><tr>
 <th scope="col">Title</th>
-            <th scope="col">Publication Date</th>
-            <th scope="col">Publication Organisations</th>
-            <th scope="col">Publication Type</th>
-            <th scope="col">Publication Series</th>
-          </tr></thead>
+              <th scope="col">Publication Date</th>
+              <th scope="col">Publication Organisations</th>
+              <th scope="col">Publication Type</th>
+              <th scope="col">Publication Series</th>
+            </tr></thead>
 <tbody>
-<tr class="publication document-row recent" id="publication_13084">
+<tr class="statistical_data_set document-row recent" id="statistical_data_set_13993">
 <th scope="row" class="title attribute">
-              <a href="/government/publications/car-practical-driving-test-passes-with-no-faults-nationally-and-at-inverness" title="View Car practical driving test passes with no faults nationally and at Inverness">Car practical driving test passes with no faults nationally and at Inverness</a>
-            </th>
-            <td class="attribute publication_date">
-              <abbr class="publication_date" title="2012-10-18">18 October 2012</abbr>
-            </td>
-            <td class="attribute organisations">
-              <abbr title="Driving Standards Agency">DSA</abbr>
-            </td>
-            <td class="publication_type attribute">
-              FOI release
-            </td>
-            <td class="publication_series attribute">
-            </td>
+                <a href="/government/statistical-data-sets/tsgb08-traffic-accidents-and-casualties" title="View TSGB08 - Traffic accidents and casualties">TSGB08 - Traffic accidents and casualties</a>
+              </th>
+              <td class="attribute publication_date">
+                <abbr class="first_published_at" title="2012-11-10T13:07:15+00:00">10 November 2012</abbr>
+              </td>
+              <td class="attribute organisations">
+                <abbr title="Department for Transport">DFT</abbr>
+              </td>
+              <td class="publication_type attribute">
+                Statistical data set
+              </td>
+              <td class="publication_series attribute">
+                  Part of a series: <a href="/government/organisations/department-for-transport/series/transport-statistics-great-britain">Transport Statistics Great Britain</a>
+              </td>
 </tr>
-<tr class="publication document-row recent" id="publication_13083">
+<tr class="statistical_data_set document-row recent" id="statistical_data_set_13994">
 <th scope="row" class="title attribute">
-              <a href="/government/publications/large-goods-vehicle-practical-driving-tests-at-bristol" title="View Large goods vehicle practical driving tests at Bristol">Large goods vehicle practical driving tests at Bristol</a>
-            </th>
-            <td class="attribute publication_date">
-              <abbr class="publication_date" title="2012-10-18">18 October 2012</abbr>
-            </td>
-            <td class="attribute organisations">
-              <abbr title="Driving Standards Agency">DSA</abbr>
-            </td>
-            <td class="publication_type attribute">
-              FOI release
-            </td>
-            <td class="publication_series attribute">
-            </td>
+                <a href="/government/statistical-data-sets/tsgb09-vehicles" title="View TSGB09 - Vehicles">TSGB09 - Vehicles</a>
+              </th>
+              <td class="attribute publication_date">
+                <abbr class="first_published_at" title="2012-11-10T13:06:45+00:00">10 November 2012</abbr>
+              </td>
+              <td class="attribute organisations">
+                <abbr title="Department for Transport">DFT</abbr>
+              </td>
+              <td class="publication_type attribute">
+                Statistical data set
+              </td>
+              <td class="publication_series attribute">
+                  Part of a series: <a href="/government/organisations/department-for-transport/series/transport-statistics-great-britain">Transport Statistics Great Britain</a>
+              </td>
 </tr>
-<tr class="publication document-row recent" id="publication_13081">
+<tr class="statistical_data_set document-row recent" id="statistical_data_set_13995">
 <th scope="row" class="title attribute">
-              <a href="/government/publications/driving-test-pass-and-fail-statistics-and-complaints-by-named-examiner" title="View Driving test pass and fail statistics and complaints by named examiner">Driving test pass and fail statistics and complaints by named examiner</a>
-            </th>
-            <td class="attribute publication_date">
-              <abbr class="publication_date" title="2012-10-18">18 October 2012</abbr>
-            </td>
-            <td class="attribute organisations">
-              <abbr title="Driving Standards Agency">DSA</abbr>
-            </td>
-            <td class="publication_type attribute">
-              FOI release
-            </td>
-            <td class="publication_series attribute">
-            </td>
+                <a href="/government/statistical-data-sets/ved01-unlicensed-vehicles" title="View VED01 - Unlicensed vehicles">VED01 - Unlicensed vehicles</a>
+              </th>
+              <td class="attribute publication_date">
+                <abbr class="first_published_at" title="2012-11-10T13:04:10+00:00">10 November 2012</abbr>
+              </td>
+              <td class="attribute organisations">
+                <abbr title="Department for Transport">DFT</abbr>
+              </td>
+              <td class="publication_type attribute">
+                Statistical data set
+              </td>
+              <td class="publication_series attribute">
+                  Part of a series: <a href="/government/organisations/department-for-transport/series/vehicle-excise-duty-evasion-statistics">Vehicle excise duty evasion statistics</a>
+              </td>
 </tr>
-<tr class="publication document-row" id="publication_13050">
+<tr class="statistical_data_set document-row" id="statistical_data_set_13997">
 <th scope="row" class="title attribute">
-              <a href="/government/publications/cost-of-introducing-a-new-voiceover-into-the-theory-test" title="View Cost of introducing a new voiceover into the theory test">Cost of introducing a new voiceover into the theory test</a>
-            </th>
-            <td class="attribute publication_date">
-              <abbr class="publication_date" title="2012-10-18">18 October 2012</abbr>
-            </td>
-            <td class="attribute organisations">
-              <abbr title="Driving Standards Agency">DSA</abbr>
-            </td>
-            <td class="publication_type attribute">
-              FOI release
-            </td>
-            <td class="publication_series attribute">
-            </td>
+                <a href="/government/statistical-data-sets/ved03-lost-revenue-from-unlicensed-vehicles" title="View VED03 - Lost revenue from unlicensed vehicles">VED03 - Lost revenue from unlicensed vehicles</a>
+              </th>
+              <td class="attribute publication_date">
+                <abbr class="first_published_at" title="2012-11-10T13:03:34+00:00">10 November 2012</abbr>
+              </td>
+              <td class="attribute organisations">
+                <abbr title="Department for Transport">DFT</abbr>
+              </td>
+              <td class="publication_type attribute">
+                Statistical data set
+              </td>
+              <td class="publication_series attribute">
+                  Part of a series: <a href="/government/organisations/department-for-transport/series/vehicle-excise-duty-evasion-statistics">Vehicle excise duty evasion statistics</a>
+              </td>
 </tr>
-<tr class="publication document-row" id="publication_13049">
+<tr class="statistical_data_set document-row" id="statistical_data_set_13996">
 <th scope="row" class="title attribute">
-              <a href="/government/publications/line-management-chain-for-driving-examiners" title="View Line management chain for driving examiners">Line management chain for driving examiners</a>
-            </th>
-            <td class="attribute publication_date">
-              <abbr class="publication_date" title="2012-10-18">18 October 2012</abbr>
-            </td>
-            <td class="attribute organisations">
-              <abbr title="Driving Standards Agency">DSA</abbr>
-            </td>
-            <td class="publication_type attribute">
-              FOI release
-            </td>
-            <td class="publication_series attribute">
-            </td>
+                <a href="/government/statistical-data-sets/ved02-unlicensed-vehicles-in-active-stock" title="View VED02 - Unlicensed vehicles in active stock">VED02 - Unlicensed vehicles in active stock</a>
+              </th>
+              <td class="attribute publication_date">
+                <abbr class="first_published_at" title="2012-11-10T12:56:54+00:00">10 November 2012</abbr>
+              </td>
+              <td class="attribute organisations">
+                <abbr title="Department for Transport">DFT</abbr>
+              </td>
+              <td class="publication_type attribute">
+                Statistical data set
+              </td>
+              <td class="publication_series attribute">
+                  Part of a series: <a href="/government/organisations/department-for-transport/series/vehicle-excise-duty-evasion-statistics">Vehicle excise duty evasion statistics</a>
+              </td>
 </tr>
-<tr class="publication document-row" id="publication_13048">
+<tr class="statistical_data_set document-row" id="statistical_data_set_13998">
 <th scope="row" class="title attribute">
-              <a href="/government/publications/practical-driving-test-refund-questions" title="View Practical driving test refund questions">Practical driving test refund questions</a>
-            </th>
-            <td class="attribute publication_date">
-              <abbr class="publication_date" title="2012-10-18">18 October 2012</abbr>
-            </td>
-            <td class="attribute organisations">
-              <abbr title="Driving Standards Agency">DSA</abbr>
-            </td>
-            <td class="publication_type attribute">
-              FOI release
-            </td>
-            <td class="publication_series attribute">
-            </td>
+                <a href="/government/statistical-data-sets/ved04-observed-unlicensed-vehicles" title="View VED04 - Observed unlicensed vehicles">VED04 - Observed unlicensed vehicles</a>
+              </th>
+              <td class="attribute publication_date">
+                <abbr class="first_published_at" title="2012-11-10T12:56:34+00:00">10 November 2012</abbr>
+              </td>
+              <td class="attribute organisations">
+                <abbr title="Department for Transport">DFT</abbr>
+              </td>
+              <td class="publication_type attribute">
+                Statistical data set
+              </td>
+              <td class="publication_series attribute">
+                  Part of a series: <a href="/government/organisations/department-for-transport/series/vehicle-excise-duty-evasion-statistics">Vehicle excise duty evasion statistics</a>
+              </td>
 </tr>
-<tr class="publication document-row" id="publication_13046">
+<tr class="statistical_data_set document-row" id="statistical_data_set_14000">
 <th scope="row" class="title attribute">
-              <a href="/government/publications/theory-tests-conducted-with-a-voiceover-or-translator" title="View Theory tests conducted with a voiceover or translator">Theory tests conducted with a voiceover or translator</a>
-            </th>
-            <td class="attribute publication_date">
-              <abbr class="publication_date" title="2012-10-18">18 October 2012</abbr>
-            </td>
-            <td class="attribute organisations">
-              <abbr title="Driving Standards Agency">DSA</abbr>
-            </td>
-            <td class="publication_type attribute">
-              FOI release
-            </td>
-            <td class="publication_series attribute">
-            </td>
+                <a href="/government/statistical-data-sets/veh01-vehicles-registered-for-the-first-time" title="View VEH01 - Vehicles registered for the first time">VEH01 - Vehicles registered for the first time</a>
+              </th>
+              <td class="attribute publication_date">
+                <abbr class="first_published_at" title="2012-11-10T12:56:08+00:00">10 November 2012</abbr>
+              </td>
+              <td class="attribute organisations">
+                <abbr title="Department for Transport">DFT</abbr>
+              </td>
+              <td class="publication_type attribute">
+                Statistical data set
+              </td>
+              <td class="publication_series attribute">
+                  Part of a series: <a href="/government/organisations/department-for-transport/series/vehicle-licensing-statistics">Vehicle licensing statistics</a>
+              </td>
 </tr>
-<tr class="publication document-row" id="publication_16440">
+<tr class="statistical_data_set document-row" id="statistical_data_set_14001">
 <th scope="row" class="title attribute">
-              <a href="/government/publications/chiltern-railways-bicester-to-oxford-improvements-secretary-of-states-decision-letter" title="View Chiltern Railways (Bicester to Oxford improvements) Secretary of State's decision letter">Chiltern Railways (Bicester to Oxford improvements) Secretary of State's decision letter</a>
-            </th>
-            <td class="attribute publication_date">
-              <abbr class="publication_date" title="2012-10-17">17 October 2012</abbr>
-            </td>
-            <td class="attribute organisations">
-              <abbr title="Department for Transport">DFT</abbr>
-            </td>
-            <td class="publication_type attribute">
-              Circular, letter or bulletin
-            </td>
-            <td class="publication_series attribute">
-                Part of a series: <a href="/government/organisations/department-for-transport/series/twa-inspector-reports-and-decision-letters">TWA inspector reports and decision letters</a>
-            </td>
+                <a href="/government/statistical-data-sets/veh02-licensed-cars" title="View VEH02 - Licensed cars">VEH02 - Licensed cars</a>
+              </th>
+              <td class="attribute publication_date">
+                <abbr class="first_published_at" title="2012-11-10T12:55:01+00:00">10 November 2012</abbr>
+              </td>
+              <td class="attribute organisations">
+                <abbr title="Department for Transport">DFT</abbr>
+              </td>
+              <td class="publication_type attribute">
+                Statistical data set
+              </td>
+              <td class="publication_series attribute">
+                  Part of a series: <a href="/government/organisations/department-for-transport/series/vehicle-licensing-statistics">Vehicle licensing statistics</a>
+              </td>
 </tr>
-<tr class="publication document-row" id="publication_13427">
+<tr class="statistical_data_set document-row" id="statistical_data_set_14002">
 <th scope="row" class="title attribute">
-              <a href="/government/publications/local-government-pension-scheme-funds-for-england-2011-to-2012" title="View Local Government Pension Scheme Funds for England: 2011 to 2012">Local Government Pension Scheme Funds for England: 2011 to 2012</a>
-            </th>
-            <td class="attribute publication_date">
-              <abbr class="publication_date" title="2012-10-17">17 October 2012</abbr>
-            </td>
-            <td class="attribute organisations">
-              <abbr title="Department for Communities and Local Government">DCLG</abbr>
-            </td>
-            <td class="publication_type attribute">
-              Transparency data
-            </td>
-            <td class="publication_series attribute">
-                Part of a series: <a href="/government/organisations/department-for-communities-and-local-government/series/local-government-pension-scheme">Local government pension scheme</a>
-            </td>
+                <a href="/government/statistical-data-sets/veh04-licensed-light-goods-vehicles" title="View VEH04 - Licensed light goods vehicles">VEH04 - Licensed light goods vehicles</a>
+              </th>
+              <td class="attribute publication_date">
+                <abbr class="first_published_at" title="2012-11-10T12:53:41+00:00">10 November 2012</abbr>
+              </td>
+              <td class="attribute organisations">
+                <abbr title="Department for Transport">DFT</abbr>
+              </td>
+              <td class="publication_type attribute">
+                Statistical data set
+              </td>
+              <td class="publication_series attribute">
+                  Part of a series: <a href="/government/organisations/department-for-transport/series/vehicle-licensing-statistics">Vehicle licensing statistics</a>
+              </td>
 </tr>
-<tr class="publication document-row" id="publication_13082">
+<tr class="statistical_data_set document-row" id="statistical_data_set_14365">
 <th scope="row" class="title attribute">
-              <a href="/government/publications/training-and-monitoring-of-approved-driving-instructor-examiners" title="View Training and monitoring of approved driving instructor examiners">Training and monitoring of approved driving instructor examiners</a>
-            </th>
-            <td class="attribute publication_date">
-              <abbr class="publication_date" title="2012-10-17">17 October 2012</abbr>
-            </td>
-            <td class="attribute organisations">
-              <abbr title="Driving Standards Agency">DSA</abbr>
-            </td>
-            <td class="publication_type attribute">
-              FOI release
-            </td>
-            <td class="publication_series attribute">
-            </td>
+                <a href="/government/statistical-data-sets/veh05-licensed-heavy-goods-vehicles" title="View VEH05 - Licensed heavy goods vehicles">VEH05 - Licensed heavy goods vehicles</a>
+              </th>
+              <td class="attribute publication_date">
+                <abbr class="first_published_at" title="2012-11-10T12:53:23+00:00">10 November 2012</abbr>
+              </td>
+              <td class="attribute organisations">
+                <abbr title="Department for Transport">DFT</abbr>
+              </td>
+              <td class="publication_type attribute">
+                Statistical data set
+              </td>
+              <td class="publication_series attribute">
+                  Part of a series: <a href="/government/organisations/department-for-transport/series/vehicle-licensing-statistics">Vehicle licensing statistics</a>
+              </td>
 </tr>
-<tr class="publication document-row" id="publication_13080">
+<tr class="statistical_data_set document-row" id="statistical_data_set_14004">
 <th scope="row" class="title attribute">
-              <a href="/government/publications/top-10-providers-of-driver-cpc-training" title="View Top 10 providers of Driver CPC training">Top 10 providers of Driver CPC training</a>
-            </th>
-            <td class="attribute publication_date">
-              <abbr class="publication_date" title="2012-10-17">17 October 2012</abbr>
-            </td>
-            <td class="attribute organisations">
-              <abbr title="Driving Standards Agency">DSA</abbr>
-            </td>
-            <td class="publication_type attribute">
-              FOI release
-            </td>
-            <td class="publication_series attribute">
-            </td>
+                <a href="/government/statistical-data-sets/veh06-licensed-buses-and-coaches" title="View VEH06 - Licensed buses and coaches">VEH06 - Licensed buses and coaches</a>
+              </th>
+              <td class="attribute publication_date">
+                <abbr class="first_published_at" title="2012-11-10T12:53:00+00:00">10 November 2012</abbr>
+              </td>
+              <td class="attribute organisations">
+                <abbr title="Department for Transport">DFT</abbr>
+              </td>
+              <td class="publication_type attribute">
+                Statistical data set
+              </td>
+              <td class="publication_series attribute">
+                  Part of a series: <a href="/government/organisations/department-for-transport/series/vehicle-licensing-statistics">Vehicle licensing statistics</a>
+              </td>
 </tr>
-<tr class="publication document-row" id="publication_13079">
+<tr class="statistical_data_set document-row" id="statistical_data_set_16138">
 <th scope="row" class="title attribute">
-              <a href="/government/publications/approved-driving-instructor-pass-rates-for-january-to-june-2012" title="View Approved driving instructor pass rates for January to June 2012">Approved driving instructor pass rates for January to June 2012</a>
-            </th>
-            <td class="attribute publication_date">
-              <abbr class="publication_date" title="2012-10-17">17 October 2012</abbr>
-            </td>
-            <td class="attribute organisations">
-              <abbr title="Driving Standards Agency">DSA</abbr>
-            </td>
-            <td class="publication_type attribute">
-              FOI release
-            </td>
-            <td class="publication_series attribute">
-            </td>
+                <a href="/government/statistical-data-sets/bus01-local-bus-passenger-journeys" title="View BUS01 - Local bus passenger journeys">BUS01 - Local bus passenger journeys</a>
+              </th>
+              <td class="attribute publication_date">
+                <abbr class="first_published_at" title="2012-11-10T12:52:14+00:00">10 November 2012</abbr>
+              </td>
+              <td class="attribute organisations">
+                <abbr title="Department for Transport">DFT</abbr>
+              </td>
+              <td class="publication_type attribute">
+                Statistical data set
+              </td>
+              <td class="publication_series attribute">
+                  Part of a series: <a href="/government/organisations/department-for-transport/series/bus-statistics">Bus statistics</a>
+              </td>
 </tr>
-<tr class="publication document-row" id="publication_13078">
+<tr class="statistical_data_set document-row" id="statistical_data_set_13902">
 <th scope="row" class="title attribute">
-              <a href="/government/publications/pass-plus-certificates-issued-where-the-driving-instructor-has-a-northampton-postcode" title="View Pass Plus certificates issued where the driving instructor has a Northampton postcode">Pass Plus certificates issued where the driving instructor has a Northampton postcode</a>
-            </th>
-            <td class="attribute publication_date">
-              <abbr class="publication_date" title="2012-10-17">17 October 2012</abbr>
-            </td>
-            <td class="attribute organisations">
-              <abbr title="Driving Standards Agency">DSA</abbr>
-            </td>
-            <td class="publication_type attribute">
-              FOI release
-            </td>
-            <td class="publication_series attribute">
-            </td>
+                <a href="/government/statistical-data-sets/dwf04-one-port-traffic" title="View DWF04 - One port traffic">DWF04 - One port traffic</a>
+              </th>
+              <td class="attribute publication_date">
+                <abbr class="first_published_at" title="2012-11-10T09:52:13+00:00">10 November 2012</abbr>
+              </td>
+              <td class="attribute organisations">
+                <abbr title="Department for Transport">DFT</abbr>
+              </td>
+              <td class="publication_type attribute">
+                Statistical data set
+              </td>
+              <td class="publication_series attribute">
+                  Part of a series: <a href="/government/organisations/department-for-transport/series/domestic-waterborne-freight-statistics">Domestic waterborne freight statistics</a>
+              </td>
 </tr>
-<tr class="publication document-row" id="publication_13077">
+<tr class="statistical_data_set document-row" id="statistical_data_set_13887">
 <th scope="row" class="title attribute">
-              <a href="/government/publications/filming-of-driving-tests-and-anonomised-driving-examiner-pass-rates" title="View Filming of driving tests and anonomised driving examiner pass rates">Filming of driving tests and anonomised driving examiner pass rates</a>
-            </th>
-            <td class="attribute publication_date">
-              <abbr class="publication_date" title="2012-10-17">17 October 2012</abbr>
-            </td>
-            <td class="attribute organisations">
-              <abbr title="Driving Standards Agency">DSA</abbr>
-            </td>
-            <td class="publication_type attribute">
-              FOI release
-            </td>
-            <td class="publication_series attribute">
-            </td>
+                <a href="/government/statistical-data-sets/cw070-proportion-of-cyclists-who-usually-always-cycle" title="View CW070 - Proportion of cyclists who usually/always cycle">CW070 - Proportion of cyclists who usually/always cycle</a>
+              </th>
+              <td class="attribute publication_date">
+                <abbr class="first_published_at" title="2012-11-10T09:51:59+00:00">10 November 2012</abbr>
+              </td>
+              <td class="attribute organisations">
+                <abbr title="Department for Transport">DFT</abbr>
+              </td>
+              <td class="publication_type attribute">
+                Statistical data set
+              </td>
+              <td class="publication_series attribute">
+                  Part of a series: <a href="/government/organisations/department-for-transport/series/walking-and-cycling-statistics">Walking and cycling statistics</a>
+              </td>
 </tr>
-<tr class="publication document-row" id="publication_13076">
+<tr class="statistical_data_set document-row" id="statistical_data_set_13901">
 <th scope="row" class="title attribute">
-              <a href="/government/publications/car-driving-theory-test-pass-rate-in-2011-to-2012" title="View Car driving theory test pass rate in 2011 to 2012">Car driving theory test pass rate in 2011 to 2012</a>
-            </th>
-            <td class="attribute publication_date">
-              <abbr class="publication_date" title="2012-10-17">17 October 2012</abbr>
-            </td>
-            <td class="attribute organisations">
-              <abbr title="Driving Standards Agency">DSA</abbr>
-            </td>
-            <td class="publication_type attribute">
-              FOI release
-            </td>
-            <td class="publication_series attribute">
-            </td>
+                <a href="/government/statistical-data-sets/dwf03-coastwise-traffic" title="View DWF03 - Coastwise traffic">DWF03 - Coastwise traffic</a>
+              </th>
+              <td class="attribute publication_date">
+                <abbr class="first_published_at" title="2012-11-10T09:49:57+00:00">10 November 2012</abbr>
+              </td>
+              <td class="attribute organisations">
+                <abbr title="Department for Transport">DFT</abbr>
+              </td>
+              <td class="publication_type attribute">
+                Statistical data set
+              </td>
+              <td class="publication_series attribute">
+                  Part of a series: <a href="/government/organisations/department-for-transport/series/domestic-waterborne-freight-statistics">Domestic waterborne freight statistics</a>
+              </td>
 </tr>
-<tr class="publication document-row" id="publication_13075">
+<tr class="statistical_data_set document-row" id="statistical_data_set_13899">
 <th scope="row" class="title attribute">
-              <a href="/government/publications/breakdown-of-the-fleet-driver-trainer-badge-fee" title="View Breakdown of the fleet driver trainer badge fee">Breakdown of the fleet driver trainer badge fee</a>
-            </th>
-            <td class="attribute publication_date">
-              <abbr class="publication_date" title="2012-10-17">17 October 2012</abbr>
-            </td>
-            <td class="attribute organisations">
-              <abbr title="Driving Standards Agency">DSA</abbr>
-            </td>
-            <td class="publication_type attribute">
-              FOI release
-            </td>
-            <td class="publication_series attribute">
-            </td>
+                <a href="/government/statistical-data-sets/dwf02-inland-waters-traffic-and-cargo" title="View DWF02 - Inland waters traffic and cargo">DWF02 - Inland waters traffic and cargo</a>
+              </th>
+              <td class="attribute publication_date">
+                <abbr class="first_published_at" title="2012-11-10T09:49:49+00:00">10 November 2012</abbr>
+              </td>
+              <td class="attribute organisations">
+                <abbr title="Department for Transport">DFT</abbr>
+              </td>
+              <td class="publication_type attribute">
+                Statistical data set
+              </td>
+              <td class="publication_series attribute">
+                  Part of a series: <a href="/government/organisations/department-for-transport/series/domestic-waterborne-freight-statistics">Domestic waterborne freight statistics</a>
+              </td>
 </tr>
-<tr class="publication document-row" id="publication_13074">
+<tr class="statistical_data_set document-row" id="statistical_data_set_17157">
 <th scope="row" class="title attribute">
-              <a href="/government/publications/number-of-trainee-licences-issued-to-potential-driving-instructors" title="View Number of trainee licences issued to potential driving instructors">Number of trainee licences issued to potential driving instructors</a>
-            </th>
-            <td class="attribute publication_date">
-              <abbr class="publication_date" title="2012-10-17">17 October 2012</abbr>
-            </td>
-            <td class="attribute organisations">
-              <abbr title="Driving Standards Agency">DSA</abbr>
-            </td>
-            <td class="publication_type attribute">
-              FOI release
-            </td>
-            <td class="publication_series attribute">
-            </td>
+                <a href="/government/statistical-data-sets/drt07-approved-driving-instructor-test-pass-rates" title="View DRT07 - Approved driving instructor test pass rates">DRT07 - Approved driving instructor test pass rates</a>
+              </th>
+              <td class="attribute publication_date">
+                <abbr class="first_published_at" title="2012-11-10T09:49:39+00:00">10 November 2012</abbr>
+              </td>
+              <td class="attribute organisations">
+                <abbr title="Department for Transport">DFT</abbr>
+              </td>
+              <td class="publication_type attribute">
+                Statistical data set
+              </td>
+              <td class="publication_series attribute">
+                  Part of a series: <a href="/government/organisations/department-for-transport/series/driving-tests-and-instructors-statistics">Driving tests and instructors statistics</a>
+              </td>
 </tr>
-<tr class="publication document-row" id="publication_13073">
+<tr class="statistical_data_set document-row" id="statistical_data_set_13898">
 <th scope="row" class="title attribute">
-              <a href="/government/publications/number-of-car-practical-driving-tests-which-involved-a-walk-back" title="View Number of car practical driving tests which involved a 'walk back'">Number of car practical driving tests which involved a 'walk back'</a>
-            </th>
-            <td class="attribute publication_date">
-              <abbr class="publication_date" title="2012-10-17">17 October 2012</abbr>
-            </td>
-            <td class="attribute organisations">
-              <abbr title="Driving Standards Agency">DSA</abbr>
-            </td>
-            <td class="publication_type attribute">
-              FOI release
-            </td>
-            <td class="publication_series attribute">
-            </td>
+                <a href="/government/statistical-data-sets/dwf01-waterborne-transport" title="View DWF01 - Waterborne transport">DWF01 - Waterborne transport</a>
+              </th>
+              <td class="attribute publication_date">
+                <abbr class="first_published_at" title="2012-11-10T09:49:30+00:00">10 November 2012</abbr>
+              </td>
+              <td class="attribute organisations">
+                <abbr title="Department for Transport">DFT</abbr>
+              </td>
+              <td class="publication_type attribute">
+                Statistical data set
+              </td>
+              <td class="publication_series attribute">
+                  Part of a series: <a href="/government/organisations/department-for-transport/series/domestic-waterborne-freight-statistics">Domestic waterborne freight statistics</a>
+              </td>
 </tr>
-<tr class="publication document-row" id="publication_13072">
+<tr class="statistical_data_set document-row" id="statistical_data_set_17154">
 <th scope="row" class="title attribute">
-              <a href="/government/publications/practical-driving-test-statistics-for-hornchurch-and-brentwood" title="View Practical driving test statistics for Hornchurch and Brentwood">Practical driving test statistics for Hornchurch and Brentwood</a>
-            </th>
-            <td class="attribute publication_date">
-              <abbr class="publication_date" title="2012-10-17">17 October 2012</abbr>
-            </td>
-            <td class="attribute organisations">
-              <abbr title="Driving Standards Agency">DSA</abbr>
-            </td>
-            <td class="publication_type attribute">
-              FOI release
-            </td>
-            <td class="publication_series attribute">
-            </td>
+                <a href="/government/statistical-data-sets/drt05-practical-large-goods-vehicles-lgv-test-pass-rates" title="View DRT05 - Practical large goods vehicles (LGV) test pass rates">DRT05 - Practical large goods vehicles (LGV) test pass rates</a>
+              </th>
+              <td class="attribute publication_date">
+                <abbr class="first_published_at" title="2012-11-10T09:49:22+00:00">10 November 2012</abbr>
+              </td>
+              <td class="attribute organisations">
+                <abbr title="Department for Transport">DFT</abbr>
+              </td>
+              <td class="publication_type attribute">
+                Statistical data set
+              </td>
+              <td class="publication_series attribute">
+                  Part of a series: <a href="/government/organisations/department-for-transport/series/driving-tests-and-instructors-statistics">Driving tests and instructors statistics</a>
+              </td>
 </tr>
-<tr class="publication document-row" id="publication_13071">
+<tr class="statistical_data_set document-row" id="statistical_data_set_17155">
 <th scope="row" class="title attribute">
-              <a href="/government/publications/paperwork-about-the-introduction-of-the-existing-trainer-booking-system" title="View Paperwork about the introduction of the existing trainer booking system">Paperwork about the introduction of the existing trainer booking system</a>
-            </th>
-            <td class="attribute publication_date">
-              <abbr class="publication_date" title="2012-10-17">17 October 2012</abbr>
-            </td>
-            <td class="attribute organisations">
-              <abbr title="Driving Standards Agency">DSA</abbr>
-            </td>
-            <td class="publication_type attribute">
-              FOI release
-            </td>
-            <td class="publication_series attribute">
-            </td>
+                <a href="/government/statistical-data-sets/drt06-practical-passenger-carrying-vehicles-pcv-test-pass-rates" title="View DRT06 - Practical Passenger carrying vehicles (PCV) test pass rates">DRT06 - Practical Passenger carrying vehicles (PCV) test pass rates</a>
+              </th>
+              <td class="attribute publication_date">
+                <abbr class="first_published_at" title="2012-11-10T09:48:51+00:00">10 November 2012</abbr>
+              </td>
+              <td class="attribute organisations">
+                <abbr title="Department for Transport">DFT</abbr>
+              </td>
+              <td class="publication_type attribute">
+                Statistical data set
+              </td>
+              <td class="publication_series attribute">
+                  Part of a series: <a href="/government/organisations/department-for-transport/series/driving-tests-and-instructors-statistics">Driving tests and instructors statistics</a>
+              </td>
 </tr>
 </tbody>
 </table>
 <nav id="show-more-documents" role="navigation"><ul class="previous-next-navigation">
-<li class="previous"><a href="/government/publications?direction=before&amp;page=12">Previous Page <span>12 of 151</span></a></li>
+<li class="previous"><a href="/government/publications?direction=before&amp;page=12">Previous Page <span>12 of 161</span></a></li>
 
       <li class="next">
-<a href="/government/publications?direction=before&amp;page=14">Next page <span>14 of 151</span></a>
+<a href="/government/publications?direction=before&amp;page=14">Next page <span>14 of 161</span></a>
 </li>
 
     </ul></nav>
 </div>
+  </div>
 </div>
 
         </div>

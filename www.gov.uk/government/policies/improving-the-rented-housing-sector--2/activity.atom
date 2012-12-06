@@ -8,16 +8,7 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-11-30T13:48:48+00:00</updated>
-  <entry>
-    <id>tag:www.gov.uk,2005:Consultation/17377</id>
-    <published>2012-11-30T13:48:48+00:00</published>
-    <updated>2012-11-30T13:48:48+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/consultations/english-housing-survey-dissemination-strategy"/>
-    <title>English housing survey dissemination strategy</title>
-    <category>Consultation</category>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Consultation about the dissemination strategy for the English housing survey, asking for comments from users of housing survey data on the type and content of outputs that they would like to see.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
+  <updated>2012-11-23T00:00:00+00:00</updated>
   <entry>
     <id>tag:www.gov.uk,2005:Publication/16882</id>
     <published>2012-11-23T00:00:00+00:00</published>
@@ -260,6 +251,17 @@ House Exchange Manager&lt;br&gt;
 &lt;/ul&gt;&lt;p&gt;If you are not an assured shorthold tenant or are not sure what sort of tenancy you have, see the further information section at the bottom of this leaflet.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
+    <id>tag:www.gov.uk,2005:Consultation/17402</id>
+    <published>2011-07-07T01:00:00+01:00</published>
+    <updated>2011-07-07T01:00:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/consultations/directions-to-the-social-housing-regulator"/>
+    <title>Directions to the social housing regulator</title>
+    <category>Consultation</category>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;A consultation on draft directions to the social housing regulator, which will help implement key elements of the government’s package of reforms to social housing. These reforms include giving social landlords greater flexibility over the types of tenancies they may offer, introducing a nationwide social home swap programme, and enhancing tenant involvement and empowerment.&lt;/p&gt;
+
+&lt;p&gt;This consultation was updated on 28 July 2011 to include a revised draft tenure direction. Please see the letter from Housing Minister Grant Shapps for details.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
     <id>tag:www.gov.uk,2005:Publication/16503</id>
     <published>2010-02-09T00:00:00+00:00</published>
     <updated>2012-11-14T12:39:43+00:00</updated>
@@ -269,18 +271,12 @@ House Exchange Manager&lt;br&gt;
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This leaflet explains what you can expect from the police, your council and other agencies in dealing with &lt;a href="https://www.gov.uk/report-crime-anti-social-behaviour"&gt;anti-social behaviour&lt;/a&gt; and how you can work with them to solve problems in your neighbourhood.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:Publication/15902</id>
-    <published>2009-04-21T01:00:00+01:00</published>
-    <updated>2012-11-14T12:39:46+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/assured-and-assured-shorthold-tenancies-a-guide-for-landlords"/>
-    <title>Assured and assured shorthold tenancies: a guide for landlords</title>
-    <category>Publication</category>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This booklet explains the most important features of landlords’ and tenants’ rights and responsibilities but it is only a general guide.&lt;/p&gt;
-
-&lt;p&gt;You probably need to read this booklet if you are letting, or thinking of letting, a domestic property and the letting began on or after 15 January 1989. &lt;/p&gt;
-
-&lt;p&gt;This booklet do not deal with agricultural lettings, or lettings by housing associations, local authorities or other social landlords.&lt;/p&gt;
-
-&lt;p&gt;However, if you are sharing or are going to share part of your home, you should read our separate booklets called &lt;a href="https://www.gov.uk/government/publications/letting-rooms-in-your-home-a-guide-for-resident-landlords"&gt;‘Letting rooms in your home: a guide for resident landlords’&lt;/a&gt; and &lt;a href="https://www.gov.uk/government/publications/renting-rooms-in-someones-home-a-guide-for-people-renting-from-resident-landlords"&gt;‘Renting rooms in someone’s home: a guide for people renting from resident landlords’&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;</content>
+    <id>tag:www.gov.uk,2005:Consultation/17377</id>
+    <published>2009-11-03T00:00:00+00:00</published>
+    <updated>2012-11-30T13:48:48+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/consultations/english-housing-survey-dissemination-strategy"/>
+    <title>English housing survey dissemination strategy</title>
+    <category>Consultation</category>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Consultation about the dissemination strategy for the English housing survey, asking for comments from users of housing survey data on the type and content of outputs that they would like to see.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
 </feed>

@@ -43,15 +43,15 @@
     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
-</script><script defer src="https://assets.digital.cabinet-office.gov.uk/government/assets/application-a239688d17bcccf06a6180975dc96a1e.js" type="text/javascript"></script><!--[if gt IE 8]><!--><link href="https://assets.digital.cabinet-office.gov.uk/government/assets/frontend/base-ed0067412352d037dc7d88a233470ddd.css" media="screen" rel="stylesheet" type="text/css">
+</script><script defer src="https://assets.digital.cabinet-office.gov.uk/government/assets/application-ca258e9195b26d33bb5b61d0d2743237.js" type="text/javascript"></script><!--[if gt IE 8]><!--><link href="https://assets.digital.cabinet-office.gov.uk/government/assets/frontend/base-0d2d3d6be12501c0fb02a03e3c10cd51.css" media="screen" rel="stylesheet" type="text/css">
 <!--<![endif]--><link href="https://assets.digital.cabinet-office.gov.uk/government/assets/frontend/print-3a87362d1fe4dc933a4d5f6446e9c377.css" media="print" rel="stylesheet" type="text/css">
 <link href="https://www.gov.uk/government/publications.atom?publication_type=consultations" rel="alternate" title="Recent publications" type="application/atom+xml">
 <link rel="next" type="application/json" href="/government/publications.json?direction=before&amp;page=5&amp;publication_type=consultations">
 <meta content="True" name="HandheldFriendly">
 <meta content="320" name="MobileOptimized">
 <meta content="authenticity_token" name="csrf-param">
-<meta content="iTMFAv3fcx/v58momwAkmveH0sva2LuNeJl12/1yOGM=" name="csrf-token">
-<!--[if IE 6]><link href="https://assets.digital.cabinet-office.gov.uk/government/assets/frontend/base-ie6-dd9efb7d2b626191dbfafd048ae1d375.css" media="screen" rel="stylesheet" type="text/css" /><script>var ieVersion = 6;</script><![endif]--><!--[if IE 7]><link href="https://assets.digital.cabinet-office.gov.uk/government/assets/frontend/base-ie7-8d0daf916709d91caecdf7ea316c6736.css" media="screen" rel="stylesheet" type="text/css" /><script>var ieVersion = 7;</script><![endif]--><!--[if IE 8]><link href="https://assets.digital.cabinet-office.gov.uk/government/assets/frontend/base-ie8-7bbd27e1084bbcdc2861675f98a05961.css" media="screen" rel="stylesheet" type="text/css" /><script>var ieVersion = 8;</script><![endif]-->
+<meta content="cmAf76tIna8VB3XNBiTfAbeJUkPDzTEaMVAwkfnhuzg=" name="csrf-token">
+<!--[if IE 6]><link href="https://assets.digital.cabinet-office.gov.uk/government/assets/frontend/base-ie6-71f073fdcacdca26879fdca8415ba68f.css" media="screen" rel="stylesheet" type="text/css" /><script>var ieVersion = 6;</script><![endif]--><!--[if IE 7]><link href="https://assets.digital.cabinet-office.gov.uk/government/assets/frontend/base-ie7-0db149f3fc248a61408eb2ce3fd01bfd.css" media="screen" rel="stylesheet" type="text/css" /><script>var ieVersion = 7;</script><![endif]--><!--[if IE 8]><link href="https://assets.digital.cabinet-office.gov.uk/government/assets/frontend/base-ie8-9ae1b12c0bb113e645bf7b8827e27030.css" media="screen" rel="stylesheet" type="text/css" /><script>var ieVersion = 8;</script><![endif]-->
 </head>
 <body class="website government">
       <script type="text/javascript">document.body.className = ((document.body.className) ? document.body.className + ' js-enabled' : 'js-enabled');</script><a href="#content" class="visuallyhidden">Skip to main content</a>
@@ -99,7 +99,7 @@
         <div class="progress-bar js-progress-bar" id="progress-bar" data-join-count="2">
           <div class="bar"><div class="joined"></div></div>
           <p>
-            2 of 23  ministerial departments have moved their corporate websites to GOV.UK.
+            2 of 24 ministerial departments have moved their corporate websites to GOV.UK.
             <a href="/government">More will join soon</a>
           </p>
         </div>
@@ -115,17 +115,47 @@
 
 <div class="block-2">
   <div class="inner-block">
-    
     <div class="filter-block">
   <h2>You can use the filters to show only results that match your interests</h2>
   <form accept-charset="UTF-8" action="/government/publications" class="js-document-filter" id="document-filter" method="get">
 <div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"></div>
     <fieldset>
 <legend class="visuallyhidden">Filter publications</legend>
+
+      <div class="filter" id="keyword-filter">
+        <div class="filter-inner">
+          <label class="title" for="keywords">Contains</label>
+          <input id="keywords" name="keywords" placeholder="keywords" type="text" value="">
+</div>
+      </div>
+
       <div class="filter">
         <div class="filter-inner">
-          <label class="visuallyhidden" for="topics">Topic</label>
-          <select class="multi-row-select" id="topics" multiple name="topics[]" size="9"><option value="all" selected>All topics</option>
+            <div class="publication-type">
+              <label class="title" for="publication_filter_option">Publication type</label>
+              <select class="single-row-select" id="publication_filter_option" name="publication_filter_option"><option value="all">All publication types</option>
+<option value="policy-papers">Policy papers</option>
+<option value="consultations" selected>Consultations</option>
+<option value="impact-assessments">Impact assessments</option>
+<option value="guidance">Guidance</option>
+<option value="forms">Forms</option>
+<option value="statistics">Statistics</option>
+<option value="research-and-analysis">Research and analysis</option>
+<option value="corporate-reports">Corporate reports</option>
+<option value="transparency-data">Transparency data</option>
+<option value="treaties">Treaties</option>
+<option value="foi-releases">FOI releases</option>
+<option value="independent-reports">Independent reports</option>
+<option value="circulars-letters-and-bulletins">Circulars, letters and bulletins</option>
+<option value="promotional-material">Promotional material</option></select>
+</div>
+        </div>
+      </div>
+
+      <div class="filter">
+        <div class="filter-inner">
+          <label for="topics">Topic</label>
+          <select class="multi-row-select" id="topics" multiple name="topics[]" size="5"><option value="all" selected>All topics</option>
 <option value="climate-change">Climate change</option>
 <option value="community-and-society">Community and society</option>
 <option value="economic-growth">Economic growth</option>
@@ -140,8 +170,8 @@
       </div>
       <div class="filter">
         <div class="filter-inner">
-          <label class="visuallyhidden" for="departments">Department</label>
-          <select class="multi-row-select" id="departments" multiple name="departments[]" size="9"><option value="all" selected>All departments</option>
+          <label for="departments">Department</label>
+          <select class="multi-row-select" id="departments" multiple name="departments[]" size="5"><option value="all" selected>All departments</option>
 <option value="attorney-generals-office">Attorney General's Office</option>
 <option value="building-regulations-advisory-committee">Building Regulations Advisory Committee</option>
 <option value="department-for-business-innovation-skills">Department for Business, Innovation &amp; Skills</option>
@@ -160,30 +190,10 @@
 <option value="vehicle-certification-agency">Vehicle Certification Agency</option></select>
 </div>
       </div>
-      
+
       <div class="filter">
         <div class="filter-inner">
-            <div class="publication-type">
-              <label class="title" for="publication_filter_option">Publication type</label>
-              <select id="publication_filter_option" name="publication_filter_option"><option value="all">All publication types</option>
-<option value="policy-papers">Policy papers</option>
-<option value="consultations" selected>Consultations</option>
-<option value="impact-assessments">Impact assessments</option>
-<option value="guidance">Guidance</option>
-<option value="forms">Forms</option>
-<option value="statistics">Statistics</option>
-<option value="research-and-analysis">Research and analysis</option>
-<option value="corporate-reports">Corporate reports</option>
-<option value="transparency-data">Transparency data</option>
-<option value="treaties">Treaties</option>
-<option value="foi-releases">FOI releases</option>
-<option value="independent-reports">Independent reports</option>
-<option value="circulars-letters-and-bulletins">Circulars, letters and bulletins</option>
-<option value="promotional-material">Promotional material</option></select>
-</div>
-
-          <label class="title" for="keywords">Contains</label>
-          <input id="keywords" name="keywords" placeholder="keywords" type="text" value=""><div class="date-range">
+            <div class="date-range">
               <h3>Published</h3>
                 <label class="checkbox" for="direction_before">
                   <input checked id="direction_before" name="direction" type="radio" value="before">
@@ -192,7 +202,7 @@
                   <input id="direction_after" name="direction" type="radio" value="after">
                   After
 </label>              <label class="visuallyhidden" for="date">Date</label>
-              <select id="date" name="date"><option value="2013-01-01">January 2013</option>
+              <select class="single-row-select" id="date" name="date"><option value="2013-01-01">January 2013</option>
 <option value="2012-12-01">December 2012</option>
 <option value="2012-11-01">November 2012</option>
 <option value="2012-10-01">October 2012</option>
@@ -222,351 +232,353 @@
 </div>
         </div>
       </div>
-      <div class="results">
-        <p class="count"><span>235</span> results</p>
-        <p class="selections"></p>
-      </div>
     </fieldset>
 </form>
 </div>
 
-    <div class="filter-feed">
-      <div class="subscribe"><a href="https://www.gov.uk/government/publications.atom?publication_type=consultations" class="feed">feed</a></div>
-    </div>
   </div>
 </div>
 
 <div class="block-4">
-  <div class="inner-block filter-results" id="publications-container" aria-live="polite">
+  <div class="inner-block">
+    <div class="filter-results-summary">
+  <h3 class="selections"></h3>
+</div>
     
-      <table class="document-list emphasise-recent" id="document-list">
+    <div class="filter-feed">
+      <div class="subscribe"><a href="https://www.gov.uk/government/publications.atom?publication_type=consultations" class="feed">feed</a></div>
+    </div>
+    
+    <div class="filter-results" id="publications-container" aria-live="polite">
+      
+        <table class="document-list emphasise-recent" id="document-list">
 <thead class="visuallyhidden"><tr>
 <th scope="col">Title</th>
-            <th scope="col">Publication Date</th>
-            <th scope="col">Publication Organisations</th>
-            <th scope="col">Publication Type</th>
-            <th scope="col">Publication Series</th>
-          </tr></thead>
+              <th scope="col">Publication Date</th>
+              <th scope="col">Publication Organisations</th>
+              <th scope="col">Publication Type</th>
+              <th scope="col">Publication Series</th>
+            </tr></thead>
 <tbody>
-<tr class="consultation document-row recent" id="consultation_12711">
-<th scope="row" class="title attribute">
-              <a href="/government/consultations/high-income-social-tenants-pay-to-stay" title="View High income social tenants: pay to stay">High income social tenants: pay to stay</a>
-            </th>
-            <td class="attribute publication_date">
-              <abbr class="first_published_at" title="2012-06-13T01:00:00+01:00">13 June 2012</abbr>
-            </td>
-            <td class="attribute organisations">
-              <abbr title="Department for Communities and Local Government">DCLG</abbr>
-            </td>
-            <td class="publication_type attribute">
-              Closed consultation
-            </td>
-            <td class="publication_series attribute">
-            </td>
-</tr>
 <tr class="consultation document-row recent" id="consultation_12712">
 <th scope="row" class="title attribute">
-              <a href="/government/consultations/offering-suitable-housing-to-homeless-people" title="View Offering suitable housing to homeless people">Offering suitable housing to homeless people</a>
-            </th>
-            <td class="attribute publication_date">
-              <abbr class="first_published_at" title="2012-05-31T01:00:00+01:00">31 May 2012</abbr>
-            </td>
-            <td class="attribute organisations">
-              <abbr title="Department for Communities and Local Government">DCLG</abbr>
-            </td>
-            <td class="publication_type attribute">
-              Consultation outcome
-            </td>
-            <td class="publication_series attribute">
-            </td>
+                <a href="/government/consultations/offering-suitable-housing-to-homeless-people" title="View Offering suitable housing to homeless people">Offering suitable housing to homeless people</a>
+              </th>
+              <td class="attribute publication_date">
+                <abbr class="timestamp_for_sorting" title="2012-05-31T01:00:00+01:00">31 May 2012</abbr>
+              </td>
+              <td class="attribute organisations">
+                <abbr title="Department for Communities and Local Government">DCLG</abbr>
+              </td>
+              <td class="publication_type attribute">
+                Consultation outcome
+              </td>
+              <td class="publication_series attribute">
+              </td>
 </tr>
 <tr class="consultation document-row recent" id="consultation_8945">
 <th scope="row" class="title attribute">
-              <a href="/government/consultations/consultation-on-the-combined-thameslink-southern-and-great-northern-franchise" title="View Consultation on the combined Thameslink, Southern and Great Northern franchise">Consultation on the combined Thameslink, Southern and Great Northern franchise</a>
-            </th>
-            <td class="attribute publication_date">
-              <abbr class="first_published_at" title="2012-05-31T01:00:00+01:00">31 May 2012</abbr>
-            </td>
-            <td class="attribute organisations">
-              <abbr title="Department for Transport">DFT</abbr>
-            </td>
-            <td class="publication_type attribute">
-              Closed consultation
-            </td>
-            <td class="publication_series attribute">
-            </td>
+                <a href="/government/consultations/consultation-on-the-combined-thameslink-southern-and-great-northern-franchise" title="View Consultation on the combined Thameslink, Southern and Great Northern franchise">Consultation on the combined Thameslink, Southern and Great Northern franchise</a>
+              </th>
+              <td class="attribute publication_date">
+                <abbr class="timestamp_for_sorting" title="2012-05-31T01:00:00+01:00">31 May 2012</abbr>
+              </td>
+              <td class="attribute organisations">
+                <abbr title="Department for Transport">DFT</abbr>
+              </td>
+              <td class="publication_type attribute">
+                Closed consultation
+              </td>
+              <td class="publication_series attribute">
+              </td>
 </tr>
-<tr class="consultation document-row" id="consultation_14290">
+<tr class="consultation document-row recent" id="consultation_14290">
 <th scope="row" class="title attribute">
-              <a href="/government/consultations/a-change-to-london-luton-airports-slot-co-ordination-status" title="View A change to London Luton Airport's slot co-ordination status">A change to London Luton Airport's slot co-ordination status</a>
-            </th>
-            <td class="attribute publication_date">
-              <abbr class="first_published_at" title="2012-05-30T01:00:00+01:00">30 May 2012</abbr>
-            </td>
-            <td class="attribute organisations">
-              <abbr title="Department for Transport">DFT</abbr>
-            </td>
-            <td class="publication_type attribute">
-              Consultation outcome
-            </td>
-            <td class="publication_series attribute">
-            </td>
+                <a href="/government/consultations/a-change-to-london-luton-airports-slot-co-ordination-status" title="View A change to London Luton Airport's slot co-ordination status">A change to London Luton Airport's slot co-ordination status</a>
+              </th>
+              <td class="attribute publication_date">
+                <abbr class="timestamp_for_sorting" title="2012-05-30T01:00:00+01:00">30 May 2012</abbr>
+              </td>
+              <td class="attribute organisations">
+                <abbr title="Department for Transport">DFT</abbr>
+              </td>
+              <td class="publication_type attribute">
+                Consultation outcome
+              </td>
+              <td class="publication_series attribute">
+              </td>
 </tr>
 <tr class="consultation document-row" id="consultation_14461">
 <th scope="row" class="title attribute">
-              <a href="/government/consultations/consultation-on-the-proposed-abolition-of-brb-residuary-ltd-and-the-transfer-of-its-functions-properties-rights-and-liabilities" title="View Consultation on the proposed abolition of BRB (Residuary) Ltd and the transfer of its functions, properties, rights and liabilities">Consultation on the proposed abolition of BRB (Residuary) Ltd and the transfer of its functions, properties, rights and liabilities</a>
-            </th>
-            <td class="attribute publication_date">
-              <abbr class="first_published_at" title="2012-05-15T01:00:00+01:00">15 May 2012</abbr>
-            </td>
-            <td class="attribute organisations">
-              <abbr title="Department for Transport">DFT</abbr>
-            </td>
-            <td class="publication_type attribute">
-              Consultation outcome
-            </td>
-            <td class="publication_series attribute">
-            </td>
+                <a href="/government/consultations/consultation-on-the-proposed-abolition-of-brb-residuary-ltd-and-the-transfer-of-its-functions-properties-rights-and-liabilities" title="View Consultation on the proposed abolition of BRB (Residuary) Ltd and the transfer of its functions, properties, rights and liabilities">Consultation on the proposed abolition of BRB (Residuary) Ltd and the transfer of its functions, properties, rights and liabilities</a>
+              </th>
+              <td class="attribute publication_date">
+                <abbr class="timestamp_for_sorting" title="2012-05-15T01:00:00+01:00">15 May 2012</abbr>
+              </td>
+              <td class="attribute organisations">
+                <abbr title="Department for Transport">DFT</abbr>
+              </td>
+              <td class="publication_type attribute">
+                Consultation outcome
+              </td>
+              <td class="publication_series attribute">
+              </td>
 </tr>
 <tr class="consultation document-row" id="consultation_15634">
 <th scope="row" class="title attribute">
-              <a href="/government/consultations/withdrawal-of-scheduled-passenger-services-between-wandsworth-road-kensington-olympia-and-ealing-broadway" title="View Withdrawal of scheduled passenger services between Wandsworth Road, Kensington (Olympia) and Ealing Broadway">Withdrawal of scheduled passenger services between Wandsworth Road, Kensington (Olympia) and Ealing Broadway</a>
-            </th>
-            <td class="attribute publication_date">
-              <abbr class="first_published_at" title="2012-05-10T01:00:00+01:00">10 May 2012</abbr>
-            </td>
-            <td class="attribute organisations">
-              <abbr title="Department for Transport">DFT</abbr>
-            </td>
-            <td class="publication_type attribute">
-              Consultation outcome
-            </td>
-            <td class="publication_series attribute">
-            </td>
+                <a href="/government/consultations/withdrawal-of-scheduled-passenger-services-between-wandsworth-road-kensington-olympia-and-ealing-broadway" title="View Withdrawal of scheduled passenger services between Wandsworth Road, Kensington (Olympia) and Ealing Broadway">Withdrawal of scheduled passenger services between Wandsworth Road, Kensington (Olympia) and Ealing Broadway</a>
+              </th>
+              <td class="attribute publication_date">
+                <abbr class="timestamp_for_sorting" title="2012-05-10T01:00:00+01:00">10 May 2012</abbr>
+              </td>
+              <td class="attribute organisations">
+                <abbr title="Department for Transport">DFT</abbr>
+              </td>
+              <td class="publication_type attribute">
+                Consultation outcome
+              </td>
+              <td class="publication_series attribute">
+              </td>
 </tr>
 <tr class="consultation document-row" id="consultation_14359">
 <th scope="row" class="title attribute">
-              <a href="/government/consultations/amendments-to-the-motor-vehicles-insurance-requirements-immobilisation-removal-and-disposal-regulations-2011-s-i-2011-1120" title="View Amendments to The Motor Vehicles (Insurance Requirements) (Immobilisation, Removal and Disposal) Regulations 2011 (S.I. 2011/1120)">Amendments to The Motor Vehicles (Insurance Requirements) (Immobilisation, Removal and Disposal) Regulations 2011 (S.I. 2011/1120)</a>
-            </th>
-            <td class="attribute publication_date">
-              <abbr class="first_published_at" title="2012-05-10T01:00:00+01:00">10 May 2012</abbr>
-            </td>
-            <td class="attribute organisations">
-              <abbr title="Department for Transport">DFT</abbr>
-            </td>
-            <td class="publication_type attribute">
-              Closed consultation
-            </td>
-            <td class="publication_series attribute">
-            </td>
+                <a href="/government/consultations/amendments-to-the-motor-vehicles-insurance-requirements-immobilisation-removal-and-disposal-regulations-2011-s-i-2011-1120" title="View Amendments to The Motor Vehicles (Insurance Requirements) (Immobilisation, Removal and Disposal) Regulations 2011 (S.I. 2011/1120)">Amendments to The Motor Vehicles (Insurance Requirements) (Immobilisation, Removal and Disposal) Regulations 2011 (S.I. 2011/1120)</a>
+              </th>
+              <td class="attribute publication_date">
+                <abbr class="timestamp_for_sorting" title="2012-05-10T01:00:00+01:00">10 May 2012</abbr>
+              </td>
+              <td class="attribute organisations">
+                <abbr title="Department for Transport">DFT</abbr>
+              </td>
+              <td class="publication_type attribute">
+                Closed consultation
+              </td>
+              <td class="publication_series attribute">
+              </td>
 </tr>
 <tr class="consultation document-row" id="consultation_16181">
 <th scope="row" class="title attribute">
-              <a href="/government/consultations/taxi-and-private-hire-services-consultation" title="View Taxi and private hire services consultation">Taxi and private hire services consultation</a>
-            </th>
-            <td class="attribute publication_date">
-              <abbr class="first_published_at" title="2012-05-10T01:00:00+01:00">10 May 2012</abbr>
-            </td>
-            <td class="attribute organisations">
-              Law Commission
-            </td>
-            <td class="publication_type attribute">
-              Closed consultation
-            </td>
-            <td class="publication_series attribute">
-            </td>
+                <a href="/government/consultations/taxi-and-private-hire-services-consultation" title="View Taxi and private hire services consultation">Taxi and private hire services consultation</a>
+              </th>
+              <td class="attribute publication_date">
+                <abbr class="timestamp_for_sorting" title="2012-05-10T01:00:00+01:00">10 May 2012</abbr>
+              </td>
+              <td class="attribute organisations">
+                Law Commission
+              </td>
+              <td class="publication_type attribute">
+                Closed consultation
+              </td>
+              <td class="publication_series attribute">
+              </td>
 </tr>
 <tr class="consultation document-row" id="consultation_12832">
 <th scope="row" class="title attribute">
-              <a href="/government/consultations/consultation-on-proposals-to-allow-ministers-to-relax-the-eu-cabotage-rules-for-car-transporters-during-the-peak-registration" title="View Consultation on proposals to allow ministers to relax the EU cabotage rules for car transporters during the peak registration">Consultation on proposals to allow ministers to relax the EU cabotage rules for car transporters during the peak registration</a>
-            </th>
-            <td class="attribute publication_date">
-              <abbr class="first_published_at" title="2012-05-09T01:00:00+01:00">9 May 2012</abbr>
-            </td>
-            <td class="attribute organisations">
-              <abbr title="Department for Transport">DFT</abbr>
-            </td>
-            <td class="publication_type attribute">
-              Closed consultation
-            </td>
-            <td class="publication_series attribute">
-            </td>
+                <a href="/government/consultations/consultation-on-proposals-to-allow-ministers-to-relax-the-eu-cabotage-rules-for-car-transporters-during-the-peak-registration" title="View Consultation on proposals to allow ministers to relax the EU cabotage rules for car transporters during the peak registration">Consultation on proposals to allow ministers to relax the EU cabotage rules for car transporters during the peak registration</a>
+              </th>
+              <td class="attribute publication_date">
+                <abbr class="timestamp_for_sorting" title="2012-05-09T01:00:00+01:00">9 May 2012</abbr>
+              </td>
+              <td class="attribute organisations">
+                <abbr title="Department for Transport">DFT</abbr>
+              </td>
+              <td class="publication_type attribute">
+                Closed consultation
+              </td>
+              <td class="publication_series attribute">
+              </td>
 </tr>
 <tr class="consultation document-row" id="consultation_14453">
 <th scope="row" class="title attribute">
-              <a href="/government/consultations/consultation-on-the-maritime-labour-convention-2006" title="View Consultation on the Maritime Labour Convention, 2006">Consultation on the Maritime Labour Convention, 2006</a>
-            </th>
-            <td class="attribute publication_date">
-              <abbr class="first_published_at" title="2012-05-03T01:00:00+01:00">3 May 2012</abbr>
-            </td>
-            <td class="attribute organisations">
-              <abbr title="Department for Transport">DFT</abbr>
-            </td>
-            <td class="publication_type attribute">
-              Closed consultation
-            </td>
-            <td class="publication_series attribute">
-            </td>
+                <a href="/government/consultations/consultation-on-the-maritime-labour-convention-2006" title="View Consultation on the Maritime Labour Convention, 2006">Consultation on the Maritime Labour Convention, 2006</a>
+              </th>
+              <td class="attribute publication_date">
+                <abbr class="timestamp_for_sorting" title="2012-05-03T01:00:00+01:00">3 May 2012</abbr>
+              </td>
+              <td class="attribute organisations">
+                <abbr title="Department for Transport">DFT</abbr>
+              </td>
+              <td class="publication_type attribute">
+                Closed consultation
+              </td>
+              <td class="publication_series attribute">
+              </td>
 </tr>
 <tr class="consultation document-row" id="consultation_12715">
 <th scope="row" class="title attribute">
-              <a href="/government/consultations/compulsory-acquisition-of-land" title="View Compulsory acquisition of land">Compulsory acquisition of land</a>
-            </th>
-            <td class="attribute publication_date">
-              <abbr class="first_published_at" title="2012-04-13T01:00:00+01:00">13 April 2012</abbr>
-            </td>
-            <td class="attribute organisations">
-              <abbr title="Department for Communities and Local Government">DCLG</abbr>
-            </td>
-            <td class="publication_type attribute">
-              Closed consultation
-            </td>
-            <td class="publication_series attribute">
-            </td>
+                <a href="/government/consultations/compulsory-acquisition-of-land" title="View Compulsory acquisition of land">Compulsory acquisition of land</a>
+              </th>
+              <td class="attribute publication_date">
+                <abbr class="timestamp_for_sorting" title="2012-04-13T01:00:00+01:00">13 April 2012</abbr>
+              </td>
+              <td class="attribute organisations">
+                <abbr title="Department for Communities and Local Government">DCLG</abbr>
+              </td>
+              <td class="publication_type attribute">
+                Closed consultation
+              </td>
+              <td class="publication_series attribute">
+              </td>
 </tr>
 <tr class="consultation document-row" id="consultation_12716">
 <th scope="row" class="title attribute">
-              <a href="/government/consultations/infrastructure-planning-regulations-fees" title="View Infrastructure planning regulations: fees">Infrastructure planning regulations: fees</a>
-            </th>
-            <td class="attribute publication_date">
-              <abbr class="first_published_at" title="2012-04-13T01:00:00+01:00">13 April 2012</abbr>
-            </td>
-            <td class="attribute organisations">
-              <abbr title="Department for Communities and Local Government">DCLG</abbr>
-            </td>
-            <td class="publication_type attribute">
-              Closed consultation
-            </td>
-            <td class="publication_series attribute">
-            </td>
+                <a href="/government/consultations/infrastructure-planning-regulations-fees" title="View Infrastructure planning regulations: fees">Infrastructure planning regulations: fees</a>
+              </th>
+              <td class="attribute publication_date">
+                <abbr class="timestamp_for_sorting" title="2012-04-13T01:00:00+01:00">13 April 2012</abbr>
+              </td>
+              <td class="attribute organisations">
+                <abbr title="Department for Communities and Local Government">DCLG</abbr>
+              </td>
+              <td class="publication_type attribute">
+                Closed consultation
+              </td>
+              <td class="publication_series attribute">
+              </td>
 </tr>
 <tr class="consultation document-row" id="consultation_12717">
 <th scope="row" class="title attribute">
-              <a href="/government/consultations/planning-for-major-infrastructure-projects-associated-development" title="View Planning for major infrastructure projects: associated development">Planning for major infrastructure projects: associated development</a>
-            </th>
-            <td class="attribute publication_date">
-              <abbr class="first_published_at" title="2012-04-13T01:00:00+01:00">13 April 2012</abbr>
-            </td>
-            <td class="attribute organisations">
-              <abbr title="Department for Communities and Local Government">DCLG</abbr>
-            </td>
-            <td class="publication_type attribute">
-              Closed consultation
-            </td>
-            <td class="publication_series attribute">
-            </td>
+                <a href="/government/consultations/planning-for-major-infrastructure-projects-associated-development" title="View Planning for major infrastructure projects: associated development">Planning for major infrastructure projects: associated development</a>
+              </th>
+              <td class="attribute publication_date">
+                <abbr class="timestamp_for_sorting" title="2012-04-13T01:00:00+01:00">13 April 2012</abbr>
+              </td>
+              <td class="attribute organisations">
+                <abbr title="Department for Communities and Local Government">DCLG</abbr>
+              </td>
+              <td class="publication_type attribute">
+                Closed consultation
+              </td>
+              <td class="publication_series attribute">
+              </td>
 </tr>
 <tr class="consultation document-row" id="consultation_12718">
 <th scope="row" class="title attribute">
-              <a href="/government/consultations/major-infrastructure-planning-guidance" title="View Major infrastructure planning: guidance">Major infrastructure planning: guidance</a>
-            </th>
-            <td class="attribute publication_date">
-              <abbr class="first_published_at" title="2012-04-13T01:00:00+01:00">13 April 2012</abbr>
-            </td>
-            <td class="attribute organisations">
-              <abbr title="Department for Communities and Local Government">DCLG</abbr>
-            </td>
-            <td class="publication_type attribute">
-              Closed consultation
-            </td>
-            <td class="publication_series attribute">
-            </td>
+                <a href="/government/consultations/major-infrastructure-planning-guidance" title="View Major infrastructure planning: guidance">Major infrastructure planning: guidance</a>
+              </th>
+              <td class="attribute publication_date">
+                <abbr class="timestamp_for_sorting" title="2012-04-13T01:00:00+01:00">13 April 2012</abbr>
+              </td>
+              <td class="attribute organisations">
+                <abbr title="Department for Communities and Local Government">DCLG</abbr>
+              </td>
+              <td class="publication_type attribute">
+                Closed consultation
+              </td>
+              <td class="publication_series attribute">
+              </td>
 </tr>
 <tr class="consultation document-row" id="consultation_12719">
 <th scope="row" class="title attribute">
-              <a href="/government/consultations/nationally-significant-infrastructure-projects-guidance-for-examining-planning-applications" title="View Nationally significant infrastructure projects: guidance for examining planning applications">Nationally significant infrastructure projects: guidance for examining planning applications</a>
-            </th>
-            <td class="attribute publication_date">
-              <abbr class="first_published_at" title="2012-04-13T01:00:00+01:00">13 April 2012</abbr>
-            </td>
-            <td class="attribute organisations">
-              <abbr title="Department for Communities and Local Government">DCLG</abbr>
-            </td>
-            <td class="publication_type attribute">
-              Closed consultation
-            </td>
-            <td class="publication_series attribute">
-            </td>
+                <a href="/government/consultations/nationally-significant-infrastructure-projects-guidance-for-examining-planning-applications" title="View Nationally significant infrastructure projects: guidance for examining planning applications">Nationally significant infrastructure projects: guidance for examining planning applications</a>
+              </th>
+              <td class="attribute publication_date">
+                <abbr class="timestamp_for_sorting" title="2012-04-13T01:00:00+01:00">13 April 2012</abbr>
+              </td>
+              <td class="attribute organisations">
+                <abbr title="Department for Communities and Local Government">DCLG</abbr>
+              </td>
+              <td class="publication_type attribute">
+                Closed consultation
+              </td>
+              <td class="publication_series attribute">
+              </td>
 </tr>
 <tr class="consultation document-row" id="consultation_12720">
 <th scope="row" class="title attribute">
-              <a href="/government/consultations/pre-application-process-for-planning-applications" title="View Pre-application process for planning applications">Pre-application process for planning applications</a>
-            </th>
-            <td class="attribute publication_date">
-              <abbr class="first_published_at" title="2012-04-13T01:00:00+01:00">13 April 2012</abbr>
-            </td>
-            <td class="attribute organisations">
-              <abbr title="Department for Communities and Local Government">DCLG</abbr>
-            </td>
-            <td class="publication_type attribute">
-              Closed consultation
-            </td>
-            <td class="publication_series attribute">
-            </td>
+                <a href="/government/consultations/pre-application-process-for-planning-applications" title="View Pre-application process for planning applications">Pre-application process for planning applications</a>
+              </th>
+              <td class="attribute publication_date">
+                <abbr class="timestamp_for_sorting" title="2012-04-13T01:00:00+01:00">13 April 2012</abbr>
+              </td>
+              <td class="attribute organisations">
+                <abbr title="Department for Communities and Local Government">DCLG</abbr>
+              </td>
+              <td class="publication_type attribute">
+                Closed consultation
+              </td>
+              <td class="publication_series attribute">
+              </td>
 </tr>
 <tr class="consultation document-row" id="consultation_12721">
 <th scope="row" class="title attribute">
-              <a href="/government/consultations/nationally-significant-infrastructure-projects-application-form-guidance" title="View Nationally significant infrastructure projects: application form guidance">Nationally significant infrastructure projects: application form guidance</a>
-            </th>
-            <td class="attribute publication_date">
-              <abbr class="first_published_at" title="2012-04-13T01:00:00+01:00">13 April 2012</abbr>
-            </td>
-            <td class="attribute organisations">
-              <abbr title="Department for Communities and Local Government">DCLG</abbr>
-            </td>
-            <td class="publication_type attribute">
-              Closed consultation
-            </td>
-            <td class="publication_series attribute">
-            </td>
+                <a href="/government/consultations/nationally-significant-infrastructure-projects-application-form-guidance" title="View Nationally significant infrastructure projects: application form guidance">Nationally significant infrastructure projects: application form guidance</a>
+              </th>
+              <td class="attribute publication_date">
+                <abbr class="timestamp_for_sorting" title="2012-04-13T01:00:00+01:00">13 April 2012</abbr>
+              </td>
+              <td class="attribute organisations">
+                <abbr title="Department for Communities and Local Government">DCLG</abbr>
+              </td>
+              <td class="publication_type attribute">
+                Closed consultation
+              </td>
+              <td class="publication_series attribute">
+              </td>
 </tr>
 <tr class="consultation document-row" id="consultation_8796">
 <th scope="row" class="title attribute">
-              <a href="/government/consultations/consultation-on-the-insurance-of-shipowners-for-maritime-claims" title="View Consultation on the insurance of shipowners for maritime claims">Consultation on the insurance of shipowners for maritime claims</a>
-            </th>
-            <td class="attribute publication_date">
-              <abbr class="first_published_at" title="2012-04-04T01:00:00+01:00">4 April 2012</abbr>
-            </td>
-            <td class="attribute organisations">
-              <abbr title="Department for Transport">DFT</abbr>
-            </td>
-            <td class="publication_type attribute">
-              Consultation outcome
-            </td>
-            <td class="publication_series attribute">
-            </td>
+                <a href="/government/consultations/consultation-on-the-insurance-of-shipowners-for-maritime-claims" title="View Consultation on the insurance of shipowners for maritime claims">Consultation on the insurance of shipowners for maritime claims</a>
+              </th>
+              <td class="attribute publication_date">
+                <abbr class="timestamp_for_sorting" title="2012-04-04T01:00:00+01:00">4 April 2012</abbr>
+              </td>
+              <td class="attribute organisations">
+                <abbr title="Department for Transport">DFT</abbr>
+              </td>
+              <td class="publication_type attribute">
+                Consultation outcome
+              </td>
+              <td class="publication_series attribute">
+              </td>
 </tr>
 <tr class="consultation document-row" id="consultation_12856">
 <th scope="row" class="title attribute">
-              <a href="/government/consultations/proposed-designation-orders-implementing-the-port-security-regulations-2009-si-2009-2048" title="View Proposed Designation Orders implementing the Port Security Regulations 2009 (SI 2009/2048)">Proposed Designation Orders implementing the Port Security Regulations 2009 (SI 2009/2048)</a>
-            </th>
-            <td class="attribute publication_date">
-              <abbr class="first_published_at" title="2012-03-28T01:00:00+01:00">28 March 2012</abbr>
-            </td>
-            <td class="attribute organisations">
-              <abbr title="Department for Transport">DFT</abbr>
-            </td>
-            <td class="publication_type attribute">
-              Consultation outcome
-            </td>
-            <td class="publication_series attribute">
-            </td>
+                <a href="/government/consultations/proposed-designation-orders-implementing-the-port-security-regulations-2009-si-2009-2048" title="View Proposed Designation Orders implementing the Port Security Regulations 2009 (SI 2009/2048)">Proposed Designation Orders implementing the Port Security Regulations 2009 (SI 2009/2048)</a>
+              </th>
+              <td class="attribute publication_date">
+                <abbr class="timestamp_for_sorting" title="2012-03-28T01:00:00+01:00">28 March 2012</abbr>
+              </td>
+              <td class="attribute organisations">
+                <abbr title="Department for Transport">DFT</abbr>
+              </td>
+              <td class="publication_type attribute">
+                Consultation outcome
+              </td>
+              <td class="publication_series attribute">
+              </td>
 </tr>
 <tr class="consultation document-row" id="consultation_14378">
 <th scope="row" class="title attribute">
-              <a href="/government/consultations/call-for-evidence-on-the-production-of-an-appraisal-tool-for-local-speed-limits" title="View Call for evidence on the production of an appraisal tool for local speed limits">Call for evidence on the production of an appraisal tool for local speed limits</a>
-            </th>
-            <td class="attribute publication_date">
-              <abbr class="first_published_at" title="2012-03-22T00:00:00+00:00">22 March 2012</abbr>
-            </td>
-            <td class="attribute organisations">
-              <abbr title="Department for Transport">DFT</abbr>
-            </td>
-            <td class="publication_type attribute">
-              Closed consultation
-            </td>
-            <td class="publication_series attribute">
-            </td>
+                <a href="/government/consultations/call-for-evidence-on-the-production-of-an-appraisal-tool-for-local-speed-limits" title="View Call for evidence on the production of an appraisal tool for local speed limits">Call for evidence on the production of an appraisal tool for local speed limits</a>
+              </th>
+              <td class="attribute publication_date">
+                <abbr class="timestamp_for_sorting" title="2012-03-22T00:00:00+00:00">22 March 2012</abbr>
+              </td>
+              <td class="attribute organisations">
+                <abbr title="Department for Transport">DFT</abbr>
+              </td>
+              <td class="publication_type attribute">
+                Closed consultation
+              </td>
+              <td class="publication_series attribute">
+              </td>
+</tr>
+<tr class="consultation document-row" id="consultation_12722">
+<th scope="row" class="title attribute">
+                <a href="/government/consultations/right-to-transfer-and-right-to-manage-regulations-for-tenants" title="View Right to Transfer and Right to Manage regulations for tenants">Right to Transfer and Right to Manage regulations for tenants</a>
+              </th>
+              <td class="attribute publication_date">
+                <abbr class="timestamp_for_sorting" title="2012-03-15T00:00:00+00:00">15 March 2012</abbr>
+              </td>
+              <td class="attribute organisations">
+                <abbr title="Department for Communities and Local Government">DCLG</abbr>
+              </td>
+              <td class="publication_type attribute">
+                Consultation outcome
+              </td>
+              <td class="publication_series attribute">
+              </td>
 </tr>
 </tbody>
 </table>
@@ -579,6 +591,7 @@
 
     </ul></nav>
 </div>
+  </div>
 </div>
 
         </div>

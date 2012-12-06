@@ -43,15 +43,15 @@
     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
-</script><script defer src="https://assets.digital.cabinet-office.gov.uk/government/assets/application-a239688d17bcccf06a6180975dc96a1e.js" type="text/javascript"></script><!--[if gt IE 8]><!--><link href="https://assets.digital.cabinet-office.gov.uk/government/assets/frontend/base-ed0067412352d037dc7d88a233470ddd.css" media="screen" rel="stylesheet" type="text/css">
+</script><script defer src="https://assets.digital.cabinet-office.gov.uk/government/assets/application-ca258e9195b26d33bb5b61d0d2743237.js" type="text/javascript"></script><!--[if gt IE 8]><!--><link href="https://assets.digital.cabinet-office.gov.uk/government/assets/frontend/base-0d2d3d6be12501c0fb02a03e3c10cd51.css" media="screen" rel="stylesheet" type="text/css">
 <!--<![endif]--><link href="https://assets.digital.cabinet-office.gov.uk/government/assets/frontend/print-3a87362d1fe4dc933a4d5f6446e9c377.css" media="print" rel="stylesheet" type="text/css">
 <link href="https://www.gov.uk/government/publications.atom" rel="alternate" title="Recent publications" type="application/atom+xml">
 <link rel="next" type="application/json" href="/government/publications.json?direction=before&amp;page=96">
 <meta content="True" name="HandheldFriendly">
 <meta content="320" name="MobileOptimized">
 <meta content="authenticity_token" name="csrf-param">
-<meta content="7YHrCMpI4Vj3zU850WRWZPKadiycRjg0vHh4YS8XWhU=" name="csrf-token">
-<!--[if IE 6]><link href="https://assets.digital.cabinet-office.gov.uk/government/assets/frontend/base-ie6-dd9efb7d2b626191dbfafd048ae1d375.css" media="screen" rel="stylesheet" type="text/css" /><script>var ieVersion = 6;</script><![endif]--><!--[if IE 7]><link href="https://assets.digital.cabinet-office.gov.uk/government/assets/frontend/base-ie7-8d0daf916709d91caecdf7ea316c6736.css" media="screen" rel="stylesheet" type="text/css" /><script>var ieVersion = 7;</script><![endif]--><!--[if IE 8]><link href="https://assets.digital.cabinet-office.gov.uk/government/assets/frontend/base-ie8-7bbd27e1084bbcdc2861675f98a05961.css" media="screen" rel="stylesheet" type="text/css" /><script>var ieVersion = 8;</script><![endif]-->
+<meta content="ebeBS3gKXUujOSNAEZON1fIQP0UDyV1D5hddx/g6dxA=" name="csrf-token">
+<!--[if IE 6]><link href="https://assets.digital.cabinet-office.gov.uk/government/assets/frontend/base-ie6-71f073fdcacdca26879fdca8415ba68f.css" media="screen" rel="stylesheet" type="text/css" /><script>var ieVersion = 6;</script><![endif]--><!--[if IE 7]><link href="https://assets.digital.cabinet-office.gov.uk/government/assets/frontend/base-ie7-0db149f3fc248a61408eb2ce3fd01bfd.css" media="screen" rel="stylesheet" type="text/css" /><script>var ieVersion = 7;</script><![endif]--><!--[if IE 8]><link href="https://assets.digital.cabinet-office.gov.uk/government/assets/frontend/base-ie8-9ae1b12c0bb113e645bf7b8827e27030.css" media="screen" rel="stylesheet" type="text/css" /><script>var ieVersion = 8;</script><![endif]-->
 </head>
 <body class="website government">
       <script type="text/javascript">document.body.className = ((document.body.className) ? document.body.className + ' js-enabled' : 'js-enabled');</script><a href="#content" class="visuallyhidden">Skip to main content</a>
@@ -99,7 +99,7 @@
         <div class="progress-bar js-progress-bar" id="progress-bar" data-join-count="2">
           <div class="bar"><div class="joined"></div></div>
           <p>
-            2 of 23  ministerial departments have moved their corporate websites to GOV.UK.
+            2 of 24 ministerial departments have moved their corporate websites to GOV.UK.
             <a href="/government">More will join soon</a>
           </p>
         </div>
@@ -115,17 +115,47 @@
 
 <div class="block-2">
   <div class="inner-block">
-    
     <div class="filter-block">
   <h2>You can use the filters to show only results that match your interests</h2>
   <form accept-charset="UTF-8" action="/government/publications" class="js-document-filter" id="document-filter" method="get">
 <div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"></div>
     <fieldset>
 <legend class="visuallyhidden">Filter publications</legend>
+
+      <div class="filter" id="keyword-filter">
+        <div class="filter-inner">
+          <label class="title" for="keywords">Contains</label>
+          <input id="keywords" name="keywords" placeholder="keywords" type="text" value="">
+</div>
+      </div>
+
       <div class="filter">
         <div class="filter-inner">
-          <label class="visuallyhidden" for="topics">Topic</label>
-          <select class="multi-row-select" id="topics" multiple name="topics[]" size="9"><option value="all" selected>All topics</option>
+            <div class="publication-type">
+              <label class="title" for="publication_filter_option">Publication type</label>
+              <select class="single-row-select" id="publication_filter_option" name="publication_filter_option"><option value="all" selected>All publication types</option>
+<option value="policy-papers">Policy papers</option>
+<option value="consultations">Consultations</option>
+<option value="impact-assessments">Impact assessments</option>
+<option value="guidance">Guidance</option>
+<option value="forms">Forms</option>
+<option value="statistics">Statistics</option>
+<option value="research-and-analysis">Research and analysis</option>
+<option value="corporate-reports">Corporate reports</option>
+<option value="transparency-data">Transparency data</option>
+<option value="treaties">Treaties</option>
+<option value="foi-releases">FOI releases</option>
+<option value="independent-reports">Independent reports</option>
+<option value="circulars-letters-and-bulletins">Circulars, letters and bulletins</option>
+<option value="promotional-material">Promotional material</option></select>
+</div>
+        </div>
+      </div>
+
+      <div class="filter">
+        <div class="filter-inner">
+          <label for="topics">Topic</label>
+          <select class="multi-row-select" id="topics" multiple name="topics[]" size="5"><option value="all" selected>All topics</option>
 <option value="climate-change">Climate change</option>
 <option value="community-and-society">Community and society</option>
 <option value="economic-growth">Economic growth</option>
@@ -140,8 +170,8 @@
       </div>
       <div class="filter">
         <div class="filter-inner">
-          <label class="visuallyhidden" for="departments">Department</label>
-          <select class="multi-row-select" id="departments" multiple name="departments[]" size="9"><option value="all" selected>All departments</option>
+          <label for="departments">Department</label>
+          <select class="multi-row-select" id="departments" multiple name="departments[]" size="5"><option value="all" selected>All departments</option>
 <option value="attorney-generals-office">Attorney General's Office</option>
 <option value="building-regulations-advisory-committee">Building Regulations Advisory Committee</option>
 <option value="department-for-business-innovation-skills">Department for Business, Innovation &amp; Skills</option>
@@ -160,30 +190,10 @@
 <option value="vehicle-certification-agency">Vehicle Certification Agency</option></select>
 </div>
       </div>
-      
+
       <div class="filter">
         <div class="filter-inner">
-            <div class="publication-type">
-              <label class="title" for="publication_filter_option">Publication type</label>
-              <select id="publication_filter_option" name="publication_filter_option"><option value="all" selected>All publication types</option>
-<option value="policy-papers">Policy papers</option>
-<option value="consultations">Consultations</option>
-<option value="impact-assessments">Impact assessments</option>
-<option value="guidance">Guidance</option>
-<option value="forms">Forms</option>
-<option value="statistics">Statistics</option>
-<option value="research-and-analysis">Research and analysis</option>
-<option value="corporate-reports">Corporate reports</option>
-<option value="transparency-data">Transparency data</option>
-<option value="treaties">Treaties</option>
-<option value="foi-releases">FOI releases</option>
-<option value="independent-reports">Independent reports</option>
-<option value="circulars-letters-and-bulletins">Circulars, letters and bulletins</option>
-<option value="promotional-material">Promotional material</option></select>
-</div>
-
-          <label class="title" for="keywords">Contains</label>
-          <input id="keywords" name="keywords" placeholder="keywords" type="text" value=""><div class="date-range">
+            <div class="date-range">
               <h3>Published</h3>
                 <label class="checkbox" for="direction_before">
                   <input checked id="direction_before" name="direction" type="radio" value="before">
@@ -192,7 +202,7 @@
                   <input id="direction_after" name="direction" type="radio" value="after">
                   After
 </label>              <label class="visuallyhidden" for="date">Date</label>
-              <select id="date" name="date"><option value="2013-01-01">January 2013</option>
+              <select class="single-row-select" id="date" name="date"><option value="2013-01-01">January 2013</option>
 <option value="2012-12-01">December 2012</option>
 <option value="2012-11-01">November 2012</option>
 <option value="2012-10-01">October 2012</option>
@@ -222,364 +232,368 @@
 </div>
         </div>
       </div>
-      <div class="results">
-        <p class="count"><span>3019</span> results</p>
-        <p class="selections"></p>
-      </div>
     </fieldset>
 </form>
 </div>
 
-    <div class="filter-feed">
-      <div class="subscribe"><a href="https://www.gov.uk/government/publications.atom" class="feed">feed</a></div>
-    </div>
   </div>
 </div>
 
 <div class="block-4">
-  <div class="inner-block filter-results" id="publications-container" aria-live="polite">
+  <div class="inner-block">
+    <div class="filter-results-summary">
+  <h3 class="selections"></h3>
+</div>
     
-      <table class="document-list emphasise-recent" id="document-list">
+    <div class="filter-feed">
+      <div class="subscribe"><a href="https://www.gov.uk/government/publications.atom" class="feed">feed</a></div>
+    </div>
+    
+    <div class="filter-results" id="publications-container" aria-live="polite">
+      
+        <table class="document-list emphasise-recent" id="document-list">
 <thead class="visuallyhidden"><tr>
 <th scope="col">Title</th>
-            <th scope="col">Publication Date</th>
-            <th scope="col">Publication Organisations</th>
-            <th scope="col">Publication Type</th>
-            <th scope="col">Publication Series</th>
-          </tr></thead>
+              <th scope="col">Publication Date</th>
+              <th scope="col">Publication Organisations</th>
+              <th scope="col">Publication Type</th>
+              <th scope="col">Publication Series</th>
+            </tr></thead>
 <tbody>
-<tr class="publication document-row recent" id="publication_10596">
+<tr class="publication document-row recent" id="publication_10631">
 <th scope="row" class="title attribute">
-              <a href="/government/publications/drawings-concerning-the-loading-bay-sign-and-road-markings-in-market-street-crediton" title="View Drawings concerning the loading bay sign and road markings in Market Street, Crediton">Drawings concerning the loading bay sign and road markings in Market Street, Crediton</a>
-            </th>
-            <td class="attribute publication_date">
-              <abbr class="publication_date" title="2011-04-13">13 April 2011</abbr>
-            </td>
-            <td class="attribute organisations">
-              <abbr title="Department for Transport">DFT</abbr>
-            </td>
-            <td class="publication_type attribute">
-              FOI release
-            </td>
-            <td class="publication_series attribute">
-            </td>
+                <a href="/government/publications/cost-of-department-website" title="View Cost of Department website">Cost of Department website</a>
+              </th>
+              <td class="attribute publication_date">
+                <abbr class="publication_date" title="2011-07-11">11 July 2011</abbr>
+              </td>
+              <td class="attribute organisations">
+                <abbr title="Department for Transport">DFT</abbr>
+              </td>
+              <td class="publication_type attribute">
+                FOI release
+              </td>
+              <td class="publication_series attribute">
+              </td>
 </tr>
-<tr class="publication document-row recent" id="publication_10597">
+<tr class="publication document-row recent" id="publication_14554">
 <th scope="row" class="title attribute">
-              <a href="/government/publications/a-road-reference-speeds" title="View A' road reference speeds">A' road reference speeds</a>
-            </th>
-            <td class="attribute publication_date">
-              <abbr class="publication_date" title="2011-04-13">13 April 2011</abbr>
-            </td>
-            <td class="attribute organisations">
-              <abbr title="Department for Transport">DFT</abbr>
-            </td>
-            <td class="publication_type attribute">
-              FOI release
-            </td>
-            <td class="publication_series attribute">
-            </td>
+                <a href="/government/publications/government-procurement-card-gpc" title="View Government Procurement Card (GPC)">Government Procurement Card (GPC)</a>
+              </th>
+              <td class="attribute publication_date">
+                <abbr class="publication_date" title="2011-07-11">11 July 2011</abbr>
+              </td>
+              <td class="attribute organisations">
+                <abbr title="Department for Communities and Local Government">DCLG</abbr>
+              </td>
+              <td class="publication_type attribute">
+                FOI release
+              </td>
+              <td class="publication_series attribute">
+              </td>
 </tr>
-<tr class="publication document-row recent" id="publication_10598">
+<tr class="publication document-row recent" id="publication_14168">
 <th scope="row" class="title attribute">
-              <a href="/government/publications/stafford-area-improvements-at-norton-bridge-railway-junction-staffordshire-and-three-proposed-option-alignments" title="View Stafford area improvements at Norton Bridge Railway Junction, Staffordshire, and three proposed option alignments">Stafford area improvements at Norton Bridge Railway Junction, Staffordshire, and three proposed option alignments</a>
-            </th>
-            <td class="attribute publication_date">
-              <abbr class="publication_date" title="2011-04-13">13 April 2011</abbr>
-            </td>
-            <td class="attribute organisations">
-              <abbr title="Department for Transport">DFT</abbr>
-            </td>
-            <td class="publication_type attribute">
-              FOI release
-            </td>
-            <td class="publication_series attribute">
-            </td>
+                <a href="/government/publications/temporary-parking-suspension-hackney" title="View Temporary parking suspension, Hackney">Temporary parking suspension, Hackney</a>
+              </th>
+              <td class="attribute publication_date">
+                <abbr class="publication_date" title="2011-07-08">8 July 2011</abbr>
+              </td>
+              <td class="attribute organisations">
+                <abbr title="Department for Transport">DFT</abbr>
+              </td>
+              <td class="publication_type attribute">
+                FOI release
+              </td>
+              <td class="publication_series attribute">
+              </td>
 </tr>
-<tr class="publication document-row" id="publication_10864">
+<tr class="publication document-row" id="publication_10622">
 <th scope="row" class="title attribute">
-              <a href="/government/publications/approved-driving-instructors-on-the-register-by-grade" title="View Approved driving instructors on the register by grade">Approved driving instructors on the register by grade</a>
-            </th>
-            <td class="attribute publication_date">
-              <abbr class="publication_date" title="2011-04-13">13 April 2011</abbr>
-            </td>
-            <td class="attribute organisations">
-              <abbr title="Driving Standards Agency">DSA</abbr>
-            </td>
-            <td class="publication_type attribute">
-              FOI release
-            </td>
-            <td class="publication_series attribute">
-            </td>
+                <a href="/government/publications/meetings-with-isles-of-scilly-steamship-group" title="View Meetings with Isles of Scilly Steamship Group">Meetings with Isles of Scilly Steamship Group</a>
+              </th>
+              <td class="attribute publication_date">
+                <abbr class="publication_date" title="2011-07-08">8 July 2011</abbr>
+              </td>
+              <td class="attribute organisations">
+                <abbr title="Department for Transport">DFT</abbr>
+              </td>
+              <td class="publication_type attribute">
+                FOI release
+              </td>
+              <td class="publication_series attribute">
+              </td>
 </tr>
-<tr class="consultation document-row" id="consultation_17521">
+<tr class="publication document-row" id="publication_10623">
 <th scope="row" class="title attribute">
-              <a href="/government/consultations/local-councils-funding-community-and-voluntary-groups" title="View Local councils: funding community and voluntary groups">Local councils: funding community and voluntary groups</a>
-            </th>
-            <td class="attribute publication_date">
-              <abbr class="first_published_at" title="2011-04-13T01:00:00+01:00">13 April 2011</abbr>
-            </td>
-            <td class="attribute organisations">
-              <abbr title="Department for Communities and Local Government">DCLG</abbr>
-            </td>
-            <td class="publication_type attribute">
-              Consultation outcome
-            </td>
-            <td class="publication_series attribute">
-            </td>
+                <a href="/government/publications/cycle-rail-task-force" title="View Cycle-Rail Task Force">Cycle-Rail Task Force</a>
+              </th>
+              <td class="attribute publication_date">
+                <abbr class="publication_date" title="2011-07-08">8 July 2011</abbr>
+              </td>
+              <td class="attribute organisations">
+                <abbr title="Department for Transport">DFT</abbr>
+              </td>
+              <td class="publication_type attribute">
+                FOI release
+              </td>
+              <td class="publication_series attribute">
+              </td>
 </tr>
-<tr class="consultation document-row" id="consultation_17543">
+<tr class="publication document-row" id="publication_10624">
 <th scope="row" class="title attribute">
-              <a href="/government/consultations/planning-for-traveller-sites" title="View Planning for traveller sites">Planning for traveller sites</a>
-            </th>
-            <td class="attribute publication_date">
-              <abbr class="first_published_at" title="2011-04-13T01:00:00+01:00">13 April 2011</abbr>
-            </td>
-            <td class="attribute organisations">
-              <abbr title="Department for Communities and Local Government">DCLG</abbr>
-            </td>
-            <td class="publication_type attribute">
-              Consultation outcome
-            </td>
-            <td class="publication_series attribute">
-            </td>
+                <a href="/government/publications/departmental-and-agency-it-structure" title="View Departmental and agency IT structure">Departmental and agency IT structure</a>
+              </th>
+              <td class="attribute publication_date">
+                <abbr class="publication_date" title="2011-07-08">8 July 2011</abbr>
+              </td>
+              <td class="attribute organisations">
+                <abbr title="Department for Transport">DFT</abbr>
+              </td>
+              <td class="publication_type attribute">
+                FOI release
+              </td>
+              <td class="publication_series attribute">
+              </td>
 </tr>
-<tr class="consultation document-row" id="consultation_12760">
+<tr class="publication document-row" id="publication_10625">
 <th scope="row" class="title attribute">
-              <a href="/government/consultations/dclg-draft-statistics-plan-for-2011-to-2012" title="View DCLG draft statistics plan for 2011 to 2012">DCLG draft statistics plan for 2011 to 2012</a>
-            </th>
-            <td class="attribute publication_date">
-              <abbr class="first_published_at" title="2011-04-13T01:00:00+01:00">13 April 2011</abbr>
-            </td>
-            <td class="attribute organisations">
-              <abbr title="Department for Communities and Local Government">DCLG</abbr>
-            </td>
-            <td class="publication_type attribute">
-              Closed consultation
-            </td>
-            <td class="publication_series attribute">
-            </td>
+                <a href="/government/publications/monitoring-short-rail-journeys-on-northern-rail" title="View Monitoring short rail journeys on Northern Rail">Monitoring short rail journeys on Northern Rail</a>
+              </th>
+              <td class="attribute publication_date">
+                <abbr class="publication_date" title="2011-07-08">8 July 2011</abbr>
+              </td>
+              <td class="attribute organisations">
+                <abbr title="Department for Transport">DFT</abbr>
+              </td>
+              <td class="publication_type attribute">
+                FOI release
+              </td>
+              <td class="publication_series attribute">
+              </td>
 </tr>
-<tr class="publication document-row" id="publication_15167">
+<tr class="publication document-row" id="publication_10626">
 <th scope="row" class="title attribute">
-              <a href="/government/publications/top-five-reasons-for-failing-the-car-theory-and-practical-tests" title="View Top 5 reasons for failing the car theory and practical driving tests">Top 5 reasons for failing the car theory and practical driving tests</a>
-            </th>
-            <td class="attribute publication_date">
-              <abbr class="publication_date" title="2011-04-12">12 April 2011</abbr>
-            </td>
-            <td class="attribute organisations">
-              <abbr title="Driving Standards Agency">DSA</abbr>
-            </td>
-            <td class="publication_type attribute">
-              FOI release
-            </td>
-            <td class="publication_series attribute">
-            </td>
+                <a href="/government/publications/report-on-transport-management-and-policing-integration" title="View Report on transport management and policing integration">Report on transport management and policing integration</a>
+              </th>
+              <td class="attribute publication_date">
+                <abbr class="publication_date" title="2011-07-08">8 July 2011</abbr>
+              </td>
+              <td class="attribute organisations">
+                <abbr title="Department for Transport">DFT</abbr>
+              </td>
+              <td class="publication_type attribute">
+                FOI release
+              </td>
+              <td class="publication_series attribute">
+              </td>
 </tr>
-<tr class="publication document-row" id="publication_15690">
+<tr class="publication document-row" id="publication_10627">
 <th scope="row" class="title attribute">
-              <a href="/government/publications/potential-driving-instructor-and-criminal-records-bureau-checks" title="View Potential driving instructor and Criminal Records Bureau checks">Potential driving instructor and Criminal Records Bureau checks</a>
-            </th>
-            <td class="attribute publication_date">
-              <abbr class="publication_date" title="2011-04-12">12 April 2011</abbr>
-            </td>
-            <td class="attribute organisations">
-              <abbr title="Driving Standards Agency">DSA</abbr>
-            </td>
-            <td class="publication_type attribute">
-              FOI release
-            </td>
-            <td class="publication_series attribute">
-            </td>
+                <a href="/government/publications/chemtrails-and-contrails" title="View Chemtrails and contrails">Chemtrails and contrails</a>
+              </th>
+              <td class="attribute publication_date">
+                <abbr class="publication_date" title="2011-07-08">8 July 2011</abbr>
+              </td>
+              <td class="attribute organisations">
+                <abbr title="Department for Transport">DFT</abbr>
+              </td>
+              <td class="publication_type attribute">
+                FOI release
+              </td>
+              <td class="publication_series attribute">
+              </td>
 </tr>
-<tr class="publication document-row" id="publication_10592">
+<tr class="publication document-row" id="publication_10628">
 <th scope="row" class="title attribute">
-              <a href="/government/publications/monies-paid-to-famous-people-for-campaign-work-by-the-department-in-the-last-5-years" title="View Monies paid to famous people, for campaign work, by the department in the last 5 years">Monies paid to famous people, for campaign work, by the department in the last 5 years</a>
-            </th>
-            <td class="attribute publication_date">
-              <abbr class="publication_date" title="2011-04-12">12 April 2011</abbr>
-            </td>
-            <td class="attribute organisations">
-              <abbr title="Department for Transport">DFT</abbr>
-            </td>
-            <td class="publication_type attribute">
-              FOI release
-            </td>
-            <td class="publication_series attribute">
-            </td>
+                <a href="/government/publications/dft-card-purchasing-programme" title="View DfT card purchasing programme">DfT card purchasing programme</a>
+              </th>
+              <td class="attribute publication_date">
+                <abbr class="publication_date" title="2011-07-08">8 July 2011</abbr>
+              </td>
+              <td class="attribute organisations">
+                <abbr title="Department for Transport">DFT</abbr>
+              </td>
+              <td class="publication_type attribute">
+                FOI release
+              </td>
+              <td class="publication_series attribute">
+              </td>
 </tr>
-<tr class="publication document-row" id="publication_10860">
+<tr class="publication document-row" id="publication_10629">
 <th scope="row" class="title attribute">
-              <a href="/government/publications/information-about-the-design-and-use-of-dsas-logo" title="View Information about the design and use of DSA's logo">Information about the design and use of DSA's logo</a>
-            </th>
-            <td class="attribute publication_date">
-              <abbr class="publication_date" title="2011-04-12">12 April 2011</abbr>
-            </td>
-            <td class="attribute organisations">
-              <abbr title="Driving Standards Agency">DSA</abbr>
-            </td>
-            <td class="publication_type attribute">
-              FOI release
-            </td>
-            <td class="publication_series attribute">
-            </td>
+                <a href="/government/publications/effectiveness-of-bus-lanes" title="View Effectiveness of bus lanes">Effectiveness of bus lanes</a>
+              </th>
+              <td class="attribute publication_date">
+                <abbr class="publication_date" title="2011-07-08">8 July 2011</abbr>
+              </td>
+              <td class="attribute organisations">
+                <abbr title="Department for Transport">DFT</abbr>
+              </td>
+              <td class="publication_type attribute">
+                FOI release
+              </td>
+              <td class="publication_series attribute">
+              </td>
 </tr>
-<tr class="publication document-row" id="publication_10862">
+<tr class="publication document-row" id="publication_15921">
 <th scope="row" class="title attribute">
-              <a href="/government/publications/category-c-c1-and-c-e-practical-driving-tests-passed-and-failed" title="View Category C, C1 and C+E practical driving tests passed and failed">Category C, C1 and C+E practical driving tests passed and failed</a>
-            </th>
-            <td class="attribute publication_date">
-              <abbr class="publication_date" title="2011-04-12">12 April 2011</abbr>
-            </td>
-            <td class="attribute organisations">
-              <abbr title="Driving Standards Agency">DSA</abbr>
-            </td>
-            <td class="publication_type attribute">
-              FOI release
-            </td>
-            <td class="publication_series attribute">
-            </td>
+                <a href="/government/publications/a14-ellington-to-fen-ditton-information-pack" title="View A14 Ellington to Fen Ditton information pack">A14 Ellington to Fen Ditton information pack</a>
+              </th>
+              <td class="attribute publication_date">
+                <abbr class="publication_date" title="2011-07-07">7 July 2011</abbr>
+              </td>
+              <td class="attribute organisations">
+                <abbr title="Department for Transport">DFT</abbr>
+              </td>
+              <td class="publication_type attribute">
+                Guidance
+              </td>
+              <td class="publication_series attribute">
+              </td>
 </tr>
-<tr class="publication document-row" id="publication_15240">
+<tr class="publication document-row" id="publication_11573">
 <th scope="row" class="title attribute">
-              <a href="/government/publications/number-of-potential-driving-instructors-becoming-approved-driving-instructors" title="View Number of potential driving instructors becoming approved driving instructors">Number of potential driving instructors becoming approved driving instructors</a>
-            </th>
-            <td class="attribute publication_date">
-              <abbr class="publication_date" title="2011-04-12">12 April 2011</abbr>
-            </td>
-            <td class="attribute organisations">
-              <abbr title="Driving Standards Agency">DSA</abbr>
-            </td>
-            <td class="publication_type attribute">
-              FOI release
-            </td>
-            <td class="publication_series attribute">
-            </td>
+                <a href="/government/publications/zero-carbon-non-domestic-buildings-phase-3-final-report" title="View Zero carbon non-domestic buildings: phase 3 final report">Zero carbon non-domestic buildings: phase 3 final report</a>
+              </th>
+              <td class="attribute publication_date">
+                <abbr class="publication_date" title="2011-07-07">7 July 2011</abbr>
+              </td>
+              <td class="attribute organisations">
+                <abbr title="Department for Communities and Local Government">DCLG</abbr>
+              </td>
+              <td class="publication_type attribute">
+                Research and analysis
+              </td>
+              <td class="publication_series attribute">
+                  Part of a series: <a href="/government/organisations/department-for-communities-and-local-government/series/building-regulations-research">Building regulations: research</a>
+              </td>
 </tr>
-<tr class="publication document-row" id="publication_11411">
+<tr class="consultation document-row" id="consultation_14389">
 <th scope="row" class="title attribute">
-              <a href="/government/publications/fire-and-rescue-bulletin-5-2011-immediate" title="View Fire and rescue bulletin: 5/2011 immediate">Fire and rescue bulletin: 5/2011 immediate</a>
-            </th>
-            <td class="attribute publication_date">
-              <abbr class="publication_date" title="2011-04-12">12 April 2011</abbr>
-            </td>
-            <td class="attribute organisations">
-              <abbr title="Department for Communities and Local Government">DCLG</abbr>
-            </td>
-            <td class="publication_type attribute">
-              Circular, letter or bulletin
-            </td>
-            <td class="publication_series attribute">
-                Part of a series: <a href="/government/organisations/department-for-communities-and-local-government/series/fire-and-rescue-bulletins">Fire and rescue bulletins</a>
-            </td>
+                <a href="/government/consultations/city-of-liverpool-cruise-terminal-turnaround-operations-consultation-on-proposal-to-withdraw-dft-objection-to-removal-of-a-grant-condition" title="View City of Liverpool cruise terminal: turnaround operations consultation on proposal to withdraw DfT objection to removal of a grant condition">City of Liverpool cruise terminal: turnaround operations consultation on proposal to withdraw DfT objection to removal of a grant condition</a>
+              </th>
+              <td class="attribute publication_date">
+                <abbr class="timestamp_for_sorting" title="2011-07-07T01:00:00+01:00">7 July 2011</abbr>
+              </td>
+              <td class="attribute organisations">
+                <abbr title="Department for Transport">DFT</abbr>
+              </td>
+              <td class="publication_type attribute">
+                Closed consultation
+              </td>
+              <td class="publication_series attribute">
+              </td>
 </tr>
-<tr class="publication document-row" id="publication_11488">
+<tr class="publication document-row" id="publication_11157">
 <th scope="row" class="title attribute">
-              <a href="/government/publications/fire-futures-report-government-response--2" title="View Fire futures report: government response">Fire futures report: government response</a>
-            </th>
-            <td class="attribute publication_date">
-              <abbr class="publication_date" title="2011-04-12">12 April 2011</abbr>
-            </td>
-            <td class="attribute organisations">
-              <abbr title="Department for Communities and Local Government">DCLG</abbr>
-            </td>
-            <td class="publication_type attribute">
-              Policy paper
-            </td>
-            <td class="publication_series attribute">
-            </td>
+                <a href="/government/publications/community-budgets-ministerial-letter-from-baroness-hanham-and-tim-loughton" title="View Community Budgets: ministerial letter from Baroness Hanham and Tim Loughton">Community Budgets: ministerial letter from Baroness Hanham and Tim Loughton</a>
+              </th>
+              <td class="attribute publication_date">
+                <abbr class="publication_date" title="2011-07-07">7 July 2011</abbr>
+              </td>
+              <td class="attribute organisations">
+                <abbr title="Department for Communities and Local Government">DCLG</abbr>
+              </td>
+              <td class="publication_type attribute">
+                Circular, letter or bulletin
+              </td>
+              <td class="publication_series attribute">
+              </td>
 </tr>
-<tr class="publication document-row" id="publication_11513">
+<tr class="publication document-row" id="publication_14553">
 <th scope="row" class="title attribute">
-              <a href="/government/publications/bin-charging-letter-to-local-council-chief-executives" title="View Bin charging: letter to local council chief executives">Bin charging: letter to local council chief executives</a>
-            </th>
-            <td class="attribute publication_date">
-              <abbr class="publication_date" title="2011-04-11">11 April 2011</abbr>
-            </td>
-            <td class="attribute organisations">
-              <abbr title="Department for Communities and Local Government">DCLG</abbr>
-            </td>
-            <td class="publication_type attribute">
-              Policy paper
-            </td>
-            <td class="publication_series attribute">
-            </td>
+                <a href="/government/publications/prevent-funding" title="View Prevent funding">Prevent funding</a>
+              </th>
+              <td class="attribute publication_date">
+                <abbr class="publication_date" title="2011-07-07">7 July 2011</abbr>
+              </td>
+              <td class="attribute organisations">
+                <abbr title="Department for Communities and Local Government">DCLG</abbr>
+              </td>
+              <td class="publication_type attribute">
+                FOI release
+              </td>
+              <td class="publication_series attribute">
+              </td>
 </tr>
-<tr class="publication document-row" id="publication_10587">
+<tr class="consultation document-row" id="consultation_17402">
 <th scope="row" class="title attribute">
-              <a href="/government/publications/information-on-lifting-of-restrictions-on-night-flights-in-december-2010-because-of-severe-winter-weather" title="View Information on lifting of restrictions on night flights in December 2010 because of severe winter weather">Information on lifting of restrictions on night flights in December 2010 because of severe winter weather</a>
-            </th>
-            <td class="attribute publication_date">
-              <abbr class="publication_date" title="2011-04-08">8 April 2011</abbr>
-            </td>
-            <td class="attribute organisations">
-              <abbr title="Department for Transport">DFT</abbr>
-            </td>
-            <td class="publication_type attribute">
-              FOI release
-            </td>
-            <td class="publication_series attribute">
-            </td>
+                <a href="/government/consultations/directions-to-the-social-housing-regulator" title="View Directions to the social housing regulator">Directions to the social housing regulator</a>
+              </th>
+              <td class="attribute publication_date">
+                <abbr class="timestamp_for_sorting" title="2011-07-07T01:00:00+01:00">7 July 2011</abbr>
+              </td>
+              <td class="attribute organisations">
+                <abbr title="Department for Communities and Local Government">DCLG</abbr>
+              </td>
+              <td class="publication_type attribute">
+                Consultation outcome
+              </td>
+              <td class="publication_series attribute">
+              </td>
 </tr>
-<tr class="publication document-row" id="publication_10588">
+<tr class="publication document-row" id="publication_11509">
 <th scope="row" class="title attribute">
-              <a href="/government/publications/departmental-spend-on-building-renovation-and-redecoration-since-the-formation-of-the-coalition-government-in-may-2010" title="View Departmental spend on building renovation and redecoration since the formation of the Coalition Government in May 2010">Departmental spend on building renovation and redecoration since the formation of the Coalition Government in May 2010</a>
-            </th>
-            <td class="attribute publication_date">
-              <abbr class="publication_date" title="2011-04-08">8 April 2011</abbr>
-            </td>
-            <td class="attribute organisations">
-              <abbr title="Department for Transport">DFT</abbr>
-            </td>
-            <td class="publication_type attribute">
-              FOI release
-            </td>
-            <td class="publication_series attribute">
-            </td>
+                <a href="/government/publications/vision-to-end-rough-sleeping--2" title="View Vision to end rough sleeping">Vision to end rough sleeping</a>
+              </th>
+              <td class="attribute publication_date">
+                <abbr class="publication_date" title="2011-07-06">6 July 2011</abbr>
+              </td>
+              <td class="attribute organisations">
+                <abbr title="Department for Communities and Local Government">DCLG</abbr>
+              </td>
+              <td class="publication_type attribute">
+                Policy paper
+              </td>
+              <td class="publication_series attribute">
+              </td>
 </tr>
-<tr class="publication document-row" id="publication_10589">
+<tr class="publication document-row" id="publication_11591">
 <th scope="row" class="title attribute">
-              <a href="/government/publications/rail-economic-forecasts" title="View Rail economic forecasts">Rail economic forecasts</a>
-            </th>
-            <td class="attribute publication_date">
-              <abbr class="publication_date" title="2011-04-08">8 April 2011</abbr>
-            </td>
-            <td class="attribute organisations">
-              <abbr title="Department for Transport">DFT</abbr>
-            </td>
-            <td class="publication_type attribute">
-              FOI release
-            </td>
-            <td class="publication_series attribute">
-            </td>
+                <a href="/government/publications/public-attitudes-to-housing-in-england-results-from-the-british-social-attitudes-survey" title="View Public attitudes to housing in England: results from the British social attitudes survey">Public attitudes to housing in England: results from the British social attitudes survey</a>
+              </th>
+              <td class="attribute publication_date">
+                <abbr class="publication_date" title="2011-07-05">5 July 2011</abbr>
+              </td>
+              <td class="attribute organisations">
+                <abbr title="Department for Communities and Local Government">DCLG</abbr>
+              </td>
+              <td class="publication_type attribute">
+                Research and analysis
+              </td>
+              <td class="publication_series attribute">
+              </td>
 </tr>
-<tr class="publication document-row" id="publication_10590">
+<tr class="publication document-row" id="publication_11642">
 <th scope="row" class="title attribute">
-              <a href="/government/publications/hs2-economic-appraisal" title="View HS2 economic appraisal">HS2 economic appraisal</a>
-            </th>
-            <td class="attribute publication_date">
-              <abbr class="publication_date" title="2011-04-08">8 April 2011</abbr>
-            </td>
-            <td class="attribute organisations">
-              <abbr title="Department for Transport">DFT</abbr>
-            </td>
-            <td class="publication_type attribute">
-              FOI release
-            </td>
-            <td class="publication_series attribute">
-            </td>
+                <a href="/government/publications/english-housing-survey-2009-to-2010-household-report" title="View English housing survey 2009 to 2010: household report">English housing survey 2009 to 2010: household report</a>
+              </th>
+              <td class="attribute publication_date">
+                <abbr class="publication_date" title="2011-07-05">5 July 2011</abbr>
+              </td>
+              <td class="attribute organisations">
+                <abbr title="Department for Communities and Local Government">DCLG</abbr>
+              </td>
+              <td class="publication_type attribute">
+                Statistics - national statistics
+              </td>
+              <td class="publication_series attribute">
+                  Part of a series: <a href="/government/organisations/department-for-communities-and-local-government/series/english-housing-survey">English housing survey</a>
+              </td>
 </tr>
 </tbody>
 </table>
 <nav id="show-more-documents" role="navigation"><ul class="previous-next-navigation">
-<li class="previous"><a href="/government/publications?direction=before&amp;page=94">Previous Page <span>94 of 151</span></a></li>
+<li class="previous"><a href="/government/publications?direction=before&amp;page=94">Previous Page <span>94 of 161</span></a></li>
 
       <li class="next">
-<a href="/government/publications?direction=before&amp;page=96">Next page <span>96 of 151</span></a>
+<a href="/government/publications?direction=before&amp;page=96">Next page <span>96 of 161</span></a>
 </li>
 
     </ul></nav>
 </div>
+  </div>
 </div>
 
         </div>

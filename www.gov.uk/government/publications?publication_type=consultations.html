@@ -43,15 +43,15 @@
     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
-</script><script defer src="https://assets.digital.cabinet-office.gov.uk/government/assets/application-a239688d17bcccf06a6180975dc96a1e.js" type="text/javascript"></script><!--[if gt IE 8]><!--><link href="https://assets.digital.cabinet-office.gov.uk/government/assets/frontend/base-ed0067412352d037dc7d88a233470ddd.css" media="screen" rel="stylesheet" type="text/css">
+</script><script defer src="https://assets.digital.cabinet-office.gov.uk/government/assets/application-ca258e9195b26d33bb5b61d0d2743237.js" type="text/javascript"></script><!--[if gt IE 8]><!--><link href="https://assets.digital.cabinet-office.gov.uk/government/assets/frontend/base-0d2d3d6be12501c0fb02a03e3c10cd51.css" media="screen" rel="stylesheet" type="text/css">
 <!--<![endif]--><link href="https://assets.digital.cabinet-office.gov.uk/government/assets/frontend/print-3a87362d1fe4dc933a4d5f6446e9c377.css" media="print" rel="stylesheet" type="text/css">
 <link href="https://www.gov.uk/government/publications.atom?publication_type=consultations" rel="alternate" title="Recent publications" type="application/atom+xml">
 <link rel="next" type="application/json" href="/government/publications.json?direction=before&amp;page=2&amp;publication_type=consultations">
 <meta content="True" name="HandheldFriendly">
 <meta content="320" name="MobileOptimized">
 <meta content="authenticity_token" name="csrf-param">
-<meta content="pzcFPjCsu7xxDloHDCiPnGYJ0gcehghE8ZUlNC0MWo0=" name="csrf-token">
-<!--[if IE 6]><link href="https://assets.digital.cabinet-office.gov.uk/government/assets/frontend/base-ie6-dd9efb7d2b626191dbfafd048ae1d375.css" media="screen" rel="stylesheet" type="text/css" /><script>var ieVersion = 6;</script><![endif]--><!--[if IE 7]><link href="https://assets.digital.cabinet-office.gov.uk/government/assets/frontend/base-ie7-8d0daf916709d91caecdf7ea316c6736.css" media="screen" rel="stylesheet" type="text/css" /><script>var ieVersion = 7;</script><![endif]--><!--[if IE 8]><link href="https://assets.digital.cabinet-office.gov.uk/government/assets/frontend/base-ie8-7bbd27e1084bbcdc2861675f98a05961.css" media="screen" rel="stylesheet" type="text/css" /><script>var ieVersion = 8;</script><![endif]-->
+<meta content="F82WeB+ntnY9cqEZBqiNSvVSDfrvQmO5mTTTGr9S8Xg=" name="csrf-token">
+<!--[if IE 6]><link href="https://assets.digital.cabinet-office.gov.uk/government/assets/frontend/base-ie6-71f073fdcacdca26879fdca8415ba68f.css" media="screen" rel="stylesheet" type="text/css" /><script>var ieVersion = 6;</script><![endif]--><!--[if IE 7]><link href="https://assets.digital.cabinet-office.gov.uk/government/assets/frontend/base-ie7-0db149f3fc248a61408eb2ce3fd01bfd.css" media="screen" rel="stylesheet" type="text/css" /><script>var ieVersion = 7;</script><![endif]--><!--[if IE 8]><link href="https://assets.digital.cabinet-office.gov.uk/government/assets/frontend/base-ie8-9ae1b12c0bb113e645bf7b8827e27030.css" media="screen" rel="stylesheet" type="text/css" /><script>var ieVersion = 8;</script><![endif]-->
 </head>
 <body class="website government">
       <script type="text/javascript">document.body.className = ((document.body.className) ? document.body.className + ' js-enabled' : 'js-enabled');</script><a href="#content" class="visuallyhidden">Skip to main content</a>
@@ -99,7 +99,7 @@
         <div class="progress-bar js-progress-bar" id="progress-bar" data-join-count="2">
           <div class="bar"><div class="joined"></div></div>
           <p>
-            2 of 23  ministerial departments have moved their corporate websites to GOV.UK.
+            2 of 24 ministerial departments have moved their corporate websites to GOV.UK.
             <a href="/government">More will join soon</a>
           </p>
         </div>
@@ -115,17 +115,47 @@
 
 <div class="block-2">
   <div class="inner-block">
-    
     <div class="filter-block">
   <h2>You can use the filters to show only results that match your interests</h2>
   <form accept-charset="UTF-8" action="/government/publications" class="js-document-filter" id="document-filter" method="get">
 <div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"></div>
     <fieldset>
 <legend class="visuallyhidden">Filter publications</legend>
+
+      <div class="filter" id="keyword-filter">
+        <div class="filter-inner">
+          <label class="title" for="keywords">Contains</label>
+          <input id="keywords" name="keywords" placeholder="keywords" type="text" value="">
+</div>
+      </div>
+
       <div class="filter">
         <div class="filter-inner">
-          <label class="visuallyhidden" for="topics">Topic</label>
-          <select class="multi-row-select" id="topics" multiple name="topics[]" size="9"><option value="all" selected>All topics</option>
+            <div class="publication-type">
+              <label class="title" for="publication_filter_option">Publication type</label>
+              <select class="single-row-select" id="publication_filter_option" name="publication_filter_option"><option value="all">All publication types</option>
+<option value="policy-papers">Policy papers</option>
+<option value="consultations" selected>Consultations</option>
+<option value="impact-assessments">Impact assessments</option>
+<option value="guidance">Guidance</option>
+<option value="forms">Forms</option>
+<option value="statistics">Statistics</option>
+<option value="research-and-analysis">Research and analysis</option>
+<option value="corporate-reports">Corporate reports</option>
+<option value="transparency-data">Transparency data</option>
+<option value="treaties">Treaties</option>
+<option value="foi-releases">FOI releases</option>
+<option value="independent-reports">Independent reports</option>
+<option value="circulars-letters-and-bulletins">Circulars, letters and bulletins</option>
+<option value="promotional-material">Promotional material</option></select>
+</div>
+        </div>
+      </div>
+
+      <div class="filter">
+        <div class="filter-inner">
+          <label for="topics">Topic</label>
+          <select class="multi-row-select" id="topics" multiple name="topics[]" size="5"><option value="all" selected>All topics</option>
 <option value="climate-change">Climate change</option>
 <option value="community-and-society">Community and society</option>
 <option value="economic-growth">Economic growth</option>
@@ -140,8 +170,8 @@
       </div>
       <div class="filter">
         <div class="filter-inner">
-          <label class="visuallyhidden" for="departments">Department</label>
-          <select class="multi-row-select" id="departments" multiple name="departments[]" size="9"><option value="all" selected>All departments</option>
+          <label for="departments">Department</label>
+          <select class="multi-row-select" id="departments" multiple name="departments[]" size="5"><option value="all" selected>All departments</option>
 <option value="attorney-generals-office">Attorney General's Office</option>
 <option value="building-regulations-advisory-committee">Building Regulations Advisory Committee</option>
 <option value="department-for-business-innovation-skills">Department for Business, Innovation &amp; Skills</option>
@@ -160,30 +190,10 @@
 <option value="vehicle-certification-agency">Vehicle Certification Agency</option></select>
 </div>
       </div>
-      
+
       <div class="filter">
         <div class="filter-inner">
-            <div class="publication-type">
-              <label class="title" for="publication_filter_option">Publication type</label>
-              <select id="publication_filter_option" name="publication_filter_option"><option value="all">All publication types</option>
-<option value="policy-papers">Policy papers</option>
-<option value="consultations" selected>Consultations</option>
-<option value="impact-assessments">Impact assessments</option>
-<option value="guidance">Guidance</option>
-<option value="forms">Forms</option>
-<option value="statistics">Statistics</option>
-<option value="research-and-analysis">Research and analysis</option>
-<option value="corporate-reports">Corporate reports</option>
-<option value="transparency-data">Transparency data</option>
-<option value="treaties">Treaties</option>
-<option value="foi-releases">FOI releases</option>
-<option value="independent-reports">Independent reports</option>
-<option value="circulars-letters-and-bulletins">Circulars, letters and bulletins</option>
-<option value="promotional-material">Promotional material</option></select>
-</div>
-
-          <label class="title" for="keywords">Contains</label>
-          <input id="keywords" name="keywords" placeholder="keywords" type="text" value=""><div class="date-range">
+            <div class="date-range">
               <h3>Published</h3>
                 <label class="checkbox" for="direction_before">
                   <input checked id="direction_before" name="direction" type="radio" value="before">
@@ -192,7 +202,7 @@
                   <input id="direction_after" name="direction" type="radio" value="after">
                   After
 </label>              <label class="visuallyhidden" for="date">Date</label>
-              <select id="date" name="date"><option value="2013-01-01">January 2013</option>
+              <select class="single-row-select" id="date" name="date"><option value="2013-01-01">January 2013</option>
 <option value="2012-12-01">December 2012</option>
 <option value="2012-11-01">November 2012</option>
 <option value="2012-10-01">October 2012</option>
@@ -222,351 +232,353 @@
 </div>
         </div>
       </div>
-      <div class="results">
-        <p class="count"><span>235</span> results</p>
-        <p class="selections"></p>
-      </div>
     </fieldset>
 </form>
 </div>
 
-    <div class="filter-feed">
-      <div class="subscribe"><a href="https://www.gov.uk/government/publications.atom?publication_type=consultations" class="feed">feed</a></div>
-    </div>
   </div>
 </div>
 
 <div class="block-4">
-  <div class="inner-block filter-results" id="publications-container" aria-live="polite">
+  <div class="inner-block">
+    <div class="filter-results-summary">
+  <h3 class="selections"></h3>
+</div>
     
-      <table class="document-list emphasise-recent" id="document-list">
+    <div class="filter-feed">
+      <div class="subscribe"><a href="https://www.gov.uk/government/publications.atom?publication_type=consultations" class="feed">feed</a></div>
+    </div>
+    
+    <div class="filter-results" id="publications-container" aria-live="polite">
+      
+        <table class="document-list emphasise-recent" id="document-list">
 <thead class="visuallyhidden"><tr>
 <th scope="col">Title</th>
-            <th scope="col">Publication Date</th>
-            <th scope="col">Publication Organisations</th>
-            <th scope="col">Publication Type</th>
-            <th scope="col">Publication Series</th>
-          </tr></thead>
+              <th scope="col">Publication Date</th>
+              <th scope="col">Publication Organisations</th>
+              <th scope="col">Publication Type</th>
+              <th scope="col">Publication Series</th>
+            </tr></thead>
 <tbody>
-<tr class="consultation document-row recent" id="consultation_17377">
-<th scope="row" class="title attribute">
-              <a href="/government/consultations/english-housing-survey-dissemination-strategy" title="View English housing survey dissemination strategy">English housing survey dissemination strategy</a>
-            </th>
-            <td class="attribute publication_date">
-              <abbr class="first_published_at" title="2012-11-30T13:48:48+00:00">30 November 2012</abbr>
-            </td>
-            <td class="attribute organisations">
-              <abbr title="Department for Communities and Local Government">DCLG</abbr>
-            </td>
-            <td class="publication_type attribute">
-              Consultation outcome
-            </td>
-            <td class="publication_series attribute">
-            </td>
-</tr>
 <tr class="consultation document-row recent" id="consultation_17341">
 <th scope="row" class="title attribute">
-              <a href="/government/consultations/strategic-environmental-assessment-about-revoking-the-south-west-regional-strategy-environmental-report" title="View Strategic environmental assessment about revoking the South West regional strategy: environmental report">Strategic environmental assessment about revoking the South West regional strategy: environmental report</a>
-            </th>
-            <td class="attribute publication_date">
-              <abbr class="first_published_at" title="2012-11-30T13:09:02+00:00">30 November 2012</abbr>
-            </td>
-            <td class="attribute organisations">
-              <abbr title="Department for Communities and Local Government">DCLG</abbr>
-            </td>
-            <td class="publication_type attribute">
-              Open consultation
-            </td>
-            <td class="publication_series attribute">
-            </td>
+                <a href="/government/consultations/strategic-environmental-assessment-about-revoking-the-south-west-regional-strategy-environmental-report" title="View Strategic environmental assessment about revoking the South West regional strategy: environmental report">Strategic environmental assessment about revoking the South West regional strategy: environmental report</a>
+              </th>
+              <td class="attribute publication_date">
+                <abbr class="timestamp_for_sorting" title="2012-11-30T00:00:00+00:00">30 November 2012</abbr>
+              </td>
+              <td class="attribute organisations">
+                <abbr title="Department for Communities and Local Government">DCLG</abbr>
+              </td>
+              <td class="publication_type attribute">
+                Open consultation
+              </td>
+              <td class="publication_series attribute">
+              </td>
+</tr>
+<tr class="consultation document-row recent" id="consultation_17170">
+<th scope="row" class="title attribute">
+                <a href="/government/consultations/amendments-to-the-new-firefighters-pension-scheme-2006-automatic-enrolment" title="View Amendments to the new firefighters' pension scheme 2006: automatic enrolment">Amendments to the new firefighters' pension scheme 2006: automatic enrolment</a>
+              </th>
+              <td class="attribute publication_date">
+                <abbr class="timestamp_for_sorting" title="2012-11-29T13:20:01+00:00">29 November 2012</abbr>
+              </td>
+              <td class="attribute organisations">
+                <abbr title="Department for Communities and Local Government">DCLG</abbr>
+              </td>
+              <td class="publication_type attribute">
+                Consultation outcome
+              </td>
+              <td class="publication_series attribute">
+              </td>
 </tr>
 <tr class="consultation document-row recent" id="consultation_17164">
 <th scope="row" class="title attribute">
-              <a href="/government/consultations/firefighters-pension-scheme-increases-to-employee-contribution-rates-from-1-april-2013" title="View Firefighters' pension scheme: increases to employee contribution rates from 1 April 2013">Firefighters' pension scheme: increases to employee contribution rates from 1 April 2013</a>
-            </th>
-            <td class="attribute publication_date">
-              <abbr class="first_published_at" title="2012-11-29T13:24:19+00:00">29 November 2012</abbr>
-            </td>
-            <td class="attribute organisations">
-              <abbr title="Department for Communities and Local Government">DCLG</abbr>
-            </td>
-            <td class="publication_type attribute">
-              Open consultation
-            </td>
-            <td class="publication_series attribute">
-            </td>
-</tr>
-<tr class="consultation document-row" id="consultation_17170">
-<th scope="row" class="title attribute">
-              <a href="/government/consultations/amendments-to-the-new-firefighters-pension-scheme-2006-automatic-enrolment" title="View Amendments to the new firefighters' pension scheme 2006: automatic enrolment">Amendments to the new firefighters' pension scheme 2006: automatic enrolment</a>
-            </th>
-            <td class="attribute publication_date">
-              <abbr class="first_published_at" title="2012-10-10T01:00:00+01:00">10 October 2012</abbr>
-            </td>
-            <td class="attribute organisations">
-              <abbr title="Department for Communities and Local Government">DCLG</abbr>
-            </td>
-            <td class="publication_type attribute">
-              Consultation outcome
-            </td>
-            <td class="publication_series attribute">
-            </td>
+                <a href="/government/consultations/firefighters-pension-scheme-increases-to-employee-contribution-rates-from-1-april-2013" title="View Firefighters' pension scheme: increases to employee contribution rates from 1 April 2013">Firefighters' pension scheme: increases to employee contribution rates from 1 April 2013</a>
+              </th>
+              <td class="attribute publication_date">
+                <abbr class="timestamp_for_sorting" title="2012-11-29T00:00:00+00:00">29 November 2012</abbr>
+              </td>
+              <td class="attribute organisations">
+                <abbr title="Department for Communities and Local Government">DCLG</abbr>
+              </td>
+              <td class="publication_type attribute">
+                Open consultation
+              </td>
+              <td class="publication_series attribute">
+              </td>
 </tr>
 <tr class="consultation document-row" id="consultation_17145">
 <th scope="row" class="title attribute">
-              <a href="/government/consultations/approving-drink-drive-rehabilitation-courses" title="View Approving drink-drive rehabilitation courses">Approving drink-drive rehabilitation courses</a>
-            </th>
-            <td class="attribute publication_date">
-              <abbr class="first_published_at" title="2011-11-09T00:00:00+00:00">9 November 2011</abbr>
-            </td>
-            <td class="attribute organisations">
-              <abbr title="Driving Standards Agency">DSA</abbr>
-            </td>
-            <td class="publication_type attribute">
-              Consultation outcome
-            </td>
-            <td class="publication_series attribute">
-            </td>
-</tr>
-<tr class="consultation document-row" id="consultation_17623">
-<th scope="row" class="title attribute">
-              <a href="/government/consultations/speed-limit-exemptions" title="View Speed limit exemptions">Speed limit exemptions</a>
-            </th>
-            <td class="attribute publication_date">
-              <abbr class="first_published_at" title="2012-11-27T09:52:40+00:00">27 November 2012</abbr>
-            </td>
-            <td class="attribute organisations">
-              <abbr title="Department for Transport">DFT</abbr>
-            </td>
-            <td class="publication_type attribute">
-              Open consultation
-            </td>
-            <td class="publication_series attribute">
-            </td>
+                <a href="/government/consultations/approving-drink-drive-rehabilitation-courses" title="View Approving drink-drive rehabilitation courses">Approving drink-drive rehabilitation courses</a>
+              </th>
+              <td class="attribute publication_date">
+                <abbr class="timestamp_for_sorting" title="2012-11-27T13:23:13+00:00">27 November 2012</abbr>
+              </td>
+              <td class="attribute organisations">
+                <abbr title="Driving Standards Agency">DSA</abbr>
+              </td>
+              <td class="publication_type attribute">
+                Consultation outcome
+              </td>
+              <td class="publication_series attribute">
+              </td>
 </tr>
 <tr class="consultation document-row" id="consultation_16975">
 <th scope="row" class="title attribute">
-              <a href="/government/consultations/rail-decentralisation-devolving-decision-making-on-passenger-rail-services-in-england" title="View Rail decentralisation: devolving decision-making on passenger rail services in England">Rail decentralisation: devolving decision-making on passenger rail services in England</a>
-            </th>
-            <td class="attribute publication_date">
-              <abbr class="first_published_at" title="2012-03-08T00:00:00+00:00">8 March 2012</abbr>
-            </td>
-            <td class="attribute organisations">
-              <abbr title="Department for Transport">DFT</abbr>
-            </td>
-            <td class="publication_type attribute">
-              Consultation outcome
-            </td>
-            <td class="publication_series attribute">
-            </td>
+                <a href="/government/consultations/rail-decentralisation-devolving-decision-making-on-passenger-rail-services-in-england" title="View Rail decentralisation: devolving decision-making on passenger rail services in England">Rail decentralisation: devolving decision-making on passenger rail services in England</a>
+              </th>
+              <td class="attribute publication_date">
+                <abbr class="timestamp_for_sorting" title="2012-11-27T09:45:02+00:00">27 November 2012</abbr>
+              </td>
+              <td class="attribute organisations">
+                <abbr title="Department for Transport">DFT</abbr>
+              </td>
+              <td class="publication_type attribute">
+                Consultation outcome
+              </td>
+              <td class="publication_series attribute">
+              </td>
 </tr>
-<tr class="consultation document-row" id="consultation_16962">
+<tr class="consultation document-row" id="consultation_17623">
 <th scope="row" class="title attribute">
-              <a href="/government/consultations/nationally-significant-infrastructure-planning-expanding-and-improving-the-one-stop-shop-approach-for-consents" title="View Nationally significant infrastructure planning: expanding and improving the ‘one stop shop’ approach for consents">Nationally significant infrastructure planning: expanding and improving the ‘one stop shop’ approach for consents</a>
-            </th>
-            <td class="attribute publication_date">
-              <abbr class="first_published_at" title="2012-11-26T15:10:31+00:00">26 November 2012</abbr>
-            </td>
-            <td class="attribute organisations">
-              <abbr title="Department for Communities and Local Government">DCLG</abbr>
-            </td>
-            <td class="publication_type attribute">
-              Open consultation
-            </td>
-            <td class="publication_series attribute">
-            </td>
-</tr>
-<tr class="consultation document-row" id="consultation_16960">
-<th scope="row" class="title attribute">
-              <a href="/government/consultations/nationally-significant-infrastructure-planning-extending-the-regime-to-business-and-commercial-projects" title="View Nationally significant infrastructure planning: extending the regime to business and commercial projects">Nationally significant infrastructure planning: extending the regime to business and commercial projects</a>
-            </th>
-            <td class="attribute publication_date">
-              <abbr class="first_published_at" title="2012-11-26T15:10:11+00:00">26 November 2012</abbr>
-            </td>
-            <td class="attribute organisations">
-              <abbr title="Department for Communities and Local Government">DCLG</abbr>
-            </td>
-            <td class="publication_type attribute">
-              Open consultation
-            </td>
-            <td class="publication_series attribute">
-            </td>
+                <a href="/government/consultations/speed-limit-exemptions" title="View Speed limit exemptions">Speed limit exemptions</a>
+              </th>
+              <td class="attribute publication_date">
+                <abbr class="timestamp_for_sorting" title="2012-11-27T00:00:00+00:00">27 November 2012</abbr>
+              </td>
+              <td class="attribute organisations">
+                <abbr title="Department for Transport">DFT</abbr>
+              </td>
+              <td class="publication_type attribute">
+                Open consultation
+              </td>
+              <td class="publication_series attribute">
+              </td>
 </tr>
 <tr class="consultation document-row" id="consultation_16973">
 <th scope="row" class="title attribute">
-              <a href="/government/consultations/localising-support-for-council-tax-council-tax-base" title="View Localising support for Council Tax: Council Tax base">Localising support for Council Tax: Council Tax base</a>
-            </th>
-            <td class="attribute publication_date">
-              <abbr class="first_published_at" title="2012-08-28T01:00:00+01:00">28 August 2012</abbr>
-            </td>
-            <td class="attribute organisations">
-              <abbr title="Department for Communities and Local Government">DCLG</abbr>
-            </td>
-            <td class="publication_type attribute">
-              Consultation outcome
-            </td>
-            <td class="publication_series attribute">
-            </td>
+                <a href="/government/consultations/localising-support-for-council-tax-council-tax-base" title="View Localising support for Council Tax: Council Tax base">Localising support for Council Tax: Council Tax base</a>
+              </th>
+              <td class="attribute publication_date">
+                <abbr class="timestamp_for_sorting" title="2012-11-26T14:34:38+00:00">26 November 2012</abbr>
+              </td>
+              <td class="attribute organisations">
+                <abbr title="Department for Communities and Local Government">DCLG</abbr>
+              </td>
+              <td class="publication_type attribute">
+                Consultation outcome
+              </td>
+              <td class="publication_series attribute">
+              </td>
 </tr>
 <tr class="consultation document-row" id="consultation_16974">
 <th scope="row" class="title attribute">
-              <a href="/government/consultations/localising-support-for-council-tax-funding-arrangements" title="View Localising support for Council Tax: funding arrangements">Localising support for Council Tax: funding arrangements</a>
-            </th>
-            <td class="attribute publication_date">
-              <abbr class="first_published_at" title="2012-05-17T01:00:00+01:00">17 May 2012</abbr>
-            </td>
-            <td class="attribute organisations">
-              <abbr title="Department for Communities and Local Government">DCLG</abbr>
-            </td>
-            <td class="publication_type attribute">
-              Consultation outcome
-            </td>
-            <td class="publication_series attribute">
-            </td>
+                <a href="/government/consultations/localising-support-for-council-tax-funding-arrangements" title="View Localising support for Council Tax: funding arrangements">Localising support for Council Tax: funding arrangements</a>
+              </th>
+              <td class="attribute publication_date">
+                <abbr class="timestamp_for_sorting" title="2012-11-26T14:31:50+00:00">26 November 2012</abbr>
+              </td>
+              <td class="attribute organisations">
+                <abbr title="Department for Communities and Local Government">DCLG</abbr>
+              </td>
+              <td class="publication_type attribute">
+                Consultation outcome
+              </td>
+              <td class="publication_series attribute">
+              </td>
 </tr>
 <tr class="consultation document-row" id="consultation_16714">
 <th scope="row" class="title attribute">
-              <a href="/government/consultations/technical-reforms-to-council-tax-caluclating-the-council-tax-base-with-the-empty-homes-premium" title="View Technical reforms to Council Tax: calculating the Council Tax base with the empty homes premium">Technical reforms to Council Tax: calculating the Council Tax base with the empty homes premium</a>
-            </th>
-            <td class="attribute publication_date">
-              <abbr class="first_published_at" title="2012-09-11T01:00:00+01:00">11 September 2012</abbr>
-            </td>
-            <td class="attribute organisations">
-              <abbr title="Department for Communities and Local Government">DCLG</abbr>
-            </td>
-            <td class="publication_type attribute">
-              Consultation outcome
-            </td>
-            <td class="publication_series attribute">
-            </td>
+                <a href="/government/consultations/technical-reforms-to-council-tax-caluclating-the-council-tax-base-with-the-empty-homes-premium" title="View Technical reforms to Council Tax: calculating the Council Tax base with the empty homes premium">Technical reforms to Council Tax: calculating the Council Tax base with the empty homes premium</a>
+              </th>
+              <td class="attribute publication_date">
+                <abbr class="timestamp_for_sorting" title="2012-11-26T13:40:07+00:00">26 November 2012</abbr>
+              </td>
+              <td class="attribute organisations">
+                <abbr title="Department for Communities and Local Government">DCLG</abbr>
+              </td>
+              <td class="publication_type attribute">
+                Consultation outcome
+              </td>
+              <td class="publication_series attribute">
+              </td>
 </tr>
 <tr class="consultation document-row" id="consultation_16958">
 <th scope="row" class="title attribute">
-              <a href="/government/consultations/a-better-deal-for-mobile-home-owners" title="View A better deal for mobile home owners">A better deal for mobile home owners</a>
-            </th>
-            <td class="attribute publication_date">
-              <abbr class="first_published_at" title="2012-04-16T01:00:00+01:00">16 April 2012</abbr>
-            </td>
-            <td class="attribute organisations">
-              <abbr title="Department for Communities and Local Government">DCLG</abbr>
-            </td>
-            <td class="publication_type attribute">
-              Consultation outcome
-            </td>
-            <td class="publication_series attribute">
-            </td>
+                <a href="/government/consultations/a-better-deal-for-mobile-home-owners" title="View A better deal for mobile home owners">A better deal for mobile home owners</a>
+              </th>
+              <td class="attribute publication_date">
+                <abbr class="timestamp_for_sorting" title="2012-11-26T11:47:46+00:00">26 November 2012</abbr>
+              </td>
+              <td class="attribute organisations">
+                <abbr title="Department for Communities and Local Government">DCLG</abbr>
+              </td>
+              <td class="publication_type attribute">
+                Consultation outcome
+              </td>
+              <td class="publication_series attribute">
+              </td>
+</tr>
+<tr class="consultation document-row" id="consultation_16960">
+<th scope="row" class="title attribute">
+                <a href="/government/consultations/nationally-significant-infrastructure-planning-extending-the-regime-to-business-and-commercial-projects" title="View Nationally significant infrastructure planning: extending the regime to business and commercial projects">Nationally significant infrastructure planning: extending the regime to business and commercial projects</a>
+              </th>
+              <td class="attribute publication_date">
+                <abbr class="timestamp_for_sorting" title="2012-11-26T00:00:00+00:00">26 November 2012</abbr>
+              </td>
+              <td class="attribute organisations">
+                <abbr title="Department for Communities and Local Government">DCLG</abbr>
+              </td>
+              <td class="publication_type attribute">
+                Open consultation
+              </td>
+              <td class="publication_series attribute">
+              </td>
+</tr>
+<tr class="consultation document-row" id="consultation_16962">
+<th scope="row" class="title attribute">
+                <a href="/government/consultations/nationally-significant-infrastructure-planning-expanding-and-improving-the-one-stop-shop-approach-for-consents" title="View Nationally significant infrastructure planning: expanding and improving the ‘one stop shop’ approach for consents">Nationally significant infrastructure planning: expanding and improving the ‘one stop shop’ approach for consents</a>
+              </th>
+              <td class="attribute publication_date">
+                <abbr class="timestamp_for_sorting" title="2012-11-26T00:00:00+00:00">26 November 2012</abbr>
+              </td>
+              <td class="attribute organisations">
+                <abbr title="Department for Communities and Local Government">DCLG</abbr>
+              </td>
+              <td class="publication_type attribute">
+                Open consultation
+              </td>
+              <td class="publication_series attribute">
+              </td>
 </tr>
 <tr class="consultation document-row" id="consultation_16667">
 <th scope="row" class="title attribute">
-              <a href="/government/consultations/planning-performance-and-the-planning-guarantee" title="View Planning performance and the Planning Guarantee">Planning performance and the Planning Guarantee</a>
-            </th>
-            <td class="attribute publication_date">
-              <abbr class="first_published_at" title="2012-11-22T10:33:47+00:00">22 November 2012</abbr>
-            </td>
-            <td class="attribute organisations">
-              <abbr title="Department for Communities and Local Government">DCLG</abbr>
-            </td>
-            <td class="publication_type attribute">
-              Open consultation
-            </td>
-            <td class="publication_series attribute">
-            </td>
+                <a href="/government/consultations/planning-performance-and-the-planning-guarantee" title="View Planning performance and the Planning Guarantee">Planning performance and the Planning Guarantee</a>
+              </th>
+              <td class="attribute publication_date">
+                <abbr class="timestamp_for_sorting" title="2012-11-22T00:00:00+00:00">22 November 2012</abbr>
+              </td>
+              <td class="attribute organisations">
+                <abbr title="Department for Communities and Local Government">DCLG</abbr>
+              </td>
+              <td class="publication_type attribute">
+                Open consultation
+              </td>
+              <td class="publication_series attribute">
+              </td>
 </tr>
 <tr class="consultation document-row" id="consultation_16697">
 <th scope="row" class="title attribute">
-              <a href="/government/consultations/enforcement-procedures-against-drink-drivers-and-other-offenders" title="View Enforcement procedures against drink drivers and other offenders">Enforcement procedures against drink drivers and other offenders</a>
-            </th>
-            <td class="attribute publication_date">
-              <abbr class="first_published_at" title="2012-11-22T10:14:52+00:00">22 November 2012</abbr>
-            </td>
-            <td class="attribute organisations">
-              <abbr title="Department for Transport">DFT</abbr>
-            </td>
-            <td class="publication_type attribute">
-              Open consultation
-            </td>
-            <td class="publication_series attribute">
-            </td>
+                <a href="/government/consultations/enforcement-procedures-against-drink-drivers-and-other-offenders" title="View Enforcement procedures against drink drivers and other offenders">Enforcement procedures against drink drivers and other offenders</a>
+              </th>
+              <td class="attribute publication_date">
+                <abbr class="timestamp_for_sorting" title="2012-11-22T00:00:00+00:00">22 November 2012</abbr>
+              </td>
+              <td class="attribute organisations">
+                <abbr title="Department for Transport">DFT</abbr>
+              </td>
+              <td class="publication_type attribute">
+                Open consultation
+              </td>
+              <td class="publication_series attribute">
+              </td>
 </tr>
 <tr class="consultation document-row" id="consultation_16636">
 <th scope="row" class="title attribute">
-              <a href="/government/consultations/technical-reforms-to-council-tax-when-dwellings-should-not-be-liable-to-the-empty-homes-premium" title="View Technical reforms to Council Tax: when dwellings should not be liable to the empty homes premium">Technical reforms to Council Tax: when dwellings should not be liable to the empty homes premium</a>
-            </th>
-            <td class="attribute publication_date">
-              <abbr class="first_published_at" title="2012-09-28T01:00:00+01:00">28 September 2012</abbr>
-            </td>
-            <td class="attribute organisations">
-              <abbr title="Department for Communities and Local Government">DCLG</abbr>
-            </td>
-            <td class="publication_type attribute">
-              Consultation outcome
-            </td>
-            <td class="publication_series attribute">
-            </td>
-</tr>
-<tr class="consultation document-row" id="consultation_16388">
-<th scope="row" class="title attribute">
-              <a href="/government/consultations/strategic-environmental-assessment-about-revoking-the-west-midlands-regional-strategy-environmental-report" title="View Strategic environmental assessment about revoking the West Midlands regional strategy: environmental report">Strategic environmental assessment about revoking the West Midlands regional strategy: environmental report</a>
-            </th>
-            <td class="attribute publication_date">
-              <abbr class="first_published_at" title="2012-11-21T12:28:41+00:00">21 November 2012</abbr>
-            </td>
-            <td class="attribute organisations">
-              <abbr title="Department for Communities and Local Government">DCLG</abbr>
-            </td>
-            <td class="publication_type attribute">
-              Open consultation
-            </td>
-            <td class="publication_series attribute">
-            </td>
+                <a href="/government/consultations/technical-reforms-to-council-tax-when-dwellings-should-not-be-liable-to-the-empty-homes-premium" title="View Technical reforms to Council Tax: when dwellings should not be liable to the empty homes premium">Technical reforms to Council Tax: when dwellings should not be liable to the empty homes premium</a>
+              </th>
+              <td class="attribute publication_date">
+                <abbr class="timestamp_for_sorting" title="2012-11-21T13:00:41+00:00">21 November 2012</abbr>
+              </td>
+              <td class="attribute organisations">
+                <abbr title="Department for Communities and Local Government">DCLG</abbr>
+              </td>
+              <td class="publication_type attribute">
+                Consultation outcome
+              </td>
+              <td class="publication_series attribute">
+              </td>
 </tr>
 <tr class="consultation document-row" id="consultation_16634">
 <th scope="row" class="title attribute">
-              <a href="/government/consultations/targeted-consultation-on-a-proposed-amendment-to-the-renewable-transport-fuel-obligations-order-2007-as-amended-civil-penalties" title="View Targeted consultation on a proposed amendment to the Renewable Transport Fuel Obligations Order 2007 (as amended) - civil penalties">Targeted consultation on a proposed amendment to the Renewable Transport Fuel Obligations Order 2007 (as amended) - civil penalties</a>
-            </th>
-            <td class="attribute publication_date">
-              <abbr class="first_published_at" title="2012-07-25T01:00:00+01:00">25 July 2012</abbr>
-            </td>
-            <td class="attribute organisations">
-              <abbr title="Department for Transport">DFT</abbr>
-            </td>
-            <td class="publication_type attribute">
-              Consultation outcome
-            </td>
-            <td class="publication_series attribute">
-            </td>
+                <a href="/government/consultations/targeted-consultation-on-a-proposed-amendment-to-the-renewable-transport-fuel-obligations-order-2007-as-amended-civil-penalties" title="View Targeted consultation on a proposed amendment to the Renewable Transport Fuel Obligations Order 2007 (as amended) - civil penalties">Targeted consultation on a proposed amendment to the Renewable Transport Fuel Obligations Order 2007 (as amended) - civil penalties</a>
+              </th>
+              <td class="attribute publication_date">
+                <abbr class="timestamp_for_sorting" title="2012-11-21T10:41:12+00:00">21 November 2012</abbr>
+              </td>
+              <td class="attribute organisations">
+                <abbr title="Department for Transport">DFT</abbr>
+              </td>
+              <td class="publication_type attribute">
+                Consultation outcome
+              </td>
+              <td class="publication_series attribute">
+              </td>
+</tr>
+<tr class="consultation document-row" id="consultation_16388">
+<th scope="row" class="title attribute">
+                <a href="/government/consultations/strategic-environmental-assessment-about-revoking-the-west-midlands-regional-strategy-environmental-report" title="View Strategic environmental assessment about revoking the West Midlands regional strategy: environmental report">Strategic environmental assessment about revoking the West Midlands regional strategy: environmental report</a>
+              </th>
+              <td class="attribute publication_date">
+                <abbr class="timestamp_for_sorting" title="2012-11-21T00:00:00+00:00">21 November 2012</abbr>
+              </td>
+              <td class="attribute organisations">
+                <abbr title="Department for Communities and Local Government">DCLG</abbr>
+              </td>
+              <td class="publication_type attribute">
+                Open consultation
+              </td>
+              <td class="publication_series attribute">
+              </td>
 </tr>
 <tr class="consultation document-row" id="consultation_16458">
 <th scope="row" class="title attribute">
-              <a href="/government/consultations/implementation-of-port-security-regulations-2009-at-certain-ports" title="View Implementation of Port Security Regulations 2009 at certain ports">Implementation of Port Security Regulations 2009 at certain ports</a>
-            </th>
-            <td class="attribute publication_date">
-              <abbr class="first_published_at" title="2012-11-20T09:31:27+00:00">20 November 2012</abbr>
-            </td>
-            <td class="attribute organisations">
-              <abbr title="Department for Transport">DFT</abbr>
-            </td>
-            <td class="publication_type attribute">
-              Open consultation
-            </td>
-            <td class="publication_series attribute">
-            </td>
+                <a href="/government/consultations/implementation-of-port-security-regulations-2009-at-certain-ports" title="View Implementation of Port Security Regulations 2009 at certain ports">Implementation of Port Security Regulations 2009 at certain ports</a>
+              </th>
+              <td class="attribute publication_date">
+                <abbr class="timestamp_for_sorting" title="2012-11-19T00:00:00+00:00">19 November 2012</abbr>
+              </td>
+              <td class="attribute organisations">
+                <abbr title="Department for Transport">DFT</abbr>
+              </td>
+              <td class="publication_type attribute">
+                Open consultation
+              </td>
+              <td class="publication_series attribute">
+              </td>
 </tr>
-<tr class="consultation document-row" id="consultation_16257">
+<tr class="consultation document-row" id="consultation_16093">
 <th scope="row" class="title attribute">
-              <a href="/government/consultations/technical-review-of-planning-appeal-procedures" title="View Technical review of planning appeal procedures">Technical review of planning appeal procedures</a>
-            </th>
-            <td class="attribute publication_date">
-              <abbr class="first_published_at" title="2012-11-15T15:56:01+00:00">15 November 2012</abbr>
-            </td>
-            <td class="attribute organisations">
-              <abbr title="Department for Communities and Local Government">DCLG</abbr>
-            </td>
-            <td class="publication_type attribute">
-              Open consultation
-            </td>
-            <td class="publication_series attribute">
-            </td>
+                <a href="/government/consultations/channel-tunnel-transposition-of-railway-safety-and-interoperability-directives" title="View Channel Tunnel: transposition of railway safety and interoperability directives">Channel Tunnel: transposition of railway safety and interoperability directives</a>
+              </th>
+              <td class="attribute publication_date">
+                <abbr class="timestamp_for_sorting" title="2012-11-15T00:00:00+00:00">15 November 2012</abbr>
+              </td>
+              <td class="attribute organisations">
+                <abbr title="Department for Transport">DFT</abbr>
+              </td>
+              <td class="publication_type attribute">
+                Open consultation
+              </td>
+              <td class="publication_series attribute">
+              </td>
+</tr>
+<tr class="consultation document-row" id="consultation_15074">
+<th scope="row" class="title attribute">
+                <a href="/government/consultations/removal-of-motor-insurance-certificates" title="View Removal of motor insurance certificates">Removal of motor insurance certificates</a>
+              </th>
+              <td class="attribute publication_date">
+                <abbr class="timestamp_for_sorting" title="2012-11-13T00:00:00+00:00">13 November 2012</abbr>
+              </td>
+              <td class="attribute organisations">
+                <abbr title="Department for Transport">DFT</abbr>
+              </td>
+              <td class="publication_type attribute">
+                Open consultation
+              </td>
+              <td class="publication_series attribute">
+              </td>
 </tr>
 </tbody>
 </table>
@@ -577,6 +589,7 @@
 
     </ul></nav>
 </div>
+  </div>
 </div>
 
         </div>
