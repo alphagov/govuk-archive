@@ -8,7 +8,17 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-12-03T00:00:00+00:00</updated>
+  <updated>2012-12-06T00:00:00+00:00</updated>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/17148</id>
+    <published>2012-12-06T00:00:00+00:00</published>
+    <updated>2012-12-06T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/decentralisation-an-assessment-of-progress"/>
+    <title>Decentralisation: an assessment of progress</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The report by the Rt Hon Greg Clark MP provides an assessment of how 12 government departments are decentralising power and puts forward personal recommendations for next steps. It shows strong progress across all of the domestic policy agenda, but also calls for continued reform.&lt;/p&gt;
+
+&lt;p&gt;The report makes the case for decentralisation (sustainable growth, better public services, a stronger society), setting out the gold standard for decentralisation, based on the &lt;a href="https://www.gov.uk/government/publications/decentralisation-and-the-localism-bill-an-essential-guide--2"&gt;guide to decentralisation and the Localism Bill&lt;/a&gt;, which was published in December 2010.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/17618</id>
     <published>2012-12-03T00:00:00+00:00</published>
@@ -74,14 +84,6 @@
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This consultation sets out the government’s proposals on how the Council Tax empty homes premium is to be included in the calculation of the Council Tax base.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/16871</id>
-    <published>2012-11-23T00:00:00+00:00</published>
-    <updated>2012-11-23T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/guidance-for-local-transport-bodies"/>
-    <title>Guidance for Local Transport Bodies</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Department for Transport has announced its firm intention to devolve funding for local major transport schemes to Local Transport Bodies from 2015. The guidance sets out the necessary arrangement Local Transport Bodies will need to have in place to ensure value for money and sound decision making.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/16840</id>
     <published>2012-11-23T00:00:00+00:00</published>
     <updated>2012-11-23T00:00:00+00:00</updated>
@@ -96,6 +98,14 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a rel="external" href="http://www.dft.gov.uk/publications/tma-part-6-certification-of-approved-devices"&gt;Civil traffic enforcement: certification of approved devices&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/16871</id>
+    <published>2012-11-23T00:00:00+00:00</published>
+    <updated>2012-11-23T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/guidance-for-local-transport-bodies"/>
+    <title>Guidance for Local Transport Bodies</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Department for Transport has announced its firm intention to devolve funding for local major transport schemes to Local Transport Bodies from 2015. The guidance sets out the necessary arrangement Local Transport Bodies will need to have in place to ensure value for money and sound decision making.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/16882</id>
@@ -187,20 +197,20 @@
 &lt;/ul&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/16401</id>
-    <published>2012-11-19T00:00:00+00:00</published>
-    <updated>2012-11-19T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/improvement-notice-issued-to-blackpool-borough-council"/>
-    <title>Improvement notice issued to Blackpool Borough Council</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Improvement notice issued to Blackpool Borough Council by the Department for Education.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/16406</id>
     <published>2012-11-19T00:00:00+00:00</published>
     <updated>2012-11-19T00:00:00+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/improvement-notice-issued-to-walsall-metropolitan-borough-council"/>
     <title>Improvement notice issued to Walsall Metropolitan Borough Council</title>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Improvement notice issued to Walsall Metropolitan Borough Council by the Department for Education.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/16401</id>
+    <published>2012-11-19T00:00:00+00:00</published>
+    <updated>2012-11-19T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/improvement-notice-issued-to-blackpool-borough-council"/>
+    <title>Improvement notice issued to Blackpool Borough Council</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Improvement notice issued to Blackpool Borough Council by the Department for Education.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/15105</id>
@@ -239,13 +249,5 @@
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/national-standard-for-cycle-training-outcomes"/>
     <title>National standard for cycle training outcomes</title>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;National Standard Outcomes cycle information for instructors, instructor trainers and levels.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/13413</id>
-    <published>2012-10-31T00:00:00+00:00</published>
-    <updated>2012-10-31T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/consultations/making-it-easier-to-set-up-new-town-and-parish-councils-discussion-paper"/>
-    <title>Making it easier to set up new town and parish councils: discussion paper</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The government wants to make it easier to set up new town and parish councils. This discussion paper presents a range of proposals that would help achieve this. We would like your views on these, as well as any other comments or ideas.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
 </feed>

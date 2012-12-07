@@ -7,7 +7,18 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-12-05T17:28:45+00:00</updated>
+  <updated>2012-12-06T00:00:00+00:00</updated>
+  <entry>
+    <id>tag:www.gov.uk,2005:Publication/17148</id>
+    <published>2012-12-06T00:00:00+00:00</published>
+    <updated>2012-12-06T16:19:47+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/decentralisation-an-assessment-of-progress"/>
+    <title>Decentralisation: an assessment of progress</title>
+    <summary>A report setting out the progress the government is making to 'decentralise' power from Whitehall across the country.</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The report by the Rt Hon Greg Clark MP provides an assessment of how 12 government departments are decentralising power and puts forward personal recommendations for next steps. It shows strong progress across all of the domestic policy agenda, but also calls for continued reform.&lt;/p&gt;
+
+&lt;p&gt;The report makes the case for decentralisation (sustainable growth, better public services, a stronger society), setting out the gold standard for decentralisation, based on the &lt;a href="https://www.gov.uk/government/publications/decentralisation-and-the-localism-bill-an-essential-guide--2"&gt;guide to decentralisation and the Localism Bill&lt;/a&gt;, which was published in December 2010.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
   <entry>
     <id>tag:www.gov.uk,2005:NewsArticle/18642</id>
     <published>2012-12-05T17:28:45+00:00</published>
@@ -611,14 +622,5 @@ Doctor Fox, I know you’re accepting this on behalf of the Evelina Hospital, so
 &lt;p&gt;Removing discrimination, tackling bigotry and hatred, wherever they arise.&lt;/p&gt;
 
 &lt;p&gt;And, crucially, unlocking the full talent of Britain’s diversity - a diversity which is so essential to our country’s future prosperity. &lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:Publication/14067</id>
-    <published>2012-11-10T00:00:00+00:00</published>
-    <updated>2012-11-14T12:40:14+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/troubled-families-case-studies"/>
-    <title>Troubled families case studies</title>
-    <summary>This document describes how families were helped in Sheffield, Bradford, Lancashire, Leeds and Norfolk. </summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Work with family intervention projects can make a significant difference to families’ lives.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
 </feed>

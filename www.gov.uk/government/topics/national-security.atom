@@ -7,11 +7,27 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-11-28T00:00:00+00:00</updated>
+  <updated>2012-12-06T14:26:01+00:00</updated>
   <entry>
-    <id>tag:www.gov.uk,2005:Publication/17634</id>
+    <id>tag:www.gov.uk,2005:Consultation/28037</id>
+    <published>2012-12-06T14:26:01+00:00</published>
+    <updated>2012-12-06T14:26:01+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/consultations/implementation-of-port-security-regulations-2009-at-certain-ports"/>
+    <title>Implementation of Port Security Regulations 2009 at certain ports</title>
+    <summary>This is a consultation on draft designation orders implementing Port Security Regulations 2009.</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The purpose of Directive 2005/65/EC is to enhance security coordination in the wider area at certain ports. The directive requires the following:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;designation of a port security authority&lt;/li&gt;
+  &lt;li&gt;appointment of a port security officer&lt;/li&gt;
+  &lt;li&gt;a port security risk assessment to be conducted&lt;/li&gt;
+  &lt;li&gt;creation of a port security plan&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;The draft designation orders which we are are consulting on here append plan(s) outlining the area which the port security authority will have responsibility over.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:Publication/28534</id>
     <published>2012-11-28T00:00:00+00:00</published>
-    <updated>2012-12-03T16:09:01+00:00</updated>
+    <updated>2012-12-06T16:34:59+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/department-for-transport-regulated-agents-and-in-flight-suppliers"/>
     <title>Department for Transport regulated agents and in-flight suppliers</title>
     <summary>A list of aviation related agencies that are regulated by the Department for Transport.</summary>
@@ -59,22 +75,6 @@ Transport Security Compliance
 &lt;br&gt;2 Marsham Street  
 &lt;br&gt;London, SW1P 4DF
 &lt;br&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:Consultation/16458</id>
-    <published>2012-11-19T00:00:00+00:00</published>
-    <updated>2012-11-20T09:31:27+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/consultations/implementation-of-port-security-regulations-2009-at-certain-ports"/>
-    <title>Implementation of Port Security Regulations 2009 at certain ports</title>
-    <summary>This is a consultation on draft designation orders implementing Port Security Regulations 2009.</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The purpose of Directive 2005/65/EC is to enhance security coordination in the wider area at certain ports. The directive requires the following:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;designation of a port security authority&lt;/li&gt;
-  &lt;li&gt;appointment of a port security officer&lt;/li&gt;
-  &lt;li&gt;a port security risk assessment to be conducted&lt;/li&gt;
-  &lt;li&gt;creation of a port security plan&lt;/li&gt;
-&lt;/ul&gt;&lt;p&gt;The draft designation orders which we are are consulting on here append plan(s) outlining the area which the port security authority will have responsibility over.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:Publication/16414</id>
