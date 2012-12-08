@@ -8,7 +8,17 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-12-05T00:00:00+00:00</updated>
+  <updated>2012-12-07T00:00:00+00:00</updated>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/28528</id>
+    <published>2012-12-07T00:00:00+00:00</published>
+    <updated>2012-12-07T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/planning-inspectorate-staff-data-and-organogram-december-2012"/>
+    <title>Planning Inspectorate staff data and organogram: December 2012</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;These datasets show junior and senior posts and salary information for staff at the Planning Inspectorate.&lt;/p&gt;
+
+&lt;p&gt;The data is also available as an &lt;a rel="external" href="http://reference.data.gov.uk/gov-structure/organogram/?pubbod=the-planning-inspectorate"&gt;organogram&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/17782</id>
     <published>2012-12-05T00:00:00+00:00</published>
@@ -138,13 +148,5 @@
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/planning-inspectorate-spending-over-500-august-2012"/>
     <title>Planning Inspectorate spending over £500: August 2012</title>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;These documents show spending by the Planning Inspectorate over £500 for August 2012.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/15974</id>
-    <published>2012-11-12T00:00:00+00:00</published>
-    <updated>2012-11-12T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/planning-inspectorate-spending-over-500-february-2012"/>
-    <title>Planning Inspectorate spending over £500: February 2012 </title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;These documents show spending by the Planning Inspectorate over £500 for February 2012.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
 </feed>
