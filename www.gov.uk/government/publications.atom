@@ -335,12 +335,12 @@
 &lt;/ul&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/28474</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/28507</id>
     <published>2012-12-07T00:00:00+00:00</published>
     <updated>2012-12-07T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/workforce-management-information-september-2012"/>
-    <title>Workforce management information: September 2012</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Details of the workforce management data for September 2012.&lt;/p&gt;
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/workforce-management-information-october-2012"/>
+    <title>Workforce management information: October 2012 </title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Details of the workforce management data for October 2012.&lt;/p&gt;
 
 &lt;p&gt;These figures are not official statistics. They are internal workforce management information published in the interests of transparency.&lt;/p&gt;
 
@@ -349,26 +349,6 @@
 &lt;p&gt;Some organisations may not have information available for each month, and at this stage coverage may therefore not reach 100% for those organisations in scope.&lt;/p&gt;
 
 &lt;p&gt;Given the wide range of organisations covered, caution should be exercised when drawing inferences from the figures and care should be taken when making comparisons between organisations.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/28512</id>
-    <published>2012-12-07T00:00:00+00:00</published>
-    <updated>2012-12-07T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/senior-dclg-employee-salaries-june-2012"/>
-    <title>Senior DCLG employee salaries: June 2012</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Since 24 January 2012, the Department for Communities and Local Government has published salary details for consenting senior staff earning more than £58,200. &lt;/p&gt;
-
-&lt;p&gt;This is in line with the &lt;a href="https://www.gov.uk/government/publications/local-authority-data-transparency-code"&gt;Local authority data transparency code&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/28528</id>
-    <published>2012-12-07T00:00:00+00:00</published>
-    <updated>2012-12-07T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/planning-inspectorate-staff-data-and-organogram-december-2012"/>
-    <title>Planning Inspectorate staff data and organogram: December 2012</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;These datasets show junior and senior posts and salary information for staff at the Planning Inspectorate.&lt;/p&gt;
-
-&lt;p&gt;The data is also available as an &lt;a rel="external" href="http://reference.data.gov.uk/gov-structure/organogram/?pubbod=the-planning-inspectorate"&gt;organogram&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/28518</id>
@@ -403,14 +383,6 @@
 &lt;/ul&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/27796</id>
-    <published>2012-12-07T00:00:00+00:00</published>
-    <updated>2012-12-07T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/quarterly-revenue-outturn-for-local-authorities-in-england-quarter-2-2012-to-2013"/>
-    <title>Quarterly revenue outturn for local authorities in England: quarter 2 2012 to 2013</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This statistical release provides quarterly revenue outturn data for local authorities in England, for quarter 2 of the financial year 2012 to 2013, and compares it to revenue account data for the same financial year.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/34108</id>
     <published>2012-12-07T00:00:00+00:00</published>
     <updated>2012-12-07T00:00:00+00:00</updated>
@@ -421,12 +393,20 @@
 &lt;p&gt;Responding to feedback from interested parties, this document now provides some worked examples of how default scheme universal credit provisions operate.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/28507</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/27796</id>
     <published>2012-12-07T00:00:00+00:00</published>
     <updated>2012-12-07T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/workforce-management-information-october-2012"/>
-    <title>Workforce management information: October 2012 </title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Details of the workforce management data for October 2012.&lt;/p&gt;
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/quarterly-revenue-outturn-for-local-authorities-in-england-quarter-2-2012-to-2013"/>
+    <title>Quarterly revenue outturn for local authorities in England: quarter 2 2012 to 2013</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This statistical release provides quarterly revenue outturn data for local authorities in England, for quarter 2 of the financial year 2012 to 2013, and compares it to revenue account data for the same financial year.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/28474</id>
+    <published>2012-12-07T00:00:00+00:00</published>
+    <updated>2012-12-07T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/workforce-management-information-september-2012"/>
+    <title>Workforce management information: September 2012</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Details of the workforce management data for September 2012.&lt;/p&gt;
 
 &lt;p&gt;These figures are not official statistics. They are internal workforce management information published in the interests of transparency.&lt;/p&gt;
 
@@ -435,6 +415,26 @@
 &lt;p&gt;Some organisations may not have information available for each month, and at this stage coverage may therefore not reach 100% for those organisations in scope.&lt;/p&gt;
 
 &lt;p&gt;Given the wide range of organisations covered, caution should be exercised when drawing inferences from the figures and care should be taken when making comparisons between organisations.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/28528</id>
+    <published>2012-12-07T00:00:00+00:00</published>
+    <updated>2012-12-07T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/planning-inspectorate-staff-data-and-organogram-december-2012"/>
+    <title>Planning Inspectorate staff data and organogram: December 2012</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;These datasets show junior and senior posts and salary information for staff at the Planning Inspectorate.&lt;/p&gt;
+
+&lt;p&gt;The data is also available as an &lt;a rel="external" href="http://reference.data.gov.uk/gov-structure/organogram/?pubbod=the-planning-inspectorate"&gt;organogram&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/28512</id>
+    <published>2012-12-07T00:00:00+00:00</published>
+    <updated>2012-12-07T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/senior-dclg-employee-salaries-june-2012"/>
+    <title>Senior DCLG employee salaries: June 2012</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Since 24 January 2012, the Department for Communities and Local Government has published salary details for consenting senior staff earning more than £58,200. &lt;/p&gt;
+
+&lt;p&gt;This is in line with the &lt;a href="https://www.gov.uk/government/publications/local-authority-data-transparency-code"&gt;Local authority data transparency code&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/39671</id>
@@ -447,6 +447,16 @@
 &lt;p&gt;The UK has chosen to adopt option (b) and has prepared biennial Article 8 equivalence reports to demonstrate that this approach has an impact that is ‘broadly equivalent’ to that produced through the provisions of option (a).&lt;/p&gt;
 
 &lt;p&gt;These reports were produced in January 2008 and November 2010 and we are publishing them in the interests of transparency and as part of our Freedom of Information commitment to publish the results of all commissioned research.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/39722</id>
+    <published>2012-12-07T00:00:00+00:00</published>
+    <updated>2012-12-07T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/the-service-pupil-premium"/>
+    <title>The Service Pupil Premium</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Service Pupil Premium is funded by the Department for Education (DfE) to State funded schools in England. The Premium helps schools in England to provide additional (mainly pastoral) support to their Service Children.&lt;/p&gt;
+
+&lt;p&gt;Service parents with children in State funded schools in England are encouraged to ensure that the Head Teacher of their child(ren)’s school is made aware of their Service status for the Spring School Census which will be conducted on 17 January 2013.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/28037</id>
@@ -1418,6 +1428,14 @@
 &lt;p&gt;Voluntary Purchase Grant (&lt;abbr title="Voluntary Purchase Grant"&gt;VPG&lt;/abbr&gt;) was a voluntary scheme which enabled tenants of participating housing associations to buy their rented home outright at a discount. The scheme helped tenants who did not have the Right to Buy or Right to Acquire. &lt;abbr title="Voluntary Purchase Grant"&gt;VPG&lt;/abbr&gt; was replaced by Social HomeBuy in April 2006.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/39720</id>
+    <published>2012-12-06T00:00:00+00:00</published>
+    <updated>2012-12-06T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/mod-annual-report-and-accounts-2011-12"/>
+    <title>MOD Annual Report and Accounts 2011-12</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Ministry of Defence Annual Report and Accounts 2011-12 and Sustainability Report.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/33607</id>
     <published>2012-12-06T00:00:00+00:00</published>
     <updated>2012-12-06T00:00:00+00:00</updated>
@@ -1451,23 +1469,5 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="/government/publications/report-of-the-laidlaw-inquiry"&gt;Report of the Laidlaw inquiry&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/17797</id>
-    <published>2012-12-06T00:00:00+00:00</published>
-    <updated>2012-12-06T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/statutory-homelessness-in-england-july-to-september-2012"/>
-    <title>Statutory homelessness in England: July to September 2012</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The latest national statistics on statutory homelessness, for July to September 2012, were released on 6 December 2012, under arrangements approved by the UK Statistics Authority.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/17148</id>
-    <published>2012-12-06T00:00:00+00:00</published>
-    <updated>2012-12-06T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/decentralisation-an-assessment-of-progress"/>
-    <title>Decentralisation: an assessment of progress</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The report by the Rt Hon Greg Clark MP provides an assessment of how 12 government departments are decentralising power and puts forward personal recommendations for next steps. It shows strong progress across all of the domestic policy agenda, but also calls for continued reform.&lt;/p&gt;
-
-&lt;p&gt;The report makes the case for decentralisation (sustainable growth, better public services, a stronger society), setting out the gold standard for decentralisation, based on the &lt;a href="https://www.gov.uk/government/publications/decentralisation-and-the-localism-bill-an-essential-guide--2"&gt;guide to decentralisation and the Localism Bill&lt;/a&gt;, which was published in December 2010.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
 </feed>
