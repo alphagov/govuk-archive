@@ -82,12 +82,12 @@
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Information about candidates taking their driving theory test more than 10 times in Leeds.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/13066</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/13063</id>
     <published>2012-10-19T00:00:00+01:00</published>
     <updated>2012-10-19T00:00:00+01:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/consecutive-approved-driving-instructor-check-tests-at-grade-6"/>
-    <title>Consecutive approved driving instructor check tests at grade 6</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Information about consecutive approved driving instructor check tests at grade 6.&lt;/p&gt;&lt;/div&gt;</content>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/approved-driving-instructor-and-practical-driving-test-statistics"/>
+    <title>Approved driving instructor and practical driving test statistics</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Information about approved driving instructor and practical driving test statistics.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/13060</id>
@@ -114,12 +114,20 @@
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Information about car practical driving tests at Trowbridge, Westbury, Chippenham and Swindon.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/13067</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/13064</id>
     <published>2012-10-19T00:00:00+01:00</published>
     <updated>2012-10-19T00:00:00+01:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/car-theory-and-practical-driving-test-impersonation-cases"/>
-    <title>Car theory and practical driving test impersonation cases</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Information about car theory and practical driving test impersonation cases.&lt;/p&gt;&lt;/div&gt;</content>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/candidates-taking-their-theory-and-practical-car-and-motorcycle-tests"/>
+    <title>Candidates taking their theory and practical car and motorcycle tests</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Information about candidates taking their theory and practical car and motorcycle tests.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/13065</id>
+    <published>2012-10-19T00:00:00+01:00</published>
+    <updated>2012-10-19T00:00:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/hazard-perception-part-of-the-theory-test"/>
+    <title>Hazard perception part of the theory test</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Information about the hazard perception part of the theory test.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/15659</id>
@@ -130,20 +138,12 @@
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Questions about assaults on and bribes offered to driving examiners.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/15490</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/14953</id>
     <published>2012-10-19T00:00:00+01:00</published>
     <updated>2012-10-19T00:00:00+01:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/the-number-of-lgv-category-c-and-c-e-conducted-and-passed-since-2004-05"/>
-    <title>LGV category C and C+E practical driving tests taken and passed from 2004 to 2005</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Information about LGV category C and C+E practical driving tests taken and passed from 2004 to 2005.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/13047</id>
-    <published>2012-10-19T00:00:00+01:00</published>
-    <updated>2012-10-19T00:00:00+01:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/theory-and-practical-driving-test-waiting-times-in-wales-and-the-number-of-examiners"/>
-    <title>Theory and practical driving test waiting times in Wales and the number of examiners</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Information about theory and practical driving test waiting times in Wales and the number of examiners.&lt;/p&gt;&lt;/div&gt;</content>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/statistics-about-practical-car-tests-and-adis"/>
+    <title>Statistics about practical car tests and ADIs</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Statistics about practical car tests and ADIs.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/13051</id>

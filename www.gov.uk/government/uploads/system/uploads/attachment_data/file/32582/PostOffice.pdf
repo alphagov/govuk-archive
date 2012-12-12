@@ -1,0 +1,313 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN" "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr">
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://www.uk.coop/sites/default/files/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="shortlink" href="/node/8444" />
+<link rel="canonical" href="/error/accessdenied" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<title>Access Denied | Co-operatives UK</title>
+<link type="text/css" rel="stylesheet" href="http://www.uk.coop/sites/default/files/css/css__9zsakYbWSOTLroLLtWO9P7zLJXhXtSJo2OgXN4wIrU.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.uk.coop/sites/default/files/css/css_2WFC5F8KAGtyAcK7qPw4wBNn_3SN7XeWoPP_1-yRV6s.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.uk.coop/sites/default/files/css/css_pNL9mIo-ESgiR_4iwJ0ezH20BxGHBoCj07mdzqF4YnU.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.uk.coop/sites/default/files/css/css_kBW4zj6ahcDXLQzpFPTPbe9W19nL7OrLnVyrk6vzVIQ.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.uk.coop/sites/default/files/css/css_e0Oi8I1L8cGJ7KxcUbimLkO-ivlPDoZXuBZMWKAz5GY.css" media="print" />
+<link type="text/css" rel="stylesheet" href="http://www.uk.coop/sites/default/files/css/css_WbPi_SysPzUZ9OdvUFMltAi_-SFH0Jo68j7YZRe9JrY.css" media="handheld" />
+
+<!--[if IE]>
+<link type="text/css" rel="stylesheet" href="http://www.uk.coop/sites/default/files/css/css_X8ogY8ayMg2akhhrdw4qNGaScQMucyW71xwpzwiILnk.css" media="all" />
+<![endif]-->
+
+<!--[if lte IE 7]>
+<link type="text/css" rel="stylesheet" href="http://www.uk.coop/sites/default/files/css/css_sIsRwCKuAMZS6YJIMFqPXNCtZHxV56wN2ePifCvkLYc.css" media="all" />
+<![endif]-->
+
+<!--[if lte IE 6]>
+<link type="text/css" rel="stylesheet" href="http://www.uk.coop/sites/default/files/css/css_E7NMfl5EtX1KOG9VTgwmen3uMLVy0tuqM-YYSSrUOj4.css" media="all" />
+<![endif]-->
+<script type="text/javascript" src="http://www.uk.coop/misc/jquery.js?v=1.4.4"></script>
+<script type="text/javascript" src="http://www.uk.coop/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="http://www.uk.coop/misc/drupal.js?mds985"></script>
+<script type="text/javascript" src="http://www.uk.coop/misc/jquery.cookie.js?v=1.0"></script>
+<script type="text/javascript" src="http://www.uk.coop/sites/all/modules/nojs/nojs.js?mds985"></script>
+<script type="text/javascript" src="http://www.uk.coop/sites/all/modules/nice_menus/superfish/js/superfish.js?mds985"></script>
+<script type="text/javascript" src="http://www.uk.coop/sites/all/modules/nice_menus/superfish/js/jquery.bgiframe.min.js?mds985"></script>
+<script type="text/javascript" src="http://www.uk.coop/sites/all/modules/nice_menus/superfish/js/jquery.hoverIntent.minified.js?mds985"></script>
+<script type="text/javascript" src="http://www.uk.coop/sites/all/modules/nice_menus/nice_menus.js?mds985"></script>
+<script type="text/javascript" src="http://www.uk.coop/sites/all/modules/panels/js/panels.js?mds985"></script>
+<script type="text/javascript" src="http://www.uk.coop/sites/all/modules/views_slideshow/js/views_slideshow.js?mds985"></script>
+<script type="text/javascript" src="http://www.uk.coop/sites/all/modules/service_links/js/facebook_share.js?mds985"></script>
+<script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+<script type="text/javascript" src="http://www.uk.coop/sites/all/modules/service_links/js/google_plus_one.js?mds985"></script>
+<script type="text/javascript" src="http://www.uk.coop/sites/all/modules/service_links/js/linkedin_share_button.js?mds985"></script>
+<script type="text/javascript" src="http://platform.linkedin.com/in.js"></script>
+<script type="text/javascript" src="http://www.uk.coop/sites/all/modules/service_links/js/pinterest_button.js?mds985"></script>
+<script type="text/javascript" src="http://www.uk.coop/sites/all/modules/google_analytics/googleanalytics.js?mds985"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-7298801-2"]);_gaq.push(['_setCustomVar', 1, "Role", "anonymous user", 1]);_gaq.push(['_setCustomVar', 2, "Roles", "anonymous user", 1]);_gaq.push(["_trackPageview", "/403.html?page=" + document.location.pathname + document.location.search + "&from=" + document.referrer]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://www.uk.coop/sites/all/modules/logintoboggan/logintoboggan.js?mds985"></script>
+<script type="text/javascript" src="http://www.uk.coop/modules/openid/openid.js?mds985"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"zen_cuk","theme_token":"fSg2mBz9LNH7FXFPSkxT3XYsRn86CgBwpqwQbXxQ0Mo","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"misc\/jquery.cookie.js":1,"sites\/all\/modules\/nojs\/nojs.js":1,"sites\/all\/modules\/nice_menus\/superfish\/js\/superfish.js":1,"sites\/all\/modules\/nice_menus\/superfish\/js\/jquery.bgiframe.min.js":1,"sites\/all\/modules\/nice_menus\/superfish\/js\/jquery.hoverIntent.minified.js":1,"sites\/all\/modules\/nice_menus\/nice_menus.js":1,"sites\/all\/modules\/panels\/js\/panels.js":1,"sites\/all\/modules\/views_slideshow\/js\/views_slideshow.js":1,"sites\/all\/modules\/service_links\/js\/facebook_share.js":1,"http:\/\/platform.twitter.com\/widgets.js":1,"https:\/\/apis.google.com\/js\/plusone.js":1,"sites\/all\/modules\/service_links\/js\/google_plus_one.js":1,"sites\/all\/modules\/service_links\/js\/linkedin_share_button.js":1,"http:\/\/platform.linkedin.com\/in.js":1,"sites\/all\/modules\/service_links\/js\/pinterest_button.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"0":1,"sites\/all\/modules\/logintoboggan\/logintoboggan.js":1,"modules\/openid\/openid.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/aggregator\/aggregator.css":1,"modules\/book\/book.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/logintoboggan\/logintoboggan.css":1,"modules\/node\/node.css":1,"modules\/poll\/poll.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/video_filter\/video_filter.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/ckeditor.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/nice_menus\/nice_menus.css":1,"sites\/all\/modules\/nice_menus\/nice_menus_default.css":1,"sites\/all\/modules\/panels\/css\/panels.css":1,"sites\/all\/modules\/quiz\/quiz.css":1,"sites\/all\/modules\/tagadelic\/tagadelic.css":1,"sites\/all\/modules\/views_slideshow\/views_slideshow.css":1,"modules\/openid\/openid.css":1,"sites\/all\/themes\/zen_cuk\/css\/html-reset.css":1,"sites\/all\/themes\/zen_cuk\/css\/wireframes.css":1,"sites\/all\/themes\/zen_cuk\/css\/layout-fixed.css":1,"sites\/all\/themes\/zen_cuk\/css\/page-backgrounds.css":1,"sites\/all\/themes\/zen_cuk\/css\/tabs.css":1,"sites\/all\/themes\/zen_cuk\/css\/pages.css":1,"sites\/all\/themes\/zen_cuk\/css\/blocks.css":1,"sites\/all\/themes\/zen_cuk\/css\/navigation.css":1,"sites\/all\/themes\/zen_cuk\/css\/views-styles.css":1,"sites\/all\/themes\/zen_cuk\/css\/nodes.css":1,"sites\/all\/themes\/zen_cuk\/css\/comments.css":1,"sites\/all\/themes\/zen_cuk\/css\/forms.css":1,"sites\/all\/themes\/zen_cuk\/css\/fields.css":1,"sites\/all\/themes\/zen_cuk\/css\/fresh.css":1,"sites\/all\/themes\/zen_cuk\/css\/print.css":1,"sites\/all\/themes\/zen_cuk\/css\/mobile.css":1,"sites\/all\/themes\/zen_cuk\/css\/ie.css":1,"sites\/all\/themes\/zen_cuk\/css\/ie7.css":1,"sites\/all\/themes\/zen_cuk\/css\/ie6.css":1}},"jcarousel":{"ajaxPath":"\/jcarousel\/ajax\/views"},"nice_menus_options":{"delay":"800","speed":"slow"},"ws_fs":{"type":"box_count","fix_count":true,"text":""},"ws_gpo":{"type":"tall","counter":false},"ws_lsb":{"countmode":"top"},"ws_pb":{"countlayout":"vertical"},"video_filter":{"url":{"ckeditor":"\/video_filter\/dashboard\/ckeditor"},"modulepath":"sites\/all\/modules\/video_filter"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"}});
+//--><!]]>
+</script>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="stylesheet" type="text/css" href="/sites/all/themes/zen_cuk/css/mobile.css" />
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-8444 node-type-page no-js section-error" >
+  <div id="skip-link"><a href="#main-menu" class="element-invisible element-focusable">Jump to Navigation</a></div>
+    
+<div id="page-wrapper"><div id="page">
+
+      <div class="region region-user-panel">
+    <div id="block-search-form" class="block block-search first odd ">
+
+    
+  <div class="content">
+    <form action="/system/files/docs/PostOffice.pdf" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-n_VWBulkBZOlHy3hvTt9FnJBfOxyBK__gSNKZpQCTtQ" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>  </div>
+</div>
+<div id="block-user-login" class="block block-user last even ">
+
+    
+  <div class="content">
+    <form action="/error/accessdenied?destination=system/files/docs/PostOffice.pdf" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="login-container"><div class="form-item form-type-textfield form-item-openid-identifier">
+  <label for="edit-openid-identifier--2">Log in using OpenID </label>
+ <input type="text" id="edit-openid-identifier--2" name="openid_identifier" value="" size="15" maxlength="255" class="form-text" />
+<div class="description"><a href="http://openid.net/">What is OpenID?</a></div>
+</div>
+<div class="form-item form-type-textfield form-item-name">
+  <label for="edit-name--2">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-name--2" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div>
+<div class="form-item form-type-password form-item-pass">
+  <label for="edit-pass--2">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" id="edit-pass--2" name="pass" size="15" maxlength="60" class="form-text required" />
+</div>
+<input type="hidden" name="form_build_id" value="form-R0xqTURFpXpHWLkU3FaL-69HrirjyLrzQ0XPRYGnUYA" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<input type="hidden" name="openid.return_to" value="http://www.uk.coop/openid/authenticate?destination=system/files/docs/PostOffice.pdf" />
+<div class="form-actions form-wrapper" id="edit-actions--3"><input type="submit" id="edit-submit--3" name="op" value="Log in" class="form-submit" /></div><div class="item-list"><ul class="openid-links"><li class="openid-link first"><a href="#openid-login">Log in using OpenID</a></li>
+<li class="user-link last"><a href="#">Cancel OpenID login</a></li>
+</ul></div><div class="login-links"><div class="item-list"><ul><li class="first"><a href="/user/register" title="Create a new user account.">Create new account</a></li>
+<li class="last"><a href="/user/password" title="Request new password via e-mail.">Request new password</a></li>
+</ul></div></div></div></div></form>  </div>
+</div>
+  </div><!-- /.region -->
+
+  <div id="header"><div class="section clearfix">
+
+    <h2 class="element-invisible"></h2><ul id="secondary-menu" class="links inline clearfix"><li class="menu-1703 first"><a href="/contact" title="Contact Co-operatives UK">Contact</a></li>
+<li class="menu-1730"><a href="/directory/all" title="Find co-operatives near you">Directory</a></li>
+<li class="menu-1705"><a href="/newsroom" title="Resources and information for news organisations">Newsroom</a></li>
+<li class="menu-1720"><a href="/resources/documents/website-terms-and-conditions" title="Read the privacy notices of the site">Legal Notices</a></li>
+<li class="menu-1721"><a href="/search" title="Search for content on the site">Search</a></li>
+<li class="menu-1722 last"><a href="/feedback" title="Give us your feedback on the website">Feedback</a></li>
+</ul>
+          <a href="/" title="Home" rel="home" id="logo"><img src="http://www.uk.coop/sites/default/files/cukzen_logo.jpg" alt="Home" /></a>
+    
+    
+<p class="strapline">
+<img alt="The Campaign for Co-operation" src="/sites/all/themes/zen_cuk/images/strap1.jpg" style="width: 346px; height: 40px;" title="The Campaign for Co-operation" />
+<a alt="Join Co-operatives UK - Click here" href="/membership/join" title="Join Co-operatives UK - Click here">
+<img src="/sites/all/themes/zen_cuk/images/join.jpg" style="width: 85px; height: 40px;" /></a></p>
+
+
+
+      <div class="region region-header">
+    <div id="block-nice-menus-1" class="block block-nice-menus first last odd ">
+
+    
+  <div class="content">
+    <ul class="nice-menu nice-menu-down" id="nice-menu-1"><li class="menu-227 menu-path-front  first   odd  "><a href="/" title="Go back to the site home page">Co-operatives UK</a></li>
+<li class="menu-1530 menuparent  menu-path-node-7385   even  "><a href="/about" title="Find out more about Co-operatives UK and what we do">Who we are</a><ul><li class="menu-1531 menuparent  menu-path-node-7384  first   odd  "><a href="/about/co-operativesuk" title="Find out more about Co-operatives UK">About us</a><ul><li class="menu-43787 menu-path-node-13038  first   odd   last "><a href="/documents/co-operatives-uk-rules-2012" title="The rules that members of Co-operatives UK agree to be bound by.">Co‑operatives UK Rules 2012</a></li>
+</ul></li>
+<li class="menu-1532 menuparent  menu-path-node-7610   even  "><a href="/corporate-governance" title="Find out more about how Co-operatives UK is run">Governance</a><ul><li class="menu-1748 menu-path-annualreports  first   odd  "><a href="/annualreports">Annual Reports</a></li>
+<li class="menu-43788 menu-path-node-13038   even   last "><a href="/documents/co-operatives-uk-rules-2012" title="The rules that members of Co-operatives UK agree to be bound by.">Co-operatives UK Rules 2012</a></li>
+</ul></li>
+<li class="menu-1749 menu-path-node-7413   odd  "><a href="/newsroom" title="Resources for reporters and news organisations">Newsroom</a></li>
+<li class="menu-1750 menu-path-about-staff   even  "><a href="/about/staff">Contact Our Staff</a></li>
+<li class="menu-1533 menu-path-node-7611   odd   last "><a href="/about/find" title="Contact Co-operatives UK, or get directions to our head office">Find Us</a></li>
+</ul></li>
+<li class="menu-1534 menuparent  menu-path-node-7609   odd  "><a href="/ourwork" title="Find out more about the work of Co-operatives UK">What we do</a><ul><li class="menu-1909 menuparent  menu-path-node-12170  first   odd  "><a href="/2012" title="Find out more about the International Year of Co-operatives">International Year of Co-operatives 2012</a><ul><li class="menu-40548 menu-path-node-12347  first   odd   last "><a href="/2012/moveyourmoney" title="Find out more about moving your money and the Little Book of Money">Move Your Money Month</a></li>
+</ul></li>
+<li class="menu-41100 menu-path-manchester2012coop-   even  "><a href="http://www.manchester2012.coop/" title="Find out more about the Co-operatives United event in Manchester">Co-operatives United</a></li>
+<li class="menu-42211 menu-path-node-12684   odd  "><a href="/2012/co-operatives-fortnight-2012" title="Co-operatives Fortnight 2012">Co-operatives Fortnight 2012</a></li>
+<li class="menu-42901 menu-path-node-12710   even  "><a href="/womenschallenge/womens-home" title="Find out more about the Co-operative Women&#039;s Challenge.">Co-operative Women&#039;s Challenge</a></li>
+<li class="menu-1751 menu-path-ourwork-campaigns   odd  "><a href="/ourwork/campaigns">Campaigning</a></li>
+<li class="menu-1586 menu-path-node-7388   even  "><a href="/about/policy" title="Work influencing policy and legislation in the UK">Influencing Policy</a></li>
+<li class="menu-1752 menu-path-consultations   odd  "><a href="/consultations" title="Find out about consultations Co-operatives UK is currently responding to.">Consultations</a></li>
+<li class="menu-41404 menu-path-node-12532   even  "><a href="/ourwork/co-operatives-uk-legal-team" title="Find out more about what the Co-operatives UK Legal Team can do to help you">Co-operatives UK Legal Team</a></li>
+<li class="menu-44551 menu-path-node-13054   odd  "><a href="/our-work/governance-audit-tool" title="Find out more about our Governance Audit tool">Governance Audit tool</a></li>
+<li class="menu-44550 menu-path-node-13050   even   last "><a href="/our-work/select-structure-tool" title="Find out about our Select-a-Structure tool">Select-a-structure tool</a></li>
+</ul></li>
+<li class="menu-1588 menuparent  menu-path-node-7389   even  "><a href="/membership" title="Find out about joining Co-operatives UK">Join Us</a><ul><li class="menu-40549 menu-path-node-12353  first   odd  "><a href="/benefits-membership">Benefits of membership</a></li>
+<li class="menu-40550 menuparent  menu-path-node-12354   even  "><a href="/membership/join" title="Join us, together we do more.">Become a member</a><ul><li class="menu-40881 menu-path-node-12358  first   odd  "><a href="/Connect">Connect package</a></li>
+<li class="menu-40879 menu-path-node-12359   even  "><a href="/strengthen" title="Find out more about the Strengthen package">Strengthen Package</a></li>
+<li class="menu-40880 menu-path-node-12360   odd  "><a href="/partner">Partner package</a></li>
+<li class="menu-45173 menu-path-node-13240   even   last "><a href="/Associate">Associate package</a></li>
+</ul></li>
+<li class="menu-1763 menu-path-memberoffers   odd  "><a href="/memberoffers">Member Discounts</a></li>
+<li class="menu-41265 menu-path-node-12501   even   last "><a href="/newmember">New member welcome</a></li>
+</ul></li>
+<li class="menu-1592 menuparent  menu-path-node-7393   odd  "><a href="/co-operatives" title="Find out more about co-operatives">About co-operatives</a><ul><li class="menu-41211 menu-path-node-12401  first   odd  "><a href="/what-co-operative" title="Find out more about what a co-operative is.">What is a co-operative?</a></li>
+<li class="menu-1594 menu-path-node-7397   even  "><a href="/economy/advantage" title="What are the advantages of running your business as a co-operative?">Advantages of Co-operation</a></li>
+<li class="menu-40804 menuparent  menu-path-node-12390   odd  "><a href="/start-co-op" title="Find out more about setting up a co-operative">Start a Co-operative</a><ul><li class="menu-40818 menu-path-start-co-op-case-studies  first   odd  "><a href="/start-co-op/case-studies">Case studies</a></li>
+<li class="menu-40816 menuparent  menu-path-node-12297   even  "><a href="/form/quiz-co-operative-right-me" title="Take our simple quiz to see if the co-operative way is right for you">Quiz: Is a Co-operative right for me?</a><ul><li class="menu-40817 menu-path-node-12432  first   odd  "><a href="/it-looks-you-definitely-want-set-co-operative" title="Results for the online quiz">It looks like you definitely want set up a co-operative</a></li>
+<li class="menu-40829 menu-path-node-12431   even  "><a href="/it-looks-you-want-set-organisation-which-not-co-operative" title="Results for the online quiz">It looks like you want to set up an organisation which is not a co-operative</a></li>
+<li class="menu-41053 menu-path-node-12438   odd   last "><a href="/you-might-want-be-co-operative-need-do-little-more-thinking" title="Results for the online quiz">You might want to be a co-operative but need to do a little more thinking</a></li>
+</ul></li>
+<li class="menu-40805 menuparent  menu-path-node-12404   odd  "><a href="/starting-co-operative-journey" title="Follow our guided journey to start a co-operative">Starting a co-operative - The journey</a><ul><li class="menu-40806 menu-path-node-12405  first   odd  "><a href="/starting-co-operative-journey/early-days-starting-co-operative" title="Everything you need to know about the early days of starting a co-operative">The early days of starting a co-operative</a></li>
+<li class="menu-40807 menu-path-node-12406   even  "><a href="/starting-co-operative-journey/who-are-we" title="Things to think about when setting up your co-operative&#039;s identity">Who are we?</a></li>
+<li class="menu-40808 menu-path-node-12407   odd  "><a href="/starting-co-operative-journey/sharing-load" title="Advise on sharing the work of starting a co-operative">Sharing the load</a></li>
+<li class="menu-40809 menu-path-node-12408   even  "><a href="/starting-co-operative-journey/putting-flesh-bones" title="Find out how you move from idea to new co-operative">Putting the flesh on the bones</a></li>
+<li class="menu-40810 menu-path-node-12409   odd  "><a href="/starting-co-operative-journey/show-me-money" title="Ideas on how to finance your new co-operative">Show me the money</a></li>
+<li class="menu-40811 menu-path-node-12410   even  "><a href="/starting-co-operative-journey/getting-organised" title="Things to think about with the structure of your co-operative">Getting Organised</a></li>
+<li class="menu-40812 menu-path-node-12411   odd  "><a href="/starting-co-operative-journey/are-we-nearly-there-yet" title="Last minute checks as you get close to starting your co-operative">Are we nearly there yet?</a></li>
+<li class="menu-40813 menu-path-node-12412   even  "><a href="/starting-co-operative-journey/come-and-join-us" title="Gathering a membership for your new co-operative">Come and join us</a></li>
+<li class="menu-40814 menu-path-node-12413   odd  "><a href="/starting-co-operative-journey/opening-day" title="Things to think about when your new co-operative opens.">Opening day</a></li>
+<li class="menu-40815 menu-path-node-12414   even   last "><a href="/starting-co-operative-journey/one-year-already" title="What will you need to think about when your co-operative is one year old">One year already</a></li>
+</ul></li>
+<li class="menu-40820 menu-path-node-12402   even  "><a href="/start-co-op/things-think-about-starting-co-operative" title="What do you need to know before you start your co-operative?">Things to think about before starting a co-operative</a></li>
+<li class="menu-40819 menu-path-node-12401   odd  "><a href="/what-co-operative">What is a Co-operative?</a></li>
+<li class="menu-41154 menu-path-start-co-op-resources   even  "><a href="/start-co-op/resources" title="Download publications to help you start your own co-operative">Start a co-operative: publications</a></li>
+<li class="menu-40822 menu-path-node-12422   odd  "><a href="/start-co-op/who-can-help" title="Find help and support in setting up your new co-operative">Who can help?</a></li>
+<li class="menu-40821 menu-path-node-12415   even  "><a href="/start-co-op/why-you-should-consider-joining-co-operatives-uk" title="Why should you consider joining Co-operatives UK when your new co-operative is set up?">Why you should consider joining Co-operatives UK</a></li>
+<li class="menu-44912 menuparent  menu-path-node-12954   odd   last "><a href="/converting-co-operative" title="Find out about changing your existing business to a co-operative form">Converting to a co-operative</a><ul><li class="menu-44914 menuparent  menu-path-node-13100  first   odd  "><a href="/why-choose-community-buyout" title="Why would your local community want to buy out a business">Why choose a community buyout?</a><ul><li class="menu-44915 menu-path-node-13101  first   odd  "><a href="/benefits-choosing-community-buyout" title="What are the reasons for buying out a business?">The benefits of choosing a community buyout</a></li>
+<li class="menu-44916 menu-path-node-13102   even  "><a href="/types-community-buyout-available" title="What are the different ways of approaching a community buyout?">The types of community buyout available</a></li>
+<li class="menu-44917 menu-path-node-13103   odd  "><a href="/would-community-buyout-always-be-appropriate" title="What should you consider before starting a community buy out?">Would a community buyout always be appropriate?</a></li>
+<li class="menu-44918 menu-path-node-13104   even   last "><a href="/next-steps-towards-community-buyout" title="What should you do to start your community buy out?">Next steps towards a community buyout</a></li>
+</ul></li>
+<li class="menu-44913 menuparent  menu-path-node-12960   even   last "><a href="/why-choose-employee-buyout" title="Why would you consider buying your workplace?">Why choose an employee buyout?</a><ul><li class="menu-44919 menu-path-node-12959  first   odd  "><a href="/benefits-choosing-employee-buyout" title="Why  would you start an employee buyout?">The benefits of choosing an employee buyout</a></li>
+<li class="menu-44920 menu-path-node-12958   even  "><a href="/types-employee-buyout" title="What kind of employee buy out should you consider?">The types of employee buyout</a></li>
+<li class="menu-44921 menu-path-node-12957   odd  "><a href="/would-employee-buyout-always-be-appropriate" title="What do you need to think about before starting an employee buy out?">Would an employee buyout always be appropriate?</a></li>
+<li class="menu-44922 menu-path-node-12956   even   last "><a href="/next-steps-employee-buy-out" title="What should you do to start your employee buyout?">Next steps for an employee buy-out</a></li>
+</ul></li>
+</ul></li>
+</ul></li>
+<li class="menu-40823 menuparent  menu-path-node-12391   even  "><a href="/grow" title="Find out how to turn your small co-operative into a bigger business">Grow a co-operative</a><ul><li class="menu-41518 menu-path-node-12563  first   odd  "><a href="/grow/effective-governance-and-growth" title="Find out more about how your governance affects your growth">Effective governance and growth</a></li>
+<li class="menu-41519 menu-path-node-12531   even  "><a href="/grow/financing-growth" title="Find out how you finance growth in your co-operative">Financing growth</a></li>
+<li class="menu-41520 menu-path-node-12508   odd  "><a href="/events-and-networking" title="Find oyut about events to help your co-operative grow">Events and networking</a></li>
+<li class="menu-41521 menu-path-node-12572   even  "><a href="/grow/shout-about-your-co-operative" title="Promote yourself as a co-operative to aid your growth">Shout about your co-operative</a></li>
+<li class="menu-41522 menu-path-node-12529   odd  "><a href="/grow-your-co-operative-co-operatives-uk" title="Find out more about membership of Co-operatives UK">Grow your co-operative with Co-operatives UK</a></li>
+<li class="menu-41524 menu-path-node-12533   even  "><a href="/grow/who-can-help" title="Find out who can help your co-operative to grow">Who can help your co-operative grow?</a></li>
+<li class="menu-41523 menu-path-node-12564   odd  "><a href="/grow/case-studies" title="Find out about other co-operatives who have grown themselves">Grow a co-operative case studies</a></li>
+<li class="menu-41156 menu-path-grow-co-op-resources   even   last "><a href="/grow-co-op/resources" title="Resources to help you grow your co-operative">Relevant publications</a></li>
+</ul></li>
+<li class="menu-40824 menuparent  menu-path-node-12389   odd  "><a href="/advise" title="Find out how we help co-operative development bodies support new co-operatives">Advise a Co-op</a><ul><li class="menu-44552 menu-path-node-12952  first   odd  "><a href="/just-starting-out" title="New to co-operative development? Find out more here">Just starting out?</a></li>
+<li class="menu-44553 menu-path-node-12951   even  "><a href="/find-co-operative-business-advisor" title="Find other advisors working near to you">Find a co-operative advisor</a></li>
+<li class="menu-44554 menu-path-node-12973   odd  "><a href="/advise/join-co-operatives-uk" title="Finding out more about joining Co-operatives UK as a development body">Join Co-operatives UK</a></li>
+<li class="menu-44555 menuparent  menu-path-node-12953   even  "><a href="/registering-new-co-operative" title="Find out how we can help you to register a new co-operative">Registering a new co-operative</a><ul><li class="menu-44556 menu-path-node-12963  first   odd  "><a href="/co-operative-legal-forms" title="Find out about the range of legal forms available to co-operatives">Co-operative legal forms</a></li>
+<li class="menu-44558 menu-path-node-12962   even  "><a href="/documents/legal-and-registration-services-fee-list-2012" title="See the fees charged for registering a co-operative through Co-operatives UK">Legal and registration services fee list 2012</a></li>
+<li class="menu-44557 menu-path-advise-modelrules   odd   last "><a href="/advise/modelrules" title="See the model rules available for registering a co-operative through Co-operatives UK">Model rules for co-operatives</a></li>
+</ul></li>
+<li class="menu-44559 menuparent  menu-path-node-12961   odd  "><a href="/events-training-and-networking" title="Find out about training and events to help you as co-operative developement workers">Events, Training and networking</a><ul><li class="menu-44560 menu-path-node-12955  first   odd   last "><a href="/advise/co-operatives-uk-linkedin-group" title="Find out what&#039;s happening in the Co-operatives UK LinkedIn Group">Co-operatives UK LinkedIn Group</a></li>
+</ul></li>
+<li class="menu-42994 menu-path-advise-resources   even  "><a href="/advise/resources" title="Resources and publications to help you asdvise co-operative businesses">Resources</a></li>
+<li class="menu-44738 menu-path-node-13081   odd   last "><a href="/blog/lindabarlow/2012-09-03/co-operative-option" title="Published in the September&#039;s CILEx Journal, Linda Barlow introduces the co-operative option to members of CILEx - the professional association for Chartered Legal Executive lawyers and other members of CILEx">The Co-operative Option</a></li>
+</ul></li>
+<li class="menu-1729 menu-path-directory-all   even  "><a href="/directory/all" title="Find co-operatives near you.">Directory of co-operatives</a></li>
+<li class="menu-41513 menuparent  menu-path-node-12466   odd  "><a href="/cooperate" title="Find out more about our App">The Co-operate App</a><ul><li class="menu-41516 menu-path-node-12468  first   odd  "><a href="/documents/co-operate-video" title="Watch a video mock-up of the Co-operate App">Co-operate Video</a></li>
+<li class="menu-41515 menu-path-node-12482   even  "><a href="/2012/tools-promote-co-operate" title="Promote Co-operate with a range of useful tools">Tools to promote Co-operate</a></li>
+<li class="menu-41514 menu-path-node-12436   odd   last "><a href="/co-operate-listings" title="Update your co-operative&#039;s details on the app">Your Listing on the The Co-operate App</a></li>
+</ul></li>
+<li class="menu-1598 menu-path-node-7396   even  "><a href="/economy/worldwide" title="Find out more about the global co-operative movement">Worldwide</a></li>
+<li class="menu-42213 menuparent  menu-path-node-12691   odd   last "><a href="/economy2012" title="Find out more about the co-operative economy">The Co-operative Economy</a><ul><li class="menu-42217 menu-path-node-12695  first   odd  "><a href="/co-operatives-across-country" title="Find out more about co-operatives near you">Co-operatives across the country</a></li>
+<li class="menu-42221 menu-path-node-12697   even  "><a href="/documents/co-operative-economy-2012" title="Download a PDF of the Co-operative Economy 2012">Download The Co-operative Economy 2012</a></li>
+<li class="menu-42215 menu-path-node-12692   odd  "><a href="/performance-co-operative-economy" title="How did the co-operative sector perform in 2011?">Performance of the co-operative economy</a></li>
+<li class="menu-42219 menu-path-node-12696   even   last "><a href="/shape-co-operative-economy" title="Find out how the co-operative economy covers all business sectors">The shape of the co-operative economy</a></li>
+</ul></li>
+</ul></li>
+<li class="menu-1599 menuparent  menu-path-node-7273   even   last "><a href="/community" title="Get involved in our co-operative community">Community</a><ul><li class="menu-1765 menu-path-group-list  first   odd  "><a href="/group-list" title="Get involved in our online community">Discussion Groups</a></li>
+<li class="menu-1766 menu-path-news-blogs   even  "><a href="/news/blogs">Blogs</a></li>
+<li class="menu-1770 menu-path-resources   odd  "><a href="/resources">Resources</a></li>
+<li class="menu-1759 menu-path-events-allevents   even  "><a href="/events/allevents" title="See our Co-operative Events Diary, with details of events from across the UK movement">Co-operative Events</a></li>
+<li class="menu-40195 menu-path-node-12254   odd   last "><a href="/form/keep-touch" title="Sign up to one of our mailing lists to keep up-to-date with the latest news from Co-operatives UK.">Keep in touch</a></li>
+</ul></li>
+</ul>
+  </div>
+</div>
+  </div><!-- /.region -->
+
+
+
+  </div></div><!-- /.section, /#header -->
+
+  <div id="main-wrapper"><div id="main" class="clearfix">
+
+
+
+    <div id="content" class="column"><div class="section">
+            <h2 class="element-invisible">You are here</h2><div class="breadcrumb"><a href="/">Home</a> > <span class="page-title"><strong>Access Denied</strong></span></div>      <a id="main-content"></a>
+                    <h1 class="title" id="page-title">Access Denied</h1>
+                                            <div class="region region-content">
+    <div id="block-system-main" class="block block-system first odd ">
+
+    
+  <div class="content">
+    <div id="node-8444" class="node node-page view-mode-full clearfix">
+
+  
+      
+  
+  
+  <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even first last"><p>Sorry, the page you are requesting has been denied.</p>
+<!--break-->
+<p>If you are not logged in, please enter your user details in the grey box to the right. Otherwise, if you feel you should be able to access this content, please <a title="Use the contact form to get in touch with us" href="/contact">contact us here</a>.</p>
+</div></div></div>  </div>
+
+  <ul class="links inline"><li class="service-links-google-plus-one first"><a href="http://www.uk.coop/error/accessdenied" title="Plus it" class="service-links-google-plus-one" rel="nofollow"><span class="element-invisible">Google Plus One</span></a></li>
+<li class="service-links-facebook-share"><a href="http://www.facebook.com/sharer.php" title="Share this post on Facebook" class="service-links-facebook-share" rel="http://www.uk.coop/error/accessdenied"><span class="element-invisible">Share on Facebook</span></a></li>
+<li class="service-links-linkedin-share-button"><a href="http://www.uk.coop/error/accessdenied" title="Share on Linkedin" class="service-links-linkedin-share-button" rel="nofollow"><span class="element-invisible">Linkedin Share Button</span></a></li>
+<li class="service-links-pinterest-button"><a href="http://pinterest.com/pin/create/button/?url=http%3A//www.uk.coop/error/accessdenied&amp;description=Sorry%2C%20the%20page%20you%20are%20requesting%20has%20been%20denied.&amp;media=" class="pin-it-button service-links-pinterest-button" title="Pin It" rel="nofollow"><span class="element-invisible">Pinterest</span></a></li>
+<li class="service-links-twitter-widget last"><a href="http://twitter.com/share?url=http%3A//www.uk.coop/error/accessdenied&amp;count=vertical&amp;via=CooperativesUK&amp;text=Access%20Denied&amp;counturl=http%3A//www.uk.coop/error/accessdenied" class="twitter-share-button service-links-twitter-widget" title="Tweet This" rel="nofollow"><span class="element-invisible">Tweet Widget</span></a></li>
+</ul>
+  
+</div><!-- /.node -->
+  </div>
+</div>
+<div id="block-block-94" class="block block-block last even ">
+
+    
+  <div class="content">
+    <div class="messages error" style="width: 550px;"><p>This site stores some data on your computer in order to function properly. For more information, please see our <a href="/node/9165" title="Please read our cookie use policy here">cookie use policy</a>. If you do not wish data to be stored on your computer, please <a href="/node/12608" title="Read instructions on setting your browser to block cookies here">set your browser to block cookies</a> from this site.</p></div>  </div>
+</div>
+  </div><!-- /.region -->
+          </div></div><!-- /.section, /#content -->
+
+    
+    
+    
+  </div></div><!-- /#main, /#main-wrapper -->
+
+
+
+</div></div><!-- /#page, /#page-wrapper -->
+  <div class="region region-footer">
+    <div id="block-block-12" class="block block-block first last odd ">
+
+    
+  <div class="content">
+    <div id="registered-address" style="display: block; clear: both;">
+<p><a href="/about/co-operativesuk" title="Find out more about Co-operatives UK">Co-operatives UK Limited</a>, Holyoake House, Hanover Street, Manchester, M60 0AS.<br />
+		Registered in England as an Industrial and Provident Society under the Industrial and Provident Societies Act 1965. Registered no. 2783R.</p>
+</div>
+  </div>
+</div>
+  </div><!-- /.region -->
+  </body>
+</html>

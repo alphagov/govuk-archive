@@ -1,0 +1,590 @@
+METADATA FOR DATA FIELDS,,,,,,,,,,,,,
+"This worksheet lists the fields of the ""Quarterly Data Summary"" sheet and provides explanation of the metrics (metdata).",,,,,,,,,Organisations in-scope,[Please specify],,,
+,,ALL INFORMATION SHOULD RELATE TO THE LATEST AVAILABLE DATA,,,,,,,Organisations out-of-scope,[Please specify],,,
+,,,,,,,,,Actual Department metadata - where differs from requested,,,,
+GROUP,SUB-GROUP,FIELD NAME,TECHNICAL DEFINITION (REQUESTED),PERIOD OF DATA REPORTED IN QDS (REQUESTED),PERIOD FOR DATA IN JANUARY QDS (REQUESTED),DEPARTMENTAL COVERAGE OF DATA (REQUESTED),DATA SOURCE,"TYPE OF DATA (eg MI, Official Stats or National Stats)",TECHNICAL DEFINITION (ACTUAL),DEPARTMENTAL COVERAGE OF DATA (ACTUAL),"FURTHER NOTES, CAVEATS AND LIMITATIONS",EXPLANATIONS RELATING TO CHANGES IN DATA FROM PREVIOUS QDS PUBLICATIONS,
+Spending,Budget,"Total Departmental Expenditure Limit (DEL)
+",(Resource DEL excluding depreciation) + (Capital DEL),Quarterly COINS data,"Current = Q2 2011-12 (Jul-Sep)
+Previous = Q2 2010-11 (Jul-Sep)",Full,COINS,Management information,(Resource DEL excluding depreciation) + (Capital DEL). ,,,,
+,,"of which Resource DEL (excl. Depreciation)
+","(Resource DEL excluding depreciation) 
+",Quarterly COINS data,"Current = Q2 2011-12 (Jul-Sep)
+Previous = Q2 2010-11 (Jul-Sep)",Full,COINS,Management information,"(Resource DEL excluding depreciation).
+",,,,
+,,"Top 5 contributory elements
+","5 largest areas of spending, as defined by the department, to cover a substantial proportion of DEL.",Quarterly COINS data,"Current = Q2 2011-12 (Jul-Sep)
+Previous = Q2 2010-11 (Jul-Sep)",Determined by top 5 programmes chosen,COINS,Management information,5 largest areas of spending druing  for Qtr2 FY2011/12,,,,
+,,A,,,,,,,,,,,
+,,B,,,,,,,,,,,
+,,C,,,,,,,,,,,
+,,D,,,,,,,,,,,
+,,E,,,,,,,,,,,
+,,Purchase of goods & services within Resource DEL,"RDEL, Purchase of Goods and services. Procurement spending should be recorded as a gross rather than net expenditure. This should be current procurement which falls within resource DEL, therefore excluding all Capital procurement.  Should include entries against NAC Codes: ""B3501"" + ""E20""; Expenditure should be recorded in £m.  ",Quarterly COINS data,"Current = Q2 2011-12 (Jul-Sep)
+Previous = Q2 2010-11 (Jul-Sep)",Full,COINS,Management information,(Resource AME excluding depreciation) + (Capital AME).,,,,
+,,Payroll within Resource DEL,"Pay includes salaries, employers’ National Insurance Contributions, and accruing pension costs in RDEL. NAC Codes – all codes under ""A15"". Expenditure should be recorded in £million and in real terms, with no normalisation applied.  ",Quarterly COINS data,"Current = Q2 2011-12 (Jul-Sep)
+Previous = Q2 2010-11 (Jul-Sep)",Full,COINS,Management information,,,,,
+,,Grants within Resource DEL,"Grant payments or subsidies to individuals or bodies inside or outside the public sector within Resource DEL. The figure should not include any ""capital"" grants or subsidies. The NAC Code definition is:
+
+- Current grants to local government spending NAC= “M10”, “M15”, “M20”, “M30”, “M40”
+- Current grants to persons and not for profit bodies NAC= ""D10""
+- Current grants abroad NAC= ""D20""
+- Subsidies to private sector companies NAC= ""C10, C50""
+- Subsidies to public corporations NAC=""C20, C35""
+",Quarterly COINS data,"Current = Q2 2011-12 (Jul-Sep)
+Previous = Q2 2010-11 (Jul-Sep)",Full,COINS,Management information,,,,,
+,,of which Capital DEL,"(Capital DEL), taken from COINS.",Quarterly COINS data,"Current = Q2 2011-12 (Jul-Sep)
+Previous = Q2 2010-11 (Jul-Sep)",Full,COINS,Management information,,,,,
+,,Top 5 contributory elements,"5 largest areas of spending, as defined by the department, to cover a substantial proportion of Capital DEL.",Quarterly COINS data,"Current = Q2 2011-12 (Jul-Sep)
+Previous = Q2 2010-11 (Jul-Sep)",Determined by top 5 programmes chosen,COINS,Management information,5 largest areas of spending druing  for Qtr2 FY2011/12,,,,
+,,A,,,,,,,,,,,
+,,B,,,,,,,,,,,
+,,C,,,,,,,,,,,
+,,D,,,,,,,,,,,
+,,E,,,,,,,,,,,
+,,Total Annually Managed Expenditure (AME),"(Resource AME excluding depreciation) + (Capital AME), taken from COINS",Quarterly COINS data,"Current = Q2 2011-12 (Jul-Sep)
+Previous = Q2 2010-11 (Jul-Sep)",Full,COINS,Management information,,,,,
+,,Top 5 contributory elements,"5 largest areas of spending, as defined by the department, to cover a substantial proportion of Total AME.",Quarterly COINS data,"Current = Q2 2011-12 (Jul-Sep)
+Previous = Q2 2010-11 (Jul-Sep)",Determined by top 5 programmes chosen,COINS,Management information,5 largest areas of spending druing  for Qtr2 FY2011/12,,,,
+,,A,,,,,,,,,,,
+,,B,,,,,,,,,,,
+,,C,,,,,,,,,,,
+,,D,,,,,,,,,,,
+,,E,,,,,,,,,,,
+,Common Areas of Spend,Office Estate Area,Quarterly data - IPD Cost Codes Solution - currently with departments for feedback (18th November deadline). Will be alligned with Common Areas of Spend Estates Standard.,Quarter,"Current = Q2 2011-12 (Jul-Sep)
+Previous = Q1 2011-12 (Apr-Jun)",Full,ePIMS,Management information,"Total m2 of the office estate. Details the most significant office occupations in the estate. Source: : Property Benchmarking Service, 2009/2010 Performance Statement, MOD - 2009-2010","a. Details the most significant office occupations in the estate. These are: Abbey Wood, Bristol; MOD Main Building, London; Ensleigh, Bath; Foxhill, Bath; Kentigern House Glasgow, Glasgow; PPA Cheadle Hulme, Wilmslow; Kingston Road, Sutton Coldfield; Walker House, Liverpool; Warminster Road Bath, Bath; Blackpool Tomlinson House Norc, Thornton Cleveleys; Abbey Wood Somerset Site, Bristol; Stirling House Cambridge, Cambridge; Delta 900, Swindon; Forthview House 2066, Dunfermline; Delta 800, Swindon; Aldershot Blandford House De Offices, Aldershot; The Cerium Building Glasgow, Glasgow; Caledonia House, Dunfermline; Bacchus House, York; Unit 2 Lancaster Court and Fareham.","Quarterly Data not available annual cost for 10/11 = £261,125m",,
+,,Office Estate Costs,Quarterly data - IPD Cost Codes Solution - currently with departments for feedback (18th November deadline). Will be alligned with Common Areas of Spend Estates Standard.,Quarter,"Current = Q2 2011-12 (Jul-Sep)
+Previous = Q1 2011-12 (Apr-Jun)",Office Accomodation over 500m2 for entire family,TBC,Management information,"Total Property Costs are defined to specifically include the annual rent, rates and ""other"" operating costs (""other costs"" include net service charges payments, utility costs, cleaning, security and revenue maintenance costs). This total cost represents a sub-set of Investment Property Databank (IPD) Total Occupancy Costs (defined in the IPD International Total Occupancy Cost Code) which has been identified and reported by IPD as it represents the majority of total annual property expenditure where data is robust and is applicable for most property types. Reporting focuses on this as a key indicator of occupancy cost efficiency (ie. per m², FTE or workstation). For freehold properties, annual rent is represented by a Treasury Capital Charge and for properties managed under Public Finance Initiative (PFI) agreements the unitary charge payment is specifically incorporated and reported as part of the Total Property Cost.",Derived from cost of the most significant office occupations in the estate (details as above),Quarterly Data not available annual cost for 10/11 =£ 71.5m,,
+,,Cost of the Office Estate per M2,Quarterly data - IPD Cost Codes Solution - currently with departments for feedback (18th November deadline). Will be alligned with Common Areas of Spend Estates Standard.,Quarter,"Current = Q2 2011-12 (Jul-Sep)
+Previous = Q1 2011-12 (Apr-Jun)",Office Accomodation over 500m2 for entire family,TBC,Management information,Cost of the estate per m2. a. Derived from the cost and total m2. b. Data Details the most significant office occupations in the estate (details as above).,Derived from cost of the most significant office occupations in the estate (details as above),"Quarterly Data not available annual cost for 10/11 = £4,065",,
+,,Cost of the Office Estate per full-time equivalent (FTE),Quarterly data - IPD Cost Codes Solution - currently with departments for feedback (18th November deadline). Will be alligned with Common Areas of Spend Estates Standard.,Quarter,"Current = Q2 2011-12 (Jul-Sep)
+Previous = Q1 2011-12 (Apr-Jun)",Office Accomodation over 500m2 for entire family,TBC,Management information,"Derived from cost of the most significant office occupations in the estate (details as above) and the FTEs (20,495) which occupy them. b. FTE Staff for this data set includes all full time and part time military and civilian staff and refers to office based FTE only. It does not include home workers. Part time and non-payroll staff, such as consultants, contractors, and other outsourced staff, have been converted to full-time equivalents using the factors as a guide for conversion to FTE: (1) Personnel working on a regular basis >30 hours per week – 1.00
+(2) Personnel working on a regular basis 20-30 hours per week – 0.75
+(3) Personnel working on a regular basis 15-20 hours per week – 0.50
+(4) Personnel working on a regular basis <15 hours per week – 0.25.
+(5) To qualify as a member of staff working in the premises, staff must use the premises as their main base and also expect to work at the premises for at least some part of a typical working week. Full time home working staff are excluded.",Derived from cost of the most significant office occupations in the estate (details as above),Quarterly Data not available annual cost for 10/11 = £274,,
+,,Procurement spend,"The total value of payments made to third party suppliers, excluding VAT.  This excludes payroll, non-cash expenditure (e.g. depreciation), grants and benefit payments, but should include capital, resource and programme spend on goods and services. For further guidance see the Common Areas of Spend Procurement Standards",Quarter,"Current = Q2 2011-12 (Jul-Sep)
+Previous = Q1 2011-12 (Apr-Jun)",Full,Commercial Function,Management information,"Procurement spend. The total value of payments made to third party suppliers, excluding VAT for 2009/10. This excludes payroll, non-cash expenditure (e.g. depreciation), grants and benefit payments, but should include capital, resource and programme spend on goods and services. Costs split by master category in Procurement Master Category Breakdown.",,,,
+,,Price of standard commodity items,"Price of a box of standard A4 white copier plain paper (typically 80 gsm) in £ units per 2,500 sheets of paper.
+
+Average price paid per KWH of energy in £ units.",Quarter,"Current = Q2 2011-12 (Jul-Sep)
+Previous = Q1 2011-12 (Apr-Jun)",Full,Commercial Function,Management information,"Price of a box of standard A4 white copier plain paper (typically 80 gsm) in £ units per 2,500 sheets of paper. MOD Standard = 80 gsm, 100% recycled, per box of 5 reams (2500 sheets). Average price paid per KWH of energy in £ units. (energy cost only based on volume weighted average of electricity and gas).",,"Price variation in accordance with agreed index. MOD spend on paper will be through the new Gov Office Supplies Contract from 01/10/11. Energy Price changes due to wholesale market price movements. Energy purchases are now conducted by GPS on MOD’s behalf. The make-up of the price quoted above was however largely based on purchases already made by MOD prior to Q1, with the residual volumes charged at wholesale market prices at end of each month in period. Prices for the next 12-18 months will continue to reflect handover from MOD to GPS. Current = Q2 2011-12 (Jul-Sep)
+Previous = Q1 2011-12 (Apr-Jun)",,
+,,Average price of energy(£/KWH),,,,,,,"Price of a box of standard A4 white copier plain paper (typically 80 gsm) in £ units per 2,500 sheets of paper. MOD Standard = 80 gsm, 100% recycled, per box of 5 reams (2500 sheets). Average price paid per KWH of energy in £ units. (energy cost only based on volume weighted average of electricity and gas).",,,,
+,,Total 3rd party ICT cost,"As defined in the Common Areas of Spend ICT Standards
+",Quarter,"Current = Q2 2011-12 (Jul-Sep)
+Previous = Q1 2011-12 (Apr-Jun)",Full,Commercial Function,Management information,"Total 3rd party ICT cost The total value of payments made to third party suppliers, excluding VAT.",Quarterly Data not available annual cost for 10/11 = £961M,2010-11 Annual Figure from MOD Annual Report and Accounts. ,,
+,,Desktop Cost per full-time equivalent,"As defined in the Common Areas of Spend ICT Standards.
+",Quarter,"Current = Q2 2011-12 (Jul-Sep)
+Previous = Q1 2011-12 (Apr-Jun)",Full,Commercial Function,Management information,"Desktop Cost per FTE.
+a. Total annual cost of Defence Information Infrastructure (Future) programme divided by number of User Access Devices (broadly desktops/ laptops). FTE values are based on the volumes of Accounts and UADs rolled out by the DII Programme to all 4 Services (RN, Army, RAF and CS) the average numbers for each of the FY 10/11.
+
+(1) UADs are shared by many servicemen who do not use IT for their primary role.
+(2) Figures in £.p. (ex VAT)
+Supplementary Notes.
+1. Service Based Contract
+2. Service Charges are Banded so unit cost decrease as volume increases
+3. Service Charges recover Design and Implementation costs
+4. Service Charges exclude Capital Asset costs
+5. VAT recovered under COSVAT agreement so figures above are ex-VAT
+6. Service Charges exclude costs associated with delivery and support of Business applications
+7. Figures exclude Secret, Deployed and Above Secret Environment
+8. Account Figures are averages for Occasional and Standard Restricted
+9. User Access Devices are averages for Fixed/Mobile Restricted
+10. Excludes costs of WAN provided by Networks Delivery Team",,"Current = Q2 2011-12 (Jul-Sep)
+Previous = Q1 2011-12 (Apr-Jun)",,
+,,"Corporate Service cost, broken out by functional area into HR (£nillion)","The total of staff, ccl, outsourced activity, shared services, joint venture / mutual, other external advisory and other direct function costs - as defined in the Common Areas of Spend Corporate Service Standards
+",Quarter,"Current = Q2 2011-12 (Jul-Sep)
+Previous = Q1 2011-12 (Apr-Jun)",Full,Finance Function,Management information,"Cost of HR function - Total cost of the HR function is based: a) on the average number of employees in the HR function (those on a HR job code), and; b) the capitation rates.
+Source: Data from MOD back office benchmark information 2009/10.
+",,,,
+,,Finance (£million),"The total of staff, ccl, outsourced activity, shared services, joint venture / mutual, other external advisory and other direct function costs - as defined in the Common Areas of Spend Corporate Service Standards
+",Quarter,"Current = Q2 2011-12 (Jul-Sep)
+Previous = Q1 2011-12 (Apr-Jun)",Full,Finance Function,Management information,"Cost of Finance Function -Cost of the Finance Function is based: a) on the average number of employees in the finance function (those on a resource management job code), and; b) the capitation rates.
+Source: Data from MOD back office benchmark information 2009/10.",,,,
+,,Procuremnt (£million),"The total of staff, ccl, outsourced activity, shared services, joint venture / mutual, other external advisory and other direct function costs - as defined in the Common Areas of Spend Corporate Service Standards
+",Quarter,"Current = Q2 2011-12 (Jul-Sep)
+Previous = Q1 2011-12 (Apr-Jun)",Full,Finance Function,Management information,"Cost of Procurement Function -Total cost of the procurement function is based: a) on the average number of employees in the Commercial function (those on a Commercial job code, and those in the DGDC and DE&S D Commercial's support organisations), and; b) the capitation rates.
+Source: Data from MOD back office benchmark information 2009/10.",The procurement figure represents the total cost of the commercial function in Defence based on capitation rates for staff in posts with a commercial job code. The figure covers the central Department only ie: it does not include Trading Funds.,,,
+,,Legal (£million),"The total of staff, ccl, outsourced activity, shared services, joint venture / mutual, other external advisory and other direct function costs - as defined in the Common Areas of Spend Corporate Service Standards
+",Quarter,"Current = Q2 2011-12 (Jul-Sep)
+Previous = Q1 2011-12 (Apr-Jun)",Full,Finance Function,Management information,"Legal
+£37.7m
+Cost of Legal Function - Total cost of the Legal function is based: a) on the average number of Government Legal Service (GLS) lawyers and the admin and support staff that work to them, and; b) the capitation rates. Overseas local hire support staff have been included, but non GLS lawyers at those locations have not. In addition, data relating to Service lawyers or staff employed in the DSP or MOD Claims is not included. It does not include the Hydrographic Office or the Met Office.
+Source: Data from MOD back office benchmark information 2009/10.",,,,
+,,Communications (£million),"The total of staff, ccl, outsourced activity, shared services, joint venture / mutual, other external advisory and other direct function costs - as defined in the Common Areas of Spend Corporate Service Standards
+",Quarter,"Current = Q2 2011-12 (Jul-Sep)
+Previous = Q1 2011-12 (Apr-Jun)",Full,Finance Function,Management information,"Communications
+£94.1m
+Detail definition: Either use: (a) OEP definitions or (b) department own definitions. Please specify definitions within caveats.
+Cost of Communications Function - Total cost of the Communication function",,,,
+,,"Fraud, Error, Debt
+
+Total Identified Fraud (£million)
+
+
+
+
+
+","As defined in the Common Areas of Spend Fraud, Error and Debt Standards. Fraud and Error should be calculated for all areas defined in the Standards - Procurement, Payroll, Grants, Tax and Other
+
+
+
+
+
+Debt and debtor days should be those arising from Fraud and Error, but cover all areas of debt - Debt Type, Tax, Benefits, Fines and penalties, Loans, Sales of goods and services, Other/sundry.
+",Quarter,"Current = Q2 2011-12 (Jul-Sep)
+Previous = Q1 2011-12 (Apr-Jun)",Full,Finance Function,Management information,"Fraud = Reported incidents
+Source: Consolidated Departmental Resource Accounts 10/11.
+Error
+N/A
+Error – data not available
+Debt
+£XXXm
+Debt – Includes
+Trade receivables due within one year, Receipts from Supplies and services and income from provision of goods and services. Some of this debt is from foreign governments, and may have been outstanding for several years.
+Source: Consolidated Departmental Resource Accounts 1/110.
+Debtor days
+xxx
+Debtor days –
+During the course of financial year 2010/11 debt was recovered as follows:
+Within 30 days X% by value was recovered
+Within 40 days X% by value was recovered
+Within 50 days X% by value was recovered
+Within 60 days X% by value was recovered",,"Error figures not available. All other figures annual.
+","Quarterly Data Not Available. Fraud = 10/11 1025 Reported incidents
+Error – data not available
+Debt - £188M
+Debtor days - 219 days",
+,,Total Known Errors (£million),,,,,,,Error – data not available,,,"Quarterly Data Not Available. Fraud = 10/11 1025 Reported incidents
+Error – data not available
+Debt - £188M
+Debtor days - 219 days",
+,,Total Debt (£million),,,,,,,"Debt – Includes
+Trade receivables due within one year, Receipts from Supplies and services and income from provision of goods and services. Some of this debt is from foreign governments, and may have been outstanding for several years.
+Source: Consolidated Departmental Resource Accounts 1/110.",,,,
+,,Total Debtor Days,,,,,,,"Debtor days –
+During the course of financial year 2010/11 debt was recovered as follows:
+Within 30 days X% by value was recovered
+Within 40 days X% by value was recovered
+Within 50 days X% by value was recovered
+Within 60 days X% by value was recovered",,,"Quarterly Data Not Available. Fraud = 10/11 1025 Reported incidents
+Error – data not available
+Debt - £188M
+Debtor days - 219 days",
+,,"Voluntary and community sector (VCS)/Small and medium enterprises (SME)
+
+Procurement spend with SME (£)
+
+
+
+
+
+","The total direct (ie prime contractor only) procurement spend with SMEs / VCS, excluding VAT, as defined in the Common Areas of Spend Procurement Standards.
+
+The total grant spend with VCS.",Quarter,"Current = Q2 2011-12 (Jul-Sep)
+Previous = Q1 2011-12 (Apr-Jun)",Full,Finance Function,Management information,"SME’s
+a. Sum of procurement spend / grant spend with SMEs (organisations with less than 250 employees per European Commission definition found at: http://ec.europa.eu/enterprise/policies/sme/facts-figures-analysis/sme-definition/index_en.htm).
+b. We are unable to split this information into Spends and Grants.
+c. Does not include contracts set up through third parties such as Prime Contractors
+d. This gives the value of new contracts placed with SMEsThe data underpinning this analysis has been extracted from the MOD contracts database. The contracts database contains information on the majority of new contracts and reflects transactions made through the MOD’s central Financial Management Shared Service Centre. Contracts not included are those which may have been set up:
+(1) On behalf of other government departments;
+(2) By the MOD’s Trading Funds and Executive Non Departmental Public Bodies (which lie outside the MOD’s accounting boundary);
+(3) Locally by the Department;
+(4) In relation to collaborative projects where the payments are made through international procurement agencies or overseas governments; and
+(5) For service items such as the provision of utilities which do not require an actual contract number to be generated.
+Source: Defence Analytical Services and Advice (DASA)                                                                                                                                                                                           VCS
+a. Sum of procurement spend / grant spend with VCS organisations, as a % of total budget.
+b. We are unable to split this information into Spend and Grants.
+c. VCS Organisations definition can be found at Charity Commission website.",,"Quarterly Data not available annual cost for 10/11 = Spend With SMEs - £686M. Spend and grants with/to VCS cannot be split, joint total  - £148M","Quarterly Data not available annual cost for 10/11 = Spend With SMEs - £686M. Spend and grants with/to VCS cannot be split, joint total  - £148M",
+,,Procurement spend with VCS (£),,,,,,,,,,,
+,,Grants to VCS (£),,,,,,,,,,,
+,Financial Indicators,"Accuracy of Cash Forecasting
+
+",Cashflow Management Scheme: Departments with a gross cashflow of over £3bn p.a. provide daily and monthly forecasts of their gross cash payments and receipts up to six weeks ahead. Smaller departments provide monthly forecasts only.The scheme monitors the difference between the forecast and outturn and expresses the difference as a percentage variance on forecast.. Target is for the outturn to be within 5% of the forecast.”,Quarter,"Current = Q2 2011-12 (Jul-Sep)
+Previous = Q1 2011-12 (Apr-Jun)",All departments,Departmental Cashflow Management outturns,Management information,,"Current = Q2 2011-12 (Jul-Sep)
+Previous = Q1 2011-12 (Apr-Jun)",,,
+,,"Working Capital Forecast
+[% variance of Actual v Forecast]","The percentage variance of forecast to actual working capital. 
+
+Working capital is calculated as : Total current assets less total current liabilities
+
+o Current Assets
+- Inventories
+- Current trade and other receivables
+- Cash and cash equivalents
+- Other current financial assets
+- Assets classified as held for sale
+o Current Liabilities
+- Current trade and other payables
+- Gilt edged stock
+- Other current liabilities                                                                                                                                                                                                                                                                             ",Quarterly,"Current = Q2 2011-12 (Jul-Sep)
+Previous = Q1 2011-12 (Apr-Jun)
+
+* where possible",Full,Management Information and Annual Accounts ,Management information,,,,"This QDS shows the Working Capital Forecast and Net Book Value Forecast as a percentage, which shows the difference between what was forecasted at AP03 for AP06 compared to the actuals at AP06. The reason there are no figures in the previous column, is that the last QDS reported these Indicators as a figure. It would be meaningless to show these as they cannto be compared to the Current percentages. Going forward, the data will be shown in percentage format.",
+,,Net Book Value (%) [% variance of Actual v Forecast],"The percentage variance of forecast to actual Net Book Value(NBV) of Fixed Assets. 
+
+NBV of fixed assets is calculated  as the historic cost or valuation (of the assets included) less accumulated depreciation (i.e. depreciation to date) of the assets. 
+
+Note that in WGA, Fixed Assets are referred to as ""Non-current assets"" and include the following:
+- property, plant and equipment
+- investment property
+- intangible assets
+- non-current trade and other receivables
+- Other non-current financial assets                                                                                                   ",Quarterly,"Current = Q2 2011-12 (Jul-Sep)
+Previous = Q1 2011-12 (Apr-Jun)
+
+* where possible",Full,Management Information and Annual Accounts ,Management information,,,,"This QDS shows the Working Capital Forecast and Net Book Value Forecast as a percentage, which shows the difference between what was forecasted at AP03 for AP06 compared to the actuals at AP06. The reason there are no figures in the previous column, is that the last QDS reported these Indicators as a figure. It would be meaningless to show these as they cannto be compared to the Current percentages. Going forward, the data will be shown in percentage format.",
+,Major Projects (Top 5),Project A,Whole life department cost as defined in the Major Projects Authority (MPA) guidelines.,Full life,Most recent forecast,Full,Departmental internal reporting systems,Management information," The Value of Major Projects covers the total forecast cost of the MOD’s top 15 Projects as published in the Major Projects report validated by the national Audit Office; these will form the basis for selection of the final list of Major Projects between Efficiency Reform Group (ERG) and MOD.
+Approved acquisition cost is the endorsed basis for reporting the forecast cost of projects where the MOD has approved a main investment decision.",,,,
+,,Project B,,,,,,,"Major Projects
+a. Typhoon - Typhoon is core to the RAF’s combat aircraft capability and emphasized the Government’s commitment to develop Typhoon into a fully multi-role aircraft which can conduct both air-to-air and ground attack missions.
+b. Future Strategic Tanker Aircraft - is a Public Finance Initiative (PFI) project to replace the RAF’s fleet of VC10 and TriStar aircraft in the Air-to-Air Refuelling (AAR) and most Passenger Air Transport (AT) roles.
+c. Astute submarine - the Royal Navy’s future nuclear powered attack submarine project
+d. Type 45 Destroyer - the project to deliver Royal Navy’s Anti-Air Warfare Destroyer.
+e. Queen Elizabeth Class Aircraft Carriers, which will form the basis of the Royal Navy’s future carrier strike capability.",,,,
+,,Project C,,,,,,,,,,,
+,,Project D,,,,,,,,,,,
+,,Project E,,,,,,,,,,,
+,,£m whole life cost of major projects,,,,,,,,,,,
+Results,Input Indicators,1,"As per Business Plan and Business Plan Measurement Annex Additional cost of operations in Afghanistan, per Service person deployed",,,,,,Cost of Operations funded from the Reserve by average number of Service Persons deployed to Afghanistan,,,,
+,,2,"Additional cost of new equipment (urgent operational requirements) for operations in Afghanistan, per Service person deployed",,,,,,Cost of UORs by average number of Service Persons deployed to Afghanistan,,,"This Figure has been updated, as this was transposed in the last QDS. It should have been based on £583m instead of £538m.",
+,,3,Cost of standing military commitments/tasks and contingent overseas operations per committed Service person,,,,,,"Cost of standing military tasks and contingent overseas operations by Service Personnel committed to these tasks. (examples of military tasks: Independent Nuclear Deterrent, Defence of UK Airspace and Waters, Security of UK Overseas territories, Piracy). This measure excludes Afghanistan.",,,,
+,,4,Average percentage by which the cost of the MOD equipment programme varies compared to forecasts in year,,,,,,"Percentage change in forecasted cost for design and manufacture phase, for all Category A - C equipment projects that have passed their main investment decision point (""Main Gate""). Category A - C projects are defined as those with a capital value greater that £20M. Projects that fall below this threshold are excluded from this indicator.",,,,
+,,5,"Cost of major force elements, per ship, per brigade, per aircraft (fast jet), per helicopter",,,,,,Equipment and manpower costs per appropriate fighting unit. Fighting units defined as Frigates and Destroyers; Brigades; Fast Jets (Tornadoes and Typhoon) and Military Helicopters.,,,,
+,,6,Cost/benefit ratio of the major change and efficiency programmes being undertaken in Defence,,,,,,Cost of programmes / level of projected benefits through the Defence Change Portfolio and Efficiency Programmes.,,,,
+,,7,"Percentage of non-front line costs versus front line costs, split by service",,,,,,"Direct costs of service personnel classified as 'non-frontline' as a proportion of total direct service personnel costs, split be service",,,,
+,,8,"Direct personnel costs, per Service person",,,,,,"Direct Service Personnel costs including standing allowances, divided by the total number of Service Persons. ",,,,
+,,9,"Direct personnel costs, per MOD civilian (split by Top Level Budget)",,,,,,"Direct Civilian personnel costs  including standing allowances divided by the total number of civilians in each Top Level Budget (TLB), including Trading Funds",,,Please refer to the 'People' Section for the Civilian Statistics.,
+,,10,Defence spending as a percentage of Gross Domestic Product,,,,,,Total Defence Spending as a defined by NATO as a percentage of GDP,,,,
+,,11,,,,,,,,,,,
+,,12,,,,,,,,,,,
+,"Impact Indicators
+",1,As per Business Plan and Business Plan Measurement Annex Progress toward a stable and secure Afghanistan ,,,,,,"The MOD's primary contribution is to contribute towards the ISAF-led operational campaign in Afghanistan where the UK provides the second largest contingent of forces (after the US). Indicators could be measured by the numbers of Afghan National Security Forces (ANSF) trained by the international ISAF coalition (against agreed targets) to seek to achieve the Government's national security objective of establishing a stable and secure Afghanistan. 
+Working closely with FCO, DFID and the international community, the MOD is engaged in building the Afghan capability for security, in particular through the provision of UK troops for training, partnering and mentoring of Afghan National Security Forces. Detailed descriptions of progress, supported by a range of qualitative and quantitative assessments, will be provided in monthly reports to Parliament. Measures of Progress are also provided on a regular basis on ANSF development and attrition of the insurgency to the NSC. [Please note that MOD indicators for our role in Afghanistan should be considered in conjunction with FCO's indicator.]",,,,
+,,2,Number of Service personnel deployed to support civil agencies (e.g. police and fire service) during emergencies,,,,,,"Total number of personnel deployed e.g. 250 deployed on several tasks throughout the year e.g. floods, foot and mouth etc. ",,,,
+,,3,Number of attachés and advisors deployed in support of conflict prevention and defence diplomacy activities,,,,,,Total number of Attachés and Advisors deployed and number of locations covered e.g. 250 deployed covering 122 countries. ,,,,
+,,4,Number of Service and MOD civilian personnel deployed on all operations in a year,,,,,,Total number of Service Personnel deployed (Current/Standing/Contingent) divided by the total number of personnel available for deployment.,,,,
+,,5,"Number of Force Elements (typically ships, aircraft or ground force sub units) showing critical or serious weakness against the total number of force elements for Strategy of Defence priorities",,,,,,Number of Force Elements against total number showing weakness. Force elements reported are Frigates and Destroyers; Brigades; Fast jets (Tornadoes and Typhoon) and Military Helicopters,,,,
+,,6,Average number of months that the MOD equipment programme is delayed in year,,,,,,"Net slippage across all Category A-C equipment projects (in months), that have passed Main Gate Approval.  Category A-C projects are defined as those with a capital value greater than £20M that have passed their main investment decision (""Main Gate"").",,,,
+,,7,Percentage of Service Personnel (SP) that are deployable,,,,,,Number of SP who are classed as 'Medically Fully Deployable' or 'Medically Limited Deployable' as a proportion of Trained Strength;,,,,
+,,8,Percentage change in filling skills areas where there are insufficient trained service personnel to meet the specified requirements,,,,,,"Percentage change in Operational Pinch Points (OPPs); - a branch specialisation, sub-specialisation or area of expertise, where the shortfall in Trained Strength (officers or ratings/other ranks) is such that it has a detrimental impact on operational effectiveness.",,,,
+,,9,Percentage of Service personnel (split by Officers and Other Ranks) who are satisfied with Service life in general,,,,,,Percentage of Service Personnel (split by Officers and Other Ranks) who are satisfied with Service life in general,,,,
+,,10,Overall public favourability of the UK Armed Forces,,,,,,Overall public favourability of the UK Armed Forces,,,,
+,,11,,,,,,,,,,,
+,,12,,,,,,,,,,,
+,"Other data sets
+",1,"Departments to carry out further work to identify which to include in the QDS, in line with guidance/agreeement from the centre.",,,,,,,,,,
+,,2,,,,,,,,,,,
+,,3,,,,,,,,,,,
+,,4,,,,,,,,,,,
+,,5,,,,,,,,,,,
+,"Structural Reform Plan Actions
+",Total number of actions completed in the Quarter,The number of actions completed as agreed alongside the Number 10 Business Plan monitoring process.,Quarter,"Current = Q3 2011-12 (Oct-Dec)
+Previous = Q2 2011-12 (Jul-Sep)",Full,Departmental internal reporting systems,Management information,,,,,
+,,Total number of actions overdue,The number of actions overdue over the period as agreed alongside the Number 10 Business Plan monitoring process.,Quarter,"Current = Q3 2011-12 (Oct-Dec)
+Previous = Q2 2011-12 (Jul-Sep)",Full,Departmental internal reporting systems,Management information,,,,,
+,,Number of overdue actions that are attributable to external factors,The number of actions overdue over the period as agreed alongside the Number 10 Business Plan monitoring process that are due to external factors.,Quarter,"Current = Q3 2011-12 (Oct-Dec)
+Previous = Q2 2011-12 (Jul-Sep)",Full,Departmental internal reporting systems,Management information,,,,,
+,,Total number of actions ongoing,The number of actions ongoing over the period as agreed alongside the Number 10 Business Plan monitoring process.,Quarter,"Current = Q3 2011-12 (Oct-Dec)
+Previous = Q2 2011-12 (Jul-Sep)",Full,Departmental internal reporting systems,Management information,,,,,
+,,Total number of actions in the business plan that have yet to start,The number of actions yet to start over the period as agreed alongside the Number 10 Business Plan monitoring process.,Quarter,"Current = Q3 2011-12 (Oct-Dec)
+Previous = Q2 2011-12 (Jul-Sep)",Full,Departmental internal reporting systems,Management information,,,,,
+People,Whole Department Family; Workforce Size,"Payroll Staff
+
+Department and Agencies","The number of payroll FTE staff in post in the organisations in scope as at the specified reference date. 
+
+Methodology as per ONS QPSES/CO monthly MI collection.
+
+The figures reported should align with those that organisations have reported to ONS QPSES and CO monthly workforce MI collection as appropriate.
+Any differences should be noted.
+Civil Service organisations includes the three crown NDPBs: HSE, ACAS and CMEC where appropriate.",Quarter,"Current =  position as at 30th September 2011
+Previous = position as at 30th June 2011",All departmental Civil Service organisations,Organisations HR Systems,Management information,"Based on converting part time employees’ hours into a full-time employees’ equivalent. Exclude paid and unpaid overtime from full-time equivalent calculations. Round your total full-time equivalents to the nearest whole number.
+An employee is anyone aged 16 years or over that your organisation directly pays from its payroll(s), in return for carrying out a full-time or part-time job or being on a training scheme. Each employee should have a contract of employment.
+Include: - agency workers paid directly from the organisation’s payroll(s) - those temporarily absent but still on the payroll(s), for example on maternity leave.
+Exclude: - agency workers paid directly from the agency payroll, the self-employed, voluntary workers, former employees only receiving a pension. # FTE’s. This figure only includes Civilian FTE
+a. Full Time Permanent Staff Positions Include Royal Fleet Auxiliary staff, but excludes Military, Trading Funds and Locally Engaged Civilian personnel.
+b. A number of staff are excluded by aligning DASA non-effective code to the ONS definition of public sector employees. Employees on the following codes have been excluded - Long term sickness, Career Break, On loan to private companies and staff on unpaid leave.
+c. Army Base Repair Organisation and Defence Aviation Repair Agency are combined to form the ""Defence Support Group"" since April 2008.
+d. All figures have been rounded in order to protect confidentiality in line with Data Protection Act requirements.
+e. Figures are individually rounded to the nearest 10 and may not sum precisely to the totals shown.",,,"The 'Previous' figure has been updated, due to incorrect Trading Fund Figure used in the last QDS. Should have been 9,250 instead of 9,240.",
+,,"Non-departmental public bodies
+","The number of payroll FTE staff in post in the organisations in scope as at the specified reference date. 
+
+Methodology as per ONS QPSES/CO monthly MI collection.
+
+To ensure consistency with the future planned publication of CO monthly workforce MI returns, departments should report FTE employment in eNDPBs consistent with the organisations in scope for the CO monthly exercise. Any differences between the organisations included for the QDS and those included by the department in their monthly workforce returns should be noted as appropriate.
+NB: Due to a minimum employment requirement applying to ONS QPSES, total executive NDPB employment numbers may not align with summary departmental eNDPB employment levels published in QPSES
+",,,"All department's Executive NDPBs as reported for CO monthly workforce MI collection.
+
+NB: where there are additions or ommisions in the organisations included in the figure for FTE employment, then this should be mentioned in the final column.",,,This figure cannot be provided.,,,"DASA generate Civilian Statistics for the Department, which is used for the QDS. As DASA do not produce statistics for NDPBs, this data field cannot be completed.",
+,,"Department Family (Total)
+",Total of the two rows above,,,All organisations within ministerial responsibility,,,,"Total number of civilians Excluding Trading Funds, Military, Locally Engaged Civilian Personnel.",,,
+,,"Average Staff Cost
+","Please supply paybill per head – as defined in HMT’s Civil Service Pay Guidance. This is the total paybill cost divided by staff in post (FTE).  
+
+The paybill costs should include:
+o Staff salaries;
+o Allowances;
+o Overtime payments;
+o Non-consolidated pot;
+o ERNIC;
+o Employers’ pensions contributions.
+
+Figure presented should be a rolling annual average i.e. Current period will show total paybill costs for the year ending the reference period, divided by the average FTE staff in post over the year (where the average staff in post should be a simple average i.e. (the FTE staff in post at start of period plus FTE staff in post at end of period) divided by 2. The previous period will present a figure for the year ending the previous quarter.
+
+Departments should present a figure as defined, but given that organisations are supplying paybill costs each month to CO for the monthly workforce MI collection, they should look to ensure that, where appropriate, information is consistent across both the monthly MI returns and their QDS.",Quarter,"Current =  year ending 30th September 2011
+Previous = year ending 30th June 2011","Main department, executive agencies, crown NDPBs (where applicable) and executive NDPBs",HR and Payroll/Finance systems.,Management information,"Average Civilian Staff Cost. This is the total civilian paybill cost divided by staff in post (FTE).
+Paybill costs include:
+a. Payroll Costs (Including, salaries, bonuses, total allowances (e.g. overtime, relocation), Employers National Insurance (NI) contribution, Employers Pension Contribution).
+b. Other staff benefits (e.g. healthcare and welfare support, subsidised facilities, season ticket loans).
+c. Other non-payroll staff costs (e.g. training, travel and subsistence) (including, External Training – Civilian, Civilian HR training and education – External Assistance (EA), Civilian long term detached duty (LTDD), Civilian short term detached duty (STDD), Civilian STDD Air Travel, Civilian Permanent in the Public Interest (PPI) Move Costs).
+d. These figures do not include the following staff: Service personnel, Trading Funds, the Royal Fleet Auxiliary (RFA), Locally Engaged Contractors (LEC).
+e. Bonus payments include non-consolidated performance awards and incentives paid to Senior Civil Service (SCS) and non-SCS staff, and special bonus scheme pay.
+Source: Defence Analytical Services and Advice (DASA)
+Reference date for baseline value: 31 March 2011","These figures do not include the following staff: Service personnel, Trading Funds, the Royal Fleet Auxiliary (RFA), Locally Engaged Contractors (LEC).","This figure is only available annually, as it can only be derived from the Treasury PayBill Remit, so this figure is applicable for the rest of year.",,
+,,"Contingent Labour
+
+Department and Agencies","The number of agency staff, specialist contractors, interim managers or consultants engaged – these non-payroll staff being commonly referred to as ‘contingent labour’.
+
+Organisations should ensure consistency with the information supplied for the Cabinet Office monthly workforce MI collection.",Quarter,"Current =  position as at 30th September 2011
+Previous = position as at 30th June 2011","Main department and its agencies, and where applicable, crown NDPBs i.e. CMEC, HSE and ACAS. In effect all the department's Civil Service organisations",Organisations HR Systems,Management information,,,,"The reason there is a difference between the NDPB figure from previous QDS, is due to the accuarte definition being used in this QDS (Which states to use the Cabinet Office definition for CL for NDPBs). The last QDS used all the NDPBs, therefore showing a higher figure.",
+,,Non-departmental public bodies,,,,Executive NDPBs as reported for CO monthly workforce MI collection,,,,,,,
+,,Department Family,,,,All organisations within ministerial responsibility,,,,,,,
+,Department & Agencies only; ,"Workforce Shape
+
+- Administrative Assistants and
+
+
+","The proportion of staff mapped across to the standard Civil Service grades.
+SCS staff should be those at SCS level.
+
+All Civil Service organisations should be able to map to the standard Civil Service grades - this is the same as the process that occur each year as part of the annual civil service employmnent survey.
+Where organisations do not operate the standard Civil Service grades, they should supply their best estimate, mapping across to the broad responsibility levels as appropriate.
+Unknown grades should be apportioned across the grades as necessary so that underlying numbers align with the number of FTE payroll staff supplied above. Where underlying numbers are not consistent, departments should provide an explanatory note in their meta-data sheet.
+
+Departments have now been asked to supply proportions in each grade rather than raw numbers. This is because this is easier to interpret and is consistent with the measures for diversity.
+
+Organisations should ensure consistency with the information supplied for the Cabinet Office monthly workforce MI collection.
+Underlying numbers used to calculate proportions should align with the number of FTE staff papyroll staff supplied above.
+At the appropriate reference point i.e. end of March, figures should align with the ONS Annual Civil Service Employment Survey (ACSES), where approporiate. Any discrepancies should be noted as necessary in the final column.",Quarter,"Current =  position as at 30th September 2011
+Previous = position as at 30th June 2011","Main department and its agencies, and where applicable, crown NDPBs i.e. CMEC, HSE and ACAS. 
+In effect all the department's Civil Service organisations",,Management information,"The number of FTE staff working in the department disaggregated by the standard Civil Service responsibility levels. Core MOD (we have no grade information for Trading Funds, RFAs and LECs - note none of the grade splits asked for include Industrials, so these figures do not sum to the Core MOD total","Represents only the Non-Industrial core MOD Civilian Personnel. Excludes, Trading Funds, Military, Locally Engaged Civilian Personnel and Royal Fleet Auxiliary (RFA).",,,
+,, Executive Officers,,,,,,,,,,,
+,,Higher and Senior Executive Officers,,,,,,,,,,,
+,,Grade 7/6,,,,,,,,,,,
+,,Senior Civil ,,,,,,,,,,,
+,,Servants,,,,,,,,,,,
+,,"Part Time
+","The number of staff working less than standard hours divided by all staff (headcount basis - expressed as a percentage).
+
+Organisations should ensure that figures align with those supplied to ONS for their quarterly public sector employment statistics (QPSES)",,,,,,Number of part time Employees (headcount) / Total number of employees (full-time and part-time: headcount),"Represents only the Non-Industrial core MOD Civilian Personnel. Excludes, Trading Funds, Military, Locally Engaged Civilian Personnel and Royal Fleet Auxiliary (RFA).",,,
+,,"Workforce Dynamics
+
+Recruitment Exceptions
+","The number of recruitment exceptions that have been approved during the quarter.
+
+Where appropriate, organisations should ensure that figures align with those supplied to Cabinet Office for their quarterly exceptions reporting collection in 2010/11. For 2011/12, organisations need only report their exceptions on their QDS - at this stage they do not need to also report separately each quarter to the Cabinet Office.
+
+Organisations should report the number of exceptions for each discrete quarter rather than a cumulative annual position.",Quarter,"Current = Q2 2011-12 (Jul-Sep)
+Previous = Q1 2011-12 (Apr-Jun)",,Organisations internal monitoring,Management information,"Definition of ""(cumulative) number of approved exceptions to the freeze on external recruitment to the Civil Service.""
+This is cumulative recruitment for the quarter ending Sep 2011. However it must be noted that DASA cannot determine whether these recruitments were authorised as approved exceptions, although we assume with the recruitment freeze in place all recruitments must fall into this category.",, This figure only includes Civilian FTE,,
+,,"Annual Turnover Rate
+","Annual turnover rate (Headcount basis): The number of staff exiting the organisation during the year ending the reference period, divided by the average staff in post over the year ending the reference period (where the average staff in post is calculated as the number of staff in post at the start and end of the relevant period divided by 2, and leavers are ALL leavers exiting the organisation during the period). Each quarter’s figure will show an annual turnover rate for the year ending that quarter.
+
+The definition used here is one of many interpretations of 'turnover'. Whilst we appreciate that organisations may use different measures for their own internal monitoring, we have opted for the described measure to ensure consistency across departments. Where organisations wish to make other measures available, they are free to do so in accompanying commentary or their meta-data sheet as appropriate.
+
+Figures used in the calculation of the denominator should be consistent with those used elsewhere.
+",Quarter,"Current =  year ending 30th September 2011
+Previous = year ending 30th June 2011",,Organisations HR Systems,Management information,Treasury are aware that MOD cannot provide the Turnover Rate. This figure is unavilable.,,,,
+,,"Workforce Diversity [Total]
+
+BME","Number of staff recorded as BME/ Total number of staff with a recorded ethnicity (headcount basis - expressed as a percentage).
+NB: Unknown and undeclared ethnicity status staff should be excluded from the denominator.
+
+At the appropriate reference date (end of March) figures should align with those supplied for ONS ACSES.
+",Quarter,"Current =  position as at 30th September 2011
+Previous = position as at 30th June 2011",,,Management information,"Number of staff recorded as BME/ Total number of staff (headcount basis). Based on the self-declaration made from self-perceptions of Core MOD diversity representation as a proportion of those who have made declarations (excluding all ""choose not to declare"" and those who have not responded). As such, this figure is not necessarily representative of the true minority diversity group representation. The figure excludes Trading Funds (where we have incomplete diversity information) and RFAs and LECs (where no diversity information exists).","The figure excludes Military, Trading Funds (where we have incomplete diversity information) and RFAs and LECs (where no diversity information exists)."," This figure only includes Civilian FTE
+SCS BME figure not given on data protection grounds",,
+,,Women,"Number of female/ Total number of staff (headcount basis - expressed as a percentage).
+
+Each quarter figures should align with those supplied for ONS QPSES and for ACSES (as at end of March).",Quarter,,,,Management information,"Number of female staff / Total number of staff (headcount basis). This is Core MOD excluding Trading Funds, RFAs and LECs for consistency with other diversity figures (RFAs and LECs have no gender data). Gender is a derived field and is not based on self declaration, so these values do correspond to the entire Core MOD civilian personnel.","The figure excludes Military, Trading Funds (where we have incomplete diversity information) and RFAs and LECs (where no diversity information exists).", This figure only includes Civilian FTE,,
+,,"
+Disabled
+","Number of disabled people/ Total number of staff with a recorded disabled status (headcount basis - expressed as a percentage)
+NB: Unknown and undeclared disabled status staff should be excluded from the denominator.
+
+At the appropriate reference date (end of March) figures should align with those supplied for ONS ACSES.",Quarter,,,,Management information,"Number of staff recorded as disabled / Total number of staff (headcount basis). Based on the self-declaration made from self-perceptions of Core MOD diversity representation as a proportion of those who have made declarations (excluding all ""choose not to declare"" and those who have not responded). As such, this figure is not necessarily representative of the true minority diversity group representation. The figure excludes Trading Funds (where we have incomplete diversity information) and RFAs and LECs (where no diversity information exists).","The figure excludes Military, Trading Funds (where we have incomplete diversity information) and RFAs and LECs (where no diversity information exists). The disability field on HRMS was reset on 18 April 2011 to accommodate the new disability reporting requirements, due to change in law. Consequently all personnel were
+required to redeclare.Disability statistics will not be collected until the data becomes reliable.", This figure only includes Civilian FTE,,
+,,"Workforce Diversity 
+[Senior Civil Servants only]
+
+BME","as BME staff above but for SCS level staff only.
+
+There was an error in the detailed definition supplied for the first QDS - the denominator was incorrectly described as all SCS staff.
+The denominator definition has now been amended.
+
+Organisations were previously (for QDS1) requested to report figures in line with that supplied for the Cabinet Office bi-annual SCS database collection. Given that we wish to ensure more timely access to the most recent available data, organisations should in future supply SCS diversity figures as at the specified reference date as appropriate, sourcing these from their internal HR systems. This will mean that figures are in line with diversity figures supplied for delegated grades.
+Where appropriate, organisations may still wish to satisfy themselves that numbers supplied for the CO SCS database (as at 31 March and 30 September each year) are consistent with those supplied for their QDS for the relevant reference periods. NB: Numbers may not always align since the SCS database collects information on core SCS staff and therefore excludes some senior staff who may be working at an equivalent level to SCS staff but who are not considered part of the SCS proper.",Biannual,,,,Management information,Number of SCS staff recorded as BME  / Total number of SCS staff (headcount basis). ~ represents percentage based on an actual figure less than 5 has been suppressed for reasons of potential disclosure,"The figure excludes Military, Trading Funds (where we have incomplete diversity information) and RFAs and LECs (where no diversity information exists).", This figure only includes Civilian FTE,,
+,,Women,"as Female staff above but for SCS level staff only.
+
+There was an error in the detailed definition supplied for the first QDS - the denominator was incorrectly described as all SCS staff.
+The denominator definition has now been amended.
+
+Organisations were previously (for QDS1) requested to report figures in line with that supplied for the Cabinet Office bi-annual SCS database collection. Given that we wish to ensure more timely access to the most recent available data, organisations should in future supply SCS diversity figures as at the specified reference date as appropriate, sourcing these from their internal HR systems. This will mean that figures are in line with diversity figures supplied for delegated grades.
+Where appropriate, organisations may still wish to satisfy themselves that numbers supplied for the CO SCS database (as at 31 March and 30 September each year) are consistent with those supplied for their QDS for the relevant reference periods. NB: Numbers may not always align since the SCS database collects information on core SCS staff and therefore excludes some senior staff who may be working at an equivalent level to SCS staff but who are not considered part of the SCS proper.",Biannual,,,,Management information,"Number of female SCS staff / Total number of SCS staff (headcount basis). This is Core MOD excluding Trading Funds, RFAs and LECs for consistency with other diversity figures (RFAs and LECs have no gender data). Gender is a derived field and is not based on self declaration. These figures are published in the Diversity Dashboard, and as a result of the required definitions, those of SCS equivalent, who do not hold a designated SCS post are not included. Designated SCS posts in Trading Funds are also not included.","The figure excludes Military, Trading Funds (where we have incomplete diversity information) and RFAs and LECs (where no diversity information exists).", This figure only includes Civilian FTE,,
+,,Women in Top Management Posts’,"Number of female SCS level staff at payband 2 (Director) or above/ Total number of SCS level staff at Director level or above (headcount basis - expressed as a percentage).
+
+There was an error in the detailed definition supplied for the first QDS - the denominator was incorrectly described as all SCS staff.
+The denominator definition has now been amended.
+
+Organisations were previously (for QDS1) requested to report figures in line with that supplied for the Cabinet Office bi-annual SCS database collection. Given that we wish to ensure more timely access to the most recent available data, organisations should in future supply SCS diversity figures as at the specified reference date as appropriate, sourcing these from their internal HR systems. This will mean that figures are in line with diversity figures supplied for delegated grades.
+Where appropriate, organisations may still wish to satisfy themselves that numbers supplied for the CO SCS database (as at 31 March and 30 September each year) are consistent with those supplied for their QDS for the relevant reference periods. NB: Numbers may not always align since the SCS database collects information on core SCS staff and therefore excludes some senior staff who may be working at an equivalent level to SCS staff but who are not considered part of the SCS proper.",Biannual,,,,Management information,"Number of female SCS staff in the Top Management Posts Group (SCS2, SCS3, PS) / Total number of SCS staff. This is Core MOD excluding Trading Funds, RFAs and LECs for consistency with other diversity figures (RFAs and LECs have no gender data). Gender is a derived field and is not based on self declaration. These figures are published in the Diversity Dashboard, and as a result of the required definitions, those of SCS equivalent, who do not hold a designated SCS post are not included. Designated SCS posts in Trading Funds are also not included.","The figure excludes Military, Trading Funds (where we have incomplete diversity information) and RFAs and LECs (where no diversity information exists).", This figure only includes Civilian FTE,,
+,,"
+Disabled
+","as disabled people above but for SCS level staff only.
+
+There was an error in the detailed definition supplied for the first QDS - the denominator was incorrectly described as all SCS staff.
+The denominator definition has now been amended.
+
+Organisations were previously (for QDS1) requested to report figures in line with that supplied for the Cabinet Office bi-annual SCS database collection. Given that we wish to ensure more timely access to the most recent available data, organisations should in future supply SCS diversity figures as at the specified reference date as appropriate, sourcing these from their internal HR systems. This will mean that figures are in line with diversity figures supplied for delegated grades.
+Where appropriate, organisations may still wish to satisfy themselves that numbers supplied for the CO SCS database (as at 31 March and 30 September each year) are consistent with those supplied for their QDS for the relevant reference periods. NB: Numbers may not always align since the SCS database collects information on core SCS staff and therefore excludes some senior staff who may be working at an equivalent level to SCS staff but who are not considered part of the SCS proper.",Biannual,,,,Management information,"Number of SCS staff recorded as disabled / Total number of SCS staff (headcount basis). Based on the self-declaration made from self-perceptions of Core MOD diversity representation as a proportion of those who have made declarations (excluding all ""choose not to declare"" and those who have not responded). As such, this figure is not necessarily representative of the true minority diversity group representation. The figure excludes Trading Funds (where we have incomplete diversity information) and RFAs and LECs (where no diversity information exists).","The figure excludes Military, Trading Funds (where we have incomplete diversity information) and RFAs and LECs (where no diversity information exists).The disability field on HRMS was reset on 18 April 2011 to accommodate the new disability reporting requirements, due to change in law. Consequently all personnel were
+required to redeclare.Disability statistics will not be collected until the data becomes reliable.", This figure only includes Civilian FTE,,
+,,"Attendance
+
+Average Working Days Lost (AWDL) Actual","Definition and potential source: Cabinet Office Sickness Absence quarterly reports. See attached guidance.
+
+Information should align with that supplied for the Cabinet Office quarterly sickness absence reporting.",Quarter (data provide a rolling annual position each quarter),"Current =  position as at 30th September 2011
+Previous = position as at 30th June 2011",,,Management information,Figure made up of: Strength figures for 31 March 09 onwards exclude personnel classed as being on zero pay for any reason. Sickness absence figures for 31 March 09 onwards exclude absences where a person is classed as being on zero pay. Rates are calculated using absence days over a 13 month average strength. Part time personnel are counted as a proportion of the hours worked.. Absence days are working days lost with part time hours conversion where applicable.,,This figure is Civilian FTE Only.,,
+,,"
+Average Working Days Lost (AWDL) Standardised
+
+","Definition and potential source: Cabinet Office Sickness Absence quarterly reports.
+
+The AWDL standardised figure is only available from Cabinet Office. Cabinet Office/HMT officials will arrange for departments to be sent the standardised AWDL figure in plenty of time for inclusion in the relevant quarter's QDS",Quarter (data provide a rolling annual position each quarter),,,Cabinet Office Sickness Absence quarterly reports,Management information,This is not available. We do not calculate standardised figures.,,,"DASA generate Civilian Statistics for the Department, which is used for the QDS. As DASA do not produce Standardised Attendance, we cannot complete this data field.",
+,"Department & Agencies only; People Survey Metrics
+
+",Engagement Index,The organisation's engagement index from the most recent annual Civil Service People Survey,Annual,"Current =  2010 survey
+Previous = 2009 survey",Scope limited to main department only,Civil Service People Survey,Census survey,"Data from annual ""Your Say"" staff survey",,Annual Your Say Survey - November 2011,,
+,,"Theme Scores
+
+Leadership & Managing Change
+","The organisation's theme score for the leadership and manging change"" theme from the most recent annual Civil Service People Survey .
+Figure as published in survey reports",,,,,,"Data from annual ""Your Say"" staff survey",,Annual Your Say Survey - November 2011,,
+,,My Work,"The organisation's theme score for the ""my work"" theme from the most recent annual Civil Service People Survey",,,,,,"Data from annual ""Your Say"" staff survey",,Annual Your Say Survey - November 2011,,
+,,"My Line Manager
+","The organisation's theme score for the ""my line manager"" theme from the most recent annual Civil Service People Survey",,,,,,"Data from annual ""Your Say"" staff survey",,Annual Your Say Survey - November 2011,,
+,,Organisational Objectives & Purpose,"The organisation's theme score for the ""organisational objectives and purpose"" theme from the most recent annual Civil Service People Survey",,,,,,"Data from annual ""Your Say"" staff survey",,Annual Your Say Survey - November 2011,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,

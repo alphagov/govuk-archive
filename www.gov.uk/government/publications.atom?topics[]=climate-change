@@ -8,7 +8,19 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-12-07T00:00:00+00:00</updated>
+  <updated>2012-12-11T12:22:00+00:00</updated>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/48343</id>
+    <published>2012-12-11T12:22:00+00:00</published>
+    <updated>2012-12-11T12:22:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/consultations/strategic-environmental-assessment-of-revoking-the-east-of-england-regional-strategy"/>
+    <title>Strategic environmental assessment about revoking the East of England regional strategy: environmental report</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This environmental report is a consultation document on the likely significant environmental effects of revocation of the East of England Plan and the regional economic strategy (which together form the regional strategy in force for the East of England).&lt;/p&gt;
+
+&lt;p&gt;This report succeeds the previous environmental report for the revocation of the East of England regional strategy which was consulted on between October 2011 and January 2012. It is a stand alone document the intention of which is to provide the reader with an up-to-date comprehensive assessment of the environmental effects of the revocation of the East of England Plan and the regional economic strategy without the need to refer back to the previous environmental report.&lt;/p&gt;
+
+&lt;p&gt;At the end of the period all consultation responses will be considered, including those already submitted during the earlier response period.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/39671</id>
     <published>2012-12-07T00:00:00+00:00</published>
@@ -32,6 +44,20 @@
 &lt;p&gt;This bidding guidance and documents are intended for bus operators and local authorities who want to submit bids for grant under the 4th round of the government’s Green Bus Fund. The bidding guidance explains the eligibility terms, the bidding process and how bids should be submitted.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/32963</id>
+    <published>2012-11-30T00:00:00+00:00</published>
+    <updated>2012-11-30T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/local-authority-green-belt-statistics-for-england-2011-to-2012"/>
+    <title>Local authority green belt statistics for England: 2011 to 2012</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The latest national statistics on the extent of the green belt in England were released under the auspices of the UK Statistics Authority on 30 November 2012.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The extent of the designated green belt land in England in 2011/12 was estimated at 1,639,410 hectares, about 13% of the land area of England. &lt;/li&gt;
+  &lt;li&gt;Overall there has been a decrease of 130 hectares from the revised 2010-11 green belt. This is due to three authorities who have adopted new plans in which they have changed the boundaries of the green belt. This represents a decrease of less than 0.01% per cent in the total green belt area.&lt;/li&gt;
+  &lt;li&gt;Since these statistics were first compiled for 1997, there has been an increase in the area of green belt after taking account of the redesignation of some green belt as part of the New Forest National Park in 2005.&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/17341</id>
     <published>2012-11-30T00:00:00+00:00</published>
     <updated>2012-11-30T00:00:00+00:00</updated>
@@ -51,20 +77,6 @@
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://www.gov.uk/government/organisations/department-for-communities-and-local-government/series/strategic-environmental-assessments"&gt;Strategic Environmental Assessments&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/32963</id>
-    <published>2012-11-30T00:00:00+00:00</published>
-    <updated>2012-11-30T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/local-authority-green-belt-statistics-for-england-2011-to-2012"/>
-    <title>Local authority green belt statistics for England: 2011 to 2012</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The latest national statistics on the extent of the green belt in England were released under the auspices of the UK Statistics Authority on 30 November 2012.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;The extent of the designated green belt land in England in 2011/12 was estimated at 1,639,410 hectares, about 13% of the land area of England. &lt;/li&gt;
-  &lt;li&gt;Overall there has been a decrease of 130 hectares from the revised 2010-11 green belt. This is due to three authorities who have adopted new plans in which they have changed the boundaries of the green belt. This represents a decrease of less than 0.01% per cent in the total green belt area.&lt;/li&gt;
-  &lt;li&gt;Since these statistics were first compiled for 1997, there has been an increase in the area of green belt after taking account of the redesignation of some green belt as part of the New Forest National Park in 2005.&lt;/li&gt;
 &lt;/ul&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
@@ -747,63 +759,6 @@ Including latest on RED consultation and &lt;abbr title="Renewable Transport Fue
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="mailto:subnational.stats@dft.gsi.gov.uk"&gt;subnational.stats@dft.gsi.gov.uk&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Phone: 020 7944 6104&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/16913</id>
-    <published>2012-08-28T00:00:00+01:00</published>
-    <updated>2012-08-28T00:00:00+01:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/rtfo-guidance"/>
-    <title>Renewable Transport Fuel Obligation (RTFO) guidance</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Renewable Transport Fuel Obligation (&lt;abbr title="Renewable Transport Fuel Obligation"&gt;RTFO&lt;/abbr&gt;) guidance provides support for fuel suppliers, independent verifiers and others involved in the supply of biofuels for use in road transport in the UK.&lt;/p&gt;
-
-&lt;p&gt;The guidance is divided into three parts.&lt;/p&gt;
-
-&lt;h2 id="part-1-process-guidance"&gt;Part 1: process guidance&lt;/h2&gt;
-
-&lt;p&gt;This provides information on how fossil fuel and renewable transport fuel suppliers should comply with the &lt;abbr title="Renewable Transport Fuel Obligation"&gt;RTFO&lt;/abbr&gt; Order and practical instruction on how they should submit the required information to the administrator. It provides detailed instructions and information on:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;the obligation that the &lt;abbr title="Renewable Transport Fuel Obligation"&gt;RTFO&lt;/abbr&gt; Order puts on certain fuel suppliers&lt;/li&gt;
-  &lt;li&gt;applying for and maintaining an account with the &lt;abbr title="Renewable Transport Fuel Obligation"&gt;RTFO&lt;/abbr&gt; Administrator&lt;/li&gt;
-  &lt;li&gt;applying for Renewable Transport Fuels Certificates (RTFCs)&lt;/li&gt;
-  &lt;li&gt;penalties for non-compliance&lt;/li&gt;
-&lt;/ul&gt;&lt;h2 id="part-2-carbon--sustainability-guidance"&gt;Part 2: carbon &amp;amp; sustainability guidance&lt;/h2&gt;
-
-&lt;p&gt;This aims to provide assistance on carbon and sustainability (C&amp;amp;S) reporting for fossil fuel and renewable transport fuel suppliers that wish to benefit from receiving Renewable Transport Fuel Certificates (RTFCs) under the Renewable Transport Fuel Obligation (&lt;abbr title="Renewable Transport Fuel Obligation"&gt;RTFO&lt;/abbr&gt;). It clarifies sustainability criteria for biofuels supplied under the &lt;abbr title="Renewable Transport Fuel Obligation"&gt;RTFO&lt;/abbr&gt; and how to demonstrate compliance. It provides detailed information on:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;reporting carbon and sustainability data&lt;/li&gt;
-  &lt;li&gt;demonstrating compliance with greenhouse gas and land use criteria&lt;/li&gt;
-  &lt;li&gt;mass balance rules&lt;/li&gt;
-  &lt;li&gt;wastes and residues&lt;/li&gt;
-&lt;/ul&gt;&lt;h2 id="part-3-guidance-for-verifiers"&gt;Part 3: guidance for verifiers&lt;/h2&gt;
-
-&lt;p&gt;All carbon and sustainability data associated with biofuels must be verified by an independent third party before Renewable Transport Fuel Certificates will be awarded for those fuels. The guidance for verifiers outlines the approach to this process.&lt;br&gt;
-It includes detailed information on: &lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;the purpose and requirements of verification&lt;/li&gt;
-  &lt;li&gt;planning and risk assessment &lt;/li&gt;
-  &lt;li&gt;developing an assurance strategy&lt;/li&gt;
-  &lt;li&gt;reporting and assurance statements &lt;/li&gt;
-&lt;/ul&gt;&lt;h2 id="key-changes"&gt;Key changes&lt;/h2&gt;
-
-&lt;p&gt;The publication of this guidance follows the implementation of the transport elements of the Renewable Energy Directive (&lt;abbr title="Renewable Energy Directive"&gt;RED&lt;/abbr&gt;) on December 15 2011 and therefore includes a number of significant differences to those versions published prior to that date. These include guidance on:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;the introduction of mandatory sustainability criteria for biofuels, including a minimum GHG saving&lt;/li&gt;
-  &lt;li&gt;double rewards to incentivise certain types of biofuels, such as those made from wastes&lt;/li&gt;
-  &lt;li&gt;a requirement for suppliers to have carbon and sustainability data for their fuels independently verified before Renewable Transport Fuel Certificates are awarded&lt;/li&gt;
-&lt;/ul&gt;&lt;h2 id="supplementary-guidance-for-small-suppliers-of-used-cooking-oil-biodiesel"&gt;Supplementary guidance for small suppliers of used cooking oil biodiesel&lt;/h2&gt;
-
-&lt;p&gt;This supplementary guidance is primarily intended for use by smaller suppliers of biofuels who have previously not had to verify the carbon sustainability (C&amp;amp;S) of the data associated with their biofuel. This verification process is now a requirement in the Renewable Energy Directive (&lt;abbr title="Renewable Energy Directive"&gt;RED&lt;/abbr&gt;). It should be noted however, that this guidance is not intended to replace the full &lt;abbr title="Renewable Transport Fuel Obligation"&gt;RTFO&lt;/abbr&gt; guidance (parts 1-3) but to provide an overview of the requirements under the new scheme, particularly for those suppliers who are unfamiliar with the new requirements.&lt;/p&gt;
-
-&lt;h2 id="earlier-guidance-and-the-rtfo-amendment-order"&gt;Earlier guidance and the &lt;abbr title="Renewable Transport Fuel Obligation"&gt;RTFO&lt;/abbr&gt; (Amendment) Order&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a rel="external" href="http://webarchive.nationalarchives.gov.uk/20110407094507/http:/renewablefuelsagency.gov.uk/cands"&gt;Versions of the guidance from previous reporting years&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a rel="external" href="http://www.legislation.gov.uk/uksi/2011/2937/contents/made"&gt;&lt;abbr title="Renewable Transport Fuel Obligation"&gt;RTFO&lt;/abbr&gt; (Amendment) Order 2011 &lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/div&gt;</content>
   </entry>
 </feed>

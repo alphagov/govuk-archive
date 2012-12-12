@@ -395,6 +395,25 @@
 &lt;/ol&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
+    <id>tag:www.gov.uk,2005:Publication/41712</id>
+    <published>2012-09-27T01:00:00+01:00</published>
+    <updated>2012-11-14T12:39:19+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/newbuy-guarantee-scheme-statistics-january-to-june-2012"/>
+    <title>NewBuy Guarantee scheme statistics: January to June 2012</title>
+    <category>Publication</category>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This first release of official statistics about the NewBuy Guarantee scheme was released under the auspices of the UK Statistics Authority’s code of practice on 27 September 2012.&lt;/p&gt;
+
+&lt;p&gt;Statistics on the NewBuy Guarantee scheme cover quarterly and cumulative data for England up to 30 June 2012.&lt;/p&gt;
+
+&lt;p&gt;This release sets out:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;total completions (number of properties purchased under the scheme)&lt;/li&gt;
+  &lt;li&gt;contingent liability (the maximum possible cost to government as a result of government’s provision of a guarantee corresponding to these completions)&lt;/li&gt;
+  &lt;li&gt;total costs (the amount spent by government to date in payment of claims made by mortgage lenders against this guarantee)&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
     <id>tag:www.gov.uk,2005:Speech/13385</id>
     <published>2012-09-06T01:00:00+01:00</published>
     <updated>2012-11-15T13:35:32+00:00</updated>
@@ -475,18 +494,5 @@
 &lt;p&gt;This guidance is jointly produced by the Department for Communities and Local Government and the Ministry of Justice. It is aimed at informing property owners about the new offence and the procedures for regaining possession of their properties from squatters.&lt;/p&gt;
 
 &lt;p&gt;It updates the version published on 21 March 2011.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:Publication/11583</id>
-    <published>2012-08-09T01:00:00+01:00</published>
-    <updated>2012-11-14T12:33:59+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/mortgage-arrears-and-possessions-forecasts"/>
-    <title>Mortgage arrears and possessions: forecasts</title>
-    <category>Publication</category>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;In January 2012 DCLG commissioned Professor Muellbauer, of Oxford University, to update his model which forecasts repossessions and loans in arrears in the UK and to produce updated forecasts.&lt;/p&gt;
-
-&lt;p&gt;This research report sets out the changes to the model since the last report and the revised forecasts. This update led to the inclusion of an extra eight observations, together with a number of data revisions. The update also means that the forecast of loans in arrears and repossession now draws upon a range of economic forecast scenarios based mainly on underlying forecast data from the Office for Budget Responsibility but also from Oxford Economics for comparison.&lt;/p&gt;
-
-&lt;p&gt;The new forecasts represent an improved outlook for both repossessions and arrears compared to the previous forecast. The main reason being the change in interest rate expectations; interest rates are now expected to rise much later; in mid 2013, instead of early 2012.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
 </feed>
