@@ -3,7 +3,7 @@
   <id>tag:www.gov.uk,2005:/government/people/mark-francois</id>
   <link rel="alternate" type="text/html" href="https://www.gov.uk/government"/>
   <link rel="self" type="application/atom+xml" href="https://www.gov.uk/government/people/mark-francois.atom"/>
-  <title>Inside government - The Rt Hon  Mark Francois MP</title>
+  <title>Inside government - The Rt Hon Mark Francois MP</title>
   <subtitle>Latest</subtitle>
   <author>
     <name>HM Government</name>
@@ -481,6 +481,99 @@
 &lt;p&gt;Thank you and Good Luck.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
+    <id>tag:www.gov.uk,2005:AnnouncementPresenter/34759</id>
+    <published>2012-10-16T01:00:00+01:00</published>
+    <updated>2012-10-16T01:00:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/138-2012-new-armed-forces-pension-agreed"/>
+    <title>138/2012 - New Armed Forces pension agreed</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;In July, the Ministry of Defence published an outline design of the new Armed Forces Pension Scheme and invited further comments. The consultation has resulted in a key change - Service personnel will now have more flexibility for the money they receive if they qualify for an early payment at 40. This is another benefit exclusive to Service personnel.&lt;/p&gt;
+
+&lt;p&gt;The new scheme means unlike other public service pension schemes, Service personnel will still not have to make personal contributions and the Normal Pension Age will be 60, whereas for most other public service pensions the Normal Pension Age will be linked to the State Pension Age, which is considerably higher.&lt;/p&gt;
+
+&lt;p&gt;The scheme will also deliver on the approach set out in Lord Hutton’s Independent Public Service Pensions Commission to reform pensions and ensure that they are more affordable and sustainable for the long-term. Changes will not affect accrued rights of those currently serving or the age at which their accrued pension benefits can be drawn.&lt;/p&gt;
+
+&lt;p&gt;Minister of State for Defence Personnel, Welfare and Veterans Mark Francois said:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The Government had to make some tough decisions to ensure sustainable public service pensions, but recognises the unique commitment made by the Armed Forces and therefore protected them as much as possible, making these changes in the fairest way possible. Armed Forces personnel will continue to receive one of the best and most valuable pensions in the public and private sectors, maintaining the non-contributory element, an early pension point at 40 and a lower Normal Pension Age than other public sector employees.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Benefits of the proposed new scheme include:
+* It creates one scheme for all – including Reservists. There are currently several different Armed Forces pension schemes; 
+* Service personnel won’t have to make any personal contributions to their pension;
+* Service personnel will receive a monthly income and a tax-free lump sum if they leave the Armed Forces aged at least 40 and have given at least 20 years of service. No other public service makes any pension payment that early. In addition, Service personnel will now have the flexibility to convert their total Early Departure Payment lump sum into additional monthly income payments; 
+* As recommended by Lord Hutton, the Normal Pension Age will be 60 – considerably lower than most other public service pensions;
+* Accrued pension rights have been protected so there is no change to the age at which those currently serving can draw the benefits that they have accrued in the current schemes, which are based on final rank and salary; 
+* It is in line with Lord Hutton’s recommendations and other public service schemes, moving to a pension based on career average earnings, rather than final salary; and
+* All members of the Armed Forces Pension Scheme who were within ten years of their Normal Pension Age on 1 April 2012 will receive transitional protection and will not be transferred to the new scheme.&lt;/p&gt;
+
+&lt;p&gt;The scheme was designed after extensive consultation with over 25,000 personnel both in the UK and overseas including Afghanistan, Germany, Gibraltar and the Falkland Islands which included presentations, focus groups and questionnaires.&lt;/p&gt;
+
+&lt;p&gt;Notes to editors&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;
+    &lt;p&gt;In 2010 the Government announced it would be reforming all public service pensions and later accepted the Independent Public Service Pensions Commission’s recommendations to make them fair and sustainable.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;The Ministry of Defence ran an Armed Forces Pension Scheme consultation exercise from March to May 2012 to set out the reasons for change and invite views from Service personnel and external stakeholders.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;On 31 July, the Ministry of Defence published the Outline Scheme Design, which set out the key features of the new scheme. The document was primarily aimed at Service personnel and external stakeholders, including the Forces’ Families Federations, the Forces Pension Society and the Royal British Legion. There was a further period of consultation for personnel to make comments which ended on 7 September.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;The new Armed Forces Pension Scheme will be introduced from April 2015. All those serving when the new scheme is introduced will be automatically enrolled unless they qualify for transitional protection.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;The total cost of the new Armed Forces Pension Scheme will be 31.5 per cent of pensionable pay, which is all borne by the Exchequer, as there are no employee contributions.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;A copy of the final agreement can be found at &lt;a rel="external" href="http://www.mod.uk/DefenceInternet/AboutDefence/WhatWeDo/Personnel/Pensions/FinalAgreement.htm"&gt;http://www.mod.uk/DefenceInternet/AboutDefence/WhatWeDo/Personnel/Pensions/FinalAgreement.htm&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;For further media enquiries please call Robert Mead at the Ministry of Defence press office on 020 7218 7924.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:AnnouncementPresenter/55478</id>
+    <published>2012-10-16T01:00:00+01:00</published>
+    <updated>2012-10-16T01:00:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/new-armed-forces-pension-agreed"/>
+    <title>New Armed Forces pension agreed</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;In July, the Ministry of Defence published an outline design of the new Armed Forces Pension Scheme and invited further comments. The consultation has resulted in a key change - Service personnel will now have more flexibility over the money they receive if they qualify for an early payment at age 40. This is another benefit exclusive to Service personnel.&lt;/p&gt;
+
+&lt;p&gt;The new scheme means that, unlike other public service pension schemes, Service personnel will still not have to make personal contributions and the Normal Pension Age will be 60, whereas for most other public service pensions the Normal Pension Age will be linked to the State Pension Age, which is considerably higher. &lt;/p&gt;
+
+&lt;p&gt;The scheme will also deliver on the approach set out in Lord Hutton’s Independent Public Service Pensions Commission to reform pensions and ensure that they are more affordable and sustainable in the long-term. Changes will not affect accrued rights of those currently serving or the age at which their accrued pension benefits can be drawn.&lt;/p&gt;
+
+&lt;p&gt;Minister of State for Defence Personnel, Welfare and Veterans Mark Francois said: &lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The Government had to make some tough decisions to ensure sustainable public service pensions, but recognises the unique commitment made by the Armed Forces and therefore protected them as much as possible, making these changes in the fairest way possible.&lt;/p&gt;
+
+  &lt;p&gt;Armed Forces personnel will continue to receive one of the best and most valuable pensions in the public and private sectors, maintaining the non-contributory element, an early pension point at 40 and a lower Normal Pension Age than other public sector employees.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Benefits of the proposed new scheme include:&lt;/p&gt;
+
+&lt;p&gt;• it creates one scheme for all - including reservists. There are currently several different Armed Forces pension schemes&lt;/p&gt;
+
+&lt;p&gt;• Service personnel won’t have to make any personal contributions to their pension&lt;/p&gt;
+
+&lt;p&gt;• Service personnel will receive a monthly income and a tax-free lump sum if they leave the Armed Forces aged at least 40 and have given at least 20 years of service. No other public service makes any pension payment that early. In addition, Service personnel will now have the flexibility to convert their total Early Departure Payment lump sum into additional monthly income payments&lt;/p&gt;
+
+&lt;p&gt;• as recommended by Lord Hutton, the Normal Pension Age will be 60 - considerably lower than for most other public service pensions&lt;/p&gt;
+
+&lt;p&gt;• accrued pension rights have been protected so there is no change to the age at which those currently serving can draw the benefits that they have accrued in the current schemes, which are based on final rank and salary&lt;/p&gt;
+
+&lt;p&gt;• it is in line with Lord Hutton’s recommendations and other public service schemes, moving to a pension based on career average earnings, rather than final salary&lt;/p&gt;
+
+&lt;p&gt;• all members of the Armed Forces Pension Scheme who were within ten years of their Normal Pension Age on 1 April 2012 will receive transitional protection and will not be transferred to the new scheme.&lt;/p&gt;
+
+&lt;p&gt;The scheme was designed after extensive consultation with over 25,000 personnel both in the UK and overseas, including in Afghanistan, Germany, Gibraltar and the Falkland Islands, in the form of presentations, focus groups and questionnaires.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/45363</id>
     <published>2012-10-02T00:00:00+01:00</published>
     <updated>2012-10-02T00:00:00+01:00</updated>
@@ -701,6 +794,50 @@
 &lt;p&gt;Thank you for your attention. &lt;/p&gt;
 
 &lt;p&gt;Working together, let us do our best.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:AnnouncementPresenter/34766</id>
+    <published>2012-09-20T01:00:00+01:00</published>
+    <updated>2012-09-20T01:00:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/127-2012-1-3-million-for-communities-getting-behind-the-armed-forces-covenant"/>
+    <title>127/2012 - £1.3 Million for communities getting behind the Armed Forces Covenant</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Speaking at the Army Families Federation annual conference and launching the next set of Community Covenant Grant projects, Mark Francois confirmed the Ministry of Defence would give £1.3 million to communities across the country – funding 36 new projects. This now brings the total Ministry of Defence spend on the Community Covenant Grant Scheme to £5 million in just over a year.&lt;/p&gt;
+
+&lt;p&gt;The new Community Covenant Grant projects announced today include:
+* funding for a new support centre for veterans and their families in Nottinghamshire;
+* an innovative peer-mentoring scheme to help young people from the Armed Forces integrate into communities in Cornwall;
+* helping veterans find work in Glasgow; and 
+* three projects to bring together the Armed Forces and local communities in Bradford.&lt;/p&gt;
+
+&lt;p&gt;The Minister for Defence Personnel, Welfare and Veterans Mark Francois said:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;These latest projects demonstrate the high regard the public has for the Armed Forces and I am delighted that people up and down the country continue to show their support and gratitude through each new idea and initiative. As a former Territorial Army officer I welcome any project which will help forge closer links between the Armed Forces and their local communities.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The Community Covenant scheme was launched in June 2011 and since then nearly 150 local authorities across the UK have pledged their support to the Armed Forces and signed up to a Community Covenant, including cities such as London, Edinburgh and Liverpool.&lt;/p&gt;
+
+&lt;p&gt;The government also made £30 million available for communities to establish their own projects and kick start initiatives that will make real change for Armed Forces and their families.&lt;/p&gt;
+
+&lt;h2 id="notes-to-editors"&gt;Notes to Editors&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;The Armed Forces Covenant is a statement of the moral obligation which exists between the nation, the Government and the Armed Forces. The Government has already taken swift action to improve the lives of service personnel, veterans and their families. This includes:
+    &lt;ul&gt;
+&lt;li&gt;a £15 million investment in prosthetics provision; &lt;/li&gt;
+      &lt;li&gt;improvements to mental healthcare; &lt;/li&gt;
+      &lt;li&gt;a scholarship scheme for bereaved service children; &lt;/li&gt;
+      &lt;li&gt;priority on the Government’s First Buy scheme for members of the Armed Forces in England; &lt;/li&gt;
+      &lt;li&gt;Doubling Council Tax Relief twice, which now stands at nearly £600 per service person for a six-month deployment; &lt;/li&gt;
+      &lt;li&gt;tax free operational allowance has doubled so those serving on eligible operations now receive a lump sum of just over £5,000 for a six-month tour; and&lt;/li&gt;
+      &lt;li&gt;new online postcodes to ensure service personnel stationed overseas have improved access to online and financial services.&lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;For further information on the Armed Forces Covenant and the Community Covenant Grant Scheme visit &lt;a rel="external" href="http://www.mod.uk/covenant"&gt;www.mod.uk/covenant&lt;/a&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;For all media enquiries or to find out if there is a Community Covenant Grant project in your area call the Ministry of Defence press office on 020 7218 7924.&lt;/li&gt;
+&lt;/ol&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/45353</id>
@@ -941,325 +1078,51 @@
 &lt;p&gt;I am proud to be given the opportunity to do that, and, with your help, working together, that is what I aim to do.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:AnnouncementPresenter/39709</id>
-    <published>2012-09-17T01:00:00+01:00</published>
-    <updated>2012-09-17T01:00:00+01:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/generous-public-urged-think-twice-before-sending-unsolicited-christmas-gifts-to-troops"/>
-    <title>Generous public urged: think twice before sending unsolicited Christmas gifts to troops</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;With just 100 days to go until Christmas Day, some generous members of the public may be considering sending presents to Armed Forces personnel serving abroad to help them celebrate the festive season.&lt;/p&gt;
+    <id>tag:www.gov.uk,2005:AnnouncementPresenter/34768</id>
+    <published>2012-09-18T01:00:00+01:00</published>
+    <updated>2012-09-18T01:00:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/124-2012-a-royal-opening-for-new-multi-million-rehabilitation-complex-at-headley-court"/>
+    <title>124/2012 - A Royal opening for new multi-million rehabilitation complex at Headley Court</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This is a brand new £16.9 million Complex, fully funded by the Ministry of Defence (MOD), which will also feature an Activities of Daily Living flat where patients can learn to live independently.&lt;/p&gt;
 
-&lt;p&gt;But while everybody in the Forces is hugely grateful for the sentiment behind such gifts, the message is very clear: if people wish to show their support for those serving in austere conditions in Afghanistan, there are far more effective ways of doing so.&lt;/p&gt;
+&lt;p&gt;The Complex includes a new state-of-the-art therapy building with a second prosthetics department, radiology department and open plan gym to ensure that injured personnel continue to receive world-class medical care and rehabilitation.&lt;/p&gt;
 
-&lt;p&gt;The volume of mail arriving at Camp Bastion for onward distribution to other locations in Afghanistan causes three key problems:&lt;/p&gt;
+&lt;p&gt;In addition to the Minister for Defence Personnel, Welfare and Veterans Mark Francois, the opening will also be attended by serving personnel and veterans who competed in the London 2012 Paralympic Games.&lt;/p&gt;
 
-&lt;ul&gt;
-&lt;li&gt;private mail sent to deployed personnel by their loved ones can become significantly delayed amongst all the other items from members of the public. Receipt of letters or gifts from a parent or spouse are very important for morale in theatre and for the peace of mind of families back home. The delays unsolicited mail inevitably cause to the delivery of the much more anticipated personal mail can create real disappointment and stress. &lt;/li&gt;
-  &lt;li&gt;the onward delivery of goodwill parcels to forward operating bases necessitates additional resupply flights and convoys which places Service personnel at additional risk in what is already a difficult and dangerous operating environment. Every time an additional convoy is laid on, more troops are put at risk of enemy attack. &lt;/li&gt;
-  &lt;li&gt;the type of items included in many welfare parcels are either already readily available in theatre or are simply not appropriate for the Afghan environment. Not only does this mean that the items go to waste, but time and resources have to be diverted from crucial operations to organise their disposal.&lt;/li&gt;
-&lt;/ul&gt;&lt;p&gt;Today the MOD is launching a campaign to remind members of the public that they can express their support in different ways - including by donating to a special fund that the Ministry of Defence has established to enable those who want to make a personal contribution to troops’ welfare support to do so in a co-ordinated way which does not cause these problems.  &lt;/p&gt;
-
-&lt;figure class="image embedded"&gt;&lt;div class="img"&gt;&lt;img alt="Staff at Lashkar Gah dealing with unsolicited mail" src="https://assets.digital.cabinet-office.gov.uk/government/uploads/system/uploads/image_data/file/1426/StaffdealingwithunsolicitedmailinLashkarGah.jpg"&gt;&lt;/div&gt;
-  &lt;figcaption&gt;Staff at Lashkar Gah dealing with unsolicited mail (library image)
-[Picture: Crown Copyright/MOD 2009]&lt;/figcaption&gt;&lt;/figure&gt;&lt;p&gt;Captain James Talman, Controlling Postal Courier Officer on Operation HERRICK, based at Camp Bastion, said:&lt;/p&gt;
+&lt;p&gt;Minister for Defence Personnel, Welfare and Veterans Mark Francois said:&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;Mail is really important to all our troops here. However, if people send out unsolicited parcels addressed to ‘any soldier’, or even to a named individual who is not known to them, they will simply clog up the system and delay the packages from friends and families which are so important.&lt;/p&gt;
+  &lt;p&gt;It is an immense pleasure and privilege to attend the opening of the Jubilee Rehabilitation Complex at Headley Court in my new role as Minister for Defence Personnel, Welfare and Veterans. Countless times we have seen the determination of injured personnel at Headley Court in their rehabilitation, and recently at the Paralympics after their recovery. This fantastic new complex will continue to provide crucial world-class treatment and rehabilitation to those who need it.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Defence Medical Rehabilitation Centre Commanding Officer, Group Captain Clare Walton said:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;On behalf of all the patients and staff at Headley Court I would like to thank Their Royal Highnesses for officially opening the Jubilee Rehabilitation Complex. I know the new facilities will enable our staff to continue to provide the very best of care to our patients and to keep Headley Court at the forefront of rehabilitation and prosthetics.&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;While we all appreciate people’s support, I would ask members of the public not to send any unsolicited mail.&lt;/p&gt;
+  &lt;p&gt;I would also like to thank the Defence Infrastructure Organisation (DIO), its regional industry partner PriDE and principal contractor Rollalong for delivering the complex on schedule.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;Lieutenant Colonel Douglas Ralph, responsible for Operational Welfare at the Ministry of Defence, added:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;There is no denying that receiving a parcel can provide a morale-boost to serving personnel but what the troops on the ground really want is to receive their personal mail - the letters from loved ones and close friends.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Unfortunately, the sheer number of welfare packages we have seen enter the system in the run-up to Christmas in previous years has caused serious delays to those all-important personal items.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;While we are all enormously grateful for the generosity of people who want to support the Armed Forces, packages from strangers can never make up for the delay they cause to mail from relatives.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;The message is clear: if you wish to show your support for the troops, the most effective way of doing so is to support an official registered Service charity.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;There are many different ways in which people in the UK can thank forces deployed overseas for their work and commitment. Helpful advice and a list of recommended Service charities which accept public donations to assist deployed personnel and their families back at home can be found on the Ministry of Defence website. &lt;/p&gt;
-
-&lt;p&gt;Some of these funds send welfare parcels to Afghanistan - but they do so, in consultation and partnership with the Armed Forces, in a co-ordinated way which does not put undue pressure on resources.&lt;/p&gt;
-
-&lt;p&gt;Although the MOD provides a comprehensive Deployed Welfare Package which includes a free mail service for families and friends, 30 minutes of telephone calls a week and internet access, there are still areas where life in an operational theatre can be improved over and above that.  &lt;/p&gt;
-
-&lt;p&gt;With this in mind, and in order to enable members of the public to make a contribution to the welfare of personnel in an appropriate way, the MOD Operations Welfare Fund was established.&lt;/p&gt;
-
-&lt;p&gt;Priority for spending from the fund is set by commanders in theatre for those items which have the most impact in enhancing the morale of their personnel and any money donated to this fund enables commanding officers on the ground to bid for items which their men and women have asked for.&lt;/p&gt;
-
-&lt;p&gt;Examples of items purchased through the fund are Wii handsets, portable DVD players, games and table tennis tables.&lt;/p&gt;
-
-&lt;p&gt;Anyone wishing to make a donation can send a cheque to:&lt;/p&gt;
-
-&lt;p&gt;Operations Welfare Fund&lt;br&gt;
-J1 Operation HERRICK&lt;br&gt;
-PJHQ, Sandy Lane,&lt;br&gt;
-Northwood, Middlesex,&lt;br&gt;
-HA6 3HP&lt;/p&gt;
-
-&lt;p&gt;Another recommended charity is &lt;a rel="external" href="http://www.uk4u.org/" title="uk4u Thanks!"&gt;uk4u Thanks!&lt;/a&gt; which already delivers a Christmas box of practical gifts and fun treats to every soldier, sailor and airman deployed overseas - in Afghanistan and elsewhere - and those in hospital and recovery centres in time for 25 December.&lt;/p&gt;
-
-&lt;p&gt;Its parcels are delivered via the supply chain, meaning there is no impact on the mail network. Although the charity benefits from corporate sponsorship, it also needs donations from the public to continue its work bringing Christmas cheer to thousands of personnel. For more details visit their website at Related Links.&lt;/p&gt;
-
-&lt;p&gt;Minister of State for Defence Personnel, Welfare and Veterans, Mark Francois, said:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;This Government is dedicated to the care and welfare of the men and women of our Armed Forces, particularly those deployed on operations. This is reflected in the Deployed Welfare Package, a key part of which is the safe and timely delivery of free personal mail from family and friends.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;In the past this mechanism has been used by the general public to show their support and resulted in huge volumes of unsolicited goodwill parcels being sent, which have overwhelmed the in-theatre postal and logistics capability.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Whilst unsolicited mail is well-intentioned, mail sent by families and friends is the most important to deployed personnel and is our absolute priority. Moreover, unsolicited mail strains the logistics supply and prevents mail from families getting through.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;For this reason the MOD will be repeating its unsolicited mail campaign. Rather than sending their own letter or parcel, I would encourage people to make a donation to one of Britain’s excellent Service charities.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;They might also consider ‘uk4u Thanks!’ - a charity that provides Christmas gifts to deployed Service personnel. Once again I would like to say thank you to the British public, on behalf of the MOD and Armed Forces, for their incredible support of our serving personnel.&lt;/p&gt;
-&lt;/blockquote&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:AnnouncementPresenter/45354</id>
-    <published>2012-09-11T00:00:00+01:00</published>
-    <updated>2012-09-11T00:00:00+01:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/speeches/2012-09-11-address-to-the-ministry-of-defence-welfare-conference"/>
-    <title>2012/09/11 - Address to the Ministry of Defence Welfare Conference</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="introduction"&gt;Introduction&lt;/h2&gt;
-
-&lt;p&gt;It’s great to be here with you today.&lt;/p&gt;
-
-&lt;p&gt;Let me first pass on apologies from my colleague Andrew Murrison for his absence.&lt;/p&gt;
-
-&lt;p&gt;As I have found out over the last few days with my wonderful civil service team, as Ministers we are no longer wholly in charge of our own destiny.&lt;/p&gt;
-
-&lt;p&gt;Since agreeing to speak here, Andrew has been made Minister for International Security Strategy at the MOD and has been sent abroad on departmental business.&lt;/p&gt;
-
-&lt;p&gt;So I’m sorry that he can’t be here as originally scheduled and he has asked me to pass on his compliments and his apologies to you.&lt;/p&gt;
-
-&lt;p&gt;Andrew and I were elected to parliament together in 2001.&lt;/p&gt;
-
-&lt;p&gt;We both have a track record of campaigning in Parliament on service welfare issues. &lt;/p&gt;
-
-&lt;p&gt;I’m sure you will agree with me that Andrew’s reports on mental health and amputees are testament to his knowledge, experience and passion.&lt;/p&gt;
-
-&lt;p&gt;Now, as MOD Ministers, we will be working closely together to deliver.&lt;/p&gt;
-
-&lt;p&gt;Andrew served as a Medical Officer in the Royal Navy for many years.&lt;/p&gt;
-
-&lt;p&gt;My Father, Reginald Francois, also served in the Royal Navy in WWII. &lt;/p&gt;
-
-&lt;p&gt;He was at D-Day &lt;/p&gt;
-
-&lt;p&gt;My own service was in the 1980s, as an Infantry Officer in the Territorial Army.&lt;/p&gt;
-
-&lt;p&gt;That was a very different Army than the one of today.&lt;/p&gt;
-
-&lt;p&gt;We were trained for a very different war - a war that thankfully never came to pass.&lt;/p&gt;
-
-&lt;p&gt;With the fall of the Berlin Wall, we were never put to the test.&lt;/p&gt;
-
-&lt;p&gt;I never saw active service, I was never shot at (other than in training), and I have no medals.&lt;/p&gt;
-
-&lt;p&gt;But…the Queen’s Commission hangs on my wall at home, I understand and appreciate the military ethos, I have worn the uniform.&lt;/p&gt;
-
-&lt;p&gt;I hope that counts for something with all of you - because it certainly counts for something with me.&lt;/p&gt;
-
-&lt;p&gt;Given all of that, I am looking forward to getting stuck into the challenges that together we face and today’s conference is an ideal opportunity to do that.&lt;/p&gt;
-
-&lt;p&gt;So I want to start by saying thank you.&lt;/p&gt;
-
-&lt;p&gt;Two small words, but I genuinely mean that.&lt;/p&gt;
-
-&lt;p&gt;Thank you - for all the hard work you do to help improve the lives of the men and women of our Armed Forces - and the families who support them - and the veterans to whom the country owes a great debt.&lt;/p&gt;
-
-&lt;p&gt;These are difficult economic times.&lt;/p&gt;
-
-&lt;p&gt;But the British public continue to show how much they value our Armed Forces - in the respect they show, in the time they give, and in money they donate.&lt;/p&gt;
-
-&lt;p&gt;That generosity is evident in this room today.&lt;/p&gt;
-
-&lt;p&gt;It makes much of your work possible.&lt;/p&gt;
-
-&lt;p&gt;As patron of my local branch of the Royal British Legion, I have seen first hand the difference that can be made by charitable organisations.&lt;/p&gt;
-
-&lt;p&gt;You all changes lives - and that you can be proud of.&lt;/p&gt;
-
-&lt;p&gt;So again, thank you most sincerely for what you do.&lt;/p&gt;
-
-&lt;h2 id="the-public-and-the-armed-forces"&gt;The Public and the Armed Forces&lt;/h2&gt;
-
-&lt;p&gt;However, outside of garrison towns, it is rare these days for civilians to have direct contact with our contemporary Armed Forces.&lt;/p&gt;
-
-&lt;p&gt;But this summer has seen a powerful exercise in Defence engagement.&lt;/p&gt;
-
-&lt;p&gt;Certainly one of the most powerful domestic exercises since National Service.&lt;/p&gt;
-
-&lt;p&gt;Thanks to the Olympics many people have now had first hand experience of the men and women of our Armed Forces providing the venue security and resilience that the Games needed to run safely.&lt;/p&gt;
-
-&lt;p&gt;And not only that, serving and former members of our Armed Forces took part and won medals as part of both the Olympic and Paralympic teams.&lt;/p&gt;
-
-&lt;p&gt;They really are the best of British and we salute everything they have achieved.&lt;/p&gt;
-
-&lt;p&gt;And what else have we seen?&lt;/p&gt;
-
-&lt;p&gt;Not just the professionalism which we have all come to expect.&lt;/p&gt;
-
-&lt;p&gt;But we have seen the person behind the camouflage - a fellow citizen, doing a difficult and sometimes dangerous job, with commitment and calm competence.&lt;/p&gt;
-
-&lt;p&gt;Through this process, the Armed Forces Covenant has become a bit more real, a bit more solid. &lt;/p&gt;
-
-&lt;p&gt;So I want to talk today about the progress made meeting the key principles of the Armed Forces Covenant and tackling some of the welfare issues that we all know exist.&lt;/p&gt;
-
-&lt;p&gt;And I want to look ahead to the challenges over the next few years.&lt;/p&gt;
-
-&lt;h2 id="priorities"&gt;Priorities&lt;/h2&gt;
-
-&lt;p&gt;While here at home most eyes have been on the Olympics, the eyes of tens of thousands of people, in the MOD, in the Armed Forces, have been focussed on Afghanistan.&lt;/p&gt;
-
-&lt;p&gt;Afghanistan remains the number one priority for the Ministry of Defence and the Armed Forces.&lt;/p&gt;
-
-&lt;p&gt;We are beginning the withdrawal of UK troops consistent with our intention to move out of a combat role by the end of 2014.&lt;/p&gt;
-
-&lt;p&gt;But our troops remain in the firing line.&lt;/p&gt;
-
-&lt;p&gt;Those of you working with our wounded, those of you working with bereaved families, know very well the price that continues to be paid.&lt;/p&gt;
-
-&lt;p&gt;The withdrawal of troops between now and the end of 2014 will be done sensibly - in consultation with our partners, in accordance with the conditions on the ground, and meeting the requirements of force protection.&lt;/p&gt;
-
-&lt;p&gt;But coming home they are - not just our troops in Afghanistan, but our troops in Germany too.&lt;/p&gt;
-
-&lt;p&gt;Over the next few years our Armed Forces will become more predominantly UK based.&lt;/p&gt;
-
-&lt;p&gt;They will become structured to deal with the unexpected and unplanned, rather than the more predictable deployments of the Iraq and Afghanistan campaigns of the last decade.&lt;/p&gt;
-
-&lt;p&gt;This will provide a new set of challenges.&lt;/p&gt;
-
-&lt;p&gt;Where will our forces be based? &lt;/p&gt;
-
-&lt;p&gt;How will they be supported?&lt;/p&gt;
-
-&lt;p&gt;What career structure will be needed to make sure life in the Armed Forces is an attractive option for the brightest and the best?&lt;/p&gt;
-
-&lt;p&gt;With the basing plan due this Autumn, the MOD is embarking on the design phase of a New Employment Model to answer the last two questions.&lt;/p&gt;
-
-&lt;p&gt;This will be a very complex process - looking at everything from career paths to terms and conditions, allowances to accommodation.&lt;/p&gt;
-
-&lt;p&gt;A daunting task at any time.&lt;/p&gt;
-
-&lt;p&gt;But it is made more difficult by the fiscal conditions we face.&lt;/p&gt;
-
-&lt;p&gt;With the restrictions on the public purse, we can’t just throw money at problems.&lt;/p&gt;
-
-&lt;p&gt;The new employment model must reflect the best use of taxpayer’s money, as well as meet the needs of Defence, and of individual soldiers, sailors, airmen and their families.&lt;/p&gt;
-
-&lt;p&gt;I know that the Strategic Defence and Security Review has been difficult.&lt;/p&gt;
-
-&lt;p&gt;I know that behind every Service Number, there is a person, a livelihood, and often a family.&lt;/p&gt;
-
-&lt;p&gt;But in the economic climate of the foreseeable future, the only way we are going to meet the needs of national security, is to make sure that our Armed Forces are sustainable as well as powerful.&lt;/p&gt;
-
-&lt;p&gt;Going forward there is limited room for manoeuvre.&lt;/p&gt;
-
-&lt;p&gt;We will have to continue to prioritise strictly and only make promises we know we can fulfill.&lt;/p&gt;
-
-&lt;h2 id="progress"&gt;Progress&lt;/h2&gt;
-
-&lt;p&gt;However, where the Government can act, we will.&lt;/p&gt;
-
-&lt;p&gt;And it is worth reflecting briefly on what we have achieved.&lt;/p&gt;
-
-&lt;p&gt;The improvement in the operational welfare package - doubling the operational allowance, better R&amp;amp;R arrangements, more council tax relief.&lt;/p&gt;
-
-&lt;p&gt;Better support back home with the enhanced capacity of the recovery capability delivered with Help For Heroes and the Royal British Legion.&lt;/p&gt;
-
-&lt;p&gt;The focus on mental health working with Combat Stress and others to provide better care - and crucially better awareness - spotting those who need help, inside and outside the services, and getting help to them.&lt;/p&gt;
-
-&lt;p&gt;Doubling the Families Welfare Grant, bursaries for the higher education of bereaved Service children, IVF for the seriously wounded.&lt;/p&gt;
-
-&lt;p&gt;Action on many of the little but cumulative things that make service life sometimes difficult for families.&lt;/p&gt;
-
-&lt;p&gt;As part of the Armed Forces Bill team last year, I am proud to say that I helped enshrine the key principles of the Armed Forces Covenant in law.&lt;/p&gt;
-
-&lt;p&gt;I am now looking forward to helping put them into practice.&lt;/p&gt;
-
-&lt;p&gt;In July, the cabinet committee that oversees cross-government action on the Covenant (and on which I now sit) met jointly with the Covenant Reference Group to discuss an early draft of the Annual Report that we are committed to producing and presenting to Parliament by law.&lt;/p&gt;
-
-&lt;p&gt;So we will be held to account quite rightly for what is done to make the Covenant a reality.&lt;/p&gt;
-
-&lt;h2 id="building-strength-from-diversity"&gt;Building Strength from Diversity&lt;/h2&gt;
-
-&lt;p&gt;One manifestation of the Covenant in operation has been the growing strength of Armed Forces charities.&lt;/p&gt;
-
-&lt;p&gt;This is fantastic news.&lt;/p&gt;
-
-&lt;p&gt;The diversity in the charitable sector is part of its vitality and strength - responding to needs in a passionate, dynamic and often innovative way.&lt;/p&gt;
-
-&lt;p&gt;Overcoming institutional inertia. Challenging the establishment way of doing things.&lt;/p&gt;
-
-&lt;p&gt;But that very diversity can sometimes be confusing for those looking for help.&lt;/p&gt;
-
-&lt;p&gt;Not knowing where best to go or who to go to.&lt;/p&gt;
-
-&lt;p&gt;Sometimes signing up to a project only to find it doesn’t meet all their needs.&lt;/p&gt;
-
-&lt;p&gt;Not always receiving continuity of support as they need different types of help at different times.&lt;/p&gt;
-
-&lt;p&gt;So, one of the challenges that we have to work on today is to maintain the strength of diversity whilst achieving better co-ordination and through-life care.&lt;/p&gt;
-
-&lt;p&gt;Our shared aim must be greater effectiveness of support - and greater access for those who need it.&lt;/p&gt;
-
-&lt;p&gt;Of course Government is constrained in ways that the third sector is not.&lt;/p&gt;
-
-&lt;p&gt;I can understand the frustrations that are felt when you just want to get on with something.&lt;/p&gt;
-
-&lt;p&gt;The MOD can sometimes be a challenging partner.&lt;/p&gt;
-
-&lt;p&gt;But with the right shape of partnership we can provide both agility and permanence in the services we deliver to support the Armed Forces community.&lt;/p&gt;
-
-&lt;p&gt;There is strength in the diversity of welfare and charitable provision that is represented right here in this room.&lt;/p&gt;
-
-&lt;p&gt;The passion, the commitment, the innovation, the agility.&lt;/p&gt;
-
-&lt;p&gt;But we must marry it with the permanence and continuity that Government provides.&lt;/p&gt;
-
-&lt;p&gt;Because when money is tight - and it certainly is - we must make sure that every penny spent goes on reaching the people who are in need, and provides them with the practical help they require.&lt;/p&gt;
-
-&lt;h2 id="conclusion"&gt;Conclusion&lt;/h2&gt;
-
-&lt;p&gt;In conclusion ladies and gentlemen let me say this:&lt;/p&gt;
-
-&lt;p&gt;It is par for the course for a new Minister to say how ‘delighted’ they are by their appointment.&lt;/p&gt;
-
-&lt;p&gt;But when I say I am delighted, I really mean it.&lt;/p&gt;
-
-&lt;p&gt;I asked to come to the MOD.&lt;/p&gt;
-
-&lt;p&gt;I am looking forward to doing everything I practically can to improve the lot of our service personnel - to help support their families - to assist our veterans - and to make sure we never forget the debt we owe to the whole Armed Forces community.&lt;/p&gt;
-
-&lt;p&gt;There is no pot of gold. You all know this.&lt;/p&gt;
-
-&lt;p&gt;However, the military teaches the principle of combined arms -  all elements in a battle group working together co-operatively to achieve the maximum possible effect.&lt;/p&gt;
-
-&lt;p&gt;My message to you today is that with your help….and looking at the list of attendees today, I mean, quite literally, with your help…….that is exactly what I propose to do.&lt;/p&gt;
-
-&lt;p&gt;It is up to us, working together, to try and do even better for those who keep this country safe and free.&lt;/p&gt;
-
-&lt;p&gt;Good luck and enjoy the conference.&lt;/p&gt;&lt;/div&gt;</content>
+&lt;h2 id="notes-to-editors"&gt;Notes to Editors&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;
+    &lt;p&gt;DMRC is the premier facility for the rehabilitation of injured Service personnel. Originally it was developed as a rehabilitation centre for aircrew and officers following a collection and donation of monies during the Second World War.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;In 1984 it opened its doors to personnel of all ranks and Services. It became the main tri-Service rehabilitation centre in 1996 with the consolidation of the then rehabilitation facilities. Since 2002 it has played a central role delivering rehabilitation as part of a Service wide network of 14 medical Regional Rehabilitation Units.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;DMRC offers access to all aspects of rehabilitation with on-site Consultants, physiotherapists, exercise rehabilitation instructors, occupational therapists, speech and language therapists, social workers, psychologists, prosthetists and Mild Traumatic Brain Injury Programme. There are currently approximately 400 members of staff, split half civilian and half military. It has four gymnasiums a full-size swimming pool, a smaller hydrotherapy pool and a gait analysis laboratory to support the consultant led multidisciplinary team care.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;DIO is part of the MOD. It is responsible for managing and maintaining land and properties to meet the current and future needs of the MOD and personnel at home and abroad, and to support current operations. DIO manages the military estate to ensure Defence needs are met, value for money is achieved, heritage protected and environmental goals achieved.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;PriDE is a joint venture between Interserve Defence Ltd and Southern Electric Contracting, created specifically to manage DIO’s South East Regional Prime Contract (SE RPC). The SE RPC is one of five UK regional prime contracts. PriDE is responsible for estate management and construction services at almost 100 MOD sites in the south-east region.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;&lt;/div&gt;</content>
   </entry>
 </feed>

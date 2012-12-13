@@ -1,0 +1,457 @@
+<!DOCTYPE html>
+<!--[if lt IE 9]><html class="lte-ie8 " lang="en"><![endif]--><!--[if gt IE 8]><!--><html lang="en" class="">
+<!--<![endif]--><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<title>Development concepts and doctrine centre - Detailed guidance - GOV.UK</title>
+<!--[if gt IE 8]><!--><link href="https://assets.digital.cabinet-office.gov.uk/static/application-2443756d8f4f84725029eae77070b3aa.css" media="screen" rel="stylesheet" type="text/css">
+<!--<![endif]--><!--[if IE 6]><link href="https://assets.digital.cabinet-office.gov.uk/static/application-ie6-b2cc8f175a31ab7c525ab7e3a52ddc89.css" media="screen" rel="stylesheet" type="text/css" /><![endif]--><!--[if IE 7]><link href="https://assets.digital.cabinet-office.gov.uk/static/application-ie7-02e467bfd7eec979091f731a032c89cc.css" media="screen" rel="stylesheet" type="text/css" /><![endif]--><!--[if IE 8]><link href="https://assets.digital.cabinet-office.gov.uk/static/application-ie8-cbaf020a10f1c18312b3a0beb5981bdb.css" media="screen" rel="stylesheet" type="text/css" /><![endif]--><link href="https://assets.digital.cabinet-office.gov.uk/static/print-9e9ee3f9c14247af1d926867d66e5bed.css" media="print" rel="stylesheet" type="text/css">
+<!--[if IE 8]>
+<script type="text/javascript">
+  (function(){if(window.opera){return;}
+  setTimeout(function(){var a=document,g,b={families:(g=
+  ["nta"]),urls:["https://assets.digital.cabinet-office.gov.uk/static/fonts-ie8-da730b61a068fd36b1fc1c5ac387ea3a.css"]},
+  c="https://assets.digital.cabinet-office.gov.uk/static/libs/goog/webfont-debug-c6bcf1b06367c37979a87bc1ec2c8081.js",d="script",
+  e=a.createElement(d),f=a.getElementsByTagName(d)[0],h=g.length;WebFontConfig
+  ={custom:b},e.src=c,f.parentNode.insertBefore(e,f);for(;h=h-1;a.documentElement
+  .className+=' wf-'+g[h].replace(/\s/g,'').toLowerCase()+'-n4-loading');},0)
+  })()
+</script>
+<![endif]--><!--[if gte IE 9]><!--><link href="https://assets.digital.cabinet-office.gov.uk/static/fonts-92d13f81aa7b6018a3c5350b0f95f1f0.css" media="all" rel="stylesheet" type="text/css">
+<!--<![endif]--><script src="https://assets.digital.cabinet-office.gov.uk/static/libs/jquery/jquery-1.7.2-765cc76e15d62a88cd61468aeaaaeb5d.js" type="text/javascript"></script><script defer src="https://assets.digital.cabinet-office.gov.uk/static/application-357ad016cba46e8f135fbfd79289161d.js" type="text/javascript"></script><!--[if lt IE 9]>
+      <script src="https://assets.digital.cabinet-office.gov.uk/static/ie-5ffa3a966dcbd83a8dab5cb0aa2193d2.js" type="text/javascript"></script>
+    <![endif]--><link rel="shortcut icon" href="https://assets.digital.cabinet-office.gov.uk/static/favicon-17634b2677b373a25c5bb3ef93212a67.ico" type="image/x-icon">
+<!-- For third-generation iPad with high-resolution Retina display: --><link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://assets.digital.cabinet-office.gov.uk/static/apple-touch-icon-144x144-eee4e09bccd7c55b9b8dca2d6715ffa4.png">
+<!-- For iPhone with high-resolution Retina display: --><link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://assets.digital.cabinet-office.gov.uk/static/apple-touch-icon-114x114-460f91576fe9c617d4fdf7df46cfaef5.png">
+<!-- For first- and second-generation iPad: --><link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://assets.digital.cabinet-office.gov.uk/static/apple-touch-icon-72x72-52dfb66accadbd018bd25b13ed7fac68.png">
+<!-- For non-Retina iPhone, iPod Touch, and Android 2.1+ devices: --><link rel="apple-touch-icon-precomposed" href="https://assets.digital.cabinet-office.gov.uk/static/apple-touch-icon-57x57-7ed7919994fcf4a885cb56cc30fbed42.png">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script id="ga-params" type="text/javascript">
+  var GOVUK = GOVUK || {};
+  GOVUK.Analytics = GOVUK.Analytics || {};
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-26179049-1']);
+  if(document.domain=='www.gov.uk') {
+    _gaq.push(['_setDomainName', '.www.gov.uk']);
+  } else {
+    _gaq.push(['_setDomainName', document.domain]);
+  }
+  _gaq.push(['_setAllowLinker', true]);
+_gaq.push(["_setCustomVar",1,"Section","businesses and self-employed",3]);
+GOVUK.Analytics.Section = "businesses and self-employed";
+_gaq.push(["_setCustomVar",2,"Format","detailed_guidance",3]);
+GOVUK.Analytics.Format = "detailed_guidance";</script><script src="https://assets.digital.cabinet-office.gov.uk/static/analytics-790f0fcf4f241858e8ac518d3cc111cf.js" type="text/javascript"></script><script type="text/javascript">
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script><script defer src="https://assets.digital.cabinet-office.gov.uk/government/assets/application-b5a0c478893ab5873ac24100a27ed2e2.js" type="text/javascript"></script><!--[if gt IE 8]><!--><link href="https://assets.digital.cabinet-office.gov.uk/government/assets/frontend/base-d96c8c582762158e9b193c23751288d7.css" media="screen" rel="stylesheet" type="text/css">
+<!--<![endif]--><link href="https://assets.digital.cabinet-office.gov.uk/government/assets/frontend/print-daf98b13266ac805f7668634614eca9e.css" media="print" rel="stylesheet" type="text/css">
+<link href="https://www.gov.uk/government/feed" rel="alternate" title="Recent updates" type="application/atom+xml">
+<link href="https://www.gov.uk/api/specialist/development-concepts-and-doctrine-centre" rel="alternate" type="application/json">
+<meta content="True" name="HandheldFriendly">
+<meta content="320" name="MobileOptimized">
+<meta content="authenticity_token" name="csrf-param">
+<meta content="GCrfV9dUWXUJwv/BKy/CxlTigBtPqZUUIyQSsgtXyMY=" name="csrf-token">
+<!--[if IE 6]><link href="https://assets.digital.cabinet-office.gov.uk/government/assets/frontend/base-ie6-6a31b71ed33c5f89d007e78221a12e4e.css" media="screen" rel="stylesheet" type="text/css" /><![endif]--><!--[if IE 7]><link href="https://assets.digital.cabinet-office.gov.uk/government/assets/frontend/base-ie7-4066996a8993d8e81f62916247ef53ac.css" media="screen" rel="stylesheet" type="text/css" /><![endif]--><!--[if IE 8]><link href="https://assets.digital.cabinet-office.gov.uk/government/assets/frontend/base-ie8-3ef480c40c8279f8f6a89539adaa08fb.css" media="screen" rel="stylesheet" type="text/css" /><![endif]-->
+</head>
+<body class="website government detailed-guidance">
+      <script type="text/javascript">document.body.className = ((document.body.className) ? document.body.className + ' js-enabled' : 'js-enabled');</script><a href="#content" class="visuallyhidden">Skip to main content</a>
+
+    <header role="banner" class="group" id="global-header"><div class="header-wrapper group">
+        <a href="/" title="Go to the gov.uk homepage" id="logo"><img src="https://assets.digital.cabinet-office.gov.uk/static/gov.uk_logotype-aca6b2127968da9ca8d6b7601569e07f.png" alt="GOV.UK"></a>
+
+        <a href="#search" class="button search-toggle">Search</a>
+
+        <form id="search" class="site-search" action="/search#detailed-results" method="get" role="search">
+          <label for="site-search-text" class="visuallyhidden">Search</label>
+          <input type="search" name="q" id="site-search-text" title="Search"><input class="button" type="submit" value="Search">
+</form>
+      </div>
+    </header><!--end header--><div id="global-cookie-message">
+      <p>GOV.UK uses cookies to make the site simpler. <a href="/support/cookies">Find out more about cookies</a></p>
+    </div>
+
+    
+
+      <div id="global-breadcrumb" class="header-context">
+        <nav role="navigation"><ol class="group">
+<li><a href="/">Home</a></li>
+          <li><a href="https://www.gov.uk/browse/business">Businesses and self-employed</a></li>
+<li><a href="https://www.gov.uk/browse/business/sale-goods-services-data">Sale of goods and services and data protection</a></li>
+<li><strong><a href="/browse/business/sale-goods-services-data/military-equipment-logistics-and-technology">Military equipment, logistics and technology</a></strong></li>
+</ol></nav>
+</div>
+
+    <div id="whitehall-wrapper">
+      <div id="whitehall-inner">
+        <div id="content"></div>
+        <div id="page" class="detailed-guides-show">
+          
+<div class="document_page detailedguide">
+  <div class="block-1">
+    <div class="inner-block">
+      <div class="meta">
+            <section class="change-notes"><p>Published <abbr class="published-at date" title="2012-12-12T19:41:43+00:00">12 December 2012</abbr></p>
+    </section>
+</div>
+      <section class="page-header js-hide-extra-logos"><ul class="organisations-icon-list">
+<li class="organisation ministry-of-defence" id="organisation_17">
+              <a href="http://www.mod.uk/" class="organisation-logo organisation-logo-mod organisation-logo-mod-medium" rel="external" title="Ministry
+of Defence (external website)">
+                <span>Ministry
+of Defence</span>
+</a>
+</li>        </ul>
+<h1 class="page_title has_meta">Development concepts and doctrine centre</h1>
+<div class="page-meta">
+    <p class="summary">The development, concepts and doctrine centre (DCDC) is a Ministry of Defence think-tank, linked to the Defence Academy at Shrivenham.</p>
+</div>
+
+
+      </section>
+</div>
+  </div>
+  <div class="block-2">
+    <div class="inner-block">
+      <nav class="contextual-info" id="page-navigation"><h1>Contents</h1>
+    <nav class="detailed_guide_parts" role="navigation"><ol id="document_sections">
+<li>
+            <a href="#introduction">Introduction</a>
+          </li>
+          <li>
+            <a href="#what-we-do">What we do</a>
+          </li>
+          <li>
+            <a href="#legal">Legal</a>
+          </li>
+          <li>
+            <a href="#joint-strategic-and-operational-doctrine">Joint strategic and operational doctrine</a>
+          </li>
+          <li>
+            <a href="#future-strategic-trends">Future: strategic trends</a>
+          </li>
+          <li>
+            <a href="#futures-concepts">Futures: concepts</a>
+          </li>
+          <li>
+            <a href="#development-analysis-and-research-team">Development, analysis and research team</a>
+          </li>
+        <li class="more-like-this">
+          <a href="#more-like-this">See more like this</a>
+        </li>
+      </ol></nav></nav>
+</div>
+  </div>
+  <div class="block-3">
+    <div class="inner-block">
+      <article class="document"><div class="body">
+    <div class="govspeak">
+<h2 id="introduction">Introduction</h2>
+
+<p>The <abbr title="Development, Concepts and Doctrine Centre">DCDC</abbr> will: Produce concepts and doctrine - underpinned by thorough research and experimentation - to help inform decisions in Defence strategy, capability development and operations, and to provide the foundation for joint education, both now and into the future.</p>
+
+<h3 id="organisation-news">Organisation news</h3>
+
+<p><a rel="external" href="http://www.mod.uk/DefenceInternet/DefenceNews/Archive/"><abbr title="Development, Concepts and Doctrine Centre">DCDC</abbr> news</a></p>
+
+<h3 id="dcdc-publications">
+<abbr title="Development, Concepts and Doctrine Centre">DCDC</abbr> publications</h3>
+
+<h4 id="protecting-access-to-spacehttpwwwmodukdefenceinternetmicrositedcdcourpublicationsconceptsprotectingaccesstospacehtm"><a rel="external" href="http://www.mod.uk/DefenceInternet/MicroSite/DCDC/OurPublications/Concepts/ProtectingAccessToSpace.htm">Protecting access to space</a></h4>
+
+<p>Protecting Access to Space’ identifies the great extent to which most nations rely upon services that are delivered from space and outlines steps that may be taken to assure their continued availability.</p>
+
+<h4 id="jcn-212-future-land-operating-concepthttpwwwmodukdefenceinternetmicrositedcdcourpublicationsconceptsjcn212futurelandoperatingconcepthtm"><a rel="external" href="http://www.mod.uk/DefenceInternet/MicroSite/DCDC/OurPublications/Concepts/Jcn212FutureLandOperatingConcept.htm">JCN 2/12: Future Land Operating Concept</a></h4>
+
+<p>Future Land Operating Concept provides the contextual basis for military activity in the Land environment through to 2030, and the Land context for Army force development.</p>
+
+<h4 id="jcn-312-future-air-and-space-operating-concepthttpwwwmodukdefenceinternetmicrositedcdcourpublicationsconceptsjcn312futureairandspaceoperatingconcepthtm"><a rel="external" href="http://www.mod.uk/DefenceInternet/MicroSite/DCDC/OurPublications/Concepts/Jcn312FutureAirAndSpaceOperatingConcept.htm">JCN 3/12: Future Air and Space Operating Concept</a></h4>
+
+<p>Future Air and Space Operating Concept provides both the contextual basis for military activity in the air and space environments through to 2035, and broad guidance for air and space capability, concept and force development within this timescale.</p>
+
+<h4 id="strategic-trends-programme-regional-survey---south-asia-out-to-2040httpwwwmodukdefenceinternetmicrositedcdcourpublicationsstrategictrendsprogrammestrategictrendsprogrammeregionalsurveysouthasiaoutto2040htm"><a rel="external" href="http://www.mod.uk/DefenceInternet/MicroSite/DCDC/OurPublications/StrategicTrends+Programme/StrategicTrendsProgrammeRegionalSurveySouthAsiaOutTo2040.htm">Strategic trends programme regional survey - South Asia out to 2040</a></h4>
+
+<p>The <abbr title="Development, Concepts and Doctrine Centre">DCDC</abbr> ‘South Asia out to 2040’ regional survey identifies key strategic trends for South Asia over the next 30 years and explores the challenges and opportunities that surround an Eastern shift in global power.</p>
+
+<h4 id="more-publicationshttpwwwmodukdefenceinternetmicrositedcdcourpublications"><a rel="external" href="http://www.mod.uk/DefenceInternet/MicroSite/DCDC/OurPublications">More publications</a></h4>
+
+<h3 id="contact-details">Contact details</h3>
+
+<div class="address"><div class="adr org fn"><p>
+
+Development, concepts and doctrine centre
+<br>Shrivenham
+<br>Swindon
+<br>SN6 8RF
+<br></p></div></div>
+
+<p>tel: 01793 314347<br>
+fax: 01793 314211  </p>
+
+<p>email: <a href="mailto:DCDC-DocEds@mod.uk"><abbr title="Development, Concepts and Doctrine Centre">DCDC</abbr>-DocEds@mod.uk</a></p>
+
+<h2 id="what-we-do">What we do</h2>
+
+<p>The Development, Concepts and Doctrine Centre (<abbr title="Development, Concepts and Doctrine Centre">DCDC</abbr>) is a Ministry of Defence think-tank, collocated with the Defence Academy at Shrivenham. </p>
+
+<h3 id="mission">Mission</h3>
+
+<p>The <abbr title="Development, Concepts and Doctrine Centre">DCDC</abbr> will: produce concepts and doctrine - underpinned by through research and experimentation - to help inform decisions in Defence strategy, capability development and operations, and to provide the foundation for joint education, both now and into the future.</p>
+
+<p><abbr title="Development, Concepts and Doctrine Centre">DCDC</abbr> traces its origins to the United Kingdom Strategic Defence Review published in July 1998, beginning its existence as the Joint Doctrine and Concepts Centre which recognised that: </p>
+
+<blockquote>
+  <p>We need to have a clearer long-term vision of the way in which we expect our forces and their methods of operation to develop. It is also essential that this a truly joint Service vision. We will therefore be creating a Joint Defence Centre as the focus for this work. In particular, it will be responsible for the development of Defence doctrine, providing the joint framework for more specific single-Service doctrine…” Originally called the Joint Doctrine and Concepts Centre (<abbr title="Joint Doctrine and Concepts Centre">JDCC</abbr>), the name was changed to <abbr title="Development, Concepts and Doctrine Centre">DCDC</abbr> in April 2006 when the Centre expanded to become the Defence authority for doctrinal, conceptual and futures work, taking on extra environmental staff to reflect the needs of the individual Services.</p>
+</blockquote>
+
+<p>It is headed by a two-star Serviceman and is a truly Joint establishment, with staff drawn from all three Armed Services and the Civil Service.</p>
+
+<p>Desk officers come from a wide variety of specialised backgrounds and combine their skills in project teams allocated through a system of matrix management - a collegiate approach designed to ensure a wide input into all projects.</p>
+
+<p>The Centre maintains close relationships with the Permanent Joint Headquarters, the single-Service Warfare centres and the Defence Academy.</p>
+
+<p>We also work routinely with <abbr title="North Atlantic Treaty Organisation">NATO</abbr>, the European Union, the United Nations and a wide range of nations, as well as Other Government Departments and Non-governmental Organisations.</p>
+
+<p>More widely, we sustain an extensive programme of engagement with world-class academic institutions and personalities, as well as Industry, the Media and the general public.</p>
+
+<h2 id="legal">Legal</h2>
+
+<p>Part of the <abbr title="Development, Concepts and Doctrine Centre">DCDC</abbr> Mission is ‘to maintain legal compliance and sustain a favourable legal environment for Defence activity and capability’. To that end, the <abbr title="Development, Concepts and Doctrine Centre">DCDC</abbr> has its own team of in-house lawyers.</p>
+
+<p>When undertaking operations, commanders must take into account a broad and increasingly complex body of legal provisions including both domestic legislation and international legal norms.</p>
+
+<p>The <abbr title="Development, Concepts and Doctrine Centre">DCDC</abbr> Legal Team comprises 3 lawyers, one from each Service, who are specialists in international law and have an operational background. </p>
+
+<p>Their prime function is to provide legal advice and input into <abbr title="Development, Concepts and Doctrine Centre">DCDC</abbr> products from the outset. The team also discharges a number of discrete tasks for Defence.</p>
+
+<p>The Legal Team’s core responsibilities are:</p>
+
+<ul>
+<li>to provide early and regular legal advice and input as conceptual and doctrinal thinking evolves and develops. The Legal Team also works closely with Strategic Trends on strategic futures issues.  All <abbr title="Development, Concepts and Doctrine Centre">DCDC</abbr> outputs are examined to ensure legal compliance</li>
+  <li>to provide the MOD with specialist advice on international weapons law. The team conducts, on behalf of the UK, legal reviews of all new weapons and means or methods of warfare and of associated technologies. Legal reviews are conducted at the Initial Gate, Main Gate and down-select stages of the MOD procurement cycle; this meets the UK’s treaty obligation to ensure legal compliance in the procurement of new weapons. Urgent operational requirements are also legally reviewed on a ‘one stop’ basis</li>
+  <li>to act as UK delegates at weapons-related treaty negotiations under the auspices of the Conventional Weapons Convention, providing specialist legal advice to the UK negotiators. This involves coordination with the FCO and international engagement with other States Parties, as well as regular attendance at conferences at the UN in Geneva</li>
+  <li>to be the custodians for the ‘Joint Service Manual of the Law of Armed Conflict’ (JSP 383) and the ‘Aide Memoire on the Law of Armed Conflict’ (JSP 381) as well as doctrine publications on the ‘Legal Support to Joint Operations’ (JWP 3-46) and ‘Prisoners of War, Internees and Detainees’ (JDP 1-10)</li>
+</ul>
+<h2 id="joint-strategic-and-operational-doctrine">Joint strategic and operational doctrine</h2>
+
+<p>Military doctrine contains the fundamental principles that guide how our military forces conduct their actions.</p>
+
+<p>It provides a common basis for understanding the nature and conduct of armed conflict, describing how military operations are directed, mounted, commanded, executed, sustained and recovered.</p>
+
+<p>It is not about the past nor is it about the distant future; doctrine concerns today and the immediate future. It is dynamic, constantly tested against our experience on operations, and evidence from major exercises, and thereby kept continually up-to-date.</p>
+
+<p>However, it is not a handy compilation of formulas or axioms, to be followed without question and regardless of circumstances; in employing doctrine, practitioners should consider that every situation needs to be examined and evaluated in its own right and that formulaic responses are unlikely to succeed.</p>
+
+<p>Doctrine is authoritative but requires judgement in its application.</p>
+
+<p>Fusing experience in the planning and conduct of Joint operations, with the detailed knowledge of subject matter experts, to provide effective guidance for commanders and staff is the essence of Joint doctrine development.</p>
+
+<p>Although <abbr title="Development, Concepts and Doctrine Centre">DCDC</abbr> leads, there exists a federation of key players, all closely involved in the production of our national Joint doctrine.</p>
+
+<p>These are the Permanent Joint Headquarters, the Joint Services Command and Staff College, the single-Service warfare centres and a range of Ministry of Defence departments.
+The UK’s Joint doctrine is structured hierarchically. ‘British Defence Doctrine’ sits at the apex, outlining the philosophy of Defence as an instrument of national power and the British military approach to operations in particular.</p>
+
+<p>Beneath it come publications setting out the principles of Joint campaigning, both in the UK and deployed overseas, frequently conducted in a multinational and indeed a multi-agency environment.</p>
+
+<p>Finally Joint practices and procedures are detailed in a comprehensive range of subordinate publications covering specific military activities, such as planning, intelligence, logistic support and others.</p>
+
+<p>The UK recognises the multinational nature of many operations and the <abbr title="Development, Concepts and Doctrine Centre">DCDC</abbr> is closely engaged with <abbr title="North Atlantic Treaty Organisation">NATO</abbr> and other partners in the development of shared military doctrine for multinational operations.</p>
+
+<p>By offering our wide experience in a number of operational environments, we seek to provide a significant contribution to Allied and coalition effectiveness through better multinational doctrine.</p>
+
+<h2 id="future-strategic-trends">Future: strategic trends</h2>
+
+<p>Strategic Trends provides a measure of context and coherence in an uncertain predictive area characterised by risk, ambiguity and change.</p>
+
+<p>The need for Defence to examine the future strategic context was articulated in the Strategic Defence Review (1998).</p>
+
+<p>This confirmed the long-term nature of Defence planning and the requirement for comprehensive understanding of the complex strategic environment.</p>
+
+<p>The <abbr title="Development, Concepts and Doctrine Centre">DCDC</abbr> approach goes beyond identifying the potential future military threats, to which our Armed Forces will have to respond, and looks at the developments in areas that will shape the wider strategic context within which Defence will have to interact.</p>
+
+<p>Defence decisions about how to act and react in relation to these issues are considered over time with an appropriate balance of judgement and risk, and take time to form and implement.</p>
+
+<p>The consequences of these decisions tend to endure for some time. Weapon systems and platforms can take more than 15 years to design and acquire and may be retained in service for 20-30 years.</p>
+
+<p>Similarly, the development of long term Defence relationships, post conflict peace-building and achieving the long-term personnel requirements of the Armed Forces, are all long-term activities.</p>
+
+<p>In addition, in terms of value for money and strategic resilience, Defence has to make a prudent assessment of those capabilities the Armed Forces will need to sustain a consistently credible military posture over time, while allowing some flexibility for the unexpected and rapid change.</p>
+
+<p>One of the strengths of Strategic Trends assessment is its independence from routine staffing and wider Defence decision-making.</p>
+
+<p>This helps ensure its objectivity, intellectual rigour and freedom from accusations of compromise, lobby-group pressure or partiality. Consequently Strategic Trends work is able to inform Defence decisions, without being constrained by fashion or received wisdom.</p>
+
+<p>Some of the findings of Strategic Trends will, therefore, challenge views which derive from existing or transient circumstances, rather than from long wave trends from the enduring features of the strategic context.</p>
+
+<p>Strategic Trends presents an understanding of the changes likely to take place during the next 30 years, by considering major trend-based outcomes in 5 dimensions:</p>
+
+<ul>
+<li>resource</li>
+  <li>social</li>
+  <li>political</li>
+  <li>science and technology</li>
+  <li>military</li>
+</ul>
+<h3 id="related-pages">Related pages</h3>
+
+<ul>
+<li><a rel="external" href="http://www.mod.uk/DefenceInternet/MicroSite/DCDC/OurPublications/StrategicTrends+Programme/"><abbr title="Development, Concepts and Doctrine Centre">DCDC</abbr> global strategic trends programme</a></li>
+  <li><a rel="external" href="http://www.mod.uk/DefenceInternet/AboutDefence/CorporatePublications/PolicyStrategyandPlanning/SDR/StrategicDefenceReview.htm">Strategic Sefence Review 1998 (CM3999)</a></li>
+</ul>
+<h2 id="futures-concepts">Futures: concepts</h2>
+
+<p>A Concept is ‘a notion or statement of an idea, expressing how something might be done or accomplished, that may lead to an accepted procedure or capability’.</p>
+
+<p>Concepts are reasonable assessments of how UK Armed Forces might wish to operate in the medium to long term, based on changes in Policy and emerging trends in the strategic, security and technological domains: they will usually contain a combination of informed judgement and innovative thinking.</p>
+
+<p>Concepts are subjected to rigorous analysis, systematic evaluation and practical testing and experimentation to transform creative thought into credible, effective ways of operating or a well-defined capability requirement.</p>
+
+<p>They are articulated in different forms; for example, the High Level Operational Concept (HLOC) describes in broad terms the principles and characteristics of the way in which the UK Armed Forces might operate in future. This is expanded through the 7 Functions of the Defence Capability Framework (DCF), which provides a common language to describe the things we require our Armed Forces to do.</p>
+
+<p>Concepts in their early stages normally have a horizon of 15-20 years and will guide rather than immediately influence capability acquisition, but, progressively, achieve sufficient maturity through experimentation to provide authoritative provenance and momentum for the resourcing of capability.</p>
+
+<p>Finally, and most importantly, Concepts provide the intellectual underpinning for future Defence capabilities including the associated equipment, systems, force structure, organisation, training etc.</p>
+
+<p>Early conceptual work is necessarily wide-ranging and abstract, but while Analytical Concepts include themes and innovative ideas in general terms, they do not yet have the rigour and granularity necessary to meet the requirements of the MOD Unified Customer. </p>
+
+<p>The purpose of Analytical Concepts is to challenge conventional wisdom, ensure intellectual rigour and relevance, provide a firm basis for further conceptual development and early indications of capabilities that might need to be procured. </p>
+
+<p>Analytical Concepts then transition through an Interim stage of development in which they are subjected to extensive testing, analysis, experimentation, validation and staffing.</p>
+
+<p>Once this phase is complete, Concepts become Applied, ready for authoritative use by ECC, Programming and operational communities. These 3 progressive stages of conceptual development form a Hierarchy of Concepts.</p>
+
+<p>Analytical Concepts are generated by the <abbr title="Development, Concepts and Doctrine Centre">DCDC</abbr> as an initial response to changes in Policy, future trends and innovative thinking and as a basis for further development. They are used to provide the context within which Interim or Applied Concepts are developed. The horizon for an Analytical Concept extends out to about 15-20 years (Epoch 4). Examples are:</p>
+
+<ul>
+<li>the High Level Operational Concept (HLOC) provides a long-term vision of the circumstances and way in which UK Armed Forces are expected to operate in the future. Salient parts of the HLOC will normally be developed further through subordinate Analytical Concepts (sub-Concepts), to give greater exposure and detail to specific elements of the Defence Capability Framework (DCF) and the context for subsequent conceptual development. HLOC sub-Concepts may also be developed to reflect innovative thinking that builds on and improves the existing DCF, ahead of a revision of the HLOC</li>
+  <li>Defence Capability Framework (DCF) Concepts. These are the functions of the DCF that merit further analysis prior to their Interim Stage of development.</li>
+</ul>
+<p>Interim Concepts are Analytical Concepts that are undergoing further development and validation before final Central Staff endorsement. The term ‘Interim’ describes a stage of development rather than a specific output. Once a mature Interim Concept is endorsed it becomes an Applied Concept.</p>
+
+<p>Applied Concepts are put to practical use by Capability Developers and Defence Planners. Their horizon is the 10-20 year timeframe (Epochs 3 - 4). An Applied Concept describes the ways in which a range of (future and where necessary extant) capabilities are used in a future operational context to solve a particular problem or capability gap. </p>
+
+<p>Applied Concepts will be used to develop CONEMP and CONUSE and to steer the Capability Change Planning process. Applied Concepts will also inform the Defence Programme and influence Policy by setting the context for future operations and will be controlled by the <abbr title="Development, Concepts and Doctrine Centre">DCDC</abbr>.</p>
+
+<h2 id="development-analysis-and-research-team">Development, analysis and research team</h2>
+
+<p>The Development, Analysis &amp; Research Team (DART) provide the empirical evidence and scientific basis for <abbr title="Development, Concepts and Doctrine Centre">DCDC</abbr> products and ensures that <abbr title="Development, Concepts and Doctrine Centre">DCDC</abbr> acts as a professional body of knowledge for MOD.</p>
+
+<p>The DART achieves this overarching aim by enabling access to science and technology developments and by delivering analysis and experimentation in support of conceptual and doctrinal development. </p>
+
+<p>The DART activity can be categorised under 4 main thrusts:</p>
+
+<h3 id="analysis-advice">Analysis advice</h3>
+
+<p>The DART provide an analytical focus for <abbr title="Development, Concepts and Doctrine Centre">DCDC</abbr> product development through a combination of in-house and external expertise. </p>
+
+<h3 id="experimentation">Experimentation</h3>
+
+<p>The DART are engaged in a range of experimentation activities that support <abbr title="Development, Concepts and Doctrine Centre">DCDC</abbr> product development. </p>
+
+<p>The main areas of current engagement are through the Multi-National Experiment (<abbr title="Multi-National Experiment">MNE</abbr>) series of <abbr title="North Atlantic Treaty Organisation">NATO</abbr>-run exercises and through the collaborative development of the ‘Concept Test’ toolset with Dstl.</p>
+
+<h3 id="lessons">Lessons</h3>
+
+<p>The Lessons function within the DART fulfills a number of roles. </p>
+
+<p>While providing the central administration of the Defence Lessons Identified Management System (DLIMS), through liaison with PJHQ, the DART is able to synthesise operational lessons, identify and analyse lessons trends and through Operational Experience Groups (OEG), interview key military and civilian commanders to provide a contemporary focus for <abbr title="Development, Concepts and Doctrine Centre">DCDC</abbr> products.</p>
+
+<h3 id="science-and-technology">Science and Technology</h3>
+
+<p>Since the initiation of the Concept to Capability process by <abbr title="Development, Concepts and Doctrine Centre">DCDC</abbr> in 2006 there has been a drive to improve the concept development process by increasing their provenance, testing the ideas that evolve and creating a supporting evidence base.</p>
+
+<p>The Science &amp; Technology Trends Defence Implications (<abbr title="Science &amp; Technology Trends Defence Implications">STTDI</abbr>) programme of work was started in 2006 with the direct aim of supporting improvements to concept development by promoting innovation and the discussion of S&amp;T.</p>
+
+<p>This is now at a suitable level of maturity to enable testing of how the S&amp;T detailed within the <abbr title="Science &amp; Technology Trends Defence Implications">STTDI</abbr> database might be used in future, in the form of Technology Assessment Seminars (TAS). </p>
+
+<p>The TAS have evolved from the <abbr title="North Atlantic Treaty Organisation">NATO</abbr> Disruptive Technologies Assessment Games (<abbr title="Disruptive Technologies Assessment Game">DTAG</abbr>) - part of the SAS 062, The Impact of Potentially Disruptive Technologies. The <abbr title="Disruptive Technologies Assessment Game">DTAG</abbr> used Ideas of Systems (IoS) cards, each detailing a theoretical sysytem that could be employed by or against the military.</p>
+
+<h3 id="work-plan">Work Plan</h3>
+
+<p>The work plan for the DART is integrated with those of the Concepts, Strategic Trends and Thematic Doctrine Teams. The main areas of focus are:</p>
+
+<ul>
+<li>develop an Integrated Analysis and Experimentation Support Paper (<abbr title="Integrated Analysis and Experimentation Support Paper">IAESP</abbr>) to identify key issues, analysis and experimentation opportunities and the developments required in analytical tools and techniques</li>
+  <li>manage the research requirements for MOD Research programme providing advice to the policy and planning area for the policy and commitments group. Activities include formulation of the long-term research strategy and managing the annual programme</li>
+</ul>
+</div>
+  </div>
+</article>
+</div>
+  </div>
+  <div class="block-4">
+    <div class="inner-block">
+      <div class="js-back-to-content back-to-content visuallyhidden">
+        <a href="#page-navigation">Back to contents</a>
+      </div>
+      <aside id="more-like-this" class="aside-more-like-this"><h1>More like this</h1>
+          <section id="guide-categories" class="categories"><div class="inner">
+              <h2>All detailed guidance about</h2>
+              <ul>
+<li class="mainstream_category" id="mainstream_category_93">
+                    <a href="/browse/business/sale-goods-services-data/military-equipment-logistics-and-technology">Military equipment, logistics and technology</a>
+</li>              </ul>
+</div>
+          </section></aside>
+</div>
+  </div>
+ </div>
+
+        </div>
+      </div>
+    </div>
+
+    <footer class="group" id="footer" role="contentinfo"><div class="footer-wrapper">
+        <nav class="footer-categories"><div class="footer-explore">
+            <h2>Explore GOV.UK</h2>
+
+            <ul>
+<li><a href="/browse/driving">Driving, transport and travel</a></li>
+              <li><a href="/browse/benefits">Benefits</a></li>
+              <li><a href="/browse/business">Businesses and self-employed</a></li>
+              <li><a href="/browse/employing-people">Employing people</a></li>
+              <li><a href="/browse/education">Education and learning</a></li>
+              <li><a href="/browse/working">Working, jobs and pensions</a></li>
+              <li><a href="/browse/housing">Housing and local services</a></li>
+              <li><a href="/browse/justice">Crime, justice and the law</a></li>
+              <li><a href="/browse/tax">Money and tax</a></li>
+              <li><a href="/browse/births-deaths-marriages">Births, deaths, marriages and care</a></li>
+              <li><a href="/browse/disabilities">Disabled people</a></li>
+              <li><a href="/browse/citizenship">Citizenship and life in the UK</a></li>
+            </ul>
+</div>
+
+          <div class="footer-inside-government">
+            <h2><a href="/government">Inside Government</a></h2>
+
+            <ul>
+<li><a href="/government/how-government-works">How government works</a></li>
+              <li><a href="/government/organisations">Departments</a></li>
+              <li><a href="/government/topics">Topics</a></li>
+              <li><a href="/government/policies">Policies</a></li>
+              <li><a href="/government/publications">Publications</a></li>
+              <li><a href="/government/announcements">Announcements</a></li>
+            </ul>
+</div>
+
+        </nav><div class="footer-meta">
+          <nav><ul>
+<li><a href="/support">Support</a></li>
+              <li><a href="/support/cookies">Cookies</a></li>
+              <li><a href="/feedback">Feedback</a></li>
+              <li><a href="/cymraeg">Cymraeg</a></li>
+              <li>Built by the <a href="http://digital.cabinetoffice.gov.uk/">Government Digital Service</a>
+</li>
+            </ul>
+<p>All content is available under the <a href="http://www.nationalarchives.gov.uk/doc/open-government-licence/">Open Government Licence</a>, except where otherwise stated</p>
+          </nav><div class="copyright">
+            <a href="http://www.nationalarchives.gov.uk/information-management/our-services/crown-copyright.htm">© Crown Copyright</a>
+          </div>
+        </div>
+      </div>
+    </footer><!--end footer--><div id="global-app-error" class="app-error hidden"></div>
+
+  </body>
+</html>

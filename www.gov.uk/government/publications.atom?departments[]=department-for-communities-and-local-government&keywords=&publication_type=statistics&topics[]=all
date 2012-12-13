@@ -8,7 +8,41 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-11-10T09:35:44+00:00</updated>
+  <updated>2012-12-12T10:08:54+00:00</updated>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/50175</id>
+    <published>2012-12-12T10:08:54+00:00</published>
+    <updated>2012-12-12T10:08:54+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/statistical-data-sets/competent-person-self-certification-schemes-statistics"/>
+    <title>Competent person self-certification schemes statistics</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Department for Communities and Local Government has authorised a number of &lt;a href="https://www.gov.uk/building-regulations-competent-person-schemes/overview"&gt;competent person schemes&lt;/a&gt; in schedule 3 of the &lt;a rel="external" href="http://www.legislation.gov.uk/uksi/2010/2214/contents/made"&gt;Building Regulations 2010&lt;/a&gt; (as amended).&lt;/p&gt;
+
+&lt;p&gt;Every 6 months we ask the schemes to provide us with information on their total registered membership at the end of the 6-month period and the number of jobs the registered members have undertaken in the period.&lt;/p&gt;
+
+&lt;p&gt;The latest worksheet in the Excel document sets out data for 1 October 2011 to 31 March 2012. Other tables within the document cover:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;April 2011 to September 2011&lt;/li&gt;
+  &lt;li&gt;October 2010 to March 2011&lt;/li&gt;
+  &lt;li&gt;April 2010 to September 2010&lt;/li&gt;
+  &lt;li&gt;October 2009 to March 2010&lt;/li&gt;
+  &lt;li&gt;April 2009 to September 2009&lt;/li&gt;
+  &lt;li&gt;October 2008 to March 2009&lt;/li&gt;
+  &lt;li&gt;April 2008 to September 2008&lt;/li&gt;
+  &lt;li&gt;October 2007 to March 2008&lt;/li&gt;
+  &lt;li&gt;April 2007 to September 2007&lt;/li&gt;
+  &lt;li&gt;October 2006 to March 2007&lt;/li&gt;
+&lt;/ul&gt;&lt;h2 id="notes"&gt;Notes&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;
+    &lt;p&gt;Registered membership is by business, not by individual. Many businesses will consist of more than one competent individual so the total number of competent individuals will be higher than the registered membership figures.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Schemes are authorised by the type of work that their registered members carry out. However, in many schemes, particularly those dealing with the installation of heating, hot water service, air-conditioning, mechanical ventilation and plumbing systems, registered members do more than one type of work. To prevent as far as possible double counting of registered members or notifications to local authorities (which often encompass more than one type of work) the statistics combine all types of work (except electrical installations) for each of the scheme operators.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;&lt;/div&gt;</content>
+  </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/35664</id>
     <published>2012-11-10T09:35:44+00:00</published>
@@ -1615,14 +1649,6 @@
 &lt;/section&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/17151</id>
-    <published>2012-11-29T00:00:00+00:00</published>
-    <updated>2012-11-29T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/firefighters-pension-schemes-membership-data-england-2011-to-2012"/>
-    <title>Firefighters' pension schemes membership data England, 2011 to 2012</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This release provides membership information on the firefighters’ pension schemes submitted by all 46 fire authorities in England.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/17206</id>
     <published>2012-11-29T00:00:00+00:00</published>
     <updated>2012-11-29T00:00:00+00:00</updated>
@@ -1631,6 +1657,14 @@
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The latest official statistics on the Code for Sustainable Homes and Average Energy Efficiency (SAP ratings) were released on 29 November 2012.&lt;/p&gt;
 
 &lt;p&gt;Statistics in this release relating to the Code for Sustainable Homes show the number of dwellings that have been certified to the standards set out in the Code Technical Guide.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/17151</id>
+    <published>2012-11-29T00:00:00+00:00</published>
+    <updated>2012-11-29T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/firefighters-pension-schemes-membership-data-england-2011-to-2012"/>
+    <title>Firefighters' pension schemes membership data England, 2011 to 2012</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This release provides membership information on the firefighters’ pension schemes submitted by all 46 fire authorities in England.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/35695</id>
@@ -1772,28 +1806,5 @@
 &lt;li&gt;Local authorities sold an estimated 444 dwellings under the right to buy scheme in 2012-13 quarter 1. In this quarter local authorities received £24 million from right to buy sales, while 14 dwellings were started on site or acquired.&lt;/li&gt;
   &lt;li&gt;Local authorities sold an estimated 1,043 dwellings under the right to buy scheme in 2012-13 quarter 2. In this quarter local authorities received £62 million from right to buy sales, while 234 dwellings were started on site or acquired.&lt;/li&gt;
 &lt;/ul&gt;&lt;p&gt;These statistics relate only to sales by local authorities under the right to buy scheme, excluding sales by registered providers under preserved right to buy.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/17389</id>
-    <published>2012-11-15T00:00:00+00:00</published>
-    <updated>2012-11-15T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/house-building-in-england-july-to-september-2012"/>
-    <title>House building in England: July to September 2012</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The latest national statistics on house building in England were released on 15 November 2012.&lt;/p&gt;
-
-&lt;p&gt;Statistics in this release present figures on new build housing starts and completions in England. Figures for the UK and constituent countries are also available in the accompanying tables.&lt;/p&gt;
-
-&lt;p&gt;The latest statistics report on the period July to September 2012 and update those previously released on 16 August 2012.&lt;/p&gt;
-
-&lt;p&gt;Key points from the latest release are:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Seasonally adjusted house building starts in England increased by 18% and stood at 25,760 in the September quarter 2012.&lt;/li&gt;
-  &lt;li&gt;Seasonally adjusted completions fell, down 7% to 27,060 in the September quarter 2012.&lt;/li&gt;
-  &lt;li&gt;Private enterprise housing starts (seasonally adjusted) were 15% higher in the September quarter 2012 than the previous quarter, whilst starts by housing associations were 23% higher.&lt;/li&gt;
-  &lt;li&gt;Seasonally adjusted private enterprise completions fell by 6% and housing association completions fell by 14% from the previous quarter.&lt;/li&gt;
-  &lt;li&gt;Seasonally adjusted starts are now 52% above the trough in the March quarter 2009 but 45% below the December quarter 2005 peak. Completions are 44% below their March quarter 2007 peak.&lt;/li&gt;
-  &lt;li&gt;Annual housing starts totalled 98,020 in the 12 months to September 2012, down by 9% compared with the year before. Annual housing completions in England reached 117,190 in the 12 months to September 2012, an increase of 6% compared with the previous 12 months.&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</content>
   </entry>
 </feed>

@@ -1,0 +1,1161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-GB" xmlns="http://www.w3.org/2005/Atom">
+  <id>tag:www.gov.uk,2005:/government/announcements</id>
+  <link rel="alternate" type="text/html" href="https://www.gov.uk/government"/>
+  <link rel="self" type="application/atom+xml" href="https://www.gov.uk/government/announcements.atom?departments%5B%5D=attorney-generals-office"/>
+  <title>Inside Government</title>
+  <subtitle>Recent announcements</subtitle>
+  <author>
+    <name>HM Government</name>
+  </author>
+  <updated>2012-12-12T12:18:00+00:00</updated>
+  <entry>
+    <id>tag:www.gov.uk,2005:AnnouncementPresenter/54845</id>
+    <published>2012-12-12T12:18:00+00:00</published>
+    <updated>2012-12-12T12:18:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/the-new-home-on-the-web-for-fco-mod-bis-and-ago"/>
+    <title>The new home on the web for FCO, MOD, BIS and AGO</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Four central government departments and several of their public bodies have today (13 December, 2012) become the latest central government organisations to move their corporate and policy content onto the new GOV.UK website - the new single home for all government services and information.&lt;/p&gt;
+
+&lt;p&gt;The Foreign and Commonwealth Office (&lt;abbr title="Foreign and Commonwealth Office"&gt;FCO&lt;/abbr&gt;), Ministry of Defence (&lt;abbr title="Ministry of Defence"&gt;MOD&lt;/abbr&gt;), Department for Business, Innovation and Skills (&lt;abbr title="Department for Business, Innovation and Skills"&gt;BIS&lt;/abbr&gt;) and Attorney General’s Office (&lt;abbr title="Attorney General's Office"&gt;AGO&lt;/abbr&gt;) have moved their content to the new website, joining the Department for Transport (&lt;abbr title="Department for Transport"&gt;DFT&lt;/abbr&gt;) and Communities and Local Government (&lt;abbr title="Department for Communities and Local Government"&gt;DCLG&lt;/abbr&gt;) whose content moved to GOV.UK last month.&lt;/p&gt;
+
+&lt;p&gt;The Inside Government section on GOV.UK makes it simpler, clearer and faster to find out:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;how government works&lt;/li&gt;
+  &lt;li&gt;what the government is doing&lt;/li&gt;
+  &lt;li&gt;how you can get involved&lt;/li&gt;
+&lt;/ul&gt;&lt;h2 id="new-web-addresses"&gt;New web addresses&lt;/h2&gt;
+&lt;p&gt;All web addresses have been redirected, so you don’t need to update your bookmarks, but you might want to make a note of the new addresses: &lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href="https://www.gov.uk/fco" title="FCO"&gt;www.gov.uk/fco&lt;/a&gt; - Foreign and Commonwealth Office&lt;/li&gt;
+  &lt;li&gt;
+&lt;a href="https://www.gov.uk/mod" title="MOD"&gt;www.gov.uk/mod&lt;/a&gt; - Ministry of Defence&lt;/li&gt;
+  &lt;li&gt;
+&lt;a href="https://www.gov.uk/bis" title="BIS"&gt;www.gov.uk/bis&lt;/a&gt; - Department for Business, Innovation and Skills&lt;/li&gt;
+  &lt;li&gt;
+&lt;a href="https://www.gov.uk/ago" title="AGO"&gt;www.gov.uk/ago&lt;/a&gt; - Attorney General’s Office&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;The Inside Government section of GOV.UK has been designed to make government information easier to find and more transparent for the user. For the first time, you can begin to find out what’s happening inside government all in one place, and in a clear, consistent and transparent format. &lt;/p&gt;
+
+&lt;p&gt;You’ll notice that the new website looks very different from the ones it has replaced. The look is one obvious difference but many of the other significant changes are less visible.   &lt;/p&gt;
+
+&lt;h2 id="topics"&gt;Topics&lt;/h2&gt;
+&lt;p&gt;You can now see information from multiple government departments grouped by topics. For example, you can see how policies from &lt;abbr title="Ministry of Defence"&gt;MOD&lt;/abbr&gt;, &lt;abbr title="Foreign and Commonwealth Office"&gt;FCO&lt;/abbr&gt; and &lt;abbr title="Department for Business, Innovation and Skills"&gt;BIS&lt;/abbr&gt; are contributing to &lt;a href="https://www.gov.uk/government/topics/national-security"&gt;national security&lt;/a&gt; or combating &lt;a href="https://www.gov.uk/government/topics/climate-change"&gt;climate change&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id="clear-policies"&gt;Clear policies&lt;/h2&gt;
+&lt;p&gt;Those departments and agencies who have moved to GOV.UK are publishing their policies according to the outcome the government is trying to achieve. For example:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.gov.uk/government/policies/making-it-easier-to-set-up-and-grow-a-business--6" title="making it easier to set up and grow a business"&gt;making it easier to set up and grow a business&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://www.gov.uk/government/policies/promoting-human-rights-internationally" title="promoting human rights internationally"&gt;promoting human rights internationally&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://www.gov.uk/government/policies/working-towards-nuclear-disarmament" title="working towards nuclear disarmament"&gt;working towards nuclear disarmament&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;For each policy, you can see a list of all the related announcements, consultations and publications in one list, called ‘activity’. The activity tab makes it easy for you to track what is happening on the policies that interest you, for example all government activity that relates to &lt;a href="/government/policies/establishing-stability-in-afghanistan/activity" title="establishing stability in Afghanistan: activity"&gt;establishing stability in Afghanistan&lt;/a&gt;. &lt;/p&gt;
+
+&lt;h2 id="more-about-inside-government-and-govuk"&gt;More about Inside Government and GOV.UK&lt;/h2&gt;
+
+&lt;p&gt;Inside Government is still a work in progress, with only some organisations live. Work will continue as other departments and organisations, many hundreds in total, move their information to GOV.UK. This will happen in batches and will be completed by March 2014.     &lt;/p&gt;
+
+&lt;p&gt;You can find out more here: &lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="/tour#inside-government"&gt;Inside Government tour and introductory video&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a rel="external" href="http://digital.cabinetoffice.gov.uk/2012/11/05/what-is-inside-government/"&gt;Blog post: What is Inside Government?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:AnnouncementPresenter/48345</id>
+    <published>2012-12-10T00:00:00+00:00</published>
+    <updated>2012-12-10T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/attorney-general-applies-for-fresh-inquests-for-victims-of-hillsborough-disaster"/>
+    <title>Attorney General applies for fresh inquests for victims of Hillsborough disaster</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Attorney General, Dominic Grieve &lt;abbr title="Queen's Counsel"&gt;QC&lt;/abbr&gt; &lt;abbr title="Member of Parliament"&gt;MP&lt;/abbr&gt;, today (10 December 2012) made an application to the High Court for new inquests into the deaths of the 96 victims of the Hillsborough tragedy. &lt;/p&gt;
+
+&lt;p&gt;The Attorney General said:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;I believe that the case for the High Court to quash the original inquests is a good one. My application has now been lodged with the Court. It is my intention to appear to argue the case at the hearing that will take place in the High Court.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The application aims to meet tests set out in Section 13 of the Coroners Act, the most relevant of which are the discovery of new facts or evidence and that it is necessary or desirable in the interests of justice that new inquests should be held.&lt;/p&gt;
+
+&lt;p&gt;The principal ground for the application is the new medical evidence. The alteration to police and emergency services evidence is a supporting factor, as is stadium safety.&lt;/p&gt;
+
+&lt;p&gt;The views of the families were sought before filing this application. All support the quashing of the inquests and the ordering of new ones. The coroners for South Yorkshire and West Yorkshire (in the case of Anthony Bland) were also contacted and support the application.&lt;/p&gt;
+
+&lt;p&gt;The court will now fix a date for hearing. The timing of this is a matter for the court.&lt;/p&gt;
+
+&lt;h3 id="background"&gt;Background&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;
+    &lt;p&gt;Additional analysis for this application was provided by Dr Bill Kirkup CBE, a member of the Hillsborough Panel, and Professor Jack Crane, a forensic pathologist and State Pathologist for Northern Ireland.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;The intention to apply for fresh inquests was announced on 16 October 2012.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;The Attorney General takes decisions on whether to apply to the High Court for an inquest as part of his public interest function, independently of government and strictly on the basis of the evidence.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;He has no power to order a new coronial inquest. A new inquest can only be ordered by the High Court on an application made either by the Attorney General or by a third party with the consent of the Attorney General. But before any such application can be made, the Attorney General has to be satisfied that he has sufficient evidence in an admissible form, to persuade the Court that the test set out in section 13 of the Coroners Act 1988 is met.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;If the Court quashes the original inquests and orders fresh inquests to be heard, its powers under section 13 application are limited to referring the cases back to administrative district in which they were originally heard. In 95 of the cases this means that in the first instance the cases must be sent back to Sheffield or Doncaster (Doncaster being the other coroner in that administrative district). In the light of the concerns of the families, the Attorney will suggest that the Court should return the cases to Doncaster. Where the inquests are in fact heard will then be a matter for the coronial process.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:AnnouncementPresenter/13311</id>
+    <published>2012-12-04T12:07:18+00:00</published>
+    <updated>2012-12-04T12:07:18+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/juror-jailed-for-discussing-trial-with-defendants"/>
+    <title>Juror jailed for discussing trial with defendants</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Judges at the High Court today jailed a juror for 4 months for contempt of court, after he admitted discussing an ongoing trial with 2 of the defendants.&lt;/p&gt;
+
+&lt;p&gt;Stephen Pardon was a juror on a 13-week trial of 6 men at Wolverhampton Crown Court in December 2011. He admitted that before the jury had finished deciding all of its verdicts he approached one of the defendants and discussed the jury’s deliberations with him. At that stage 3 defendants had been convicted on one count, and one acquitted.&lt;/p&gt;
+
+&lt;p&gt;The trial judge, &lt;abbr title="His Honour Justice"&gt;HHJ&lt;/abbr&gt; Walsh, was informed and took no action as he wished to see if the jury was able to reach a verdict on the remaining count.  It became apparent that they could not and he discharged them. After this, Pardon attempted to approach a second defendant who declined to speak with him.&lt;/p&gt;
+
+&lt;p&gt;The judge referred the contempt to the Attorney General and the 3 convicted defendants lodged appeals. Today’s hearing was before the Lord Chief Justice Lord Judge, Mr Justice Mitting and Mr Justice Griffith Williams.&lt;/p&gt;
+
+&lt;p&gt;Attorney General Dominic Grieve QC MP said:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;There is a compelling public interest in addressing any contempt of the judicial process. Mr Pardon’s conduct had serious consequences. The trial was disrupted and as a result the 3 convicted defendants appealed against their convictions, convictions won after a lengthy police investigation and trial.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Section 8(1) of the Contempt of Court Act 1981 provides, so far as relevant, that: ‘it is a contempt of Court to obtain, disclose or solicit any particulars of statements made, opinions expressed, arguments advanced or votes cast by members of a jury in the course of their deliberations in any legal proceedings’. &lt;/p&gt;
+
+&lt;p&gt;Under section 8(3), the Attorney General has responsibility for bringing proceedings to address such contempt.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:AnnouncementPresenter/17358</id>
+    <published>2012-11-26T13:16:00+00:00</published>
+    <updated>2012-11-26T13:16:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/serious-fraud-office-inspection-report-published"/>
+    <title>Serious Fraud Office inspection report published </title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Attorney General has today published HM Crown Prosecution Service Inspectorate’s report on the Serious Fraud Office (&lt;abbr title="Serious Fraud Office"&gt;SFO&lt;/abbr&gt;). &lt;/p&gt;
+
+&lt;p&gt;The inspection found significant process failures and other weaknesses, which the agency needs to address to improve performance. The Inspectorate also identifies strengths, for example in analysis and presentation of evidence.&lt;/p&gt;
+
+&lt;p&gt;The report makes eight recommendations, all of which the new &lt;abbr title="Serious Fraud Office"&gt;SFO&lt;/abbr&gt; Director, David Green &lt;abbr title="Queen's Counsel"&gt;QC&lt;/abbr&gt;, has accepted. Changes instigated in the past few months have begun to address the issues of concern.&lt;/p&gt;
+
+&lt;p&gt;HM Chief Inspector Michael Fuller &lt;abbr title="Queen's Police Medal"&gt;QPM&lt;/abbr&gt; said:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The inspection found that there was a great will to see the &lt;abbr title="Serious Fraud Office"&gt;SFO&lt;/abbr&gt; succeed. But much needs to be addressed if the &lt;abbr title="Serious Fraud Office"&gt;SFO&lt;/abbr&gt; is to become a respected crime fighting organisation which is the envy of the world.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;As with all our inspections, this report represents a tool for improvement and I welcome the fact that David Green has already asked us to return within two years to see that progress has been made.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Our inspection team was tailored for this task, supported by specialist fraud investigators/prosecutors and two police fraud specialists. I would like to thank all the people, not least the &lt;abbr title="Serious Fraud Office"&gt;SFO&lt;/abbr&gt; staff, who gave us their views.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Welcoming the report, the Attorney General, Dominic Grieve &lt;abbr title="Queen's Counsel"&gt;QC&lt;/abbr&gt; MP said:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;I would like to thank HM Chief Inspector and his team for this very helpful report.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Tackling economic crime and complex fraud must be a priority and I wanted to ensure from the outset that the work of the &lt;abbr title="Serious Fraud Office"&gt;SFO&lt;/abbr&gt; should be subject to independent inspection to ensure that processes and practices are continually improved. I am grateful to the former Director, Richard Alderman, for inviting the Inspectorate in to the Department and for the current Director, David Green CB &lt;abbr title="Queen's Counsel"&gt;QC&lt;/abbr&gt;, for taking the majority of the review work forward.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;While there are clearly problems to address, I am encouraged that the inspection team also found that the &lt;abbr title="Serious Fraud Office"&gt;SFO&lt;/abbr&gt; does many things well and that the direction in which the &lt;abbr title="Serious Fraud Office"&gt;SFO&lt;/abbr&gt; is now headed is the right one.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The report also makes clear the compelling case for investigators and prosecutors working together, as they do at the &lt;abbr title="Serious Fraud Office"&gt;SFO&lt;/abbr&gt;, as the model best suited to the kind of complex cases the agency was set up to take on.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The report was published via Written Ministerial Statement with copies laid in the House libraries. It is also published on &lt;a rel="external" href="http://www.hmscpsi.gov.uk"&gt;&lt;abbr title="Her Majesty’s Crown Prosecution Service Inspectorate"&gt;HMCPSI&lt;/abbr&gt;’s website&lt;/a&gt;
+&lt;/li&gt;
+  &lt;li&gt;Unlike the Crown Prosecution Service, there is no statutory basis for the &lt;abbr title="Serious Fraud Office"&gt;SFO&lt;/abbr&gt; to be subject to inspection. Therefore it was inspected by agreement with the Attorney General and at the invitation of the former Director. There is no formal requirement to publish; the report was made to the Attorney General, who confirmed to Parliament in July his intention to do so.&lt;/li&gt;
+  &lt;li&gt;The report does not refer to specific cases due to the operational sensitivities.&lt;/li&gt;
+  &lt;li&gt;The inspection was carried out during March and April 2012. The report was passed to the Attorney General’s Office on 8 November.&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:AnnouncementPresenter/12400</id>
+    <published>2012-10-25T00:00:00+01:00</published>
+    <updated>2012-10-25T00:00:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/speeches/parliament-and-the-judiciary"/>
+    <title>Parliament and the judiciary</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="introduction"&gt;Introduction&lt;/h2&gt;
+
+&lt;p&gt;“I am very grateful to BPP Law School for giving me a forum to look at some current issue of political and legal interest. For this afternoon I have chosen the relationship between Parliament and the judiciary.&lt;/p&gt;
+
+&lt;p&gt;“It is some 127 years since Dicey in his magisterial fashion gave us his definition of that relationship that might remove it from all controversy. He told us:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The sovereignty of Parliament and the supremacy of the law of the land… may appear to stand in opposition to each other, or to be at best only counterbalancing forces. But this appearance is delusive; the sovereignty of Parliament… favours the supremacy of the law, whilst the predominance of rigid legality throughout our institutions evokes the exercise and thus increases the authority of Parliamentary sovereignty.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;“Today, however, new polemic has emerged on the subject. Some have argued that the sovereignty of parliament is being eroded and that the power of the judges is increasing to the point of their becoming the governors.&lt;/p&gt;
+
+&lt;p&gt;“So, this is a question that no Parliamentarian, minister or judge can ignore entirely. We live in a world in which the old orthodoxies of Parliamentary sovereignty, the separation of powers, and the deference of the judiciary to the judgment of the executive are no longer accepted without question. Where, once, the suggestion that Parliament was not sovereign would have been considered heretical; now the possibility is raised in every textbook, and in judgments of members of our Appellate Courts.” &lt;/p&gt;
+
+&lt;h2 id="role-of-the-attorney-general"&gt;Role of the Attorney General&lt;/h2&gt;
+
+&lt;p&gt;“As the Attorney General, my role places me close to the heart of these debates; and it may assist in illustrating why that is so, for me to give a brief outline of the role of the Attorney in our political and legal system. &lt;/p&gt;
+
+&lt;p&gt;“In a nutshell, I have 3 main roles: first, as Chief Legal Adviser to the Crown; second, as the government minister responsible for superintending the Crown Prosecution Service, the Serious Fraud Office, and Her Majesty’s Crown Prosecution Service Inspectorate; and third as guardians of certain public interest functions which include, for example, the role of protector of charity and of the administration of justice. &lt;/p&gt;
+
+&lt;p&gt;“So there are specific aspects of my work that give me a particular insight into the relationship between Parliament and the courts. &lt;/p&gt;
+
+&lt;p&gt;“First, I am (like my predecessors) a member of Parliament - although some of my predecessors have been members of the House of Lords rather than, like me of the House of Commons. &lt;/p&gt;
+
+&lt;p&gt;“I would add that I am a proud to be a Parliamentarian. As such, I believe in Parliament’s right to make law and to be the ultimate arbiter of political questions because it is the bearer of democratic legitimacy in our system, and I believe in the Parliamentary process and in Parliament as a forum for testing and improving our law and scrutinising government. &lt;/p&gt;
+
+&lt;p&gt;“Second, as chief legal adviser to the Crown, I advise government departments on how policy can be achieved in a lawful and proper way; and the Solicitor General and I, together with the Advocate General for Scotland, have a specific role in the legislative process, considering each Bill as it approaches introduction for the same purpose. Ultimately the Law Officers (a term which includes all 3 of us) have the power to block a Bill if there are unresolved concerns about its legality or propriety. &lt;/p&gt;
+
+&lt;p&gt;“Where possible, of course, the Law Officers endeavour to support the government and Parliament in achieving its legislative aims in a proper and lawful way; and much of our time is spent saying “have you thought about doing it this way?” which is what all good lawyers should do for their clients. It is not the role of the Law Officers to thwart government policy. &lt;/p&gt;
+
+&lt;p&gt;“However that does not detract from the fact that in carrying out the function of legal adviser to the government, the Attorney General’s role is to support and protect the rule of law. I think that the role of the Attorney General as the Government’s Chief Legal Adviser was neatly summed up by a former Attorney General, Lord Mayhew of Twysden, who said: &lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The Attorney General has a duty to ensure that the Queen’s ministers who act in her name, or purport to act in her name, do act lawfully because it is his duty to help to secure the rule of law, the principal requirement of which is that the government itself acts lawfully.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;“Third, some of my powers owe nothing to Parliament or government, and my involvement is to assist the courts in protecting the judicial process and strengthening the rule of law in this country. Let me just give 2 examples. &lt;/p&gt;
+
+&lt;p&gt;“As guardian of the public interest, I have the power to intervene in legal proceedings in the public interest. For example, most recently in the sad Nicklinson case as to the law on assisted dying. I will also, from time to time assist the courts by acting as an impartial friend of the court, either in person or by appointing advocates to the court to help with questions of law. &lt;/p&gt;
+
+&lt;p&gt;“And, in another distinct part of my role as guardian of the public interest, I have responsibility for bringing contempt of court proceedings. As part of this, I receive referrals from judges, the police and members of the public where it is thought that the conduct of some individual, company or organisation is prejudicing or impeding the fairness of court proceedings and the course of justice; and it is my responsibility to decide whether to bring an action to protect the court proceedings from such interference. &lt;/p&gt;
+
+&lt;p&gt;“As a result of these varied functions, I have a role to play in Parliament, in government, in assisting the courts, and in defending the rule of law; and it is something of the fruits of this perspective which I hope to share with you today.” &lt;/p&gt;
+
+&lt;h2 id="outline"&gt;Outline&lt;/h2&gt;
+
+&lt;p&gt;“In doing this, I want to consider the following areas in which there is particular interaction between the roles of Parliament and our courts. They are: &lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;the doctrine of Parliamentary sovereignty or Parliamentary supremacy itself &lt;/li&gt;
+  &lt;li&gt;the role of the courts in relation to the application of principles in the European Convention on Human Rights and the Human Rights Act 1998 and how it impacts on the doctrine &lt;/li&gt;
+  &lt;li&gt;the issues that have been raised recently about the nature and extent of Parliamentary privileges, and the exclusion of judicial oversight from Parliament’s internal activities&lt;/li&gt;
+&lt;/ul&gt;&lt;h2 id="parliamentary-sovereignty"&gt;Parliamentary Sovereignty&lt;/h2&gt;
+
+&lt;p&gt;“Let me turn then to the doctrine of Parliamentary sovereignty. &lt;/p&gt;
+
+&lt;p&gt;“Dicey regarded the legal supremacy of Parliament as the founding principle of the British constitution, and I agree. This talk cannot be the place to go into constitutional history. But it is worth bearing in mind that before the Glorious Revolution of 1688 and the Bill of Rights of 1689 there were jurists such as Lord Chief Justice Coke who raised the question of whether royal authority even exercised though Parliament might not be circumscribed. In the famous Dr Bonham’s case he commented that: &lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;in many cases, the common law will controul Acts of Parliament, and sometimes adjudge them to be utterly void; for when an Act of Parliament is against common right and reason, or repugnant, or impossible to be performed, the common law will controul it, and adjudge such Act to be void.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;“So I think that the language of ‘parliamentary supremacy’ or ‘parliamentary sovereignty’ can conjure images of unconstrained power which does not fairly reflect the reality, as Parliament might find to its cost if it really sought to do something which was either wholly tyrannical or plainly absurd and its problems might come from the people rather than the courts. What we are really referring to when we speak of Parliamentary supremacy is no more and no less than the present Parliament’s right to make or repeal any law, and the inability to prevent a future Parliament from doing the same. &lt;/p&gt;
+
+&lt;p&gt;“That is a well established theoretical position, but it has consistently attracted critics; and so I want to consider a few of the ways in which it has been suggested that the courts of this country may apply and enforce legal limits on the sovereignty of Parliament.  &lt;/p&gt;
+
+&lt;p&gt;“Firstly, it has been suggested that the process of interpretation of legislation by the judiciary allows the courts effectively to limit the sovereignty of Parliament. It is my view that the courts do no such thing. I realise that this may go against the fashion (at least in certain parts of the media) for presenting the judiciary and Parliament as pitted against each other; but it is my sincerely held view that the courts interpret and apply the laws that Parliament makes faithfully and dispassionately. &lt;/p&gt;
+
+&lt;p&gt;“The starting point for statutory interpretation today remains the literal interpretation of the text, and it is only if there is genuine ambiguity and uncertainty that extraneous material can be relied upon as a tool. There are, of course, interpretative tools such as the presumption against legislation having a retrospective effect, or ousting the ability of the courts to exercise judicial review of government actions. Such rules of interpretation are not however unique to statutory interpretation. The interpretation of private contracts is also performed with the assistance of such techniques. No one suggests this limits freedom to contract.&lt;/p&gt;
+
+&lt;p&gt;“In my view these rules of interpretation demonstrate a fundamental respect for Parliament and its legislative role. They are founded on norms shared by Parliament and the courts as to how it will typically be fair for legislation to take effect, and the courts proceed on the assumption that Parliament acts in the interests of justice when it legislates. It also recognises the reality that however well Parliament legislates (and we have only ourselves to blame when we don’t) some interpretation may be needed. &lt;/p&gt;
+
+&lt;p&gt;“Secondly, views are periodically expressed about the possibility that the courts could in the future identify constitutional principles so fundamental that legislation in breach of those principles would not be enforced by the courts, however Parliament expressed itself-a return to the ideas raised by Coke. &lt;/p&gt;
+
+&lt;p&gt;“One example of this can certainly be seen in the House of Lords in the case of Jackson v Attorney General. In that case, Lord Steyn said that:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;…the supremacy of Parliament is still the general principle of our constitution. It is a construct of the common law. The judges created this principle. If that is so, it is not unthinkable that circumstances could arise where the courts may have to qualify a principle established on a different hypothesis of constitutionalism. In exceptional circumstances involving an attempt to abolish judicial review or the ordinary role of the courts, the Appellate Committee of the House of Lords or a new Supreme Court may have to consider whether this is a constitutional fundamental which even a sovereign Parliament acting at the behest of a complaisant House of Commons cannot abolish.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;“This is, of course, a doomsday scenario which is entirely hypothetical. These suggestions have not been tested in our courts because thankfully no court has ever suggested that an act of Parliament comes close to such a violation of principle. Ours is country with a long history of the legislature and judiciary co-existing peacefully and of governments and parliaments legislating with respect for individual rights and the rule of law. If it were to arise it would probably mean that our constitution was broken. &lt;/p&gt;
+
+&lt;p&gt;“So, I am reluctant to agonise about theoretical future events which are so unlikely to arise: there is quite enough to be getting on with in the here and now. However, if pushed it would be my view that as long as the House of Commons remains a democratically elected assembly representative of the electorate it serves, the courts would have a duty to apply Parliament’s legislation, although judges might always exercise the right to resign. I have every confidence however that the voters of the United Kingdom and the process of Parliament will ensure that this is not a point on which I will ever be proved right or wrong. &lt;/p&gt;
+
+&lt;p&gt;“In this regard, the recent Supreme Court case of AXA v Lord Advocate is instructive. The case was concerned with an Act of the Scottish Parliament which deemed the development of pleural plaques - an asbestos related condition - should be deemed an actionable personal injury. One of the issues was an application for judicial review of the legislation on the basis that it was unreasonable, irrational or arbitrary for the Scottish parliament to do this. In his judgment, Lord Hope referred to the debate regarding whether there is any limitation on the sovereignty of the United Kingdom Parliament in exceptional circumstances; and some commentators have suggested that this judgment raises important questions for the prospect of the courts judicially reviewing acts of the UK Parliament. That does not seem to me to be right. &lt;/p&gt;
+
+&lt;p&gt;“There is no more critical distinction in the constitutional law of the United Kingdom than that between, on the one hand, laws made by a sovereign parliament (which the Parliament of the United Kingdom is) and laws made by a body to which decision making powers have been delegated by law, which is not sovereign. Lord Hope’s judgment draws this distinction with great care. He said: &lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The Scottish Parliament does not enjoy the sovereignty of the Crown in Parliament that, as Lord Bingham said in Jackson is the bedrock of the British constitution. Sovereignty remains with the United Kingdom Parliament. The Scottish Parliament’s power to legislate is not unconstrained. It cannot make or unmake any law it wishes.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;“The determination that decisions made by the Scottish Parliament may (in certain circumstances) be judicially reviewable followed from its differences from the UK Parliament, not from its similarities. &lt;/p&gt;
+
+&lt;p&gt;“Thirdly, and perhaps most persistently, is the suggestion that the sovereignty of the Parliament of the United Kingdom has been curtailed by the legal doctrine of the ‘supremacy’ of EU law. &lt;/p&gt;
+
+&lt;p&gt;“It is that the effect of the 1972 European Communities Act in our law is that our domestic courts may disapply legislation enacted by Parliament if it conflicts with EU law. This audience will no doubt be familiar with the case of Factortame (No. 2).&lt;/p&gt;
+
+&lt;p&gt;“And it cannot be disputed that the disapplication of subsequent statute if it conflicts with the EU law incorporated under the 1972 and subsequent European Union Acts entails a refinement of the doctrine of Parliamentary sovereignty, at least to this extent: the European Communities Act is not itself impliedly repealed by any subsequent conflicting legislation. &lt;/p&gt;
+
+&lt;p&gt;“However, I consider that it is clear that this is the limit of the extent of the constitutional consequences of European legislation in this country, and that the substantive sovereignty of Parliament has not been curtailed. Just as the foundation of the binding effect of European law is the will of our Sovereign Parliament, so too it is equally clear in our law that the European Communities Act did not alter the existing legal principle that what Parliament did in incorporating European law, Parliament can also undo. &lt;/p&gt;
+
+&lt;p&gt;“A clear statement of the true position was given by the Divisional Court in the case of Thoburn v Sunderland City Council, known as the ‘Metric Martyrs’ case. In that case, it was suggested that EU law had somehow become so ingrained in our legal system that, even if the European Communities Act 1972 were repealed, our domestic courts would still be bound to give primacy to EU law over legislation enacted by Parliament. That is not the case, as Lord Justice Laws explained: &lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Parliament cannot bind its successors by stipulating against repeal, wholly or partly, of the 1972 Act. It cannot stipulate as to the manner and form of any subsequent legislation. It cannot stipulate against implied repeal any more than it can stipulate against express repeal. Thus there is nothing in the 1972 Act which allows the Court of Justice, or any other institutions of the EU, to touch or qualify the conditions of Parliament’s legislative supremacy in the United Kingdom.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;“It is this, the position at common law, which has now been restated by section 18 of the European Union Act 2011, introduced by the present government. That provision states that: &lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Directly applicable or directly effective EU law (that is, the rights, powers, liabilities, obligations, restrictions, remedies and procedures referred to in section 2(1) of the European Communities Act 1972) fall to be recognised and available in law in the United Kingdom only by virtue of that Act or where it is required to be recognised and available in law by virtue of another Act.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;“What Parliament has done by that Act is to place beyond speculation the constitutional position explained in the Metric Martyrs case and to guard against any risk that common law jurisprudence might drift away from the orthodox constitutional position, by placing the principle of parliamentary sovereignty in relation to EU on a statutory footing. &lt;/p&gt;
+
+&lt;p&gt;“This is not to say that there are not very interesting issues which arise out of European Law. The way it is created, applied through directives and incorporated into our law through statutory instruments and the interpretation of that law by the Commission and the &lt;abbr title="European Court of Justice"&gt;ECJ&lt;/abbr&gt; and its application by our own courts are serious issues for discussion. But none of that alters the fact that this system has been willed on us by ourselves and is subject to Parliamentary sovereignty.”&lt;/p&gt;
+
+&lt;h2 id="human-rights-law"&gt;Human rights law&lt;/h2&gt;
+
+&lt;p&gt;“Which brings me to human rights law. As is well known, I was and remain broadly comfortable with the Human Rights Act and the incorporation of the &lt;abbr title="European Court of Human Rights"&gt;ECHR&lt;/abbr&gt; into our own statute law. The advantages are easily rehearsed. It avoided a continuous stream of cases going to Strasbourg, a stream that was clearly going to accelerate regardless of incorporation. It afforded an opportunity for our national courts to develop their own jurisprudence in relation to the &lt;abbr title="European Court of Human Rights"&gt;ECHR&lt;/abbr&gt;.&lt;/p&gt;
+
+&lt;p&gt;“In an environment where the intrusive power of the state had increased and was and is still increasing, it seemed to me wise to follow in the tradition of our forefathers and provide extra protection for rights and liberties as they did, whether in Magna Carta or the Bill of Rights of 1689, to reinforce the common law.&lt;/p&gt;
+
+&lt;p&gt;“So too, there is no doubt that there are many examples of the Human Rights Act helping to improve the way that public authorities make decisions.  For example, few could disagree with the outcomes of cases such as R v East Sussex County Council (No. 2), which overturned a ban on manual lifting of severely disabled patients which had been imposed solely with regard to rules for the health and safety of carers and without sufficient thought as to its impact on the disabled people they were serving.  The court did not seek to interfere with the balance the local authority might ultimately decide to strike between these competing interests but it did ensure that both interests were properly taken into account by the local authority in formulating its policy. &lt;/p&gt;
+
+&lt;p&gt;“Nevertheless, it cannot be ignored that in some cases the application of the Human Rights Act and the nature of the judgments which must be made in some human rights cases can be intensely political, and may stray into what Lord Justice Laws has previously described as areas of ‘macro-policy’.  &lt;/p&gt;
+
+&lt;p&gt;“In his impressive FA Mann Lecture last year, Lord Sumption described the way in which the Human Rights Act (to quote) ‘has significantly shifted the boundaries between political and legal decision-making’ because when judges make decisions involving qualified Convention rights, the determinations almost always involve striking a difficult balance between competing public interests, which is an inherently political exercise.&lt;/p&gt;
+
+&lt;p&gt;“It is true that in judicial review cases the courts may also become involved in areas of macro-policy but the common law limits of judicial review mean that there is at least some recognition that it is for the policy maker to make the initial decision.  In areas where the law provides the policy maker with a discretion, the elected decision maker may opt for one of a range of permissible approaches and the common law principles of judicial review recognise that their choice should normally be respected by the courts in a democratic state. The Human Rights Act does not, on its face, recognise the same limitations. &lt;/p&gt;
+
+&lt;p&gt;“A second issue arising out of the incorporation of the &lt;abbr title="European Court of Human Rights"&gt;ECHR&lt;/abbr&gt; is the differences which can sometimes be seen in the application of the Convention rights between our domestic courts and the Court in Strasbourg; put simply, the 2 do not always reach the same conclusions in relation to &lt;abbr title="European Court of Human Rights"&gt;ECHR&lt;/abbr&gt; challenges. &lt;/p&gt;
+
+&lt;p&gt;“To take one example, the UK law that those convicted of a sufficiently serious offence that it warrants imprisonment should not be entitled to vote while they are imprisoned came before the Divisional Court in 2001 in the case of Hirst v Attorney General the Court reviewed the English, European and international authorities and, to my mind quite logically, found that it was for Parliament to determine the appropriate policy on this issue. The Court said:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;As Parliament has the responsibility for deciding what shall be the consequences of conviction by laying down the powers and duties of a sentencing tribunal or other body it necessarily follows that lines have to be drawn, and that on subsequent examination a case can be made in favour of the line being drawn somewhere else, but in deference to the legislature courts should not easily be persuaded to condemn what has been done, especially where it has been done in primary legislation after careful evaluation and against a background of increasing public concern about crime.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;“The matter reached the Strasbourg Court in 2004 and the Court found that the ban was disproportionate, and therefore that it was in breach of Article 3 of Protocol 1. That decision is, in my view, a mistaken interpretation of the law; and it is not without interest that this view is shared by a large majority of the members of the House of Commons. Indeed, a vote to retain the current ban in 2011 was agreed on a division by a margin of 234 to 22, with the Government abstaining from the vote. &lt;/p&gt;
+
+&lt;p&gt;“In early 2012 the Strasbourg Court further considered the matter in the case of Scoppola. It affirmed the requirement on the UK to take action to correct the breach of Article 3 in the existing blanket ban on prisoner voting without being prescriptive as to what detailed changes should be made. The government is currently considering how to address that issue.  &lt;/p&gt;
+
+&lt;p&gt;“But none of this makes Parliament subservient to the Strasbourg court. Observing its judgements is an international legal obligation arising by Treaty but it is possible for Parliament to take no action on the judgment, although that would leave the government in breach of the Treaty and liable to criticism and sanctions from the Council of Europe by its fellow signatories and to damages awarded by the Court. &lt;/p&gt;
+
+&lt;p&gt;“Some have also argued that the solution for the UK in view of these problems is to withdraw from the Convention altogether on the grounds that it is an undesirable and unnecessary fetter of national sovereignty in decision making, I disagree. Withdrawal would result in reputational damage to the UK’s status as a country at the forefront of the promotion of the rule of law and Human Rights. But nothing in that debate undermines Parliament’s ultimate sovereignty either. &lt;/p&gt;
+
+&lt;p&gt;“But it does seem to me to be right and appropriate that the way the &lt;abbr title="European Court of Human Rights"&gt;ECHR&lt;/abbr&gt; is applied at British and European level, and the way in which its principles are incorporated into the law of the United Kingdom should involve procedures which ensure that proper account is taken of democratic decisions by national parliaments. Let me just identify 2 points. &lt;/p&gt;
+
+&lt;p&gt;“First, is the importance of subsidiarity in the application of the Convention. Subsidiarity in the context of the Convention means - as I firmly believe should be the case - that the national authorities of member states (that is, their governments, legislatures and courts) have the primary responsibility for guaranteeing and protecting human rights at a national level and the European Court of Human Rights has a subsidiary role in supervising the protection of Convention rights.  &lt;/p&gt;
+
+&lt;p&gt;“The principle of subsidiarity recognises the fact that, as I was saying earlier, the Court is at times having to make intensely political judgments and the balance to be struck between competing interests should often be decided at a local level. As Lord Sumption has said ‘rights are necessarily claims against the claimant’s own community, and in a democracy they depend for their legitimacy on a measure of recognition by that community.’  &lt;/p&gt;
+
+&lt;p&gt;“Of course, the United Kingdom should still be subject to the judgments of the Strasbourg court, but Strasbourg should not normally need to intervene in cases that have already been properly considered by the national courts applying the Convention. It is to be hoped that as a result of the Brighton Declaration and the forthcoming amendments to the convention and to its preamble there will be a shift in the court’s approach.&lt;/p&gt;
+
+&lt;p&gt;“Second, is the way in which Convention law is enshrined and applied in English law. The Human Rights Act is not synonymous with the Convention. Nor is it some sacred tablet of stone. It is simply the method by which the United Kingdom has chosen to incorporate the Convention into our domestic law. And as many of you will know, the government has set up a Commission on a UK Bill of Rights to investigate the case for replacing the Act with a UK Bill of Rights which will ensure that the Convention rights continue to be enshrined in UK law.&lt;/p&gt;
+
+&lt;p&gt;“The intention is not to limit or erode the application of any of the rights and freedoms in the Convention. However, deciding how best to incorporate the Convention into UK law requires an understanding of the nature of some of the judgments which have to be made in human rights cases and the fact that where there is a balance to be struck between competing rights, there may be more than one permissible answer.”    &lt;/p&gt;
+
+&lt;h2 id="parliamentary-privilege"&gt;Parliamentary privilege&lt;/h2&gt;
+
+&lt;p&gt;“The last aspect of the relationship between Parliament and the courts which I want to touch on today is the exclusion of judicial oversight of Parliament’s activities. This exclusion is referred to as parliamentary privilege. It is, in essence, a rule that the conduct of Parliamentary business cannot be subject to judicial challenge. The way in which Parliament makes its laws is controlled and policed by Parliament, and not by the courts. &lt;/p&gt;
+
+&lt;p&gt;“Parliamentary privilege is an aspect of the supremacy or sovereignty of Parliament as a lawmaker. I have already discussed the fact that the courts of this country cannot review primary legislation to determine whether it is constitutional, fair or proportionate. But Parliament would not be truly sovereign if the courts were able to exercise oversight of the way in which it made its laws, because it would then follow that the courts, and not Parliament, could determine whether a law had been properly made and therefore whether it should be enforced. &lt;/p&gt;
+
+&lt;p&gt;“Perhaps the most topical of the aspects of Parliamentary privilege is the freedom of speech of all those who participate in Parliamentary proceedings. That freedom is enshrined in Article 9 of the Bill of Rights 1689 which says: &lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;That the Freedome of Speech and Debates or Proceedings in Parlyament ought not to be impeached or questioned in any Court or Place out of Parlyament.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;“Whilst its assertion by the Speaker of the House of Commons at the commencement of every parliamentary session is nowadays more of a formality that in by gone centuries; in my view privilege remains of paramount importance to ensure that Parliament in carrying out its functions is independent, and that any person contributing to its work, is able to speak out without fear or favour.&lt;/p&gt;
+
+&lt;p&gt;“Although Article 9 is an absolute privilege, Parliament has for some time accepted in its own procedures a sub judice rule; that it should not bring up matters in debates, questions or motions which are awaiting adjudication in a court of law. This rule reflects the long-standing comity between the Parliament and the courts which means that each takes care not to intrude on the other’s territory, or to undermine the other’s authority. The overwhelming majority of Parliamentarians are careful to observe this convention.&lt;/p&gt;
+
+&lt;p&gt;“In recent years, however, there have been a number of cases in which information has been revealed during parliamentary proceedings which was subject to anonymised injunctions granted by the High Court. No doubt you will all remember the examples as they attracted widespread media coverage and debate. I agree entirely with the point made by the Lord Chief Justice in the press conference he held with the Master of the Rolls when the Report of the Committee on Super-Injunctions was published in May 2011:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;There has never been any question in any of these orders… of the court challenging the Sovereignty of Parliament. This is not the issue.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;“There are circumstances in which may be appropriate for Parliamentarians to refer to matters which are sub judice. The current resolutions of each House provide that reference to matters which are sub judice may be made ‘where a ministerial decision is in question, or in the Opinion of the Chair a case concerns issues of national  importance…’. &lt;/p&gt;
+
+&lt;p&gt;“That though, is a high threshold. It ill serves the Parliamentary process if court orders are flouted without very strong reasons; and a member must therefore be able to demonstrate that the threshold has been clearly crossed before she or she acts contrary to the rule. That is, not least because parliamentary privilege belongs to each House as a whole, not just the individual member, and if that privilege is abused it is Parliament as a whole which is affected. Furthermore it has the capacity to undermine the rule of law and the independence of the judiciary by impeding the operation of the courts and fair trial processes. &lt;/p&gt;
+
+&lt;p&gt;“Certainly, any decision to refer to matters which are sub judice should be taken on the basis that the business of Parliament requires it and before any reference is made the agreement of the Speaker should be sought. To ambush Parliament without due warning is a gross abuse of the privilege. &lt;/p&gt;
+
+&lt;p&gt;“As I have said, the recent cases were high-profile. However, breaches of the sub judice rule are in fact rare. Were they to become more commonplace then as Attorney General and advisor to Parliament I would not shy away from advocating more stringent regulation of what members can say during parliamentary proceedings.  But those would be regulations imposed and enforced by Parliament, and not by the courts.&lt;/p&gt;
+
+&lt;p&gt;“There is one final area of Parliament’s work which needs mention. To operate properly Parliament requires and possesses coercive and punitive powers towards those it summons before it to give evidence and because of Parliamentary sovereignty the exercise of those powers will properly not be amenable to domestic judicial scrutiny. But it is important that any action it takes meets the international benchmarks provided by articles 5 and 6 of the &lt;abbr title="European Court of Human Rights"&gt;ECHR&lt;/abbr&gt; and the very rare use of the powers and their archaic origins means that these may require modernisation.”  &lt;/p&gt;
+
+&lt;h2 id="conclusion"&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;“These 3 issues - the sovereignty of Parliament, the way in which human rights are guaranteed in our law, and the privileges which Parliament enjoys in relation to its own proceedings - all have 1 thing in common. They are issues about the extent of and limits to the legislative authority of the democratically elected representatives of the people of this country. &lt;/p&gt;
+
+&lt;p&gt;“Those limits are part of our law, and therefore will inevitably have at times to be scrutinised by the courts as happened for instance when some MPs sought to assert Parliamentary privilege in respect of not being put on trial for fraudulent claims for expenses. &lt;/p&gt;
+
+&lt;p&gt;“Inevitably, the courts sometimes apply the law in a way with which someone does not agree. Every decided case in the law has at least 1 disappointed litigant. Nevertheless, I believe not just that there is no conflict between the principle and operation of the sovereignty of Parliament and the rule of law; but rather, to the contrary, that the 2 are mutually reinforcing just as Dicey identified. &lt;/p&gt;
+
+&lt;p&gt;“The respect of the courts in this country for the sovereignty of Parliament is integral to their role as guardians of the rule of law. So, too, Parliament’s respect for the courts as interpreter of our law is essential to its legitimacy as a supreme legislator.&lt;/p&gt;
+
+&lt;p&gt;“It is only in a system of government where the rule of law is respected that the law is truly legitimate, and legitimacy is the essence of the authority of a democratic government. The origins of Parliament lie in the need for medieval monarchs to have the approval of a representative assembly to legitimize their decisions. Today the authority and sovereignty of a democratic Parliament is supported and legitimized daily by the work of our courts.”&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:AnnouncementPresenter/12394</id>
+    <published>2012-10-23T00:00:00+01:00</published>
+    <updated>2012-10-23T00:00:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/speeches/keynote-speech-to-the-world-bribery-and-corruption-compliance-forum"/>
+    <title>Keynote speech to the World Bribery and Corruption Compliance Forum </title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;“Thank you Mr Chairman. It gives me great pleasure to open this conference on this hugely important topic. It is also a great honour to speak alongside so many distinguished speakers to so many eminent delegates. &lt;/p&gt;
+
+&lt;p&gt;“The importance of tackling bribery and corruption, at all levels, cannot be overstated. Corruption is corrosive. Like rust, rot and other decay, corruption, once set in, begins to spread, and which, like rust, rot and other decay, must be stopped before lasting and irreversible damage is done. &lt;/p&gt;
+
+&lt;p&gt;“Many have written with great power and eloquence of the degenerative effects of corruption at all levels, from the impact of corruption on the person engaging in the corruption, to the wider effects on society as a whole. Some considerable time ago, the writer of Ecclesiastes spoke perceptively of the impact of corruption on the corrupter. The author wrote, ‘Extortion turns a wise person into a fool, and a bribe corrupts the heart’.&lt;/p&gt;
+
+&lt;p&gt;“More recently, Kofi Annan spoke of the impact of corruption on society as a whole. In his now well-known foreword to the 2004 United Nations Convention against Corruption, the then Secretary General described corruption as, ‘an insidious plague that has a wide range of corrosive effects on society’.&lt;/p&gt;
+
+&lt;p&gt;“In the 20 years I spent at the Bar, then later during my time as the minister responsible for benefit fraud prosecutions in the Department for Work and Pensions, more recently working with the Council of Europe’s Group of States against Corruption, as a member of the House of Commons Committee which debated what is now the Bribery Act, and finally, from the unique perspective I now have as Solicitor General, I have seen, and attest to the impact of bribery and corruption - and the importance of ensuring that we share the collective responsibility to ensure that the rot of corruption does not set in, or if it does, it is adequately dealt with and those responsible punished appropriately. &lt;/p&gt;
+
+&lt;p&gt;“I am sure that many here this morning will share those observations. Of course, when I recite these truths, I am saying nothing new. Indeed, the very fact that you are attending this conference underlines the commitment you and your respective organisations clearly have to tackling bribery and corruption. &lt;/p&gt;
+
+&lt;p&gt;“The reason, however, I chose to open my remarks this morning by underlining these truths is because it is important to remind ourselves of this context. Bribery and corruption are borderless crimes, neither respecting boundaries nor constrained by geography. For that reason, those seeking to eradicate it or avoid it - and I take that all of us here fall into at least one of those categories - should not be constrained by boundaries or geography either. &lt;/p&gt;
+
+&lt;p&gt;“Put another way, international crimes require international enforcement strategies. &lt;/p&gt;
+
+&lt;p&gt;“The international community has taken its stand; I have already mentioned the UN Convention; of course, the &lt;abbr title="Organisation for Economic Co-operation and Development"&gt;OECD&lt;/abbr&gt; Convention on Combating Bribery of Foreign Public Officials 1997 requires State parties to the Convention to apply penalties which are “effective, proportionate and dissuasive”.&lt;/p&gt;
+
+&lt;p&gt;“So it is absolutely right that a conference such as this - the World Bribery and Corruption Compliance Forum - has senior representation from across the globe. I am delighted that Lanny Breuer, Assistant US Attorney General, will be joining us to speak this afternoon, and I hope to be able to return for his address later today. &lt;/p&gt;
+
+&lt;p&gt;“Of course, it is easy to extol the virtues of tackling bribery and corruption; it is altogether less easy to do so effectively. Many of us will approach the issue of enforcement with different perspectives. For some, the issue will be carrying out the enforcement. For others, the issue will be avoiding the need for enforcement by advising clients on steps to be taken to prevent bribery and corruption from setting in in the first place.For others still, the task will be to defend those accused of engaging in it.&lt;/p&gt;
+
+&lt;p&gt;“Whatever perspective we bring to the issue of enforcement, it is clear that all involved could benefit from a tool to reduce the complexity and uncertainty of current enforcement powers, and to deal with cases more quickly and in a way which better meets the interests of justice and commands public confidence. &lt;/p&gt;
+
+&lt;p&gt;“That is why I am delighted to confirm that that the government is introducing Deferred Prosecution Agreements, a new tool to tackle economic crime, through amendments to the Crime and Courts Bill, to be tabled today.&lt;/p&gt;
+
+&lt;p&gt;“Earlier this year, the government consulted on the possibility of introducing &lt;abbr title="Deferred Prosecution Agreements"&gt;DPAs&lt;/abbr&gt;. The response we received to that consultation, which closed in August, was overwhelmingly positive, with 86% of those who responded supporting the proposals. No doubt many organisations represented today are among those who responded. Today the government’s response to the consultation will be published. &lt;/p&gt;
+
+&lt;p&gt;“In broad terms, under a Deferred Prosecution Agreement, organisations will publicly face-up to their wrongdoing and resolve to make things right by agreeing to comply with stringent conditions. Conditions may include the payment of substantial penalties, making reparation to victims, undertaking reform to prevent such conduct occurring again, and submitting to regular reviews and monitoring.&lt;/p&gt;
+
+&lt;p&gt;“The process will be scrutinised by an independent judge and the threat of prosecution will remain hanging over an organisation should it fail to comply fully with the agreement.&lt;/p&gt;
+
+&lt;p&gt;“Initially, &lt;abbr title="Deferred Prosecution Agreements"&gt;DPAs&lt;/abbr&gt; will be available to the Serious Fraud Office and the Crown Prosecution Service, although there will be provision for the Secretary of State to designate additional prosecutors to use the powers. In the case of the DPP and the Director of the &lt;abbr title="Serious Fraud Office"&gt;SFO&lt;/abbr&gt;, the power to enter a &lt;abbr title="Deferred Prosecution Agreement"&gt;DPA&lt;/abbr&gt; may only be exercised by the relevant director acting personally, as an additional safeguard. &lt;/p&gt;
+
+&lt;p&gt;“I am confident that &lt;abbr title="Deferred Prosecution Agreements"&gt;DPAs&lt;/abbr&gt; will be an invaluable tool for the &lt;abbr title="Serious Fraud Office"&gt;SFO&lt;/abbr&gt; and &lt;abbr title="Crown Prosecution Service"&gt;CPS&lt;/abbr&gt;. In cases where a company accepts wrongdoing, and is committed to put things right, a &lt;abbr title="Deferred Prosecution Agreement"&gt;DPA&lt;/abbr&gt; will mean that it must comply with stringent conditions to compensate and ensure there are no repeat incidents, whilst avoiding a lengthy and expensive prosecution with the prolonged uncertainty it brings for the victims, blameless employees and others dependent on the fortunes of the company.&lt;/p&gt;
+
+&lt;p&gt;“When formulating our proposals, we looked to other jurisdictions that deploy similar tools. The United States, for example, has been using Deferred Prosecution Agreements and Non Prosecution Agreements for some 20 years, and a considerable body of jurisprudence and commentary has built up surrounding their use. &lt;/p&gt;
+
+&lt;p&gt;“But as anyone advising on cross-jurisdictional issues will tell you, it is not possible simply to transplant one element of a very different legal regime into our domestic legal and constitutional framework, even if we do have a shared common law heritage. &lt;/p&gt;
+
+&lt;p&gt;“There is much to learn from the US model however; it offers a good example of the effective use of the voluntary agreement approach. We decided to build on the US model by formulating proposals which ensure a greater level of judicial involvement, from an earlier stage, as well as greater levels of transparency in order to command the confidence of the public. &lt;/p&gt;
+
+&lt;p&gt;“So a key feature of the new regime will be early, pre-charge judicial oversight. This oversight, from a Crown Court Judge, will ensure that &lt;abbr title="Deferred Prosecution Agreements"&gt;DPAs&lt;/abbr&gt; provide both certainty, as required by the prosecutor and the party to the &lt;abbr title="Deferred Prosecution Agreement"&gt;DPA&lt;/abbr&gt;; and transparency, as required by the public. &lt;/p&gt;
+
+&lt;p&gt;“In recognition of the unique nature of economic crime, &lt;abbr title="Deferred Prosecution Agreements"&gt;DPAs&lt;/abbr&gt; will only be available for certain economic crimes committed by organisations. They will not be available in relation to offending by individuals, and they will not be available in relation to the criminal law generally. &lt;/p&gt;
+
+&lt;p&gt;“I must stress that this is not because economic crime is in any sense not as serious as other crime - on the contrary. As the Lord Chief Justice said in the 2010 case of Dougall, which involved a plea agreement by the Serious Fraud Office,&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;For all the respectable and reputable fronts that many fraudsters and corrupt businessmen may present, they are criminals. What is sometimes described as white collar crime or commercial crime taking the form of fraud and corruption in particular is crime. And it is not victimless: sometimes identified individuals are victims, and at others, unnamed, unknown individuals in the entire community are victims, and sometimes the community itself is the victim.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;“There will always be cases where the public interest requires a full criminal prosecution - &lt;abbr title="Deferred Prosecution Agreements"&gt;DPAs&lt;/abbr&gt; will allow prosecutors to focus more of their resources on those cases, and in effect will allow them to prioritise prosecutions. It is highly unlikely, for example, that &lt;abbr title="Deferred Prosecution Agreements"&gt;DPAs&lt;/abbr&gt; will ever be appropriate for use with companies which have been used primarily as a vehicle for criminal activity: such companies, and the individuals responsible for the criminal activity, can expect to face criminal investigation and prosecution in the normal way. &lt;/p&gt;
+
+&lt;p&gt;“Returning to the new regime, much of the procedure leading to a &lt;abbr title="Deferred Prosecution Agreement"&gt;DPA&lt;/abbr&gt; will be similar to the way in which investigations are carried out at present. A criminal investigation will take place, prompted either through self-reporting by the company, or through some other means. The prosecutor will be involved from an early stage, as is the case with most serious and complex investigations.&lt;/p&gt;
+
+&lt;p&gt;“If the prosecutor considers in principle that the offending revealed by the investigation is suitable for a &lt;abbr title="Deferred Prosecution Agreement"&gt;DPA&lt;/abbr&gt;, the views of the organisation in question will be sought. In reality, there is likely to be a dialogue between the prosecutor and organisation from an early stage; we expect there to be an increase self-reporting and &lt;abbr title="Deferred Prosecution Agreements"&gt;DPAs&lt;/abbr&gt; will rely to an extent on cooperation from organisations. &lt;/p&gt;
+
+&lt;p&gt;“We hope that the certainty provided by the &lt;abbr title="Deferred Prosecution Agreement"&gt;DPA&lt;/abbr&gt; process, combined with the possibility to draw a line under past criminal conduct, without the organisation having to face full criminal proceedings will be a strong incentive to engage with the regime.&lt;/p&gt;
+
+&lt;p&gt;“The early judicial oversight of which I spoke a moment ago will take place in the following way. The prosecutor, having agreed with the organisation an outline of agreed basic facts, will present those agreed facts to a Crown Court judge, in private, along with details of the alleged wrong doing, a draft indictment, the agreed or contemplated conditions to be attached to the &lt;abbr title="Deferred Prosecution Agreement"&gt;DPA&lt;/abbr&gt;, and an outline of any areas which remain under discussion. &lt;/p&gt;
+
+&lt;p&gt;“It would be at this stage that the prosecutor could inform the judge of any international dimensions to the case, which we hope will be particularly useful in cases where the organisation faces enforcement proceedings in a number of jurisdictions, where both the prosecutor and the organisation need to ensure that whatever is happening domestically correlates with whatever is happening internationally. As such, &lt;abbr title="Deferred Prosecution Agreements"&gt;DPAs&lt;/abbr&gt; will be a swifter, more nimble way to conduct enforcement.&lt;/p&gt;
+
+&lt;p&gt;“As well as speed, we hope that &lt;abbr title="Deferred Prosecution Agreements"&gt;DPAs&lt;/abbr&gt; will provide the parties with a degree of certainty that simply cannot be offered by regular criminal proceedings. The judge will, at the early preliminary hearing, be able to give an initial indication as to whether what is proposed by the prosecutor and the organisation is likely to be endorsed by the Court when presented for final approval. Or in the words of the clauses being tabled today, whether, ‘entering into a &lt;abbr title="Deferred Prosecution Agreement"&gt;DPA&lt;/abbr&gt;… is in the interests of justice and the proposed terms of the &lt;abbr title="Deferred Prosecution Agreement"&gt;DPA&lt;/abbr&gt; are fair, reasonable and proportionate…’&lt;/p&gt;
+
+&lt;p&gt;“Of course, the judge may decide not to make such a declaration; the court may consider that in the particular circumstances of the case, a &lt;abbr title="Deferred Prosecution Agreement"&gt;DPA&lt;/abbr&gt; is not appropriate, or that certain steps must be taken, or further lines of enquiry pursued, before the matter could be considered further. &lt;/p&gt;
+
+&lt;p&gt;“While this early hearing of necessity cannot be open to the public, details of what took place will be published by the prosecutor in the event that a &lt;abbr title="Deferred Prosecution Agreement"&gt;DPA&lt;/abbr&gt; agreed and approved by the court. 92% of those who responded to the consultation considered that it was appropriate for this early hearing - or hearings, for there may be more than one if the parties so require - to take place in private. &lt;/p&gt;
+
+&lt;p&gt;“There are a host of reasons why such hearings should be in private, not least the Article 6 rights of the company to a fair trail in the event that a &lt;abbr title="Deferred Prosecution Agreement"&gt;DPA&lt;/abbr&gt; is not concluded and a full prosecution takes place. The same could be said in relation to prosecutions against individuals. &lt;/p&gt;
+
+&lt;p&gt;“And there are, of course, market considerations too - while a commercial organisation may be willing to sustain whatever the impact of an announcement that a &lt;abbr title="Deferred Prosecution Agreement"&gt;DPA&lt;/abbr&gt; has been agreed, quite understandably such organisations will be less willing to engage with the process if the early stages of their otherwise confidential discussions with the prosecutor are simply used to fuel speculation and adverse coverage in the media, with all that that will entail.&lt;/p&gt;
+
+&lt;p&gt;“Following the preliminary hearing or hearings, the prosecutor and the party to the &lt;abbr title="Deferred Prosecution Agreement"&gt;DPA&lt;/abbr&gt; will return to the Crown Court for the final disposal hearing, in which the prosecutor must apply to the Court for a declaration in similar terms to the initial indication given during the preliminary hearing, but with the crucial distinction that once the declaration is made, the &lt;abbr title="Deferred Prosecution Agreement"&gt;DPA&lt;/abbr&gt; comes into force. We propose that the test to be applied by the Crown Court at that stage will be the same as that applied at the preliminary hearing, that is to say,&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;entering into a &lt;abbr title="Deferred Prosecution Agreement"&gt;DPA&lt;/abbr&gt;… is likely to be appropriate in all the circumstances of the case and in the interests of justice, and the proposed terms of the &lt;abbr title="Deferred Prosecution Agreement"&gt;DPA&lt;/abbr&gt; are fair, reasonable and proportionate…&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;“Allow me to say a few words about the terms of the &lt;abbr title="Deferred Prosecution Agreement"&gt;DPA&lt;/abbr&gt;. &lt;/p&gt;
+
+&lt;p&gt;“The regime is intended to be flexible, so neither the legislation nor the statutory &lt;abbr title="Deferred Prosecution Agreement"&gt;DPA&lt;/abbr&gt; Code for Prosecutors that the &lt;abbr title="Serious Fraud Office"&gt;SFO&lt;/abbr&gt; and &lt;abbr title="Crown Prosecution Service"&gt;CPS&lt;/abbr&gt; will be required to produce, will be prescriptive as to what the terms should be. Rather there will be a non-exhaustive list of indicative criteria in the legislation that will include:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;a financial penalty&lt;/li&gt;
+  &lt;li&gt;disgorgement of profits or benefit&lt;/li&gt;
+  &lt;li&gt;reparation to victims&lt;/li&gt;
+  &lt;li&gt;an obligation to use all reasonable efforts to make available to the prosecutor all relevant non-privileged information or material, such as the factual findings of an internal investigation and to interviews given as part of an internal investigation&lt;/li&gt;
+  &lt;li&gt;an obligation to put in place anti-corruption or anti-fraud policies, procedures or training&lt;/li&gt;
+  &lt;li&gt;in the more serious cases, an independent monitor could be appointed&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;“Taking into account the relevant facts, previous discussions and the views of the prosecutor, the financial penalty and other terms would be a matter for the judge to approve. Once the &lt;abbr title="Deferred Prosecution Agreement"&gt;DPA&lt;/abbr&gt; and its terms are approved, a voluntary bill of indictment will be preferred and immediately and automatically suspended - suspended, that is, pending compliance by the organisation with the terms of the &lt;abbr title="Deferred Prosecution Agreement"&gt;DPA&lt;/abbr&gt;. &lt;/p&gt;
+
+&lt;p&gt;“Variation of a &lt;abbr title="Deferred Prosecution Agreement"&gt;DPA&lt;/abbr&gt; or termination of a &lt;abbr title="Deferred Prosecution Agreement"&gt;DPA&lt;/abbr&gt; will not be in the gift of the prosecutor; an application will have to be made to the court for the &lt;abbr title="Deferred Prosecution Agreement"&gt;DPA&lt;/abbr&gt; to be varied or terminated as the case may be and the court will apply the same test as when the &lt;abbr title="Deferred Prosecution Agreement"&gt;DPA&lt;/abbr&gt; was made, whether “entering into a &lt;abbr title="Deferred Prosecution Agreement"&gt;DPA&lt;/abbr&gt;… is likely to be appropriate in all the circumstances of the case and in the interests of justice, and the proposed terms of the &lt;abbr title="Deferred Prosecution Agreement"&gt;DPA&lt;/abbr&gt; are fair, reasonable and proportionate…”. &lt;/p&gt;
+
+&lt;p&gt;“If a &lt;abbr title="Deferred Prosecution Agreement"&gt;DPA&lt;/abbr&gt; remains in force until its expiry date, the prosecutor will give notice to the court that the proceedings are not to continue, and it will not be possible to bring fresh criminal proceedings against the organisation for the same offence in the future. That restriction is subject to the proviso that if the organisation provided inaccurate, misleading or incomplete information, and knew or ought to have known that that is the case, the bar on fresh proceedings being brought for the same offence no longer applies.&lt;/p&gt;
+
+&lt;p&gt;“Of course, I am aware that a regime such is this will not be without criticism. It has been said that &lt;abbr title="Deferred Prosecution Agreements"&gt;DPAs&lt;/abbr&gt; are themselves a fraud; companies that commit criminal acts do so by their human actors; should not the priority be prosecuting such people? Well let me say this: I agree with the conclusion of that statement. The priority should be prosecuting people: where there is evidence, and it is in the public interest (which, given my comments at the outset, it undoubtedly will be), there will be criminal prosecutions of such individuals. &lt;/p&gt;
+
+&lt;p&gt;“We hope the regime will encourage companies, perhaps as part of a cleansing process, to resolve past misconduct. In doing so, evidence to support full criminal investigations against individuals is likely to be revealed to prosecutors to support prosecutions of those individuals.&lt;/p&gt;
+
+&lt;p&gt;“It has been said that the rationale of &lt;abbr title="Deferred Prosecution Agreements"&gt;DPAs&lt;/abbr&gt; is logically inconsistent; if a &lt;abbr title="Deferred Prosecution Agreement"&gt;DPA&lt;/abbr&gt; is available for economic crime, why not for other crimes? Why not offer &lt;abbr title="Deferred Prosecution Agreements"&gt;DPAs&lt;/abbr&gt; to gang criminals or drug dealers, for example? &lt;/p&gt;
+
+&lt;p&gt;“Well, that criticism fails to address the fact that the &lt;abbr title="Deferred Prosecution Agreement"&gt;DPA&lt;/abbr&gt; regime does not detract one bit from the primacy that should be afforded to prosecuting individuals of serious economic crime. Indeed, by freeing up resources currently consumed by prosecutors engaged in lengthy criminal litigation against companies, more prosecutions of more individuals will be a realistic goal. &lt;abbr title="Deferred Prosecution Agreements"&gt;DPAs&lt;/abbr&gt; are only available in relation to organisations for the simple reason that you can’t send an organisation to prison, only a financial penalty is available. The same simply cannot be said of the other crimes cited in this criticism.&lt;/p&gt;
+
+&lt;p&gt;“I am aware of cases which are and have been before the courts involving both the company and the directors; in cases where the directors are convicted of criminal charges, there is a very strong argument for using the tailored, bespoke solution offered by a &lt;abbr title="Deferred Prosecution Agreement"&gt;DPA&lt;/abbr&gt; to deal with enforcement matters against the company in such situations.&lt;/p&gt;
+
+&lt;p&gt;“So as I conclude, although I noted at the outset that when I underlined the pernicious effects of bribery and corruption I was saying nothing new, I hope certainly that in the second half of my speech I not only said something new, but that I have kindled your interest in what will be a very effective, and in time vital, enforcement tool. &lt;/p&gt;
+
+&lt;p&gt;“The programme for the rest of the conference looks fascinating, and I trust that it will be interesting and productive.”&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:AnnouncementPresenter/12397</id>
+    <published>2012-10-18T00:00:00+01:00</published>
+    <updated>2012-10-18T00:00:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/speeches/the-role-of-the-law-officers"/>
+    <title>The role of the Law Officers </title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;“It is a pleasure to be speaking here tonight at Kent Law School. May I first thank Professor John Fitzpatrick for inviting me to do so?&lt;/p&gt;
+
+&lt;p&gt;“Before discussing the role of the Law Officers, can I start by saying how delighted I was that Kent Law Clinic was joint winner of ‘Best New Student Pro Bono Activity’ in this year’s Attorney General’s pro bono awards for its Public Access to Land Project. Both the Attorney General and I are strong supporters of Pro Bono by students and the professions.&lt;/p&gt;
+
+&lt;p&gt;“Kent Law School is a pioneer of student pro bono and a regular winner of the Attorney General’s pro-bono awards. I am delighted this culture of innovation continues and that your Law Clinic is central to the work of the Law School.
+There is no better way for young lawyers to engage with the profession. I was involved in the early student committees of the Free Representation Unit, or &lt;abbr title="Free Representation Unit"&gt;FRU&lt;/abbr&gt;, in the 70s. &lt;/p&gt;
+
+&lt;p&gt;“I have fond memories of my involvement with &lt;abbr title="Free Representation Unit"&gt;FRU&lt;/abbr&gt; - and not just because it was through &lt;abbr title="Free Representation Unit"&gt;FRU&lt;/abbr&gt; I met my future wife. It was an opportunity to use my legal knowledge and skills to help clients who would otherwise not have been represented. It provided valuable experience for me as an advocate, as a lawyer and for life.&lt;/p&gt;
+
+&lt;p&gt;“The constitution is full of old and strange jobs and titles, like that of Attorney General, that of Advocate General for Scotland, and my own, Solicitor General. To most people, even those with knowledge of government and the criminal justice system, the role of a Law Officer is something of a mystery. Indeed to most parliamentarians nowadays and even to some ministers the Law Officers are something of a mystery (perhaps even to some Law Officers). So I am delighted to have an opportunity to offer an insight to the offices we hold and the work we do.&lt;/p&gt;
+
+&lt;p&gt;“First, a bit of history. The Office of Attorney General is an ancient one, though much changed over the years. Legal historians argue about who the first Attorney General was, with some suggesting the role may go back as far as the appointment of Lawrence del Brok in around 1247, whose function was to sue ‘the King’s affairs of his pleas before him’. While the first person to be called ‘Attorney General’ was John Herbert who was appointed as the King’s principal law officer in 1461.&lt;/p&gt;
+
+&lt;p&gt;“Writing of my own position, Solicitor General, JP Collier published in 1819 a book impertinently called ‘Criticisms of the Bar’. He said:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;If, as was shown when speaking of the Attorney General… of all the officers in the gift of the Crown that of the Attorney General is least to be coveted, that of the Solicitor General is perhaps most to be desired. In point of rank the latter is but just inferior to the former and the Solicitor General is relieved from a great part of the weight of public odium which his co-adjudicator is under the necessity of sustaining.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;“Over the 200 years since that was written much has changed, though I daresay some recent Attorneys must have felt they have had their share of public odium. The Solicitor General is still essentially the Attorney’s deputy, but since the Law Officers Act of 1997 any function of the Attorney General may be exercised by the Solicitor General, and indeed we share much of the work that falls to be done in the name of the Attorney General. So when I talk of the functions of the Attorney General I mean my own too.&lt;/p&gt;
+
+&lt;p&gt;“The Office of Solicitor General itself has a long history. One of my 17th-century predecessors, Sir Francis Bacon, described the role of Solicitor General as ‘one of the painfulest places in the Kingdom’. Yet history also records that Sir Francis made great endeavours to secure appointment to the office of Solicitor General, before later serving as a Law Officer for 10 years, so he must have either liked the pain, or at least thought it worth enduring.&lt;/p&gt;
+
+&lt;p&gt;“Some Law Officers have had more reason than others to complain, of course: the most extreme example perhaps was John Cooke, the first Solicitor General of Oliver Cromwell’s English Commonwealth, who in 1649 led for the prosecution in the trial of King of Charles I, only to be rewarded with execution for high treason after the Restoration: the only Law Officer to be hanged, drawn and quartered. So far, at least.&lt;/p&gt;
+
+&lt;p&gt;“But what history has bequeathed us is an Attorney General who is a Minister of the Crown and Chief Legal Adviser to the Government, who also exercises a number of functions in the public interest. He superintends the Directors of Public Prosecutions and the Serious Fraud Office, as well as overseeing the Government Legal Service. While the role has evolved much, it has some consistencies. &lt;/p&gt;
+
+&lt;p&gt;“The Law Officers’ are members of the government. The Attorney General is a politician, but he is not just a party political minister: he is also a senior lawyer. He is not a member of Cabinet, though he will attend when his advice is required or when matters within his responsibility come up for consideration.&lt;/p&gt;
+
+&lt;p&gt;“Indeed, the core function of the Attorney General was and is to make sure that government, that ministers, act lawfully, in accordance with the rule of law. Some of you may find it harder to accept that a politician and member of the government is best placed to ensure that the government acts lawfully in what it does. Some argue that the current office involves too many conflicts of interest. That subject is too wide and deep for me to explore today. The current arrangement, as awkward as it may look on paper, like so many of the eccentricities in our constitution, works because it puts at the heart of government an independent lawyer who is trusted by those he advises because he is one of them.&lt;/p&gt;
+
+&lt;p&gt;“In my approach to the role I have been much influenced by a former Solicitor and Attorney General, Peter Rawlinson. Peter Rawlinson was appointed Solicitor General by Harold Macmillan in 1962. He describes in his autobiography, ‘A Price Too High’, how he was invited to become Solicitor General. The Prime Minister honoured him with a ‘scholarly review of mediaeval office holders’, a review which flowed into the 16th and 17th centuries, embraced approvingly the career of Samuel Pepys, and concluded with the admonition that the loyalties of a Law Officer must be first to the Crown, second to Parliament, and only thirdly, almost incidentally, to the administration. I am struck by the order of loyalties that Macmillan described and regard it as one which I, now a Law Officer, will honour for so long as I hold this office.&lt;/p&gt;
+
+&lt;p&gt;The third UK Law Officer as I mentioned is the Advocate General for Scotland, Lord Wallace of Tankerness &lt;abbr title="Queen's Counsel"&gt;QC&lt;/abbr&gt;. Jim Wallace is responsible for advising the UK government on matters of Scots law. He also plays a key role in relation to legislative procedure, as I shall explain later. And I should for the sake of completeness mention the similar role played in relation to the devolved administrations by the Lord Advocate in Scotland, the Attorney General for Northern Ireland and the Counsel General in Wales.&lt;/p&gt;
+
+&lt;p&gt;I think the role of the Attorney General as the government’s Chief Legal Adviser was neatly summed up by the former Attorney General, Lord Mayhew of Twysden, who said:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The Attorney General has a duty to ensure that the Queen’s ministers who act in her name, or purport to act in her name, do act lawfully because it is his duty to help to secure the rule of law, the principle requirement of which is that the government itself acts lawfully.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;“This is reinforced by the Ministerial Code issued by the Prime Minister, which requires that the Law Officers must be consulted in good time before the government is committed to critical decisions involving legal considerations.&lt;/p&gt;
+
+&lt;p&gt;“Departments will often come to us for advice on how policy can be achieved in a lawful or proper way. By longstanding convention, also recorded in the Ministerial Code, neither the fact that the Law Officers have advised or not, nor the advice that the Law Officers have given, may be disclosed. I cannot give you examples of how, in the few weeks I have been in office, I have, if at all, discharged that role. But let me say that I have not been short of things to do.&lt;/p&gt;
+
+&lt;p&gt;“As law students you can well understand why it is vital that a lawyer must keep his clients’ confidences and I would like to say here a bit about our role of Law Officers but also lawyers more generally. Lawyers and the practice of law are all too often cast in a negative light. There is a perception that lawyers can be a hindrance. That we are the men and women who just say no. We are too cautious, too risk adverse, that we stop things getting done. That is not my experience. Both as a lawyer in private practice and now a Law Officer in government, my experience is that lawyers are enablers. A lawyer does not say no lightly. A lawyer says no with intent, so much of our time is not spent just saying ‘No’, but ‘Have you thought about doing it this way?’ which is what all good lawyers should do for their clients.&lt;/p&gt;
+
+&lt;p&gt;“A good lawyer understands how things get done. The law provides the framework for this. The concept of the rule of law is contested, and now is not the time for an exposition on it. But the law provides the predictability, the stability, the reliability needed to make decisions and enable investment. &lt;/p&gt;
+
+&lt;p&gt;“The best lawyers are creative; they help their clients walk the line, to achieve what they want, the property bought, the contract agreed, the deal done, all within the law. Many lawyers explore that line; the best learn to walk it. In government as lawyers we do that too, but sometimes we go further, we redraw the line. We draft the law.&lt;/p&gt;
+
+&lt;p&gt;“The Law Officers have a particular role in the legislative process, considering each Bill as it approaches introduction into Parliament. The Attorney General or the Advocate General are both members of the Cabinet’s Committee which considers the readiness of government Bills and authorises their introduction. In that role the Law Officers assist the government in its search for a lawful and proper way to achieve its policy objectives. Ultimately we may block a Bill if we have unresolved concerns about its legality or propriety. But our ability to ensure that Bills are legal and proper comes from our relationship with the government lawyers who work on Bills and with the Parliamentary Counsel who draft them.&lt;/p&gt;
+
+&lt;p&gt;“There are in fact 3 sets of lawyers involved in preparation of a bill. Firstly there are the departmental lawyers who advise their clients on the legal issues with a policy and consider whether legislation is necessary to achieve it. Where possible the government tries to avoid legislating and adding to the regulatory burden on citizens. Secondly there are the Parliamentary Counsel who draft the actual text of the bill, and finally us the Law Officers who I will say more of later.&lt;/p&gt;
+
+&lt;p&gt;“The role of Parliamentary Counsel as the drafters of legislation is central to this process. Parliamentary Counsel advises departmental lawyers on matters of legal propriety and technical drafting, and refer matters of concern to the Law Officers if they cannot be resolved. They also act as guardians of the rule of law and they can and often do look to the Law Officers for support. This is a useful way of ensuring that the main legal players in the Bill process cooperate.&lt;/p&gt;
+
+&lt;p&gt;“Liaising with Parliamentary Counsel and departmental lawyers serve as a useful guide to the Law Officers to new trends in drafting and legislation, for the drafting of legislation is not immune from innovation, if not fashion. The art of both drafting and legislating is not set in stone, and we do not pursue these activities in a vacuum though you might be forgiven for thinking that; governments legislate to meet or influence events, which throw up their own and new challenges that have to be met. &lt;/p&gt;
+
+&lt;p&gt;“However, we need to ensure that the legislative responses to those challenges are appropriate and that the government’s understandable desire to act does not lead to ill considered or inept legislation. Parliamentary Counsel and government lawyers enable us to check this and to offer a guiding hand if we feel that an excitable and excited minister has been touched by a bout of unlawful enthusiasm. &lt;/p&gt;
+
+&lt;p&gt;“The volume of legislation over the last 13 years has been relentless; whether it has been of any public benefit is a matter for you to consider. The Law Officers believe if we are to legislate, we should make good law.&lt;/p&gt;
+
+&lt;p&gt;“The Law Officers have a more direct role in relation to 3 aspects of proposed legislation, namely compatibility with the European Convention on Human Rights. When a Bill is introduced the minister in charge in each House is required by section 19 of the Human Rights Act 1998 to make a statement that in his or her view the Bill’s provisions are compatible with the Convention rights. Alternatively, if the Minister is not able to provide that personal assurance, then he or she must state that nevertheless the government wishes the House to proceed with the Bill.&lt;/p&gt;
+
+&lt;p&gt;“The Law Officers will consider the Human Rights memorandum that departments are required to produce for the Cabinet Committee. The memorandum sets out an analysis of the convention rights that are engaged by a Bill and an assessment of any interferences and justification for them in &lt;abbr title="European Court of Human Rights"&gt;ECHR&lt;/abbr&gt; terms. The department demonstrates its human rights law reasoning with a view to satisfying the Law Officers, and so the committee and the government, that the route by which the department has come to the conclusion that the Bill is compatible is correct.&lt;/p&gt;
+
+&lt;p&gt;“Even if I were able to explain to you what matters we had been consulted on, Bills we had commented on or what advice we had given, that would only give a tiny picture of all the legal work that goes in to the development of government policy and legislation. Many of the tricky legal issues that arise in developing policy never come to the Law Officers. The day-to-day guardians of legality and propriety in all that the government does are the lawyers of the Government Legal Service.&lt;/p&gt;
+
+&lt;p&gt;“The Law Officers enjoy a special relationship with the lawyers working in to government departments. This ensures the professional independence and standards of the advice given by them and their staff. Government lawyers may consult the Law Officers if they have doubts about the propriety of any proposed course of conduct in a matter for which they have responsibility. And from this position of strength, government lawyers can advise ministers on the legality of what they want to do, and they work up solutions when what is proposed collides with the constraints imposed by, say, the Human Rights Act, or by our obligations under EU law.&lt;/p&gt;
+
+&lt;p&gt;“If you have found what I have said so far interesting you may want to consider becoming a lawyer in the Government Legal Service, they recruit trainees and pupils every year. It is not all though about liaising with the government. The Law Officers also have particular independent public interest functions. Indeed, as is rather grandly set out on the office’s website, the Attorney General historically has the role of ‘the guardian of the rule of law and the public interest’. I will outline just a few.&lt;/p&gt;
+
+&lt;p&gt;“This includes a pivotal part in the contempt of court jurisdiction ensuring that trials are not undermined by any media reporting. There is no desire to censor but solely a need to ensure that a case is decided solely on the evidence that is presented in court. The right to free speech and open justice is of fundamental importance but at times can clash with another fundamental right - that to a fair trial. The contempt of court jurisdiction and the Law Officers’ role in overseeing it is borne of an attempt to strike the right balance between these 2 rights.&lt;/p&gt;
+
+&lt;p&gt;“This role is increasing determined by statute, in particular the 1981 Contempt of Court Act. The starting point is, as I believe it should be, in favour of open justice protecting fair and accurate contemporaneous, written in good faith, legal reporting. However the publication of material which creates a substantial risk that the course of justice will be seriously impeded or prejudiced will fall foul of the legislation. In that situation it is for the Attorney General to decide whether to instigate proceedings against the publisher. &lt;/p&gt;
+
+&lt;p&gt;“There have been high profile examples of this in the past. For instance, you may remember the reporting of the Joanna Yates murder investigation in Bristol last year. There was widespread speculation and copy, across much of the media, about Mr Jefferies who was arrested on suspicion of murder but was later found to be wholly innocent. The coverage in the Sun and Daily Mail newspapers was found to amount to contempt of court as it would have created a substantial risk of serious prejudice if he had been brought to trial.&lt;/p&gt;
+
+&lt;p&gt;“The Court looked closely at the issue of impediment to the course of Justice. They decided Mr Jefferies had been vilified to such an extent that potential witnesses might have been discouraged or deterred from coming forward and providing information helpful to Mr Jefferies. The Court ruled the articles published by both papers would have been extremely damaging to Mr Jefferies and his defence. They constituted contempt under the strict liability rule. As the Attorney noted at the time, ‘This prosecution is a reminder to the press that the Contempt of Court Act applies from the time of arrest.’&lt;/p&gt;
+
+&lt;p&gt;“Caution, not to say common sense, must come into play when the media are reporting on a case involving an arrested suspect - a suspect who may never be charged. Thankfully prosecutions of this sort are comparatively rare.&lt;/p&gt;
+
+&lt;p&gt;“Another power the Attorney exercises as guardian of the public interest is that to refer to the Court of Appeal sentences which he considers to be unduly lenient. This is often thought of as a right for the prosecution, or indeed an interested party, to ‘appeal’ against a lenient sentence, but that is to misunderstand the nature of the power. The power is to provide an exceptional remedy to address those sentences which fall so far below the range of sentences it was reasonable for the judge to impose that they risk damaging public confidence in the criminal justice system. &lt;/p&gt;
+
+&lt;p&gt;“The legislation only covers certain serious offences for which a sentence was passed in the Crown Court. It is subject to a strict time limit of 28 days from the day of sentence. We take advice, as you may expect, including from experienced independent counsel, but the decision is ours personally. It is only where we feel that a sentence was significantly outside the appropriate bracket that we will ask the Court of Appeal to intervene. It is then of course a matter for the Court as to whether it decides to increase the sentence. &lt;/p&gt;
+
+&lt;p&gt;“My experience over the weeks since I have been in office has been that judges do a difficult job very well. The legislation can be fiendishly complex and even with the benefit of sentencing guidelines passing sentence requires the exercise of careful judgement, taking many different and sometimes competing factors into account. It is only a tiny proportion of the sentences passed in the Crown Court which come to our attention. &lt;/p&gt;
+
+&lt;p&gt;“By way of example, in 2011 the sentences passed on 263 offenders were drawn to the attention of the Attorney General. Of those 112 were referred to the Court of Appeal and the Court increased the sentence in 95 cases. Bear in mind that each year somewhere in the region of 80,000 cases are sentenced in the Crown Courts and you will see that we really are talking about a fraction of cases. It is nevertheless important that there is a route by which people are able to draw cases to our attention. &lt;/p&gt;
+
+&lt;p&gt;“For my part, doing a job in government so closely associated with the law and the profession which has been such a big part of my life for the last 40 years is a reward. The life of the Law Officers, although circumscribed by limitations that many a politician would not tolerate, brings one to the very centre of power even if those at the centre do not realise it. It is not the dry and fusty world of the Dickensian lawyer’s office, still less the Office of Circumlocution.&lt;/p&gt;
+
+&lt;p&gt;“A few weeks ago I swore before the Lord Chief Justice that I would ‘truly minister the Queen’s matters and sue the Queen’s process after the course of the law and after my cunning. For any matter against the Queen where the Queen is a party I will take no wages or fee of any man. I will duly in convenient time speed such matters as any person shall have to do in the law against the Queen, as I may lawfully do, without long delay, tracting or tarrying the Party of his lawful process in that that to me belongeth, and I will be attendant to the Queen’s matters when I shall be called there to.’&lt;/p&gt;
+
+&lt;p&gt;“That is the oath Peter Rawlinson took, and that is the oath that Geoffrey Howe, Patrick Mayhew and Nick Lyell took on becoming Solicitor General. As Macmillan told Peter Rawlinson my first duty is to the Crown, secondly to Parliament, and thirdly, to the administration, but if in discharging those duties I can also rebuild the now attenuated links that used to join Parliament and government to the institutions of the Law, I will have achieved something of value.&lt;/p&gt;
+
+&lt;p&gt;“Parliamentarians must understand the role and rule of law and recognise that our constitution has reserved a place for the courts. One of my jobs is to help them do that. Government must also not always stand on its rights when there are better and cheaper ways of achieving an outcome. &lt;/p&gt;
+
+&lt;p&gt;“Let me give you an example: you may or may not recall that a few years ago a case was brought by a prisoner who claimed that his human rights had been infringed by the prison service for keeping him in a cell where the lavatory was blocked. Rather than allowing the claim to develop, rather than defending the claim at huge public expense, would it not have been more sensible to call a plumber to unblock it? The plumber’s hourly rate of course may have been higher than that of many barristers, but the hours a good deal fewer.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:AnnouncementPresenter/8446</id>
+    <published>2012-10-16T00:00:00+01:00</published>
+    <updated>2012-10-16T00:00:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/attorney-general-vetoes-release-of-prince-of-wales-correspondence"/>
+    <title>Attorney General vetoes release of Prince of Wales' correspondence</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Attorney General today issued a certificate under the Freedom of Information Act, both as it applies for the purposes of the Act and as it applies to the Environmental Information Regulations 2004, vetoing the disclosure of correspondence between HRH Prince of Wales and ministers in 7 government departments.&lt;/p&gt;
+
+&lt;p&gt;The Attorney General is the only minister to have access to papers from previous administrations. Having carefully considered all the relevant arguments, and having sought the views of his Cabinet colleagues, as well as the Information Commissioner, the Leader of the Opposition and relevant former ministers he has decided to exercise the veto. &lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://www.gov.uk/government/publications/evans-v-1-information-commissioner-2-seven-government-departments-2012-ukut-313-aac"&gt;Certificate and the Attorney General’s Statement of Reasons&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://www.gov.uk/government/publications/written-ministerial-statement-freedom-of-information-act-veto-of-release-of-prince-charles-letters"&gt;Written Ministerial Statement on the Prince of Wales’ correspondence veto decision.&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:AnnouncementPresenter/8447</id>
+    <published>2012-10-16T00:00:00+01:00</published>
+    <updated>2012-10-16T00:00:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/attorney-general-to-apply-for-fresh-inquests-for-victims-of-hillsborough-disaster-16-october-2012"/>
+    <title>Attorney General to apply for fresh inquests for victims of Hillsborough disaster 16 October 2012</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Attorney General, Dominic Grieve QC MP, has today announced that although his consideration of the evidence is not complete, he has made the decision to apply to the High Court to quash the inquest verdicts of the 96 victims and order fresh inquests.&lt;/p&gt;
+
+&lt;p&gt;He will now write to the families of the victims to give them the opportunity to make representations, and continue the detailed work of preparing an application. This process will take time.&lt;/p&gt;
+
+&lt;p&gt;The Attorney General, in a Written Ministerial Statement to Parliament, said:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Following the publication of the Hillsborough Panel Report I have been considering whether to apply to the High Court for an order quashing the original inquests and ordering new inquests to be held. The High Court will have the power to grant such an order if I place before it evidence that persuades the Court that new inquests are necessary or desirable in the interests of justice.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;My consideration of the evidence is far from complete but, given the anxiety further delay may cause the families affected by the Hillsborough Disaster, I have decided to take an exceptional course and state at this stage that, on the basis of what I have already seen, I have determined that I must make an application to the Court.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;In doing so I should make it clear that further work will need to be done before any application can be made. In particular, there was not one inquest but 96. My current view is that I will apply to have every one of those 96 inquests quashed. I believe that these deaths, arising as they do from a common chain of events, should all be considered afresh. However, before reaching any final view on the scope of the application, I want to give the families affected the opportunity to make any representations in respect of the family member or members they lost. I will therefore be in contact with each family seeking views.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The application is not simply a matter of putting the Hillsborough Panel Report before the Court. The application will need to be fully prepared and the evidence that underpins the Report’s findings will need to be carefully considered. I want the application that is made to be as persuasive as it can be. Whilst I make this statement at this stage to reassure the families that an application will be made, it must be understood that there are legal as well as evidential issues to be considered. Although this work is being given a high priority, further time will be needed to prepare the application.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The Attorney General takes decisions on whether to apply to the High Court for an inquest as part of his public interest function, independently of Government and strictly on the basis of the evidence.&lt;/p&gt;
+
+&lt;p&gt;He has no power to order a new coronial inquest. A new inquest can only be ordered by the High Court on an application made either by the Attorney General or by a third party with the consent of the Attorney General. But before any such application can be made, the Attorney General has to be satisfied that he has sufficient evidence in an admissible form, to persuade the Court that the test set out in section 13 of the Coroners Act 1988 is met.&lt;/p&gt;
+
+&lt;h3 id="application-for-new-hillsborough-inquests-questions-and-answers-12-november-2012"&gt;Application for new Hillsborough inquests: questions and answers (12 November 2012)&lt;/h3&gt;
+
+&lt;p&gt;Q: Why is this taking a long time? There was a lot of information in the Independent Panel’s report.&lt;/p&gt;
+
+&lt;p&gt;A: To prepare an application, the Attorney General must identify the necessary evidence and legal arguments required to persuade the Court that, as a matter of law, new inquests are necessary or desirable in the interests of justice and that there is, at this point in time, enough material available for a new Coroner to reach more accurate conclusions than previously. It is not simply a matter of putting the Hillsborough Panel Report to the Court.  &lt;/p&gt;
+
+&lt;p&gt;Our best estimate (as of Monday 12 November) is that the Attorney General will be in a position to make an application to the High Court in December. &lt;/p&gt;
+
+&lt;p&gt;He is acutely aware of the desire for this process to move forward quickly. The Attorney continues to give this matter the highest priority and will make his application as soon as possible.  &lt;/p&gt;
+
+&lt;p&gt;Q: What will the Attorney General have to prove when he applies for a new inquest?&lt;/p&gt;
+
+&lt;p&gt;A: The Court must be satisfied that new inquests are necessary or desirable in the interests of justice.  It is not enough to show that the original inquests were flawed.  The purpose of an inquest is to determine who the deceased is, how, when and where he or she died.  The “how” includes the events that led to the deceased’s death but it also means the medical cause of death.  In considering the Attorney General’s application, the Court will need to be satisfied that the medical evidence that is still available is sufficient to allow a new Inquest to reach informed conclusions as to the medical cause of death &lt;/p&gt;
+
+&lt;p&gt;Q: Why is the Attorney General not going to allow or make a separate, earlier application in relation to the death of Kevin Williams?&lt;/p&gt;
+
+&lt;p&gt;A: The evidence that supports a new inquest into Kevin Williams’ death is the same evidence that supports new inquests into the other deaths.  The court will only wish to consider that evidence in a single hearing.  It is right that a single application should be made in relation to each of the inquests being challenged, which will be made as soon as possible.&lt;/p&gt;
+
+&lt;p&gt;Q: What is the process?&lt;/p&gt;
+
+&lt;p&gt;A: The Attorney General applies to the court and the matter will be listed for hearing.  The Court may well give permission to any interested parties to be represented.  It is for the Court to determine who may be interested parties but these would normally include the families of the deceased and any other party that might be affected by a decision to order new inquests.  The Coroner who held the original inquest or his office will be the respondent to the application.  The court needs to be persuaded by the evidence before it that the test is met for a new inquest.&lt;/p&gt;
+
+&lt;p&gt;Q: Have other people been consulted?&lt;/p&gt;
+
+&lt;p&gt;A: The Attorney has consulted the families of the victims. The Attorney has also approached the original coroner and is in the process of writing to others who may have an interest in any decision to hold new inquests.&lt;/p&gt;
+
+&lt;p&gt;Q: Can he not speed up when the inquest takes place?&lt;/p&gt;
+
+&lt;p&gt;A: The role of the Attorney General ends when he makes the application.  He has no say on when or where any new inquest should take place &lt;/p&gt;
+
+&lt;p&gt;Q: Can the Attorney say where an inquest may be held?&lt;/p&gt;
+
+&lt;p&gt;A: No, his role ends when he makes the application. &lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:AnnouncementPresenter/17661</id>
+    <published>2012-10-12T00:00:00+01:00</published>
+    <updated>2012-10-12T00:00:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/speeches/prosecuting-human-trafficking-and-slavery-the-law-and-the-uk-response"/>
+    <title>Prosecuting human trafficking and slavery: the law and the UK response</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="introduction"&gt;Introduction&lt;/h2&gt;
+
+&lt;p&gt;“It is a great pleasure to be able to speak to you today. I would like to thank Professor Neil Cooper and Dr Julia Buxton for inviting me to speak about human trafficking. It is an opportune time to debate this topic as the UK’s Anti Slavery Day was on the 18 October. You have provided me with an excellent opportunity to mark this day and I am delighted to do so at this department which has such an excellent international reputation in the area of peace studies.&lt;/p&gt;
+
+&lt;p&gt;“My parliamentary constituency is North East Hertfordshire. Within it, at Wadesmill, there is a monument marking the spot where, in June 1785, Thomas Clarkson rested his horse on the way from Cambridge to London. Clarkson had just won a university prize for an essay on the topic, ‘Is it lawful to enslave the unconsenting?’ He had written about the Atlantic slave trade, and while resting his horse, Clarkson realised that ‘it was time some person should see these calamities to their end’. Clarkson then devoted his life to campaigning for the abolition of slavery. His energy and determination, and that of other ‘abolitionists’ like William Wilberforce and Olaudah Equiano, led first to the abolition of the slave trade in 1807, and then to the Slavery Abolition Act of 1833.&lt;/p&gt;
+
+&lt;p&gt;“Important as those achievements were, the ‘unconsenting’ are still enslaved today. Human trafficking threatens the human rights of millions every year and represents a new form of slavery. Human trafficking is the second largest organised crime in the world; there are millions of victims at any given time with profits of traffickers worldwide estimated in excess of $32 billion each year.&lt;/p&gt;
+
+&lt;p&gt;“In the UK, those who are exploited may face years of sexual abuse, forced labour or domestic servitude. They are vulnerable women, children and men who often speak no English and are kept isolated. In many instances they never fully recover from their traumatic experience.&lt;/p&gt;
+
+&lt;p&gt;“Anti-Slavery Day was introduced in 2010 through the Anti-Slavery Day Act to raise awareness of the need to eradicate all forms of slavery, human trafficking and exploitation. &lt;/p&gt;
+
+&lt;p&gt;“Today, I will look at the nature of the problem in the UK and give an overview of the UK response to human trafficking. I will then examine the influence of international instruments, such as UN protocols, on domestic legislation. Finally I will comment on the UK criminal justice response both in terms of how prosecutions are handled, and the effectiveness of the criminal justice system in combating human trafficking.&lt;/p&gt;
+
+&lt;p&gt;“But I thought it might be helpful to start by explaining something about my role as a Law Officer and how this relates to the subject under discussion. I am deputy to the Attorney General. Together we are known as the Law Officers. The office of Attorney General covers a wide range of functions. In addition to being chief legal adviser to the Crown, and thus to government, the Attorney General is also the guardian of the public interest and a protector of charity.&lt;/p&gt;
+
+&lt;p&gt;“As government ministers, we account to Parliament for the 2 largest prosecuting departments: the Crown Prosecution Service and the Serious Fraud Office. (We also have ministerial responsibility for the Treasury Solicitor’s department and Her Majesty’s Crown Prosecution Service Inspectorate.) This superintendence role involves safeguarding the independence of the prosecutors in taking prosecution decisions and, in conjunction with the directors of the prosecuting authorities, setting their strategic direction.&lt;/p&gt;
+
+&lt;p&gt;“While the lead in policy making on human trafficking lies with the Home Office, the Law Officers have a role, together with Home Office and Ministry of Justice colleagues, in formulating criminal justice policy. In particular, we want to ensure human trafficking policy works in practice, when it comes to the prosecution of offences. I am a member of the Inter Departmental Ministerial Group (&lt;abbr title="Inter Departmental Ministerial Group"&gt;IDMG&lt;/abbr&gt;) which acts as the UK rapporteur on this issue. &lt;/p&gt;
+
+&lt;p&gt;“If I start with the problem in the UK, human trafficking is, by its nature, a complex and hidden crime and it is difficult to get a full picture of the numbers involved. However, the Association of Chief Police Officers (&lt;abbr title="Association of Chief Police Officers"&gt;ACPO&lt;/abbr&gt;) in 2010 undertook a study of sexual exploitation in England and Wales. The report looked at who was being trafficked into the country for ‘off-street’ prostitution, where they came from, and how they were treated. This report estimated that, of the 17,000 migrant sex workers in the off-street sector, there were at least 2,600 female adult victims of trafficking for sexual exploitation in England and Wales, with a further 9,600 considered to be vulnerable, and suspected to have experienced an element of trafficking.&lt;/p&gt;
+
+&lt;p&gt;“National Referral Mechanism (&lt;abbr title="National Referral Mechanism"&gt;NRM&lt;/abbr&gt;) figures give a more up-to-date picture of those victims who have reported to the police or are brought to the attention of the authorities. The &lt;abbr title="National Referral Mechanism"&gt;NRM&lt;/abbr&gt; is a framework for identifying victims of human trafficking and ensuring they receive appropriate care. A range of agencies may be involved in a trafficking case, such as the police, the UK Border Agency (&lt;abbr title="UK Border Agency"&gt;UKBA&lt;/abbr&gt;), local authorities and non-governmental organisations such as charities.&lt;/p&gt;
+
+&lt;p&gt;“The &lt;abbr title="National Referral Mechanism"&gt;NRM&lt;/abbr&gt; makes it easier for these agencies to co-operate, share information and facilitate access to advice, accommodation and support. In 2011, 946 potential victims of human trafficking including 234 child victims were identified in the UK by the &lt;abbr title="National Referral Mechanism"&gt;NRM&lt;/abbr&gt;. Using this data we are also able to explore where victims are trafficked from. The most prevalent source countries were Nigeria, China, Vietnam, Romania and Slovakia.&lt;/p&gt;
+
+&lt;p&gt;“The most prevalent type of exploitation for adults trafficked to the UK is sexual exploitation and for children it is labour exploitation. In recent months we have also seen cases in which victims have been brought to the UK to be exploited for the purpose of benefit fraud and other types of criminal exploitation. &lt;/p&gt;
+
+&lt;p&gt;“The impact of these crimes is great in terms of harm, both to victims and to society more generally. The numbers of people trafficked and the source, transit and destination countries continue to change and evolve as traffickers seek to exploit new and more profitable opportunities.&lt;/p&gt;
+
+&lt;p&gt;“It is therefore crucial that we monitor the constantly changing pattern of human trafficking to and in the UK, in order to support victims and deter and disrupt traffickers. This is why we vigorously review the latest data on trafficking at each of our inter-departmental ministerial meetings on human trafficking.” &lt;/p&gt;
+
+&lt;h2 id="the-uk-government-response"&gt;The UK government response&lt;/h2&gt;
+
+&lt;p&gt;“So, the UK government response to human trafficking is of vital importance. We have made progress. We are improving the identification of, and support for, trafficking victims. And we are working more closely with international partners to deter, disrupt and prosecute traffickers. But there is much more to do.&lt;/p&gt;
+
+&lt;p&gt;“The government published its human trafficking strategy in July 2011 with a focus on victims, and prevention. The aims of that strategy are as follows:&lt;/p&gt;
+
+&lt;p&gt;“First, improved victim identification and care - actions have been taken to improve the awareness of front line professionals working in local authorities, health services, the UK Border Agency (&lt;abbr title="UK Border Agency"&gt;UKBA&lt;/abbr&gt;), the police, the Crown Prosecution Service, the Serious Organised Crime Agency (&lt;abbr title="Serious and Organised Crime Agency"&gt;SOCA&lt;/abbr&gt;), charities such as NSPCC and the Gangmasters Licensing Authority, so that they can better identify, support and protect victims.&lt;/p&gt;
+
+&lt;p&gt;“The second aim is to act early in source countries. Increased international engagement has begun: to gain a better understanding of human trafficking patterns, to raise awareness of this crime, and to assist in strengthening law enforcement and justice systems in priority countries. The &lt;abbr title="Crown Prosecution Service"&gt;CPS&lt;/abbr&gt; has a number of prosecutors based in ‘strategic threat assessment countries’. They regularly liaise with 2 of the major source countries through the Supreme People’s Procuracy (SPP) from Vietnam and the Nigerian Agency for the Prevention of Trafficking In Persons (NAPTIP) to prosecute traffickers at source, improve cooperation and build the capability of investigators and prosecutors.&lt;/p&gt;
+
+&lt;p&gt;“The third aim is smarter, more effective action at the border - concentrated efforts have been made by a range of agencies to work together to share information and maximise capabilities. The Border Force has been working with the European Border Agency, Frontex, to draw up risk profiles on victims from particular countries, in cooperation with other member states. The risk profiles have been disseminated to UK ports. In this way the attention of frontline staff can be focused on passengers who pose the highest risk and allow the vast majority of legitimate travellers to pass through without delay.&lt;/p&gt;
+
+&lt;p&gt;“The final aim is more coordination of UK law enforcement efforts - agencies across the UK work collaboratively and with their counterparts in other countries to share intelligence and collectively target traffickers.&lt;/p&gt;
+
+&lt;p&gt;In tackling human trafficking, no single agency or government organisation alone can provide a comprehensive response. This is why it is crucial that we cooperate together fully at every level.&lt;/p&gt;
+
+&lt;p&gt;“At the strategic level, the Inter-Departmental Ministerial Group (&lt;abbr title="Inter Departmental Ministerial Group"&gt;IDMG&lt;/abbr&gt;) draws together ministers of the relevant departments and the devolved administrations. I am a member of this group. You may be surprised at the range of other departments represented: the membership includes ministers from the Foreign and Commonwealth Office, Department for Communities and Local Government, Department for Education, Ministry of Justice, Department for International Development, Department for Work and Pensions and Department of Health. &lt;/p&gt;
+
+&lt;p&gt;“This group is responsible for developing and reviewing the UK’s counter-trafficking policy. In line with the requirements set out in the 2011 EU Directive on trafficking in human beings, the &lt;abbr title="Inter Departmental Ministerial Group"&gt;IDMG&lt;/abbr&gt; is the UK’s national rapporteur mechanism. &lt;/p&gt;
+
+&lt;p&gt;“The &lt;abbr title="Inter Departmental Ministerial Group"&gt;IDMG&lt;/abbr&gt; published its first annual report on human trafficking on 18 October 2012. The report is an assessment of human trafficking in the UK and work underway to prevent people from becoming victims of this crime. As well as assessing trends the report also provides an update on the UK government’s human trafficking strategy. I would urge you to read this report which is available to download from the Home Office website.&lt;/p&gt;
+
+&lt;p&gt;“At official level, policy on trafficking is consistently reviewed at meetings of both government and non-government representatives - such as the Poppy Project and NSPCC. My officials take a full part in these meetings.&lt;/p&gt;
+
+&lt;p&gt;“At operational level, the UK Human Trafficking Centre is a multi-agency unit that coordinates law enforcement. UK law enforcement and prosecutors also work in joint investigation teams. These teams tackle the chain of criminals across various countries who are responsible for recruiting, moving and exploiting vulnerable victims.”&lt;/p&gt;
+
+&lt;h2 id="the-role-of-international-instruments-in-shaping-and-influencing-legislation"&gt;The role of international instruments in shaping and influencing legislation&lt;/h2&gt;
+
+&lt;p&gt;“Over recent years, there has been a growing international consensus that there should be a concerted global response to human trafficking. Globalisation has resulted in an increase in transnational crime, and migration provides a fertile field for criminals. In response, international instruments have criminalised human trafficking, put in place procedural safeguards and protected victims. &lt;/p&gt;
+
+&lt;p&gt;“The UK’s legal framework has been directly influenced by UN and EU Conventions and Directives. I will refer to just 2 such international instruments.&lt;/p&gt;
+
+&lt;p&gt;“The first is the ‘Palermo Protocol’. The UN Convention against Transnational Organised Crime, signed in Palermo, Italy in 2000 is the main instrument against transnational organised crime. It provided international and mutually recognised definitions of human trafficking and criminalisation of trafficking including proportional criminal penalties for traffickers. It also, importantly, established the protection to be afforded to victims. The ‘Palermo Protocol’ continues to shape the UK’s response to human trafficking and in particular the care and support afforded to identified human trafficking victims.&lt;/p&gt;
+
+&lt;p&gt;“The second international instrument I will refer to is the EU Directive on Trafficking in Human Beings, which the UK opted into in July 2011. The UK was already compliant with the majority of the provisions contained within the directive. However, there were 2 areas identified where primary legislation was required to comply. Steps have already been taken, through the Protection of Freedoms Act 2012, to introduce new legislation in these areas. &lt;/p&gt;
+
+&lt;p&gt;“The legislative changes mean that, in future, England and Wales can prosecute UK nationals who commit trafficking offences even where the trafficking has no connection with the UK. The power to prosecute traffickers for non-sexual trafficking offences which occur wholly within England and Wales has also been introduced.”&lt;/p&gt;
+
+&lt;h2 id="the-uk-criminal-justice-response"&gt;The UK criminal justice response&lt;/h2&gt;
+
+&lt;p&gt;“I now turn to domestic legislation and the criminal justice response. &lt;/p&gt;
+
+&lt;p&gt;“Cases of human trafficking may be prosecuted under a variety of different legislation. I shall briefly run through some of the relevant legislation:&lt;/p&gt;
+
+&lt;p&gt;“The Sexual Offences Act 2003 criminalised the trafficking into, within, and out of, the UK for the purposes of sexual exploitation.&lt;/p&gt;
+
+&lt;p&gt;“Secondly, the Asylum and Immigration Act 2004 criminalised trafficking into, within, and out of, the UK for all other forms of exploitation. This legislation was also sufficiently wide for prosecutors to prosecute traffickers for a wide range of exploitative conduct.&lt;/p&gt;
+
+&lt;p&gt;“Finally, in April 2010 a standalone offence was introduced under the Coroners and Justice Act 2009 to criminalise those who hold another person in slavery or servitude or require them to perform forced or compulsory labour.&lt;/p&gt;
+
+&lt;p&gt;“All these offences attract maximum penalties of up to 14 years imprisonment on conviction and the first 2 are ‘lifestyle offences’ for the purposes of proceeds of crime. This means that the &lt;abbr title="Crown Prosecution Service"&gt;CPS&lt;/abbr&gt; can deprive the defendant of the financial benefit that he or she has obtained from criminal conduct through a confiscation order.&lt;/p&gt;
+
+&lt;p&gt;“To give an example of the kind of slavery and servitude offences that are prosecuted: in July of this year 4 members of the Connors family were found guilty of forcing destitute men into servitude. The men were kept in squalid conditions at a caravan park, made to work up to 19 hours a day, 6 days a week for nothing and slept in sheds and horseboxes. They were also verbally abused and beaten and threatened to be killed if they ever tried to leave. Some were alcoholics, drug addicts or had previously been in trouble with the law, and were picked up off the streets, at soup kitchens or in centres for the homeless. One victim said that living at the caravan site was like being in a ‘concentration camp’. &lt;/p&gt;
+
+&lt;p&gt;“Cases of human trafficking may also be prosecuted under other legislation. For example offences such as conspiracy to traffic, assisting unlawful immigration to a member state (known as facilitation), and other serious criminal offences such as rape, kidnapping, false imprisonment and threats to kill. These offences are not necessarily lesser charges, as they may carry similar or more serious penalties than human trafficking charges. Importantly, they are used in circumstances where evidence obtained does not support charges of trafficking, or it is not in a form that is reliable and admissible in a court in England and Wales.&lt;/p&gt;
+
+&lt;p&gt;“In terms of convictions, Ministry of Justice data for England and Wales in 2011 shows that the number of defendants found guilty, on a principal offence basis, for human trafficking offences (this means that the human trafficking count was the most serious on the indictment), was 8. In 2010, it was 16.&lt;/p&gt;
+
+&lt;p&gt;“While these were the numbers of convictions for specific trafficking offences, they do not include all traffickers convicted - this is because many traffickers are convicted for alternative, but related, offences.&lt;/p&gt;
+
+&lt;p&gt;“Data from the Crown Prosecution Service’s systems, although less robust, gives an indication of the number of defendants convicted where there was an original charge for trafficking but where that particular charge was subsequently dropped or amended, or where the defendant pleaded guilty to or was convicted of an alternative offence. The data generated by this approach shows that the number of defendants charged was 142 in 2011-12 (in 2010-11 that figure was 103). Two-thirds of those defendants were convicted, which equates to 94 defendants.”&lt;/p&gt;
+
+&lt;h2 id="protection-and-support-for-victims-in-giving-evidence"&gt;Protection and support for victims in giving evidence&lt;/h2&gt;
+
+&lt;p&gt;“Central to increasing the numbers and success of prosecutions is the need to encourage victims to support prosecutions. We recognise that many victims and witnesses take significant risks in giving evidence against their traffickers and exploiters. They often fear the consequences of giving evidence - not only for themselves, as often traffickers threaten the lives of close family members who remain in the source country - and may therefore be reluctant to support criminal proceedings. They may worry that they may not be believed. Or they may have a distrust of the authorities because of the culture or their experiences in their home country. Victims may also be facing conflicting interests such as pending applications for asylum which might impact on their willingness to engage. &lt;/p&gt;
+
+&lt;p&gt;“For any of these reasons, they may be apprehensive or frightened about coming to court to give their evidence. Whilst we know it will be difficult for victims, the police and the &lt;abbr title="Crown Prosecution Service"&gt;CPS&lt;/abbr&gt; work with a range of non-government agencies, and the other agencies in the criminal justice system, to provide victims with appropriate protection and support. &lt;/p&gt;
+
+&lt;p&gt;“This support will improve their safety and help them to give evidence. We know that non-government organisations will often have greater experience of victims and their differing needs, and we recognise the important role they play. As I referred to earlier, there is in the UK a single framework, called the National Referral Mechanism, which assists greatly in identifying victims and referring them on to appropriate support.&lt;/p&gt;
+
+&lt;p&gt;“When a victim is going to give evidence at court the &lt;abbr title="Crown Prosecution Service"&gt;CPS&lt;/abbr&gt; will consider the range of ‘special measures’ available to support and protect trafficked victims and allow them to give their best evidence. For example, prosecutors can apply to have the victim’s evidence-in-chief video recorded for presentation in court or for the victim to give evidence via a video link from their home country if they wish to return there. Prosecutors can also apply for reporting restrictions to protect victim’s identity in the press.”&lt;/p&gt;
+
+&lt;h2 id="international"&gt;International&lt;/h2&gt;
+
+&lt;p&gt;“As I said earlier, human trafficking has a truly international dimension. It is a global problem and investigations for human trafficking usually extend to other jurisdictions, requiring evidence for prosecutions in the UK to be obtained from abroad. The principal mechanism for obtaining or exchanging information between different jurisdictions is through mutual legal assistance (MLA). &lt;/p&gt;
+
+&lt;p&gt;“MLA is requested through a letter of request, which is a legal document issued by either a judge or a crown prosecutor, requesting assistance in obtaining evidence specified in the letter for use in criminal proceedings or to support an investigation. Additionally the UK has a number of bilateral treaties with other states. &lt;/p&gt;
+
+&lt;p&gt;“In seeking the return of a suspect from another jurisdiction, the &lt;abbr title="Crown Prosecution Service"&gt;CPS&lt;/abbr&gt; can use extradition proceedings and does so to good effect. For example, in a recent prosecution the &lt;abbr title="Crown Prosecution Service"&gt;CPS&lt;/abbr&gt; in 2009 extradited an offender from Spain. This was in relation to an unspeakably horrendous case of a father and son trafficking women (some still minors) into Britain from Romania and forcing them to work as prostitutes.&lt;/p&gt;
+
+&lt;p&gt;“If the women did not comply with the demands of their clients, they were beaten and raped by the 23-year-old son. The victims were forced to work 6 or 7 days a week, with up to 8 or 10 clients a night. It was the father who was extradited and subsequently convicted of 6 trafficking charges for sexual exploitation and 1 of controlling prostitution for gain. Following a trial at Manchester Crown Court, the son was also was found guilty of a wide range of offences including rapes, assaults, sex trafficking and controlling prostitution.&lt;/p&gt;
+
+&lt;p&gt;“The successful prosecution of those men means that they no longer pose a threat to women and children.”&lt;/p&gt;
+
+&lt;h2 id="sentencing"&gt;Sentencing&lt;/h2&gt;
+
+&lt;p&gt;“Before moving on to the topic of UK law influencing other jurisdictions, I must finish by referring to the importance of sentencing. Sentencing Council guidelines have been issued to the judiciary, identify aggravating and mitigating factors which should be applied in ‘human trafficking for the purposes of sexual exploitation’ cases.&lt;/p&gt;
+
+&lt;p&gt;“When any human trafficking offence is sentenced in the Crown Court, if the prosecution, or any other interested party, considers that the sentence is unduly lenient - that is, it falls outside the appropriate range suggested by the guidelines or, where there are no guidelines, by previous cases - then they can ask the Attorney General to review the sentence.&lt;/p&gt;
+
+&lt;p&gt;“If the Attorney General or I think the sentence is unduly lenient, we may ask the Court of Appeal for permission to refer the case to it. The Court of Appeal decides whether or not the sentence is unduly lenient and, if it is, whether to increase the sentence.&lt;/p&gt;
+
+&lt;p&gt;“By way of an example, the case I mentioned a moment ago was one that was referred by my office in 2011. The sentences that were handed down of 21 years imprisonment for the son and 6 years for the father were assessed as unduly lenient by my predecessor. Lord Justice Hughes, who reviewed the sentences with Mr Justice Treacy and Mr Justice Blake, said the case was a ‘depressing narrative of depravity, callous exploitation and brutality’ and increased both sentences. The father’s was increased to 9 years. The son was assessed as a significant risk of serious harm to the public, making him eligible for an indeterminate public protection sentence from which he will only be freed when - and if - he is considered safe.”&lt;/p&gt;
+
+&lt;h2 id="role-of-uk-in-influencing-law-in-other-jurisdictions"&gt;Role of UK in influencing law in other jurisdictions&lt;/h2&gt;
+
+&lt;p&gt;As human trafficking is a global criminal enterprise we liaise with our partners abroad for the purposes of bringing a prosecution in this country, and the &lt;abbr title="Crown Prosecution Service"&gt;CPS&lt;/abbr&gt; shares their experience with our partners overseas to enable them to strengthen their criminal justice systems and rule of law. This helps traffickers to be stopped and prosecuted before they come to the UK.&lt;/p&gt;
+
+&lt;p&gt;“This work is essential. Many of the source and transit countries for trafficking are targeted by organised criminals due to the perceived weakness of the rule of law in those countries. The &lt;abbr title="Crown Prosecution Service"&gt;CPS&lt;/abbr&gt; has a positive programme of seeking to work in many of these countries to assist them in strengthening their criminal justice systems. This includes:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;advising law makers on changes in legislation and policies&lt;/li&gt;
+  &lt;li&gt;working with practitioners to train them&lt;/li&gt;
+  &lt;li&gt;identifying and assisting in removing key strategic blockages to successful prosecutions within the court system&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;“Despite the positive steps that have been taken, both at home and overseas, I recognise that there is much to do in combating human trafficking and slavery.”&lt;/p&gt;
+
+&lt;h2 id="conclusion"&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;“To conclude, I would like to reiterate the point I have made before: human trafficking is a global issue. The UK takes the issue seriously and uses the international framework to properly create and apply domestic legislation.
+We cannot operate in a vacuum, either domestically (which is why we have the &lt;abbr title="Inter Departmental Ministerial Group"&gt;IDMG&lt;/abbr&gt;) nor internationally (which is why the &lt;abbr title="Crown Prosecution Service"&gt;CPS&lt;/abbr&gt; works hard to support other jurisdictions).”&lt;/p&gt;
+
+&lt;p&gt;“There are areas which require further attention and which we are addressing through the UK strategy.&lt;/p&gt;
+
+&lt;p&gt;“Firstly - prevention. Demand for cheap labour, cheap goods and services, and demand for prostitution or sexual services continues to provide a thriving environment for organised criminals to operate in. Tackling demand is therefore vital in the fight against human trafficking and is one of the most challenging areas for the UK to address. &lt;/p&gt;
+
+&lt;p&gt;“As I have said, prosecutors work with source countries to improve the ability of overseas investigators and prosecutors in case building and prosecution to disrupt human trafficking at source. In 2010 an offence which criminalises those who pay for the sexual services of a prostitute subjected to force was introduced to try and curb demand. In relation to labour exploitation, we work closely with the Gangmasters Licensing Authority and large national hotel groups combat forced labour, trafficking and exploitation in the UK hospitality industry.&lt;/p&gt;
+
+&lt;p&gt;“Secondly - ensuring that victims are identified as early as possible. This is especially hard where the issues faced by victims in reporting offences are as complex as those that I described earlier. Under-reporting impacts on our ability to identify the true scale of trafficking in the UK and stops us from being able to help all those who have been trafficked to the UK. It is therefore critical that every relevant agency is able to contribute to the identification, protection and support of potential trafficking victims. &lt;/p&gt;
+
+&lt;p&gt;“This is why we have made training and guidance available for front line staff across the widest range of agencies.&lt;/p&gt;
+
+&lt;p&gt;“It is crucial that our continuing aim is to ensure there are no safe havens for traffickers and that their victims are fully and properly protected. The government is committed to seeing that this is achieved.”&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:AnnouncementPresenter/6875</id>
+    <published>2012-09-12T00:00:00+01:00</published>
+    <updated>2012-09-12T00:00:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/hillsborough-independent-panel-report-statement-from-attorney-general"/>
+    <title>Hillsborough Independent Panel Report: statement from Attorney General </title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Speaking about the report published today by the Hillsborough Independent Panel, Attorney General Dominic Grieve said:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;I have not yet had an opportunity to study the Panel’s report, but it is clear that they have documented significant issues over the original inquest. I will now consider whether there is sufficient evidence to support an application to the High Court to quash the original inquest and start a new inquest process.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The meticulous and thorough work of the Panel means that not only is there now a great deal more material than was available before, but also that it has been organised in a way which makes my task easier, for which I am very grateful.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;If I decide to make an application to the Court - and I cannot reach any conclusion until I have seen all the material I need to - my responsibility will be to put together an application that ensures the Court has before it all it needs to give the matter full and proper consideration. It may also be necessary for me to consider further representations from individuals.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;I know that the wait for truth and justice has been long and unspeakably painful for a great many people. I will do my best to come to a decision as quickly as possible but the process will inevitably take some time.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Background information:&lt;/p&gt;
+
+&lt;p&gt;Section 13 of the Coroners Act 1988 provides that once an inquest has been held, a fresh inquest can only be held if the High Court quashes the original inquest and orders a fresh one. The High Court will only consider an application either made by the Attorney General or by another with the consent of the Attorney General. In broad terms, the High Court will order a new inquest if it considers the interests of justice require it. The Attorney General has no power to order a new inquest&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:AnnouncementPresenter/8445</id>
+    <published>2012-09-12T00:00:00+01:00</published>
+    <updated>2012-09-12T00:00:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/attorney-general-pledges-swift-consideration-of-hillsborough-independent-panel-report"/>
+    <title>Attorney General pledges swift consideration of Hillsborough Independent Panel Report</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Speaking about the report published today by the Hillsborough Independent Panel, the Attorney General Dominic Grieve said&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;I have not yet had an opportunity to study the Panel’s report, but it is clear that they have documented significant issues over the original inquest. I will now consider whether there is sufficient evidence to support an application to the High Court to quash the original inquest and start a new inquest process.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The meticulous and thorough work of the Panel means that not only is there now a great deal more material than was available before, but also that it has been organised in a way which makes my task easier, for which I am very grateful.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;If I decide to make an application to the Court - and I cannot reach any conclusion until I have seen all the material I need to - my responsibility will be to put together an application that ensures the Court has before it all it needs to give the matter full and proper consideration. It may also be necessary for me to consider further representations from individuals.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;I know that the wait for truth and justice has been long and unspeakably painful for a great many people. I will do my best to come to a decision as quickly as possible but the process will inevitably take some time.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Section 13 of the Coroners Act 1988 provides that once an inquest has been held, a fresh inquest can only be held if the High Court quashes the original inquest and orders a fresh one. The High Court will only consider an application either made by the Attorney General or by another with the consent of the Attorney General. In broad terms, the High Court will order a new inquest if it considers the interests of justice require it. The Attorney General has no power to order a new inquest&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:AnnouncementPresenter/8444</id>
+    <published>2012-09-04T00:00:00+01:00</published>
+    <updated>2012-09-04T00:00:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/oliver-heald-mp-appointed-solicitor-general-for-england-and-wales"/>
+    <title>Oliver Heald MP appointed Solicitor General for England and Wales </title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Prime Minister, the Rt Hon David Cameron MP, has appointed Mr Oliver Heald, MP for North East Hertfordshire, to be Solicitor General. Mr Heald takes up his post with immediate effect.&lt;/p&gt;
+
+&lt;p&gt;The Solicitor General supports the Attorney General across the range of his responsibilities and can lawfully exercise any of his functions. &lt;/p&gt;
+
+&lt;p&gt;The Attorney General, Dominic Grieve QC MP said:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;I welcome Oliver Heald to my Department. Oliver is an experienced, hardworking and respected colleague with a wealth of experience and I look forward to working with him on the challenges ahead.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;I also wish to pay tribute to the outgoing Solicitor General, Edward Garnier QC MP, whose stalwart support and wise counsel have been invaluable to me over the past 2 years. In particular Edward has worked tirelessly and very effectively to improve the tools available to prosecutors in fraud and corruption cases through his work on proposed statutory deferred prosecution agreements.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Oliver Heald MP said:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;I am happy and honoured to be appointed to this ancient office with its responsibility to advise and to uphold the rule of law. I believe this is a wonderful opportunity for me to work with the Attorney General and ministerial colleagues to achieve a fairer society and a more effective and efficient justice system.&lt;/p&gt;
+&lt;/blockquote&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:AnnouncementPresenter/7188</id>
+    <published>2012-07-31T00:00:00+01:00</published>
+    <updated>2012-07-31T00:00:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/attorney-general-vetoes-release-of-cabinet-meeting-minutes-discussing-iraq-war--3"/>
+    <title>Attorney General vetoes release of Cabinet meeting minutes discussing Iraq war</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Attorney General, Dominic Grieve QC MP, today issued a certificate under the Freedom of Information Act, vetoing the disclosure ordered by the Information Commissioner of extracts of Cabinet meeting minutes from 2003 at which military action against Iraq was discussed. The disclosure of these extracts of the minutes was previously vetoed in 2009 by the then Justice Secretary, Jack Straw.&lt;/p&gt;
+
+&lt;p&gt;The Attorney General is the only minister to have access to papers of the previous administration and so the decision on whether to exercise the veto fell to him. He made the decision after having carefully considered all the relevant arguments and having sought the views of his Cabinet colleagues, as well as the Information Commissioner, the Leader of the Opposition and relevant former ministers.&lt;/p&gt;
+
+&lt;p&gt;The certificate and the Attorney General’s Statement of Reasons for issuing it are published by the &lt;a rel="external" href="http://www.cabinetoffice.gov.uk" title="Cabinet Office"&gt;Cabinet Office&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;In accordance with section 53 of the Freedom of Information Act 2000, the Attorney General has also laid a copy of the section 53 certificate before each House of Parliament, together with a statement of reasons. A Written Ministerial Statement will be presented by the Attorney General once Parliament returns from summer recess.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:AnnouncementPresenter/8442</id>
+    <published>2012-07-31T00:00:00+01:00</published>
+    <updated>2012-07-31T00:00:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/attorney-general-vetoes-release-of-cabinet-meeting-minutes-discussing-iraq-war--4"/>
+    <title>Attorney General vetoes release of Cabinet meeting minutes discussing Iraq war</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Attorney General, Dominic Grieve QC MP, today issued a certificate under the Freedom of Information Act, vetoing the disclosure, ordered by the Information Commissioner, of extracts of Cabinet meeting minutes from 2003 at which military action against Iraq was discussed. The disclosure of these extracts of the minutes was previously vetoed in 2009 by the then Justice Secretary, Jack Straw.&lt;/p&gt;
+
+&lt;p&gt;The Attorney General is the only minister to have access to papers of the previous administration and so the decision on whether to exercise the veto fell to him. He made the decision after having carefully considered all the relevant arguments and having sought the views of his Cabinet colleagues, as well as the Information Commissioner, the Leader of the Opposition and relevant former ministers.&lt;/p&gt;
+
+&lt;p&gt;The certificate and the Attorney General’s Statement of Reasons for issuing it are published by the &lt;a rel="external" href="http://www.cabinetoffice.gov.uk"&gt;Cabinet Office&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;In accordance with section 53 of the Freedom of Information Act 2000, the Attorney General has also laid a copy of the section 53 certificate before each House of Parliament, together with a statement of reasons. A Written Ministerial Statement will be presented by the Attorney General once Parliament returns from summer recess.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:AnnouncementPresenter/8443</id>
+    <published>2012-07-18T00:00:00+01:00</published>
+    <updated>2012-07-18T00:00:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/two-newspapers-fined-for-contempt-of-court-over-levi-bellfield-trial"/>
+    <title>Two newspapers fined for contempt of court over Levi Bellfield trial</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Mirror Group Newspapers Ltd and Associated Newspapers Ltd have been found guilty of contempt of court for publishing potentially prejudicial material whilst the jury was considering its verdict in relation to Rachel Cowles’ alleged abduction by Levi Bellfield.&lt;/p&gt;
+
+&lt;p&gt;After a prosecution brought by the Attorney General, Dominic Grieve QC MP, Sir John Thomas and Mr Justice Tugendhat, at the High Court have today ruled that the allegations published by the Daily Mirror and Daily Mail that Levi Bellfield had a sexual interest in young girls was highly prejudicial to the his continuing trial on a charge of the attempted abduction of Rachel Cowles. The coverage went ‘way beyond’ what the jury had been told or what had been broadcast by the television networks following the conviction of Levi Bellfield for the murder of Milly Dowler. If the jury had not been discharged there would have been a seriously arguable point that any conviction was unsafe, the judges ruled.&lt;/p&gt;
+
+&lt;p&gt;The articles concerned Levi Bellfield and were published in the Daily Mirror and the Daily Mail on the 24 June 2011 after the jury had returned a guilty verdict in relation to Milly Dowler’s kidnap and murder but before it had reached a verdict in relation to the attempted kidnap of Rachel Cowles. Even though the jury was already aware of Levi Bellfield’s previous convictions for murder and there had already been earlier adverse publicity, this prosecution illustrates that the strict liability test under the Contempt of Court Act 1981 applies to coverage which nevertheless creates an additional risk of prejudice or exacerbates an existing risk of prejudice.&lt;/p&gt;
+
+&lt;p&gt;The Attorney General said: &lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;This case shows why the media must comply with the Contempt of Court Act. It is unfortunate that the deluge of media coverage following the Milly Dowler verdict, not only by these papers but also other media outlets, led to the judge discharging the jury before they had completed their deliberations on a charge of attempted kidnap, ultimately depriving Rachel Cowles of a verdict in her case.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;This prosecution is a reminder to the press that whilst the jury is still to reach a verdict on all counts of the indictment the Contempt of Court Act applies.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The essential points of the Attorney General’s case, framed within the definitions of the Contempt of Court Act 1981 were that:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;although some bad character evidence relating to Levi Bellfield had been adduced at the trial, it had been accompanied by careful directions from the judge to the jury about how they should treat that information&lt;/li&gt;
+  &lt;li&gt;the articles published by the Daily Mail and Daily Mirror contained bad character evidence which had been excluded from the trial or had not been sought by the prosecution to be adduced at all (in particular, allegations relating to his sexual interest in and rape of girls) - there was a clear risk that the effect of the publicity on the jury could not be cured by directions&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;The test of a substantial risk of serious prejudice had therefore been met.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:AnnouncementPresenter/8441</id>
+    <published>2012-07-05T00:00:00+01:00</published>
+    <updated>2012-07-05T00:00:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/unduly-lenient-sentence-cases-referred-to-the-court-of-appeal-latest-figures"/>
+    <title>Unduly lenient sentence cases referred to the Court of Appeal – latest figures</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Attorney General’s Office has released statistics for 2011 sentences which were considered too low - or unduly lenient - and referred to the Court of Appeal, which can quash a sentence and impose a higher one.&lt;/p&gt;
+
+&lt;p&gt;Last year, 117 sentences, from 78 cases, were referred to the Court of Appeal by the Law Officers. The Court considered 97 of them were unduly lenient (83%) and 94 sentences were increased (80% of the 117 referred).&lt;/p&gt;
+
+&lt;p&gt;Cases are usually referred to the Attorney General by the Crown Prosecution Service, but it is open also to victims, their families, members of the public and MPs to ask for review. In 2011 the sentences passed on 377 offenders were drawn to the attention of the Attorney General and Solicitor General (the Law Officers), compared to 342 in 2010 and 369 in 2009. &lt;/p&gt;
+
+&lt;p&gt;The Attorney General, the Rt Hon Dominic Grieve QC MP said:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The unduly lenient sentence scheme allows anyone to refer a sentence to me for consideration. In the vast majority of cases judges impose sentences which are appropriate to meet the justice of the case, but the scheme provides an important safeguard in those few cases in which the sentence falls significantly outside the proper range.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The Solicitor General, Edward Garnier QC MP: &lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Sentencing is not a precise science. It requires judgments to be made about a whole host of different factors, including any aggravating and mitigating features, and how any relevant guidelines should be applied.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;These statistics are only part of the story. Where there have been mistakes, in relation to the acceptance of pleas by the prosecution, these errors are followed up with the lawyers concerned to ensure they are not repeated.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Of the 377 sentences drawn to the attention of the AGO as being possibly unduly lenient in 2011, 299 fell within the scheme and were considered. &lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:AnnouncementPresenter/12376</id>
+    <published>2012-06-30T00:00:00+01:00</published>
+    <updated>2012-06-30T00:00:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/speeches/advocacy-past-present-and-future-constant-values-for-a-modern-bar"/>
+    <title>Advocacy, past, present and future - constant values for a modern Bar</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;“It is fitting that the World Bar Conference should have as its theme this year - advocacy, past present and future - constant values for a modern Bar. I say that because although the members of the International Council of Advocates and Barristers cover a range of jurisdictions which place differing responsibilities on its lawyers, there is one thing that is common to all - the importance of advocacy skills.&lt;/p&gt;
+
+&lt;p&gt;“Advocacy, of course, is not simply the ability to stand up in front of a court and speak fluently. Nor is it confined to oral advocacy. A well-constructed written skeleton argument may win the case without an advocate having to open their mouth. &lt;/p&gt;
+
+&lt;p&gt;“Nor is advocacy restricted to criminal work - although the examples of great advocacy that are often quoted concentrate on that used to spare a defendant conviction or punishment.&lt;/p&gt;
+
+&lt;p&gt;“Having been asked to speak tonight I started to think about what advocacy is - what is this quality that defines the role of barrister advocate; what is it that a barrister is hired to do? &lt;/p&gt;
+
+&lt;p&gt;“In my view, at its most basic, the role of the advocate is to put the case of the claimant or respondent (or prosecutor or defendant as the case may be) as persuasively as it can be. Underpinning that is the ability to assess all the available evidence, understand the issues involved and to know and be able to apply the applicable law. Those are the skills necessary to prepare the foundations of good advocacy. But advocacy itself is the ability to persuade. To place the court in a position where it too understands the issues and is persuaded that the advocate’s propositions are correct.&lt;/p&gt;
+
+&lt;p&gt;“But you are all advocates and all understand the nuances of what advocacy entails so let me explore the Conference’s theme of advocacy as a constant value for a modern Bar. You will all, I am sure, know that the patron saint of lawyers is St Ivo. Ivo was a Breton born in 1252 who took holy orders and was eventually canonised in 1347. His first case in which he defended a poor widow brought him fame and thereafter he only represented the poor, widows and orphans. During his life he was known as Advocatus pauperum and after death it was said of him: Advocatus sed non latro, res Miranda populo - ‘a lawyer yet not a rascal, a thing that made the people wonder’. &lt;/p&gt;
+
+&lt;p&gt;“An honest lawyer? Over the years lawyers have not always received good press. With the exception of St Ivo, their reputation has not been for honesty or integrity. There is a much quoted line in Shakespeare’s Henry VI “The first thing we do, let’s kill all the lawyers” - a suggestion that through history others would support. Even honest lawyers are not always valued as they may bring with them expense and advice that is frequently unwelcome. As the government’s Chief Legal Adviser I can’t honestly say that all my ministerial colleagues always react enthusiastically to my advice.&lt;/p&gt;
+
+&lt;p&gt;“As lawyers we would say that honesty and integrity are the cornerstones of our profession and the very highest standards of both are expected of every advocate. But I did wonder whether some of the bad press we get is in fact down to the use of advocacy? Is advocacy always strictly honest? Of course one doesn’t lie and one doesn’t misrepresent. Both would very quickly result in disciplinary proceedings. But there are shades of grey where propriety is less clear&lt;/p&gt;
+
+&lt;p&gt;“The famous Roman philosopher and lawyer Cicero, once told someone he had successfully represented at trial:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Let me tell you it was I who produced the necessary darkness in court to prevent your guilt from being visible to everyone.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;“Is this what the good advocate does and is this sort of conduct acceptable today? It is not necessarily incompatible with the honesty and integrity of the Bar. It may be wrong to deliberately seek to confuse a jury but is it wrong to try to make a jury think that the facts are less clear than the prosecution claim? Is it wrong to try to make a jury concentrate on parts of the case that the Crown do not consider of relevance or importance but which shown the defendant in a good light. I suppose in judging Cicero by today’s standards one would need to know what he did to create the “necessary darkness”.&lt;/p&gt;
+
+&lt;p&gt;“One of the most famous English advocates of the Victorian and Edwardian era, Sir Edward Marshall Hall KC, in 1894 defended the Austrian-born prostitute Marie Hermann, charged with the murder of a client. Marshall Hall persuaded the jury that it was a case of manslaughter. Although he made full use of his forensic skills, the case is best remembered for his emotional plea to the jury: ‘Look at her, gentlemen… God never gave her a chance - won’t you?’&lt;/p&gt;
+
+&lt;p&gt;“Clearly effective but was it relevant to the issue of guilt? Was it honest?&lt;/p&gt;
+
+&lt;p&gt;“If the facts are clearly laid out before the Tribunal, what is the point of advocacy if it is not to attempt to colour the Tribunal’s assessment of the evidence? In a civil case, following pleadings and skeleton arguments, there is perhaps less scope for oral advocacy and a tribunal consisting of a single judge is less susceptible. &lt;/p&gt;
+
+&lt;p&gt;“We have all, I suspect, in our time, been hurried along by a judge who has read the papers and is anxious to avoid flights of oratory. But in a criminal trial the opportunities are far greater. Take a plea in mitigation. The relevant facts, such as they are, will be laid before the court by the prosecution. The defence advocate may have additional material before the court but the art of advocacy is to persuade the court that even accepting the prosecution’s outline the client deserves leniency. &lt;/p&gt;
+
+&lt;p&gt;“One of my responsibilities as Attorney General is to consider referring unduly lenient sentences to the Court of Appeal for reconsideration. As part of that process, I often get to read the transcript of the plea in mitigation. Some are routine, many are good, and a few show advocacy skills of the very highest order. All have resulted in a sentence that at least someone has considered unduly lenient and drawn to my attention. &lt;/p&gt;
+
+&lt;p&gt;“In those cases has the sentencing judge been swayed by the advocacy of the defence counsel and, if so, has that advocacy served the interests of justice or the selfish interests of the defendant who has been given a sentence more lenient than he deserves? How have the rights of the victim been served by defence counsel’s advocacy?&lt;/p&gt;
+
+&lt;p&gt;“Is advocacy no more than an attempt to deceive - to persuade the tribunal to follow a course the facts themselves do not suggest - and the more powerful the advocacy the greater the likely deception?&lt;/p&gt;
+
+&lt;p&gt;“No, on reflection I think not. Saint Ivo, when approached by someone, who wanted his assistance, insisted that they first took an oath that their cause was in conscience a just one. Then Ivo would say: Pro Deo te adjuvabo - ‘for the sake of God I will help you’. &lt;/p&gt;
+
+&lt;p&gt;“Fortunately perhaps, we need no longer apply the same very high standard as St Ivo as if we did many would go unrepresented. But we still take on cases because we believe the cause to be a good one. Even the most evil in society need to have someone put their case to help ensure that they are punished for their actions rather than their reputation and treated fairly by the justice system. Advocacy is really all about ensuring fairness - ensuring that the person who comes to justice, whatever he has done, however unlikely his case, however distasteful his behaviour is treated fairly and receives justice.&lt;/p&gt;
+
+&lt;p&gt;“The poor widow assisted by St Ivo would not have received fair treatment without the Saint’s advocacy. Marie Hermann, represented by Marshall Hall, may not have received justice if the jury of middle-class men could not be made put aside Victorian prejudice and see beyond the fact that she was a prostitute.&lt;/p&gt;
+
+&lt;p&gt;“Advocacy is perhaps the best of the talents lawyers bring to the service of justice, as at its greatest it forces the listener to open their mind to new arguments, to abandon prejudices that may be held and reassess conclusions reached to hastily. Advocacy is the tool by which the law is leavened with equity. Its purpose is to persuade yes, but not to deceive. It is an attempt not to pull wool over the eyes but to open them. It is to persuade the court that the deeply unattractive hooligan awaiting sentence does have some mitigating quality, however deeply it is hidden. It is the advocacy of the prosecutor that can persuade a jury to see beyond the fame of a celebrity being tried for a serious offence and treat him as they would any other person. It is advocacy that persuaded the court that despite the fact that his client has a history of lying and deceit that on this occasion he is telling the truth. &lt;/p&gt;
+
+&lt;p&gt;“This is the invaluable and essential quality advocacy brings to the service of justice: it strives to bring fairness. And that is the fundamental aim of the justice system and of every advocate.&lt;/p&gt;
+
+&lt;p&gt;“So the conference theme - advocacy, past present and future - constant values for a modern Bar - is one both good and true. Advocacy is central to our role as it helps achieve justice and to strive for justice is the role and responsibility of the advocate as much now as it was in the time of St Ivo. As the years pass styles of advocacy have no doubt changed. As the years pass practice has also changed, we rely far more now, in the civil courts at least, on advocacy in the written form of pleadings and skeleton arguments. But the core principle of advocacy has never changed - to assist in getting to the truth by persuading a tribunal to assess the facts fairly, without fear or favour or prejudice. And that is more than a constant value for the Bar - it is its raison d’etre. &lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:AnnouncementPresenter/8440</id>
+    <published>2012-05-17T00:00:00+01:00</published>
+    <updated>2012-05-17T00:00:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/new-tool-to-tackle-economic-crime"/>
+    <title>New tool to tackle economic crime </title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Plans for a new tool to tackle economic crime have been published for consultation by Solicitor General Edward Garnier QC and Justice Minister Crispin Blunt.&lt;/p&gt;
+
+&lt;p&gt;Under Deferred Prosecution Agreements (&lt;abbr title="Deferred Prosecution Agreements"&gt;DPA&lt;/abbr&gt;), companies would agree to publically admit wrongdoing, and meet tough conditions such as payment of substantial penalties, undertaking internal reform and submitting to regular review and monitoring. &lt;/p&gt;
+
+&lt;p&gt;The whole process would be overseen by a judge and the threat of full prosecution would remain hanging over a company should they fail to comply with the agreement. &lt;/p&gt;
+
+&lt;p&gt;Solicitor General Edward Garnier QC said:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;If we can encourage companies to self-report and come clean, pay penalties and mend their ways, the time and expense of investigations and prosecutions will be better spent elsewhere, enabling us to bring more individuals and companies to justice.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;An important aim of any &lt;abbr title="Deferred Prosecution Agreements"&gt;DPA&lt;/abbr&gt; system would be to allow investigators and prosecutors to focus resources on those cases where a prosecution is in the public interest - and there will always be some where it is the only option.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Justice Minister Crispin Blunt said: &lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Law enforcement agencies have told us that they do not have the tools they need to tackle increasingly complex economic crimes. Investigations can take several years and cost millions of pounds, with no guarantee of success, which means victims wait far too long for reparation. Or indeed receive no payback at all.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;More clearly needs to be done. Deferred Prosecution Agreements will give prosecutors extra tools to tackle this type of crime and bring about a just outcome - which punishes the wrongdoer, ensures the surrendering of any proceeds and makes amends to victims.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Economic crime is increasingly complex, making it difficult to tackle effectively. As the complexity and size of commercial organisations grow, so too do the difficulties of identifying criminal activity and of bringing any organisation which commits such crime to justice. This is especially so in the case of organisations that operate, and so may have committed wrongdoing, in more than one country to which more than one set of laws can be applied.&lt;/p&gt;
+
+&lt;p&gt;DPAs would be available for prosecutors to use alongside existing methods, to give them the flexibility to secure appropriate penalties for wrongdoing, at the same time as achieving better outcomes for victims.&lt;/p&gt;
+
+&lt;p&gt;A &lt;abbr title="Deferred Prosecution Agreements"&gt;DPA&lt;/abbr&gt; is an agreement between a prosecutor and a commercial organisation that in return for complying with a range of conditions the prosecutor would defer a criminal prosecution.&lt;/p&gt;
+
+&lt;p&gt;An independent judge would oversee the development of the agreement to ensure it is fair, in the public interest and that the conditions properly reflect the nature of the wrongdoing. This will include the reparation made to victims.&lt;/p&gt;
+
+&lt;p&gt;If, at the end of the deferral period, the prosecutor is satisfied the organisation has fulfilled its obligations, there is no prosecution on the charges laid. If, on the other hand, the commercial organisation fails to meet its obligations, further penalties are available and the original criminal proceedings could be revived.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:AnnouncementPresenter/8437</id>
+    <published>2012-04-25T00:00:00+01:00</published>
+    <updated>2012-04-25T00:00:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/london-rioter-has-sentence-increased-after-reference-by-the-attorney-general"/>
+    <title>London rioter has sentence increased after reference by the Attorney General</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Court of Appeal has increased the sentence of Adam Khan Ahmadzai, who, in the summer of last year, led a gang of looters along a street in Croydon during the London riots.&lt;/p&gt;
+
+&lt;p&gt;He pleaded guilty in January this year to crimes of violent disorder, robbery, burglary and criminal damage and was sentenced to 4 years’ detention.&lt;/p&gt;
+
+&lt;p&gt;This was today raised to 7 years, following a referral by the Attorney General, Dominic Grieve QC MP.&lt;/p&gt;
+
+&lt;p&gt;Mr Grieve, who presented the case to the court said:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Adam Khan Ahmadzai was at the very heart of the looting and rioting in Croydon last August. Consider the extraordinary list of crimes that he committed: he led an attack on a police line; robbed a bus driver who had been forced to halt; armed himself and ransacked a shop, forcing the petrified owners to flee, only to rob them moments later in a hijack of their van; repeatedly attacked and mugged a terrified man at a cash machine, acting as if pushing a gun into his neck; led a gang into a supermarket, looting and vandalising; and finally, directed his group into a betting shop, destroying a fruit machine and looting the office behind the counter.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;For this catalogue of mayhem and destruction he received a 4-year sentence. I’m very pleased that the Court of Appeal has today quashed that sentence and replaced it with one of 7 years.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;CPS London Chief Crown Prosecutor Alison Saunders said:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;We referred this case to the Attorney General as one that had attracted a sentence which was unduly lenient. I welcome the strong message that the Court of Appeal has now sent out as a result of this ruling.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Adam Khan Ahmadzai was a ringleader during the riots in Croydon and his conviction for 10 offences committed that night shows the extent of his criminality.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;His offences were amongst the most serious which CPS London has prosecuted in relation to the summer riots and this increased sentence reflects that.&lt;/p&gt;
+&lt;/blockquote&gt;&lt;/div&gt;</content>
+  </entry>
+</feed>

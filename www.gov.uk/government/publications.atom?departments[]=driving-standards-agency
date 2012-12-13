@@ -84,7 +84,7 @@
 &lt;/table&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/16253</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/55663</id>
     <published>2012-11-15T00:00:00+00:00</published>
     <updated>2012-11-15T00:00:00+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/driver-certificate-of-professional-competence-cpc-statistics"/>
@@ -577,6 +577,30 @@ Provisional licences were brought in for heavy goods vehicle (&lt;abbr title="He
 &lt;/ul&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/13061</id>
+    <published>2012-10-19T00:00:00+01:00</published>
+    <updated>2012-10-19T00:00:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/cheating-cases-for-theory-and-practical-driving-tests"/>
+    <title>'Cheating' cases for theory and practical driving tests</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Questions about the suspected ‘cheating’ cases for theory and practical driving tests.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/13062</id>
+    <published>2012-10-19T00:00:00+01:00</published>
+    <updated>2012-10-19T00:00:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/candidates-taking-their-driving-theory-test-more-than-10-times-in-leeds"/>
+    <title>Candidates taking their driving theory test more than 10 times in Leeds</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Information about candidates taking their driving theory test more than 10 times in Leeds.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/13063</id>
+    <published>2012-10-19T00:00:00+01:00</published>
+    <updated>2012-10-19T00:00:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/approved-driving-instructor-and-practical-driving-test-statistics"/>
+    <title>Approved driving instructor and practical driving test statistics</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Information about approved driving instructor and practical driving test statistics.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/13064</id>
     <published>2012-10-19T00:00:00+01:00</published>
     <updated>2012-10-19T00:00:00+01:00</updated>
@@ -609,14 +633,6 @@ Provisional licences were brought in for heavy goods vehicle (&lt;abbr title="He
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Information about car theory and practical driving test impersonation cases.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/15659</id>
-    <published>2012-10-19T00:00:00+01:00</published>
-    <updated>2012-10-19T00:00:00+01:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/assaults-on-and-bribes-offered-to-driving-examiners"/>
-    <title>Assaults on and bribes offered to driving examiners</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Questions about assaults on and bribes offered to driving examiners.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/15490</id>
     <published>2012-10-19T00:00:00+01:00</published>
     <updated>2012-10-19T00:00:00+01:00</updated>
@@ -631,21 +647,5 @@ Provisional licences were brought in for heavy goods vehicle (&lt;abbr title="He
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/theory-and-practical-driving-test-waiting-times-in-wales-and-the-number-of-examiners"/>
     <title>Theory and practical driving test waiting times in Wales and the number of examiners</title>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Information about theory and practical driving test waiting times in Wales and the number of examiners.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/13051</id>
-    <published>2012-10-19T00:00:00+01:00</published>
-    <updated>2012-10-19T00:00:00+01:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/youngest-approved-motorcycle-instructor"/>
-    <title>Youngest approved motorcycle instructor</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Information about the youngest approved motorcycle instructor.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/13052</id>
-    <published>2012-10-19T00:00:00+01:00</published>
-    <updated>2012-10-19T00:00:00+01:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/car-and-motorcycle-theory-and-practical-driving-test-statistics-for-horsforth-and-leeds"/>
-    <title>Car and motorcycle theory and practical driving test statistics for Horsforth and Leeds</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Information about car and motorcycle theory and practical driving test statistics for Horsforth and Leeds. &lt;/p&gt;&lt;/div&gt;</content>
   </entry>
 </feed>

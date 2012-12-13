@@ -1,0 +1,221 @@
+MOD CRN,Name,Address,Town,County,Area (Ha),Grid Reference,Property Type,Expected Planning Use,Expected Number of Housing Units,Constituency,Financial Year
+2001,RAF Brize Norton - RAF Bicester Airfield. ,Skimmingdish Lane,Bicester ,Oxfordshire,143.32,459805 224524,X,Mixed,0,Banbury,2012
+2002,Sussex Volunteer Estate - St Leonards Cadet Centre (St Leonards TAC) (Part),Cinque Ports Way,St Leonards-on-Sea,East Sussex,0.04,578478 108703,B,Retail,0,HASTINGS,2013
+2004,AUE Sites - AUE Sites,Various,Aldershot,Hampshire,11,Various,X,Mixed,235,Aldershot,2013
+2005,Bordon (Phase 1),Bordon Garrison,Bordon,Hampshire,0,479160 135700,B,Mixed,3000,East Hampshire,2017
+2267,Bordon (Phase 2),Bordon Garrison,Bordon,Hampshire,0,479160 135700,B,Mixed,0,East Hampshire,2021
+2268,Bordon (Phase 3),Bordon Garrison,Bordon,Hampshire,0,479160 135700,B,Mixed,0,East Hampshire,2025
+2006,Defence School of Languages - DSL Beaconsfield (DTR Wilton Park),Wilton Park,Beaconsfield,Buckinghamshire,34.89,495953 190340,X,Housing,330,SOUTH BUCKS,2013
+2007,Princess Royal Barracks - Princess Royal Barracks Disposal (DTR Deepcut Barracks),Princess Royal Bks,Deepcut,Surrey,112,490662 157699,B,Housing,1200,Surrey Heath,2015
+2008,Arborfield (Phase 1),Shearlands Rd,Arborfield,Berkshire,25,477240 165987,X,Mixed,3500,Wokingham,2016
+2010,Arborfield (Phase 2),Reading Road,Arborfield,Berkshire,25,477224 163771 & 477115 163863,X,Mixed,0,Wokingham,2019
+2012,Lodge Hill - Training Area,"Lodge Hill Training Area, Chattenden",Rochester,Kent,19.01,576414 173915,X,Mixed,267,Rochester & Strood,2017
+2014,Lower Upnor Depot - RSME Chatham - Lower Upnor Depot,Lower Upnor,Rochester,Kent,3.89,575713 170795,B,Mixed,0,Rochester & Strood,2012
+2015,Brompton Barracks - RSME Chatham Sportsground (Part - Amherst Hill),Amherst Hill,Chatham,Kent,2.67,576035 168460,L,Housing,34,Rochester & Strood,2012
+2016,Kitchener Barracks - Kitchener Barracks (Dock Road),"Kitchener Barracks, Dock Road",Chatham,Kent,4.76,575897 168546,X,Housing,100,Rochester & Strood,2015
+2017,West Malling Camp - RSME Chatham (West Malling Camp),Teston Road,West Malling,Kent,6.09,568746 155014,X,Housing,30,Tonbridge & Malling,2012
+2019,Sussex Volunteer Estate - Hall on Broad Street (ACF Seaford Drill Hall),17a Broad Street,Seaford,East Sussex,0.08,548278 99207,B,Mixed,4,Lewes,2012
+2020,Sussex Volunteer Estate - Littlehampton ACF,47 Pier Road,Littlehampton,West Sussex,0.3,502700 101700,B,Mixed,3,Arun DC,2014
+2021,Sir John Moore Barracks - Cemetery and Buffer Area (Redoubt) - Sale to Sarah Williams,Shorncliffe Garrison Shorncliffe,Shorncliffe,Kent,38.98,619103 135583,L,Leisure/Recreation,0,Folkestone & Hythe,2012
+2023,"Denison Lines - School of Military Survey & NAAFI & Community Centres  (Denison Barracks, Hermitage)",Hermitage,Hermitage,Berkshire,0,449724 173055 & 449795 172458,X,Housing,500,WEST BERKSHIRE,2017
+2024,DMC Gosport - Frater House & Sportsground ,Fareham Road,Gosport,Hampshire,4.74,459430 102214,X,Mixed,0,Gosport,2013
+2025,Winchester SFA - Sparkford Road,Sparkford Road,Winchester,Hampshire,1.24,447452 129063,L,Housing,18,Winchester,2012
+2026,Gosport & Fareham SFA - Play Area at Titchfield Park,Northway/Southway,Titchfield,Hampshire,0.64,453444 107144,L,Housing,14,Fareham,2012
+2028,Mount Wise - Coleridge Training Area Residential,Star Lane,Plymouth,Devon,4.99,249339 058835,L,Housing,100,CITY OF PLYMOUTH,2013
+2029,Salisbury SFA - Misc Land at Bulbridge,Bulbridge,Wilton,Wiltshire,2.73,408829 130222,L,Housing,60,Salisbury,2012
+2030,DMC Dean Hill - DMC Dean Hill (Land Sale to Gibbs Successors),Dean Hill,West Dean,Hampshire,2.15,426100 126500,L,Leisure/Recreation,0,TEST VALLEY,2015
+2032,RAF Chilmark - Ladydown Moses wood, Chilmark,Salisbury,Wiltshire,7.54,397265 131005,L,Other,0,Salisbury,2012
+2033,RAF Chilmark - Ladydown, Chilmark,Salisbury,Wiltshire,19.22,397265 131005,L,Other,2,Salisbury,2012
+2034,Warminster Road - Pay & Personnel Agency,Warminster Road,Bath,Avon,6.89,376209 165724,B,Housing,100,Bath,2012
+2035,Bulford Garrison Misc (part) - Ward Green (Garages),Sling Road,Bulford,Wiltshire,0.01,418919 144536,X,Other,0,Salisbury,2012
+2036,Erskine Barracks - Wilton - HQ Land,The Avenue,Wilton,Wiltshire,16.91,433632 131770,X,Mixed,450,Salisbury,2012
+2037,Foxhill - Foxhill (Bath),Bradford Road,Bath,Avon,19.16,375526 162763,B,Housing,700,Bath,2012
+2038,Tidworth Garrison Misc - Zouch Market,Tidworth Garrison,Tidworth,Wiltshire,1.94,423279 149022,X,Retail,5,Kennet,2012
+2039,RAF Rudloe Manor - Number 2 Site (RAF Rudloe Manor),Westwells Rd,Corsham,Wiltshire,12.23,384382 168952,X,Mixed,100,North Wiltshire,2013
+2040,Salisbury Plain training Area  - Fifield & Fittleton (part) 875 Fifield,75 Fifield,"Enford, Pewsey",Wiltshire,0.06,414570 150304,B,Housing,0,Devizes,2012
+2041,Salisbury Plain training Area  - Fifield & Fittleton (part) 877 Fifield,77 Fifield,"Enford, Pewsey",Wiltshire,0.09,414588 150327,B,Housing,0,Devizes,2012
+2042,Salisbury Plain training Area  - Fifield & Fittleton (part) 354 Fittleton,354 Fittleton,Netheravon,Wiltshire,0.07,414756 149879,B,Housing,0,Devizes,2012
+2043,Salisbury Plain training Area  - Fifield & Fittleton (part) 355 Fittleton,355 Fittleton,Netheravon,Wiltshire,0.04,414761 149876,B,Housing,0,Devizes,2012
+2044,Salisbury Plain training Area  - Fifield & Fittleton (part) 356 Fittleton,356 Fittleton,Netheravon,Wiltshire,0.05,414769 149875,B,Housing,0,Devizes,2012
+2045,Salisbury Plain training Area  - Fifield & Fittleton (part) 357 Fittleton,357 Fittleton,Netheravon,Wiltshire,0.06,414776 149875,B,Housing,0,Devizes,2012
+2046,Salisbury Plain training Area  - Fifield & Fittleton (part) 898 Fifield,898 Fifield,"Enford, Pewsey",Wiltshire,0.05,414568 150361,B,Housing,0,Devizes,2012
+2047,Salisbury Plain training Area  - Fifield & Fittleton (part) 899 Fifield,899 Fifield,"Enford, Pewsey",Wiltshire,0.05,414564 150362,B,Housing,0,Devizes,2012
+2048,Minley Manor - Minley Manor,Minley Road,Minley,Hampshire,37.27,482244 158092,X,Mixed,5,Aldershot,2015
+2050,Risborough Bks - Main Site Folkestone,Shorncliffe Garrison,Shorncliffe,Kent,11.05,136291 619470,X,Mixed,1200,Folkestone & Hythe,2014
+2051,Rudloe Manor - Number 2 site (Agricultural Land - Kidston),Bradford Road,Corsham,Wiltshire,25.75,384384 906242,L,Agricultural,0,North Wiltshire,2013
+2052,Tidworth - Former NAAFI Tidworth,19 Station Rd,Tidworth,Wiltshire,0,N/A,B,Retail,0,KENNET,2012
+2053,ISS St Eval - South of Neptune Avenue and South of Lincoln Row,St Eval,St Eval,Cornwall,27.13,188522 068359,X,Mixed,100,North Cornwall,2012
+2054,Old War Office - Old War Office,Whitehall,Westminster,City of London,1.02,530182 180169,B,Office,0,Cities of London and Westminster,2015
+2057,Royal Clarence yard - Royal Clarence Yard,Weevil Lane,Gosport,Hampshire,3.38,461825 100398,X,Mixed,0,Gosport,2013
+2059,Chilcombe Range (Barton Stacey plot 1) - Land by Manor House Farm (2a Barton Stacey),High Street,Barton Stacey,Hampshire,30.72,141539 443873,L,Agricultural,0,Romsey & Southampton North,2012
+2062,DSDA Plymouth - DMC Plymouth (part-Ernesettle farmhouse + land),The Parkway,"Ernesettle, Plymouth",Devon,1.35,244633 058860,X,Agricultural,0,Plymouth Moor View,2013
+2063,ISS Basil Hill - Basil Hill Barracks (Pockeridge House),Hudswell Lane,Corsham,Wiltshire,1.79,385581 169523,B,Housing,1,North Wiltshire,2012
+2064,Ensleigh - Ensleigh,Granville Rd,Bath,Avon,8.67,374062 167543,B,Housing,300,Bath,2012
+2067,ISS Basil Hill - Basil Hill Barracks (The Circus),Peel Circus,Corsham,Wiltshire,8.6,385518 169843,L,Leisure/Recreation,0,North Wiltshire,2013
+2070,Aldershot Garrison Misc - Talavera School,Gunhill,Aldershot,Hampshire,2.84,486491 151040,B,Other,0,Aldershot,2012
+2071,Aldershot Garrison Misc - Marlborough School,Redvers Buller Rd,Aldershot,Hampshire,0.6,487456 153308,B,Other,0,Aldershot,2012
+2076,GPSS Islip - Islip,Bletchingdon Road,Islip,Oxfordshire,13.57,452526 214672,X,Other,0,Henley,2012
+2080,"Minley Training Centre (part) - Area F2,F3,F4 Hawley Common (Part - Hawley Place School)",Fernhill Road,"Blackwater, Camberley",Hampshire,6.26,485066 158312,X,Other,0,Aldershot,2012
+2081,AUE Sites - AUE Sites,Various,Aldershot,Hampshire,11,Various,X,Mixed,3850,Aldershot,2014
+2082,AUE Sites - AUE Sites,Various,Aldershot,Hampshire,11,Various,X,Mixed,0,Aldershot,2015
+2083,AUE Sites - AUE Sites,Various,Aldershot,Hampshire,11,Various,X,Mixed,0,Aldershot,2016
+2084,AUE Sites - AUE Sites,Various,Aldershot,Hampshire,11,Various,X,Mixed,0,Aldershot,2017
+2085,AUE Sites - AUE Sites,Various,Aldershot,Hampshire,11,Various,X,Mixed,0,Aldershot,2018
+2086,AUE Sites - AUE Sites,Various,Aldershot,Hampshire,11,Various,X,Mixed,0,Aldershot,2019
+2087,AUE Sites - AUE Sites,Various,Aldershot,Hampshire,11,Various,X,Mixed,0,Aldershot,2020
+2088,AUE Sites - AUE Sites,Various,Aldershot,Hampshire,11,Various,X,Mixed,0,Aldershot,2021
+2089,AUE Sites - AUE Sites,Various,Aldershot,Hampshire,11,Various,X,Mixed,0,Aldershot,2022
+2090,AUE Sites - AUE Sites,Various,Aldershot,Hampshire,11,Various,X,Mixed,0,Aldershot,2023
+2091,AUE Sites - AUE Sites,Various,Aldershot,Hampshire,11,Various,X,Mixed,0,Aldershot,2024
+2092,AUE Sites - AUE Sites,Various,Aldershot,Hampshire,11,Various,X,Mixed,0,Aldershot,2025
+2093,AUE Sites - AUE Sites,Various,Aldershot,Hampshire,11,Various,X,Mixed,0,Aldershot,2026
+2094,Salisbury Plain training Area  - SPTC West (part) 1 Lower Everleigh,1 Lower Everleigh,Everleigh,Wiltshire,0.07,418993 154679,B,Housing,0,Devizes,2012
+2095,Salisbury Plain training Area  - SPTC West (part) 2 Lower Everleigh,2 Lower Everleigh,Everleigh,Wiltshire,0.04,419010 154687,B,Housing,0,Devizes,2012
+2096,Salisbury Plain training Area  - SPTC West (part) Cherry Tree Cottage,Cherry Tree Cottage,Everleigh,Wiltshire,0.06,419000 154731,B,Housing,0,Devizes,2012
+2097,Salisbury Plain training Area  - SPTC West (part) 1106 Lower Everleigh,1106 Lower Everleigh,Everleigh,Wiltshire,0.04,419040 154761,B,Housing,0,Devizes,2012
+2098,Tidworth Garrison Misc - Pickpit Hill (part-),882/883 Ludgershall Road,Tidworth,Wiltshire,0.09,423877 149348,B,Housing,0,Devizes,2012
+2099,Salisbury Plain training Area  - SPTC South West (part) Cliff End Figheldean,Cliff End,Figheldean,Wiltshire,0.25,415531 147957,B,Housing,0,Devizes,2013
+2100,Salisbury Plain training Area  - Gunville Gunville Cottage, 266 Figheldean,Salisbury,Wiltshire,0.25,415762 146384,B,Housing,0,Devizes,2012
+2102,Salisbury Plain training Area  - Middleton Farm,"North Road, Norton Bavant",Warminster,Wiltshire,1.34,390743 144420,B,Housing,0,South West Wiltshire,2012
+2103,Salisbury Plain training Area  - SPTC - West (part) 26 North Farm Cottage,Norton Bavant,Warminster,Wiltshire,0.06,391451 144728,B,Housing,0,South West Wiltshire,2012
+2104,Salisbury Plain training Area  - SPTC - West (part) 28 North Farm Cottage,Norton Bavant,Warminster,Wiltshire,0.08,391472 144720,B,Housing,0,South West Wiltshire,2012
+2105,Salisbury Plain training Area  - SPTC - West (part) 15 Elm Cottage,Warminster,Warminster,Wiltshire,0.11,388228 146188,B,Housing,0,South West Wiltshire,2012
+2106,Salisbury Plain training Area  - SPTC - West (part) 17 Elm Cottage,Warminster,Warminster,Wiltshire,0.06,388230 146197,B,Housing,0,South West Wiltshire,2012
+2107,Salisbury Plain training Area  - SPTC - West (part) Parsonage Farmhouse,40 Elm Hill,Warminster,Wiltshire,0.23,388259 146146,B,Housing,0,South West Wiltshire,2012
+2108,Salisbury Plain training Area  - Rollestone Camp (part) 54 Rollestone Crossroads,Crossroads,Rollestone,Wiltshire,0.12,409655 144637,B,Housing,0,Salisbury,2012
+2109,Salisbury Plain training Area  - SPTC Middle (part) St Joan Gore Farnhouse,West Lavington,Devizes,Wiltshire,0.26,401246 150338,B,Housing,0,Devizes,2012
+2110,Salisbury Plain training Area  - SPTC West (part) Erlestoke & Coulston Cricket Club,High Street,Erlestoke,Wiltshire,2.32,396328 153666,X,Leisure/Recreation,1,Devizes,2012
+2111,Salisbury Plain training Area  - Ablington Farm North (part) Ablington Youth Club,.,Ablington,Wiltshire,0.09,415757 146857,B,Leisure/Recreation,0,Devizes,2013
+2112,Salisbury Plain training Area  - Tilshead Chitterne & Copehill (part) John Deere Dealership,Salisbury Plain,Tilshead,Wiltshire,0.03,403560 147349,X,Agricultural,0,Salisbury,2012
+2113,Minley Training Centre (part) - Area F2 F3 F4 Hawley Common (part) 1 Gardeners Cottage ,Woodlands Walk,Hawley,Hampshire,1,485049 158146,B,Housing,0,Aldershot,2012
+2114,Minley Training Centre (part) - Area F2 F3 F4 Hawley Common (part) 2 Gardeners Cottage ,Woodlands Walk,Hawley,Hampshire,0.15,485029 158146,B,Housing,0,Aldershot,2012
+2115,"Minley Training Centre (part) - Area F2 F3 F4 Hawley Common (part) The Grooms Cottage , Flat 1 & Flat 2 ",Woodlands Walk,Hawley,Hampshire,0.2,485023 158126,B,Housing,0,Aldershot,2012
+2121,Larkhill Garrison - Land off Biddulph Rd (land adjacent Rangers garage/ bungalow),The Packway,Larkhill,Wiltshire,0.09,414283 144101,L,Other,0,Devizes,2013
+2122,Old Park Training Area - Old Park Training Area (part - Canterbury Golf Club),Littlebourne Rd,Canterbury,Kent,83.37,617177 157902,X,Other,0,Canterbury,2013
+2124,RM Turnchapel - RM Turnchapel,Bovingdon Terrace,Plymouth,Devon,6.44,249612 053210,X,Mixed,20,South West Devon,2013
+2125,Salisbury Plain training Area - Salisbury Plain Training Area (part - The Old Smithy),Middleton Farm (Part - The Old Smithy),Norton Bavant,Wiltshire,0.22,390708 144438,X,Housing,0,South West Wiltshire,2012
+2127,Quebec Barracks - Quebec Barracks & Enclosure (peripheral roads to Quebec Bks),,Bordon,Hampshire,2.23,479965 136058,B,Housing,80,East Hampshire,2012
+2129,JSCS Bicester - A Site at corner of Widnell Land and B4011 Road,Widnell Lane,Upper Arncott,Oxfordshire,38.89,463369 217722,X,Industrial,0,Banbury,2013
+2131,Islington Volunteer Estate - TAC Islington,65 Parkhurst Road,London,Greater London,0.69,530290 185900,,,100,,2013
+2135,ACIO Torquay - ACIO Torquay 180 Union Street,180 Union Street,Torquay,Devon,0.01,291244 064365,B,Office,1,Torbay,2012
+2136,ACIO Barnstaple - ACIO Barnstaple 2 Litchdon Street,2 Litchdon Street,Barnstaple,Devon,0.01,255964 132923,B,Office,1,North Devon,2012
+2137,Risborough Bks - Main Site Folkestone,Shorncliffe Garrison,Shorncliffe,Kent,10.71,136291 619470,X,Mixed,0,Folkestone & Hythe,2016
+2138,Risborough Bks - Main Site Folkestone,Shorncliffe Garrison,Shorncliffe,Kent,10.36,136291 619470,X,Mixed,0,Folkestone & Hythe,2017
+2139,Risborough Bks - Main Site Folkestone,Shorncliffe Garrison,Shorncliffe,Kent,6.91,136291 619470,X,Mixed,0,Folkestone & Hythe,2018
+2140,Risborough Bks - Main Site Folkestone,Shorncliffe Garrison,Shorncliffe,Kent,10.36,136291 619470,X,Mixed,0,Folkestone & Hythe,2020
+2141,Risborough Bks - Main Site Folkestone,Shorncliffe Garrison,Shorncliffe,Kent,9.67,136291 619470,X,Mixed,0,Folkestone & Hythe,2022
+2142,Risborough Bks - Main Site Folkestone,Shorncliffe Garrison,Shorncliffe,Kent,8.64,136291 619470,X,Mixed,0,Folkestone & Hythe,2025
+2143,Risborough Bks - Main Site Folkestone,Shorncliffe Garrison,Shorncliffe,Kent,8.29,136291 619470,X,Mixed,0,Folkestone & Hythe,2027
+2144,Lodge Hill - Training Area,"Lodge Hill Training Area, Chattenden",Rochester,Kent,25.63,576414 173915,X,Mixed,360,Rochester & Strood,2019
+2145,Lodge Hill - Training Area,"Lodge Hill Training Area, Chattenden",Rochester,Kent,22.98,576414 173915,X,Mixed,323,Rochester & Strood,2020
+2146,Lodge Hill - Training Area,"Lodge Hill Training Area, Chattenden",Rochester,Kent,25.98,576414 173915,X,Mixed,365,Rochester & Strood,2021
+2147,Lodge Hill - Training Area,"Lodge Hill Training Area, Chattenden",Rochester,Kent,14.66,576414 173915,X,Mixed,206,Rochester & Strood,2022
+2148,Lodge Hill - Training Area,"Lodge Hill Training Area, Chattenden",Rochester,Kent,7.74,576414 173915,X,Mixed,109,Rochester & Strood,2023
+2149,Lodge Hill - Training Area,"Lodge Hill Training Area, Chattenden",Rochester,Kent,50.78,576414 173915,X,Mixed,714,Rochester & Strood,2025
+2150,Lodge Hill - Training Area,"Lodge Hill Training Area, Chattenden",Rochester,Kent,36.7,576414 173915,X,Mixed,516,Rochester & Strood,2026
+2151,Lodge Hill - Training Area,"Lodge Hill Training Area, Chattenden",Rochester,Kent,40.38,576414 173915,X,Mixed,568,Rochester & Strood,2027
+2152,Lodge Hill - Training Area,"Lodge Hill Training Area, Chattenden",Rochester,Kent,44.64,576414 173915,X,Mixed,628,Rochester & Strood,2028
+2153,Lodge Hill - Training Area,"Lodge Hill Training Area, Chattenden",Rochester,Kent,30.85,576414 173915,X,Mixed,434,Rochester & Strood,2029
+2154,Lodge Hill - Training Area,"Lodge Hill Training Area, Chattenden",Rochester,Kent,0.58,576414 173915,X,Mixed,8,Rochester & Strood,2030
+2156,Brompton Rd/RSME Chatham Sports Ground (part - Nursery PTS),Amherst Hill,Chatham,Kent,0.29,576023 168564,B,Other,0,Rochester & Strood,2012
+2162,Princess Royal Barracks - Princess Royal Barracks Disposal (DTR Deepcut Barracks),Princess Royal Bks,Deepcut,Surrey,112,490662 157699,B,Housing,0,Surrey Heath,2015
+2163,Princess Royal Barracks - Princess Royal Barracks Disposal (DTR Deepcut Barracks),Princess Royal Bks,Deepcut,Surrey,112,490662 157699,B,Housing,0,Surrey Heath,2016
+2164,Princess Royal Barracks - Princess Royal Barracks Disposal (DTR Deepcut Barracks),Princess Royal Bks,Deepcut,Surrey,112,490662 157699,B,Housing,0,Surrey Heath,2017
+2165,Princess Royal Barracks - Princess Royal Barracks Disposal (DTR Deepcut Barracks),Princess Royal Bks,Deepcut,Surrey,112,490662 157699,B,Housing,0,Surrey Heath,2018
+2167,TAC Brompton Road,Brompton Rd,London,City of London,0.1,527214 179165,B,Mixed,0,Kensington,2013
+2169,Lower Upnor Depot - RSME Chatham - Lower Upnor Depot (part electric sub station),Upnor Road,Lower Upnor,Kent,0.04,575869 170913,B,Other,0,Rochester & Strood,2013
+2171,Salisbury Plain Training Area (part-Middleton Cottage),"Middleton Cottage, North Road",Norton Bavant,Wiltshire,0,390865 144335,X,Housing,0,South West Wiltshire,2012
+3172,Twigworth Boxer Site,Land adj to driveway to Wallsworth Hall,Twigworth,Gloucestershire,0.11,384543 222441,X,Agricultural,0,Tewkesbury,2012
+2176,Salisbury Plain Training Area/Salisbury Plain Middle (Part - Tilshead recreation ground),Candown Rd,Tilshead,Wiltshire,0.4,403700 147950,L,Leisure/Recreation,0,Salisbury,2013
+2177,Arborfield (Phase 3),Princess Marina Drive,Arborfield,Berkshire,30,476823 165637,X,Mixed,0,Wokingham,2022
+2270,Chatham SFA/1-13(odds) & 27-45(odds) Chattenden Lane - (PART - Electric sub-station site),Rear of 35 Chattenden Lane,Rochester,Kent,0.01,575811 172054,X,Other,0,Rochester & Strood,2012
+2271,Howe Barracks/Howe Barracks (part - Villiers Rd land),Land at Villiers Rd,Canterbury,Kent,0.01,616983 157917,X,Other,0,Canterbury,2013
+2273,RMA Sandhurst/Royal Military Academy(part - land adjacent St Michael's Church),London Road,Camberley,Surrey,0.47,486389 160428,L,Other,0,Surrey Heath,2013
+2274,Syrencot House (Not on DPG as long lease sold in 2000),"Syrencot House, Milston Rd",Milston,Wiltshire,1.95,416151 146166,X,Housing,0,Devizes,2013
+3001,Kingsbury ATE - Land adjacent to Spline Gauges,Land adjacent to Spline Gauges,Kingsbury,Staffordshire,0.01,No,L,Industrial,0,North Warwickshire,2012
+3002,RAF Newton - Newton - Grass Airfield (Pre-emption land & Protocol)),RAF Newton,Newton,Notts,136.7,SK 681 411,L,Agricultural,0,Rushcliffe,2012
+3003,GPSS Hethersett - Hethersett PSD,Station Lane,Norfolk,Norfolk,8.03,617234 304097,X,Industrial,0,South Norfolk,2012
+3005,RAF Stanbridge - RAF Stanbridge Communication Centre,RAF Stanbridge,Leighton Buzzard,Bedfordshire,5.21,SP 938244,L,Housing,150,South West Bedfordshire,2013
+3006,DE ABERPORTH - Aberporth Sports and Social Club ,Sports and Social Club,Parcllyn,Ceredigionshire,1.98,SN246514,B,Leisure/Recreation,40,Ceredigion,2013
+3007,Drumadd Barracks - Drumadd Barracks,Hamiltonsbawn Rd Armagh,Armagh,Co Armagh,14.74,288827 345442,X,,0,Newry & Armagh,2012
+3008,QinetiQ Aberporth - Land adjoining Trenchard Estate,Trenchard Estate,Aberporth,Ceredigionshire,0.26,n/a,L,Housing,10,Ceredigion,2013
+3009,HUMBER CAMP (DSDC Donnington) - Humber Camp (Land adjoining Hoo Farm) Telford ,Humber Road,TELFORD,Shropshire,8.74,369315,L,Other,0,Telford,2012
+3010,Carlisle SFA - Blackbank House Rosetrees (Carlisle SFA),Rosetrees Lane,Carlisle,Cumbria,0.17,334567,B,Housing,1,Carlisle,2013
+3012,RAF Cowden - RAF Cowden ,RAF Cowden,Cowden,North Yorkshire,25.84,524441,L,Agricultural,0,Beverley & Holderness,2014
+4013,Shackleton Barracks - Church Land [formerly part Main Site SE],Foyle Drive,Ballykelly,Co Londonderry,0.04,263150 422610,L,Other,0,East Londonderry,2012
+3015,RAF Brampton - RAF Brampton,Brampton,Huntingdon,Cambridgeshire,30.15,520876 270122,B,Mixed,407,Huntingdon,2013
+3018,RAF Wyton (Airfield part only) - Wyton Airfield,Wyton,Huntingdon,Cambridgeshire,293,528800 274925,L,,870,Huntingdon,2013
+3020,Keady Base - Davis Street South,Davis Street,Keady,Co Armagh,0.16,284356 333803,L,Other,0,Newry & Armagh,2012
+3021,Catterick Garrison Miscellaneous - Central Sports Ground and land at Gough Road (Sites 1 & 6),Richmond Road,CATTERICK GARRISON,North Yorkshire,4.42,SE 179979,X,,0,Richmond (Yorks).,2012
+3022,Catterick Garrison Miscellaneous - Land at Shute Road East (Town Centre Site 2),Shute Road,CATTERICK GARRISON,North Yorkshire,0.99,,X,Housing,183,Richmond (Yorks).,2012
+3023,Catterick Garrison Miscellaneous - Land at Shute Road South (Town Centre Site 3),Shute Road,CATTERICK GARRISON,North Yorkshire,1.13,,B,Retail,0,Richmond (Yorks).,2012
+3024,Catterick Garrison Miscellaneous - Land at Shute Road North (Town Centre Site 4),Shute Road,CATTERICK GARRISON,North Yorkshire,1.18,,X,,0,Richmond (Yorks).,2012
+3025,Catterick Garrison Miscellaneous - Land at Somerset Close (Site H/04) north of main road,Somerset Close,CATTERICK GARRISON,North Yorkshire,1.08,SE 17530 97830 ,L,Housing,44,Richmond (Yorks).,2012
+3026,Catterick Garrison Miscellaneous - Land at Gough Road West (Site H/03) south of main road,Gough Road,CATTERICK GARRISON,North Yorkshire,1.4,SE 17100 97600,L,Housing,30,Richmond (Yorks).,2012
+3027,Catterick Garrison Miscellaneous - Land East of Coronation Park (Site H/07) north of Belton Pak,off Catterick Road,CATTERICK GARRISON,North Yorkshire,2.65,SE 18450 97930,L,Housing,20,Richmond (Yorks).,2012
+3028,Catterick Garrison Miscellaneous - Land at Catterick Road (Site H/08),Catterick Road,CATTERICK GARRISON,North Yorkshire,0.56,SE 18570 97680,L,Housing,10,Richmond (Yorks).,2012
+3029,Catterick Garrison Miscellaneous - Land at Arras/Colburn (Sites H/15+16) south of main road,off Catterick Road,CATTERICK GARRISON,North Yorkshire,14.99,SE 19600 97600,L,Housing,200,Richmond (Yorks).,2012
+3031,Masserene Barracks - Massereene Barracks,Randalstown Road,Antrim,Co. Antrim,16.57,31400 38720,X,,0,Antrim BC,2012
+3032,RAF Hemswell Cliffe - Hemswell Cliff Estate Amenity Land,Capper Avenue,Hemswell Cliff,Lincs,2.34,494940 389900,L,Leisure/Recreation,0,West  Lindsey District Council,2012
+3034,Sculthorpe Training Area - Sculthrope Training Area,Sculthorpe Training Area,New Tattersett,Norfolk,1.56,"Easting TF 849, Northing 303",X,,0,North Norfolk,2012
+3035,Divis KP - Divis Range Substation & Comms Mast + Pumphouse (wef 13/07/12) + part DIMR 01 (wef 24/09/12),Divis Road,Divis,Co. Antrim,0.06,327934E 375405N,L,Other,0,Belfast,2012
+3037,Otterburn TA (part) - Whitburn Rifle Range (Tech Site),Whitburn Rifle Range,Sunderland,South Tyneside,1.99,NZ 411 625,X,Housing,40,Sunderland North,2013
+3040,Stanford Army Field Training Centre - Watton Training Area (3),"Watton, Norfolk",Mundford,Norfolk,0.6,594210 299988,L,Agricultural,0,South West Norfolk,2013
+3041,Stanford Army Field Training Centre - Watton Training Area (4),"Watton, Norfolk",Mundford,Norfolk,3.14,594210 299988,L,Agricultural,0,South West Norfolk,2013
+3044,RAF Wainfleet - South Tower,Sea Lane,Friskney,Lincolnshire,0.01,547035 350854,B,,0,Boston and Skegness,2012
+3045,RAF Mildenhall - Mildenhall ESA,RAF Mildenhall,Mildenhall,Suffolk,17.35,569000 279250,X,Other,0,West Suffolk,2012
+3046,RAF Menwith Hill - Hookstone Drive,43 and 45 Hookstone Drive,Harrogate,North Yorkshire,0.15,SE 319 545,B,Housing,1,Harrogate and Knaresborough,2012
+3053,RAF Menwith Hill - Kirkstone Road,20 Kirkstone Road,Harrogate,North Yorkshire,0.1,SE 321 559,B,Housing,1,Harrogate and Knaresborough,2012
+3058,Norton Barracks - Norton Barracks,Crookbarrow Road,Worcester,Worcestershire,0.17,SO150 867517,B,Housing,4,Worcestershire,2013
+3064,Waterbeach Barracks - Waterbeach Barracks,Denny End Road,Cambridge,Cambridgeshire,290.5,549636 266124,X,Housing,7000,South Cambridgeshire,2014
+3066,Kirton in Lindsey - Technical Site (Open Airfield) - south of B1400,South Cliff Road,Kirton in Lindsey,North Lincolnshire,123.7,494 397,X,Other,0,North Lincolnshire (B),2013
+3068,KINMEL PARK TRAINING CAMP - Kinmel Park Training Camp Disposal - Main Site,Engine Hill,KINMEL,Denbighshire,3.18,SH9940075064,X,Industrial,0,Clwyd West,2012
+3069,Catterick Training Area - Sandbeck Grazing,Sandbeck,Richmond,North Yorkshire,0.49,416831 499777,,,0,Richmondshire,2012
+3070,Catterick Training Area - 15 Downholme,Downholme Village,Richmond,North Yorkshire,0.04,411385 497910,B,Housing,0,Richmondshire,2012
+3071,Catterick Training Area - 16 Downholme,Downholme Village,Richmond,North Yorkshire,0.07,411435 497920,B,Housing,0,Richmondshire,2012
+3072,Catterick Training Area - 2 Downholme,Downholme Village,Richmond,North Yorkshire,0.12,411325 497915,B,Housing,0,Richmondshire,2012
+3075,Catterick Training Area - 5 Downholme,Downholme Village,Richmond,North Yorkshire,0.03,411325 497915,B,Housing,0,Richmondshire,2012
+3079,Catterick Training Area - 10 Downholme,Downholme Village,Richmond,North Yorkshire,0.03,411325 497915,B,Housing,0,Richmondshire,2012
+3080,Catterick Training Area - 11 Downholme,Downholme Village,Richmond,North Yorkshire,0.14,411325 497915,B,Housing,0,Richmondshire,2012
+3081,Catterick Training Area - 12 Downholme,Downholme Village,Richmond,North Yorkshire,0.02,411325 497915,B,Housing,0,Richmondshire,2012
+3084,Catterick Training Area - Home Farm Downholme,Downholme Village,Richmond,North Yorkshire,0.16,411325 497915,,Housing,0,Richmondshire,2012
+3085,Catterick Training Area - Bolton Arms Downholme,Downholme Village,Richmond,North Yorkshire,0.21,411325 497915,L,,0,Richmondshire,2012
+3086,Catterick Training Area - Downholme Manor Field Barn,Downholme Village,Richmond,North Yorkshire,0.01,411325 497915,,,0,Richmondshire,2012
+3087,Catterick Training Area - 1 Stainton,Stainton,Richmond,North Yorkshire,0.05,410420 496530,,Housing,0,Richmondshire,2012
+3088,Catterick Training Area - 2 Stainton,Stainton,Richmond,North Yorkshire,0.05,410420 496530,,Housing,0,Richmondshire,2012
+3089,Catterick Training Area - 3 Stainton,Stainton,Richmond,North Yorkshire,0.04,410420 496530,,Housing,0,Richmondshire,2012
+3092,Catterick Training Area - 2 Lowenthwaite,Lowenthwaite,Richmond,North Yorkshire,0.02,414590:500680,,Housing,0,Richmondshire,2012
+3093,Catterick Training Area - 4 Lowenthwaite,Lowenthwaite,Richmond,North Yorkshire,0.02,414590:500680,,Housing,0,Richmondshire,2012
+3094,Catterick Training Area - Woodhouse Farm Grazings and Buildings ,Woodhouse Farm,Richmond,North Yorkshire,3.38,417500 499800,X,Agricultural,0,Richmondshire,2012
+3095,Driffield TA - Driffield Field,Driffield Training Area,Driffield,East Yorkshire,1.33,500150 456100,,,0,Richmondshire,2012
+3096,Driffield TA - Driffield Mound and Woodland,Driffield Training Area,Driffield,East Yorkshire,4.9,498800 456500,,,0,Richmondshire,2012
+3097,Catterick Training Area - Holly House Farmhouse,Holly House Farm,Richmond,North Yorkshire,0.53,416855 499520,,Housing,0,Richmondshire,2012
+3098,Catterick Training Area - Thorpe House Farm - Field Barn,,Richmond,North Yorkshire,0,,,Agricultural,0,Richmondshire,2012
+3099,WarcopTraining Area - Field at High Green Farm Warcop,High Green Farm,Warcop,Cumbria,4.67,374500 515500,L,,0,Richmondshire,2012
+3100,Coningsby SFA - Land at Clinton Park,Clinton Park,Tattershall,Lincolnshire,1.5,521778 358341,L,Other,0,East Lindsey,2012
+3101,Brambles Farm TAC - Brambles Farm TAC,Longlands Road,Middlesbrough,Cleveland,1.67,NZ 52440 19813,B,Other,0,Middlesbrough,2012
+3103,RAF Fylingdales - Fylingdales Moor(part),Fylingdales,Pickering,North Yorkshire,461,SE 86900 99000,L,Agricultural,0,,2012
+3112,Stanford Army Field Training Centre - Watton Training Area (8),"Watton, Norfolk",Mundford,Norfolk,1.19,594210 299988,L,Agricultural,0,South West Norfolk,2013
+3122,1-8 Dog Kennel Close Lisburn,1-8 Dog Kennel Close,Lisburn,Antrim,0.29,325947 365260,B,Housing,8,,2012
+3123,"1-12 Dog Kennel Crescent, Lisburn",1-12 Dog Kennel Crescent,Lisburn,Antrim,0.31,325971 365162,B,Housing,12,,2012
+3124,"52-88 (e) Mountview Drive, Lisburn",52-88 Mountview Drive,Lisburn,Antrim,0,327042 366296,B,Housing,18,,2012
+3125,"90-94 (e) Mountview Drive, Lisburn",90-94 Mountview Drive,Lisburn,Antrim,0,327042 366296,B,Housing,3,,2012
+3126,"85-111 (o) Mountview Drive, Lisburn",85-111 Mountview Drive,Lisburn,Antrim,0,327042 366296,B,Housing,14,,2012
+3127,"3, 4, 10 Magheralave Park, Lisburn","3, 4, 10 Magheralave Park East",Lisburn,Antrim,0.3,326569 365280,B,Housing,3,,2013
+3129,Catterick Training Area - Downholme Allotments,Downholme Village,Richmond,North Yorkshire,0.06,411325 497915,L,Agricultural,0,Richmondshire,2012
+3138,Catterick Training Area - Old Hall and Paddock,Downholme Village,Richmond,North Yorkshire,0.14,411325 497915,L,Agricultural,0,Richmondshire,2012
+3139,Catterick Training Area - Major Garth Paddocks,Downholme Village,Richmond,North Yorkshire,0.38,411325 497915,L,Agricultural,0,Richmondshire,2012
+3140,Catterick Training Area - Downholme Stone Garage,Downholme Village,Richmond,North Yorkshire,0.01,411325 497915,L,Leisure/Recreation,0,Richmondshire,2012
+3141,Catterick Training Area - Barn and Land adjoining No. 2 Downholme,Downholme Village,Richmond,North Yorkshire,0.06,411325 497915,L,Agricultural,0,Richmondshire,2012
+4007,Dreghorn Bks - Edinburgh - Laverockdale cot/polo fields,Colinton,Edinburgh,Lothian,7.328,3219 6681,X,Housing,75,Edinburgh Pentlands,2013
+4009,Camrhu Monitor Station - Rhu - Aros Road Site,Aros Road Rhu,Rhu,Argyll & Bute,1.792,2266 6845,L,Housing,0,Argyll & Bute,2013
+4019,HMS Caledonia - Forth Club,Forth Club  Castle Road,Rosyth,Fife,0.731,NT 11108270,X,,0,Dunfermline West ,2012
+4021,Aberdeen SFA - Aberdeen - Ashwood Circle,15  Ashwood Circle,Aberdeen,Aberdeenshire,0.02,NU92851225,B,Housing,1,Gordon,2012
+4022,Aberdeen SFA - Aberdeen - Ashwood Circle,17 Ashwood Circle,Aberdeen,Aberdeenshire,0.02,NU92851225,B,Housing,1,Gordon,2012
+4023,Shetland Islands SFA - Saxa Vord -  Settlers Hill Estate Properties - With DE for Disposal," Setters Hill Estate (No's 2, 7.12.15, 16, 34 - 36)",Haroldswick,Unst,0.478,various,B,Housing,8,Orkney & Shetland,2013
+4027,Carrick Castle - Remaining Land at Carrick Castle 0.161 to Community 0.046 to Castle Carrick,Carrick Castle Loch Goil,Carrick Castle,Argyll & Bute,0.207,NS 19396 94475,L,Leisure/Recreation,0,Argyll & Bute,2013
+4030,Redford Cavalry Barracks - Redford Cavalry Barracks,Redford Cavalry Barracks Colinton Rd,Edinburgh,Lothian,13.507,322520 669476,B,Housing,450,Edinburgh Pentlands,2014
+4031,Redford Infantry Barracks - Redford Infantry Barracks,Redford Infantry Barracks Colinton Rd ,Edinburgh,Lothian,16.65,322263 669203,B,Housing,550,Edinburgh Pentlands,2014
+4032,Dreghorn Barracks - Dreghorn Barracks,Redford Road ,Edinburgh,Lothian,52.93,322518 668322,B,Housing,1200,Edinburgh Pentlands,2014
+4033,Craigiehall  - HQ 2nd Division (Craigiehall),Craigiehall,Edinburgh,Lothian,31.218,316766 675523,B,Housing,500,Edinburgh West,2014
+4036,Kingussie Drill Hall - Garages rear of 91-93 High St,High St,Kingussie,Highland,0.039,276038 800809,,Housing,0,"Inverness East, Nairn and Lochaber",2012

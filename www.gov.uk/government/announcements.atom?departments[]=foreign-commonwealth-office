@@ -1,0 +1,739 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-GB" xmlns="http://www.w3.org/2005/Atom">
+  <id>tag:www.gov.uk,2005:/government/announcements</id>
+  <link rel="alternate" type="text/html" href="https://www.gov.uk/government"/>
+  <link rel="self" type="application/atom+xml" href="https://www.gov.uk/government/announcements.atom?departments%5B%5D=foreign-commonwealth-office"/>
+  <title>Inside Government</title>
+  <subtitle>Recent announcements</subtitle>
+  <author>
+    <name>HM Government</name>
+  </author>
+  <updated>2012-12-12T12:18:00+00:00</updated>
+  <entry>
+    <id>tag:www.gov.uk,2005:AnnouncementPresenter/54845</id>
+    <published>2012-12-12T12:18:00+00:00</published>
+    <updated>2012-12-12T12:18:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/the-new-home-on-the-web-for-fco-mod-bis-and-ago"/>
+    <title>The new home on the web for FCO, MOD, BIS and AGO</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Four central government departments and several of their public bodies have today (13 December, 2012) become the latest central government organisations to move their corporate and policy content onto the new GOV.UK website - the new single home for all government services and information.&lt;/p&gt;
+
+&lt;p&gt;The Foreign and Commonwealth Office (&lt;abbr title="Foreign and Commonwealth Office"&gt;FCO&lt;/abbr&gt;), Ministry of Defence (&lt;abbr title="Ministry of Defence"&gt;MOD&lt;/abbr&gt;), Department for Business, Innovation and Skills (&lt;abbr title="Department for Business, Innovation and Skills"&gt;BIS&lt;/abbr&gt;) and Attorney General’s Office (&lt;abbr title="Attorney General's Office"&gt;AGO&lt;/abbr&gt;) have moved their content to the new website, joining the Department for Transport (&lt;abbr title="Department for Transport"&gt;DFT&lt;/abbr&gt;) and Communities and Local Government (&lt;abbr title="Department for Communities and Local Government"&gt;DCLG&lt;/abbr&gt;) whose content moved to GOV.UK last month.&lt;/p&gt;
+
+&lt;p&gt;The Inside Government section on GOV.UK makes it simpler, clearer and faster to find out:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;how government works&lt;/li&gt;
+  &lt;li&gt;what the government is doing&lt;/li&gt;
+  &lt;li&gt;how you can get involved&lt;/li&gt;
+&lt;/ul&gt;&lt;h2 id="new-web-addresses"&gt;New web addresses&lt;/h2&gt;
+&lt;p&gt;All web addresses have been redirected, so you don’t need to update your bookmarks, but you might want to make a note of the new addresses: &lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href="https://www.gov.uk/fco" title="FCO"&gt;www.gov.uk/fco&lt;/a&gt; - Foreign and Commonwealth Office&lt;/li&gt;
+  &lt;li&gt;
+&lt;a href="https://www.gov.uk/mod" title="MOD"&gt;www.gov.uk/mod&lt;/a&gt; - Ministry of Defence&lt;/li&gt;
+  &lt;li&gt;
+&lt;a href="https://www.gov.uk/bis" title="BIS"&gt;www.gov.uk/bis&lt;/a&gt; - Department for Business, Innovation and Skills&lt;/li&gt;
+  &lt;li&gt;
+&lt;a href="https://www.gov.uk/ago" title="AGO"&gt;www.gov.uk/ago&lt;/a&gt; - Attorney General’s Office&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;The Inside Government section of GOV.UK has been designed to make government information easier to find and more transparent for the user. For the first time, you can begin to find out what’s happening inside government all in one place, and in a clear, consistent and transparent format. &lt;/p&gt;
+
+&lt;p&gt;You’ll notice that the new website looks very different from the ones it has replaced. The look is one obvious difference but many of the other significant changes are less visible.   &lt;/p&gt;
+
+&lt;h2 id="topics"&gt;Topics&lt;/h2&gt;
+&lt;p&gt;You can now see information from multiple government departments grouped by topics. For example, you can see how policies from &lt;abbr title="Ministry of Defence"&gt;MOD&lt;/abbr&gt;, &lt;abbr title="Foreign and Commonwealth Office"&gt;FCO&lt;/abbr&gt; and &lt;abbr title="Department for Business, Innovation and Skills"&gt;BIS&lt;/abbr&gt; are contributing to &lt;a href="https://www.gov.uk/government/topics/national-security"&gt;national security&lt;/a&gt; or combating &lt;a href="https://www.gov.uk/government/topics/climate-change"&gt;climate change&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id="clear-policies"&gt;Clear policies&lt;/h2&gt;
+&lt;p&gt;Those departments and agencies who have moved to GOV.UK are publishing their policies according to the outcome the government is trying to achieve. For example:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.gov.uk/government/policies/making-it-easier-to-set-up-and-grow-a-business--6" title="making it easier to set up and grow a business"&gt;making it easier to set up and grow a business&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://www.gov.uk/government/policies/promoting-human-rights-internationally" title="promoting human rights internationally"&gt;promoting human rights internationally&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://www.gov.uk/government/policies/working-towards-nuclear-disarmament" title="working towards nuclear disarmament"&gt;working towards nuclear disarmament&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;For each policy, you can see a list of all the related announcements, consultations and publications in one list, called ‘activity’. The activity tab makes it easy for you to track what is happening on the policies that interest you, for example all government activity that relates to &lt;a href="/government/policies/establishing-stability-in-afghanistan/activity" title="establishing stability in Afghanistan: activity"&gt;establishing stability in Afghanistan&lt;/a&gt;. &lt;/p&gt;
+
+&lt;h2 id="more-about-inside-government-and-govuk"&gt;More about Inside Government and GOV.UK&lt;/h2&gt;
+
+&lt;p&gt;Inside Government is still a work in progress, with only some organisations live. Work will continue as other departments and organisations, many hundreds in total, move their information to GOV.UK. This will happen in batches and will be completed by March 2014.     &lt;/p&gt;
+
+&lt;p&gt;You can find out more here: &lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="/tour#inside-government"&gt;Inside Government tour and introductory video&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a rel="external" href="http://digital.cabinetoffice.gov.uk/2012/11/05/what-is-inside-government/"&gt;Blog post: What is Inside Government?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:AnnouncementPresenter/55440</id>
+    <published>2012-12-12T17:00:00+00:00</published>
+    <updated>2012-12-12T17:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/minister-for-europe-renews-uk-commitment-to-eu-enlargement"/>
+    <title>Minister for Europe renews UK commitment to EU enlargement </title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Minister gave a press briefing for European journalists today following his participation in the General Affairs Council meeting in Brussels on 11 December. &lt;/p&gt;
+
+&lt;p&gt;David Lidington said:&lt;/p&gt;
+
+&lt;p&gt;“The UK remains a strong supporter of EU enlargement to all countries of the Western Balkans, Iceland and Turkey. I’ve just returned from the General Affairs Council in Brussels where I was pleased to have a long discussion on EU enlargement. Its conclusions make clear the EU’s continued support for enlargement. This is important, and a message that I hope will be heard clearly in the accession and pre-accession countries.&lt;/p&gt;
+
+&lt;p&gt;“Enlargement is good for the EU and one of the EU’s greatest achievements. The European Union, alongside NATO, has been an instrument of peace and reconciliation that has helped spread democracy and the rule of law across our continent, and helped make armed conflict between EU members unthinkable. At the same time an enlarged Single Market, another of the key success stories of the EU, has opened up prosperity and opportunity to hundreds of millions of people. An outward-looking approach and a continuing commitment to enlargement should be seen by all EU Member States as signs of strength and vigour.&lt;/p&gt;
+
+&lt;p&gt;“Enlargement is also good for wider security and prosperity across the continent. The accession of new Member States helps promote security, stability and prosperity across Europe, based on a firm foundation of democracy, human and civil rights, and respect for the law. The focus on good neighbourly relations is particularly important for a region such as the Western Balkans which saw conflict only two decades ago.&lt;/p&gt;
+
+&lt;p&gt;“It is a respect for this firm foundation and its benefits which drives the UK’s scrutiny of progress and focus on conditionality. So the UK is clear that there will be no pause after Croatia’s accession. But equally there will be no movement without progress on the ground.&lt;/p&gt;
+
+&lt;p&gt;“The Foreign Secretary visited Bosnia and Herzegovina, Serbia and Kosovo in October. He set out clearly the UK’s support for each country’s EU future. But he stressed to the political leaders that they needed to take the necessary steps to deliver. I hope political leaders in all of the aspiring countries will do so and that we will see further progress being made towards the EU early next year.&lt;/p&gt;
+
+&lt;p&gt;“And the UK remains committed to Turkey’s EU membership. We strongly believe that this would contribute to Europe’s prosperity and security, and the EU remains the strongest lever for reform in Turkey. We are focused on making real progress on the accession process in 2013 and we fully support the Irish Presidency in their desire to open a new acquis Chapter during their Presidency.”&lt;/p&gt;
+
+&lt;h4 id="further-information"&gt;Further information&lt;/h4&gt;
+
+&lt;p&gt;More information on the &lt;a rel="external" href="http://www.fco.gov.uk/en/news/latest-news/?view=PressS&amp;amp;id=842001782" title="Foreign Affairs Council and General Affairs Council"&gt;Foreign Affairs Council and General Affairs Council&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Find the Foreign Office on &lt;a rel="external" href="https://twitter.com/foreignoffice" title="@foreignoffice"&gt;Twitter&lt;/a&gt;, &lt;a rel="external" href="http://www.facebook.com/foreignoffice" title="FCO facebook"&gt;Facebook&lt;/a&gt; &amp;amp; &lt;a rel="external" href="https://plus.google.com/s/foreign%20office" title="FCO Google+"&gt;Google+&lt;/a&gt;  &lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:AnnouncementPresenter/55111</id>
+    <published>2012-12-12T11:15:00+00:00</published>
+    <updated>2012-12-12T11:15:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/parental-child-abduction-is-a-worldwide-problem"/>
+    <title>Parental Child Abduction is a worldwide problem</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;In the last year alone the Foreign Office’s &lt;a rel="external" href="http://www.fco.gov.uk/en/travel-and-living-abroad/when-things-go-wrong/child-abduction/" title="International parental child abduction"&gt;Child Abduction Section&lt;/a&gt; fielded an average of four calls per day to its specialist advice line, more than half of which were new cases .&lt;/p&gt;
+
+&lt;h3 id="a-worldwide-problem"&gt;A worldwide problem&lt;/h3&gt;
+
+&lt;p&gt;Parental child abduction – where a parent takes a child without the permission of those with parental responsibility – is now a worldwide issue. In 2003/04 we worked on cases in 51 countries; now cases relate to 84 different countries, showing just how widespread the problem has become.&lt;/p&gt;
+
+&lt;p&gt;We also fear that these statistics are just the tip of the iceberg; many cases go unreported as parents seek custody of their children through foreign courts.&lt;/p&gt;
+
+&lt;h3 id="raising-awareness"&gt;Raising awareness&lt;/h3&gt;
+
+&lt;p&gt;Public understanding of parental child abduction is alarmingly low.&lt;/p&gt;
+
+&lt;p&gt;The research we commissioned shows that half the UK population believes the government can intervene to order the return of a child to the UK if he or she has been abducted by a parent.  &lt;/p&gt;
+
+&lt;p&gt;The reality is that whilst help is available, parental child abduction cases can take years to resolve. This has significant impact on those concerned and there is the strong possibility that the child may never be returned.&lt;/p&gt;
+
+&lt;p&gt;It is also much harder to return a child from a country that has not signed the 1980 Hague Convention, an international agreement between certain countries which aims to ensure the return of a child who has been abducted by a parent.  &lt;/p&gt;
+
+&lt;h3 id="legal-and-financial-reality"&gt;Legal and financial reality&lt;/h3&gt;
+
+&lt;p&gt;Despite parental child abduction being against the law, a quarter (24%) of people do not think, or are unaware, that it’s a crime for a parent to take their child overseas without the consent of others with parental responsibility.&lt;/p&gt;
+
+&lt;p&gt;When asked which parent they thought was more likely to abduct a child, three quarters (74%) of people thought it was fathers. Yet according to statistics from the &lt;a rel="external" href="http://www.reunite.org/" title="reunite"&gt;Reunite International Child Abduction Centre&lt;/a&gt;, 70% of the charity’s cases concern mothers taking the child.&lt;/p&gt;
+
+&lt;p&gt;As well as this emotional distress, both parents may often face severe financial difficulties as they fight for custody of their child through foreign courts. The statistics show that people tend to underestimate just how much getting a child back costs, including legal fees overseas and in the UK which may continue to mount up even after  the child is returned to this country.&lt;/p&gt;
+
+&lt;p&gt;There also seems to be a lack of awareness about who pays the costs of resolving a parental child abduction case involving a non-Hague country. Sixty-two per cent either didn’t know or responded with the wrong answer, and only 38% answered correctly by saying it was the parents who would pay, not the UK Government.&lt;/p&gt;
+
+&lt;h3 id="the-expert-view"&gt;The expert view&lt;/h3&gt;
+
+&lt;p&gt;Daisy Organ, head of the Foreign Offfice Child Abduction Section said:&lt;/p&gt;
+
+&lt;p&gt;“The increase in parental child abduction cases is a major cause for concern, particularly in the lead up to the school holidays; we know that before or during school holidays is one of the most common times for a child to be abducted. We hope that this campaign will help inform and educate the UK public and encourage parents thinking of abducting their child to think twice before they cause significant distress to themselves and their family. “&lt;/p&gt;
+
+&lt;p&gt;Alison Shalaby, Chief Executive of Reunite, said:&lt;/p&gt;
+
+&lt;p&gt;“It is important to remember that parental child abduction is not faith or country specific. 71% of the UK public thought that parents most commonly abduct their children to the Middle East, India and Pakistan but it can happen to anyone, from any background. Countries where children are abducted to can range from Australia, to France, to Thailand.&lt;/p&gt;
+
+&lt;p&gt;“We have seen a 20% increase in calls made to our helpline in the first half of 2012 compared to 2011  and a 67% increase in the number of children who have been abducted by a parent to a non-Hague country between 2001 and 2011.&lt;/p&gt;
+
+&lt;p&gt;“This issue is not going away and with a 47% increase in the number of child abduction cases Reunite has worked on between 2001 and 2011, we are urging parents to think twice before they abduct their child or seek help if they think their child is at risk.”&lt;/p&gt;
+
+&lt;h3 id="contact-information"&gt;Contact information&lt;/h3&gt;
+
+&lt;p&gt;If you are concerned, or if your child has been abducted, you can call the FCO’s Child Abduction Section on 0207 008 0878 or visit &lt;a rel="external" href="http://www.fco.gov.uk/en/travel-and-living-abroad/when-things-go-wrong/child-abduction/" title="Child Abduction Section"&gt;http://www.fco.gov.uk/childabduction&lt;/a&gt;, or Reunite on 0116 2556 234.&lt;/p&gt;
+
+&lt;h3 id="travel-safely-this-christmas"&gt;Travel safely this Christmas&lt;/h3&gt;
+
+&lt;p&gt;Download our Plan. Pack. Explore. app for &lt;a rel="external" href="https://itunes.apple.com/us/app/plan-pack-explore/id552693482?ls=1&amp;amp;mt=8" title="Plan Pack Explore"&gt;iPad and iPhone&lt;/a&gt; and Android devices&lt;/p&gt;
+
+&lt;h3 id="further-information"&gt;Further information&lt;/h3&gt;
+
+&lt;p&gt;Child Abduction: Case Studies&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a rel="external" href="http://blogs.fco.gov.uk/fcotravel/2012/12/12/child-abduction-case-study-nicky-hewitt/" title="Nicky Hewitt"&gt;Nicky Hewitt, 34 born in Melbourne, grew up in Surrey&lt;/a&gt; &lt;/li&gt;
+  &lt;li&gt;&lt;a rel="external" href="http://blogs.fco.gov.uk/fcotravel/2012/12/12/child-abduction-case-study-steve-grant/" title="Steve Grant"&gt;Steve Grant, 54, from Portsmouth&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a rel="external" href="http://blogs.fco.gov.uk/fcotravel/2012/12/12/child-abduction-case-study-alexander-khan/" title="Alexander Khan"&gt;Alexander Khan,37, from South Coast&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Check our &lt;a rel="external" href="http://www.fco.gov.uk/en/travel-and-living-abroad/travel-advice-by-country/" title="Travel advice"&gt;travel advice for your destination&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Follow Foreign Office travel advice on twitter &lt;a rel="external" href="https://twitter.com/fcotravel" title="@fcotravel"&gt;@fcotravel&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Find the Foreign Office on &lt;a rel="external" href="https://twitter.com/foreignoffice" title="@foreignoffice"&gt;Twitter&lt;/a&gt;, &lt;a rel="external" href="http://www.facebook.com/foreignoffice" title="FCO facebook"&gt;Facebook&lt;/a&gt; &amp;amp; &lt;a rel="external" href="https://plus.google.com/s/foreign%20office" title="FCO Google+"&gt;Google+&lt;/a&gt;  &lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:AnnouncementPresenter/50193</id>
+    <published>2012-12-12T00:00:00+00:00</published>
+    <updated>2012-12-12T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/foreign-secretary-condemns-dprk-s-satellite-launch"/>
+    <title>Foreign Secretary condemns DPRK’s satellite launch</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;“I strongly condemn the DPRK’s satellite launch today. This launch was a clear violation of UN Security Council Resolutions 1718 and 1874 as it involved the testing of ballistic missile technology. This provocative act will increase tensions in the region. I deplore the fact that the DPRK has chosen to prioritise this launch over improving the livelihood of its people.&lt;/p&gt;
+
+&lt;p&gt;“We will be summoning the DPRK Ambassador to the UK to the Foreign and Commonwealth Office and the UK will urgently consult partners in the United Nations Security Council on our response to this development. It is essential that the DPRK refrain from further provocative action and take constructive steps towards denuclearisation and lasting peace and stability on the Korean Peninsula.”&lt;/p&gt;
+
+&lt;h3 id="further-information"&gt;Further information&lt;/h3&gt;
+&lt;p&gt;Find us on &lt;a rel="external" href="http://www.twitter.com/foreignoffice" title="Twitter"&gt;Twitter&lt;/a&gt;, &lt;a rel="external" href="http://www.facebook.com/foreignoffice" title="Facebook"&gt;Facebook&lt;/a&gt; &amp;amp; &lt;a rel="external" href="https://plus.google.com/105922144104190309938/posts" title="Google+"&gt;Google+&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:AnnouncementPresenter/50188</id>
+    <published>2012-12-12T00:00:00+00:00</published>
+    <updated>2012-12-12T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/uk-calls-for-an-immediate-return-to-civilian-rule-in-mali"/>
+    <title>UK calls for an immediate return to civilian rule in Mali</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Minister made his comments following the arrest late on 10 December of Malian Prime Minister Diarra in Bamako by armed men on behalf of the military junta and the subsequent forced resignation of the Prime Minister and his Cabinet earlier today. Mr Simmonds said:&lt;/p&gt;
+
+&lt;p&gt;“I am deeply concerned by the latest events in Bamako, and particularly by the intervention of the Malian military junta which has forced the resignation today of Prime Minister Diarra and his Cabinet.&lt;/p&gt;
+
+&lt;p&gt;“The United Kingdom calls for an immediate return to civilian rule in Mali. The rapid appointment of a new government of national unity to take forward the political roadmap towards democratic elections and the reunification of Mali is critical to further progress. These events underline the need for coordinated international action, particularly with the United Nations, the African Union and ECOWAS, to achieve stability in Mali.”&lt;/p&gt;
+
+&lt;h3 id="further-information"&gt;Further information&lt;/h3&gt;
+&lt;p&gt;Find us on &lt;a rel="external" href="http://www.twitter.com/foreignoffice" title="Twitter"&gt;Twitter&lt;/a&gt;, &lt;a rel="external" href="http://www.facebook.com/foreignoffice" title="Facebook"&gt;Facebook&lt;/a&gt; &amp;amp; &lt;a rel="external" href="https://plus.google.com/105922144104190309938/posts" title="Google+"&gt;Google+&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:AnnouncementPresenter/54865</id>
+    <published>2012-12-12T00:00:00+00:00</published>
+    <updated>2012-12-12T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/speeches/government-publishes-afghanistan-progress-report"/>
+    <title>Government publishes Afghanistan progress report </title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;In a written statement to parliament the Foreign Secretary William Hague said:&lt;/p&gt;
+
+&lt;p&gt;I wish to inform the House that the Foreign and Commonwealth Office, together with the Ministry of Defence and the Department for International Development, is today publishing the twenty second progress report on developments in Afghanistan since November 2010.&lt;/p&gt;
+
+&lt;p&gt;On 9 October the UN Security Council adopted resolution 2069 (2012) extending the authorisation of the International Security Assistance Force in Afghanistan (ISAF) by a further year. The resolution provided a 12 month roll-over of the Chapter VII authorisation, with an unqualified “all necessary measures” provision. It also incorporated NATO Chicago Summit commitments to support the training, equipping, financing and capability development of the Afghan National Security Forces (ANSF) up to and beyond 2014.&lt;/p&gt;
+
+&lt;p&gt;The UK and Afghanistan held the first meeting of the Afghanistan-UK Joint Commission chaired by Afghanistan’s Deputy Foreign Minister Jawed Ludin and Baroness Warsi to review implementation of the Enduring Strategic Partnership document signed by President Karzai and the Prime Minister in January.&lt;/p&gt;
+
+&lt;p&gt;On 25 October the International Development Committee (IDC) published its Afghanistan: Progress and Prospects after 2014 report. The Government welcomes this report. The Department for International Development will shortly publish a formal response.&lt;/p&gt;
+
+&lt;p&gt;On 31 October the Afghan Independent Election Commission (IEC) publicly announced that 5 April 2014 would be the date for the next Presidential Election in Afghanistan. The Provincial Council elections, postponed from 2013, will also take place on 5 April. As part of this announcement, the IEC published an ambitious timeline for the full electoral processes. Although the timeline as it stands does not cover the Parliamentary elections due in 2015, it effectively meets the Afghan commitment at the Tokyo Development Conference to produce a timeline by early 2013. An implementation plan is set to follow.&lt;/p&gt;
+
+&lt;p&gt;October typically marks the end of the so called Afghan Summer fighting season. This time is used by insurgents to recuperate and plan. Overall the levels of violence are likely to decline, and in accordance with seasonal norms, we can expect the character of operations to change during the winter.&lt;/p&gt;
+
+&lt;p&gt;Four members of UK Armed Forces lost their lives while deployed on operations in Afghanistan in October. The two separate incidents that caused these deaths were assessed to be the result of insider attacks. We take these attacks and their causes extremely seriously and we continue to work at the highest level to reduce the risk of insider attacks&lt;/p&gt;
+
+&lt;p&gt;The Government of Afghanistan continued to progress plans for the privatisation of the New Kabul Bank. The first in a series of investor road shows took place in October. A road show in Dubai is planned for November. Tenders are being managed by the Afghan Ministry of Finance, Central Bank, and the Cabinet. The process aims to attract high quality investors. The New Kabul Bank is a commercially viable bank, with 550 million USD of deposits and over 100 branches across Afghanistan. As one of the largest banks in Afghanistan, its survival is important for economic development and jobs. The UK is supporting the Afghan Government with the sale of the Bank, thus promoting a transparent and effective process.&lt;br&gt;
+I am placing the report in the Library of the House. It will also be published on the Foreign and Commonwealth Office website.&lt;/p&gt;
+
+&lt;h4 id="further-information"&gt;Further information&lt;/h4&gt;
+
+&lt;p&gt;&lt;a href="https://www.gov.uk/government/publications/afghanistan-progress-reports" title="Afghanistan Progress Reports"&gt;Monthly progress reports&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;British Embassy in Afghanistan &lt;a rel="external" href="http://ukinafghanistan.fco.gov.uk/en/" title="UK in Afghanistan"&gt;website&lt;/a&gt; &lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:AnnouncementPresenter/54872</id>
+    <published>2012-12-12T00:00:00+00:00</published>
+    <updated>2012-12-12T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/speeches/foreign-secretary-remarks-at-the-friends-of-syria-meeting"/>
+    <title>Foreign Secretary remarks at the Friends of Syria meeting </title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Representatives from over 130 countries and international organisations met for the fourth Friends of Syria meeting to support the Syrian National Coalition and the Syrian People. &lt;/p&gt;
+
+&lt;p&gt;Speaking at the meeting the Foreign Secretary William Hague said:&lt;/p&gt;
+
+&lt;p&gt;“I thank the Government of Morocco and H.M. King Mohammed VI.&lt;/p&gt;
+
+&lt;p&gt;“Twenty-two months ago the people of Syria asked for change. Their government responded by pounding cities into rubble, plunging four million people into desperate humanitarian need, and sowing fear and insecurity across the country.&lt;/p&gt;
+
+&lt;p&gt;“As Friends of the Syrian people, we have done much to seek a peaceful end to the conflict. But we remain deeply disappointed by the failure of the international community to put its full weight behind the agreement made in Geneva six months ago.&lt;/p&gt;
+
+&lt;p&gt;“Syria needs a political transition leading to an inclusive new government, with full executive authority.&lt;/p&gt;
+
+&lt;p&gt;“This is the course most likely to achieve stability in the country.&lt;/p&gt;
+
+&lt;p&gt;“But in the United Kingdom we do not rule out any option to save lives. In addition, the Assad regime should not doubt our resolve, or miscalculate how we would react to any use of chemical or biological weapons against the Syrian people.&lt;/p&gt;
+
+&lt;p&gt;“As the Friends of the Syrian people, we have four immediate responsibilities:&lt;/p&gt;
+
+&lt;p&gt;“First, we must increase our political support for and recognition of the Syrian National Coalition. I encourage other nations to recognise them as we have done in the United Kingdom.&lt;/p&gt;
+
+&lt;p&gt;“The people of Syria need to feel the solid ground of a unified political alternative to the Assad regime. The National Coalition has now begun to offer that hope, and it is only right that we give them the recognition they deserve, and the support they need to survive and to prevail.&lt;/p&gt;
+
+&lt;p&gt;“Some countries have resisted the idea of a transition because they have seen no alternative to Assad’s leadership. Well now the world can see that there is an alternative, and I urge all countries including Russia and China to work with us to end the conflict. If they do, they will find us constructive partners, and I commend Special Envoy Brahimi for his efforts in this regard.&lt;/p&gt;
+
+&lt;p&gt;“Second, I appeal to all countries here to give practical support to the Syrian National Coalition.&lt;/p&gt;
+
+&lt;p&gt;“The United Kingdom has given over £7 million of non-lethal support, including communication equipment and human rights training.  We will provide a further £1 million in communication support, and look to expand our assistance, through the leadership of the National Coalition, following the deployment of a UK Stabilisation Response Team to the region.&lt;/p&gt;
+
+&lt;p&gt;“We welcome the new Assistance Coordination Unit established in Cairo, which will be able to help co-ordinate  non-lethal assistance to the Syrian people including to the Local Coordination Committees inside Syria, and we call on all countries here to give it active support.&lt;/p&gt;
+
+&lt;p&gt;“As we increase our support to the Syrian people we must also increase the pressure on Assad and his allies. I call again on all countries to implement sanctions, and to ensure that their territory is not used as a conduit for arms or assistance to the regime.&lt;/p&gt;
+
+&lt;p&gt;“Third, we must ensure the international community is ready to provide rapid assistance to a future government in Syria in order to help a political transition succeed. We need to be ready to react to change on the ground, which could happen suddenly.&lt;/p&gt;
+
+&lt;p&gt;“We look to the National Coalition to develop further detailed plans for achieving and implementing transition working with all Syria’s communities, and to uphold human rights and international law, including humanitarian law.&lt;/p&gt;
+
+&lt;p&gt;“Fourth and finally, we must do more to alleviate Syria’s humanitarian tragedy.&lt;/p&gt;
+
+&lt;p&gt;“The United Kingdom has provided £53.5 million so far in humanitarian aid which is providing 100,000 people with food, blankets and warm clothing, and we have helped 30,000 sick and wounded people by funding hospitals, mobile clinics and training for health workers.&lt;/p&gt;
+
+&lt;p&gt;“Many other countries have given generously too, but it cannot be right that the UN appeal for Syria is still underfunded.  &lt;/p&gt;
+
+&lt;p&gt;“As we gather in this beautiful city we should remember that 50% of all Syria’s refugees are children. The majority are not in school, are living in makeshift shelters in the depths of winter, and many have lost their families. They represent Syria’s future. Their safety, their education, and their ability to return to their home matter to Syria, and to the peace and security of the region. So I urge all countries to do more to help share the burden.&lt;/p&gt;
+
+&lt;p&gt;“As part of our new initiative on preventing sexual violence in conflict, the UK has deployed experts to the region to provide training on documentation of sexual violence which we hope will support future prosecutions and care for survivors.&lt;/p&gt;
+
+&lt;p&gt;“We do not know how long the conflict in Syria will last. But uniting the international community around these efforts, helping the National Coalition to win the confidence of the Syrian people, planning for a peaceful future for the country and protecting the victims of the violence on whom that future will rest, is surely the right way to seek to end the conflict and stop the appalling loss of life.”&lt;/p&gt;
+
+&lt;figure class="image embedded"&gt;&lt;div class="img"&gt;&lt;img alt="Friends of Syria meeting" src="https://assets.digital.cabinet-office.gov.uk/government/uploads/system/uploads/image_data/file/4802/friends-of-Syria-final.jpg"&gt;&lt;/div&gt;
+&lt;/figure&gt;&lt;h4 id="further-information"&gt;Further information&lt;/h4&gt;
+
+&lt;p&gt;More information on the &lt;a rel="external" href="http://www.unog.ch/unog/website/news_media.nsf/%28httpNewsByYear_en%29/18F70DBC923963B1C1257A2D0060696B?OpenDocument" title="Final communiqué of the Action Group for Syria"&gt;Geneva Declaration&lt;/a&gt; &lt;/p&gt;
+
+&lt;p&gt;More information on the &lt;a href="https://www.gov.uk/government/news/foreign-secretary-discusses-preventing-sexual-violence-in-conflict-initiative" title="Preventing Sexual Violence in Conflict Initiative"&gt;Preventing Sexual Violence Initiative&lt;/a&gt; &lt;/p&gt;
+
+&lt;p&gt;Find the Foreign Office on &lt;a rel="external" href="https://twitter.com/foreignoffice" title="@foreignoffice"&gt;Twitter&lt;/a&gt;, &lt;a rel="external" href="http://www.facebook.com/foreignoffice" title="FCO facebook"&gt;Facebook&lt;/a&gt; &amp;amp; &lt;a rel="external" href="https://plus.google.com/s/foreign%20office" title="FCO Google+"&gt;Google+&lt;/a&gt;  &lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:AnnouncementPresenter/54862</id>
+    <published>2012-12-11T17:02:00+00:00</published>
+    <updated>2012-12-11T17:02:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/foreign-secretary-to-attend-friends-of-syria-meeting-in-marrakesh"/>
+    <title>Foreign Secretary to attend Friends of Syria meeting in Marrakesh</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;On 12 December the Friends of Syria will meet to support the Syrian National Coalition and the Syrian People &lt;/p&gt;
+
+&lt;p&gt;During the 22 month conflict over 40,000 people have been killed and 2 million people have been displaced inside Syria. There are daily reports of more deaths and atrocities.&lt;/p&gt;
+
+&lt;p&gt;This is the fourth meeting of the Friends of Syria and follows the formation of the Syrian National Coalition in Doha on 11 November.&lt;/p&gt;
+
+&lt;p&gt;The UK’s objective in Marrakesh is to provide support to the Syrian National Coalition as they establish themselves as a credible alternative to the Assad regime. We believe that the Friends of Syria should:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;
+    &lt;p&gt;Send a clear message to Assad that his position and regime are no longer sustainable by giving more political support to the National Coalition;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Provide practical support to the Syrian National Coalition in pursuit of a political transition, while also helping local councils in Syria provide essential services;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Re-establish a sense of urgency around planning for a political transition and Syria’s long term future, reinforcing the message that Assad cannot be part of any transition and offering reassurance that fears of a post-Assad vacuum are unfounded.  &lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Increase efforts to alleviate the horrendous humanitarian suffering as winter approaches. Syria’s neighbours have shown extraordinary generosity, but UN appeals remain critically underfunded. The UK has committed £53.5 million in humanitarian assistance and we are asking for others to contribute to the fund.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Syria desperately needs a political transition based on the Geneva Declaration. The UK continues to believe that Russia and China should recognise that President Assad can never recover legitimacy in the eyes of the Syrian people and that they should back UN Arab League Special Envoy Brahimi in bringing about a diplomatic solution to the crisis. We therefore welcome his on-going discussions with the US and Russia.&lt;/p&gt;
+
+&lt;p&gt;Until this happens, the UK will continue to do all we can to avoid a drawn-out military conflict by;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;
+    &lt;p&gt;backing the Syrian National Coalition in pursuit of a genuine transition process and supporting them in preparing for political transition;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;increasing pressure on the Syrian regime through the effective implementation and enforcement of sanctions to stop funds used to finance the killing;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;ensuring we have maximum flexibility to act in the future following the decision to limit the rollover of the EU arms embargo to three months.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;&lt;h4 id="further-information"&gt;Further information&lt;/h4&gt;
+
+&lt;p&gt;Follow the UK special representative to the Syrian Opposition &lt;a rel="external" href="https://twitter.com/JonWilksFCO" title="@JonWilksFCO"&gt;@JonWilksFCO&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Follow the Foreign Secretary &lt;a rel="external" href="https://twitter.com/WilliamJHague" title="@WilliamJHague"&gt;@WilliamJHague&lt;/a&gt; and the Foreign Office &lt;a rel="external" href="https://twitter.com/foreignoffice" title="@foreignoffice"&gt;@foreignoffice&lt;/a&gt; &lt;/p&gt;
+
+&lt;p&gt;More information on the &lt;a rel="external" href="http://www.unog.ch/unog/website/news_media.nsf/%28httpNewsByYear_en%29/18F70DBC923963B1C1257A2D0060696B?OpenDocument" title="Final communiqué of the Action Group for Syria"&gt;Geneva Declaration&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Conclusions from the &lt;a rel="external" href="http://www.fco.gov.uk/en/news/latest-news/?view=PressS&amp;amp;id=785484582" title="Friends of Syrian People: Chairman's conclusions"&gt;Friends of Syria meeting in July&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:AnnouncementPresenter/50198</id>
+    <published>2012-12-11T17:00:00+00:00</published>
+    <updated>2012-12-11T17:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/piracy-ransoms-task-force-publishes-recommendations"/>
+    <title>Piracy Ransoms Task Force publishes recommendations</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Task Force was established by the Prime Minister, David Cameron, after the London Conference on Somalia in February 2012.&lt;/p&gt;
+
+&lt;p&gt;The 14-nation Task Force, brought together policy makers from some of the world’s largest Flag States (countries where vessels are registered), nations whose seafarers are most commonly at risk, and those countries at the forefront of the military response to piracy.  &lt;/p&gt;
+
+&lt;p&gt;The Task Force made four recommendations in its final report to the Contact Group on Piracy off the Coast of Somalia in New York:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Develop a new strategic partnership between Flag States, the private sector and law enforcement agencies that brings together those tackling piracy and those subjected to it in a united effort to break the piracy business model;&lt;/li&gt;
+  &lt;li&gt;Develop a more co-ordinated approach to information-sharing to provide evidence to pursue and prosecute all involved in piracy;&lt;/li&gt;
+  &lt;li&gt;Strengthen co-ordination between Flag States, the private sector and military responders to prepare for potential hostage situations; and&lt;/li&gt;
+  &lt;li&gt;Encourage implementation of anti-piracy measures, including greater compliance with Best Management Practice.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Prime Minister, David Cameron, said:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Today’s conclusions from the Piracy Ransoms Task Force are a welcome step in the right direction. International action, led by the UK, is starting to beat back in the global fight against piracy. The dramatic reduction in pirate activity in the past year shows how important collective action is, and the recommendations of the Task Force should make it harder for pirates to receive, and to profit from, ransom payments. But seafarers of all nations remain at risk, and we must continue to work to break the piracy business model, with the ultimate ambition of bringing an end to ransom payments.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Foreign Office Minister, Alistair Burt, said:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The UK Government firmly supports and endorses the conclusions of the Piracy Ransoms Task Force. Only through the international community working together to break the pirates’ business model will we reach a position whereby pirates are no longer able to receive or profit from ransom payments. The Government will continue to work as a leading member of the Contact Group and with industry in taking forward the implementation of the task force’s recommendations.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h4 id="further-information"&gt;Further information&lt;/h4&gt;
+
+&lt;p&gt;Find the Foreign Office on &lt;a rel="external" href="https://twitter.com/foreignoffice" title="@foreignoffice"&gt;Twitter&lt;/a&gt;, &lt;a rel="external" href="http://www.facebook.com/foreignoffice" title="FCO facebook"&gt;Facebook&lt;/a&gt; &amp;amp; &lt;a rel="external" href="https://plus.google.com/s/foreign%20office" title="FCO Google+"&gt;Google+&lt;/a&gt; &lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:AnnouncementPresenter/54859</id>
+    <published>2012-12-11T17:00:00+00:00</published>
+    <updated>2012-12-11T17:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/foreign-secretary-met-the-king-of-jordan"/>
+    <title>Foreign Secretary met the King of Jordan </title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;After the meeting, the Foreign Secretary said:&lt;/p&gt;
+
+&lt;p&gt;“Jordan and the UK are longstanding friends and allies and it was a pleasure to welcome King Abdullah to London today.&lt;/p&gt;
+
+&lt;p&gt;“Ahead of the meeting of the Friends of Syria in Morocco tomorrow we discussed the growing crisis in that country. I paid tribute to the generosity of the Jordanian people in hosting the significant and growing number of Syrian refugees. And we welcomed the formation of the Syrian National Coalition and its efforts to provide a credible and inclusive alternative to the Assad regime.&lt;/p&gt;
+
+&lt;p&gt;“We agreed on the need for a new initiative to achieve peace between the Israelis and Palestinians, led by the US and supported by the wider international community. This is needed as a matter of urgency, before the window closes on the two state solution.&lt;/p&gt;
+
+&lt;p&gt;“King Abdullah described his efforts to institute reforms in Jordan that would bring about greater political participation, transparency and economic opportunity. I welcomed these and emphasised the importance of delivering an inclusive political process led by King Abdullah that provides substantive democratic reforms. The UK stands ready to support this work, in particular through the Arab Partnership. We discussed the difficult economic situation in Jordan and what the UK and EU can do to help Jordan carry through difficult but necessary economic reforms.&lt;/p&gt;
+
+&lt;p&gt;“I also expressed appreciation for the assistance provided by the Jordanian Government in our efforts to return Abu Qatada.”  &lt;/p&gt;
+
+&lt;h4 id="further-information"&gt;Further information&lt;/h4&gt;
+
+&lt;p&gt;Find the Foreign Office on &lt;a rel="external" href="https://twitter.com/foreignoffice" title="@foreignoffice"&gt;Twitter&lt;/a&gt;, &lt;a rel="external" href="http://www.facebook.com/foreignoffice" title="FCO facebook"&gt;Facebook&lt;/a&gt; &amp;amp; &lt;a rel="external" href="https://plus.google.com/s/foreign%20office" title="FCO Google+"&gt;Google+&lt;/a&gt;  &lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:AnnouncementPresenter/50138</id>
+    <published>2012-12-11T15:07:39+00:00</published>
+    <updated>2012-12-11T15:07:39+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/fco-minister-shows-continued-uk-support-to-libyan-people-on-trip-to-region"/>
+    <title>FCO Minister shows continued UK support to Libyan people on trip to region</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Whilst in Libya the Minister will offer continued support to the Libyan people as they build a new future after Qadhafi.&lt;/p&gt;
+
+&lt;p&gt;Speaking from Tripoli, Mr Burt said:          &lt;/p&gt;
+
+&lt;p&gt;“I am delighted to be back in Libya for the third time in twelve months. Since my last visit in April, Libya has held incredibly successful elections, convened a new General National Congress and formed a new Government. I congratulate President Magarief, Prime Minister Zeidan and the Libyan people on these significant achievements.&lt;/p&gt;
+
+&lt;p&gt;“The new Government faces many challenges: improving security across Libya, particularly taking steps to ensure that armed groups are reintegrated into society, respect government decisions and act within the law; strengthening the justice system to ensure the transfer of all detainees to the custody of the state, where they must be held in accordance with international standards; delivering improved public services to its people; and reforming and revitalising the economy to provide better jobs and opportunities for ordinary Libyans.&lt;/p&gt;
+
+&lt;p&gt;“These challenges are significant but the British Government will continue to support Libya throughout its transition. I am meeting the Deputy Prime Ministers and Ministers for Justice and Finance to discuss how the UK can build on its current work to offer even greater assistance to the Libyan Government. I am also meeting a delegation of politicians, business leaders and civil society activists from Benghazi to reiterate our ongoing commitment to the East of Libya.&lt;/p&gt;
+
+&lt;p&gt;“During these meetings I will emphasise the importance of securing justice for the victims of the Qadhafi regime in the UK, and I look forward to the continued cooperation of the Libyan authorities in resolving these outstanding legacy cases.”&lt;/p&gt;
+
+&lt;h3 id="further-information"&gt;Further information&lt;/h3&gt;
+
+&lt;p&gt;Follow the Minister &lt;a rel="external" href="https://twitter.com/alistairburtfco" title="@AlistairBurtFCO"&gt;@AlistairBurtFCO&lt;/a&gt; on Twitter&lt;/p&gt;
+
+&lt;p&gt;&lt;a rel="external" href="http://ukinlibya.fco.gov.uk/en/" title="UK in Libya"&gt;British Embassy in Libya website&lt;/a&gt; &lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:AnnouncementPresenter/50142</id>
+    <published>2012-12-11T15:05:39+00:00</published>
+    <updated>2012-12-11T15:05:39+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/foreign-office-website-moves-to-gov-uk"/>
+    <title>Foreign Office website moves to GOV.UK </title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;From this Thursday the Foreign Office is publishing its news, speeches, policy, publications and corporate information on GOV.UK – the single home for all government services and information.&lt;/p&gt;
+
+&lt;p&gt;Our travel advice and consular information, and our Embassy and High Commission websites will follow by March 2013.&lt;/p&gt;
+
+&lt;p&gt;Our new web address is www.gov.uk/fco. &lt;/p&gt;
+
+&lt;h3 id="topics-and-policies"&gt;Topics and policies&lt;/h3&gt;
+
+&lt;p&gt;FCO information will be in the “Inside Government” section on GOV.UK, alongside information from other government departments.&lt;/p&gt;
+
+&lt;p&gt;An advantage of being on gov.uk is that you can now see information from multiple government departments grouped by topics or polices. The FCO’s policies are listed under foreign affairs and Europe but we’ve also contributed policies to topics like ‘Establishing stability in Afghanistan’.&lt;/p&gt;
+
+&lt;p&gt;For each policy you can see a list of all the related announcements, consultations and publications in one list, called ‘activity’. This makes it easy for you to track what is happening on the policies that interest you, for example all government activity that relates to, ‘Working for peace and long-term stability in the Middle East and North Africa’.&lt;/p&gt;
+
+&lt;h3 id="news-and-speeches"&gt;News and Speeches&lt;/h3&gt;
+
+&lt;p&gt;Our news and speeches will appear under Announcements. You can search by department or by topic. You can subscribe to email alerts or set up your own RSS feed. Our embassies and high commissions will continue to publish their own local news on their websites.&lt;/p&gt;
+
+&lt;h3 id="digital-strategy"&gt;Digital Strategy&lt;/h3&gt;
+
+&lt;p&gt;Our move to GOV.UK is only part of what we’re doing to improve our presence online. Later this month we will also be publishing the FCO’s Digital Strategy setting out how we plan to use digital in our service delivery and broader diplomatic work. &lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:AnnouncementPresenter/48346</id>
+    <published>2012-12-11T10:00:00+00:00</published>
+    <updated>2012-12-11T10:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/podcast-marks-international-human-rights-day--2"/>
+    <title>Podcast marks International Human Rights Day</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The fight against torture has been a priority for the British Government for many years. We make clear time and time again that torture is an abhorrent, unjustifiable violation of human rights and human dignity.&lt;/p&gt;
+
+&lt;p&gt;This audio download is introduced by the Louise de Sousa, head of the Foreign Office Human Rights and Democracy Department.&lt;/p&gt;
+
+&lt;p&gt;During the podcast, we hear from Kolbassia Haoussou, a survivor of torture and Coordinator of &lt;a rel="external" href="http://www.freedomfromtorture.org/feature/survivors_speak_out/5993" title="Survivor Speak OUT.com"&gt;Survivor Speak OUT.com&lt;/a&gt;, Alex Wilks Senior Programme Lawyer at the &lt;a rel="external" href="http://www.ibanet.org/IBAHRI.aspx" title="International Bar Association Human Rights Institute"&gt;International Bar Association Human Rights Institute&lt;/a&gt;, and Nick Hardwick CBE, who has been Her Majesty’s Chief Inspector of Prisons since 2010.&lt;/p&gt;
+
+&lt;p&gt;The podcast is available to download via &lt;a rel="external" href="http://www.fco.gov.uk/en/news/social-media/podcasts" title="FCO website"&gt;our website&lt;/a&gt; or &lt;a rel="external" href="https://itunes.apple.com/gb/podcast/human-rights/id462779772" title="iTunes"&gt;iTunes&lt;/a&gt;. &lt;/p&gt;
+
+&lt;h3 id="further-information"&gt;Further information&lt;/h3&gt;
+
+&lt;p&gt;&lt;a rel="external" href="http://www.fco.gov.uk/en/news/social-media/podcasts/" title="human rights podcasts"&gt;Listen or subscribe to human rights podcasts&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a rel="external" href="http://blogs.fco.gov.uk/ameliabate/2012/12/10/16-days-with-a-difference/" title="human rights and communications blog"&gt;Read our human rights and communications blog&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Follow &lt;a rel="external" href="http://www.twitter.com/FCOHumanRights" title="@FCOHumanRights"&gt;@FCOHumanRights&lt;/a&gt; on twitter&lt;/p&gt;
+
+&lt;p&gt;&lt;a rel="external" href="http://itunes.apple.com/us/artist/foreign-commonwealth-office/id392006693" title="FCO on iTunes"&gt;FCO on iTunes&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a rel="external" href="http://fcohrdreport.readandcomment.com/" title="FCO Human Rights and Democracy Report"&gt;FCO Human Rights and Democracy Report: read and comment&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Find us on &lt;a rel="external" href="https://twitter.com/foreignoffice" title="@foreignoffice on Twitter"&gt;Twitter&lt;/a&gt;, &lt;a rel="external" href="https://www.facebook.com/foreignoffice" title="Foreign &amp;amp; Commonwealth Office on Facebook"&gt;Facebook&lt;/a&gt; and &lt;a rel="external" href="https://plus.google.com/+foreignoffice/posts" title="Foreign &amp;amp; Commonwealth Office on Google+"&gt;Google+&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:AnnouncementPresenter/54856</id>
+    <published>2012-12-11T00:00:00+00:00</published>
+    <updated>2012-12-11T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/speeches/championing-britain-through-commercial-and-economic-diplomacy"/>
+    <title>Championing Britain through commercial and economic diplomacy </title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Today, more than at any moment in modern history, British diplomacy must play a central role in supporting jobs and growth in our economy. We need commercial diplomacy and economic expertise to run through the bloodstream of the Foreign Office, and it really is starting to do so. Western economies are facing significant economic and fiscal challenges. There is simply no option to generate growth through increased government expenditure. &lt;/p&gt;
+
+&lt;p&gt;That means that as well as using diplomacy to tackle threats in the world and to advance human rights and freedom, all the things the Foreign Office does so well, we also need to build up our influence where it counts, in new trading hubs and high-growth economies of the 21st century as well as our vitally important markets in Europe and the United States. You are on the front line helping us to do this, making the contacts, speaking to business leaders and building the influence that will enable British companies to remain competitive in a global market. We need your local knowledge and understanding to spot both opportunities and barriers to trade.&lt;/p&gt;
+
+&lt;p&gt;These were important changes to make and I want to thank you personally for responding so readily and energetically in making them happen, which is something that I can see and feel wherever I go. British business also appreciates it, as the results of a recent survey clearly show. But that survey also highlighted that we must sustain this effort over the long-term.&lt;/p&gt;
+
+&lt;p&gt;But we need to build on these successes, increase our ambition, and reach even further; because if we don’t then others will in our place.&lt;/p&gt;
+
+&lt;p&gt;But it is you who is making clear that Britain is open for business and has an abundance to offer. I have been immensely impressed by your efforts so far. The skills that you display in getting under the skins of your local cultures, building relationships with business, lobbying officials, and reporting economic and political developments, are the skills that will allow us to give British business the competitive edge that it needs. Whether it be championing the UK’s contribution to the green economy, or influencing trade negotiations in Brussels, it is you, our network, which is connecting opportunities abroad to jobs at home. I want you to know that the work you are doing is vitally important. It is important to us in the FCO. It is important to the Prime Minister. And it is important to the whole country. So, I will champion you and the work you do and I want you to champion Britain. &lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:AnnouncementPresenter/50172</id>
+    <published>2012-12-11T00:00:00+00:00</published>
+    <updated>2012-12-11T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/speeches/britain-and-the-philippines-partners-for-prosperity"/>
+    <title>Britain and the Philippines: Partners for Prosperity</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;CHECK AGAINST DELIVERY.&lt;/p&gt;
+
+&lt;p&gt;I am delighted to be here today, and especially pleased that we are in the company of Foreign Secretary del Rosario. I would like to thank the Makati Business Club, the Management Association of the Philippines and the British Chamber of Commerce for inviting me to speak.&lt;/p&gt;
+
+&lt;p&gt;It is a real thrill to be in the Philippines, on my first official visit to this beautiful country. It is almost 30 years since I was last here, in a personal capacity.&lt;/p&gt;
+
+&lt;p&gt;I have a busy two days ahead and have just come from a very productive meeting with President Aquino, during which we discussed how Britain and the Philippines can work together to tackle today’s global challenges and support each other’s prosperity.&lt;/p&gt;
+
+&lt;p&gt;It is on the latter that I will focus today. I will talk first about the United Kingdom’s role in today’s changing world, before setting out why I think Britain and the Philippines can be powerful partners for prosperity.&lt;/p&gt;
+
+&lt;p&gt;The United Kingdom, like the Philippines, is an island nation – a characteristic which, unsurprisingly, has shaped how we view ourselves and the world around us. Britain is a relatively small place. We had enough but not bountiful natural resources. Combine that with a predisposition towards adventure and discovery, and it led us to build truly global networks and trade links. One thinks of names like Drake, Raleigh and Shackleton.&lt;/p&gt;
+
+&lt;p&gt;No market was too far or too difficult; no peak too high. Indeed, the globalisation that people tend to view today as a very modern phenomenon has roots that go much deeper. The world in which the Victorians lived was far more integrated in some ways, with Britain sitting at the heart of a global economic system, including a de facto single currency – the Gold Standard.  &lt;/p&gt;
+
+&lt;p&gt;All of this brought us to South-East Asia. Our ties to countries like Malaysia and Singapore are perhaps best known and are still extremely strong. However, Britain’s links to the Philippines stretch back just as far. The first British Consul arrived as early as 1844. And I am reminded of one of your most famous national heroes, José Rizal, who lived in London’s Primrose Hill in the 1880s. Visitors today will find a blue plaque on the house in which he lived.&lt;/p&gt;
+
+&lt;p&gt;Since then, and particularly in the last couple of decades, I have heard some say that Britain lost sight of the importance of South-East Asia; that our attention was diverted elsewhere.  &lt;/p&gt;
+
+&lt;p&gt;It is certainly true that relationships changed. But while it may have felt to some as if Britain had lost focus, we never went away. The commercial figures alone bear this out. UK trade and investment with South-East Asia today is still far higher than it is with China, despite the exceptional levels of growth and development that China has seen over the past 15 years. That said, the Foreign and Commonwealth Office has under the current Government significantly strengthened this focus, placing an even greater emphasis on our engagement with South-East Asia.&lt;/p&gt;
+
+&lt;p&gt;We have rebalanced our foreign policy and diplomatic network. On a practical level, that means opening new missions, sending more diplomats to places like the Philippines. We are creating around 50 new jobs across the region. And I am sure many of you will have taken note of last month’s visit to Laos by the Foreign Secretary, William Hague, to reopen the British Embassy there. The UK is now represented in all ten ASEAN countries.&lt;/p&gt;
+
+&lt;p&gt;We are taking this new approach because we see the emergence and re-emergence of economies across the world – not least the growth and development in Asia – as an opportunity. I believe there is much that we can achieve if we work together.  &lt;/p&gt;
+
+&lt;p&gt;This shift in focus is a key element of my Government’s efforts to deliver sustainable economic growth.&lt;/p&gt;
+
+&lt;p&gt;We need to move away from an unbalanced growth model, reliant on government spending, to one based on expanding trade, encouraging inward investment, increasing the share of our economy that comes from exports, and manufacturing the goods that today’s consumers want to buy.&lt;/p&gt;
+
+&lt;p&gt;If we are to meet our ambitious target to double exports to £1 trillion a year by 2020, we need to grow our exports by eight percent a year. Some of these will go to traditional markets like the European Union, but we are looking increasingly to fast-growing economies in places like South-East Asia.&lt;/p&gt;
+
+&lt;p&gt;Within Europe, the UK is leading the efforts to open up the EU market to trade with other nations. Growth may be slow in Europe – the forecasts suggest we can expect only 0.4 per cent next year – but it is still the biggest marketplace in the world, doing £11 trillion of business every year and encompassing 500 million consumers and 21 million companies.&lt;/p&gt;
+
+&lt;p&gt;Driving our prosperity agenda forward won’t be easy – the global economic environment clearly remains a challenge. But it is a challenge I am confident Britain can respond to.&lt;/p&gt;
+
+&lt;p&gt;The work we are doing within the Foreign and Commonwealth Office to embed commercial thinking should help. We are now training our diplomats in commercial as well as foreign affairs, and deploying new commercial staff across our diplomatic network. Our Ambassadors increasingly undertake secondments to companies before taking up their postings to gain firsthand commercial experience.&lt;/p&gt;
+
+&lt;p&gt;And despite the often bleak commentary from elements of the media, the British economy has real strengths. Just think of the London 2012 Olympic and Paralympic Games held earlier this year. The Games followed hot on the heels of Her Majesty The Queen’s Diamond Jubilee, and showcased to the world Britain’s diversity, openness, creativity and dynamism – politically, culturally and economically.&lt;/p&gt;
+
+&lt;p&gt;The UK is renowned for its excellence in financial services, the creative industries and, of course, in education. But as anyone who visited the British Business Embassy at Lancaster House in London during the Olympics would have noticed, we also remain one of the world’s most important manufacturers.&lt;/p&gt;
+
+&lt;p&gt;Britain’s car industry, currently undergoing a renaissance, is one such example. We are home to seven global car manufacturers.  Ford, General Motors, Jaguar Land Rover and Mini you will know, but we also have big investments from Honda, Toyota and Nissan too, who produced over 480,000 vehicles in Britain last year. In total, more than one million vehicles and two million engines are produced in the UK each year, and over three-quarters of the vehicles we manufacture are exported. And enthusiasts of faster cars will know that eight Formula One teams have their headquarters in Britain.&lt;/p&gt;
+
+&lt;p&gt;I believe the UK’s expertise across this and many other sectors makes us a highly compatible partner for the Philippines. I would point, for instance, to finance, where our ICT specialists are helping the Philippine Stock Exchange expand their optic fibre network across the ASEAN region; and to healthcare, where our extensive experience in Public-Private Partnerships is helping the Philippines in their plans to develop a centre of excellence in orthopaedic medicine, modelled on the Royal National Orthopaedic Hospital in London.&lt;/p&gt;
+
+&lt;p&gt;But our sectoral expertise is certainly not the only reason. What makes Britain a particularly attractive partner is, I think, the openness of our economy, our transparency and adherence to the rule of law and our firm belief in the rules-based system.&lt;/p&gt;
+
+&lt;p&gt;At this time of economic uncertainty, some are inevitably tempted to close ranks and protect domestic industries and markets. But protectionism is a short-term measure with long-term consequences, and in Britain we are taking the opposite approach. History has taught us that more trade, more competitiveness and making the UK open for business and open for investment are what will steer us towards sustainable economic growth.  &lt;/p&gt;
+
+&lt;p&gt;The Philippines is heading down the same path, and I would highlight four areas that point towards this.&lt;/p&gt;
+
+&lt;p&gt;The first is corruption, which remains a scourge on the global economy. It adds as much as 10 percent to the total cost of doing business globally, and up to 25 percent of the cost of procurement contracts in developing countries. Those who are hardest hit are often the poorest and most vulnerable in society. That is why we are proud to have introduced the Bribery Act in the UK to address this all-too-common problem.&lt;/p&gt;
+
+&lt;p&gt;President Aquino’s anti-corruption efforts and business-friendly policies such as the Integrity Initiative and the decision to join the Extractive Industries Transparency Initiative are exactly the right thing to be doing – particularly now, during this period of global economic recovery.&lt;/p&gt;
+
+&lt;p&gt;The second area is building the infrastructure needed to provide the foundations for long-term prosperity. Modern economies need roads, digital and cellular communications, public transport, schools and hospitals. Without them, we cannot deliver the skilled and trained workforce required to compete in the 21st Century.&lt;/p&gt;
+
+&lt;p&gt;The third area is ensuring peace and stability. This is perhaps the most crucial platform for prosperity. I am proud that the UK played a small but important role in the framework agreement in Mindanao as a member of the international contact group.  And I would like to take this opportunity to repeat our deepest condolences for the terrible devastation caused there by Typhoon Pablo. Successful implementation of the framework agreement will unlock the economic potential of that area. We are also working closely with Secretary del Rosario and his team to bring about a peaceful resolution of the claims in the South China Sea.&lt;/p&gt;
+
+&lt;p&gt;Connected to international peace and stability is the fourth area: shunning protectionism and embracing free trade.&lt;/p&gt;
+
+&lt;p&gt;The Philippines’ future will not be shaped by growth in the archipelago alone. Whether it is through its overseas workers, the foreign investment that can create jobs, or its export markets abroad, it is clear that future prosperity here will be based on partnerships. This agenda is moving in the right direction.  But I think we can go further and faster. Agreeing a free trade agreement between the EU and the Philippines would be a valuable step.&lt;/p&gt;
+
+&lt;p&gt;I believe that this policy prescription is good for your economy. But it is also vital for your broader development. International trade and investment is not just the best route to development; history tells us it is the only one.&lt;/p&gt;
+
+&lt;p&gt;I am speaking to you here today because I think – in fact I am certain – that the relationship between Britain and the Philippines can play an important part in promoting our mutual prosperity. We have much in common, and economies that rely on a strong and open global economy. We are democracies, with a strong attachment to human rights and the rule of law.&lt;/p&gt;
+
+&lt;p&gt;Earlier today Secretary del Rosario marked this growth by signing a joint plan of action that will take our relationship to a new level. This is a genuinely exciting proposition. Our partnership will help to shape the business environment – working together on issues like anti-corruption, competitiveness, economic reform, a low-carbon economy and building awareness about the opportunities for trade and investment.&lt;/p&gt;
+
+&lt;p&gt;Trade between our countries currently stands at around £1.1 billion. That is impressive, but is I think a fraction of what it can be, particularly when you consider just how fast your country is growing. In this year’s third quarter, growth in the Philippines reached 7.1 percent.&lt;/p&gt;
+
+&lt;p&gt;The joint action plan should help us to realise this potential. But we as governments can only do so much. Ultimately, it is businesses that will drive growth. We need your help to generate interest, build awareness and deliver projects.&lt;/p&gt;
+
+&lt;p&gt;I am therefore pleased that we have with us today some excellent examples of successful companies operating here –like Standard Chartered Bank, Marks and Spencer and Debenhams.&lt;/p&gt;
+
+&lt;p&gt;On visas – not always an easy subject – I know that we have a fast, fair and efficient service here, and that we are opening new services to facilitate quick and easy travel for business via Saturday openings, a premium service and a new visa application centre in Cebu.&lt;/p&gt;
+
+&lt;p&gt;One sign that we are indeed open to business is the large number of Filipino overseas workers that are employed in the UK, who are making a valuable contribution to our economy but also sending back remittances to family in the Philippines. Their contribution cuts across many sectors, but is particularly evident in health and care work.&lt;/p&gt;
+
+&lt;p&gt;I expect that our new visa services will lead to many more visitors travelling between our countries.&lt;/p&gt;
+
+&lt;p&gt;To help bring this about, I will sign a new air services agreement later today with Secretary Abaya, and meet Ramon Ang and Philippines Airlines, who hope to start direct flights to London soon. And, incidentally, their passengers will probably be arriving on new aircraft made partly in Britain, following the announcement by Philippines Airlines in August of a $7 billion order from Airbus for over 50 new aircraft.&lt;/p&gt;
+
+&lt;p&gt;We also want to share our policy experience in infrastructure development, energy and Public-Private Partnerships so you can learn from our experiences, our successes and, occasionally, our mistakes. When President Aquino visited London in the summer, he went to St Pancras Station, a successful example of how well Public-Private Partnerships can work.&lt;/p&gt;
+
+&lt;p&gt;I hope what you have heard today is a clear indication of the UK’s role in today’s global economy, of what is happening here in the Philippines and, most importantly, a compelling vision for how Britain and the Philippines can be partners for prosperity, looking to the future with confidence and optimism.&lt;/p&gt;
+
+&lt;p&gt;My visit is just one of what I am confident will be many high-level visits in the coming months. I know that my colleague, the Foreign Secretary William Hague, is keen to visit in the near future.&lt;/p&gt;
+
+&lt;p&gt;I look forward to the rest of my programme, and – with your agreement – I will not leave it another 30 years before I return.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:AnnouncementPresenter/48079</id>
+    <published>2012-12-10T19:12:19+00:00</published>
+    <updated>2012-12-10T19:12:19+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/minister-for-africa-hails-ghana-as-a-beacon-of-democracy-following-successful-elections"/>
+    <title>Minister for Africa hails Ghana as a ‘beacon of democracy’ following successful elections</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Speaking after the National Electoral Committee announced the Presidential election results, Mark Simmonds said:&lt;/p&gt;
+
+&lt;p&gt;“I congratulate John Dramani Mahama on his election as President of Ghana and on elections that were widely recognised to be free, fair and transparent. Ghana has now seen six successful elections since military government ended in 1992 and it is rightly seen as a beacon of democracy in the region. I commend the Ghanaian people, political parties and civil society on the peaceful environment in which the elections were held.&lt;/p&gt;
+
+&lt;p&gt;“The relationship between the UK and Ghana is strong and vibrant. It is rooted in our long-standing economic, political and cultural connections, our shared values, and the deep links between our peoples.&lt;/p&gt;
+
+&lt;p&gt;“I look forward to continuing a constructive and productive working relationship with President Mahama and his government, one that continues to bring our countries closer together.”&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:AnnouncementPresenter/18772</id>
+    <published>2012-12-10T15:41:45+00:00</published>
+    <updated>2012-12-10T15:41:45+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/minister-for-the-overseas-territories-and-overseas-territory-leaders-issue-joint-communique-following-joint-ministerial-council"/>
+    <title>Minister for the Overseas Territories and Overseas Territory leaders issue joint communiqué following Joint Ministerial Council</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Joint Ministerial Council, chaired by Minister Simmonds and attended by Premiers, Chief Ministers and other elected representatives from Britain’s Overseas Territories, closed today with the agreement of a joint communiqué which sets out priority issues and a comprehensive action plan for joint work in the coming year.&lt;/p&gt;
+
+&lt;p&gt;The end of the second day of the Council also saw the Prime Minister welcome Territory leaders to 10 Downing Street: the first time that Territory leaders have had a collective meeting with a Prime Minister.  &lt;/p&gt;
+
+&lt;p&gt;As the Prime Minister said in his foreword in the White Paper:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The United Kingdom’s 14 Overseas Territories are an integral part of Britain’s life and history. This Government is ambitious for our Territories as we are ambitious for the United Kingdom.  We want to see our communities flourish in partnership, with strong and sustainable local economies. We see an important opportunity to set world standards in our stewardship of the extraordinary natural environments we have inherited.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Mark Simmonds, Minister for the Overseas Territories, said:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The White Paper sets out a very positive vision for the Overseas Territories. This first meeting of the Joint Ministerial Council has helped us identify an ambitious list of priority areas for action, such as encouraging economic growth; protecting the environment and making government work better. We will work closely with the Territories in the coming year to achieve what we have together set out to do.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Many of my Ministerial colleagues from across Government took part in the Council this week, demonstrating that the UK Government as a whole is committed to supporting the Territories.&lt;/p&gt;
+&lt;/blockquote&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:AnnouncementPresenter/17781</id>
+    <published>2012-12-10T15:41:14+00:00</published>
+    <updated>2012-12-10T15:41:14+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/mark-simmonds-visits-africa-to-support-efforts-to-end-crisis-in-goma"/>
+    <title>Mark Simmonds visits Africa to support efforts to end crisis in Goma</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Mark Simmonds will first visit Uganda and then travel on to Rwanda and the Democratic Republic of Congo. During his trip, he will meet regional leaders to discuss the political work underway to resolve the crisis and the humanitarian situation. He will urge leaders to use any influence they have to bring an end to the crisis and limit its impact on civilian populations. &lt;/p&gt;
+
+&lt;p&gt;Speaking ahead of the visit, Mark Simmonds said: &lt;/p&gt;
+
+&lt;p&gt;“I am travelling to the region at short notice to show that the UK is focused on the serious and urgent crisis unfolding in Goma and to show my support to the people of the DRC. I am deeply concerned by the current crisis and I urge the M23 militia to stop their offensive and for all external support to the M23 militia to stop.  &lt;/p&gt;
+
+&lt;p&gt;“On my visit I will be meeting with government ministers from across the region and will ask them all to find, first and foremost, a resolution that will swiftly end the fighting and produce a sustainable long term plan that will ensure peace and stability for the region.”  &lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:AnnouncementPresenter/44286</id>
+    <published>2012-12-10T15:33:00+00:00</published>
+    <updated>2012-12-10T15:33:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/skiiers-avoid-injury-and-expensive-medical-bills"/>
+    <title>Skiers: avoid injury and expensive medical bills</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;We are launching a campaign aimed at Britons visiting European winter sports resorts this winter to explain the dangers of attempting slopes beyond your level of ability, or going off piste without the correct safety equipment.&lt;/p&gt;
+
+&lt;p&gt;If you’re heading off a ski or snowboarding holiday this winter, please don’t put yourself at risk by trying to keep up with more experienced members of your party. The number of reported accidents on French slopes in 2012 was high, including seven deaths out of 12 serious incidents*. &lt;/p&gt;
+
+&lt;h2 id="research"&gt;Research&lt;/h2&gt;
+
+&lt;p&gt;According to new research from the FCO**, of those British nationals that go on winter sports holidays the majority class themselves as beginner or intermediate. Only 1% of respondents classed themselves as expert. &lt;/p&gt;
+
+&lt;p&gt;Nearly two thirds (65%) of winter sports travellers admitted they would ski or snowboard on slopes above their experience in order to stay with a group. More than half (53%) also said they would follow a group of mates off piste.&lt;/p&gt;
+
+&lt;p&gt;Seventy per cent admitted they do not always wear a helmet when skiing or snowboarding, and one in five (21%) said they wouldn’t wear a helmet if others in their group weren’t.&lt;/p&gt;
+
+&lt;p&gt;Simon Taylor, Consul, based in Marseille, said: &lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Last year we saw a high number of British nationals end up in hospital with serious injuries. Sadly this included a number of deaths. Many of these accidents can be prevented by taking simple precautionary steps.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Don’t make the mistake of assuming you’ll be fine if you’re with more experienced skiers or snowboarders. It is significant that a large number of cases we have dealt with have involved off piste skiing.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Those lucky enough to survive an accident and end up in hospital can face months of recovery, so it is important to think carefully beforehand about the very real risks out there.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id="insurance"&gt;Insurance&lt;/h2&gt;
+
+&lt;p&gt;Over a third (38%) of winter sports holidaymakers admitted that they don’t always take out travel insurance. One in three (31%) also said they don’t always check their policy to ensure they are covered for winter sports activities. &lt;/p&gt;
+
+&lt;p&gt;Simon Taylor continued:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Many people will be unaware that failing to wear a helmet or skiing off piste can invalidate some insurance policies, so if something does go wrong you could end up with hefty medical bills. In many cases family members then have to help with funds which can put a huge strain on families.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The FCO cannot pay for hospital treatment or for medical repatriation back to the UK, which is why it is so important to check your insurance covers you for everything you want to do.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id="top-tips-to-stay-safe-on-the-slopes"&gt;Top tips to stay safe on the slopes&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Take out insurance – and check what it covers. It might not cover off piste skiing unless you are with a qualified guide.&lt;/li&gt;
+  &lt;li&gt;Have a check-up before you ski - one of the major causes of hospitalisation and death on the slopes is heart attacks.&lt;/li&gt;
+  &lt;li&gt;Don’t drink and ski. Alcohol can affect you more quickly at high altitudes and dangerously limits your awareness of risk and cold.&lt;/li&gt;
+  &lt;li&gt;Most skiing injuries are caused by collisions with other skiers – watch your speed and distance.&lt;/li&gt;
+  &lt;li&gt;Don’t attempt slopes you’re not experienced or fit enough to tackle.&lt;/li&gt;
+  &lt;li&gt;If you want to go off piste, go with a qualified guide.&lt;/li&gt;
+  &lt;li&gt;If going off piste carry a shovel, a probe and a transceiver in case of an avalanche. Also remember that you need proper training on how to use a transceiver.&lt;/li&gt;
+  &lt;li&gt;If you are going out on a glacier, you must wear a harness. If you fall into a crevasse, this will help the rescue team get you out.&lt;/li&gt;
+  &lt;li&gt;Make sure someone knows where you’re going and tell them of any changes to your plans.&lt;/li&gt;
+  &lt;li&gt;Only go off piste skiing or climbing with someone you have met previously and can trust. You need to know his/her capabilities, what you’ll be doing and where.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;For further tips and advice on preparing for travel abroad, visit &lt;a rel="external" href="https://www.fco.gov.uk/travel" title="FCO Travel Advice"&gt;www.fco.gov.uk/travel&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;*Figures taken from FCO 2011/12 consular assistance data &lt;/p&gt;
+
+&lt;p&gt;**Survey conducted by ICM. Total sample size was 2,023 UK adults aged 18 and over. Fieldwork was undertaken in November 2012. The figures have been weighted and are representative of all UK adults aged 18 and over.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:AnnouncementPresenter/48336</id>
+    <published>2012-12-10T00:00:00+00:00</published>
+    <updated>2012-12-10T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/foreign-office-minister-baroness-warsi-marks-human-rights-day"/>
+    <title>Foreign Office Minister Baroness Warsi marks Human Rights Day</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Today, Foreign Office Minister Baroness Warsi, will mark International Human Rights Day by hosting the London launch of the United Kingdom’s campaign for election to the United Nations Human Rights Council.&lt;/p&gt;
+
+&lt;p&gt;The UK is standing for election to the UN’s Human Rights Council next year to ensure that the UK is at the forefront of efforts to drive forward the human rights agenda. Calling to account countries that commit the most serious and widespread violations against their own citizens, ensuring the Human Rights Council is at the forefront of the international response to international crises and fighting hard against those who seek to weaken or undermine international human rights mechanisms.&lt;/p&gt;
+
+&lt;p&gt;The UK’s campaign will focus on four key human rights priorities: protecting those most vulnerable in societies, working towards human dignity for all, responding proactively to evolving challenges, and keeping human rights at the heart of multilateral priorities.&lt;/p&gt;
+
+&lt;p&gt;Marking Human Rights Day Baroness Warsi said:&lt;/p&gt;
+
+&lt;p&gt;“International Human Rights Day is a stark reminder that there are still too many around the world who are not able to enjoy fundamental freedoms. It is important to focus on those who are fighting for their rights and the rights of their loved ones, those who are prepared to put themselves in danger for a better future for others and to remember those who have left a legacy to inspire us all.  &lt;/p&gt;
+
+&lt;p&gt;“We must keep those voices at the heart of our efforts to promote and protect human rights around the world.&lt;/p&gt;
+
+&lt;p&gt;“I am proud of the UK’s commitment to protecting those most vulnerable in our societies. Across the world, too many people are discriminated against on the basis of their race, religion, sexual orientation, disability, or gender-identity. The reasons for discrimination are many, and we must tackle the causes and the acts themselves.”&lt;/p&gt;
+
+&lt;p&gt;Speaking later today at the reception for the London launch of the UK’s campaign for election to the United Nations Human Rights Council, Baroness Warsi will say:&lt;/p&gt;
+
+&lt;p&gt;“We believe in a Human Rights Council that can make its voice heard, even when the issues are unpopular or difficult to hear. A Council that is not bogged down by politics, but where the rights of the individual are paramount. A body where states are held accountable for their actions against their citizens, where peers review peers.&lt;/p&gt;
+
+&lt;p&gt;“I believe strongly that we have an important role to play, which is why the UK is standing for election. We bring experience, commitment and ambition. We want to play a part in strengthening the Council, as we have since its inception in 2006. In that time the Human Rights Council has grown in status and effectiveness.&lt;/p&gt;
+
+&lt;p&gt;“Through the Council, we have called to account countries who commit the most heinous and systematic violations against their citizens. We have actively supported the Human Rights Council’s international response to the crisis in Syria. We have also run thematic initiatives including through a resolution which used the Olympics to promote awareness on human rights through sport and established a commitment with the future hosts of the Games to do the same.”&lt;/p&gt;
+
+&lt;h3 id="further-information"&gt;Further Information&lt;/h3&gt;
+
+&lt;p&gt;&lt;a rel="external" href="http://www.fco.gov.uk/en/news/latest-news/?view=News&amp;amp;id=842675682" title="Follow @FCOHumanRights "&gt;Follow @FCOHumanRights &lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Find us on &lt;a rel="external" href="http://www.twitter.com/foreignoffice" title="Twitter "&gt;Twitter &lt;/a&gt;, &lt;a rel="external" href="http://www.facebook.com/foreignoffice" title="Facebook "&gt;Facebook &lt;/a&gt; and  &lt;a rel="external" href="https://plus.google.com/105922144104190309938/posts" title="Google+ "&gt;Google+ &lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+</feed>

@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-GB" xmlns="http://www.w3.org/2005/Atom">
+  <id>tag:www.gov.uk,2005:/government/publications</id>
+  <link rel="alternate" type="text/html" href="https://www.gov.uk/government"/>
+  <link rel="self" type="application/atom+xml" href="https://www.gov.uk/government/publications.atom?departments%5B%5D=ministry-of-defence&amp;publication_type=foi-releases"/>
+  <title>Inside government</title>
+  <subtitle>Recent publications</subtitle>
+  <author>
+    <name>HM Government</name>
+  </author>
+  <updated>2012-11-13T00:00:00+00:00</updated>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/54950</id>
+    <published>2012-11-13T00:00:00+00:00</published>
+    <updated>2012-11-13T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/hms-antrim-op-corporate-report-of-proceedings"/>
+    <title>HMS ANTRIM Op CORPORATE Report of Proceedings</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;HMS ANTRIM Op CORPORATE Report of Proceedings covering the period from 1 April to 1 July 1982.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/28481</id>
+    <published>2012-07-01T00:00:00+01:00</published>
+    <updated>2012-07-01T00:00:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/ministry-of-defence-data-protection-act-subject-access-request-form"/>
+    <title>Ministry of Defence Data Protection Act Subject Access Request Form</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Ministry of Defence Data Protection Act (DPA) Subject Access Request (SAR) Form (Form 1694)&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/28496</id>
+    <published>2012-05-03T00:00:00+01:00</published>
+    <updated>2012-05-03T00:00:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/tri-service-cdt-results-2011"/>
+    <title>Tri-Service CDT Results 2011</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Response to FOI-17-04-2012-103406-001&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/28497</id>
+    <published>2012-04-03T00:00:00+01:00</published>
+    <updated>2012-04-03T00:00:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/response-to-foi-15-03-2012-153919-005"/>
+    <title>Response to FOI-15-03-2012-153919-005</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Tri-Service Recruitment Statistics 2000-2012&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/54927</id>
+    <published>2012-03-30T00:00:00+01:00</published>
+    <updated>2012-03-30T00:00:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/service-inquiry-investigating-the-accident-involving-unmanned-air-system-uas-hermes-450-zk515-on-02-oct-11"/>
+    <title>Service Inquiry investigating the accident involving Unmanned Air System (UAS) Hermes 450, ZK515 on 02 Oct 11</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;SI report into the accident involving Unmanned Air System (UAS) Hermes 450, ZK515, operated by 57 Bty, 32 Regt RA, at Bastion Airfield on 02 Oct 11.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/28446</id>
+    <published>2012-03-02T00:00:00+00:00</published>
+    <updated>2012-03-02T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/foi-requests-for-information-received-by-mod-feb-2012"/>
+    <title>FOI Requests for information received by MOD Feb 2012</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;FOI Requests for information received by MOD 06 Feb - 02 Mar 2012&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/28498</id>
+    <published>2012-02-21T00:00:00+00:00</published>
+    <updated>2012-02-21T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/foi-09-01-2012-135612-016-racism-statistics"/>
+    <title>FOI-09-01-2012-135612-016-Racism Statistics</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Response to FOI-09-01-2012-135612-016-Racism Statistics&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/28447</id>
+    <published>2012-02-03T00:00:00+00:00</published>
+    <updated>2012-02-03T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/foi-requests-for-information-received-by-mod-january-2012"/>
+    <title>FOI Requests for information received by MOD January 2012</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;FOI Requests for information received by MOD 03 Jan - 03 Feb 2012&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/28448</id>
+    <published>2012-02-03T00:00:00+00:00</published>
+    <updated>2012-02-03T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/foi-requests-for-information-received-by-mod-dec-2011"/>
+    <title>FOI Requests for information received by MOD Dec 2011</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;FOI Requests for information received by MOD 05 - 30 Dec 2011&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/28500</id>
+    <published>2011-12-12T00:00:00+00:00</published>
+    <updated>2011-12-12T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/compulsory-drug-testing-results-2009-2011"/>
+    <title>Compulsory Drug Testing Results 2009-2011</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;FOI 16-11-2011-123047-011 CDT Results 2009-2011&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/28449</id>
+    <published>2011-12-02T00:00:00+00:00</published>
+    <updated>2011-12-02T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/foi-requests-for-information-received-by-mod-nov-2011"/>
+    <title>FOI Requests for information received by MOD Nov 2011</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;FOI Requests for information received by MOD 31 Oct - 02 Dec 2011&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/28450</id>
+    <published>2011-10-28T00:00:00+01:00</published>
+    <updated>2011-10-28T00:00:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/foi-requests-for-information-received-by-mod-oct-2011"/>
+    <title>FOI Requests for information received by MOD Oct 2011</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;FOI Requests for information received by MOD 03  - 28 October 2011&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/28451</id>
+    <published>2011-09-30T00:00:00+01:00</published>
+    <updated>2011-09-30T00:00:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/foi-requests-for-information-received-by-mod-sep-2011"/>
+    <title>FOI Requests for information received by MOD Sep 2011</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;FOI Requests for information received by MOD 05 - 30 September 2011&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/28494</id>
+    <published>2011-09-12T00:00:00+01:00</published>
+    <updated>2011-09-12T00:00:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/babcock-terms-of-business-agreement"/>
+    <title>Babcock Terms of Business Agreement</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Terms of Business Agreement between The Secretary of State for Defence, Babcock International Group Plc, Devonport Royal Dockyard Limited, Babcock Marine (Clyde) Limited and Babcock Marine (Rosyth) Limited&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/28454</id>
+    <published>2011-09-02T00:00:00+01:00</published>
+    <updated>2011-09-02T00:00:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/foi-requests-for-information-received-by-mod-aug-2011"/>
+    <title>FOI Requests for information received by MOD Aug 2011</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;FOI Requests for Information received by MOD 01 Aug - 02 Sept 2011&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/28503</id>
+    <published>2011-08-15T00:00:00+01:00</published>
+    <updated>2011-08-15T00:00:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/steroid-supplement-misuse"/>
+    <title>Steroid &amp; Supplement Misuse</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Response to FOI 03-06-2011-144137-005&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/28463</id>
+    <published>2011-08-05T00:00:00+01:00</published>
+    <updated>2011-08-05T00:00:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/northern-ireland-strategic-directive-known-as-the-tiger-in-the-jungle-paper"/>
+    <title>Northern Ireland Strategic Directive known as The Tiger in the Jungle paper</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Response to FOI request regarding the Northern Ireland Strategic Directive known as “The Tiger in the Jungle” paper&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/28464</id>
+    <published>2011-08-03T00:00:00+01:00</published>
+    <updated>2011-08-03T00:00:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/corporate-information-access-team-organisation-chart"/>
+    <title>Corporate Information-Access team organisation chart</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Response to FOI request regarding Corporate Information-Access team organisation chart&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/28455</id>
+    <published>2011-07-29T00:00:00+01:00</published>
+    <updated>2011-07-29T00:00:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/foi-requests-for-information-received-by-mod-july-2011"/>
+    <title>FOI Requests for information received by MOD July 2011</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;FOI Requests for Information received by MOD 04 - 29 July 2011&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/28506</id>
+    <published>2011-07-19T00:00:00+01:00</published>
+    <updated>2011-07-19T00:00:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/response-to-foi-06-06-2011-151146-007"/>
+    <title>Response to FOI 06-06-2011-151146-007</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Request for Court Martial Statistics 2000-2011&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+</feed>

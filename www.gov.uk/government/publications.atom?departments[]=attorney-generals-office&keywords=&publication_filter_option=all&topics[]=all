@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-GB" xmlns="http://www.w3.org/2005/Atom">
+  <id>tag:www.gov.uk,2005:/government/publications</id>
+  <link rel="alternate" type="text/html" href="https://www.gov.uk/government"/>
+  <link rel="self" type="application/atom+xml" href="https://www.gov.uk/government/publications.atom?departments%5B%5D=attorney-generals-office&amp;keywords=&amp;publication_filter_option=all&amp;topics%5B%5D=all"/>
+  <title>Inside government</title>
+  <subtitle>Recent publications</subtitle>
+  <author>
+    <name>HM Government</name>
+  </author>
+  <updated>2012-11-30T00:00:00+00:00</updated>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/17472</id>
+    <published>2012-11-30T00:00:00+00:00</published>
+    <updated>2012-11-30T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/ago-frequently-asked-questions"/>
+    <title>AGO: frequently asked questions </title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;h3 id="i-have-a-legal-problem-can-you-help"&gt;I have a legal problem, can you help?&lt;/h3&gt;
+
+&lt;p&gt;The Attorney and Solicitor General (Law Officers) provide legal advice to Government and Government departments and cannot advise individual members of the public. To help find legal advice and more information on crime and justice, please visit
+&lt;a href="https://www.gov.uk/community-legal-advice"&gt;GOV.UK&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id="why-cant-i-speak-to-the-attorney-or-a-lawyer"&gt;Why can’t I speak to the Attorney or a lawyer?&lt;/h3&gt;
+
+&lt;p&gt;We can’t give legal advice to members of the public. If you do feel that you need to contact us about a matter which we can deal with you can contact us at correspondence.unit@attorneygeneral.gsi.gov.uk&lt;/p&gt;
+
+&lt;h3 id="can-you-tell-me-what-advice-the-attorney-gave-on-a-particular-subject"&gt;Can you tell me what advice the Attorney gave on a particular subject?&lt;/h3&gt;
+
+&lt;p&gt;No. By convention the Law Officer’s advice or the fact of whether or not they have advised on a particular issue is not disclosed. The reasons for this are explained in the &lt;a rel="external" href="http://www.cabinetoffice.gov.uk/resource-library/ministerial-code"&gt;Ministerial Code&lt;/a&gt;. There is also an exemption in the &lt;a rel="external" href="http://www.legislation.gov.uk/ukpga/2000/36/notes/contents"&gt;Freedom of Information Act 2000&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id="how-does-the-ago-fit-in-with-other-criminal-justice-organisationsis-the-ago-part-of-the-home-office-or-ministry-of-justice"&gt;How does the AGO fit in with other criminal justice organisations/is the AGO part of the Home Office or Ministry of Justice?&lt;/h3&gt;
+
+&lt;p&gt;The Attorney General’s Office is an independent department which supports the Attorney General who superintends the work of the Directors of the Crown Prosecution Service (CPS) and the Serious Fraud Office (SFO). The AGO works closely with other government departments like the Home Office and the &lt;a rel="external" href="http://www.justice.gov.uk"&gt;Ministry of Justice&lt;/a&gt; in the development of criminal justice policy and legislation.&lt;/p&gt;
+
+&lt;h3 id="are-you-the-official-solicitor"&gt;Are you the Official Solicitor?&lt;/h3&gt;
+
+&lt;p&gt;No. Contact details can be found on the &lt;a rel="external" href="http://www.justice.gov.uk"&gt;Ministry of Justice website&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id="can-you-overrule-the-director-of-public-prosecutions-or-director-of-the-serious-fraud-offices-decisions"&gt;Can you overrule the Director of Public Prosecutions or Director of the Serious Fraud Office’s decisions?&lt;/h3&gt;
+
+&lt;p&gt;Although both Law Officers are often consulted on key decisions made by the Directors, under the protocol which sets out their relationship with the Directors, the Law Officers will not intervene unless on grounds of national security.&lt;/p&gt;
+
+&lt;h3 id="do-you-investigate-can-you-intervene-in-a-police-investigation"&gt;Do you investigate? Can you intervene in a police investigation?&lt;/h3&gt;
+
+&lt;p&gt;No we have no investigative function. If you are not happy with a police force you can complain to them or the &lt;a rel="external" href="http://www.ipcc.gov.uk/en/Pages/default.aspx"&gt;Independent Police Complaints Commission&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id="do-you-run-the-courts"&gt;Do you run the courts?&lt;/h3&gt;
+
+&lt;p&gt;HM Courts and Tribunals Service is an agency of the Ministry of Justice.&lt;/p&gt;
+
+&lt;h3 id="i-am-unhappy-with-the-crown-prosecution-service-can-you-do-something-about-it"&gt;I am unhappy with the Crown Prosecution Service, can you do something about it?&lt;/h3&gt;
+
+&lt;p&gt;You should first go through the CPS complaints procedure. If that is exhausted and you feel your complaint was not handled properly you can contact us. However, we can only look at the way the complaint was handled, not the complaint itself.&lt;/p&gt;
+
+&lt;h3 id="do-you-deal-with-scams-and-fraudulent-activity"&gt;Do you deal with scams and fraudulent activity?&lt;/h3&gt;
+
+&lt;p&gt;No, and the AGO will never contact any member of the public with unsolicited offers or demands for money. The &lt;a rel="external" href="http://www.homeoffice.gov.uk/agencies-public-bodies/nfa"&gt;National Fraud Authority&lt;/a&gt; publishes advice on how to spot scams and frauds and how to report them. You can also contact the police.&lt;/p&gt;
+
+&lt;h3 id="i-am-unhappy-with-my-solicitor-can-you-investigate-them"&gt;I am unhappy with my Solicitor, can you investigate them?&lt;/h3&gt;
+
+&lt;p&gt;The &lt;a rel="external" href="http://www.legalombudsman.org.uk"&gt;Legal Ombudsman&lt;/a&gt; handles complaints about solicitors.&lt;/p&gt;
+
+&lt;h3 id="i-am-unhappy-with-a-sentence-i-think-is-too-low-what-can-i-do"&gt;I am unhappy with a sentence I think is too low, what can I do?&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href="https://www.gov.uk/complain-about-low-crown-court-sentence"&gt;How to complain about a low Crown Court sentence&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/55173</id>
+    <published>2012-11-30T00:00:00+00:00</published>
+    <updated>2012-11-30T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/ministerial-gifts-given-and-received-august-to-september-2010"/>
+    <title>Ministerial gifts given and received: August to September 2010</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Attorney General’s Office (AGO) ministers must publish details of gifts they give or receive over £140.&lt;/p&gt;
+
+&lt;p&gt;The entry for this quarter is a nil return.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/55175</id>
+    <published>2012-11-30T00:00:00+00:00</published>
+    <updated>2012-11-30T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/ministerial-hospitality-13-may-to-31-july-2010"/>
+    <title>Ministerial hospitality: 13 May to 31 July 2010</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Attorney General’s Office (AGO) details of hospitality received by ministers. &lt;/p&gt;
+
+&lt;p&gt;Hospitality does not normally include attendance at:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;functions hosted by HM Government&lt;/li&gt;
+  &lt;li&gt;diplomatic functions in the UK or abroad, hosted by overseas governments&lt;/li&gt;
+  &lt;li&gt;minor refreshments at meetings, receptions, conferences, and seminars&lt;/li&gt;
+  &lt;li&gt;offers of hospitality which were declined&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;The entry for this quarter is a nil return.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/17345</id>
+    <published>2012-11-30T00:00:00+00:00</published>
+    <updated>2012-11-30T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/ministerial-overseas-travel-13-may-to-31-july-2010"/>
+    <title>Ministerial overseas travel: 13 May to 31 July 2010</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Attorney General’s Office (AGO) ministers must publish details of overseas travel that’s part of their official duties. &lt;/p&gt;
+
+&lt;p&gt;The entry for this quarter is a nil return.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/17346</id>
+    <published>2012-11-30T00:00:00+00:00</published>
+    <updated>2012-11-30T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/ministerial-meetings-13-may-to-31-july-2010"/>
+    <title>Ministerial meetings: 13 May to 31 July 2010  </title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Attorney General’s Office (AGO) details of ministers’ meetings with external organisations (including meetings with newspaper and media owners, editors and senior executives).&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/17348</id>
+    <published>2012-11-30T00:00:00+00:00</published>
+    <updated>2012-11-30T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/ministerial-gifts-given-and-received-13-may-to-31-july-2010"/>
+    <title>Ministerial gifts given and received: 13 May to 31 July 2010</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Attorney General’s Office (AGO)’s ministers must publish details of gifts they give or receive over £140. &lt;/p&gt;
+
+&lt;p&gt;The entry for this quarter is a nil return.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/55179</id>
+    <published>2012-11-29T00:00:00+00:00</published>
+    <updated>2012-11-29T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/ministerial-hospitality-august-to-september-2010"/>
+    <title>Ministerial hospitality: August to September 2010</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Attorney General’s Office (AGO) details of hospitality received by ministers. &lt;/p&gt;
+
+&lt;p&gt;Hospitality does not normally include attendance at:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;functions hosted by HM Government&lt;/li&gt;
+  &lt;li&gt;diplomatic functions in the UK or abroad, hosted by overseas governments&lt;/li&gt;
+  &lt;li&gt;minor refreshments at meetings, receptions, conferences, and seminars&lt;/li&gt;
+  &lt;li&gt;offers of hospitality which were declined&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;The entry for this quarter is a nil return.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/17305</id>
+    <published>2012-11-29T00:00:00+00:00</published>
+    <updated>2012-11-29T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/ministerial-meetings-august-to-september-2010"/>
+    <title>Ministerial meetings: August to September 2010  </title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Attorney General’s Office (AGO) details of ministers’ meetings with external organisations (including meetings with newspaper and media owners, editors and senior executives).&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/17302</id>
+    <published>2012-11-29T00:00:00+00:00</published>
+    <updated>2012-11-29T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/ministerial-overseas-travel-august-to-september-2010"/>
+    <title>Ministerial overseas travel: August to September 2010</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Attorney General’s Office (AGO) ministers must publish details of overseas travel that’s part of their official duties.&lt;/p&gt;
+
+&lt;p&gt;The entry for this quarter is a nil return.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/17261</id>
+    <published>2012-11-29T00:00:00+00:00</published>
+    <updated>2012-11-29T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/ministerial-overseas-travel-october-to-december-2010"/>
+    <title>Ministerial overseas travel: October to December 2010</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Attorney General’s Office (AGO) ministers must publish details of overseas travel that’s part of their official duties.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/17263</id>
+    <published>2012-11-29T00:00:00+00:00</published>
+    <updated>2012-11-29T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/ministerial-gifts-given-and-received-october-to-december-2010"/>
+    <title>Ministerial gifts given and received: October to December 2010</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Attorney General’s Office (AGO) ministers must publish details of gifts they give or receive over £140. &lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/17262</id>
+    <published>2012-11-29T00:00:00+00:00</published>
+    <updated>2012-11-29T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/ministerial-meetings-october-to-december-2010"/>
+    <title>Ministerial meetings: October to December 2010  </title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Attorney General’s Office (AGO) details of ministers’ meetings with external organisations (including meetings with newspaper and media owners, editors and senior executives).&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/17259</id>
+    <published>2012-11-29T00:00:00+00:00</published>
+    <updated>2012-11-29T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/ministerial-hospitality-october-to-december-2010"/>
+    <title>Ministerial hospitality: October to December 2010</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Attorney General’s Office (AGO) details of hospitality received by ministers. &lt;/p&gt;
+
+&lt;p&gt;Hospitality does not normally include attendance at:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;functions hosted by HM Government&lt;/li&gt;
+  &lt;li&gt;diplomatic functions in the UK or abroad, hosted by overseas governments&lt;/li&gt;
+  &lt;li&gt;minor refreshments at meetings, receptions, conferences, and seminars&lt;/li&gt;
+  &lt;li&gt;offers of hospitality which were declined&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/55143</id>
+    <published>2012-11-28T00:00:00+00:00</published>
+    <updated>2012-11-28T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/ministerial-gifts-given-and-received-january-to-march-2011"/>
+    <title>Ministerial gifts given and received: January to March 2011</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Attorney General’s Office (AGO) ministers must publish details of gifts they give or receive over £140.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/17117</id>
+    <published>2012-11-28T00:00:00+00:00</published>
+    <updated>2012-11-28T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/ministerial-hospitality-january-to-march-2012"/>
+    <title>Ministerial hospitality: January to March 2012</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Attorney General’s Office (AGO) details of hospitality received by ministers. &lt;/p&gt;
+
+&lt;p&gt;Hospitality does not normally include attendance at:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;functions hosted by HM Government&lt;/li&gt;
+  &lt;li&gt;diplomatic functions in the UK or abroad, hosted by overseas governments&lt;/li&gt;
+  &lt;li&gt;minor refreshments at meetings, receptions, conferences, and seminars&lt;/li&gt;
+  &lt;li&gt;offers of hospitality which were declined&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/17119</id>
+    <published>2012-11-28T00:00:00+00:00</published>
+    <updated>2012-11-28T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/ministerial-meetings-january-to-march-2012"/>
+    <title>Ministerial meetings: January to March 2012</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Attorney General’s Office (AGO) details of ministers’ meetings with external organisations (including meetings with newspaper and media owners, editors and senior executives).&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/17121</id>
+    <published>2012-11-28T00:00:00+00:00</published>
+    <updated>2012-11-28T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/ministerial-meetings-october-to-december-2011"/>
+    <title>Ministerial meetings: October to December 2011</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Attorney General’s Office (AGO) details of ministers’ meetings with external organisations (including meetings with newspaper and media owners, editors and senior executives).&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/17122</id>
+    <published>2012-11-28T00:00:00+00:00</published>
+    <updated>2012-11-28T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/ministerial-overseas-travel-october-to-december-2011"/>
+    <title>Ministerial overseas travel: October to December 2011</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Attorney General’s Office (AGO) ministers must publish details of overseas travel that’s part of their official duties.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/17123</id>
+    <published>2012-11-28T00:00:00+00:00</published>
+    <updated>2012-11-28T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/ministerial-hospitality-october-to-december-2011"/>
+    <title>Ministerial hospitality: October to December 2011</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Attorney General’s Office (AGO) details of hospitality received by ministers. &lt;/p&gt;
+
+&lt;p&gt;Hospitality does not normally include attendance at:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;functions hosted by HM Government&lt;/li&gt;
+  &lt;li&gt;diplomatic functions in the UK or abroad, hosted by overseas governments&lt;/li&gt;
+  &lt;li&gt;minor refreshments at meetings, receptions, conferences, and seminars&lt;/li&gt;
+  &lt;li&gt;offers of hospitality which were declined&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/17125</id>
+    <published>2012-11-28T00:00:00+00:00</published>
+    <updated>2012-11-28T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/ministerial-overseas-travel-july-to-september-2011"/>
+    <title>Ministerial overseas travel: July to September 2011</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Attorney General’s Office (AGO) ministers must publish details of overseas travel that’s part of their official duties.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+</feed>

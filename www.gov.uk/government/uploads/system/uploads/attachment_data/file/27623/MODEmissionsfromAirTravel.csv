@@ -1,0 +1,61 @@
+MOD Air travel by commercial airline,,,,,,,,,,,,,,,,,,,,,,,,,
+
+2007/08,,,,,,,,,,,,,,,,,,,,,,,,,
+Air Passenger Transport Conversion Factors10,,,,,,,CO2,CH4,N2O,Total Direct GHG,,Total Indirect GHG,,Grand Total GHG,,CO2,CH4,N2O,Total Direct GHG,,Total incl RF Factor,,Total Indirect GHG,,Grand Total GHG
+Method of travel,,Miles (1m = 1.609344km),Passenger kms travelled (pkm),x,km uplift factor 12,x,kg CO2 per pkm 13,kg CO2e per pkm,kg CO2e per pkm,kg CO2e per pkm,,kg CO2e per pkm,,kg CO2e per pkm,,Total kg CO2,Total kg CO2e,Total kg CO2e,Total kg CO2e,,CO2e Tonnage,,Total kg CO2e,,Total kg CO2e
+Flight type14,Cabin class 11,,,,,,,,,,,,,,,,,,,,,,,,
+Domestic14,Average,12002736,19316531.17,x,109%,x,0.17147,0.00013,0.00169,0.17328,,0.03187,,0.20515,,"3,610,304","2,737","35,583","3,648,414",,"3,648",,"671,023",,"4,319,437"
+Short-haul international14,Average,37465662,60295138.35,x,109%,x,0.09700,0.00001,0.00095,0.09797,,0.01803,,0.11600,,"6,375,005",657,"62,436","6,438,755",,"12,234",,"1,184,962",,"7,623,717"
+,Economy class,,0,x,109%,x,0.09245,0.00001,0.00091,0.09336,,0.01718,,0.11054,,0,0,0,0,,0,,0,,0
+,Business class,,0,x,109%,x,0.13867,0.00001,0.00136,0.14004,,0.02577,,0.16581,,0,0,0,0,,,,0,,0
+Long-haul international14,Average,147068209,236683339.7,x,109%,x,0.11319,0.00001,0.00111,0.11431,,0.02104,,0.13535,,"29,201,304","2,580","286,363","29,490,247",,"56,031",,"5,428,001",,"34,918,248"
+,Economy class,,,x,109%,x,0.08263,0.00000,0.00081,0.08345,,0.01536,,0.09881,,,,,,,,,,,
+,Premium economy class,,,x,109%,x,0.13221,0.00001,0.00130,0.13352,,0.02457,,0.15809,,,,,,,,,,,
+,Business class,,,x,109%,x,0.23963,0.00001,0.00236,0.24200,,0.04454,,0.28654,,,,,,,,,,,
+,First class,,,x,109%,x,0.33052,0.00002,0.00325,0.33380,,0.06143,,0.39523,,,,,,,,,,,
+Total,,196536607,,,,,,,,,,,,,,"39,186,613","5,974","384,382","39,577,416",,"71,914",,"7,283,987",,"46,861,403"
+
+
+2008/09,,,,,,,,,,,,,,,,,,,,,,,,,
+Air Passenger Transport Conversion Factors10,,,,,,,CO2,CH4,N2O,Total Direct GHG,,Total Indirect GHG,,Grand Total GHG,,CO2,CH4,N2O,Total Direct GHG,,Total incl RF Factor,,Total Indirect GHG,,Grand Total GHG
+Method of travel,,Miles (1m = 1.609344km),Passenger kms travelled (pkm),x,km uplift factor 12,x,kg CO2 per pkm 13,kg CO2e per pkm,kg CO2e per pkm,kg CO2e per pkm,,kg CO2e per pkm,,kg CO2e per pkm,,Total kg CO2,Total kg CO2e,Total kg CO2e,Total kg CO2e,,CO2e Tonnage,,Total kg CO2e,,Total kg CO2e
+Flight type14,Cabin class 11,,,,,,,,,,,,,,,,,,,,,,,,
+Domestic14,Average,11435089,18402991.13,x,109%,x,0.17147,0.00013,0.00169,0.17328,,0.03187,,0.20515,,"3,439,561","2,608","33,900","3,475,869",,"3,476",,"639,289",,"4,115,157"
+Short-haul international14,Average,61211356,98510129.09,x,109%,x,0.09700,0.00001,0.00095,0.09797,,0.01803,,0.11600,,"10,415,476","1,074","102,007","10,519,631",,"19,987",,"1,935,990",,"12,455,621"
+,Economy class,,0,x,109%,x,0.09245,0.00001,0.00091,0.09336,,0.01718,,0.11054,,0,0,0,0,,0,,0,,0
+,Business class,,0,x,109%,x,0.13867,0.00001,0.00136,0.14004,,0.02577,,0.16581,,0,0,0,0,,,,0,,0
+Long-haul international14,Average,263679689,424351325.4,x,109%,x,0.11319,0.00001,0.00111,0.11431,,0.02104,,0.13535,,"52,355,236","4,625","513,423","52,873,284",,"100,459",,"9,731,904",,"62,605,188"
+,Economy class,,,x,109%,x,0.08263,0.00000,0.00081,0.08345,,0.01536,,0.09881,,,,,,,,,,,
+,Premium economy class,,,x,109%,x,0.13221,0.00001,0.00130,0.13352,,0.02457,,0.15809,,,,,,,,,,,
+,Business class,,,x,109%,x,0.23963,0.00001,0.00236,0.24200,,0.04454,,0.28654,,,,,,,,,,,
+,First class,,,x,109%,x,0.33052,0.00002,0.00325,0.33380,,0.06143,,0.39523,,,,,,,,,,,
+Total,,336326134,,,,,,,,,,,,,,"66,210,273","8,307","649,330","66,868,783",,"123,922",,"12,307,182",,"79,175,966"
+
+
+2009/10,,,,,,,,,,,,,,,,,,,,,,,,,
+Air Passenger Transport Conversion Factors10,,,,,,,CO2,CH4,N2O,Total Direct GHG,,Total Indirect GHG,,Grand Total GHG,,CO2,CH4,N2O,Total Direct GHG,,Total incl RF Factor,,Total Indirect GHG,,Grand Total GHG
+Method of travel,,Miles (1m = 1.609344km),Passenger kms travelled (pkm),x,km uplift factor 12,x,kg CO2 per pkm 13,kg CO2e per pkm,kg CO2e per pkm,kg CO2e per pkm,,kg CO2e per pkm,,kg CO2e per pkm,,Total kg CO2,Total kg CO2e,Total kg CO2e,Total kg CO2e,,CO2e Tonnage,,Total kg CO2e,,Total kg CO2e
+Flight type14,Cabin class 11,,,,,,,,,,,,,,,,,,,,,,,,
+Domestic14,Average,12408178,19969026.82,x,109%,x,0.17147,0.00013,0.00169,0.17328,,0.03187,,0.20515,,"3,732,257","2,830","36,785","3,771,654",,"3,772",,"693,690",,"4,465,344"
+Short-haul international14,Average,77972756,125484987,x,109%,x,0.09700,0.00001,0.00095,0.09797,,0.01803,,0.11600,,"13,267,528","1,368","129,940","13,400,203",,"25,460",,"2,466,119",,"15,866,322"
+,Economy class,,0,x,109%,x,0.09245,0.00001,0.00091,0.09336,,0.01718,,0.11054,,0,0,0,0,,0,,0,,0
+,Business class,,0,x,109%,x,0.13867,0.00001,0.00136,0.14004,,0.02577,,0.16581,,0,0,0,0,,,,0,,0
+Long-haul international14,Average,232654027,374420362.4,x,109%,x,0.11319,0.00001,0.00111,0.11431,,0.02104,,0.13535,,"46,194,898","4,081","453,011","46,651,991",,"88,639",,"8,586,807",,"55,238,798"
+,Economy class,,,x,109%,x,0.08263,0.00000,0.00081,0.08345,,0.01536,,0.09881,,,,,,,,,,,
+,Premium economy class,,,x,109%,x,0.13221,0.00001,0.00130,0.13352,,0.02457,,0.15809,,,,,,,,,,,
+,Business class,,,x,109%,x,0.23963,0.00001,0.00236,0.24200,,0.04454,,0.28654,,,,,,,,,,,
+,First class,,,x,109%,x,0.33052,0.00002,0.00325,0.33380,,0.06143,,0.39523,,,,,,,,,,,
+Total,,323034961,,,,,,,,,,,,,,"63,194,683","8,279","619,736","63,823,848",,"117,871",,"11,746,616",,"75,570,463"
+
+
+© Crown copyright 2011
+
+The material featured on this website is subject to Crown copyright protection unless otherwise indicated. You may re-use the Crown copyright protected material (not including the Royal Arms and other departmental or agency logos) free of charge in any format. The material must be acknowledged as Crown copyright and you must give the title of the source document/publication.
+
+Where we have identified any third party copyright material you will need to obtain permission from the copyright holders concerned.
+
+The MOD encourages users to establish hypertext links to this site.
+
+"For further information on Crown copyright policy and licensing arrangements, see The National Archives' guidance at:"
+
+http://www.opsi.gov.uk/advice/crown-copyright/index.htm

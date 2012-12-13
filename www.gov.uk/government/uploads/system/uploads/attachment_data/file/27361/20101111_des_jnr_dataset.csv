@@ -1,0 +1,1351 @@
+Parent Department,Organisation,Unit,Reporting SCS post reference,Reporting SCS Post title,Grade,Payscale minimum,Payscale maximum,Generic job title,Number of such posts in FTE
+Ministry of Defence,Defence Equipment & Support,Defence Equipment & Support,34860,Head ISS Commercial  ,B1,,,Commercial Information System Services,2
+,,,,,B2,,,Commercial Information System Services,5
+,,,,,C1,,,Commercial Information System Services,18
+,,,,,C2,,,Commercial Information System Services,7
+,,,,,D,,,Commercial Information System Services,7
+,,,,,E1,,,Commercial Information System Services,7
+Ministry of Defence,Defence Equipment & Support,Defence Equipment & Support,31698,Head ISS Internal Service Provider,B1,,,Information System Services Internal Service Provider,2
+,,,,,B2,,,Information System Services Internal Service Provider,7
+,,,,,C1,,,Information System Services Internal Service Provider,24
+,,,,,C2,,,Information System Services Internal Service Provider,95
+,,,,,D,,,Information System Services Internal Service Provider,179
+,,,,,E1,,,Information System Services Internal Service Provider,185
+,,,,,SZ1,,,Information System Services Internal Service Provider,1
+,,,,,SZ3,,,Information System Services Internal Service Provider,4
+,,,,,SZ4,,,Information System Services Internal Service Provider,3
+,,,,,Commander,,,Information System Services Internal Service Provider,1
+,,,,,Lt Commander,,,Information System Services Internal Service Provider,1
+,,,,,Lieutenant,,,Information System Services Internal Service Provider,1
+,,,,,Sub Lieutenant,,,Information System Services Internal Service Provider,1
+,,,,,Other Rank,,,Information System Services Internal Service Provider,74
+,,,,,Lt Colonel,,,Information System Services Internal Service Provider,1
+,,,,,Major,,,Information System Services Internal Service Provider,3
+,,,,,Captain,,,Information System Services Internal Service Provider,8
+,,,,,Other Rank,,,Information System Services Internal Service Provider,67
+,,,,,Group Captain,,,Information System Services Internal Service Provider,1
+,,,,,Squadron Leader,,,Information System Services Internal Service Provider,3
+,,,,,Flt Lieutenant,,,Information System Services Internal Service Provider,4
+,,,,,Other Rank,,,Information System Services Internal Service Provider,147
+Ministry of Defence,Defence Equipment & Support,Defence Equipment & Support,188627,Head Office of Chief Information Officer,B1,,,Office of Chief Information Officer,2
+,,,,,B2,,,Office of Chief Information Officer,3
+,,,,,C1,,,Office of Chief Information Officer,13
+,,,,,C2,,,Office of Chief Information Officer,15
+,,,,,D,,,Office of Chief Information Officer,2
+Ministry of Defence,Defence Equipment & Support,Defence Equipment & Support,152721,Head ISS Change,B1,,,Information System Services Change,3
+,,,,,B2,,,Information System Services Change,8
+,,,,,C1,,,Information System Services Change,13
+,,,,,C2,,,Information System Services Change,23
+,,,,,D,,,Information System Services Change,16
+,,,,,E1,,,Information System Services Change,19
+,,,,,Other Rank,,,Information System Services Change,1
+,,,,,Colonel,,,Information System Services Change,1
+,,,,,Major,,,Information System Services Change,1
+,,,,,Other Rank,,,Information System Services Change,5
+,,,,,Group Captain,,,Information System Services Change,1
+,,,,,Wing Commander,,,Information System Services Change,2
+,,,,,Flt Lieutenant,,,Information System Services Change,1
+,,,,,Other Rank,,,Information System Services Change,9
+Ministry of Defence,Defence Equipment & Support,Defence Equipment & Support,33011,Head Defence Information Infrastructure,B1,,,Defence Information Infrastructure,7
+,,,,,B2,,,Defence Information Infrastructure,34
+,,,,,C1,,,Defence Information Infrastructure,126
+,,,,,C2,,,Defence Information Infrastructure,188
+,,,,,D,,,Defence Information Infrastructure,38
+,,,,,E1,,,Defence Information Infrastructure,19
+,,,,,Captain,,,Defence Information Infrastructure,2
+,,,,,Commander,,,Defence Information Infrastructure,2
+,,,,,Lt Commander,,,Defence Information Infrastructure,4
+,,,,,Lieutenant,,,Defence Information Infrastructure,1
+,,,,,Sub Lieutenant,,,Defence Information Infrastructure,1
+,,,,,Other Rank,,,Defence Information Infrastructure,8
+,,,,,Colonel,,,Defence Information Infrastructure,1
+,,,,,Lt Colonel,,,Defence Information Infrastructure,4
+,,,,,Major,,,Defence Information Infrastructure,8
+,,,,,Other Rank,,,Defence Information Infrastructure,10
+,,,,,Group Captain,,,Defence Information Infrastructure,1
+,,,,,Wing Commander,,,Defence Information Infrastructure,1
+,,,,,Squadron Leader,,,Defence Information Infrastructure,4
+,,,,,Flt Lieutenant,,,Defence Information Infrastructure,2
+,,,,,Flying Officer,,,Defence Information Infrastructure,2
+,,,,,Other Rank,,,Defence Information Infrastructure,164
+Ministry of Defence,Defence Equipment & Support,Defence Equipment & Support,2497,Head of ISS Networks,B1,,,Information System Services Networks,5
+,,,,,B2,,,Information System Services Networks,17
+,,,,,C1,,,Information System Services Networks,79
+,,,,,C2,,,Information System Services Networks,68
+,,,,,D,,,Information System Services Networks,48
+,,,,,E1,,,Information System Services Networks,38
+,,,,,SZ2,,,Information System Services Networks,6
+,,,,,Captain,,,Information System Services Networks,3
+,,,,,Commander,,,Information System Services Networks,9
+,,,,,Lt Commander,,,Information System Services Networks,20
+,,,,,Lieutenant,,,Information System Services Networks,13
+,,,,,Sub Lieutenant,,,Information System Services Networks,4
+,,,,,Other Rank,,,Information System Services Networks,5
+,,,,,Colonel,,,Information System Services Networks,9
+,,,,,Lt Colonel,,,Information System Services Networks,18
+,,,,,Major,,,Information System Services Networks,6
+,,,,,Captain,,,Information System Services Networks,4
+,,,,,Other Rank,,,Information System Services Networks,6
+,,,,,Group Captain,,,Information System Services Networks,3
+,,,,,Wing Commander,,,Information System Services Networks,14
+,,,,,Squadron Leader,,,Information System Services Networks,6
+,,,,,Flt Lieutenant,,,Information System Services Networks,5
+,,,,,Flying Officer,,,Information System Services Networks,2
+,,,,,Other Rank,,,Information System Services Networks,1
+Ministry of Defence,Defence Equipment & Support,Defence Equipment & Support,5163,Head ISS Programmes,B1,,,Information System Services Programmes,5
+,,,,,B2,,,Information System Services Programmes,15
+,,,,,C1,,,Information System Services Programmes,42
+,,,,,C2,,,Information System Services Programmes,17
+,,,,,D,,,Information System Services Programmes,6
+,,,,,E1,,,Information System Services Programmes,2
+,,,,,Commander,,,Information System Services Programmes,1
+,,,,,Lt Commander,,,Information System Services Programmes,1
+,,,,,Colonel,,,Information System Services Programmes,1
+,,,,,Lt Colonel,,,Information System Services Programmes,1
+,,,,,Major,,,Information System Services Programmes,1
+,,,,,Other Rank,,,Information System Services Programmes,1
+,,,,,Wing Commander,,,Information System Services Programmes,2
+,,,,,Squadron Leader,,,Information System Services Programmes,1
+,,,,,Flt Lieutenant,,,Information System Services Programmes,1
+Ministry of Defence,Defence Equipment & Support,Defence Equipment & Support,4210,Head Bowman And Tactical Communication Information Systems,B1,,,Bowman And Tactical Communication Information Systems,5
+,,,,,B2,,,Bowman And Tactical Communication Information Systems,11
+,,,,,C1,,,Bowman And Tactical Communication Information Systems,37
+,,,,,C2,,,Bowman And Tactical Communication Information Systems,28
+,,,,,D,,,Bowman And Tactical Communication Information Systems,7
+,,,,,E1,,,Bowman And Tactical Communication Information Systems,9
+,,,,,Lieutenant,,,Bowman And Tactical Communication Information Systems,1
+,,,,,Colonel,,,Bowman And Tactical Communication Information Systems,1
+,,,,,Lt Colonel,,,Bowman And Tactical Communication Information Systems,5
+,,,,,Major,,,Bowman And Tactical Communication Information Systems,15
+,,,,,Captain,,,Bowman And Tactical Communication Information Systems,1
+,,,,,Other Rank,,,Bowman And Tactical Communication Information Systems,28
+,,,,,Squadron Leader,,,Bowman And Tactical Communication Information Systems,1
+Ministry of Defence,Defence Equipment & Support,Defence Equipment & Support,33010,Head ISS Service Operations,B1,,,Information System Services Service Operations,1
+,,,,,B2,,,Information System Services Service Operations,5
+,,,,,C1,,,Information System Services Service Operations,33
+,,,,,C2,,,Information System Services Service Operations,44
+,,,,,D,,,Information System Services Service Operations,29
+,,,,,E1,,,Information System Services Service Operations,10
+,,,,,SZ1,,,Information System Services Service Operations,1
+,,,,,SZ2,,,Information System Services Service Operations,1
+,,,,,SZ4,,,Information System Services Service Operations,1
+,,,,,Captain,,,Information System Services Service Operations,1
+,,,,,Commander,,,Information System Services Service Operations,3
+,,,,,Lt Commander,,,Information System Services Service Operations,6
+,,,,,Lieutenant,,,Information System Services Service Operations,8
+,,,,,Sub Lieutenant,,,Information System Services Service Operations,1
+,,,,,Other Rank,,,Information System Services Service Operations,15
+,,,,,Colonel,,,Information System Services Service Operations,2
+,,,,,Lt Colonel,,,Information System Services Service Operations,2
+,,,,,Major,,,Information System Services Service Operations,6
+,,,,,Captain,,,Information System Services Service Operations,5
+,,,,,Other Rank,,,Information System Services Service Operations,16
+,,,,,Wing Commander,,,Information System Services Service Operations,4
+,,,,,Squadron Leader,,,Information System Services Service Operations,11
+,,,,,Flt Lieutenant,,,Information System Services Service Operations,12
+,,,,,Other Rank,,,Information System Services Service Operations,67
+Ministry of Defence,Defence Equipment & Support,Defence Equipment & Support,33013,Head Network Technical Authority,B1,,,Network Technical Authority,2
+,,,,,B2,,,Network Technical Authority,6
+,,,,,C1,,,Network Technical Authority,28
+,,,,,C2,,,Network Technical Authority,8
+,,,,,D,,,Network Technical Authority,2
+,,,,,E1,,,Network Technical Authority,1
+,,,,,Lt Commander,,,Network Technical Authority,3
+,,,,,Colonel,,,Network Technical Authority,2
+,,,,,Lt Colonel,,,Network Technical Authority,2
+,,,,,Major,,,Network Technical Authority,2
+,,,,,Other Rank,,,Network Technical Authority,1
+,,,,,Wing Commander,,,Network Technical Authority,3
+,,,,,Squadron Leader,,,Network Technical Authority,2
+Ministry of Defence,Defence Equipment & Support,Defence Equipment & Support,34282,Head Applications Services Team,B1,,,Applications Services Team,7
+,,,,,B2,,,Applications Services Team,13
+,,,,,C1,,,Applications Services Team,49
+,,,,,C2,,,Applications Services Team,52
+,,,,,D,,,Applications Services Team,20
+,,,,,E1,,,Applications Services Team,8
+,,,,,Commander,,,Applications Services Team,1
+,,,,,Lt Commander,,,Applications Services Team,1
+,,,,,Lieutenant,,,Applications Services Team,1
+,,,,,Other Rank,,,Applications Services Team,1
+,,,,,Major,,,Applications Services Team,2
+,,,,,Captain,,,Applications Services Team,1
+,,,,,Other Rank,,,Applications Services Team,1
+,,,,,Squadron Leader,,,Applications Services Team,2
+Ministry of Defence,Defence Equipment & Support,Defence Equipment & Support,180570,Head of Business (Helicopters),B1,,,Helicopters Combined Support Group,3
+,,,,,B2,,,Helicopters Combined Support Group,6
+,,,,,C1,,,Helicopters Combined Support Group,15
+,,,,,C2,,,Helicopters Combined Support Group,14
+,,,,,D,,,Helicopters Combined Support Group,9
+,,,,,E1,,,Helicopters Combined Support Group,3
+,,,,,Commander,,,Helicopters Combined Support Group,1
+,,,,,Lt Commander,,,Helicopters Combined Support Group,3
+,,,,,Lt Colonel,,,Helicopters Combined Support Group,3
+,,,,,Wing Commander,,,Helicopters Combined Support Group,3
+Ministry of Defence,Defence Equipment & Support,Defence Equipment & Support,173860,Head of Commercial,B1,,,Commercial Helicopters,2
+,,,,,C1,,,Commercial Helicopters,2
+,,,,,D,,,Commercial Helicopters,2
+,,,,,E1,,,Commercial Helicopters,1
+Ministry of Defence,Defence Equipment & Support,Defence Equipment & Support,49490,Head of Helicopters 3,B1,,,Helicopters Delivery Team 3,2
+,,,,,B2,,,Helicopters Delivery Team 3,10
+,,,,,C1,,,Helicopters Delivery Team 3,31
+,,,,,C2,,,Helicopters Delivery Team 3,47
+,,,,,D,,,Helicopters Delivery Team 3,29
+,,,,,E1,,,Helicopters Delivery Team 3,13
+,,,,,Commander,,,Helicopters Delivery Team 3,2
+,,,,,Lt Commander,,,Helicopters Delivery Team 3,4
+,,,,,Lieutenant,,,Helicopters Delivery Team 3,3
+,,,,,Other Rank,,,Helicopters Delivery Team 3,4
+,,,,,Colonel,,,Helicopters Delivery Team 3,1
+,,,,,Lt Colonel,,,Helicopters Delivery Team 3,4
+,,,,,Major,,,Helicopters Delivery Team 3,8
+,,,,,Captain,,,Helicopters Delivery Team 3,1
+,,,,,Other Rank,,,Helicopters Delivery Team 3,23
+,,,,,Group Captain,,,Helicopters Delivery Team 3,1
+,,,,,Wing Commander,,,Helicopters Delivery Team 3,1
+,,,,,Squadron Leader,,,Helicopters Delivery Team 3,1
+,,,,,Flt Lieutenant,,,Helicopters Delivery Team 3,3
+,,,,,Other Rank,,,Helicopters Delivery Team 3,5
+Ministry of Defence,Defence Equipment & Support,Defence Equipment & Support,139595,Head of Helicopters 2            ,B1,,,Helicopters Delivery Team 2  ,4
+,,,,,B2,,,Helicopters Delivery Team 2  ,14
+,,,,,C1,,,Helicopters Delivery Team 2  ,51
+,,,,,C2,,,Helicopters Delivery Team 2  ,54
+,,,,,D,,,Helicopters Delivery Team 2  ,30
+,,,,,E1,,,Helicopters Delivery Team 2  ,31
+,,,,,SZ2,,,Helicopters Delivery Team 3,8
+,,,,,SZ3,,,Helicopters Delivery Team 4,4
+,,,,,Commander,,,Helicopters Delivery Team 2  ,2
+,,,,,Lt Commander,,,Helicopters Delivery Team 2  ,1
+,,,,,Lieutenant,,,Helicopters Delivery Team 2  ,4
+,,,,,Other Rank,,,Helicopters Delivery Team 2  ,1
+,,,,,Colonel,,,Helicopters Delivery Team 2  ,1
+,,,,,Lt Colonel,,,Helicopters Delivery Team 2  ,1
+,,,,,Major,,,Helicopters Delivery Team 2  ,3
+,,,,,Other Rank,,,Helicopters Delivery Team 2  ,10
+,,,,,Group Captain,,,Helicopters Delivery Team 2  ,1
+,,,,,Wing Commander,,,Helicopters Delivery Team 2  ,3
+,,,,,Squadron Leader,,,Helicopters Delivery Team 2  ,14
+,,,,,Flt Lieutenant,,,Helicopters Delivery Team 2  ,5
+,,,,,Other Rank,,,Helicopters Delivery Team 2  ,21
+Ministry of Defence,Defence Equipment & Support,Defence Equipment & Support,51324,Head of Helicopters 1,B1,,,Helicopters Delivery Team 1,3
+,,,,,B2,,,Helicopters Delivery Team 1,18
+,,,,,C1,,,Helicopters Delivery Team 1,59
+,,,,,C2,,,Helicopters Delivery Team 1,74
+,,,,,D,,,Helicopters Delivery Team 1,36
+,,,,,E1,,,Helicopters Delivery Team 1,31
+,,,,,Captain,,,Helicopters Delivery Team 1,1
+,,,,,Commander,,,Helicopters Delivery Team 1,5
+,,,,,Lt Commander,,,Helicopters Delivery Team 1,15
+,,,,,Lieutenant,,,Helicopters Delivery Team 1,12
+,,,,,Other Rank,,,Helicopters Delivery Team 1,18
+,,,,,Major,,,Helicopters Delivery Team 1,1
+,,,,,Captain,,,Helicopters Delivery Team 1,3
+,,,,,Other Rank,,,Helicopters Delivery Team 1,11
+,,,,,Wing Commander,,,Helicopters Delivery Team 1,1
+,,,,,Squadron Leader,,,Helicopters Delivery Team 1,7
+,,,,,Flt Lieutenant,,,Helicopters Delivery Team 1,3
+,,,,,Other Rank,,,Helicopters Delivery Team 1,17
+Ministry of Defence,Defence Equipment & Support,Defence Equipment & Support,51335,Director Combat Air,B1,,,Combat Air Combined Support Group,5
+,,,,,C1,,,Combat Air Combined Support Group,4
+,,,,,C2,,,Combat Air Combined Support Group,2
+,,,,,D,,,Combat Air Combined Support Group,3
+,,,,,E1,,,Combat Air Combined Support Group,4
+,,,,,Wing Commander,,,Combat Air Combined Support Group,2
+,,,,,Squadron Leader,,,Military Assistant,1
+Ministry of Defence,Defence Equipment & Support,Defence Equipment & Support,172154,Head of Commercial Combat Air,B2,,,Commercial Combat Air,1
+,,,,,C1,,,Commercial Combat Air,3
+,,,,,C2,,,Commercial Combat Air,3
+,,,,,D,,,Commercial Combat Air,1
+Ministry of Defence,Defence Equipment & Support,Defence Equipment & Support,153535,Head Combat Air Business Industrial Strategy,B1,,,Combat Air Business Industrial Strategy,3
+,,,,,B2,,,Combat Air Business Industrial Strategy,1
+,,,,,C1,,,Combat Air Business Industrial Strategy,9
+,,,,,C2,,,Combat Air Business Industrial Strategy,2
+,,,,,D,,,Combat Air Business Industrial Strategy,1
+,,,,,E1,,,Combat Air Business Industrial Strategy,1
+,,,,,Captain,,,Combat Air Business Industrial Strategy,1
+,,,,,Commander,,,Combat Air Business Industrial Strategy,1
+Ministry of Defence,Defence Equipment & Support,Defence Equipment & Support,1781,Head of Flying Training Support,B1,,,Flying Training Support,3
+,,,,,B2,,,Flying Training Support,7
+,,,,,C1,,,Flying Training Support,34
+,,,,,C2,,,Flying Training Support,23
+,,,,,D,,,Flying Training Support,8
+,,,,,E1,,,Flying Training Support,6
+,,,,,Captain,,,Flying Training Support,1
+,,,,,Lt Commander,,,Flying Training Support,1
+,,,,,Major,,,Flying Training Support,1
+,,,,,Wing Commander,,,Flying Training Support,5
+,,,,,Squadron Leader,,,Flying Training Support,4
+,,,,,Flt Lieutenant,,,Flying Training Support,2
+,,,,,Other Rank,,,Flying Training Support,7
+Ministry of Defence,Defence Equipment & Support,Defence Equipment & Support,179189,Head of Harrier Survival Tornado & Safety Equipment,B1,,,Harrier Survival Tornado & Safety Enviroment,2
+,,,,,B2,,,Harrier Survival Tornado & Safety Enviroment,10
+,,,,,C1,,,Harrier Survival Tornado & Safety Enviroment,51
+,,,,,C2,,,Harrier Survival Tornado & Safety Enviroment,69
+,,,,,D,,,Harrier Survival Tornado & Safety Enviroment,38
+,,,,,E1,,,Harrier Survival Tornado & Safety Enviroment,44
+,,,,,Captain,,,Harrier Survival Tornado & Safety Enviroment,1
+,,,,,Commander,,,Harrier Survival Tornado & Safety Enviroment,2
+,,,,,Lt Commander,,,Harrier Survival Tornado & Safety Enviroment,4
+,,,,,Lieutenant,,,Harrier Survival Tornado & Safety Enviroment,4
+,,,,,Other Rank,,,Harrier Survival Tornado & Safety Enviroment,8
+,,,,,Other Rank,,,Harrier Survival Tornado & Safety Enviroment,2
+,,,,,Group Captain,,,Harrier Survival Tornado & Safety Enviroment,2
+,,,,,Wing Commander,,,Harrier Survival Tornado & Safety Enviroment,10
+,,,,,Squadron Leader,,,Harrier Survival Tornado & Safety Enviroment,20
+,,,,,Flt Lieutenant,,,Harrier Survival Tornado & Safety Enviroment,10
+,,,,,Other Rank,,,Harrier Survival Tornado & Safety Enviroment,82
+Ministry of Defence,Defence Equipment & Support,Defence Equipment & Support,5299,Head of Joint Combat Aircraft  ,B1,,,Joint Combat Aircraft  ,3
+,,,,,B2,,,Joint Combat Aircraft  ,9
+,,,,,C1,,,Joint Combat Aircraft  ,28
+,,,,,C2,,,Joint Combat Aircraft  ,36
+,,,,,D,,,Joint Combat Aircraft  ,6
+,,,,,E1,,,Joint Combat Aircraft  ,3
+,,,,,Captain,,,Joint Combat Aircraft  ,1
+,,,,,Commander,,,Joint Combat Aircraft  ,4
+,,,,,Lt Commander,,,Joint Combat Aircraft  ,6
+,,,,,Lieutenant,,,Joint Combat Aircraft  ,4
+,,,,,Other Rank,,,Joint Combat Aircraft  ,4
+,,,,,Major,,,Joint Combat Aircraft  ,2
+,,,,,Other Rank,,,Joint Combat Aircraft  ,2
+,,,,,Group Captain,,,Joint Combat Aircraft  ,1
+,,,,,Wing Commander,,,Joint Combat Aircraft  ,2
+,,,,,Squadron Leader,,,Joint Combat Aircraft  ,8
+,,,,,Flt Lieutenant,,,Joint Combat Aircraft  ,6
+,,,,,Other Rank,,,Joint Combat Aircraft  ,1
+Ministry of Defence,Defence Equipment & Support,Defence Equipment & Support,47,Head of Typhoon  ,B1,,,Typhoon  ,5
+,,,,,B2,,,Typhoon  ,12
+,,,,,C1,,,Typhoon  ,51
+,,,,,C2,,,Typhoon  ,46
+,,,,,D,,,Typhoon  ,19
+,,,,,E1,,,Typhoon  ,16
+,,,,,Other Rank,,,Typhoon  ,2
+,,,,,Group Captain,,,Typhoon  ,2
+,,,,,Wing Commander,,,Typhoon  ,9
+,,,,,Squadron Leader,,,Typhoon  ,20
+,,,,,Flt Lieutenant,,,Typhoon  ,12
+,,,,,Other Rank,,,Typhoon  ,37
+Ministry of Defence,Defence Equipment & Support,Defence Equipment & Support,68,Head of Commercial,B1,,,Air Support Commercial,1
+,,,,,B2,,,Air Support Commercial,3
+,,,,,C1,,,Air Support Commercial,6
+,,,,,C2,,,Air Support Commercial,3
+,,,,,D,,,Air Support Commercial,4
+,,,,,E1,,,Air Support Commercial,2
+Ministry of Defence,Defence Equipment & Support,Defence Equipment & Support,49802,Head of Air Safety & Engineering,B1,,,Air Safety & Engineering,1
+,,,,,B2,,,Air Safety & Engineering,2
+,,,,,C1,,,Air Safety & Engineering,19
+,,,,,E1,,,Air Safety & Engineering,1
+,,,,,Squadron Leader,,,Air Safety & Engineering,3
+Ministry of Defence,Defence Equipment & Support,Defence Equipment & Support,110863,Head of Air Transport/Air to Air Refuelling,B1,,,Air Transport/Air to Air Refuelling,4
+,,,,,B2,,,Air Transport/Air to Air Refuelling,22
+,,,,,C1,,,Air Transport/Air to Air Refuelling,79
+,,,,,C2,,,Air Transport/Air to Air Refuelling,86
+,,,,,D,,,Air Transport/Air to Air Refuelling,31
+,,,,,E1,,,Air Transport/Air to Air Refuelling,37
+,,,,,Major,,,Air Transport/Air to Air Refuelling,1
+,,,,,Other Rank,,,Air Transport/Air to Air Refuelling,1
+,,,,,Group Captain,,,Air Transport/Air to Air Refuelling,2
+,,,,,Wing Commander,,,Air Transport/Air to Air Refuelling,8
+,,,,,Squadron Leader,,,Air Transport/Air to Air Refuelling,21
+,,,,,Flt Lieutenant,,,Air Transport/Air to Air Refuelling,13
+,,,,,Other Rank,,,Air Transport/Air to Air Refuelling,45
+Ministry of Defence,Defence Equipment & Support,Defence Equipment & Support,50171,Head of Air Intelligence Surveillance Target Acquisition Reconnaissance,B1,,,Air Intelligence Surveillance Target Acquisition Reconnaissance,4
+,,,,,B2,,,Air Intelligence Surveillance Target Acquisition Reconnaissance,18
+,,,,,C1,,,Air Intelligence Surveillance Target Acquisition Reconnaissance,63
+,,,,,C2,,,Air Intelligence Surveillance Target Acquisition Reconnaissance,83
+,,,,,D,,,Air Intelligence Surveillance Target Acquisition Reconnaissance,57
+,,,,,E1,,,Air Intelligence Surveillance Target Acquisition Reconnaissance,34
+,,,,,SZ4,,,Air Intelligence Surveillance Target Acquisition Reconnaissance,10
+,,,,,Lt Colonel,,,Air Intelligence Surveillance Target Acquisition Reconnaissance,1
+,,,,,Major,,,Air Intelligence Surveillance Target Acquisition Reconnaissance,2
+,,,,,Other Rank,,,Air Intelligence Surveillance Target Acquisition Reconnaissance,2
+,,,,,Group Captain,,,Air Intelligence Surveillance Target Acquisition Reconnaissance,3
+,,,,,Wing Commander,,,Air Intelligence Surveillance Target Acquisition Reconnaissance,7
+,,,,,Squadron Leader,,,Air Intelligence Surveillance Target Acquisition Reconnaissance,20
+,,,,,Flt Lieutenant,,,Air Intelligence Surveillance Target Acquisition Reconnaissance,14
+,,,,,Other Rank,,,Air Intelligence Surveillance Target Acquisition Reconnaissance,119
+Ministry of Defence,Defence Equipment & Support,Defence Equipment & Support,185268,Head Air Equipment Systems,B1,,,Air Equipment Systems,2
+,,,,,B2,,,Air Equipment Systems,11
+,,,,,C1,,,Air Equipment Systems,43
+,,,,,C2,,,Air Equipment Systems,83
+,,,,,D,,,Air Equipment Systems,56
+,,,,,E1,,,Air Equipment Systems,79
+,,,,,Lt Commander,,,Air Equipment Systems,2
+,,,,,Other Rank,,,Air Equipment Systems,3
+,,,,,Other Rank,,,Air Equipment Systems,2
+,,,,,Group Captain,,,Air Equipment Systems,1
+,,,,,Wing Commander,,,Air Equipment Systems,4
+,,,,,Squadron Leader,,,Air Equipment Systems,7
+,,,,,Flt Lieutenant,,,Air Equipment Systems,9
+,,,,,Other Rank,,,Air Equipment Systems,41
+Ministry of Defence,Defence Equipment & Support,Defence Equipment & Support,6158,Director Submarines,B1,,,Submarines Combined Support Group,4
+,,,,,B2,,,Submarines Combined Support Group,7
+,,,,,C1,,,Submarines Combined Support Group,54
+,,,,,C2,,,Submarines Combined Support Group,32
+,,,,,D,,,Submarines Combined Support Group,7
+,,,,,E1,,,Submarines Combined Support Group,5
+,,,,,Commander,,,Military Assistant,1
+Ministry of Defence,Defence Equipment & Support,Defence Equipment & Support,153122,"Head of Programmes, Submarines",B1,,,Submarine Programmes,3
+,,,,,B2,,,Submarine Programmes,5
+,,,,,C1,,,Submarine Programmes,17
+,,,,,C2,,,Submarine Programmes,10
+,,,,,D,,,Submarine Programmes,8
+,,,,,E1,,,Submarine Programmes,2
+,,,,,Commander,,,Submarine Programmes,5
+Ministry of Defence,Defence Equipment & Support,Defence Equipment & Support,6402,"Head of Commercial, Submarines",B1,,,Submarine Commercial,2
+,,,,,B2,,,Submarine Commercial,2
+,,,,,C1,,,Submarine Commercial,4
+,,,,,E1,,,Submarine Commercial,1
+Ministry of Defence,Defence Equipment & Support,Defence Equipment & Support,79,Head of Nuclear Propulsion,B1,,,Nuclear Propulsion,3
+,,,,,B2,,,Nuclear Propulsion,12
+,,,,,C1,,,Nuclear Propulsion,28
+,,,,,C2,,,Nuclear Propulsion,21
+,,,,,D,,,Nuclear Propulsion,7
+,,,,,E1,,,Nuclear Propulsion,3
+,,,,,Captain,,,Nuclear Propulsion,1
+,,,,,Commander,,,Nuclear Propulsion,6
+,,,,,Lt Commander,,,Nuclear Propulsion,7
+,,,,,Lieutenant,,,Nuclear Propulsion,8
+,,,,,Other Rank,,,Nuclear Propulsion,3
+Ministry of Defence,Defence Equipment & Support,Defence Equipment & Support,6714,Head of In-Service Submarines,B1,,,Submarine In-Service,6
+,,,,,B2,,,Submarine In-Service,14
+,,,,,C1,,,Submarine In-Service,41
+,,,,,C2,,,Submarine In-Service,66
+,,,,,D,,,Submarine In-Service,27
+,,,,,E1,,,Submarine In-Service,6
+,,,,,Captain,,,Submarine In-Service,1
+,,,,,Commander,,,Submarine In-Service,7
+,,,,,Lt Commander,,,Submarine In-Service,7
+,,,,,Lieutenant,,,Submarine In-Service,7
+,,,,,Other Rank,,,Submarine In-Service,21
+Ministry of Defence,Defence Equipment & Support,Defence Equipment & Support,3226,Head of Production Submarines,B1,,,Submarine Production,5
+,,,,,B2,,,Submarine Production,7
+,,,,,C1,,,Submarine Production,33
+,,,,,C2,,,Submarine Production,30
+,,,,,D,,,Submarine Production,10
+,,,,,E1,,,Submarine Production,4
+,,,,,Captain,,,Submarine Production,1
+,,,,,Commander,,,Submarine Production,4
+,,,,,Lt Commander,,,Submarine Production,8
+,,,,,Lieutenant,,,Submarine Production,6
+,,,,,Other Rank,,,Submarine Production,2
+Ministry of Defence,Defence Equipment & Support,Defence Equipment & Support,171964,Head of Future Submarines,B1,,,Submarines Future,4
+,,,,,B2,,,Submarines Future,8
+,,,,,C1,,,Submarines Future,33
+,,,,,C2,,,Submarines Future,15
+,,,,,D,,,Submarines Future,10
+,,,,,E1,,,Submarines Future,4
+,,,,,Captain,,,Submarines Future,1
+,,,,,Commander,,,Submarines Future,3
+,,,,,Lt Commander,,,Submarines Future,5
+,,,,,Lieutenant,,,Submarines Future,1
+Ministry of Defence,Defence Equipment & Support,Defence Equipment & Support,3309,Head of Strategic Weapons,B1,,,Submarine Strategic Weapons,8
+,,,,,B2,,,Submarine Strategic Weapons,16
+,,,,,C1,,,Submarine Strategic Weapons,57
+,,,,,C2,,,Submarine Strategic Weapons,62
+,,,,,D,,,Submarine Strategic Weapons,23
+,,,,,E1,,,Submarine Strategic Weapons,26
+,,,,,Captain,,,Submarine Strategic Weapons,1
+,,,,,Commander,,,Submarine Strategic Weapons,3
+,,,,,Lt Commander,,,Submarine Strategic Weapons,6
+,,,,,Lieutenant,,,Submarine Strategic Weapons,5
+,,,,,Other Rank,,,Submarine Strategic Weapons,2
+,,,,,Squadron Leader,,,Submarine Strategic Weapons,1
+Ministry of Defence,Defence Equipment & Support,Defence Equipment & Support,66,Director Ships,B1,,,Ships Business Group,3
+,,,,,B2,,,Ships Business Group,5
+,,,,,C1,,,Ships Business Group,10
+,,,,,C2,,,Ships Business Group,7
+,,,,,D,,,Ships Business Group,7
+,,,,,E1,,,Ships Business Group,3
+,,,,,Captain,,,Ships Business Group,1
+,,,,,Commander,,,Ships Business Group,5
+,,,,,Lt Commander,,,Ships Business Group,4
+,,,,,Lieutenant,,,Ships Business Group,1
+,,,,,Other Rank,,,Ships Business Group,20
+Ministry of Defence,Defence Equipment & Support,Defence Equipment & Support,2462,Ships Head of Commercial,B1,,,Ships Commercial,1
+,,,,,B2,,,Ships Commercial,1
+,,,,,C1,,,Ships Commercial,9
+,,,,,C2,,,Ships Commercial,5
+,,,,,D,,,Ships Commercial,2
+,,,,,E1,,,Ships Commercial,1
+Ministry of Defence,Defence Equipment & Support,Defence Equipment & Support,190286,Head Combat Systems,B2,,,Combat Systems,10
+,,,,,C1,,,Combat Systems,33
+,,,,,C2,,,Combat Systems,57
+,,,,,D,,,Combat Systems,28
+,,,,,E1,,,Combat Systems,20
+,,,,,Captain,,,Combat Systems,1
+,,,,,Commander,,,Combat Systems,5
+,,,,,Lt Commander,,,Combat Systems,14
+,,,,,Lieutenant,,,Combat Systems,8
+,,,,,Other Rank,,,Combat Systems,17
+Ministry of Defence,Defence Equipment & Support,Defence Equipment & Support,3332,Head Destroyers ,B1,,,Destroyers ,1
+,,,,,B2,,,Destroyers ,5
+,,,,,C1,,,Destroyers ,22
+,,,,,C2,,,Destroyers ,19
+,,,,,D,,,Destroyers ,2
+,,,,,E1,,,Destroyers ,2
+,,,,,Captain,,,Destroyers ,2
+,,,,,Commander,,,Destroyers ,3
+,,,,,Lt Commander,,,Destroyers ,2
+,,,,,Lieutenant,,,Destroyers ,1
+,,,,,Other Rank,,,Destroyers ,3
+,,,,,Other Rank,,,Destroyers ,1
+Ministry of Defence,Defence Equipment & Support,Defence Equipment & Support,4366,Head Capital Ships,B1,,,Capital Ships,5
+,,,,,B2,,,Capital Ships,10
+,,,,,C1,,,Capital Ships,27
+,,,,,C2,,,Capital Ships,28
+,,,,,D,,,Capital Ships,8
+,,,,,E1,,,Capital Ships,1
+,,,,,Captain,,,Capital Ships,2
+,,,,,Commander,,,Capital Ships,5
+,,,,,Lt Commander,,,Capital Ships,8
+,,,,,Lieutenant,,,Capital Ships,2
+,,,,,Other Rank,,,Capital Ships,6
+,,,,,Major,,,Capital Ships,1
+Ministry of Defence,Defence Equipment & Support,Defence Equipment & Support,5529,Head Afloat Support      ,B1,,, Afloat Support,2
+,,,,,B2,,, Afloat Support,6
+,,,,,C1,,, Afloat Support,54
+,,,,,C2,,, Afloat Support,22
+,,,,,D,,, Afloat Support,3
+,,,,,E1,,, Afloat Support,10
+,,,,,Commander,,, Afloat Support,1
+,,,,,Lt Commander,,, Afloat Support,1
+,,,,,Other Rank,,, Afloat Support,2
+Ministry of Defence,Defence Equipment & Support,Defence Equipment & Support,8374,Head Surface Combatants ,B1,,,Surface Combatants,3
+,,,,,B2,,,Surface Combatants,12
+,,,,,C1,,,Surface Combatants,28
+,,,,,C2,,,Surface Combatants,35
+,,,,,D,,,Surface Combatants,17
+,,,,,E1,,,Surface Combatants,3
+,,,,,Commander,,,Surface Combatants,6
+,,,,,Lt Commander,,,Surface Combatants,7
+,,,,,Lieutenant,,,Surface Combatants,7
+,,,,,Other Rank,,,Surface Combatants,9
+Ministry of Defence,Defence Equipment & Support,Defence Equipment & Support,7537,Head Fleet Wide Equipment,B1,,,Fleet Wide Equipment,6
+,,,,,B2,,,Fleet Wide Equipment,20
+,,,,,C1,,,Fleet Wide Equipment,78
+,,,,,C2,,,Fleet Wide Equipment,146
+,,,,,D,,,Fleet Wide Equipment,128
+,,,,,E1,,,Fleet Wide Equipment,85
+,,,,,Commander,,,Fleet Wide Equipment,8
+,,,,,Lt Commander,,,Fleet Wide Equipment,12
+,,,,,Lieutenant,,,Fleet Wide Equipment,12
+,,,,,Other Rank,,,Fleet Wide Equipment,33
+,,,,,Other Rank,,,Fleet Wide Equipment,1
+Ministry of Defence,Defence Equipment & Support,Defence Equipment & Support,3594,Director Intelligence Surveillance Target Acquisition Reconnaissance,B1,,,Intelligence Surveillance Target Acquisition Reconnaissance Combined Support,9
+,,,,,B2,,,Intelligence Surveillance Target Acquisition Reconnaissance Combined Support,9
+,,,,,C1,,,Intelligence Surveillance Target Acquisition Reconnaissance Combined Support,49
+,,,,,C2,,,Intelligence Surveillance Target Acquisition Reconnaissance Combined Support,35
+,,,,,D,,,Intelligence Surveillance Target Acquisition Reconnaissance Combined Support,19
+,,,,,E1,,,Intelligence Surveillance Target Acquisition Reconnaissance Combined Support,7
+,,,,,Lieutenant,,,Intelligence Surveillance Target Acquisition Reconnaissance Combined Support,1
+,,,,,Colonel,,,Intelligence Surveillance Target Acquisition Reconnaissance Combined Support,2
+,,,,,Lt Colonel,,,Intelligence Surveillance Target Acquisition Reconnaissance Combined Support,3
+,,,,,Major,,,Intelligence Surveillance Target Acquisition Reconnaissance Combined Support,2
+,,,,,Captain,,,Intelligence Surveillance Target Acquisition Reconnaissance Combined Support,1
+,,,,,Other Rank,,,Intelligence Surveillance Target Acquisition Reconnaissance Combined Support,2
+,,,,,Wing Commander,,,Intelligence Surveillance Target Acquisition Reconnaissance Combined Support,2
+,,,,,Squadron Leader,,,Intelligence Surveillance Target Acquisition Reconnaissance Combined Support,4
+Ministry of Defence,Defence Equipment & Support,Defence Equipment & Support,172680,Head of Commercial-Intelligence Surveillance Target Acquisition Reconnaissance ,B1,,,Commercial Intelligence Surveillance Target Acquisition Reconnaissance ,2
+,,,,,C1,,,Commercial Intelligence Surveillance Target Acquisition Reconnaissance ,1
+,,,,,C2,,,Commercial Intelligence Surveillance Target Acquisition Reconnaissance ,3
+,,,,,D,,,Commercial Intelligence Surveillance Target Acquisition Reconnaissance ,1
+Ministry of Defence,Defence Equipment & Support,Defence Equipment & Support,184599,Head of Intelligence Surveillance Target Acquisition Reconnaissance Programme Delivery Group 3,B1,,,Intelligence Surveillance Target Acquisition Reconnaissance Programme Delivery Group 3,2
+,,,,,B2,,,Intelligence Surveillance Target Acquisition Reconnaissance Programme Delivery Group 3,7
+,,,,,C1,,,Intelligence Surveillance Target Acquisition Reconnaissance Programme Delivery Group 3,42
+,,,,,C2,,,Intelligence Surveillance Target Acquisition Reconnaissance Programme Delivery Group 3,58
+,,,,,D,,,Intelligence Surveillance Target Acquisition Reconnaissance Programme Delivery Group 3,88
+,,,,,E1,,,Intelligence Surveillance Target Acquisition Reconnaissance Programme Delivery Group 3,22
+,,,,,SZ3,,,Intelligence Surveillance Target Acquisition Reconnaissance Programme Delivery Group 3,4
+,,,,,Commander,,,Intelligence Surveillance Target Acquisition Reconnaissance Programme Delivery Group 3,1
+,,,,,Lt Commander,,,Intelligence Surveillance Target Acquisition Reconnaissance Programme Delivery Group 3,2
+,,,,,Lieutenant,,,Intelligence Surveillance Target Acquisition Reconnaissance Programme Delivery Group 3,4
+,,,,,Other Rank,,,Intelligence Surveillance Target Acquisition Reconnaissance Programme Delivery Group 3,2
+,,,,,Lt Colonel,,,Intelligence Surveillance Target Acquisition Reconnaissance Programme Delivery Group 3,1
+,,,,,Major,,,Intelligence Surveillance Target Acquisition Reconnaissance Programme Delivery Group 3,2
+,,,,,Other Rank,,,Intelligence Surveillance Target Acquisition Reconnaissance Programme Delivery Group 3,1
+,,,,,Group Captain,,,Intelligence Surveillance Target Acquisition Reconnaissance Programme Delivery Group 3,1
+,,,,,Wing Commander,,,Intelligence Surveillance Target Acquisition Reconnaissance Programme Delivery Group 3,3
+,,,,,Squadron Leader,,,Intelligence Surveillance Target Acquisition Reconnaissance Programme Delivery Group 3,7
+,,,,,Flt Lieutenant,,,Intelligence Surveillance Target Acquisition Reconnaissance Programme Delivery Group 3,4
+,,,,,Other Rank,,,Intelligence Surveillance Target Acquisition Reconnaissance Programme Delivery Group 3,61
+Ministry of Defence,Defence Equipment & Support,Defence Equipment & Support,110862,Head of Intelligence Surveillance Target Acquisition Reconnaissance Programme Delivery Group 2,B1,,,Intelligence Surveillance Target Acquisition Reconnaissance Programme Delivery Group 2,2
+,,,,,B2,,,Intelligence Surveillance Target Acquisition Reconnaissance Programme Delivery Group 2,13
+,,,,,C1,,,Intelligence Surveillance Target Acquisition Reconnaissance Programme Delivery Group 2,65
+,,,,,C2,,,Intelligence Surveillance Target Acquisition Reconnaissance Programme Delivery Group 2,75
+,,,,,D,,,Intelligence Surveillance Target Acquisition Reconnaissance Programme Delivery Group 2,30
+,,,,,E1,,,Intelligence Surveillance Target Acquisition Reconnaissance Programme Delivery Group 2,25
+,,,,,Colonel,,,Intelligence Surveillance Target Acquisition Reconnaissance Programme Delivery Group 2,1
+,,,,,Lt Colonel,,,Intelligence Surveillance Target Acquisition Reconnaissance Programme Delivery Group 2,9
+,,,,,Major,,,Intelligence Surveillance Target Acquisition Reconnaissance Programme Delivery Group 2,3
+,,,,,Other Rank,,,Intelligence Surveillance Target Acquisition Reconnaissance Programme Delivery Group 2,14
+,,,,,Wing Commander,,,Intelligence Surveillance Target Acquisition Reconnaissance Programme Delivery Group 2,1
+Ministry of Defence,Defence Equipment & Support,Defence Equipment & Support,2332,Head of Intelligence Surveillance Target Acquisition Reconnaissance Programme Delivery Group 1,B1,,,Intelligence Surveillance Target Acquisition Reconnaissance Programme Delivery Group 1,2
+,,,,,B2,,,Intelligence Surveillance Target Acquisition Reconnaissance Programme Delivery Group 1,9
+,,,,,C1,,,Intelligence Surveillance Target Acquisition Reconnaissance Programme Delivery Group 1,46
+,,,,,C2,,,Intelligence Surveillance Target Acquisition Reconnaissance Programme Delivery Group 1,30
+,,,,,D,,,Intelligence Surveillance Target Acquisition Reconnaissance Programme Delivery Group 1,7
+,,,,,E1,,,Intelligence Surveillance Target Acquisition Reconnaissance Programme Delivery Group 1,4
+,,,,,Commander,,,Intelligence Surveillance Target Acquisition Reconnaissance Programme Delivery Group 1,2
+,,,,,Lt Commander,,,Intelligence Surveillance Target Acquisition Reconnaissance Programme Delivery Group 1,3
+,,,,,Lieutenant,,,Intelligence Surveillance Target Acquisition Reconnaissance Programme Delivery Group 1,2
+,,,,,Colonel,,,Intelligence Surveillance Target Acquisition Reconnaissance Programme Delivery Group 1,1
+,,,,,Major,,,Intelligence Surveillance Target Acquisition Reconnaissance Programme Delivery Group 1,3
+,,,,,Other Rank,,,Intelligence Surveillance Target Acquisition Reconnaissance Programme Delivery Group 1,2
+,,,,,Squadron Leader,,,Intelligence Surveillance Target Acquisition Reconnaissance Programme Delivery Group 1,2
+,,,,,Flt Lieutenant,,,Intelligence Surveillance Target Acquisition Reconnaissance Programme Delivery Group 1,1
+Ministry of Defence,Defence Equipment & Support,Defence Equipment & Support,23490,Director Land Equipment,B1,,,Land Equipment Combined Support,6
+,,,,,B2,,,Land Equipment Combined Support,5
+,,,,,C1,,,Land Equipment Combined Support,29
+,,,,,C2,,,Land Equipment Combined Support,25
+,,,,,D,,,Land Equipment Combined Support,7
+,,,,,E1,,,Land Equipment Combined Support,2
+,,,,,Colonel,,,Land Equipment Combined Support,1
+,,,,,Lt Colonel,,,Land Equipment Combined Support,2
+,,,,,Major,,,Land Equipment Combined Support,3
+Ministry of Defence,Defence Equipment & Support,Defence Equipment & Support,22411,Head of Commercial Land Equipment,B1,,,Commercial Land Equipment,3
+,,,,,B2,,,Commercial Land Equipment,2
+,,,,,C1,,,Commercial Land Equipment,1
+,,,,,C2,,,Commercial Land Equipment,4
+,,,,,E1,,,Commercial Land Equipment,2
+Ministry of Defence,Defence Equipment & Support,Defence Equipment & Support,110867,Head of Portfolio & Programme Support,B2,,,Portfolio & Programme Support,1
+,,,,,C1,,,Portfolio & Programme Support,2
+,,,,,C2,,,Portfolio & Programme Support,1
+,,,,,Other Rank,,,Portfolio & Programme Support,1
+Ministry of Defence,Defence Equipment & Support,Defence Equipment & Support,22483,Head of General Support Group ,B1,,,General Support Group ,6
+,,,,,B2,,,General Support Group ,8
+,,,,,C1,,,General Support Group ,66
+,,,,,C2,,,General Support Group ,126
+,,,,,D,,,General Support Group ,97
+,,,,,E1,,,General Support Group ,27
+,,,,,SZ2,,,General Support Group ,4
+,,,,,SZ3,,,General Support Group ,1
+,,,,,Other Rank,,,General Support Group ,1
+,,,,,Colonel,,,General Support Group ,1
+,,,,,Lt Colonel,,,General Support Group ,4
+,,,,,Major,,,General Support Group ,14
+,,,,,Other Rank,,,General Support Group ,21
+,,,,,Squadron Leader,,,General Support Group ,2
+,,,,,Other Rank,,,General Support Group ,12
+Ministry of Defence,Defence Equipment & Support,Defence Equipment & Support,182282,Head of Individual Capability Group  ,B1,,,Individual Capability Group  ,1
+,,,,,B2,,,Individual Capability Group  ,7
+,,,,,C1,,,Individual Capability Group  ,22
+,,,,,C2,,,Individual Capability Group  ,43
+,,,,,D,,,Individual Capability Group  ,27
+,,,,,E1,,,Individual Capability Group  ,7
+,,,,,Lt Commander,,,Individual Capability Group  ,1
+,,,,,Other Rank,,,Individual Capability Group  ,1
+,,,,,Lt Colonel,,,Individual Capability Group  ,3
+,,,,,Major,,,Individual Capability Group  ,9
+,,,,,Other Rank,,,Individual Capability Group  ,11
+,,,,,Group Captain,,,Individual Capability Group  ,1
+,,,,,Squadron Leader,,,Individual Capability Group  ,1
+,,,,,Other Rank,,,Individual Capability Group  ,1
+Ministry of Defence,Defence Equipment & Support,Defence Equipment & Support,172024,Head of Combat Tracks Group ,B1,,,Combat Tracks Group ,8
+,,,,,B2,,,Combat Tracks Group ,29
+,,,,,C1,,,Combat Tracks Group ,85
+,,,,,C2,,,Combat Tracks Group ,104
+,,,,,D,,,Combat Tracks Group ,50
+,,,,,E1,,,Combat Tracks Group ,18
+,,,,,Colonel,,,Combat Tracks Group ,1
+,,,,,Lt Colonel,,,Combat Tracks Group ,13
+,,,,,Major,,,Combat Tracks Group ,24
+,,,,,Other Rank,,,Combat Tracks Group ,39
+Ministry of Defence,Defence Equipment & Support,Defence Equipment & Support,23498,Head of Combat Wheels Group ,B2,,,Head of Combat Wheels Group ,11
+,,,,,C1,,,Head of Combat Wheels Group ,30
+,,,,,C2,,,Head of Combat Wheels Group ,46
+,,,,,D,,,Head of Combat Wheels Group ,21
+,,,,,E1,,,Head of Combat Wheels Group ,4
+,,,,,Lt Colonel,,,Head of Combat Wheels Group ,4
+,,,,,Major,,,Head of Combat Wheels Group ,9
+,,,,,Other Rank,,,Head of Combat Wheels Group ,8
+,,,,,Other Rank,,,Head of Combat Wheels Group ,1
+Ministry of Defence,Defence Equipment & Support,Defence Equipment & Support,183045,Head Technology Delivery,B1,,,Technology Delivery,1
+,,,,,B2,,,Technology Delivery,9
+,,,,,C1,,,Technology Delivery,24
+,,,,,C2,,,Technology Delivery,5
+,,,,,D,,,Technology Delivery,1
+,,,,,E1,,,Technology Delivery,1
+,,,,,Commander,,,Technology Delivery,1
+,,,,,Lt Commander,,,Technology Delivery,1
+,,,,,Lieutenant,,,Technology Delivery,1
+,,,,,Major,,,Technology Delivery,1
+,,,,,Other Rank,,,Technology Delivery,1
+,,,,,Squadron Leader,,,Technology Delivery,1
+Ministry of Defence,Defence Equipment & Support,Defence Equipment & Support,159581,Head of Cost Assurance & Analysis ,B1,,,Assistance & Assurance,8
+,,,,,B2,,,Assistance & Assurance,11
+,,,,,C1,,,Assistance & Assurance,24
+,,,,,C2,,,Assistance & Assurance,1
+,,,,,D,,,Assistance & Assurance,4
+,,,,,E1,,,Assistance & Assurance,1
+Ministry of Defence,Defence Equipment & Support,Defence Equipment & Support,184808,Head Capability Delivery Implementation,B2,,,Capability Delivery Implemantation,2
+,,,,,C1,,,Capability Delivery Implemantation,1
+,,,,,D,,,Capability Delivery Implemantation,2
+Ministry of Defence,Defence Equipment & Support,Defence Equipment & Support,2729,Head Programme & Project Management Centre of Excellence,B1,,,"Programme, Projects & Management Centre Of Excellence",2
+,,,,,B2,,,"Programme, Projects & Management Centre Of Excellence",4
+,,,,,C1,,,"Programme, Projects & Management Centre Of Excellence",15
+,,,,,C2,,,"Programme, Projects & Management Centre Of Excellence",5
+,,,,,D,,,"Programme, Projects & Management Centre Of Excellence",6
+,,,,,Lt Colonel,,,"Programme, Projects & Management Centre Of Excellence",1
+,,,,,B1,,,Through Life Project Management,1
+,,,,,B2,,,Through Life Project Management,1
+,,,,,C1,,,Through Life Project Management,2
+,,,,,C2,,,Through Life Project Management,4
+,,,,,E1,,,Through Life Project Management,1
+,,,,,B2,,,Business Support Team,1
+,,,,,C1,,,Business Support Team,1
+,,,,,C2,,,Business Support Team,4
+,,,,,D,,,Business Support Team,4
+,,,,,E1,,,Business Support Team,4
+,,,,,Major,,,Business Support Team,1
+Ministry of Defence,Defence Equipment & Support,Defence Equipment & Support,173858,Weapons Head of Commercial,B1,,,Commercial,1
+,,,,,B2,,,Commercial,2
+,,,,,C1,,,Commercial,5
+,,,,,C2,,,Commercial,3
+Ministry of Defence,Defence Equipment & Support,Defence Equipment & Support,165338,Head of Programmes-Weapons,B1,,,Programmes-Weapons,9
+,,,,,B2,,,Programmes-Weapons,9
+,,,,,C1,,,Programmes-Weapons,20
+,,,,,C2,,,Programmes-Weapons,5
+,,,,,D,,,Programmes-Weapons,5
+,,,,,E1,,,Programmes-Weapons,1
+,,,,,Lt Commander,,,Programmes-Weapons,3
+,,,,,Lt Colonel,,,Programmes-Weapons,2
+,,,,,Captain,,,Programmes-Weapons,1
+,,,,,Other Rank,,,Programmes-Weapons,1
+,,,,,Group Captain,,,Programmes-Weapons,1
+,,,,,Squadron Leader,,,Programmes-Weapons,1
+,,,,,Other Rank,,,Programmes-Weapons,1
+Ministry of Defence,Defence Equipment & Support,Defence Equipment & Support,2775,Head Engineering & Defence Ordnance Safety Group,B1,,,Engineering & Defence Ordnance Safety Group,4
+,,,,,B2,,,Engineering & Defence Ordnance Safety Group,13
+,,,,,C1,,,Engineering & Defence Ordnance Safety Group,59
+,,,,,C2,,,Engineering & Defence Ordnance Safety Group,41
+,,,,,D,,,Engineering & Defence Ordnance Safety Group,11
+,,,,,E1,,,Engineering & Defence Ordnance Safety Group,8
+,,,,,Lt Commander,,,Engineering & Defence Ordnance Safety Group,1
+,,,,,Colonel,,,Engineering & Defence Ordnance Safety Group,1
+,,,,,Lt Colonel,,,Engineering & Defence Ordnance Safety Group,2
+,,,,,Major,,,Engineering & Defence Ordnance Safety Group,6
+,,,,,Captain,,,Engineering & Defence Ordnance Safety Group,1
+,,,,,Other Rank,,,Engineering & Defence Ordnance Safety Group,4
+,,,,,Wing Commander,,,Engineering & Defence Ordnance Safety Group,1
+,,,,,Squadron Leader,,,Engineering & Defence Ordnance Safety Group,1
+,,,,,Other Rank,,,Engineering & Defence Ordnance Safety Group,1
+Ministry of Defence,Defence Equipment & Support,Defence Equipment & Support,110865,Head Munitions International & Torpedoes  ,B1,,,Munitions International & Torpedoes  ,2
+,,,,,B2,,,Munitions International & Torpedoes  ,15
+,,,,,C1,,,Munitions International & Torpedoes  ,67
+,,,,,C2,,,Munitions International & Torpedoes  ,77
+,,,,,D,,,Munitions International & Torpedoes  ,53
+,,,,,E1,,,Munitions International & Torpedoes  ,25
+,,,,,SZ3,,,Munitions International & Torpedoes  ,8
+,,,,,Captain,,,Munitions International & Torpedoes  ,1
+,,,,,Commander,,,Munitions International & Torpedoes  ,3
+,,,,,Lt Commander,,,Munitions International & Torpedoes  ,3
+,,,,,Lieutenant,,,Munitions International & Torpedoes  ,3
+,,,,,Other Rank,,,Munitions International & Torpedoes  ,11
+,,,,,Colonel,,,Munitions International & Torpedoes  ,1
+,,,,,Lt Colonel,,,Munitions International & Torpedoes  ,1
+,,,,,Major,,,Munitions International & Torpedoes  ,13
+,,,,,Captain,,,Munitions International & Torpedoes  ,2
+,,,,,Other Rank,,,Munitions International & Torpedoes  ,13
+,,,,,Wing Commander,,,Munitions International & Torpedoes  ,2
+,,,,,Squadron Leader,,,Munitions International & Torpedoes  ,3
+,,,,,Other Rank,,,Munitions International & Torpedoes  ,10
+Ministry of Defence,Defence Equipment & Support,Defence Equipment & Support,179993,Head of Team Complex Wpns ,B1,,,Team Complex Weapons,3
+,,,,,B2,,,Team Complex Weapons,13
+,,,,,C1,,,Team Complex Weapons,48
+,,,,,C2,,,Team Complex Weapons,55
+,,,,,D,,,Team Complex Weapons,35
+,,,,,E1,,,Team Complex Weapons,8
+,,,,,Captain,,,Team Complex Weapons,1
+,,,,,Lt Commander,,,Team Complex Weapons,4
+,,,,,Lieutenant,,,Team Complex Weapons,6
+,,,,,Other Rank,,,Team Complex Weapons,12
+,,,,,Major,,,Team Complex Weapons,3
+,,,,,Other Rank,,,Team Complex Weapons,10
+,,,,,Group Captain,,,Team Complex Weapons,1
+,,,,,Wing Commander,,,Team Complex Weapons,2
+,,,,,Squadron Leader,,,Team Complex Weapons,6
+,,,,,Flt Lieutenant,,,Team Complex Weapons,6
+,,,,,Other Rank,,,Team Complex Weapons,4
+Ministry of Defence,Defence Equipment & Support,Defence Equipment & Support,3320,Chief Operating Officer,B2,,,Private Secretary,1
+,,,,,C2,,,Assistant Private Secretary,1
+,,,,,D,,,Executive Assistant,1
+,,,,,Major,,,Tri-service Military Assistant,1
+Ministry of Defence,Defence Equipment & Support,Defence Equipment & Support,184738,Director Programmes Technology Group,C1,,,Private Secretary,1
+,,,,,D,,,Executive Assistant,1
+Ministry of Defence,Defence Equipment & Support,Defence Equipment & Support,3594,Director Intelligence Surveillance Target Acquisition Reconnaissance,C1,,,Private Secretary,1
+,,,,,D,,,Executive Assistant,1
+Ministry of Defence,Defence Equipment & Support,Defence Equipment & Support,170773,Director Weapons,D,,,Executive Assistant,1
+,,,,,Commander,,,Military Assistant,1
+Ministry of Defence,Defence Equipment & Support,Defence Equipment & Support,3179,Director Helicopters,D,,,Executive Assistant,1
+,,,,,Squadron Leader,,,Military Assistant,1
+Ministry of Defence,Defence Equipment & Support,Defence Equipment & Support,170429,Director Air Support,D,,,Executive Assistant,1
+,,,,,Squadron Leader,,,Military Assistant,1
+Ministry of Defence,Defence Equipment & Support,Defence Equipment & Support,1135585,Director Information Systems & Services & Defence Equipment & Support Chief Information Officer,D,,,Executive Assistant,1
+,,,,,Colonel,,,Chief of Staff,1
+Ministry of Defence,Defence Equipment & Support,Defence Equipment & Support,184652,Chief Strategic Systems Executive-Director,D,,,Executive Assistant,1
+,,,,,Lieutenant,,,Military Assistant,1
+Ministry of Defence,Defence Equipment & Support,Defence Equipment & Support,153366,Head Customer Support Team (Air),B2,,,Combined Customer Support Team,3
+,,,,,C1,,,Combined Customer Support Team,2
+,,,,,C2,,,Combined Customer Support Team,6
+,,,,,D,,,Combined Customer Support Team,1
+,,,,,E1,,,Combined Customer Support Team,1
+,,,,,Commander,,,Combined Customer Support Team,2
+,,,,,Lt Commander,,,Combined Customer Support Team,3
+,,,,,Lieutenant,,,Combined Customer Support Team,3
+,,,,,Lt Colonel,,,Combined Customer Support Team,2
+,,,,,Major,,,Combined Customer Support Team,3
+,,,,,Other Rank,,,Combined Customer Support Team,2
+,,,,,Group Captain,,,Combined Customer Support Team,2
+,,,,,Wing Commander,,,Combined Customer Support Team,3
+,,,,,Squadron Leader,,,Combined Customer Support Team,3
+,,,,,Other Rank,,,Combined Customer Support Team,2
+Ministry of Defence,Defence Equipment & Support,Defence Equipment & Support,171090,Head Customer Support Team  (Fleet) ,B1,,,Salvage & Marine Operations,3
+,,,,,B2,,,Salvage & Marine Operations,1
+,,,,,C1,,,Salvage & Marine Operations,35
+,,,,,C2,,,Salvage & Marine Operations,3
+,,,,,D,,,Salvage & Marine Operations,7
+,,,,,E1,,,Salvage & Marine Operations,4
+,,,,,SZ1,,,Salvage & Marine Operations,1
+,,,,,SZ2,,,Salvage & Marine Operations,1
+,,,,,B2,,,"Maritime Capability, Trials & Assessment",1
+,,,,,C2,,,"Maritime Capability, Trials & Assessment",31
+,,,,,D,,,"Maritime Capability, Trials & Assessment",8
+,,,,,E1,,,"Maritime Capability, Trials & Assessment",5
+,,,,,Captain,,,"Maritime Capability, Trials & Assessment",1
+,,,,,Commander,,,"Maritime Capability, Trials & Assessment",3
+,,,,,Lt Commander,,,"Maritime Capability, Trials & Assessment",14
+,,,,,Lieutenant,,,"Maritime Capability, Trials & Assessment",15
+,,,,,Sub Lieutenant,,,"Maritime Capability, Trials & Assessment",1
+,,,,,Other Rank,,,"Maritime Capability, Trials & Assessment",54
+,,,,,B1,,,Maritime Supply Integration,1
+,,,,,B2,,,Maritime Supply Integration,1
+,,,,,C1,,,Maritime Supply Integration,9
+,,,,,C2,,,Maritime Supply Integration,15
+,,,,,D,,,Maritime Supply Integration,7
+,,,,,E1,,,Maritime Supply Integration,5
+,,,,,Other Rank,,,Maritime Supply Integration,1
+,,,,,B1,,,Marine Services Integrated Business Team,1
+,,,,,B2,,,Marine Services Integrated Business Team,3
+,,,,,C1,,,Marine Services Integrated Business Team,5
+,,,,,D,,,Marine Services Integrated Business Team,1
+,,,,,Other Rank,,,Marine Services Integrated Business Team,1
+,,,,,B2,,,Fleet Wide Team,1
+,,,,,C1,,,Fleet Wide Team,3
+,,,,,D,,,Fleet Wide Team,1
+,,,,,Commander,,,Fleet Wide Team,2
+,,,,,Lt Commander,,,Fleet Wide Team,1
+,,,,,Lieutenant,,,Fleet Wide Team,1
+Ministry of Defence,Defence Equipment & Support,Defence Equipment & Support,9285,Head Maritime Change Programme,B1,,,Maritime Change Programme,4
+,,,,,B2,,,Maritime Change Programme,7
+,,,,,C1,,,Maritime Change Programme,10
+,,,,,C2,,,Maritime Change Programme,3
+,,,,,E1,,,Maritime Change Programme,2
+,,,,,Captain,,,Maritime Change Programme,1
+,,,,,Commander,,,Maritime Change Programme,2
+Ministry of Defence,Defence Equipment & Support,Defence Equipment & Support,62452,Naval Base Commander Portsmouth,B1,,,Naval Base Portsmouth,1
+,,,,,B2,,,Naval Base Portsmouth,5
+,,,,,C1,,,Naval Base Portsmouth,42
+,,,,,C2,,,Naval Base Portsmouth,31
+,,,,,D,,,Naval Base Portsmouth,57
+,,,,,E1,,,Naval Base Portsmouth,82
+,,,,,SZ1,,,Naval Base Portsmouth,8
+,,,,,SZ2,,,Naval Base Portsmouth,41
+,,,,,SZ3,,,Naval Base Portsmouth,7
+,,,,,SZ4,,,Naval Base Portsmouth,1
+,,,,,Captain,,,Naval Base Portsmouth,4
+,,,,,Commander,,,Naval Base Portsmouth,8
+,,,,,Lt Commander,,,Naval Base Portsmouth,16
+,,,,,Lieutenant,,,Naval Base Portsmouth,17
+,,,,,Other Rank,,,Naval Base Portsmouth,341
+,,,,,Colonel,,,Naval Base Portsmouth,1
+,,,,,Lt Colonel,,,Naval Base Portsmouth,1
+,,,,,Other Rank,,,Naval Base Portsmouth,1
+Ministry of Defence,Defence Equipment & Support,Defence Equipment & Support,65000,Naval Base Commander Devonport,B1,,,Naval Base Devonport,2
+,,,,,B2,,,Naval Base Devonport,11
+,,,,,C1,,,Naval Base Devonport,50
+,,,,,C2,,,Naval Base Devonport,55
+,,,,,D,,,Naval Base Devonport,64
+,,,,,E1,,,Naval Base Devonport,87
+,,,,,SZ1,,,Naval Base Devonport,4
+,,,,,SZ2,,,Naval Base Devonport,23
+,,,,,SZ3,,,Naval Base Devonport,11
+,,,,,Captain,,,Naval Base Devonport,4
+,,,,,Commander,,,Naval Base Devonport,9
+,,,,,Lt Commander,,,Naval Base Devonport,19
+,,,,,Lieutenant,,,Naval Base Devonport,19
+,,,,,Other Rank,,,Naval Base Devonport,329
+,,,,,Lieutenant,,,Naval Base Devonport,1
+Ministry of Defence,Defence Equipment & Support,Defence Equipment & Support,64206,Naval Base Commander Clyde,B1,,,Naval Base Clyde,4
+,,,,,B2,,,Naval Base Clyde,14
+,,,,,C1,,,Naval Base Clyde,75
+,,,,,C2,,,Naval Base Clyde,103
+,,,,,D,,,Naval Base Clyde,98
+,,,,,E1,,,Naval Base Clyde,80
+,,,,,SZ1,,,Naval Base Clyde,9
+,,,,,SZ2,,,Naval Base Clyde,44
+,,,,,SZ3,,,Naval Base Clyde,55
+,,,,,Captain,,,Naval Base Clyde,4
+,,,,,Commander,,,Naval Base Clyde,9
+,,,,,Lt Commander,,,Naval Base Clyde,16
+,,,,,Lieutenant,,,Naval Base Clyde,19
+,,,,,Other Rank,,,Naval Base Clyde,302
+,,,,,Major,,,Naval Base Clyde,2
+,,,,,Other Rank,,,Naval Base Clyde,2
+Ministry of Defence,Defence Equipment & Support,Defence Equipment & Support,46000,Chief Executive Defence Storage and Distribution Agency,B1,,,Joint Support Chain Services (Ex Defence Storage and Distribution Agency),3
+,,,,,B2,,,Joint Support Chain Services (Ex Defence Storage and Distribution Agency),22
+,,,,,C1,,,Joint Support Chain Services (Ex Defence Storage and Distribution Agency),62
+,,,,,C2,,,Joint Support Chain Services (Ex Defence Storage and Distribution Agency),235
+,,,,,D,,,Joint Support Chain Services (Ex Defence Storage and Distribution Agency),434
+,,,,,E1,,,Joint Support Chain Services (Ex Defence Storage and Distribution Agency),407
+,,,,,SZ1,,,Joint Support Chain Services (Ex Defence Storage and Distribution Agency),49
+,,,,,SZ2,,,Joint Support Chain Services (Ex Defence Storage and Distribution Agency),951
+,,,,,SZ3,,,Joint Support Chain Services (Ex Defence Storage and Distribution Agency),694
+,,,,,SZ4,,,Joint Support Chain Services (Ex Defence Storage and Distribution Agency),12
+,,,,,Captain,,,Joint Support Chain Services (Ex Defence Storage and Distribution Agency),1
+,,,,,Lt Commander,,,Joint Support Chain Services (Ex Defence Storage and Distribution Agency),1
+,,,,,Sub Lieutenant,,,Joint Support Chain Services (Ex Defence Storage and Distribution Agency),1
+,,,,,Colonel,,,Joint Support Chain Services (Ex Defence Storage and Distribution Agency),3
+,,,,,Lt Colonel,,,Joint Support Chain Services (Ex Defence Storage and Distribution Agency),6
+,,,,,Major,,,Joint Support Chain Services (Ex Defence Storage and Distribution Agency),12
+,,,,,Captain,,,Joint Support Chain Services (Ex Defence Storage and Distribution Agency),3
+,,,,,Other Rank,,,Joint Support Chain Services (Ex Defence Storage and Distribution Agency),112
+,,,,,Wing Commander,,,Joint Support Chain Services (Ex Defence Storage and Distribution Agency),4
+,,,,,Squadron Leader,,,Joint Support Chain Services (Ex Defence Storage and Distribution Agency),4
+,,,,,Flt Lieutenant,,,Joint Support Chain Services (Ex Defence Storage and Distribution Agency),2
+,,,,,Other Rank,,,Joint Support Chain Services (Ex Defence Storage and Distribution Agency),10
+Ministry of Defence,Defence Equipment & Support,Defence Equipment & Support,18623,Director Joint Support Chain,B1,,,Defence Supply Chain,6
+,,,,,B2,,,Defence Supply Chain,5
+,,,,,C1,,,Defence Supply Chain,4
+,,,,,C2,,,Defence Supply Chain,14
+,,,,,D,,,Defence Supply Chain,10
+,,,,,E1,,,Defence Supply Chain,14
+,,,,,Captain,,,Defence Supply Chain,1
+,,,,,Commander,,,Defence Supply Chain,1
+,,,,,Lt Commander,,,Defence Supply Chain,2
+,,,,,Lieutenant,,,Defence Supply Chain,1
+,,,,,Lt Colonel,,,Defence Supply Chain,1
+,,,,,Major,,,Defence Supply Chain,2
+,,,,,Other Rank,,,Defence Supply Chain,2
+,,,,,Wing Commander,,,Defence Supply Chain,1
+,,,,,Squadron Leader,,,Defence Supply Chain,1
+Ministry of Defence,Defence Equipment & Support,Defence Equipment & Support,9900,Head Through-Life Support,B1,,,Through-Life Support,1
+,,,,,B2,,,Through-Life Support,10
+,,,,,C1,,,Through-Life Support,30
+,,,,,C2,,,Through-Life Support,31
+,,,,,D,,,Through-Life Support,3
+,,,,,E1,,,Through-Life Support,10
+,,,,,Commander,,,Through-Life Support,1
+,,,,,Lt Commander,,,Through-Life Support,6
+,,,,,Lieutenant,,,Through-Life Support,3
+,,,,,Other Rank,,,Through-Life Support,2
+,,,,,Colonel,,,Through-Life Support,1
+,,,,,Lt Colonel,,,Through-Life Support,2
+,,,,,Major,,,Through-Life Support,5
+,,,,,Captain,,,Through-Life Support,1
+,,,,,Other Rank,,,Through-Life Support,7
+,,,,,Wing Commander,,,Through-Life Support,2
+,,,,,Squadron Leader,,,Through-Life Support,1
+,,,,,Flt Lieutenant,,,Through-Life Support,1
+,,,,,Flying Officer,,,Through-Life Support,1
+,,,,,Other Rank,,,Through-Life Support,2
+Ministry of Defence,Defence Equipment & Support,Defence Equipment & Support,18625,Head of Supply Chain Management,B1,,,Supply Chain Management,1
+,,,,,B2,,,Supply Chain Management,9
+,,,,,C1,,,Supply Chain Management,20
+,,,,,C2,,,Supply Chain Management,43
+,,,,,D,,,Supply Chain Management,48
+,,,,,E1,,,Supply Chain Management,43
+,,,,,Commander,,,Supply Chain Management,3
+,,,,,Lt Commander,,,Supply Chain Management,2
+,,,,,Lieutenant,,,Supply Chain Management,2
+,,,,,Other Rank,,,Supply Chain Management,1
+,,,,,Lt Colonel,,,Supply Chain Management,3
+,,,,,Major,,,Supply Chain Management,9
+,,,,,Captain,,,Supply Chain Management,1
+,,,,,Other Rank,,,Supply Chain Management,4
+,,,,,Group Captain,,,Supply Chain Management,3
+,,,,,Wing Commander,,,Supply Chain Management,2
+,,,,,Squadron Leader,,,Supply Chain Management,4
+,,,,,Flt Lieutenant,,,Supply Chain Management,7
+,,,,,Other Rank,,,Supply Chain Management,9
+Ministry of Defence,Defence Equipment & Support,Defence Equipment & Support,18628,Head of Defence Support Chain Operations & Movements,C1,,,Defence Support Chain Operations & Movements,7
+,,,,,C2,,,Defence Support Chain Operations & Movements,22
+,,,,,D,,,Defence Support Chain Operations & Movements,15
+,,,,,E1,,,Defence Support Chain Operations & Movements,33
+,,,,,Captain,,,Defence Support Chain Operations & Movements,1
+,,,,,Commander,,,Defence Support Chain Operations & Movements,1
+,,,,,Lt Commander,,,Defence Support Chain Operations & Movements,2
+,,,,,Lieutenant,,,Defence Support Chain Operations & Movements,1
+,,,,,Other Rank,,,Defence Support Chain Operations & Movements,2
+,,,,,Lt Colonel,,,Defence Support Chain Operations & Movements,5
+,,,,,Major,,,Defence Support Chain Operations & Movements,13
+,,,,,Captain,,,Defence Support Chain Operations & Movements,2
+,,,,,Other Rank,,,Defence Support Chain Operations & Movements,25
+,,,,,Group Captain,,,Defence Support Chain Operations & Movements,1
+,,,,,Wing Commander,,,Defence Support Chain Operations & Movements,4
+,,,,,Squadron Leader,,,Defence Support Chain Operations & Movements,10
+,,,,,Flt Lieutenant,,,Defence Support Chain Operations & Movements,10
+,,,,,Other Rank,,,Defence Support Chain Operations & Movements,27
+Ministry of Defence,Defence Equipment & Support,Defence Equipment & Support,18629,Head Defence Fuels Group,B1,,,Defence Fuels Group,1
+,,,,,B2,,,Defence Fuels Group,3
+,,,,,C1,,,Defence Fuels Group,11
+,,,,,C2,,,Defence Fuels Group,17
+,,,,,D,,,Defence Fuels Group,28
+,,,,,E1,,,Defence Fuels Group,21
+,,,,,SZ2,,,Defence Fuels Group,44
+,,,,,SZ3,,,Defence Fuels Group,20
+,,,,,Lieutenant,,,Defence Fuels Group,1
+,,,,,Lt Colonel,,,Defence Fuels Group,2
+,,,,,Major,,,Defence Fuels Group,3
+,,,,,Captain,,,Defence Fuels Group,1
+,,,,,Other Rank,,,Defence Fuels Group,5
+,,,,,Group Captain,,,Defence Fuels Group,1
+,,,,,Wing Commander,,,Defence Fuels Group,2
+,,,,,Squadron Leader,,,Defence Fuels Group,1
+,,,,,Flt Lieutenant,,,Defence Fuels Group,2
+,,,,,Other Rank,,,Defence Fuels Group,1
+Ministry of Defence,Defence Equipment & Support,Defence Equipment & Support,18631,Head of Logistic Commodities,B1,,,Logistic Commodities,2
+,,,,,B2,,,Logistic Commodities,10
+,,,,,C1,,,Logistic Commodities,41
+,,,,,C2,,,Logistic Commodities,83
+,,,,,D,,,Logistic Commodities,77
+,,,,,E1,,,Logistic Commodities,75
+,,,,,SZ1,,,Logistic Commodities,18
+,,,,,SZ2,,,Logistic Commodities,3
+,,,,,Captain,,,Logistic Commodities,1
+,,,,,Commander,,,Logistic Commodities,1
+,,,,,Lt Commander,,,Logistic Commodities,1
+,,,,,Lieutenant,,,Logistic Commodities,2
+,,,,,Other Rank,,,Logistic Commodities,2
+,,,,,Colonel,,,Logistic Commodities,2
+,,,,,Lt Colonel,,,Logistic Commodities,5
+,,,,,Major,,,Logistic Commodities,9
+,,,,,Captain,,,Logistic Commodities,1
+,,,,,Other Rank,,,Logistic Commodities,11
+,,,,,Squadron Leader,,,Logistic Commodities,4
+,,,,,Other Rank,,,Logistic Commodities,3
+Ministry of Defence,Defence Equipment & Support,Defence Equipment & Support,105258,Head Disposal Services Authority,B1,,,Disposal Services Agency,3
+,,,,,C1,,,Disposal Services Agency,12
+,,,,,C2,,,Disposal Services Agency,20
+,,,,,D,,,Disposal Services Agency,20
+,,,,,E1,,,Disposal Services Agency,24
+,,,,,Commander,,,Disposal Services Agency,1
+,,,,,Lt Commander,,,Disposal Services Agency,2
+,,,,,Other Rank,,,Disposal Services Agency,1
+,,,,,Other Rank,,,Disposal Services Agency,1
+Ministry of Defence,Defence Equipment & Support,Defence Equipment & Support,21000,Head of British Forces Post Office,C1,,,British Forces Post Office,31
+,,,,,C2,,,British Forces Post Office,9
+,,,,,D,,,British Forces Post Office,28
+,,,,,E1,,,British Forces Post Office,157
+,,,,,SZ1,,,British Forces Post Office,2
+,,,,,SZ2,,,British Forces Post Office,8
+,,,,,Lieutenant,,,British Forces Post Office,1
+,,,,,Other Rank,,,British Forces Post Office,2
+,,,,,Colonel,,,British Forces Post Office,2
+,,,,,Lt Colonel,,,British Forces Post Office,4
+,,,,,Major,,,British Forces Post Office,3
+,,,,,Captain,,,British Forces Post Office,3
+,,,,,Other Rank,,,British Forces Post Office,110
+Ministry of Defence,Defence Equipment & Support,Defence Equipment & Support,179865,Head Logistics Network Enabled Capability Programme,B1,,,Logistics Network Enabled Capability Programme,3
+,,,,,B2,,,Logistics Network Enabled Capability Programme,15
+,,,,,C1,,,Logistics Network Enabled Capability Programme,65
+,,,,,C2,,,Logistics Network Enabled Capability Programme,180
+,,,,,D,,,Logistics Network Enabled Capability Programme,157
+,,,,,E1,,,Logistics Network Enabled Capability Programme,81
+,,,,,SZ1,,,Logistics Network Enabled Capability Programme,1
+,,,,,SZ2,,,Logistics Network Enabled Capability Programme,1
+,,,,,Captain,,,Logistics Network Enabled Capability Programme,1
+,,,,,Commander,,,Logistics Network Enabled Capability Programme,4
+,,,,,Lt Commander,,,Logistics Network Enabled Capability Programme,10
+,,,,,Lieutenant,,,Logistics Network Enabled Capability Programme,1
+,,,,,Other Rank,,,Logistics Network Enabled Capability Programme,20
+,,,,,Colonel,,,Logistics Network Enabled Capability Programme,1
+,,,,,Lt Colonel,,,Logistics Network Enabled Capability Programme,14
+,,,,,Major,,,Logistics Network Enabled Capability Programme,19
+,,,,,Captain,,,Logistics Network Enabled Capability Programme,2
+,,,,,Other Rank,,,Logistics Network Enabled Capability Programme,100
+,,,,,Wing Commander,,,Logistics Network Enabled Capability Programme,6
+,,,,,Squadron Leader,,,Logistics Network Enabled Capability Programme,20
+,,,,,Flt Lieutenant,,,Logistics Network Enabled Capability Programme,15
+,,,,,Flying Officer,,,Logistics Network Enabled Capability Programme,5
+,,,,,Other Rank,,,Logistics Network Enabled Capability Programme,84
+Ministry of Defence,Defence Equipment & Support,Defence Equipment & Support,170311,Chief of Materiel (Fleet),D,,,Executive Assistant,1
+,,,,,Commander,,,Military Assistant,1
+,,,,,Lieutenant,,,Assistant Military Assistant,1
+Ministry of Defence,Defence Equipment & Support,Defence Equipment & Support,170310,Chief of Materiel (Land),D,,,Executive Assistant,1
+,,,,,Lt Colonel,,,Military Assistant,1
+,,,,,Major,,,Assistant Military Assistant,1
+Ministry of Defence,Defence Equipment & Support,Defence Equipment & Support,172101,Chief of Materiel (Air),D,,,Executive Assistant,1
+,,,,,Wing Commander,,,Military Assistant,1
+,,,,,Squadron Leader,,,Assistant Military Assistant,1
+Ministry of Defence,Defence Equipment & Support,Defence Equipment & Support,180876,Head of Sustainable Procurement,B1,,,Sustainable Procurement,1
+,,,,,C1,,,Sustainable Procurement,4
+,,,,,Group Captain,,,Sustainable Procurement,1
+Ministry of Defence,Defence Equipment & Support,Defence Equipment & Support,9190,Head of Infrastructure,B1,,,Infrastructure,3
+,,,,,B2,,,Infrastructure,5
+,,,,,C1,,,Infrastructure,18
+,,,,,C2,,,Infrastructure,29
+,,,,,D,,,Infrastructure,27
+,,,,,E1,,,Infrastructure,34
+,,,,,SZ1,,,Infrastructure,3
+,,,,,SZ2,,,Infrastructure,2
+Ministry of Defence,Defence Equipment & Support,Defence Equipment & Support,9474,Head of Equipment Support Continuous Improvement Team,B1,,,Equipment Support Continuous Improvement Team,1
+,,,,,B2,,,Equipment Support Continuous Improvement Team,7
+,,,,,C1,,,Equipment Support Continuous Improvement Team,41
+,,,,,C2,,,Equipment Support Continuous Improvement Team,4
+,,,,,D,,,Equipment Support Continuous Improvement Team,1
+,,,,,E1,,,Equipment Support Continuous Improvement Team,5
+Ministry of Defence,Defence Equipment & Support,Defence Equipment & Support,178,Head of International Relations ,B1,,,International Relations ,1
+,,,,,B2,,,International Relations ,3
+,,,,,C1,,,International Relations ,5
+,,,,,C2,,,International Relations ,1
+,,,,,D,,,International Relations ,1
+,,,,,E1,,,International Relations ,2
+Ministry of Defence,Defence Equipment & Support,Defence Equipment & Support,3321,Director Safety & Engineering,B2,,,Land Systems,2
+,,,,,C1,,,Land Systems,10
+,,,,,C2,,,Land Systems,8
+,,,,,D,,,Land Systems,1
+,,,,,E1,,,Land Systems,1
+,,,,,Lt Colonel,,,Land Systems,2
+,,,,,Major,,,Land Systems,2
+,,,,,Captain,,,Land Systems,1
+,,,,,Other Rank,,,Land Systems,17
+,,,,,B1,,,Defence Standards,1
+,,,,,B2,,,Defence Standards,2
+,,,,,C1,,,Defence Standards,7
+,,,,,C2,,,Defence Standards,11
+,,,,,D,,,Defence Standards,1
+,,,,,E1,,,Defence Standards,4
+,,,,,B1,,,Business Systems Grp,1
+,,,,,B2,,,Business Systems Grp,5
+,,,,,C1,,,Business Systems Grp,6
+,,,,,C2,,,Business Systems Grp,9
+,,,,,D,,,Business Systems Grp,4
+,,,,,E1,,,Business Systems Grp,2
+,,,,,Lt Colonel,,,Business Systems Grp,1
+,,,,,Lt Colonel,,,Military Assistant,1
+,,,,,D,,,Executive Assistant,1
+,,,,,B1,,,Defence Quality Assurance,1
+,,,,,B2,,,Defence Quality Assurance,4
+,,,,,C1,,,Defence Quality Assurance,24
+,,,,,C2,,,Defence Quality Assurance,35
+,,,,,D,,,Defence Quality Assurance,11
+,,,,,E1,,,Defence Quality Assurance,14
+Ministry of Defence,Defence Equipment & Support,Defence Equipment & Support,114,Head of Defence Nuclear Safety Regulator,B1,,,Defence Nuclear Safety Regulator,2
+,,,,,B2,,,Defence Nuclear Safety Regulator,5
+,,,,,C1,,,Defence Nuclear Safety Regulator,9
+,,,,,D,,,Defence Nuclear Safety Regulator,1
+,,,,,E1,,,Defence Nuclear Safety Regulator,2
+,,,,,Commander,,,Defence Nuclear Safety Regulator,2
+,,,,,Lt Commander,,,Defence Nuclear Safety Regulator,1
+Ministry of Defence,Defence Equipment & Support,Defence Equipment & Support,179064,Head of Systems Engineering & Integration Group,B1,,,Systems Engineering & Integration Group,6
+,,,,,B2,,,Systems Engineering & Integration Group,8
+,,,,,C1,,,Systems Engineering & Integration Group,34
+,,,,,C2,,,Systems Engineering & Integration Group,23
+,,,,,D,,,Systems Engineering & Integration Group,23
+,,,,,E1,,,Systems Engineering & Integration Group,12
+,,,,,SZ2,,,Systems Engineering & Integration Group,2
+,,,,,Commander,,,Systems Engineering & Integration Group,2
+,,,,,Lt Commander,,,Systems Engineering & Integration Group,2
+,,,,,Other Rank,,,Systems Engineering & Integration Group,2
+,,,,,Lt Colonel,,,Systems Engineering & Integration Group,1
+,,,,,Major,,,Systems Engineering & Integration Group,2
+,,,,,Other Rank,,,Systems Engineering & Integration Group,16
+,,,,,Wing Commander,,,Systems Engineering & Integration Group,1
+,,,,,Squadron Leader,,,Systems Engineering & Integration Group,1
+,,,,,Flt Lieutenant,,,Systems Engineering & Integration Group,3
+,,,,,Other Rank,,,Systems Engineering & Integration Group,11
+Ministry of Defence,Defence Equipment & Support,Defence Equipment & Support,2691,Head of Sea Systems,B1,,,Sea Systems,5
+,,,,,B2,,,Sea Systems,13
+,,,,,C1,,,Sea Systems,21
+,,,,,C2,,,Sea Systems,17
+,,,,,D,,,Sea Systems,2
+,,,,,E1,,,Sea Systems,10
+,,,,,Captain,,,Sea Systems,1
+,,,,,Commander,,,Sea Systems,2
+,,,,,Lt Commander,,,Sea Systems,2
+,,,,,Lieutenant,,,Sea Systems,1
+,,,,,Other Rank,,,Sea Systems,3
+Ministry of Defence,Defence Equipment & Support,Defence Equipment & Support,172010,Head of Safety & Environment Protection,B1,,,Safety & Environment Protection,1
+,,,,,B2,,,Safety & Environment Protection,2
+,,,,,C1,,,Safety & Environment Protection,13,
+,,,,,C2,,,Safety & Environment Protection,11,
+,,,,,D,,,Safety & Environment Protection,4,
+,,,,,E1,,,Safety & Environment Protection,4,
+Ministry of Defence,Defence Equipment & Support,Defence Equipment & Support,1,Director Human Resources,Apprentices,,,Apprentices,160,#REF!
+,,,,,C1,,,Staff Officer,1,
+,,,,,D,,,Executive Assistant,1,
+,,,,,B2,,,Equipment & Support Development,1,
+,,,,,C1,,,Equipment & Support Development,5,
+,,,,,Commander,,,Equipment & Support Development,1,
+,,,,,B2,,,HR Plans,1,
+,,,,,D,,,HR Plans,1,
+,,,,,E1,,,HR Plans,1,
+,,,,,C1,,,Trades Union Reps,3,
+,,,,,C2,,,Trades Union Reps,3,
+,,,,,D,,,Trades Union Reps,2,
+,,,,,Lieutenant,,,Air People Team,1
+,,,,,C1,,,Redeployment Pool,2
+,,,,,C2,,,Redeployment Pool,2
+,,,,,B1,,,Secondments,1
+,,,,,B2,,,Secondments,2
+,,,,,C1,,,Secondments,3
+,,,,,C2,,,Secondments,2
+,,,,,D,,,Secondments,3
+,,,,,E1,,,Secondments,3
+Ministry of Defence,Defence Equipment & Support,Defence Equipment & Support,169927,Head of Human Resources Ops,B1,,,Human Resources Ops,3
+,,,,,B2,,,Human Resources Ops,4
+,,,,,C1,,,Human Resources Ops,17
+,,,,,C2,,,Human Resources Ops,14
+,,,,,D,,,Human Resources Ops,8
+,,,,,E1,,,Human Resources Ops,10
+,,,,,Commander,,,Human Resources Ops,2
+,,,,,Lieutenant,,,Human Resources Ops,1
+,,,,,Other Rank,,,Human Resources Ops,3
+,,,,,Group Captain,,,Human Resources Ops,1
+,,,,,Wing Commander,,,Human Resources Ops,1
+,,,,,Squadron Leader,,,Human Resources Ops,1
+,,,,,Other Rank,,,Human Resources Ops,3
+,,,,,Lt Colonel,,,Human Resources Ops,1
+,,,,,Other Rank,,,Human Resources Ops,5
+Ministry of Defence,Defence Equipment & Support,Defence Equipment & Support,170815,Head of Human Resources Plans,B1,,,Human Resources Plans,3
+,, ,,,B2,,,Human Resources Plans,5
+,,,,,C1,,,Human Resources Plans,14
+,,,,,C2,,,Human Resources Plans,17
+,,,,,D,,,Human Resources Plans,4
+,,,,,E1,,,Human Resources Plans,8
+,,,,,Lt Colonel,,,Human Resources Plans,1
+,,,,,Major,,,Human Resources Plans,1
+Ministry of Defence,Defence Equipment & Support,Defence Equipment & Support,115147,Head Commercial Project Enabling Team,B1,,,Commercial Project Enabling Team,2
+,,,,,B2,,,Commercial Project Enabling Team,5
+,,,,,C1,,,Commercial Project Enabling Team,29
+,,,,,C2,,,Commercial Project Enabling Team,19
+,,,,,D,,,Commercial Project Enabling Team,20
+,,,,,E1,,,Commercial Project Enabling Team,9
+Ministry of Defence,Defence Equipment & Support,Defence Equipment & Support,159581,Head of Cost Assurance & Analysis ,B1,,,Head of Cost Assurance & Analysis ,7
+,,,,,B2,,,Head of Cost Assurance & Analysis ,30
+,,,,,C1,,,Head of Cost Assurance & Analysis ,127
+,,,,,C2,,,Head of Cost Assurance & Analysis ,110
+,,,,,D,,,Head of Cost Assurance & Analysis ,34
+,,,,,E1,,,Head of Cost Assurance & Analysis ,17
+Ministry of Defence,Defence Equipment & Support,Defence Equipment & Support,184584,Head of Commercial Operations & Plans,B1,,,Commercial Operations & Plans,1
+,,,,,B2,,,Commercial Operations & Plans,9
+,,,,,C1,,,Commercial Operations & Plans,1
+,,,,,C2,,,Commercial Operations & Plans,1
+,,,,,D,,,Commercial Operations & Plans,1
+Ministry of Defence,Defence Equipment & Support,Defence Equipment & Support,18626,"Head of Commercial, Commands & Centre",B1,,,"Commercial, Commands & Centre",2
+,,,,,B2,,,"Commercial, Commands & Centre",3
+,,,,,C1,,,"Commercial, Commands & Centre",7
+,,,,,C2,,,"Commercial, Commands & Centre",11
+,,,,,D,,,"Commercial, Commands & Centre",3
+,,,,,E1,,,"Commercial, Commands & Centre",2
+Ministry of Defence,Defence Equipment & Support,Defence Equipment & Support,291,Head of Supplier Relations Team,B1,,,Supplier Relations Team,4
+,,,,,B2,,,Supplier Relations Team,5
+,,,,,C1,,,Supplier Relations Team,19
+,,,,,C2,,,Supplier Relations Team,2
+,,,,,D,,,Supplier Relations Team,4
+,,,,,E1,,,Supplier Relations Team,4
+Ministry of Defence,Defence Equipment & Support,Defence Equipment & Support,170772,Director Commercial ,C1,,,Private Secretary,1
+,,,,,C2,,,Assistant Private Secretary,1
+,,,,,D,,,Executive Assistant,1
+Ministry of Defence,Defence Equipment & Support,Defence Equipment & Support,9005,Chief Corporate Services,C1,,,Private Secretary,1
+,,,,,D,,,Executive Assistant,1
+Ministry of Defence,Defence Equipment & Support,Defence Equipment & Support,9105,Head Defence Logistic Operations,C1,,,Log Ops - Operations and Plans,1
+,,,,,D,,,Log Ops - Operations and Plans,1
+,,,,,Captain RN,,,Log Ops - Operations and Plans,1
+,,,,,Commander,,,Log Ops - Operations and Plans,2
+,,,,,Lt Commander,,,Log Ops - Operations and Plans,2
+,,,,,Colonel,,,Log Ops - Operations and Plans,1
+,,,,,Lt Colonel,,,Log Ops - Operations and Plans,2
+,,,,,Major,,,Log Ops - Operations and Plans,3
+,,,,,Wing Commander,,,Log Ops - Operations and Plans,2
+,,,,,Squadron Leader,,,Log Ops - Operations and Plans,2
+Ministry of Defence,Defence Equipment & Support,Defence Equipment & Support,9155,Head Defence Logistics Policy,B1,,,Log Ops - Policy,2
+,,,,,B2,,,Log Ops - Policy,3
+,,,,,C1,,,Log Ops - Policy,12
+,,,,,C2,,,Log Ops - Policy,4
+,,,,,D,,,Log Ops - Policy,4
+,,,,,E1,,,Log Ops - Policy,3
+,,,,,Commander,,,Log Ops - Policy,3
+,,,,,Lt Commander,,,Log Ops - Policy,9
+,,,,,Lt Colonel,,,Log Ops - Policy,7
+,,,,,Major,,,Log Ops - Policy,4
+,,,,,Other Rank,,,Log Ops - Policy,3
+,,,,,Wing Commander,,,Log Ops - Policy,5
+,,,,,Squadron Leader,,,Log Ops - Policy,4
+Ministry of Defence,Defence Equipment & Support,Defence Equipment & Support,168617,Head of Business Change Team,B1,,,Business Change Team,4
+,,,,,B2,,,Business Change Team,4
+,,,,,C1,,,Business Change Team,13
+,,,,,C2,,,Business Change Team,1
+,,,,,D,,,Business Change Team,2
+Ministry of Defence,Defence Equipment & Support,Defence Equipment & Support,115151,Head of Collocation Team,B1,,,Collocation Team,2
+,,,,,B2,,,Collocation Team,6
+,,,,,C1,,,Collocation Team,9
+,,,,,C2,,,Collocation Team,10
+,,,,,D,,,Collocation Team,6
+,,,,,E1,,,Collocation Team,8
+,,,,,Captain,,,Collocation Team,1
+Ministry of Defence,Defence Equipment & Support,Defence Equipment & Support,150079,Head of Plans & Programmes  ,B1,,,Plans & Programmes  ,1
+,,,,,C1,,,Plans & Programmes  ,4
+,,,,,C2,,,Plans & Programmes  ,2
+,,,,,D,,,Plans & Programmes  ,1
+,,,,,Captain,,,Plans & Programmes  ,1
+,,,,,Commander,,,Plans & Programmes  ,1
+,,,,,Lt Commander,,,Plans & Programmes  ,1
+,,,,,Colonel,,,Plans & Programmes  ,3
+,,,,,Lt Colonel,,,Plans & Programmes  ,1
+,,,,,Major,,,Plans & Programmes  ,1
+,,,,,Group Captain,,,Plans & Programmes  ,1
+,,,,,Wing Commander,,,Plans & Programmes  ,1
+Ministry of Defence,Defence Equipment & Support,Defence Equipment & Support,9028,Head of Secretariat & Communications,B1,,,Secretariat & Communications,2
+,,,,,B2,,,Secretariat & Communications,6
+,,,,,C1,,,Secretariat & Communications,18
+,,,,,C2,,,Secretariat & Communications,25
+,,,,,D,,,Secretariat & Communications,14
+,,,,,E1,,,Secretariat & Communications,12
+,,,,,Wing Commander,,,Secretariat & Communications,2
+,,,,,Other Rank,,,Secretariat & Communications,2
+Ministry of Defence,Defence Equipment & Support,Defence Equipment & Support,43,Head of Corporate Approvals Performance and Risk,B1,,,"Corporate Performance, Approvals & Risk ",1
+,,,,,B2,,,"Corporate Performance, Approvals & Risk ",2
+,,,,,C1,,,"Corporate Performance, Approvals & Risk ",14
+,,,,,C2,,,"Corporate Performance, Approvals & Risk ",4
+,,,,,E1,,,"Corporate Performance, Approvals & Risk ",1
+Ministry of Defence,Defence Equipment & Support,Defence Equipment & Support,3323,Director Finance,B1,,,Finance Professionalism,1
+,,,,,B2,,,Finance Professionalism,1
+,,,,,C1,,,Finance Professionalism,4
+,,,,,C2,,,Finance Professionalism,7
+,,,,,D,,,Finance Professionalism,3
+,,,,,E1,,,Finance Professionalism,2
+,,,,,C1,,,Staff Officer,1
+,,,,,B1,,,Financial Assurance and Governance,1
+,,,,,B2,,,Financial Assurance and Governance,2
+,,,,,C1,,,Financial Assurance and Governance,13
+,,,,,C2,,,Financial Assurance and Governance,5
+,,,,,D,,,Financial Assurance and Governance,1
+,,,,,E1,,,Financial Assurance and Governance,1
+,,,,,D,,,Trainee Accountants,38
+Ministry of Defence,Defence Equipment & Support,Defence Equipment & Support,148725,Head of Financial Accounting,B1,,,Financial Accounting,1
+,,,,,B2,,,Financial Accounting,7
+,,,,,C1,,,Financial Accounting,19
+,,,,,C2,,,Financial Accounting,46
+,,,,,D,,,Financial Accounting,41
+,,,,,E1,,,Financial Accounting,24
+Ministry of Defence,Defence Equipment & Support,Defence Equipment & Support,183883,Head of Management Accountant,B1,,,Management Accounting,1
+,,,,,B2,,,Management Accounting,4
+,,,,,C1,,,Management Accounting,11
+,,,,,C2,,,Management Accounting,10
+,,,,,D,,,Management Accounting,4
+,,,,,E1,,,Management Accounting,4
+,,,,,Wing Commander,,,Management Accounting,1
+Ministry of Defence,Defence Equipment & Support,Defence Equipment & Support,9000,Chief of Defence Materiel,B2,,,Private Secretary,1
+,,,,,D,,,Assistant Private Secretary,2
+,,,,,Commander,,,Military Assistant,1
+,,,,,Captain,,,Assistant Military Assistant,1
+Ministry of Defence,Defence Equipment & Support,Defence Equipment & Support,175112,Director Change,D,,,Executive Assistant,1
+Ministry of Defence,Defence Equipment & Support,Defence Equipment & Support,168616,Chief Of Staff,C1,,,Private Secretary,1
+Ministry of Defence,Defence Equipment & Support,Defence Equipment & Support,9102,Assistant Chief of Defence Staff (Logistic Operations),D,,,Executive Assistant,1
+,,,,,Squadron Leader,,,Military Assistant,1
+Ministry of Defence,Defence Equipment & Support,Defence Equipment & Support,18623,Director Jont Support Chain  ,Locally Engaged Civilian,,,Locally Engaged Civilian,263
+Ministry of Defence,Defence Equipment & Support,Defence Equipment & Support,1135585,Director Information Systems  ,Locally Engaged Civilian,,,Locally Engaged Civilian,22
+
+
+,,,,,,,,MOD staff (MOD Civil Servants and UK Military),20493
+,,,,,,,,Locally Employed Civilians,285

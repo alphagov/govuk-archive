@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-GB" xmlns="http://www.w3.org/2005/Atom">
+  <id>tag:www.gov.uk,2005:/government/publications</id>
+  <link rel="alternate" type="text/html" href="https://www.gov.uk/government"/>
+  <link rel="self" type="application/atom+xml" href="https://www.gov.uk/government/publications.atom?departments%5B%5D=department-for-transport&amp;publication_type=corporate-reports"/>
+  <title>Inside government</title>
+  <subtitle>Recent publications</subtitle>
+  <author>
+    <name>HM Government</name>
+  </author>
+  <updated>2012-09-24T00:00:00+01:00</updated>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/17760</id>
+    <published>2012-09-24T00:00:00+01:00</published>
+    <updated>2012-09-24T00:00:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/business-continuity-management-policy"/>
+    <title>Business continuity management policy</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This policy is a key part of the Department for Transport’s internal control framework and specifically covers the department’s approach to business continuity management (BCM). This policy applies to all parts of the Department for Transport and its executive agencies and all of the activities it undertakes. The department’s non-departmental public bodies (NDPBs) and those treated as NDPBs are to decide what BCM arrangements they need to have in place, using this policy as a guide.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/10041</id>
+    <published>2012-07-16T00:00:00+01:00</published>
+    <updated>2012-07-16T00:00:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/department-for-transport-annual-report-and-accounts"/>
+    <title>Department for Transport annual report and accounts</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="department-for-transport-annual-report-and-accounts-2011-12"&gt;Department for Transport annual report and accounts 2011-12&lt;/h2&gt;
+
+&lt;p&gt;The annual report and accounts presents the consolidated results for the year ended 31 March 2012.&lt;/p&gt;
+
+&lt;h2 id="order-printed-copies"&gt;Order printed copies&lt;/h2&gt;
+
+&lt;p&gt;Printed copies of the annual report and accounts are available from the &lt;a rel="external" href="http://www.tsoshop.co.uk/"&gt;TSO shop&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;ISBN: 9780102978018&lt;/p&gt;
+
+&lt;p&gt;Cost: £29.00&lt;/p&gt;
+
+&lt;h2 id="past-annual-report-and-accounts"&gt;Past annual report and accounts&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel="external" href="http://webarchive.nationalarchives.gov.uk/+/http://www.dft.gov.uk/about/publications/apr/resourceaccounts0910/pdf/resourceaccounts0910.pdf"&gt;Resource Accounts 2009-10 (PDF, 1442 KB)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a rel="external" href="http://webarchive.nationalarchives.gov.uk/+/http://www.dft.gov.uk/about/publications/apr/ap/apr2009/pdf/report.pdf"&gt;Department for Transport Autumn Performance Report 2009 CM 7737 (PDF, 331 KB)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a rel="external" href="http://webarchive.nationalarchives.gov.uk/+/http://www.dft.gov.uk/about/publications/apr/ar2009/"&gt;Annual Report and Resource Accounts 2008-09&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a rel="external" href="http://webarchive.nationalarchives.gov.uk/+/http://www.dft.gov.uk/about/publications/apr/ap/autumnperformance08.pdf"&gt;Department for Transport Autumn Performance Report 2008 CM 7510 (PDF, 2048 KB)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a rel="external" href="http://webarchive.nationalarchives.gov.uk/+/http://www.dft.gov.uk/about/publications/apr/ar2008/"&gt;Department for Transport Annual Report 2008&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a rel="external" href="http://webarchive.nationalarchives.gov.uk/+/http://www.dft.gov.uk/about/publications/apr/ap/autumnperformance07.pdf"&gt;Department for Transport Autumn Performance Report 2007 CM 7266 (PDF, 360 KB)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a rel="external" href="http://webarchive.nationalarchives.gov.uk/+/http://www.dft.gov.uk/about/publications/apr/ar2007/"&gt;Department for Transport Annual Report 2007&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a rel="external" href="http://webarchive.nationalarchives.gov.uk/+/http://www.dft.gov.uk/about/publications/apr/ap/pdfautperfrep06.pdf"&gt;Department for Transport Autumn Performance Report 2006 CM 6976 (PDF, 807 KB)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a rel="external" href="http://webarchive.nationalarchives.gov.uk/+/http://www.dft.gov.uk/about/publications/apr/ar2006/"&gt;Department for Transport Annual Report 2006&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a rel="external" href="http://webarchive.nationalarchives.gov.uk/+/http://www.dft.gov.uk/about/publications/apr/ap/autumnperformancereport2005.pdf"&gt;Department for Transport Autumn Performance Report 2005 CM 6708 (PDF, 298 KB)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a rel="external" href="http://webarchive.nationalarchives.gov.uk/+/http://www.dft.gov.uk/about/publications/apr/ar2005/"&gt;Department for Transport Annual Report 2005&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a rel="external" href="http://webarchive.nationalarchives.gov.uk/+/http://www.dft.gov.uk/about/publications/apr/ap/autumnperformancereport2004.pdf"&gt;Department for Transport Autumn Performance Report 2004 CM 6403 (PDF, 2048 KB)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a rel="external" href="http://webarchive.nationalarchives.gov.uk/+/http://www.dft.gov.uk/about/publications/apr/ar2004/"&gt;Department for Transport Annual Report 2004&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a rel="external" href="http://webarchive.nationalarchives.gov.uk/+/http://www.dft.gov.uk/about/publications/apr/responsetothereportonthedar2003"&gt;The government’s Response to the Report on the DAR 2003 CM 6157&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a rel="external" href="http://webarchive.nationalarchives.gov.uk/+/http://www.dft.gov.uk/about/publications/apr/ap/autumnperformancereport2003.pdf"&gt;Department for Transport Autumn Performance Report 2003 CM 6045 (PDF, 130 KB)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a rel="external" href="http://webarchive.nationalarchives.gov.uk/+/http://www.dft.gov.uk/about/publications/apr/ar2003/"&gt;Department for Transport Annual Report 2003&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;h2 id="related-documents"&gt;Related documents&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel="external" href="http://www.dft.gov.uk/dvla/ARA2011-12.aspx"&gt;DVLA annual report and accounts 2011-12, 27 June 2012&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/15908</id>
+    <published>2012-07-11T00:00:00+01:00</published>
+    <updated>2012-07-11T00:00:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/department-for-transport-reducing-regulation-annual-report-2012"/>
+    <title>Department for Transport reducing regulation annual report 2012</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This is the Department for Transport’s first report detailing its regulatory performance over the previous year in the context of the government’s reducing regulation policy. If there is demand for it, this will become an annual report reviewing the previous year’s performance.&lt;/p&gt;
+
+&lt;p&gt;This report lists the regulations made in the course of the year, along with links to the impact assessments and opinions of the Regulatory Policy Committee relating to them.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/13347</id>
+    <published>2012-06-29T00:00:00+01:00</published>
+    <updated>2012-06-29T00:00:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/department-for-transport-business-plan"/>
+    <title>Department for Transport business plan</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This 2012-15 business plan sets out the programme of work we plan to carry out over the next three years to support the coalition government’s objectives. It also contains information on our structure and budget, and the way we measure our performance.&lt;/p&gt;
+
+&lt;p&gt;The full plan is available to download along with annexes. This year’s business plan is an update of the business plan published in May 2011. The full list of actions and indicators in the 2011 plan, with details of any changes made in this revision, is available to view in the &lt;abbr title="Department for Transport"&gt;DfT&lt;/abbr&gt; 2011 business plan revisions table.&lt;/p&gt;
+
+&lt;p&gt;The structural reform plan section can be viewed on the updated &lt;a rel="external" href="http://transparency.number10.gov.uk/"&gt;Number 10 transparency website&lt;/a&gt;, with information on the current status of each action, and explanations for any deadlines missed, updated monthly. The &lt;a rel="external" href="http://transparency-archive.number10.gov.uk/transparency/srp/"&gt;previous version of the Number 10 transparency website&lt;/a&gt; hosts the final set of updates for May 2012.&lt;/p&gt;
+
+&lt;h2 id="may-2011-business-plan-and-annexes"&gt;May 2011 Business Plan and annexes&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel="external" href="http://webarchive.nationalarchives.gov.uk/20121025123854/http://assets.dft.gov.uk/publications/business-plan-2011-2015/DFT-Business-Plan.pdf"&gt;&lt;abbr title="Department for Transport"&gt;DfT&lt;/abbr&gt; business plan (PDF 334 KB), May 2011&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a rel="external" href="http://webarchive.nationalarchives.gov.uk/20121025123854/http://assets.dft.gov.uk/publications/business-plan-2011-2015/DfT-annexa.pdf"&gt;Annex A: Common areas of spend data (PDF, 212 KB)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a rel="external" href="http://webarchive.nationalarchives.gov.uk/20121025123854/http://assets.dft.gov.uk/publications/business-plan-2011-2015/DfT-annexb.pdf"&gt;Annex B: Changes to structural reform plan (PDF, 18 KB)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;h2 id="monthly-updates"&gt;Monthly updates&lt;/h2&gt;
+
+&lt;p&gt;The department publishes monthly updates on progress against business plan actions. From June 2012 these updates will be published on the &lt;a rel="external" href="http://transparency.number10.gov.uk/business-plan/11"&gt;Number 10 transparency website&lt;/a&gt;. The May 2012 progress report below is reported against the May 2011 business plan. Some of the actions have now been updated in the May 2012 business plan. For a full list of changes to the May 2011 business plan actions please see the business plan revisions table.&lt;/p&gt;
+
+&lt;h3 id="section"&gt;2012&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel="external" href="http://webarchive.nationalarchives.gov.uk/20121025123854/http://assets.dft.gov.uk/publications/business-plan-2011-2015/progress-update-1205.pdf"&gt;Business plan 2011-2015 progress update May 2012 (PDF, 112 KB)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a rel="external" href="http://webarchive.nationalarchives.gov.uk/20121025123854/http://assets.dft.gov.uk/publications/business-plan-2011-2015/progress-update-1204.pdf"&gt;Business plan 2011-2015 progress update April 2012 (PDF, 115 KB)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a rel="external" href="http://webarchive.nationalarchives.gov.uk/20121025123854/http://assets.dft.gov.uk/publications/business-plan-2011-2015/progress-update-1203.pdf"&gt;Business plan 2011-2015 progress update March 2012 (PDF, 116 KB)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a rel="external" href="http://webarchive.nationalarchives.gov.uk/20121025123854/http://assets.dft.gov.uk/publications/business-plan-2011-2015/progress-update-1202.pdf"&gt;Business plan 2011-2015 progress update February 2012 (PDF, 114 KB)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a rel="external" href="http://webarchive.nationalarchives.gov.uk/20121025123854/http://assets.dft.gov.uk/publications/business-plan-2011-2015/progress-update-1201.pdf"&gt;Business plan 2011-2015 progress update January 2012 (PDF, 81 KB)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;h3 id="section-1"&gt;2011&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel="external" href="http://webarchive.nationalarchives.gov.uk/20121025123854/http://assets.dft.gov.uk/publications/business-plan-2011-2015/progress-update-1112.pdf"&gt;Business plan 2011-2015 progress update December 2011 (PDF, 72 KB)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a rel="external" href="http://webarchive.nationalarchives.gov.uk/20121025123854/http://assets.dft.gov.uk/publications/business-plan-2011-2015/progress-update-1111.pdf"&gt;Business plan 2011-2015 progress update November 2011 (PDF, 84 KB)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a rel="external" href="http://webarchive.nationalarchives.gov.uk/20121025123854/http://assets.dft.gov.uk/publications/business-plan-2011-2015/progress-update-1110.pdf"&gt;Business plan 2011-2015 progress update October 2011 (PDF, 84 KB)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a rel="external" href="http://webarchive.nationalarchives.gov.uk/20121025123854/http://assets.dft.gov.uk/publications/business-plan-2011-2015/progress-update-1109.pdf"&gt;Business plan 2011-2015 progress update September 2011 (PDF, 94 KB)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a rel="external" href="http://webarchive.nationalarchives.gov.uk/20121025123854/http://assets.dft.gov.uk/publications/business-plan-2011-2015/progress-update-1108.pdf"&gt;Business plan 2011-2015 progress update August 2011 (PDF, 77 KB)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a rel="external" href="http://webarchive.nationalarchives.gov.uk/20121025123854/http://assets.dft.gov.uk/publications/business-plan-2011-2015/progress-update-1107.pdf"&gt;Business plan 2011-2015 progress update July 2011 (PDF, 62 KB)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a rel="external" href="http://webarchive.nationalarchives.gov.uk/20121025123854/http://assets.dft.gov.uk/publications/business-plan-2011-2015/progress-update-1106.pdf"&gt;Business plan 2011-2015 progress update June 2011 (PDF, 73 KB)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a rel="external" href="http://webarchive.nationalarchives.gov.uk/20121025123854/http://assets.dft.gov.uk/publications/business-plan-2011-2015/progress-update-1105.pdf"&gt;Business plan 2011-2015 progress update May 2011 (PDF, 75 KB)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a rel="external" href="http://webarchive.nationalarchives.gov.uk/20121025123854/http://assets.dft.gov.uk/publications/business-plan-2011-2015/progress-update-1104.pdf"&gt;Business plan 2011-2015 progress update April 2011 (PDF, 92 KB)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a rel="external" href="http://webarchive.nationalarchives.gov.uk/20121025123854/http://assets.dft.gov.uk/publications/business-plan-2011-2015/progress-update-1103.pdf"&gt;Business plan 2011-2015 progress update March 2011 (PDF, 90 KB)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a rel="external" href="http://webarchive.nationalarchives.gov.uk/20121025123854/http://assets.dft.gov.uk/publications/business-plan-2011-2015/progress-update-1102.pdf"&gt;Business plan 2011-2015 progress update February 2011 (PDF, 91 KB)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a rel="external" href="http://webarchive.nationalarchives.gov.uk/20121025123854/http://assets.dft.gov.uk/publications/business-plan-2011-2015/progress-update-1101.pdf"&gt;Business plan 2011-2015 progress update January 2011 (PDF, 82 KB)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;h3 id="section-2"&gt;2010&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel="external" href="http://webarchive.nationalarchives.gov.uk/20121025123854/http://assets.dft.gov.uk/publications/business-plan-2011-2015/progress-update-1012.pdf"&gt;Business plan 2011-2015 progress update December 2010 (PDF, 76 KB)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;h2 id="input-and-impact-indicators"&gt;Input and impact indicators&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="/government/publications/input-and-impact-indicators"&gt;Input and impact indicators&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;h2 id="business-plan-transparency-consultation"&gt;Business plan transparency consultation&lt;/h2&gt;
+
+&lt;p&gt;The department ran a consultation on the transparency section of the business plan from November 2010 to January 2011. The responses to the consultation were taken into account in the process to refresh the business plan for publication in May 2011.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel="external" href="http://webarchive.nationalarchives.gov.uk/20121025123854/http://assets.dft.gov.uk/consultations/transparency/dft-2011-15-responses.pdf"&gt;Summary of the responses received to the consultation (PDF, 56 KB)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/15630</id>
+    <published>2012-03-19T00:00:00+00:00</published>
+    <updated>2012-03-19T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/department-for-transport-capability-action-plan"/>
+    <title>Department for Transport capability action plan</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Capability review of the Department for Transport for 2011-2012. Capability reviews are an important tool to help us improve our performance and help make &lt;abbr title="Department for Transport"&gt;DfT&lt;/abbr&gt; a more rewarding place to work.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/14074</id>
+    <published>2012-02-15T00:00:00+00:00</published>
+    <updated>2012-02-15T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/department-for-transport-equality-monitoring"/>
+    <title>Department for Transport equality monitoring</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="full-equality-monitoring-reports"&gt;2011 full equality monitoring reports&lt;/h2&gt;
+
+&lt;p&gt;An analysis of staff diversity, for staff in post between 1 April 2010 and 31 March 2011. The analysis looks at staff in post, cessations, grievances and discipline, training, sickness absence, performance markings and recruitment, and considers whether there were significant differences with respect to sex, race, disability, pay band, age, sexual orientation, religion and belief and working pattern.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel="external" href="http://webarchive.nationalarchives.gov.uk/20120215172540/http://assets.dft.gov.uk/publications/equality-monitoring/report.pdf"&gt;Department for Transport equality monitoring 2010 to 2011 full report (PDF, 129KB)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a rel="external" href="http://webarchive.nationalarchives.gov.uk/20120215172540/http://assets.dft.gov.uk/publications/equality-monitoring/annex.xls"&gt;Department for Transport equality monitoring 2010 to 2011 full report annexes (XLS)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a rel="external" href="http://webarchive.nationalarchives.gov.uk/20120215172540/http://assets.dft.gov.uk/publications/equality-monitoring/annex-csv.csv"&gt;Department for Transport equality monitoring 2010 to 2011 full report annexes (CSV)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;h2 id="equality-monitoring-in-the-transport-agencies"&gt;Equality monitoring in the transport agencies&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel="external" href="http://webarchive.nationalarchives.gov.uk/20120215172540/http://www.dft.gov.uk/publications/dvla-equality-monitoring-2011"&gt;Driver and Vehicle Licensing Agency (DVLA)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="/government/publications/equality-monitoring-in-dsa-2010-11"&gt;Driving Standards Agency (DSA)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a rel="external" href="http://webarchive.nationalarchives.gov.uk/20120215172540/http://www.dft.gov.uk/publications/gcda-equality-monitoring-2011"&gt;Government Car and Dispatch Agency (GSDA)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a rel="external" href="http://webarchive.nationalarchives.gov.uk/*/http://www.dft.gov.uk/publications/ha-equality-monitoring-2011"&gt;Highways Agency (HA)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a rel="external" href="http://webarchive.nationalarchives.gov.uk/20120215172540/http://www.dft.gov.uk/publications/mca-equality-monitoring-2011"&gt;Maritime and Coastguard Agency (MCA)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a rel="external" href="http://webarchive.nationalarchives.gov.uk/20120215172540/http://www.dft.gov.uk/publications/vca-equality-monitoring-2011"&gt;Vehicle Certification Agency (VCA)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a rel="external" href="http://webarchive.nationalarchives.gov.uk/20120215172540/http://www.dft.gov.uk/publications/vosa-equality-monitoring-2011"&gt;Vehicle and Operator Services Agency (VOSA)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;h2 id="past-reports"&gt;Past reports&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel="external" href="http://webarchive.nationalarchives.gov.uk/20120215172540/http://assets.dft.gov.uk/publications/about-diversity-esmr-equality-monitoring-0910-pdf/report.pdf"&gt;Equality Monitoring Report in DfT(C) 2009/10 (PDF, 185 KB)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a rel="external" href="http://webarchive.nationalarchives.gov.uk/20120215172540/http://assets.dft.gov.uk/publications/about-diversity-esmr-equality-monitoring-0910-xls/annexes.xls"&gt;Equality Monitoring Report in DfT(C) 2009/10 Annexes (XLS, 255 KB)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a rel="external" href="http://webarchive.nationalarchives.gov.uk/20120215172540/http://assets.dft.gov.uk/publications/datasets/equalitymonitoring-0910.csv"&gt;Equality Monitoring Report in DfT(C) 2009/10 underlying data (CSV, 19 KB)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a rel="external" href="http://webarchive.nationalarchives.gov.uk/20120215172540/http://assets.dft.gov.uk/publications/about-diversity-esmr-equality-monitoring-pdf/equalityreport.pdf"&gt;DfT Equality Monitoring Annual Summary 2009-10 (PDF, 133 KB)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/15955</id>
+    <published>2010-10-20T00:00:00+01:00</published>
+    <updated>2010-10-20T00:00:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/spending-review"/>
+    <title>Department for Transport spending review</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Transport provides the crucial links that allow people and businesses to prosper. &lt;/p&gt;
+
+&lt;p&gt;The government is committed to reducing the deficit, facilitating long-term, sustainable growth and tackling carbon emissions.&lt;/p&gt;
+
+&lt;p&gt;By cutting waste and taking hard decisions about priorities the department’s spending review settlement allows us to secure the investment in vital transport infrastructure that will support the national economic recovery.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Departmental Expenditure Limits (&lt;abbr title="Departmental Expenditure Limits"&gt;DEL&lt;/abbr&gt;) in billions [1]&lt;/strong&gt;&lt;/p&gt;
+
+&lt;table&gt;&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;2010-11&lt;/td&gt;
+      &lt;td&gt;2011-12&lt;/td&gt;
+      &lt;td&gt;2012-13&lt;/td&gt;
+      &lt;td&gt;2013-14&lt;/td&gt;
+      &lt;td&gt;2014-15&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Resource &lt;abbr title="Departmental Expenditure Limits"&gt;DEL&lt;/abbr&gt; [2]&lt;/td&gt;
+      &lt;td&gt;5.1&lt;/td&gt;
+      &lt;td&gt;5.3&lt;/td&gt;
+      &lt;td&gt;5.0&lt;/td&gt;
+      &lt;td&gt;5.0&lt;/td&gt;
+      &lt;td&gt;4.4&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Capital &lt;abbr title="Departmental Expenditure Limits"&gt;DEL&lt;/abbr&gt;
+&lt;/td&gt;
+      &lt;td&gt;7.7&lt;/td&gt;
+      &lt;td&gt;7.7&lt;/td&gt;
+      &lt;td&gt;8.1&lt;/td&gt;
+      &lt;td&gt;7.5&lt;/td&gt;
+      &lt;td&gt;7.5&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Total &lt;abbr title="Departmental Expenditure Limits"&gt;DEL&lt;/abbr&gt;&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;strong&gt;12.8&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;strong&gt;13.0&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;strong&gt;13.1&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;strong&gt;12.5&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;strong&gt;12.0&lt;/strong&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;[1] &lt;abbr title="Departmental Expenditure Limits"&gt;DELs&lt;/abbr&gt; are the amounts that departments are limited to spending in each year, and are carefully monitored by the Treasury to ensure they don’t go over those limits. &lt;abbr title="Departmental Expenditure Limits"&gt;DELs&lt;/abbr&gt; are set for a multi-year period at spending reviews. &lt;abbr title="Departmental Expenditure Limits"&gt;DEL&lt;/abbr&gt; is divided between two different types of spending - capital spending and resource spending:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;
+&lt;strong&gt;Capital&lt;/strong&gt; spending (referred to as &lt;strong&gt;&lt;abbr title="Capital spending"&gt;CDEL&lt;/abbr&gt;&lt;/strong&gt; in departmental budgets) is money spent on assets - that is, items that will last more than twelve months and be used repeatedly. It encompasses things like infrastructure spending, such as building a road or a hospital.&lt;/li&gt;
+  &lt;li&gt;
+&lt;strong&gt;Resource&lt;/strong&gt; spending (referred to as &lt;strong&gt;&lt;abbr title="Resource spending"&gt;RDEL&lt;/abbr&gt;&lt;/strong&gt; in departmental budgets) is money that is spent on the day to day running of a department, and the delivery of public services. Resource spending can be further divided between the programme budget (money spent on the provision of services, for example medicine) and the administration budget (back office costs, non-frontline staffing costs).&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;[2] In this table, Resource &lt;abbr title="Departmental Expenditure Limits"&gt;DEL&lt;/abbr&gt; excludes depreciation&lt;/p&gt;
+
+&lt;p&gt;Please see the HM Treasury website for further information:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel="external" href="http://www.hm-treasury.gov.uk/spend_index.htm"&gt;HM Treasury - Spending Review&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a rel="external" href="http://www.dft.gov.uk/news/press-releases/dft-press-20101020"&gt;Department for Transport - Transport Spending Review Press Notice&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a rel="external" href="http://www.dft.gov.uk/press/letters/tflfunding/"&gt;Spending Review - Transport for London funding agreement&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a rel="external" href="http://www.dft.gov.uk/publications/investment-in-local-major-transport-schemes"&gt;Investment in local major transport schemes&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a rel="external" href="http://www.dft.gov.uk/pgr/roads/network/strategic/highwaystransportschemes/"&gt;Investment in highways transport schemes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
+  </entry>
+</feed>

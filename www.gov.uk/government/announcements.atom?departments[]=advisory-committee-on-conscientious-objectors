@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-GB" xmlns="http://www.w3.org/2005/Atom">
+  <id>tag:www.gov.uk,2005:/government/announcements</id>
+  <link rel="alternate" type="text/html" href="https://www.gov.uk/government"/>
+  <link rel="self" type="application/atom+xml" href="https://www.gov.uk/government/announcements.atom?departments%5B%5D=advisory-committee-on-conscientious-objectors"/>
+  <title>Inside Government</title>
+  <subtitle>Recent announcements</subtitle>
+  <author>
+    <name>HM Government</name>
+  </author>
+  <updated>2012-12-12T12:18:00+00:00</updated>
+  <entry>
+    <id>tag:www.gov.uk,2005:AnnouncementPresenter/54845</id>
+    <published>2012-12-12T12:18:00+00:00</published>
+    <updated>2012-12-12T12:18:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/the-new-home-on-the-web-for-fco-mod-bis-and-ago"/>
+    <title>The new home on the web for FCO, MOD, BIS and AGO</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Four central government departments and several of their public bodies have today (13 December, 2012) become the latest central government organisations to move their corporate and policy content onto the new GOV.UK website - the new single home for all government services and information.&lt;/p&gt;
+
+&lt;p&gt;The Foreign and Commonwealth Office (&lt;abbr title="Foreign and Commonwealth Office"&gt;FCO&lt;/abbr&gt;), Ministry of Defence (&lt;abbr title="Ministry of Defence"&gt;MOD&lt;/abbr&gt;), Department for Business, Innovation and Skills (&lt;abbr title="Department for Business, Innovation and Skills"&gt;BIS&lt;/abbr&gt;) and Attorney General’s Office (&lt;abbr title="Attorney General's Office"&gt;AGO&lt;/abbr&gt;) have moved their content to the new website, joining the Department for Transport (&lt;abbr title="Department for Transport"&gt;DFT&lt;/abbr&gt;) and Communities and Local Government (&lt;abbr title="Department for Communities and Local Government"&gt;DCLG&lt;/abbr&gt;) whose content moved to GOV.UK last month.&lt;/p&gt;
+
+&lt;p&gt;The Inside Government section on GOV.UK makes it simpler, clearer and faster to find out:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;how government works&lt;/li&gt;
+  &lt;li&gt;what the government is doing&lt;/li&gt;
+  &lt;li&gt;how you can get involved&lt;/li&gt;
+&lt;/ul&gt;&lt;h2 id="new-web-addresses"&gt;New web addresses&lt;/h2&gt;
+&lt;p&gt;All web addresses have been redirected, so you don’t need to update your bookmarks, but you might want to make a note of the new addresses: &lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href="https://www.gov.uk/fco" title="FCO"&gt;www.gov.uk/fco&lt;/a&gt; - Foreign and Commonwealth Office&lt;/li&gt;
+  &lt;li&gt;
+&lt;a href="https://www.gov.uk/mod" title="MOD"&gt;www.gov.uk/mod&lt;/a&gt; - Ministry of Defence&lt;/li&gt;
+  &lt;li&gt;
+&lt;a href="https://www.gov.uk/bis" title="BIS"&gt;www.gov.uk/bis&lt;/a&gt; - Department for Business, Innovation and Skills&lt;/li&gt;
+  &lt;li&gt;
+&lt;a href="https://www.gov.uk/ago" title="AGO"&gt;www.gov.uk/ago&lt;/a&gt; - Attorney General’s Office&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;The Inside Government section of GOV.UK has been designed to make government information easier to find and more transparent for the user. For the first time, you can begin to find out what’s happening inside government all in one place, and in a clear, consistent and transparent format. &lt;/p&gt;
+
+&lt;p&gt;You’ll notice that the new website looks very different from the ones it has replaced. The look is one obvious difference but many of the other significant changes are less visible.   &lt;/p&gt;
+
+&lt;h2 id="topics"&gt;Topics&lt;/h2&gt;
+&lt;p&gt;You can now see information from multiple government departments grouped by topics. For example, you can see how policies from &lt;abbr title="Ministry of Defence"&gt;MOD&lt;/abbr&gt;, &lt;abbr title="Foreign and Commonwealth Office"&gt;FCO&lt;/abbr&gt; and &lt;abbr title="Department for Business, Innovation and Skills"&gt;BIS&lt;/abbr&gt; are contributing to &lt;a href="https://www.gov.uk/government/topics/national-security"&gt;national security&lt;/a&gt; or combating &lt;a href="https://www.gov.uk/government/topics/climate-change"&gt;climate change&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id="clear-policies"&gt;Clear policies&lt;/h2&gt;
+&lt;p&gt;Those departments and agencies who have moved to GOV.UK are publishing their policies according to the outcome the government is trying to achieve. For example:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.gov.uk/government/policies/making-it-easier-to-set-up-and-grow-a-business--6" title="making it easier to set up and grow a business"&gt;making it easier to set up and grow a business&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://www.gov.uk/government/policies/promoting-human-rights-internationally" title="promoting human rights internationally"&gt;promoting human rights internationally&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://www.gov.uk/government/policies/working-towards-nuclear-disarmament" title="working towards nuclear disarmament"&gt;working towards nuclear disarmament&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;For each policy, you can see a list of all the related announcements, consultations and publications in one list, called ‘activity’. The activity tab makes it easy for you to track what is happening on the policies that interest you, for example all government activity that relates to &lt;a href="/government/policies/establishing-stability-in-afghanistan/activity" title="establishing stability in Afghanistan: activity"&gt;establishing stability in Afghanistan&lt;/a&gt;. &lt;/p&gt;
+
+&lt;h2 id="more-about-inside-government-and-govuk"&gt;More about Inside Government and GOV.UK&lt;/h2&gt;
+
+&lt;p&gt;Inside Government is still a work in progress, with only some organisations live. Work will continue as other departments and organisations, many hundreds in total, move their information to GOV.UK. This will happen in batches and will be completed by March 2014.     &lt;/p&gt;
+
+&lt;p&gt;You can find out more here: &lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="/tour#inside-government"&gt;Inside Government tour and introductory video&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a rel="external" href="http://digital.cabinetoffice.gov.uk/2012/11/05/what-is-inside-government/"&gt;Blog post: What is Inside Government?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
+  </entry>
+</feed>

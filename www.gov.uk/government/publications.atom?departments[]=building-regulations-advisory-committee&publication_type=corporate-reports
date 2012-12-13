@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-GB" xmlns="http://www.w3.org/2005/Atom">
+  <id>tag:www.gov.uk,2005:/government/publications</id>
+  <link rel="alternate" type="text/html" href="https://www.gov.uk/government"/>
+  <link rel="self" type="application/atom+xml" href="https://www.gov.uk/government/publications.atom?departments%5B%5D=building-regulations-advisory-committee&amp;publication_type=corporate-reports"/>
+  <title>Inside government</title>
+  <subtitle>Recent publications</subtitle>
+  <author>
+    <name>HM Government</name>
+  </author>
+  <updated>2011-06-30T00:00:00+01:00</updated>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/12092</id>
+    <published>2011-06-30T00:00:00+01:00</published>
+    <updated>2011-06-30T00:00:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/building-regulations-advisory-committee-brac-annual-report-2010"/>
+    <title>Building Regulations Advisory Committee (BRAC) Annual Report 2010</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This annual report relates to the advisory work carried out by the Building Regulations Advisory Committee (BRAC) in 2010 and is the eleventh report published on behalf of the Committee.&lt;/p&gt;
+
+&lt;p&gt;BRAC has continued to work closely with officials in the Department for Communities and Local Government to provide strategic and technical advice and views on a broad range of issues related to the Building Regulations and building standards.&lt;/p&gt;
+
+&lt;p&gt;During the year BRAC assisted the Department in giving their views and comments on a range of areas, including: The 2013 Review of Building Regulations; Consolidation of the Building Regulations 2010; Lifetime Home Standards; Reviews of Parts L (Conservation of Fuel and Power), F (Ventilation), and Part J (Combustion Appliances and Fuel Storage).&lt;/p&gt;
+
+&lt;p&gt;This report reflects the work of the Committee in 2010, under the previous Government (until May 2010). It should not all necessarily be construed as a commentary of the current Government’s policy positions and work.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/50181</id>
+    <published>2010-11-30T00:00:00+00:00</published>
+    <updated>2010-11-30T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/building-regulations-advisory-committee-members-handbook"/>
+    <title>Building Regulations Advisory Committee members' handbook</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This handbook covers:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;terms of reference&lt;/li&gt;
+  &lt;li&gt;operating guidance&lt;/li&gt;
+  &lt;li&gt;member’s code of practice&lt;/li&gt;
+  &lt;li&gt;how to deal with press enquiries&lt;/li&gt;
+  &lt;li&gt;expenses&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/12091</id>
+    <published>2010-07-09T00:00:00+01:00</published>
+    <updated>2010-07-09T00:00:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/building-regulations-advisory-committee-brac-annual-report-2009"/>
+    <title>Building Regulations Advisory Committee (BRAC) Annual Report 2009</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This annual report relates to the advisory work carried out by the Building Regulations Advisory Committee (BRAC) in 2009 and is the tenth report published on behalf of the Committee.&lt;/p&gt;
+
+&lt;p&gt;BRAC has continued to work closely with officials in the Department for Communities and Local Government to provide strategic and technical advice and views on a broad range of issues related to the Building Regulations and building standards.&lt;/p&gt;
+
+&lt;p&gt;During the year BRAC assisted the Department in finalising the &lt;em&gt;Future of Building Control Implementation Plan&lt;/em&gt; and commented on a number of proposals aimed at developing the Competent Person Schemes framework. The Committee also ran a number of working parties to assist the Department in reviewing and developing proposals for amendments to Parts A and C, Parts G, J, L, F and M of the Building Regulations&lt;/p&gt;
+
+&lt;p&gt;As in recent years BRAC also gave its views on sustainable buildings initiatives.&lt;/p&gt;
+
+&lt;p&gt;This report reflects the work of the Committee in 2009 under the last Government. It should not necessarily be construed as a commentary of the new Government’s policy positions and work.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+</feed>

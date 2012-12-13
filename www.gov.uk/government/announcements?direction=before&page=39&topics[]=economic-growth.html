@@ -43,14 +43,15 @@
     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
-</script><script defer src="https://assets.digital.cabinet-office.gov.uk/government/assets/application-b5a0c478893ab5873ac24100a27ed2e2.js" type="text/javascript"></script><!--[if gt IE 8]><!--><link href="https://assets.digital.cabinet-office.gov.uk/government/assets/frontend/base-00c6f4daeead36e9e0cd1fdd68ca28e2.css" media="screen" rel="stylesheet" type="text/css">
-<!--<![endif]--><link href="https://assets.digital.cabinet-office.gov.uk/government/assets/frontend/print-3a87362d1fe4dc933a4d5f6446e9c377.css" media="print" rel="stylesheet" type="text/css">
+</script><script defer src="https://assets.digital.cabinet-office.gov.uk/government/assets/application-b5a0c478893ab5873ac24100a27ed2e2.js" type="text/javascript"></script><!--[if gt IE 8]><!--><link href="https://assets.digital.cabinet-office.gov.uk/government/assets/frontend/base-d96c8c582762158e9b193c23751288d7.css" media="screen" rel="stylesheet" type="text/css">
+<!--<![endif]--><link href="https://assets.digital.cabinet-office.gov.uk/government/assets/frontend/print-daf98b13266ac805f7668634614eca9e.css" media="print" rel="stylesheet" type="text/css">
 <link href="https://www.gov.uk/government/announcements.atom?topics%5B%5D=economic-growth" rel="alternate" title="Recent announcements" type="application/atom+xml">
+<link rel="next" type="application/json" href="/government/announcements.json?direction=before&amp;page=40&amp;topics%5B%5D=economic-growth">
 <meta content="True" name="HandheldFriendly">
 <meta content="320" name="MobileOptimized">
 <meta content="authenticity_token" name="csrf-param">
-<meta content="MAMmo7NlGYWIpfeq79dmWt7nFTjLzhjvQv/xMUEtFb0=" name="csrf-token">
-<!--[if IE 6]><link href="https://assets.digital.cabinet-office.gov.uk/government/assets/frontend/base-ie6-d4b1f61b8c43425d92545bef19cc93b1.css" media="screen" rel="stylesheet" type="text/css" /><script>var ieVersion = 6;</script><![endif]--><!--[if IE 7]><link href="https://assets.digital.cabinet-office.gov.uk/government/assets/frontend/base-ie7-994f732fafc15e3ad70122f54c077aa7.css" media="screen" rel="stylesheet" type="text/css" /><script>var ieVersion = 7;</script><![endif]--><!--[if IE 8]><link href="https://assets.digital.cabinet-office.gov.uk/government/assets/frontend/base-ie8-596c7af257587f3d3ad0399f6ef1a58c.css" media="screen" rel="stylesheet" type="text/css" /><script>var ieVersion = 8;</script><![endif]-->
+<meta content="XKTP3mMT7D7moVouWs8lTpDyfQXxGdhgwlRvkNQXuq4=" name="csrf-token">
+<!--[if IE 6]><link href="https://assets.digital.cabinet-office.gov.uk/government/assets/frontend/base-ie6-6a31b71ed33c5f89d007e78221a12e4e.css" media="screen" rel="stylesheet" type="text/css" /><script>var ieVersion = 6;</script><![endif]--><!--[if IE 7]><link href="https://assets.digital.cabinet-office.gov.uk/government/assets/frontend/base-ie7-4066996a8993d8e81f62916247ef53ac.css" media="screen" rel="stylesheet" type="text/css" /><script>var ieVersion = 7;</script><![endif]--><!--[if IE 8]><link href="https://assets.digital.cabinet-office.gov.uk/government/assets/frontend/base-ie8-3ef480c40c8279f8f6a89539adaa08fb.css" media="screen" rel="stylesheet" type="text/css" /><script>var ieVersion = 8;</script><![endif]-->
 </head>
 <body class="website government">
       <script type="text/javascript">document.body.className = ((document.body.className) ? document.body.className + ' js-enabled' : 'js-enabled');</script><a href="#content" class="visuallyhidden">Skip to main content</a>
@@ -95,10 +96,10 @@
 </div>
         </div>
         <div id="content"></div>
-          <div class="progress-bar js-progress-bar" id="progress-bar" data-join-count="2">
-            <div class="bar"><div class="joined" style="width: 8.333%"></div></div>
+          <div class="progress-bar js-progress-bar" id="progress-bar" data-join-count="6">
+            <div class="bar"><div class="joined" style="width: 25.000%"></div></div>
             <p>
-              2 of 24
+              6 of 24
               ministerial departments have moved their corporate websites to GOV.UK.
               <a href="/government">More will join soon</a>
             </p>
@@ -116,8 +117,7 @@
   <div class="inner-block">
     <div class="filter-block">
   <h2>You can use the filters to show only results that match your interests</h2>
-  <form accept-charset="UTF-8" action="/government/announcements" class="js-document-filter" id="document-filter" method="get">
-<div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"></div>
+  <form method="get" action="/government/announcements" id="document-filter" class="js-document-filter">
     <fieldset>
 <legend class="visuallyhidden">Filter announcements</legend>
 
@@ -137,15 +137,31 @@
         <div class="filter-inner">
           <label for="topics">Topic</label>
           <select class="multi-row-select" id="topics" multiple name="topics[]" size="5"><option value="all">All topics</option>
+<option value="business-and-enterprise">Business and enterprise</option>
 <option value="climate-change">Climate change</option>
 <option value="community-and-society">Community and society</option>
+<option value="consumer-rights-and-issues">Consumer rights and issues</option>
+<option value="crime-and-policing">Crime and policing</option>
+<option value="defence-and-armed-forces">Defence and armed forces</option>
 <option value="economic-growth" selected>Economic growth</option>
+<option value="employment">Employment</option>
+<option value="energy">Energy</option>
 <option value="environment">Environment</option>
+<option value="equality-rights-and-citizenship">Equality, rights and citizenship</option>
+<option value="europe">Europe</option>
+<option value="foreign-affairs">Foreign affairs</option>
+<option value="further-education-and-skills">Further education and skills</option>
+<option value="higher-education">Higher education</option>
 <option value="housing">Housing</option>
+<option value="international-aid-and-development">International aid and development</option>
+<option value="law-and-the-justice-system">Law and the justice system</option>
 <option value="local-government">Local government</option>
 <option value="national-security">National security</option>
 <option value="planning-and-building">Planning and building</option>
 <option value="public-safety-and-emergencies">Public safety and emergencies</option>
+<option value="regulation-reform">Regulation reform</option>
+<option value="science-and-innovation">Science and innovation</option>
+<option value="trade-and-investment">Trade and investment</option>
 <option value="transport">Transport</option></select>
 </div>
       </div>
@@ -153,22 +169,32 @@
         <div class="filter-inner">
           <label for="departments">Department</label>
           <select class="multi-row-select" id="departments" multiple name="departments[]" size="5"><option value="all" selected>All departments</option>
+<option value="advisory-committee-on-conscientious-objectors">Advisory Committee on Conscientious Objectors</option>
 <option value="attorney-generals-office">Attorney General's Office</option>
 <option value="building-regulations-advisory-committee">Building Regulations Advisory Committee</option>
 <option value="department-for-business-innovation-skills">Department for Business, Innovation &amp; Skills</option>
 <option value="cabinet-office">Cabinet Office</option>
+<option value="central-advisory-committee-on-pensions-and-compensation">Central Advisory Committee on Pensions and Compensation</option>
 <option value="department-for-communities-and-local-government">Department for Communities and Local Government</option>
 <option value="ministry-of-defence">Ministry of Defence</option>
 <option value="defence-equipment-and-support">Defence Equipment and Support</option>
 <option value="defence-infrastructure-organisation">Defence Infrastructure Organisation</option>
+<option value="ministry-of-defence-police-and-guarding-agency">Ministry of Defence Police and Guarding Agency</option>
+<option value="defence-scientific-advisory-council">Defence Scientific Advisory Council</option>
 <option value="driver-and-vehicle-licensing-agency">Driver and Vehicle Licensing Agency</option>
 <option value="driving-standards-agency">Driving Standards Agency</option>
 <option value="department-for-education">Department for Education</option>
 <option value="foreign-commonwealth-office">Foreign &amp; Commonwealth Office</option>
+<option value="foreign-compensation-commission">Foreign Compensation Commission</option>
 <option value="highways-agency">Highways Agency</option>
 <option value="home-office">Home Office</option>
 <option value="homes-and-communities-agency">Homes and Communities Agency</option>
+<option value="industrial-development-advisory-board">Industrial Development Advisory Board</option>
+<option value="joint-forces-command">Joint Forces Command</option>
+<option value="review-board-for-government-contracts">Review Board for Government Contracts</option>
+<option value="service-personnel-and-veterans-agency">Service Personnel and Veterans Agency</option>
 <option value="planning-inspectorate">The Planning Inspectorate</option>
+<option value="the-shareholder-executive">The Shareholder Executive</option>
 <option value="department-for-transport">Department for Transport</option></select>
 </div>
       </div>
@@ -240,40 +266,26 @@
             <th scope="col">Announcement Type</th>
           </tr></thead>
 <tbody>
-<tr class="news_article document-row recent" id="news_article_14226">
+<tr class="news_article document-row recent" id="news_article_9125">
 <th scope="row" class="title attribute">
-              <a href="/government/news/better-not-bigger-hammond-creates-south-east-airports-taskforce" title="View Better not bigger - Hammond creates South East airports taskforce">Better not bigger - Hammond creates South East airports taskforce</a>
+              <a href="/government/news/baroness-hanham-visits-northumberland-regeneration-projects" title="View Baroness Hanham visits Northumberland regeneration projects">Baroness Hanham visits Northumberland regeneration projects</a>
             </th>
             <td class="attribute first_published_at">
-              <abbr class="first_published_at" title="2010-06-15T00:00:00+01:00">15 June 2010</abbr>
+              <abbr class="first_published_at" title="2011-03-09T00:00:00+00:00">9 March 2011</abbr>
             </td>
             <td class="attribute organisations">
-              <abbr title="Department for Transport">DFT</abbr>
+              <abbr title="Department for Communities and Local Government">DCLG</abbr>
             </td>
             <td class="announcement_type attribute">
               News article
             </td>
 </tr>
-<tr class="news_article document-row recent" id="news_article_15046">
+<tr class="speech document-row recent" id="speech_13762">
 <th scope="row" class="title attribute">
-              <a href="/government/news/transport-secretary-visits-future-crossrail-station-at-canary-wharf" title="View Transport Secretary visits future Crossrail station at Canary Wharf">Transport Secretary visits future Crossrail station at Canary Wharf</a>
+              <a href="/government/speeches/supporting-community-transport" title="View Supporting community transport">Supporting community transport</a>
             </th>
             <td class="attribute first_published_at">
-              <abbr class="first_published_at" title="2010-06-15T00:00:00+01:00">15 June 2010</abbr>
-            </td>
-            <td class="attribute organisations">
-              <abbr title="Department for Transport">DFT</abbr>
-            </td>
-            <td class="announcement_type attribute">
-              News article
-            </td>
-</tr>
-<tr class="speech document-row recent" id="speech_15538">
-<th scope="row" class="title attribute">
-              <a href="/government/speeches/rail-value-for-money-study" title="View Rail value for money study">Rail value for money study</a>
-            </th>
-            <td class="attribute first_published_at">
-              <abbr class="delivered_on" title="2010-06-14">14 June 2010</abbr>
+              <abbr class="delivered_on" title="2011-03-09">9 March 2011</abbr>
             </td>
             <td class="attribute organisations">
               <abbr title="Department for Transport">DFT</abbr>
@@ -282,26 +294,26 @@
               Statement to parliament
             </td>
 </tr>
-<tr class="news_article document-row" id="news_article_14236">
+<tr class="news_article document-row recent" id="news_article_9256">
 <th scope="row" class="title attribute">
-              <a href="/government/news/better-value-for-money-rail-inquiry-asked-for-early-initial-report" title="View Better value for money rail inquiry asked for early initial report ">Better value for money rail inquiry asked for early initial report </a>
+              <a href="/government/news/coventry-plays-host-to-first-local-enterprise-partnership-summit" title="View Coventry plays host to first local enterprise partnership summit">Coventry plays host to first local enterprise partnership summit</a>
             </th>
             <td class="attribute first_published_at">
-              <abbr class="first_published_at" title="2010-06-14T00:00:00+01:00">14 June 2010</abbr>
+              <abbr class="first_published_at" title="2011-03-08T00:00:00+00:00">8 March 2011</abbr>
             </td>
             <td class="attribute organisations">
-              <abbr title="Department for Transport">DFT</abbr>
+              <abbr title="Department for Communities and Local Government">DCLG</abbr>
             </td>
             <td class="announcement_type attribute">
               News article
             </td>
 </tr>
-<tr class="speech document-row" id="speech_15351">
+<tr class="speech document-row" id="speech_13612">
 <th scope="row" class="title attribute">
-              <a href="/government/speeches/mca-solent-maritime-rescue-co-ordination" title="View MCA solent maritime rescue co-ordination">MCA solent maritime rescue co-ordination</a>
+              <a href="/government/speeches/local-sustainable-transport-fund-workshop-video" title="View Local Sustainable Transport Fund workshop video">Local Sustainable Transport Fund workshop video</a>
             </th>
             <td class="attribute first_published_at">
-              <abbr class="delivered_on" title="2010-06-11">11 June 2010</abbr>
+              <abbr class="delivered_on" title="2011-03-07">7 March 2011</abbr>
             </td>
             <td class="attribute organisations">
               <abbr title="Department for Transport">DFT</abbr>
@@ -310,12 +322,12 @@
               Speech
             </td>
 </tr>
-<tr class="speech document-row" id="speech_14341">
+<tr class="speech document-row" id="speech_15573">
 <th scope="row" class="title attribute">
-              <a href="/government/speeches/transport-local-authority-major-schemes" title="View Transport: Local authority major schemes">Transport: Local authority major schemes</a>
+              <a href="/government/speeches/olympic-airspace--3" title="View Olympic airspace">Olympic airspace</a>
             </th>
             <td class="attribute first_published_at">
-              <abbr class="delivered_on" title="2010-06-10">10 June 2010</abbr>
+              <abbr class="delivered_on" title="2011-03-07">7 March 2011</abbr>
             </td>
             <td class="attribute organisations">
               <abbr title="Department for Transport">DFT</abbr>
@@ -324,12 +336,54 @@
               Statement to parliament
             </td>
 </tr>
-<tr class="speech document-row" id="speech_15473">
+<tr class="news_article document-row" id="news_article_47067">
 <th scope="row" class="title attribute">
-              <a href="/government/speeches/marine-aids-to-navigation--5" title="View Marine aids to navigation">Marine aids to navigation</a>
+              <a href="/government/news/foreign-office-minister-meets-prime-minister-of-timor-leste" title="View Foreign Office Minister meets Prime Minister of Timor-Leste">Foreign Office Minister meets Prime Minister of Timor-Leste</a>
             </th>
             <td class="attribute first_published_at">
-              <abbr class="delivered_on" title="2010-06-10">10 June 2010</abbr>
+              <abbr class="first_published_at" title="2011-03-07T00:00:00+00:00">7 March 2011</abbr>
+            </td>
+            <td class="attribute organisations">
+              <abbr title="Foreign &amp; Commonwealth Office">FCO</abbr>
+            </td>
+            <td class="announcement_type attribute">
+              News article
+            </td>
+</tr>
+<tr class="news_article document-row" id="news_article_9745">
+<th scope="row" class="title attribute">
+              <a href="/government/news/new-report-shows-resilient-seaside-towns-can-take-new-chance-to-grow" title="View New report shows resilient seaside towns can take new chance to grow">New report shows resilient seaside towns can take new chance to grow</a>
+            </th>
+            <td class="attribute first_published_at">
+              <abbr class="first_published_at" title="2011-03-04T00:00:00+00:00">4 March 2011</abbr>
+            </td>
+            <td class="attribute organisations">
+              <abbr title="Department for Communities and Local Government">DCLG</abbr>
+            </td>
+            <td class="announcement_type attribute">
+              News article
+            </td>
+</tr>
+<tr class="speech document-row" id="speech_13656">
+<th scope="row" class="title attribute">
+              <a href="/government/speeches/highways-agency-co-operative-systems-industry-day" title="View Highways Agency co-operative systems industry day">Highways Agency co-operative systems industry day</a>
+            </th>
+            <td class="attribute first_published_at">
+              <abbr class="delivered_on" title="2011-03-03">3 March 2011</abbr>
+            </td>
+            <td class="attribute organisations">
+              <abbr title="Department for Transport">DFT</abbr>
+            </td>
+            <td class="announcement_type attribute">
+              Speech
+            </td>
+</tr>
+<tr class="speech document-row" id="speech_8084">
+<th scope="row" class="title attribute">
+              <a href="/government/speeches/airport-economic-regulation" title="View Airport economic regulation">Airport economic regulation</a>
+            </th>
+            <td class="attribute first_published_at">
+              <abbr class="delivered_on" title="2011-03-03">3 March 2011</abbr>
             </td>
             <td class="attribute organisations">
               <abbr title="Department for Transport">DFT</abbr>
@@ -338,12 +392,40 @@
               Statement to parliament
             </td>
 </tr>
-<tr class="news_article document-row" id="news_article_12976">
+<tr class="news_article document-row" id="news_article_9188">
 <th scope="row" class="title attribute">
-              <a href="/government/news/transport-statistics-10-june-2010" title="View Transport statistics 10 June 2010">Transport statistics 10 June 2010</a>
+              <a href="/government/news/calls-for-council-to-support-the-peoples-supermarket" title="View Calls for council to support the People's Supermarket">Calls for council to support the People's Supermarket</a>
             </th>
             <td class="attribute first_published_at">
-              <abbr class="first_published_at" title="2010-06-10T00:00:00+01:00">10 June 2010</abbr>
+              <abbr class="first_published_at" title="2011-03-03T00:00:00+00:00">3 March 2011</abbr>
+            </td>
+            <td class="attribute organisations">
+              <abbr title="Department for Communities and Local Government">DCLG</abbr>
+            </td>
+            <td class="announcement_type attribute">
+              News article
+            </td>
+</tr>
+<tr class="speech document-row" id="speech_16236">
+<th scope="row" class="title attribute">
+              <a href="/government/speeches/british-transport-police-federation-annual-conference" title="View British Transport Police Federation annual conference">British Transport Police Federation annual conference</a>
+            </th>
+            <td class="attribute first_published_at">
+              <abbr class="delivered_on" title="2011-03-02">2 March 2011</abbr>
+            </td>
+            <td class="attribute organisations">
+              <abbr title="Department for Transport">DFT</abbr>
+            </td>
+            <td class="announcement_type attribute">
+              Speech
+            </td>
+</tr>
+<tr class="news_article document-row" id="news_article_14931">
+<th scope="row" class="title attribute">
+              <a href="/government/news/green-light-for-new-trains-and-rail-electrification" title="View Green light for new trains and rail electrification ">Green light for new trains and rail electrification </a>
+            </th>
+            <td class="attribute first_published_at">
+              <abbr class="first_published_at" title="2011-03-01T00:00:00+00:00">1 March 2011</abbr>
             </td>
             <td class="attribute organisations">
               <abbr title="Department for Transport">DFT</abbr>
@@ -352,12 +434,12 @@
               News article
             </td>
 </tr>
-<tr class="speech document-row" id="speech_15301">
+<tr class="speech document-row" id="speech_8083">
 <th scope="row" class="title attribute">
-              <a href="/government/speeches/seafarers-and-the-equality-act-2010" title="View Seafarers and the Equality Act 2010">Seafarers and the Equality Act 2010</a>
+              <a href="/government/speeches/intercity-express-and-rail-electrification" title="View Intercity Express and rail electrification">Intercity Express and rail electrification</a>
             </th>
             <td class="attribute first_published_at">
-              <abbr class="delivered_on" title="2010-06-09">9 June 2010</abbr>
+              <abbr class="delivered_on" title="2011-03-01">1 March 2011</abbr>
             </td>
             <td class="attribute organisations">
               <abbr title="Department for Transport">DFT</abbr>
@@ -366,12 +448,26 @@
               Statement to parliament
             </td>
 </tr>
-<tr class="speech document-row" id="speech_15359">
+<tr class="speech document-row" id="speech_16229">
 <th scope="row" class="title attribute">
-              <a href="/government/speeches/review-of-the-motorcycle-test" title="View Review of the motorcycle test">Review of the motorcycle test</a>
+              <a href="/government/speeches/high-speed-rail--29" title="View High speed rail: consultation launch 28 February 2011">High speed rail: consultation launch 28 February 2011</a>
             </th>
             <td class="attribute first_published_at">
-              <abbr class="delivered_on" title="2010-06-08">8 June 2010</abbr>
+              <abbr class="delivered_on" title="2011-02-28">28 February 2011</abbr>
+            </td>
+            <td class="attribute organisations">
+              <abbr title="Department for Transport">DFT</abbr>
+            </td>
+            <td class="announcement_type attribute">
+              Speech
+            </td>
+</tr>
+<tr class="speech document-row" id="speech_8082">
+<th scope="row" class="title attribute">
+              <a href="/government/speeches/local-and-regional-rail-services" title="View Local and regional rail services">Local and regional rail services</a>
+            </th>
+            <td class="attribute first_published_at">
+              <abbr class="delivered_on" title="2011-02-28">28 February 2011</abbr>
             </td>
             <td class="attribute organisations">
               <abbr title="Department for Transport">DFT</abbr>
@@ -380,26 +476,12 @@
               Statement to parliament
             </td>
 </tr>
-<tr class="speech document-row" id="speech_8011">
+<tr class="news_article document-row" id="news_article_14829">
 <th scope="row" class="title attribute">
-              <a href="/government/speeches/high-speed-rail-exceptional-hardship-scheme" title="View High Speed Rail - Exceptional Hardship Scheme">High Speed Rail - Exceptional Hardship Scheme</a>
+              <a href="/government/news/investing-in-britains-future-high-speed-rail-consultation-launched" title="View Investing in Britain's future: high speed rail consultation launched ">Investing in Britain's future: high speed rail consultation launched </a>
             </th>
             <td class="attribute first_published_at">
-              <abbr class="delivered_on" title="2010-05-27">27 May 2010</abbr>
-            </td>
-            <td class="attribute organisations">
-              <abbr title="Department for Transport">DFT</abbr>
-            </td>
-            <td class="announcement_type attribute">
-              Statement to parliament
-            </td>
-</tr>
-<tr class="news_article document-row" id="news_article_7524">
-<th scope="row" class="title attribute">
-              <a href="/government/news/transport-statistics-27-may-2010" title="View Transport statistics 27 May 2010">Transport statistics 27 May 2010</a>
-            </th>
-            <td class="attribute first_published_at">
-              <abbr class="first_published_at" title="2010-05-27T00:00:00+01:00">27 May 2010</abbr>
+              <abbr class="first_published_at" title="2011-02-28T00:00:00+00:00">28 February 2011</abbr>
             </td>
             <td class="attribute organisations">
               <abbr title="Department for Transport">DFT</abbr>
@@ -408,26 +490,71 @@
               News article
             </td>
 </tr>
-<tr class="speech document-row" id="speech_16350">
+<tr class="news_article document-row" id="news_article_12915">
 <th scope="row" class="title attribute">
-              <a href="/government/speeches/high-speed-rail--31" title="View High speed rail: 28 February 2010">High speed rail: 28 February 2010</a>
+              <a href="/government/news/transport-statistics-24-february-2011" title="View Transport statistics 24 February 2011">Transport statistics 24 February 2011</a>
             </th>
             <td class="attribute first_published_at">
-              <abbr class="delivered_on" title="2010-02-28">28 February 2010</abbr>
+              <abbr class="first_published_at" title="2011-02-24T00:00:00+00:00">24 February 2011</abbr>
             </td>
             <td class="attribute organisations">
               <abbr title="Department for Transport">DFT</abbr>
             </td>
             <td class="announcement_type attribute">
-              Statement to parliament
+              News article
+            </td>
+</tr>
+<tr class="news_article document-row" id="news_article_14848">
+<th scope="row" class="title attribute">
+              <a href="/government/news/more-than-100-million-of-extra-funding-to-repair-winter-potholes" title="View More than £100 million of extra funding to repair winter potholes ">More than £100 million of extra funding to repair winter potholes </a>
+            </th>
+            <td class="attribute first_published_at">
+              <abbr class="first_published_at" title="2011-02-23T00:00:00+00:00">23 February 2011</abbr>
+            </td>
+            <td class="attribute organisations">
+              <abbr title="Department for Transport">DFT</abbr>
+            </td>
+            <td class="announcement_type attribute">
+              News article
+            </td>
+</tr>
+<tr class="news_article document-row" id="news_article_26077">
+<th scope="row" class="title attribute">
+              <a href="/government/news/prime-minister-david-cameron-visits-kuwait" title="View Prime Minister David Cameron visits Kuwait">Prime Minister David Cameron visits Kuwait</a>
+            </th>
+            <td class="attribute first_published_at">
+              <abbr class="first_published_at" title="2011-02-22T00:00:00+00:00">22 February 2011</abbr>
+            </td>
+            <td class="attribute organisations">
+              <abbr title="Foreign &amp; Commonwealth Office">FCO</abbr>
+            </td>
+            <td class="announcement_type attribute">
+              News article
+            </td>
+</tr>
+<tr class="speech document-row" id="speech_13556">
+<th scope="row" class="title attribute">
+              <a href="/government/speeches/cumbria-visit" title="View Cumbria visit">Cumbria visit</a>
+            </th>
+            <td class="attribute first_published_at">
+              <abbr class="delivered_on" title="2011-02-22">22 February 2011</abbr>
+            </td>
+            <td class="attribute organisations">
+              <abbr title="Department for Transport">DFT</abbr>
+            </td>
+            <td class="announcement_type attribute">
+              Speech
             </td>
 </tr>
 </tbody>
 </table>
 <nav id="show-more-documents" role="navigation"><ul class="previous-next-navigation">
-<li class="previous"><a href="/government/announcements?direction=before&amp;page=38&amp;topics%5B%5D=economic-growth">Previous Page <span>38 of 39</span></a></li>
+<li class="previous"><a href="/government/announcements?direction=before&amp;page=38&amp;topics%5B%5D=economic-growth">Previous Page <span>38 of 53</span></a></li>
 
-      
+      <li class="next">
+<a href="/government/announcements?direction=before&amp;page=40&amp;topics%5B%5D=economic-growth">Next page <span>40 of 53</span></a>
+</li>
+
     </ul></nav>
 </div>
   </div>
