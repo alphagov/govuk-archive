@@ -8,7 +8,21 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-12-03T00:00:00+00:00</updated>
+  <updated>2012-12-13T00:00:00+00:00</updated>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56085</id>
+    <published>2012-12-13T00:00:00+00:00</published>
+    <updated>2012-12-13T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/fire-and-rescue-bulletin-10-2012-immediate"/>
+    <title>Fire and rescue bulletin: 10/2012 immediate</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The fire and rescue bulletin for December 2012 is issued for the immediate attention of fire and rescue authorities.&lt;/p&gt;
+
+&lt;p&gt;It covers:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;the announcement of the preferred bidder for the Fire Service College&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
+  </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/17621</id>
     <published>2012-12-03T00:00:00+00:00</published>
@@ -131,16 +145,6 @@ of agreement&lt;/a&gt; on the core parameters for reforms to the firefighters’
 &lt;p&gt;The overall proportion of premises found to be satisfactory in 2011 to 2012 was 59%, compared to 56% in 2010 to 2011.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/13402</id>
-    <published>2012-09-20T01:00:00+01:00</published>
-    <updated>2012-09-20T01:00:00+01:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/consultations/guidance-on-statements-of-assurance-for-fire-and-rescue-authorities-in-england"/>
-    <title>Guidance on statements of assurance for fire and rescue authorities in England</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Consultation on guidance on statements of assurance for fire and rescue authorities in England.&lt;/p&gt;
-
-&lt;p&gt;The consultation seeks views on ‘light-touch’ guidance on statements of assurance for fire and rescue authorities in England&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/13403</id>
     <published>2012-09-20T01:00:00+01:00</published>
     <updated>2012-09-20T01:00:00+01:00</updated>
@@ -149,6 +153,16 @@ of agreement&lt;/a&gt; on the core parameters for reforms to the firefighters’
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Consultation on guidance on statements of assurance for fire and rescue authorities in England and Protocol on Government intervention action for fire and rescue authorities in England.&lt;/p&gt;
 
 &lt;p&gt;The consultation seeks views on the revision of the protocol on Government intervention action and applies to fire and rescue authorities in England only.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/13402</id>
+    <published>2012-09-20T01:00:00+01:00</published>
+    <updated>2012-09-20T01:00:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/consultations/guidance-on-statements-of-assurance-for-fire-and-rescue-authorities-in-england"/>
+    <title>Guidance on statements of assurance for fire and rescue authorities in England</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Consultation on guidance on statements of assurance for fire and rescue authorities in England.&lt;/p&gt;
+
+&lt;p&gt;The consultation seeks views on ‘light-touch’ guidance on statements of assurance for fire and rescue authorities in England&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/11791</id>
@@ -276,18 +290,6 @@ of agreement&lt;/a&gt; on the core parameters for reforms to the firefighters’
   &lt;li&gt;Dwelling fires were 4 per cent lower at 35,000, and fires in other buildings were down by 2 per cent to 20,000. Road vehicle fires fell by 14 per cent to 24,000.&lt;/li&gt;
   &lt;li&gt;Attendances at fire false alarms decreased by 9 per cent to 249,000. More than two thirds of these were due to apparatus, while 4 per cent were malicious false alarms.&lt;/li&gt;
   &lt;li&gt;Fire and Rescue Services attended 133,000 non-fire incidents in 2011-12, down 9 per cent from 2010-11. The most common categories of non-fire incidents were: road traffic collisions (21 per cent), effecting entry (11 per cent), lift releases (11 per cent), flooding (9 per cent) and medical incidents (9 per cent).&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/11427</id>
-    <published>2012-07-03T00:00:00+01:00</published>
-    <updated>2012-07-03T00:00:00+01:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/fire-and-rescue-bulletin-23-2012"/>
-    <title>Fire and rescue bulletin: 23/2012</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The fire and rescue bulletin for July 2012 covers:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;national coordination and advisory arrangements: London 2012 Olympic Games&lt;/li&gt;
 &lt;/ul&gt;&lt;/div&gt;</content>
   </entry>
 </feed>

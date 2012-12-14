@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-GB" xmlns="http://www.w3.org/2005/Atom">
+  <id>tag:www.gov.uk,2005:/government/publications</id>
+  <link rel="alternate" type="text/html" href="https://www.gov.uk/government"/>
+  <link rel="self" type="application/atom+xml" href="https://www.gov.uk/government/publications.atom?departments%5B%5D=foreign-commonwealth-office&amp;keywords=&amp;publication_filter_option=impact-assessments&amp;topics%5B%5D=all"/>
+  <title>Inside government</title>
+  <subtitle>Recent publications</subtitle>
+  <author>
+    <name>HM Government</name>
+  </author>
+  <updated>2012-07-11T00:00:00+01:00</updated>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/50056</id>
+    <published>2012-07-11T00:00:00+01:00</published>
+    <updated>2012-07-11T00:00:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/review-of-the-balance-of-competences-between-the-united-kingdom-and-the-european-union"/>
+    <title>Review of the Balance of Competences between the United Kingdom and the European Union</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Assessing the EU’s impact on the UK: a review of the balance of competences&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/50037</id>
+    <published>2010-05-04T00:00:00+01:00</published>
+    <updated>2010-05-04T00:00:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/impact-assessment-of-the-cluster-munitions-prohibitions-bill"/>
+    <title>Impact Assessment of the Cluster Munitions (Prohibitions) Bill</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The purpose of the Cluster Munitions (Prohibitions) Bill is to implement international obligations to address the humanitarian impact of cluster munitions.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+</feed>

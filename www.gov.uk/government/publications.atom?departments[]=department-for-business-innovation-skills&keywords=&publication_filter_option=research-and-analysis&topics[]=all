@@ -10,7 +10,7 @@
   </author>
   <updated>2012-12-13T00:00:00+00:00</updated>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/54846</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56453</id>
     <published>2012-12-13T00:00:00+00:00</published>
     <updated>2012-12-13T00:00:00+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/2011-skills-for-life-survey"/>
@@ -24,12 +24,28 @@
 &lt;/ul&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/48220</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56392</id>
+    <published>2012-12-06T00:00:00+00:00</published>
+    <updated>2012-12-06T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/further-education-fe-college-capital-investment-strategy"/>
+    <title>Further education (FE) college capital investment strategy</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Outlines the government’s priorities for capital funding plans for the remainder of this Parliament and aspirations for future capital investment in further education (FE) colleges. Sets out key priorities, and it encourages colleges to develop coherent property strategies capable of a phased implementation to maximise the impact of capital grant availability. Also includes some FE college capital project case studies. &lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56315</id>
+    <published>2012-12-06T00:00:00+00:00</published>
+    <updated>2012-12-06T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/evaluation-of-the-impact-of-capital-expenditure-in-further-education-fe-colleges"/>
+    <title>Evaluation of the impact of capital expenditure in further education (FE) colleges</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;BIS research paper no.99. Report commissioned by BIS evaluate the impact of capital spending on key policy goals. Combines quantitative and qualitative research and builds on a previous study undertaken in 2008. Focuses on completed capital spending projects by FE colleges within England (total per college) between April 2001 and September 2011. Underlying data for tables and figure in this publication is available in a machine processable format: &lt;a rel="external" href="http://data.gov.uk/dataset/impact-of-capital-expenditure-in-further-education-colleges-evaluation"&gt;underlying data on the impact of capital expenditure in FE colleges&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/48217</id>
     <published>2012-11-28T00:00:00+00:00</published>
     <updated>2012-11-28T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/implementing-the-recommendations-from-the-breedon-review-a-progress-report-november-2012"/>
-    <title>Implementing the recommendations from the Breedon Review: a progress report (November 2012)</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Provides an update for each recommendation made by the industry taskforce on non-bank lending led by Tim Breedon. See also See 12/668 for the taskforce report, and 12/669 for the government response.&lt;/p&gt;&lt;/div&gt;</content>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/building-information-modelling"/>
+    <title>Building information modelling</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Capability assessment setting out the actions that government and industry will take to create opportunities for the UK construction sector by becoming a world leader in building information modelling (BIM). This will build on progress already made in emb&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/48218</id>
@@ -48,12 +64,20 @@
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Explains the links between the industrial strategy and a number of ongoing initiatives with the construction sector, including infrastructure construction. Focuses on how the publication of pipelines of future opportunities can help build supply chain cap&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/48217</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/48220</id>
     <published>2012-11-28T00:00:00+00:00</published>
     <updated>2012-11-28T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/building-information-modelling"/>
-    <title>Building information modelling</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Capability assessment setting out the actions that government and industry will take to create opportunities for the UK construction sector by becoming a world leader in building information modelling (BIM). This will build on progress already made in emb&lt;/p&gt;&lt;/div&gt;</content>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/implementing-the-recommendations-from-the-breedon-review-a-progress-report-november-2012"/>
+    <title>Implementing the recommendations from the Breedon Review: a progress report (November 2012)</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Provides an update for each recommendation made by the industry taskforce on non-bank lending led by Tim Breedon. See also See 12/668 for the taskforce report, and 12/669 for the government response.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/48311</id>
+    <published>2012-11-27T00:00:00+00:00</published>
+    <updated>2012-11-27T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/prior-qualifications-of-learners-on-train-to-gain-provision-at-level-2-and-level-3-in-2010-to-2011"/>
+    <title>Prior qualifications of learners on train to gain provision at level 2 and level 3 in 2010 to 2011</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;BIS research paper no. 84. Presents the findings of research into the highest prior qualifications levels of adult learners (aged 19 and over) who undertook full level 2 or full level 3 Train to Gain learning in November 2010. Covers some of the last grou&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/48214</id>
@@ -80,20 +104,12 @@
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;BIS research paper no. 82. Presents the findings of research into the prior skills and qualification levels of adults aged 19 and over on adult learner responsive (ALR) learning provision in 2010 / 2011. The research aimed to understand the extent to whic&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/48311</id>
-    <published>2012-11-27T00:00:00+00:00</published>
-    <updated>2012-11-27T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/prior-qualifications-of-learners-on-train-to-gain-provision-at-level-2-and-level-3-in-2010-to-2011"/>
-    <title>Prior qualifications of learners on train to gain provision at level 2 and level 3 in 2010 to 2011</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;BIS research paper no. 84. Presents the findings of research into the highest prior qualifications levels of adult learners (aged 19 and over) who undertook full level 2 or full level 3 Train to Gain learning in November 2010. Covers some of the last grou&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/48210</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56389</id>
     <published>2012-11-22T00:00:00+00:00</published>
     <updated>2012-11-22T00:00:00+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/business-school-mid-sized-business-msb-collaboration-supporting-growth-in-the-uks-mid-sized-businesses"/>
     <title>Business school/mid-sized business (MSB) collaboration: supporting growth in the UK's mid-sized businesses</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Summarises findings and recommendations from the business school mid-sized business (MSB) task force set up by BIS in November 2011. While the Task Force has uncovered many examples of effective business school engagement with MSBs, there is much more tha&lt;/p&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Summarises findings and recommendations from the business school mid-sized business (MSB) task force set up by BIS in November 2011. While the Task Force has uncovered many examples of effective business school engagement with MSBs, there is much more that both sides can do to foster stronger, more sustainable relationships. The report is a call to action for business schools to proactively engage with MSBs, and for MSBs to improve their own management capability.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/48312</id>
@@ -104,52 +120,20 @@
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Fourth annual innovation report that gives the latest available evidence on UK innovation performance and the contribution of business, government, higher education and research organisations to UK innovation activities. Presents key measures of innovatio&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/48175</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56270</id>
     <published>2012-11-15T00:00:00+00:00</published>
     <updated>2012-11-15T00:00:00+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/tracking-the-decision-making-of-high-achieving-higher-education-applicants"/>
     <title>Tracking the decision-making of high achieving higher education applicants</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;BIS research paper no. 86. Presents findings from research into the decision-making process of high achieving A level students. Analyses the attributes of high achieving applicants to higher education (HE) in comparison to the attributes of the wider appl&lt;/p&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;BIS research paper no. 86. Presents findings from research into the decision-making process of high achieving A level students. Analyses the attributes of high achieving applicants to higher education (HE) in comparison to the attributes of the wider applicant population. Examines the factors that contribute to the decision-making process of high achievers, and uses these to frame the admissions experiences of those who applied to the most selective HE and those who did not.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/48206</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56379</id>
     <published>2012-11-14T00:00:00+00:00</published>
     <updated>2012-11-14T00:00:00+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/an-exploratory-evaluation-of-the-next-step-service"/>
     <title>An exploratory evaluation of the Next Step service</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;BIS research report no. 97. Report of a study  to evaluate outcomes associated with the Next Step careers and skills advice service.  Explored the potential for exploiting the new Next Step customer data to analyse  employment and learning outcomes for Ne&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/48176</id>
-    <published>2012-11-12T00:00:00+00:00</published>
-    <updated>2012-11-12T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/the-relationship-between-adult-learning-and-wellbeing-evidence-from-the-1958-national-child-development-study"/>
-    <title>The relationship between adult learning and wellbeing: evidence from the 1958 national child development study</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;BIS research paper no.94. Report examining evidence on the extent of participation in lifelong learning, the characteristics of lifelong learning and the benefits of lifelong learning. Looks at patterns of participation in different forms of lifelong lear&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/48174</id>
-    <published>2012-11-12T00:00:00+00:00</published>
-    <updated>2012-11-12T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/the-contribution-of-basic-skills-to-health-related-outcomes-during-adulthood-evidence-from-the-bcs70"/>
-    <title>The contribution of basic skills to health related outcomes during adulthood: evidence from the BCS70</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;BIS research paper no. 91. Report on a study that used British Cohort Study 1970 (BCS70) data, on adult basic skills (at age 34) and health outcomes (at ages 34 and 38) to estimate the association of adult basic skills to changes in health. Information on&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/48173</id>
-    <published>2012-11-12T00:00:00+00:00</published>
-    <updated>2012-11-12T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/evidence-of-the-wider-benefits-of-family-learning-a-scoping-review"/>
-    <title>Evidence of the wider benefits of family learning: a scoping review</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;BIS research paper no. 93. Report of a scoping exercise as part of a review to update knowledge on the wider benefits of learning, and estimating and quantifying the value of these benefits to individuals and society. It aimed to determine the potential f&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/48177</id>
-    <published>2012-11-12T00:00:00+00:00</published>
-    <updated>2012-11-12T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/learning-and-wellbeing-outcomes-among-older-adults-in-england"/>
-    <title>Learning and wellbeing outcomes among older adults in England</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;BIS research paper no. 92. Report setting out findings from quantitative analysis of the relationship between participation in learning and wellbeing outcomes among older adults in England. Used data from the English Longitudinal Study of Ageing (ELSA) a&lt;/p&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;BIS research report no. 97. Report of a study to evaluate outcomes associated with the Next Step careers and skills advice service. Explored the potential for exploiting the new Next Step customer data to analyse employment and learning outcomes for Next Step customers using a matched dataset. Underlying data for tables and figures in this publication is available in a machine processable format on the Transparency/Report Data webpage.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/48178</id>
@@ -160,19 +144,35 @@
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;BIS research paper no. 90. Report on a research project that develops the knowledge base of the wider impacts of adult learning through reviews of the literature since 2008 and new data analysis using the British household panel survey. Explores how good&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/48104</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/48177</id>
+    <published>2012-11-12T00:00:00+00:00</published>
+    <updated>2012-11-12T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/learning-and-wellbeing-outcomes-among-older-adults-in-england"/>
+    <title>Learning and wellbeing outcomes among older adults in England</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;BIS research paper no. 92. Report setting out findings from quantitative analysis of the relationship between participation in learning and wellbeing outcomes among older adults in England. Used data from the English Longitudinal Study of Ageing (ELSA) a&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56190</id>
+    <published>2012-11-12T00:00:00+00:00</published>
+    <updated>2012-11-12T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/evidence-of-the-wider-benefits-of-family-learning-a-scoping-review"/>
+    <title>Evidence of the wider benefits of family learning: a scoping review</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;BIS research paper no. 93. Report of a scoping exercise as part of a review to update knowledge on the wider benefits of learning, and estimating and quantifying the value of these benefits to individuals and society. It aimed to determine the potential for re-analysing national and international data sets, and undertaking more rigorous research to gather evidence of the wider impact of family learning, including family literacy and numeracy, on adult outcomes.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56193</id>
+    <published>2012-11-12T00:00:00+00:00</published>
+    <updated>2012-11-12T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/the-contribution-of-basic-skills-to-health-related-outcomes-during-adulthood-evidence-from-the-bcs70"/>
+    <title>The contribution of basic skills to health related outcomes during adulthood: evidence from the BCS70</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;BIS research paper no. 91. Report on a study that used British Cohort Study 1970 (BCS70) data, on adult basic skills (at age 34) and health outcomes (at ages 34 and 38) to estimate the association of adult basic skills to changes in health. Information on highest educational qualifications in adulthood was used to explore the relationship between adult basic skills and changes in health. Also included important childhood factors to look at how these factors related to the formation of basic skills in adulthood and adult health.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/55983</id>
     <published>2012-11-12T00:00:00+00:00</published>
     <updated>2012-11-12T00:00:00+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/valuing-adult-learning-comparing-wellbeing-valuation-and-contingent-valuation"/>
     <title>Valuing adult learning: comparing wellbeing valuation and contingent valuation</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;BIS research paper no.85. Report that uses data from the British Household Panel Survey to assess how the benefits of adult learning for society and for those who receive it. Economists think about individual benefits in terms of changes in utility and mo&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/48180</id>
-    <published>2012-11-07T00:00:00+00:00</published>
-    <updated>2012-11-07T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/e-science-and-e-infrastructure-needs-of-the-uk-life-sciences-industry"/>
-    <title>E-science and e-infrastructure needs of the UK life sciences industry</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Report for the E-Infrastructure Leadership Council (ELC) on the e-science and e-infrastructure requirements of the UK life sciences industry. Focuses on several scientific disiplines and makes recommendations for each, including investing in the UK skills&lt;/p&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;BIS research paper no.85. Report that uses data from the British Household Panel Survey to assess how the benefits of adult learning for society and for those who receive it. Economists think about individual benefits in terms of changes in utility and money, to compare the costs of adult learning with its benefits. Explores both experienced utility, where adult learning makes people think and feel better about life, and decision utility, adult learning is something people desire, and compares the results generated by each.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
 </feed>

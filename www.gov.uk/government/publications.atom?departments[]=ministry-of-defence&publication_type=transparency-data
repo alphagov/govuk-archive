@@ -8,22 +8,14 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-12-12T00:00:00+00:00</updated>
+  <updated>2012-12-11T00:00:00+00:00</updated>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/55591</id>
-    <published>2012-12-12T00:00:00+00:00</published>
-    <updated>2012-12-12T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/holcombe-moor-firing-times"/>
-    <title>Holcombe Moor Firing Times</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Holcombe Moor’s Firing Times are presented in three file formats so that the information is accessible to everyone. The TXT format is browseable on mobile devices such as Blackberry’s, smart phones and tablets. The CSV format enables the MOD to post information on data.gov.uk, and therefore remain transparent.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/55599</id>
-    <published>2012-12-12T00:00:00+00:00</published>
-    <updated>2012-12-12T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/lulworth-firing-notice"/>
-    <title>Lulworth Firing Notice</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Lulworth Firing Times are presented in three file formats so that the information is accessible to everyone. The TXT format is readable on mobile devices such as Blackberry’s, smart phones and tablets. The CSV format enables the MOD to post information on data.gov.uk, and therefore remain transparent.&lt;/p&gt;&lt;/div&gt;</content>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/50164</id>
+    <published>2012-12-11T00:00:00+00:00</published>
+    <updated>2012-12-11T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/non-consolidated-performance-awards--2"/>
+    <title>Non-consolidated performance awards</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;In line with other government departments the &lt;abbr title="Ministry of Defence"&gt;MOD&lt;/abbr&gt; is publishing details of the non-consolidated performance awards paid to Senior Civil Service staff, Senior Fixed term Appointees and staff below the &lt;abbr title="Senior Civil Service"&gt;SCS&lt;/abbr&gt;.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/50174</id>
@@ -40,24 +32,6 @@
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/senior-officers-of-the-armed-forces-hospitality-received"/>
     <title>Senior Officers of the Armed Forces: hospitality received</title>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;In addition to publishing the hospitality received of our most senior Civil Servants, the Ministry of Defence will now be publishing the hospitality received of the most senior Officers of the Armed Forces on a quarterly basis.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/50164</id>
-    <published>2012-12-11T00:00:00+00:00</published>
-    <updated>2012-12-11T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/non-consolidated-performance-awards--2"/>
-    <title>Non-consolidated performance awards</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;In line with other government departments the &lt;abbr title="Ministry of Defence"&gt;MOD&lt;/abbr&gt; is publishing details of the non-consolidated performance awards paid to Senior Civil Service staff, Senior Fixed term Appointees and staff below the &lt;abbr title="Senior Civil Service"&gt;SCS&lt;/abbr&gt;.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/54910</id>
-    <published>2012-09-01T00:00:00+01:00</published>
-    <updated>2012-09-01T00:00:00+01:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/court-martial-results-from-the-military-court-centres"/>
-    <title>Court Martial Results from the Military Court Centres</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;In line with the Government’s Transparency and Open Data initiative, the Military Court Service has agreed to provide Court Martial results in respect of the Military Court Centres.&lt;/p&gt;
-
-&lt;p&gt;Further information about the Military Court Service can be found by clicking on the link in Related Pages.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/55722</id>
@@ -84,22 +58,6 @@
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;On 23 May 2012, the government published a review of the tax arrangements of public sector appointees. The review identified the number of off payroll engagements worth more than £58,200 per annum across government and made recommendations to improve the tax transparency of these kind of arrangements. &lt;/p&gt;
 
 &lt;p&gt;The following document constitutes the &lt;abbr title="Ministry of Defence"&gt;MOD&lt;/abbr&gt;’s submission to this review.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/54902</id>
-    <published>2012-01-06T00:00:00+00:00</published>
-    <updated>2012-01-06T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/military-court-centres-court-listings"/>
-    <title>Military Court Centres Court Listings</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;In line with the Government’s Transparency and Open Data initiative, the Military Court Service is to publish the court listings for the Military Court Centres.&lt;/p&gt;
-
-&lt;p&gt;Each court listing covers the next 1 or 2 week assize period. This will be published on the internet by the last working day in advance of the assize period.&lt;/p&gt;
-
-&lt;p&gt;In addition to this the court listings are published outside the Military Court Centres.&lt;/p&gt;
-
-&lt;p&gt;Please be aware that the court listings are subject to change after publication, if you wish to find out more please contact the relevant Military Court Centre. Details can be found at the bottom of each court listing.&lt;/p&gt;
-
-&lt;p&gt;Further information about the Military Court Service can be found by clicking on the link in Related Pages.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/50182</id>
@@ -138,14 +96,6 @@
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;In line with other Government Departments the MOD is publishing details of the non consolidated performance awards paid to Senior Civil Service (SCS) staff, Senior Fixed term Appointees and staff below the SCS.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/50156</id>
-    <published>2011-08-25T00:00:00+01:00</published>
-    <updated>2011-08-25T00:00:00+01:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/otterburn-firing-times"/>
-    <title>Otterburn Firing Times</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Otterburn’s Firing Times are presented in three file formats so that the information is accessible to everyone. The TXT format is browseable on mobile devices such as Blackberry’s, smart phones and tablets. The CSV format enables the MOD to post information on data.gov.uk, and therefore remain transparent.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/50157</id>
     <published>2011-06-16T00:00:00+01:00</published>
     <updated>2011-06-16T00:00:00+01:00</updated>
@@ -162,19 +112,6 @@
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This dataset records the total number of visitors to Joint Support Unit‚ (JSU) Northwood and whether they were MOD visitors or contractors and whether they required car passes.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/47587</id>
-    <published>2011-06-02T00:00:00+01:00</published>
-    <updated>2011-06-02T00:00:00+01:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/manorbier-firing-flying-notice"/>
-    <title>Manorbier Firing/Flying Notice</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The planned firing/flying periods for December 2012 are as follows:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Mon 3 to Fri 7 Dec (less weekend)&lt;/li&gt;
-  &lt;li&gt;Mon 10 to Fri 14 Dec (see note below)&lt;/li&gt;
-&lt;/ul&gt;&lt;p&gt;When the Range is active, Practice and Exercise Area (PEXA) warning broadcasts for Manorbier Range will be given, either by the Range Authority or a Range Safety Vessell, on VHF Channels 16 and 73 at 08:30hrs and 14:30hrs, and at the end of each day’s activity.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/34250</id>
     <published>2011-06-01T00:00:00+01:00</published>
     <updated>2011-06-01T00:00:00+01:00</updated>
@@ -183,21 +120,67 @@
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This dataset records the total number of Mechanical Transport tasks requested and carried out by Joint Support Unit (JSU) Northwood.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/50158</id>
-    <published>2011-04-07T00:00:00+01:00</published>
-    <updated>2011-04-07T00:00:00+01:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/castlemartin-firing-notice"/>
-    <title>Castlemartin Firing Notice</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Castlemartin’s Firing Times are presented in three file formats so that the information is accessible to everyone. The TXT format is browseable on mobile devices such as Blackberry’s, smart phones and tablets. The CSV format enables the MOD to post information on data.gov.uk, and therefore remain transparent.  &lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Due to operational training Castlemartin Range has to operate extended road closure of the Lower Warren Road (B4319) between Merrion Cross and Castlemartin Village from Mon 0730hrs-Fri 1645hrs from 19 November to 14 December 2012&lt;/strong&gt;. &lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/47588</id>
     <published>2011-04-04T00:00:00+01:00</published>
     <updated>2011-04-04T00:00:00+01:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/dartmoor-guaranteed-public-access"/>
     <title>Dartmoor Guaranteed Public Access</title>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Dartmoor’s guaranteed public access non live firing periods&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/34153</id>
+    <published>2011-04-01T00:00:00+01:00</published>
+    <updated>2011-04-01T00:00:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/workforce-management"/>
+    <title>Workforce management</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Details of the workforce management data for MOD. These figures are not official statistics. They are internal workforce management information published in the interests of transparency.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/55724</id>
+    <published>2011-03-11T00:00:00+00:00</published>
+    <updated>2011-03-11T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/senior-staff-meetings"/>
+    <title>Senior staff: meetings</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;MOD senior staff are required to publish details of their meetings with external organisations.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/43562</id>
+    <published>2011-03-01T00:00:00+00:00</published>
+    <updated>2011-03-01T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/departmental-organisation-charts"/>
+    <title>Departmental organisation charts</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;These show all Military 1*/Senior Civil Service (Pay Band 1) and above posts and junior staff posts below Senior Civil Service level who report to them including their payscales. &lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/43564</id>
+    <published>2011-03-01T00:00:00+00:00</published>
+    <updated>2011-03-01T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/organisation-charts-march-2011-to-september-2011"/>
+    <title>Organisation charts: March 2011 to September 2011</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;These datasets and organisation charts shows posts and salary information for staff at the MOD from March 2011 to September 2011. They’re shared here as part of the effort to make government operations and spending more transparent to the public.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/55581</id>
+    <published>2011-01-19T00:00:00+00:00</published>
+    <updated>2011-01-19T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/changes-to-allowances"/>
+    <title>Changes to allowances</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Effective from 1 April 2011.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/34156</id>
+    <published>2010-11-01T00:00:00+00:00</published>
+    <updated>2010-11-01T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/organisation-charts-supporting-datasets"/>
+    <title>Organisation Charts: supporting datasets</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Below is supporting data for the MOD Organisation Charts June 2010 -Â  February 2011 in MS Excel and CSV format. You can re-use this data.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/55676</id>
+    <published>2010-10-01T00:00:00+01:00</published>
+    <updated>2010-10-01T00:00:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/senior-staff-salaries"/>
+    <title>Senior staff salaries</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Senior staff salaries dataset gives information on &lt;abbr title="Ministry of Defence"&gt;MOD&lt;/abbr&gt; civilian salaries of those working at Director level and above.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
 </feed>

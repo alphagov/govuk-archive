@@ -119,6 +119,15 @@
 &lt;p&gt;Thank you.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
+    <id>tag:www.gov.uk,2005:Publication/56372</id>
+    <published>2011-12-10T00:00:00+00:00</published>
+    <updated>2012-12-13T17:05:04+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/strength-opportunity-2012-the-landscape-of-the-medical-biotechnology-industrial-biotechnology-and-pharmaceutical-sectors-in-the-uk-annual-update-december-2012"/>
+    <title>Strength &amp; opportunity 2012: the landscape of the medical biotechnology, industrial biotechnology and pharmaceutical sectors in the UK. Annual update - December 2012</title>
+    <category>Publication</category>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Fourth annual report analysing the updated 2012 dataset from the bioscience and health technology database. The data relates to companies that are active in the UK in three of the life sciences sectors: medical technology, medical biotechnology and industrial biotechnology. Enables comparisons against last year’s information to see how these sectors are changing. Overview of this highly innovative industry with over 4,500 companies, employing over 167,000 people and generating a turnover of over £50billion.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
     <id>tag:www.gov.uk,2005:Publication/46375</id>
     <published>2011-05-02T01:00:00+01:00</published>
     <updated>2012-12-11T16:30:02+00:00</updated>
@@ -171,14 +180,5 @@
     <title>Attitudes to science: survey of 14 to16 year olds</title>
     <category>Publication</category>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Overview of what 14-16 year olds, who are currently undertaking their GCSEs, think about science, scientists and science policy across the UK. BIS was interested in also finding out the. Covers general attitudes to science, science in schools and science outside of schools.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:Publication/46187</id>
-    <published>2011-03-03T00:00:00+00:00</published>
-    <updated>2012-12-11T16:29:24+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/science-technology-engineering-and-maths-graduates-in-non-stem-jobs-executive-summary"/>
-    <title>Science, technology, engineering and maths graduates in non-STEM jobs: executive summary</title>
-    <category>Publication</category>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;BIS research paper no. 31. Executive summary of a research paper (URN 11/771) that investigates why some science, technology, engineering and mathematics (STEM) graduates do not work in occupations related to their degree.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
 </feed>

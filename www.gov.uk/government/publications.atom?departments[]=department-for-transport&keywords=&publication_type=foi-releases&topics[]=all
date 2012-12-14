@@ -8,14 +8,22 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-12-03T00:00:00+00:00</updated>
+  <updated>2012-12-13T00:00:00+00:00</updated>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/17290</id>
-    <published>2012-12-03T00:00:00+00:00</published>
-    <updated>2012-12-03T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/ministerial-photographs"/>
-    <title>Ministerial photographs</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This Freedom of Information response details photographs of the Department for Transport’s ministers commissioned since May 2010.&lt;/p&gt;&lt;/div&gt;</content>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56016</id>
+    <published>2012-12-13T00:00:00+00:00</published>
+    <updated>2012-12-13T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/membership-of-motorists-forum"/>
+    <title>Membership of Motorists' Forum</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This Freedom of Information response explains how the membership of the Motorists’ Forum was selected after the 2010 election. It also releases the paper submitted to the then Roads Minister Mike Penning on who should retain membership.    &lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/49047</id>
+    <published>2012-12-11T00:00:00+00:00</published>
+    <updated>2012-12-11T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/report-about-the-value-of-prevented-injuries-and-fatalities"/>
+    <title>Report about the value of prevented injuries and fatalities</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This Freedom of Information response concerns a report about making updates to the Department for Transport’s value of a prevented fatality (VPF) and values of prevented injuries (VPI).&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/17298</id>
@@ -24,6 +32,14 @@
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/legal-advice-expenditure"/>
     <title>Legal advice expenditure</title>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Freedom of Information response concerning departmental spend on seeking legal advice.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/17290</id>
+    <published>2012-12-03T00:00:00+00:00</published>
+    <updated>2012-12-03T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/ministerial-photographs"/>
+    <title>Ministerial photographs</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This Freedom of Information response details photographs of the Department for Transport’s ministers commissioned since May 2010.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/17573</id>
@@ -58,36 +74,12 @@
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This Freedom of Information response letter and supporting material concern additional car parking at Bedwyn station.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/10586</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/10528</id>
     <published>2012-11-06T00:00:00+00:00</published>
     <updated>2012-11-06T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/provision-of-road-de-icing-salt"/>
-    <title>Provision of road de-icing salt</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;&lt;abbr title="Freedom of Information"&gt;FOI&lt;/abbr&gt; Request for as much detail as possible for orders of grit during winter 2010-11, winter 2009-10 and winter 2008-09.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/12812</id>
-    <published>2012-11-06T00:00:00+00:00</published>
-    <updated>2012-11-06T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/details-of-passenger-ship-fires-in-2010"/>
-    <title>Passenger ship fires in 2010</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Department for Transport’s (&lt;abbr title="The Department for Transport"&gt;DfT&lt;/abbr&gt;’s) response to Freedom of Information (&lt;abbr title="Freedom of Information"&gt;FOI&lt;/abbr&gt;) request F0007151: Passenger ship fires in 2010.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/10635</id>
-    <published>2012-11-06T00:00:00+00:00</published>
-    <updated>2012-11-06T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/blue-badge-scheme-contract"/>
-    <title>Blue badge scheme contract</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Department for Transport’s (DfT’s) response to Freedom of Information (&lt;abbr title="Freedom of Information"&gt;FOI&lt;/abbr&gt;) request F0007842: Blue Badge scheme contract.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/10526</id>
-    <published>2012-11-06T00:00:00+00:00</published>
-    <updated>2012-11-06T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/department-hr-selection-appeal-letters"/>
-    <title>Department HR selection appeal letters</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Department for Transport’s (&lt;abbr title="The Department for Transport"&gt;DfT&lt;/abbr&gt;’s) response to Freedom of Information (&lt;abbr title="Freedom of Information"&gt;FOI&lt;/abbr&gt;) request F0007534: Department HR selection appeal letters&lt;/p&gt;&lt;/div&gt;</content>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/departmental-food-procurement-for-its-catering-operations"/>
+    <title>Departmental food procurement for its catering operations</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Department for Transport’s (&lt;abbr title="The Department for Transport"&gt;DfT&lt;/abbr&gt;’s) response to Freedom of Information (&lt;abbr title="Freedom of Information"&gt;FOI&lt;/abbr&gt;) request F00075520: Departmental food procurement for its catering operations&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/10529</id>
@@ -98,12 +90,36 @@
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Department for Transport’s (&lt;abbr title="The Department for Transport"&gt;DfT&lt;/abbr&gt;’s) response to Freedom of Information (&lt;abbr title="Freedom of Information"&gt;FOI&lt;/abbr&gt;) request F0007301: Grant funding paid to mobility centres&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/10528</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/10526</id>
     <published>2012-11-06T00:00:00+00:00</published>
     <updated>2012-11-06T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/departmental-food-procurement-for-its-catering-operations"/>
-    <title>Departmental food procurement for its catering operations</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Department for Transport’s (&lt;abbr title="The Department for Transport"&gt;DfT&lt;/abbr&gt;’s) response to Freedom of Information (&lt;abbr title="Freedom of Information"&gt;FOI&lt;/abbr&gt;) request F00075520: Departmental food procurement for its catering operations&lt;/p&gt;&lt;/div&gt;</content>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/department-hr-selection-appeal-letters"/>
+    <title>Department HR selection appeal letters</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Department for Transport’s (&lt;abbr title="The Department for Transport"&gt;DfT&lt;/abbr&gt;’s) response to Freedom of Information (&lt;abbr title="Freedom of Information"&gt;FOI&lt;/abbr&gt;) request F0007534: Department HR selection appeal letters&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/12812</id>
+    <published>2012-11-06T00:00:00+00:00</published>
+    <updated>2012-11-06T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/details-of-passenger-ship-fires-in-2010"/>
+    <title>Passenger ship fires in 2010</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Department for Transport’s (&lt;abbr title="The Department for Transport"&gt;DfT&lt;/abbr&gt;’s) response to Freedom of Information (&lt;abbr title="Freedom of Information"&gt;FOI&lt;/abbr&gt;) request F0007151: Passenger ship fires in 2010.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/10586</id>
+    <published>2012-11-06T00:00:00+00:00</published>
+    <updated>2012-11-06T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/provision-of-road-de-icing-salt"/>
+    <title>Provision of road de-icing salt</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;&lt;abbr title="Freedom of Information"&gt;FOI&lt;/abbr&gt; Request for as much detail as possible for orders of grit during winter 2010-11, winter 2009-10 and winter 2008-09.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/10635</id>
+    <published>2012-11-06T00:00:00+00:00</published>
+    <updated>2012-11-06T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/blue-badge-scheme-contract"/>
+    <title>Blue badge scheme contract</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Department for Transport’s (DfT’s) response to Freedom of Information (&lt;abbr title="Freedom of Information"&gt;FOI&lt;/abbr&gt;) request F0007842: Blue Badge scheme contract.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/13024</id>
@@ -152,21 +168,5 @@
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/ecological-impact-of-bristol-and-portbury-rail-link"/>
     <title>Ecological impact of Bristol and Portbury rail link</title>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Response to ecological impact of Bristol and Portbury rail link question.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/13022</id>
-    <published>2012-09-11T00:00:00+01:00</published>
-    <updated>2012-09-11T00:00:00+01:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/facilities-management-contracts"/>
-    <title>Facilities management contracts</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Freedom of information response letter regarding facilities management contracts with Amey.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/10476</id>
-    <published>2012-09-10T00:00:00+01:00</published>
-    <updated>2012-09-10T00:00:00+01:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/press-and-communications-spend-in-the-financial-year-2011-2012"/>
-    <title>Press and communications spend in the financial year 2011/2012</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Freedom of information response letter about press and communications spend in the department in the financial year 2011/2012.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
 </feed>
