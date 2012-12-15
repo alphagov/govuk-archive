@@ -8,7 +8,15 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-12-13T00:00:00+00:00</updated>
+  <updated>2012-12-14T00:00:00+00:00</updated>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56567</id>
+    <published>2012-12-14T00:00:00+00:00</published>
+    <updated>2012-12-14T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/improvement-notice-issued-to-barnsley-metropolitan-borough-council"/>
+    <title>Improvement notice issued to Barnsley Metropolitan Borough Council</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Improvement notice issued to Barnsley Metropolitan Borough Council by the Department for Education.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/56454</id>
     <published>2012-12-13T00:00:00+00:00</published>
@@ -96,7 +104,7 @@
 &lt;p&gt;This draft statutory instrument effects these upratings and is being published ahead of the regulations being made, to give authorities early notice of the changes required.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56472</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56534</id>
     <published>2012-12-12T00:00:00+00:00</published>
     <updated>2012-12-12T00:00:00+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/local-sustainable-transport-fund-monitoring-and-evaluation-framework"/>
@@ -106,7 +114,7 @@
 &lt;p&gt;The framework articulates which &lt;abbr title="Local Sustainable Transport fund"&gt;LSTF&lt;/abbr&gt; projects are expected to fulfil which elements of monitoring and evaluation and provides project teams with the flexibility to collect evidence in a way that reflects the local variation of projects and data availability.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/34108</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56701</id>
     <published>2012-12-07T00:00:00+00:00</published>
     <updated>2012-12-07T00:00:00+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/localising-support-for-council-tax-council-tax-reduction-scheme-taking-account-of-universal-credit-income"/>
@@ -206,6 +214,14 @@
 &lt;/ul&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/16871</id>
+    <published>2012-11-23T00:00:00+00:00</published>
+    <updated>2012-11-23T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/guidance-for-local-transport-bodies"/>
+    <title>Guidance for Local Transport Bodies</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Department for Transport has announced its firm intention to devolve funding for local major transport schemes to Local Transport Bodies from 2015. The guidance sets out the necessary arrangement Local Transport Bodies will need to have in place to ensure value for money and sound decision making.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/16882</id>
     <published>2012-11-23T00:00:00+00:00</published>
     <updated>2012-11-23T00:00:00+00:00</updated>
@@ -221,14 +237,6 @@
 &lt;/ul&gt;&lt;p&gt;However, section 11(6) of the &lt;a rel="external" href="http://www.legislation.gov.uk/ukpga/2003/26/contents"&gt;Local Government Act 2003&lt;/a&gt; (as inserted by section 174 of the &lt;a rel="external" href="http://www.legislation.gov.uk/ukpga/2011/20/contents"&gt;Localism Act 2011&lt;/a&gt;) permits the secretary of state to enter into agreements with local authorities with the effect that any requirement imposed by these regulations does not apply, or is modified in its application.&lt;/p&gt;
 
 &lt;p&gt;To enter into such an agreement it is necessary for any interested authority to make an application to the secretary of state. This guidance sets out the Department for Communities and Local Government’s policy on such exemptions.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/16871</id>
-    <published>2012-11-23T00:00:00+00:00</published>
-    <updated>2012-11-23T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/guidance-for-local-transport-bodies"/>
-    <title>Guidance for Local Transport Bodies</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Department for Transport has announced its firm intention to devolve funding for local major transport schemes to Local Transport Bodies from 2015. The guidance sets out the necessary arrangement Local Transport Bodies will need to have in place to ensure value for money and sound decision making.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/16636</id>
@@ -309,13 +317,5 @@
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/improvement-notice-issued-to-blackpool-borough-council"/>
     <title>Improvement notice issued to Blackpool Borough Council</title>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Improvement notice issued to Blackpool Borough Council by the Department for Education.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/16406</id>
-    <published>2012-11-19T00:00:00+00:00</published>
-    <updated>2012-11-19T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/improvement-notice-issued-to-walsall-metropolitan-borough-council"/>
-    <title>Improvement notice issued to Walsall Metropolitan Borough Council</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Improvement notice issued to Walsall Metropolitan Borough Council by the Department for Education.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
 </feed>

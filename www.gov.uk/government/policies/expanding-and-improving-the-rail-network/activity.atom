@@ -8,7 +8,28 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-12-10T00:00:00+00:00</updated>
+  <updated>2012-12-14T10:38:38+00:00</updated>
+  <entry>
+    <id>tag:www.gov.uk,2005:NewsArticle/56290</id>
+    <published>2012-12-14T10:38:38+00:00</published>
+    <updated>2012-12-14T10:38:38+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/industry-launches-new-rail-technical-strategy"/>
+    <title>Industry launches new rail technical strategy</title>
+    <category>News Article</category>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Rail industry leaders have outlined a 30 year vision for the railway through a new edition of the ‘Rail technical strategy’.&lt;/p&gt;
+
+&lt;p&gt;The ‘Rail technical strategy’ describes how technology can help the railway increase capacity, improve reliability, cut carbon emissions and reduce costs.&lt;/p&gt;
+
+&lt;p&gt;The strategy has been developed by the Technical Strategy Leadership Group – a cross-industry expert body with representatives from across the rail industry – and endorsed by the Rail Delivery Group.&lt;/p&gt;
+
+&lt;p&gt;&lt;a rel="external" href="http://www.futurerailway.org"&gt;Read the Rail technical strategy&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Minister of State for Transport  Simon Burns MP welcomed the strategy saying:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;I welcome the industry picking up the baton to develop this Rail technical strategy. Technology has a vital role to play in improving the railway’s performance, cutting its costs along with carbon emissions and delivering a better travelling experience for passengers. By setting in place a 30 year vision, the railway is demonstrating that it has a bright and exciting future, and the potential to support our economy and society for the long term.&lt;/p&gt;
+&lt;/blockquote&gt;&lt;/div&gt;</content>
+  </entry>
   <entry>
     <id>tag:www.gov.uk,2005:Speech/48843</id>
     <published>2012-12-10T00:00:00+00:00</published>
@@ -543,33 +564,5 @@ Public Enquiries: 0300 330 3000&lt;/p&gt;&lt;/div&gt;</content>
 &lt;/ol&gt;&lt;p&gt;Press enquiries: 020 7944 3108&lt;br&gt;
 Out of hours: 020 7944 4292&lt;br&gt;
 Public enquiries: 0300 330 3000&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:Consultation/16975</id>
-    <published>2012-11-27T09:45:02+00:00</published>
-    <updated>2012-11-27T09:45:02+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/consultations/rail-decentralisation-devolving-decision-making-on-passenger-rail-services-in-england"/>
-    <title>Rail decentralisation: devolving decision-making on passenger rail services in England</title>
-    <category>Consultation</category>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Most train services in England are specified, funded and managed centrally by the Department for Transport based in London. Passenger Transport Executives’ (&lt;abbr title="Passenger Transport Executives"&gt;PTEs&lt;/abbr&gt;) and local authorities’ influence over the rail services provided in their local area is limited.&lt;/p&gt;
-
-&lt;p&gt;In line with its aspirations for localism, the government is seeking to devolve, where appropriate, more accountability and decision-making related to local rail services to sub-national bodies, such as local authorities and &lt;abbr title="Passenger Transport Executives"&gt;PTEs&lt;/abbr&gt;. This consultation explores how this might be done in parts of England.&lt;/p&gt;
-
-&lt;h3 id="why-we-are-consulting"&gt;Why we are consulting&lt;/h3&gt;
-
-&lt;p&gt;The government wishes to seek views on whether improved outcomes for transport users might be achieved in some cases if more decisions relating to local rail services were made closer to the communities they serve.&lt;/p&gt;
-
-&lt;p&gt;We are also inviting sub-national bodies - &lt;abbr title="Passenger Transport Executives"&gt;PTEs&lt;/abbr&gt; and local authorities - to indicate their interest and come forward with outline proposals for taking on decision-making responsibility for passenger rail services in their area.&lt;/p&gt;
-
-&lt;p&gt;This consultation complements the command paper, ‘Reforming our railways’, published today. That sets out the government’s vision for rail and responds to Sir Roy McNulty’s independent report on value for money on the railways.&lt;/p&gt;
-
-&lt;h2 id="related-documents"&gt;Related documents&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a rel="external" href="http://www.dft.gov.uk/publications/reforming-our-railways/"&gt;Command paper: Reforming our railways&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a rel="external" href="http://www.dft.gov.uk/consultations/dft-2012-09/"&gt;Consultation: Rail fares and ticketing review&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a rel="external" href="http://www.dft.gov.uk/news/statements/greening-20120308a/"&gt;Rail reform command paper oral statement by the Secretary of State for Transport, 8 March 2012&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a rel="external" href="http://www.dft.gov.uk/news/press-releases/dft-press-20120308a/"&gt;Ending inflation-busting rail fare rises press release, 8 March 2012&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</content>
   </entry>
 </feed>

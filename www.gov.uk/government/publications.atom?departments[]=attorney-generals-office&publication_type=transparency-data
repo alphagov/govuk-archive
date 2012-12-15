@@ -8,21 +8,22 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-10-20T00:00:00+01:00</updated>
+  <updated>2012-12-14T00:00:00+00:00</updated>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56097</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56596</id>
+    <published>2012-12-14T00:00:00+00:00</published>
+    <updated>2012-12-14T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/ago-civil-service-people-survey-results-2012"/>
+    <title>AGO civil service people survey results 2012</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Attorney General’s Office (AGO) results for the civil service people survey 2012 &lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56146</id>
     <published>2012-10-20T00:00:00+01:00</published>
     <updated>2012-10-20T00:00:00+01:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/ministerial-hospitality-april-to-june-2012"/>
-    <title>Ministerial hospitality: April to June 2012 </title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Hospitality does not normally include attendance at:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;functions hosted by HM Government&lt;/li&gt;
-  &lt;li&gt;diplomatic functions in the UK or abroad, hosted by overseas governments&lt;/li&gt;
-  &lt;li&gt;minor refreshments at meetings, receptions, conferences, and seminars&lt;/li&gt;
-  &lt;li&gt;offers of hospitality which were declined&lt;/li&gt;
-&lt;/ul&gt;&lt;p&gt;The entry for this quarter is a nil return.&lt;/p&gt;&lt;/div&gt;</content>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/agos-ministerial-meetings-april-to-june-2012"/>
+    <title>Ministerial meetings April to June 2012</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Attorney General’s Office (AGO) details of ministers’ meetings with external organisations (including meetings with newspaper and media owners, editors and senior executives).&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/56101</id>
@@ -43,12 +44,19 @@
 &lt;p&gt;The entry for this quarter is a nil return.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56146</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56097</id>
     <published>2012-10-20T00:00:00+01:00</published>
     <updated>2012-10-20T00:00:00+01:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/agos-ministerial-meetings-april-to-june-2012"/>
-    <title>Ministerial meetings April to June 2012</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Attorney General’s Office (AGO) details of ministers’ meetings with external organisations (including meetings with newspaper and media owners, editors and senior executives).&lt;/p&gt;&lt;/div&gt;</content>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/ministerial-hospitality-april-to-june-2012"/>
+    <title>Ministerial hospitality: April to June 2012 </title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Hospitality does not normally include attendance at:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;functions hosted by HM Government&lt;/li&gt;
+  &lt;li&gt;diplomatic functions in the UK or abroad, hosted by overseas governments&lt;/li&gt;
+  &lt;li&gt;minor refreshments at meetings, receptions, conferences, and seminars&lt;/li&gt;
+  &lt;li&gt;offers of hospitality which were declined&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;The entry for this quarter is a nil return.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/56140</id>
@@ -92,6 +100,24 @@
 &lt;/ul&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56164</id>
+    <published>2012-05-03T00:00:00+01:00</published>
+    <updated>2012-05-03T00:00:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/ministerial-overseas-travel-october-to-december-2011"/>
+    <title>Ministerial overseas travel: October to December 2011</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Attorney General’s Office (AGO) ministers must publish details of overseas travel that’s part of their official duties.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56160</id>
+    <published>2012-05-03T00:00:00+01:00</published>
+    <updated>2012-05-03T00:00:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/ministerial-gifts-given-and-received-october-to-december-2011"/>
+    <title>Ministerial gifts given and received: October to December 2011</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Attorney General’s Office (AGO) ministers must publish details of gifts they give or receive over £140.&lt;/p&gt;
+
+&lt;p&gt;The entry for this quarter is a nil return.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/56168</id>
     <published>2012-05-03T00:00:00+01:00</published>
     <updated>2012-05-03T00:00:00+01:00</updated>
@@ -117,32 +143,6 @@
 &lt;/ul&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56164</id>
-    <published>2012-05-03T00:00:00+01:00</published>
-    <updated>2012-05-03T00:00:00+01:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/ministerial-overseas-travel-october-to-december-2011"/>
-    <title>Ministerial overseas travel: October to December 2011</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Attorney General’s Office (AGO) ministers must publish details of overseas travel that’s part of their official duties.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56160</id>
-    <published>2012-05-03T00:00:00+01:00</published>
-    <updated>2012-05-03T00:00:00+01:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/ministerial-gifts-given-and-received-october-to-december-2011"/>
-    <title>Ministerial gifts given and received: October to December 2011</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Attorney General’s Office (AGO) ministers must publish details of gifts they give or receive over £140.&lt;/p&gt;
-
-&lt;p&gt;The entry for this quarter is a nil return.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56178</id>
-    <published>2012-03-04T00:00:00+00:00</published>
-    <updated>2012-03-04T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/ministerial-meetings-july-to-september-2011"/>
-    <title>Ministerial meetings: July to September 2011</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Attorney General’s Office (AGO) details of ministers’ meetings with external organisations (including meetings with newspaper and media owners, editors and senior executives).&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/56175</id>
     <published>2012-03-04T00:00:00+00:00</published>
     <updated>2012-03-04T00:00:00+00:00</updated>
@@ -157,6 +157,14 @@
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/ministerial-gifts-given-and-received-july-to-september-2011"/>
     <title>Ministerial gifts given and received: July to September 2011</title>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Attorney General’s Office (AGO) ministers must publish details of gifts they give or receive over £140.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56178</id>
+    <published>2012-03-04T00:00:00+00:00</published>
+    <updated>2012-03-04T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/ministerial-meetings-july-to-september-2011"/>
+    <title>Ministerial meetings: July to September 2011</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Attorney General’s Office (AGO) details of ministers’ meetings with external organisations (including meetings with newspaper and media owners, editors and senior executives).&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/56180</id>
@@ -207,13 +215,5 @@
   &lt;li&gt;minor refreshments at meetings, receptions, conferences, and seminars&lt;/li&gt;
   &lt;li&gt;offers of hospitality which were declined&lt;/li&gt;
 &lt;/ul&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56248</id>
-    <published>2011-12-09T00:00:00+00:00</published>
-    <updated>2011-12-09T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/ministerial-meetings-april-to-june-2011"/>
-    <title>Ministerial meetings: April to June 2011</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Attorney General’s Office (AGO) details of ministers’ meetings with external organisations (including meetings with newspaper and media owners, editors and senior executives).&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
 </feed>

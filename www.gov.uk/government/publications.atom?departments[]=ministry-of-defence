@@ -8,7 +8,15 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-12-12T00:00:00+00:00</updated>
+  <updated>2012-12-14T00:00:00+00:00</updated>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56699</id>
+    <published>2012-12-14T00:00:00+00:00</published>
+    <updated>2012-12-14T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/jsp-315-services-accommodation-code-volume-1"/>
+    <title>JSP 315 Services Accommodation code: Volume 1</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;JSP 315 sets out the official standards for MOD buildings, accommodation, offices and physical training grounds.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/55605</id>
     <published>2012-12-12T00:00:00+00:00</published>
@@ -34,12 +42,20 @@
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;MOD grants a worldwide, royalty-free, perpetual, non-exclusive licence to use its images for the reporting of current news only. The attached document contains further details.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/50171</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/50179</id>
     <published>2012-12-11T00:00:00+00:00</published>
     <updated>2012-12-11T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/senior-officers-of-the-armed-forces-hospitality-received"/>
-    <title>Senior Officers of the Armed Forces: hospitality received</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;In addition to publishing the hospitality received of our most senior Civil Servants, the Ministry of Defence will now be publishing the hospitality received of the most senior Officers of the Armed Forces on a quarterly basis.&lt;/p&gt;&lt;/div&gt;</content>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/senior-staff-hospitality-received"/>
+    <title>Senior staff: hospitality received</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Ministry of Defence publishes the hospitality received of its most senior Civil Servants on a quarterly basis.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/50180</id>
+    <published>2012-12-11T00:00:00+00:00</published>
+    <updated>2012-12-11T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/senior-staff-business-expenses"/>
+    <title>Senior staff: business expenses</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The &lt;abbr title="Ministry of Defence"&gt;MOD&lt;/abbr&gt; publishes the expenses of its most senior Civil Servants on a quarterly basis.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/50164</id>
@@ -50,33 +66,20 @@
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;In line with other government departments the &lt;abbr title="Ministry of Defence"&gt;MOD&lt;/abbr&gt; is publishing details of the non-consolidated performance awards paid to Senior Civil Service staff, Senior Fixed term Appointees and staff below the &lt;abbr title="Senior Civil Service"&gt;SCS&lt;/abbr&gt;.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/50171</id>
+    <published>2012-12-11T00:00:00+00:00</published>
+    <updated>2012-12-11T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/senior-officers-of-the-armed-forces-hospitality-received"/>
+    <title>Senior Officers of the Armed Forces: hospitality received</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;In addition to publishing the hospitality received of our most senior Civil Servants, the Ministry of Defence will now be publishing the hospitality received of the most senior Officers of the Armed Forces on a quarterly basis.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/50174</id>
     <published>2012-12-11T00:00:00+00:00</published>
     <updated>2012-12-11T00:00:00+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/senior-officers-of-the-armed-forces-business-expenses"/>
     <title>Senior Officers of the Armed Forces: business expenses</title>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;In addition to publishing the business expenses incurred by the most senior Civil Servants on official duty, the Ministry of Defence will now be publishing the business expenses of the most senior Officers of the Armed Forces on a quarterly basis.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/43780</id>
-    <published>2012-12-10T00:00:00+00:00</published>
-    <updated>2012-12-10T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/second-world-war-commemorative-booklets"/>
-    <title>Second World War Commemorative Booklets</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;A series of second World War Commemorative booklets telling the story of the following&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;The turning point in the war with Japan&lt;/li&gt;
-  &lt;li&gt;Securing the Allies route to Rome&lt;/li&gt;
-  &lt;li&gt;The amphibious invasion that established the Second Front&lt;/li&gt;
-  &lt;li&gt;The Drive on Caen, Northern France (7 June - 9 July 1944)&lt;/li&gt;
-  &lt;li&gt;Overcoming Hitler’s attempt to throw the Allies back into the sea&lt;/li&gt;
-  &lt;li&gt;The Allies’ attempt to establish a bridgehead into Germany&lt;/li&gt;
-  &lt;li&gt;Allied troops witness the horror of genocide&lt;/li&gt;
-  &lt;li&gt;The days of rapid advance across North West Europe&lt;/li&gt;
-  &lt;li&gt;The decisive defeat of the German forces in Normandy&lt;/li&gt;
-  &lt;li&gt;The days of rapid advance across North West Europe&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/43719</id>
@@ -115,6 +118,27 @@
 &lt;p&gt;The Procurement Executive was born on 2 August 1971, with Mr (later Lord) Rayner as its first Chief Executive. In 1995, it collocated to the purpose-built Abbey Wood complex in Filton, north Bristol and in 1999 became an Executive Agency of the MOD.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/43780</id>
+    <published>2012-12-10T00:00:00+00:00</published>
+    <updated>2012-12-10T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/second-world-war-commemorative-booklets"/>
+    <title>Second World War Commemorative Booklets</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;A series of second World War Commemorative booklets telling the story of the following&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The turning point in the war with Japan&lt;/li&gt;
+  &lt;li&gt;Securing the Allies route to Rome&lt;/li&gt;
+  &lt;li&gt;The amphibious invasion that established the Second Front&lt;/li&gt;
+  &lt;li&gt;The Drive on Caen, Northern France (7 June - 9 July 1944)&lt;/li&gt;
+  &lt;li&gt;Overcoming Hitler’s attempt to throw the Allies back into the sea&lt;/li&gt;
+  &lt;li&gt;The Allies’ attempt to establish a bridgehead into Germany&lt;/li&gt;
+  &lt;li&gt;Allied troops witness the horror of genocide&lt;/li&gt;
+  &lt;li&gt;The days of rapid advance across North West Europe&lt;/li&gt;
+  &lt;li&gt;The decisive defeat of the German forces in Normandy&lt;/li&gt;
+  &lt;li&gt;The days of rapid advance across North West Europe&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/39722</id>
     <published>2012-12-07T00:00:00+00:00</published>
     <updated>2012-12-07T00:00:00+00:00</updated>
@@ -125,20 +149,20 @@
 &lt;p&gt;Service parents with children in State funded schools in England are encouraged to ensure that the Head Teacher of their child(ren)’s school is made aware of their Service status for the Spring School Census which will be conducted on 17 January 2013.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/47752</id>
-    <published>2012-12-06T00:00:00+00:00</published>
-    <updated>2012-12-06T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/mod-annual-report-2011-12"/>
-    <title>MOD Annual Report 2011/12</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Ministry of Defence Annual Report and Accounts 2011-12 - For the year ended 31 March 2012.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/48933</id>
     <published>2012-12-06T00:00:00+00:00</published>
     <updated>2012-12-06T00:00:00+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/mod-annual-report-and-accounts-2011-12"/>
     <title>MOD Annual Report and Accounts 2011-12</title>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Ministry of Defence Annual Report and Accounts 2011-12 and Sustainability Report.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/47752</id>
+    <published>2012-12-06T00:00:00+00:00</published>
+    <updated>2012-12-06T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/mod-annual-report-2011-12"/>
+    <title>MOD Annual Report 2011/12</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Ministry of Defence Annual Report and Accounts 2011-12 - For the year ended 31 March 2012.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/39719</id>
@@ -210,81 +234,5 @@ Military Network: 9 4240 2052&lt;/p&gt;&lt;/div&gt;</content>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/new-employment-model-faqs"/>
     <title>New Employment Model FAQS</title>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;New Employment Model(NEM)- Frequently Asked Questions&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/51370</id>
-    <published>2012-11-21T00:00:00+00:00</published>
-    <updated>2012-11-21T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/consultations/development-plans-for-the-lyneham-site-consultation"/>
-    <title>Development Plans for the Lyneham Site consultation</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Defence Technical Training Change Programme (DTTCP) represents the MOD’s plan for delivering cost effective technical training for military personnel. As part of this, the existing technical training given at Bordon and Arborfield will be transferred to the Lyneham site by the end of 2015, following its planned closure as an RAF unit at the end of 2012. The site will be developed to meet the requirements of the training college before technical training commences.  &lt;/p&gt;
-
-&lt;h2 id="the-proposals"&gt;The proposals&lt;/h2&gt;
-
-&lt;p&gt;The proposed new development is designed to create a new Defence College of Technical Training at the Lyneham site, comprising of the following principal training schools:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Electronic and Mechanical Engineering (EME) – This will provide trade training for mechanics, engineers, technicians and technical support specialists for land and maritime specialisations.&lt;/li&gt;
-  &lt;li&gt;Aeronautical Engineering (AE) –This will involve providing training for avionics and aircraft technicians.&lt;/li&gt;
-  &lt;li&gt;Communications and Information Systems (CIS) - This will involve field-based tactical training and classroom/workshop based technical training in communications and information systems.&lt;/li&gt;
-&lt;/ul&gt;&lt;p&gt;In general terms, Service personnel under training at the DCTT learn to maintain machinery and keep military equipment running.  This involves utilisation of training workshops, classrooms and laboratories, with students working on simulated and real machines and vehicles. There will also be outdoor training covering skills such as recovering overturned vehicles. New and refurbished accommodation will be provided along with physical education, sports and welfare facilities.&lt;/p&gt;
-
-&lt;h2 id="key-dates"&gt;Key dates&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Formal assessment phase commences – August 2012&lt;/li&gt;
-  &lt;li&gt;Planned closure of RAF Lyneham – December 2012&lt;/li&gt;
-  &lt;li&gt;Submit planning application – Mid 2013&lt;/li&gt;
-  &lt;li&gt;Start of construction on Tranche 1 – January 2014&lt;/li&gt;
-  &lt;li&gt;End of construction on Tranche 1 – End of 2015&lt;/li&gt;
-  &lt;li&gt;Moving in / training – End of 2015&lt;/li&gt;
-  &lt;li&gt;The long-term goal is to move more MOD Technical Training Units into Lyneham, in a series of tranches that stretch beyond 2015.&lt;/li&gt;
-&lt;/ul&gt;&lt;h2 id="how-to-contact-us"&gt;How to contact us&lt;/h2&gt;
-
-&lt;p&gt;We have prepared &lt;a rel="external" href="http://surveys.defenceconsultations.org.uk/limesurvey/index.php?sid=69322&amp;amp;lang=en"&gt;a questionnaire&lt;/a&gt; to gain initial feedback on the proposal from local residents and other interested parties.&lt;/p&gt;
-
-&lt;p&gt;Hard copies of the questionnaire are also available at Lyneham Library and can be obtained from Lyneham &amp;amp; Bradenstoke Parish Council. Please contact the Clerk on 07801 440076.&lt;/p&gt;
-
-&lt;p&gt;The questionnaire will be available until December 21st 2012.&lt;/p&gt;
-
-&lt;h2 id="consultation-events"&gt;Consultation events&lt;/h2&gt;
-
-&lt;p&gt;It is planned that public exhibitions will be held in Spring 2013 when draft plans for the redevelopment of Lyneham Site will be presented at a series of Defence Infrastructure Organisation drop in sessions. We will provide further details of these events as they become available. &lt;/p&gt;
-
-&lt;p&gt;In the meantime, in addition to updates on this website, the Defence Infrastructure Organisation will continue to provide regular briefings to the Royal Wootton Bassett and Cricklade Area Board and Lyneham and Bradenstoke Parish Council throughout the duration of the project. We will also continue to engage with the Lyneham Steering Group on day to day issues.&lt;/p&gt;
-
-&lt;h2 id="contacting-the-team"&gt;Contacting the team&lt;/h2&gt;
-
-&lt;p&gt;If you have any other questions the team can be contacted by email or in writing.&lt;/p&gt;
-
-&lt;p&gt;A leaflet providing more information about the Defence Technical Training Change Programme Infrastructure is available to download below.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/54950</id>
-    <published>2012-11-13T00:00:00+00:00</published>
-    <updated>2012-11-13T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/hms-antrim-op-corporate-report-of-proceedings"/>
-    <title>HMS ANTRIM Op CORPORATE Report of Proceedings</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;HMS ANTRIM Op CORPORATE Report of Proceedings covering the period from 1 April to 1 July 1982.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56371</id>
-    <published>2012-11-08T00:00:00+00:00</published>
-    <updated>2012-11-08T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/consultations/future-reserves-2020-consultation"/>
-    <title>Future Reserves 2020 Consultation</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The United Kingdom’s Reserve Forces are a vital component of our Armed Forces; contributing to the public good we call Defence. They have made, and continue to make, a significant contribution to the Nation’s defence and security. But the security challenges the UK will face in future are different from those of the past, and for which our Reserve Forces are currently structured. Over the next decade, as Defence transforms to meet future and uncertain challenges, so the importance of our Reserve Forces will increase, and the way we organise and use them will change.&lt;/p&gt;
-
-&lt;p&gt;The consultation exercise will consider what changes are required to the Reserve Forces in order to generate and sustain the numbers and capabilities we need from them to meet our defence requirements. Specifically, we will look to define the right offer to attract and retain the individuals we need to serve in the reserves; the right relationship with the civilian employers of reservists; and the right support for reservists and their families across our communities.&lt;/p&gt;
-
-&lt;p&gt;The Consultation (Green) Paper sets out our thinking and direction of travel on Future Reserve. The key areas on which the paper focuses include:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;How we will use Reserve Forces in the future&lt;/li&gt;
-  &lt;li&gt;The offer for employers&lt;/li&gt;
-  &lt;li&gt;The offer for reservists&lt;/li&gt;
-&lt;/ul&gt;&lt;p&gt;Responses to the Green Paper can be provided online from early November. We encourage you to engage and provide feedback.&lt;/p&gt;
-
-&lt;p&gt;A White Paper in 2013 will detail the policy changes for Reserves and show how changes will be implemented to establish a new force structure such that we create the strategic conditions for success. Responses received during the consultation exercise will be used to inform the White Paper.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
 </feed>

@@ -46,15 +46,15 @@ GOVUK.Analytics.Format = "detailed_guidance";</script><script src="https://asset
     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
-</script><script defer src="https://assets.digital.cabinet-office.gov.uk/government/assets/application-b5a0c478893ab5873ac24100a27ed2e2.js" type="text/javascript"></script><!--[if gt IE 8]><!--><link href="https://assets.digital.cabinet-office.gov.uk/government/assets/frontend/base-83befbb1a2a13332cc405259f36e39f1.css" media="screen" rel="stylesheet" type="text/css">
+</script><script defer src="https://assets.digital.cabinet-office.gov.uk/government/assets/application-b5a0c478893ab5873ac24100a27ed2e2.js" type="text/javascript"></script><!--[if gt IE 8]><!--><link href="https://assets.digital.cabinet-office.gov.uk/government/assets/frontend/base-9de10fdda434f6daf947fe4369f2be1f.css" media="screen" rel="stylesheet" type="text/css">
 <!--<![endif]--><link href="https://assets.digital.cabinet-office.gov.uk/government/assets/frontend/print-daf98b13266ac805f7668634614eca9e.css" media="print" rel="stylesheet" type="text/css">
 <link href="https://www.gov.uk/government/feed" rel="alternate" title="Recent updates" type="application/atom+xml">
 <link href="https://www.gov.uk/api/specialist/mod-architecture-framework" rel="alternate" type="application/json">
 <meta content="True" name="HandheldFriendly">
 <meta content="320" name="MobileOptimized">
 <meta content="authenticity_token" name="csrf-param">
-<meta content="YgrROk8vaHdSczpVwWOY4CK/3BXMSqc7ZgQCd+25Gdo=" name="csrf-token">
-<!--[if IE 6]><link href="https://assets.digital.cabinet-office.gov.uk/government/assets/frontend/base-ie6-debce7fdd78d188305c4b557e5d0b8b2.css" media="screen" rel="stylesheet" type="text/css" /><![endif]--><!--[if IE 7]><link href="https://assets.digital.cabinet-office.gov.uk/government/assets/frontend/base-ie7-a2cc2a889a73d7c32e4e6fd9b2ccbfdf.css" media="screen" rel="stylesheet" type="text/css" /><![endif]--><!--[if IE 8]><link href="https://assets.digital.cabinet-office.gov.uk/government/assets/frontend/base-ie8-8e75799fbddd98fcf1aaa08cc0e28f5b.css" media="screen" rel="stylesheet" type="text/css" /><![endif]-->
+<meta content="h58T7jPUJkqkt2YYxYO5qC7xkWmep0C7bkoBeAT7178=" name="csrf-token">
+<!--[if IE 6]><link href="https://assets.digital.cabinet-office.gov.uk/government/assets/frontend/base-ie6-1be2d354c7c12f21faccace8eb5cc073.css" media="screen" rel="stylesheet" type="text/css" /><![endif]--><!--[if IE 7]><link href="https://assets.digital.cabinet-office.gov.uk/government/assets/frontend/base-ie7-8d4a9d206f5b2f2ba2678a060b5a7e40.css" media="screen" rel="stylesheet" type="text/css" /><![endif]--><!--[if IE 8]><link href="https://assets.digital.cabinet-office.gov.uk/government/assets/frontend/base-ie8-b13dc09de9384bc966346d7d833c1389.css" media="screen" rel="stylesheet" type="text/css" /><![endif]-->
 </head>
 <body class="website government detailed-guidance">
       <script type="text/javascript">document.body.className = ((document.body.className) ? document.body.className + ' js-enabled' : 'js-enabled');</script><a href="#content" class="visuallyhidden">Skip to main content</a>
@@ -106,7 +106,7 @@ of Defence</span>
 </li>        </ul>
 <h1 class="page_title has_meta">MOD Architecture Framework</h1>
 <div class="page-meta">
-    <p class="summary">The Ministry of Defence Architecture Framework are tools that support defence planning and change management activities. </p>
+    <p class="summary">The MOD Architecture Framework (MODAF) is a set of rules thats support defence planning and change management activities. </p>
 </div>
 
 
@@ -133,6 +133,18 @@ of Defence</span>
             <a href="#who-should-use-this-guidance">Who should use this guidance</a>
           </li>
           <li>
+            <a href="#use-and-examples-of-modaf">Use and examples of MODAF</a>
+          </li>
+          <li>
+            <a href="#frequently-asked-questions">Frequently asked questions</a>
+          </li>
+          <li>
+            <a href="#is-there-a-modaf-manual">Is there a MODAF manual?</a>
+          </li>
+          <li>
+            <a href="#modaf-documentation-configuration-control-policy-and-version-history">MODAF documentation: configuration control policy and version history</a>
+          </li>
+          <li>
             <a href="#contact-details">Contact details</a>
           </li>
           <li>
@@ -154,18 +166,18 @@ of Defence</span>
 
 <h2 id="team-announcement">Team announcement</h2>
 
-<p>This site replaces www.modaf.org.uk. We are keen to ensure that this new site is as user-friendly and useful as possible. Please e-mail any comments or suggestions for improving this site to the contact address shown under ‘Contact details’.</p>
-
-<p>This site has been developed as home for authoritative information relating to all aspects of the use and development of <abbr title="Ministry of Defence Architecture Framework">MODAF</abbr>.</p>
-
-<p>“<abbr title="Ministry of Defence Architecture Framework">MODAF</abbr> is a set of rules on how to organise information about the business”.</p>
+<p>This guide replaces www.modaf.org.uk. We are keen to ensure that this information is as user-friendly and useful as possible. Please email any comments or suggestions for improvements to <a href="mailto:CIO-ISP-POLAFAstHd@mod.uk">CIO-ISP-POLAFAstHd@mod.uk</a>.</p>
 
 <h2 id="modaf-guidance">
 <abbr title="Ministry of Defence Architecture Framework">MODAF</abbr> guidance</h2>
 
 <p>Documentation supporting the <abbr title="Ministry of Defence Architecture Framework">MODAF</abbr>.</p>
 
-<p><abbr title="Ministry of Defence Architecture Framework">MODAF</abbr> provides a coherent set of rules and templates, known as Views, that, when populated, provide a graphical and textual visualisation of the business area being investigated. Each View offers a different perspective on the business to support different stakeholder interests. The Views are divided into seven categories:</p>
+<p><abbr title="Ministry of Defence Architecture Framework">MODAF</abbr> provides a coherent set of rules and templates, known as Views, that, when populated, provide a graphical and textual visualisation of the business area being investigated. </p>
+
+<p>Each View offers a different perspective on the business to support different stakeholder interests. </p>
+
+<p>The Views are divided into 7 categories:</p>
 
 <ol>
 <li>Strategic Views (<abbr title="Strategic Views">StVs</abbr>) define the desired business outcome, and what capabilities are required to achieve it</li>
@@ -176,7 +188,7 @@ of Defence</span>
   <li>Technical Views (<abbr title="Technical Views">TVs</abbr>) define the standards that are to be applied to the solution</li>
   <li>All Views (<abbr title="All Views">AVs</abbr>) provide a description and glossary of the contents of the architecture</li>
   <li>To ensure the coherence between the Views, <abbr title="Ministry of Defence Architecture Framework">MODAF</abbr> is underpinned by a model which defines the relationship between all the data in all the Views. This model is called the <abbr title="Ministry of Defence Architecture Framework">MODAF</abbr> </li>
-  <li>Meta Model, also known as the “<abbr title="Meta Model">M3</abbr>”. The <abbr title="Meta Model">M3</abbr> also provides a technical standard to enable the exchange of data between architectures developed in different modelling (software) applications.</li>
+  <li>Meta Model, also known as the ‘<abbr title="Meta Model">M3</abbr>’. The <abbr title="Meta Model">M3</abbr> also provides a technical standard to enable the exchange of data between architectures developed in different modelling (software) applications.</li>
 </ol>
 <h3 id="modaf-supports-the-application-of-rigour-to-requirements-capture">
 <abbr title="Ministry of Defence Architecture Framework">MODAF</abbr> supports the application of rigour to requirements capture.</h3>
@@ -210,51 +222,480 @@ of Defence</span>
 
 <p><abbr title="Ministry of Defence Architecture Framework">MODAF</abbr> architectures are developed as coherent, contiguous models that when viewed as a whole present a complete picture of the enterprise. <abbr title="Ministry of Defence Architecture Framework">MODAF</abbr> defines a rich selection of relationships which can be used to integrate the various architectural elements.</p>
 
-<p>Producing an enterprise architecture is rarely the work of one person and it is sometimes useful to be able to logically divide an architecture into domains, each concerned with one aspect of how the enterprise works. This also proves useful when publishing an architecture to different stakeholders. For this reason, <abbr title="Ministry of Defence Architecture Framework">MODAF</abbr> defines a set of standard viewpoints.
-Each Viewpoint takes a different perspective upon the architectural model; for instance, the Operational Viewpoint considers the operaional nodes (logical “actors” that may be realised by one or more resources) that interact in certain ways in order to achieve a desired outcome.</p>
+<p>Producing an enterprise architecture is rarely the work of one person and it is sometimes useful to be able to logically divide an architecture into domains, each concerned with one aspect of how the enterprise works. This also proves useful when publishing an architecture to different stakeholders. For this reason, <abbr title="Ministry of Defence Architecture Framework">MODAF</abbr> defines a set of standard viewpoints.</p>
+
+<p>Each Viewpoint takes a different perspective upon the architectural model; for instance, the Operational Viewpoint considers the operaional nodes (logical ‘actors’ that may be realised by one or more resources) that interact in certain ways in order to achieve a desired outcome.</p>
 
 <h3 id="the-modaf-views">The <abbr title="Ministry of Defence Architecture Framework">MODAF</abbr> views</h3>
 
 <p>Each Viewpoint consists of several views, which highlight slightly different details within the particular Viewpoint. For instance within the Operational Viewpoint, OV-1 provides a high-level conceptual graphic, whilst OV-2 considers the interactions between operational nodes and OV-3 details the information flows.</p>
 
-<p>Whilst the data within each view adds more richness to the overall description of an architecture, it is not necessary for all of the <abbr title="Ministry of Defence Architecture Framework">MODAF</abbr> views to be completed at any particular point in time during the <abbr title="Ministry of Defence">MOD</abbr>’s acquisition life-cycle. Indeed, each group of users within the <abbr title="Ministry of Defence">MOD</abbr> will have different needs and will only populate and exploit those <abbr title="Ministry of Defence Architecture Framework">MODAF</abbr> Views that are of relevance to them. This means that most of the <abbr title="Ministry of Defence">MOD</abbr>’s Communities of Interest (<abbr title="Communities of Interest">COIs</abbr>) will only be dealing with the population and exploitation of a subset of <abbr title="Ministry of Defence Architecture Framework">MODAF</abbr> Views, and few will need to understand and deal with all of the available <abbr title="Ministry of Defence Architecture Framework">MODAF</abbr> Views.</p>
-
-<p>Links to more detailed descriptions of each viewpoint and their constituent views can be found listed in the “Related links” section below. </p>
+<p>Whilst the data within each view adds more richness to the overall description of an architecture, it is not necessary for all of the <abbr title="Ministry of Defence Architecture Framework">MODAF</abbr> views to be completed at any particular point in time during the <abbr title="Ministry of Defence">MOD</abbr>’s acquisition life-cycle. Indeed, each group of users within the <abbr title="Ministry of Defence">MOD</abbr> will have different needs and will only populate and exploit those <abbr title="Ministry of Defence Architecture Framework">MODAF</abbr> Views that are of relevance to them. This means that most of the <abbr title="Ministry of Defence">MOD</abbr>’s Communities of Interest (<abbr title="Communities of Interest">COIs</abbr>) will only be dealing with the population and exploitation of a subset of <abbr title="Ministry of Defence Architecture Framework">MODAF</abbr> Views, and few will need to understand and deal with all of the available <abbr title="Ministry of Defence Architecture Framework">MODAF</abbr> Views. </p>
 
 <h3 id="interactions-between-views-and-interactions-between-architectures">Interactions between views and interactions between architectures</h3>
 
 <p>It is expected that the <abbr title="Strategic Views">StVs</abbr> cover more than one operational architecture - i.e. the capabilities defined in the <abbr title="Strategic Views">StVs</abbr> are re-used across a number of architectures. It may also be the case that the architect wishes to conduct an architectural trade study - i.e. there may be multiple possible solutions for a given requirement in the <abbr title="Operational Views">OVs</abbr>.</p>
 
-<p>These relationships are covered in more detail in the guidance for each viewpoint and in the document “<abbr title="Ministry of Defence Architecture Framework">MODAF</abbr> Layers and Viewpoint Linkages” - which can be found on the Views Summary Documents page, link below.</p>
+<p>These relationships are covered in more detail in the guidance for each viewpoint and in the document ‘<abbr title="Ministry of Defence Architecture Framework">MODAF</abbr> Layers and Viewpoint Linkages’.</p>
 
-<p>These relationships are covered in more detail in the guidance for each viewpoint and in the document “<abbr title="Ministry of Defence Architecture Framework">MODAF</abbr> Layers and Viewpoint Linkages” - which can be found on the <abbr title="Ministry of Defence Architecture Framework">MODAF</abbr> Views Summary Documents page.</p>
+<p>These relationships are covered in more detail in the guidance for each viewpoint and in the document ‘<abbr title="Ministry of Defence Architecture Framework">MODAF</abbr> Layers and Viewpoint Linkages’.</p>
 
 <h2 id="who-should-use-this-guidance">Who should use this guidance</h2>
 
 <p>This site is set up to support anyone with an interest in <abbr title="Ministry of Defence Architecture Framework">MODAF</abbr>. This audience includes:</p>
 
-<p>Enterprise Architects, the principal customers for <abbr title="Ministry of Defence Architecture Framework">MODAF</abbr> views, who need to both correctly interpret standard <abbr title="Ministry of Defence Architecture Framework">MODAF</abbr> views provided to them and to specify and control the tasks required to create new views</p>
-
-<p>Architectural modellers who need guidance on the creation and interchange of <abbr title="Ministry of Defence Architecture Framework">MODAF</abbr> views (including for example: architecting principles, view coherence rules and tool selection criteria)</p>
-
-<p>Tool developers and engineers who are implementing architectural data repositories for storing and manipulating <abbr title="Ministry of Defence Architecture Framework">MODAF</abbr> Architecture data elements
-Trainers and educators who require reference material in order to appropriately train and support the previous types of <abbr title="Ministry of Defence Architecture Framework">MODAF</abbr> users
+<ul>
+<li>Enterprise Architects, the principal customers for <abbr title="Ministry of Defence Architecture Framework">MODAF</abbr> views, who need to both correctly interpret standard <abbr title="Ministry of Defence Architecture Framework">MODAF</abbr> views provided to them and to specify and control the tasks required to create new views</li>
+  <li>Architectural modellers who need guidance on the creation and interchange of <abbr title="Ministry of Defence Architecture Framework">MODAF</abbr> views (including for example: architecting principles, view coherence rules and tool selection criteria)</li>
+  <li>Tool developers and engineers who are implementing architectural data repositories for storing and manipulating <abbr title="Ministry of Defence Architecture Framework">MODAF</abbr> Architecture data elements</li>
+  <li>Trainers and educators who require reference material in order to appropriately train and support the previous types of <abbr title="Ministry of Defence Architecture Framework">MODAF</abbr> users</li>
+  <li>
 <abbr title="Ministry of Defence Architecture Framework">MODAF</abbr> users who wish to contribute to the development of <abbr title="Ministry of Defence Architecture Framework">MODAF</abbr>
-Managers who need to understand what views are required to answer their particular questions</p>
+</li>
+  <li>Managers who need to understand what views are required to answer their particular questions</li>
+</ul>
+<h2 id="use-and-examples-of-modaf">Use and examples of <abbr title="Ministry of Defence Architecture Framework">MODAF</abbr>
+</h2>
 
-<h2 id="contact-details">Contact details</h2>
+<h3 id="the-modaf-architecting-process">The <abbr title="Ministry of Defence Architecture Framework">MODAF</abbr> Architecting Process</h3>
+
+<p>There are many different approaches to architecting which can be taken depending on the situation. <abbr title="Ministry of Defence Architecture Framework">MODAF</abbr> does not prescribe an ‘official’ architecting process.
+However, for someone new to architecting with <abbr title="Ministry of Defence Architecture Framework">MODAF</abbr>, some direction is helpful.</p>
+
+<h3 id="uses-and-examples">Uses and examples</h3>
+
+<p>The documents present a number of examples of how <abbr title="Ministry of Defence Architecture Framework">MODAF</abbr> can be used to support activities associated with the delivery of military capability.</p>
+
+<section class="attachment embedded" id="attachment_52556"><div class="attachment-thumb">
+    <a href="/government/uploads/system/uploads/attachment_data/file/36719/20090210_MODAF_Architecting_Process_V1_0_U.pdf" aria-describedby="attachment-52556-accessibility-help" class="thumbnail">
+      <img alt="" src="https://assets.digital.cabinet-office.gov.uk/government/uploads/system/uploads/attachment_data/file/36719/thumbnail_20090210_MODAF_Architecting_Process_V1_0_U.pdf.png"></a>  </div>
+  <div class="attachment-details">
+    <h3 class="title"><a href="/government/uploads/system/uploads/attachment_data/file/36719/20090210_MODAF_Architecting_Process_V1_0_U.pdf" aria-describedby="attachment-52556-accessibility-help">The <abbr title="Ministry of Defence Architecture Framework">MODAF</abbr> architecting process (PDF)</a></h3>
+    <p class="metadata">
+      <span class="type"><abbr title="Portable Document Format">PDF</abbr></span>,
+      <span class="file-size">129 KB</span>,
+        <span class="page-length">7 pages</span>
+    </p>
+      <div class="accessibility-warning js-toggle-accessibility-warning" id="attachment-52556-accessibility-help">
+        <h3>This file may not be accessible.
+          <span class="toggler">Request a different format.</span>
+        </h3>
+        <p class="help-block">
+          To request this document in an alternative format such as braille, audio
+          or a different file type please email
+          <a href="mailto:govuk-feedback@digital.cabinet-office.gov.uk?body=%0A%0ADetails%20of%20document%20required%3A%0A%0ATitle%3A%20The%20MODAF%20architecting%20process%20%28PDF%29%0A%20%20%20%20%20%20&amp;subject=Request%20for%20%27The%20MODAF%20architecting%20process%20%28PDF%29%27%20in%20an%20alternative%20format">govuk-feedback@digital.cabinet-office.gov.uk</a>
+          quoting your address, telephone number along with the title of the
+          publication ("The <abbr title="Ministry of Defence Architecture Framework">MODAF</abbr> architecting process (PDF)").
+        </p>
+      </div>
+  </div>
+</section><section class="attachment embedded" id="attachment_52557"><div class="attachment-thumb">
+    <a href="/government/uploads/system/uploads/attachment_data/file/36720/20090210_MODAFDLODAnalysis_V1_0_U.pdf" aria-describedby="attachment-52557-accessibility-help" class="thumbnail">
+      <img alt="" src="https://assets.digital.cabinet-office.gov.uk/government/uploads/system/uploads/attachment_data/file/36720/thumbnail_20090210_MODAFDLODAnalysis_V1_0_U.pdf.png"></a>  </div>
+  <div class="attachment-details">
+    <h3 class="title"><a href="/government/uploads/system/uploads/attachment_data/file/36720/20090210_MODAFDLODAnalysis_V1_0_U.pdf" aria-describedby="attachment-52557-accessibility-help"><abbr title="Ministry of Defence Architecture Framework">MODAF</abbr> support to analysis of capability integration in the context of Defence Lines of Development (DLODs) (PDF)</a></h3>
+    <p class="metadata">
+      <span class="type"><abbr title="Portable Document Format">PDF</abbr></span>,
+      <span class="file-size">29.2 KB</span>,
+        <span class="page-length">2 pages</span>
+    </p>
+      <div class="accessibility-warning js-toggle-accessibility-warning" id="attachment-52557-accessibility-help">
+        <h3>This file may not be accessible.
+          <span class="toggler">Request a different format.</span>
+        </h3>
+        <p class="help-block">
+          To request this document in an alternative format such as braille, audio
+          or a different file type please email
+          <a href="mailto:govuk-feedback@digital.cabinet-office.gov.uk?body=%0A%0ADetails%20of%20document%20required%3A%0A%0ATitle%3A%20MODAF%20support%20to%20analysis%20of%20capability%20integration%20in%20the%20context%20of%20Defence%20Lines%20of%20Development%20%28DLODs%29%20%28PDF%29%0A%20%20%20%20%20%20&amp;subject=Request%20for%20%27MODAF%20support%20to%20analysis%20of%20capability%20integration%20in%20the%20context%20of%20Defence%20Lines%20of%20Development%20%28DLODs%29%20%28PDF%29%27%20in%20an%20alternative%20format">govuk-feedback@digital.cabinet-office.gov.uk</a>
+          quoting your address, telephone number along with the title of the
+          publication ("<abbr title="Ministry of Defence Architecture Framework">MODAF</abbr> support to analysis of capability integration in the context of Defence Lines of Development (DLODs) (PDF)").
+        </p>
+      </div>
+  </div>
+</section><section class="attachment embedded" id="attachment_52558"><div class="attachment-thumb">
+    <a href="/government/uploads/system/uploads/attachment_data/file/36721/20090210_MODAFSupporttoURDs_V1_0_U.pdf" aria-describedby="attachment-52558-accessibility-help" class="thumbnail">
+      <img alt="" src="https://assets.digital.cabinet-office.gov.uk/government/uploads/system/uploads/attachment_data/file/36721/thumbnail_20090210_MODAFSupporttoURDs_V1_0_U.pdf.png"></a>  </div>
+  <div class="attachment-details">
+    <h3 class="title"><a href="/government/uploads/system/uploads/attachment_data/file/36721/20090210_MODAFSupporttoURDs_V1_0_U.pdf" aria-describedby="attachment-52558-accessibility-help"><abbr title="Ministry of Defence Architecture Framework">MODAF</abbr> support to user requirements definition (PDF) </a></h3>
+    <p class="metadata">
+      <span class="type"><abbr title="Portable Document Format">PDF</abbr></span>,
+      <span class="file-size">32.7 KB</span>,
+        <span class="page-length">2 pages</span>
+    </p>
+      <div class="accessibility-warning js-toggle-accessibility-warning" id="attachment-52558-accessibility-help">
+        <h3>This file may not be accessible.
+          <span class="toggler">Request a different format.</span>
+        </h3>
+        <p class="help-block">
+          To request this document in an alternative format such as braille, audio
+          or a different file type please email
+          <a href="mailto:govuk-feedback@digital.cabinet-office.gov.uk?body=%0A%0ADetails%20of%20document%20required%3A%0A%0ATitle%3A%20MODAF%20support%20to%20user%20requirements%20definition%20%28PDF%29%20%0A%20%20%20%20%20%20&amp;subject=Request%20for%20%27MODAF%20support%20to%20user%20requirements%20definition%20%28PDF%29%20%27%20in%20an%20alternative%20format">govuk-feedback@digital.cabinet-office.gov.uk</a>
+          quoting your address, telephone number along with the title of the
+          publication ("<abbr title="Ministry of Defence Architecture Framework">MODAF</abbr> support to user requirements definition (PDF) ").
+        </p>
+      </div>
+  </div>
+</section><section class="attachment embedded" id="attachment_52559"><div class="attachment-thumb">
+    <a href="/government/uploads/system/uploads/attachment_data/file/36722/20090210_MODAFSupporttoSRDs_V1_0_U.pdf" aria-describedby="attachment-52559-accessibility-help" class="thumbnail">
+      <img alt="" src="https://assets.digital.cabinet-office.gov.uk/government/uploads/system/uploads/attachment_data/file/36722/thumbnail_20090210_MODAFSupporttoSRDs_V1_0_U.pdf.png"></a>  </div>
+  <div class="attachment-details">
+    <h3 class="title"><a href="/government/uploads/system/uploads/attachment_data/file/36722/20090210_MODAFSupporttoSRDs_V1_0_U.pdf" aria-describedby="attachment-52559-accessibility-help"><abbr title="Ministry of Defence Architecture Framework">MODAF</abbr> support to system requirements definition (PDF)</a></h3>
+    <p class="metadata">
+      <span class="type"><abbr title="Portable Document Format">PDF</abbr></span>,
+      <span class="file-size">32.4 KB</span>,
+        <span class="page-length">2 pages</span>
+    </p>
+      <div class="accessibility-warning js-toggle-accessibility-warning" id="attachment-52559-accessibility-help">
+        <h3>This file may not be accessible.
+          <span class="toggler">Request a different format.</span>
+        </h3>
+        <p class="help-block">
+          To request this document in an alternative format such as braille, audio
+          or a different file type please email
+          <a href="mailto:govuk-feedback@digital.cabinet-office.gov.uk?body=%0A%0ADetails%20of%20document%20required%3A%0A%0ATitle%3A%20MODAF%20support%20to%20system%20requirements%20definition%20%28PDF%29%0A%20%20%20%20%20%20&amp;subject=Request%20for%20%27MODAF%20support%20to%20system%20requirements%20definition%20%28PDF%29%27%20in%20an%20alternative%20format">govuk-feedback@digital.cabinet-office.gov.uk</a>
+          quoting your address, telephone number along with the title of the
+          publication ("<abbr title="Ministry of Defence Architecture Framework">MODAF</abbr> support to system requirements definition (PDF)").
+        </p>
+      </div>
+  </div>
+</section><section class="attachment embedded" id="attachment_52562"><div class="attachment-thumb">
+    <a href="/government/uploads/system/uploads/attachment_data/file/36725/20090210_MODAFSupporttoDependencyAnalysisV1_0_U.pdf" aria-describedby="attachment-52562-accessibility-help" class="thumbnail">
+      <img alt="" src="https://assets.digital.cabinet-office.gov.uk/government/uploads/system/uploads/attachment_data/file/36725/thumbnail_20090210_MODAFSupporttoDependencyAnalysisV1_0_U.pdf.png"></a>  </div>
+  <div class="attachment-details">
+    <h3 class="title"><a href="/government/uploads/system/uploads/attachment_data/file/36725/20090210_MODAFSupporttoDependencyAnalysisV1_0_U.pdf" aria-describedby="attachment-52562-accessibility-help"><abbr title="Ministry of Defence Architecture Framework">MODAF</abbr> support to dependency analysis (PDF)</a></h3>
+    <p class="metadata">
+      <span class="type"><abbr title="Portable Document Format">PDF</abbr></span>,
+      <span class="file-size">48.5 KB</span>,
+        <span class="page-length">2 pages</span>
+    </p>
+      <div class="accessibility-warning js-toggle-accessibility-warning" id="attachment-52562-accessibility-help">
+        <h3>This file may not be accessible.
+          <span class="toggler">Request a different format.</span>
+        </h3>
+        <p class="help-block">
+          To request this document in an alternative format such as braille, audio
+          or a different file type please email
+          <a href="mailto:govuk-feedback@digital.cabinet-office.gov.uk?body=%0A%0ADetails%20of%20document%20required%3A%0A%0ATitle%3A%20MODAF%20support%20to%20dependency%20analysis%20%28PDF%29%0A%20%20%20%20%20%20&amp;subject=Request%20for%20%27MODAF%20support%20to%20dependency%20analysis%20%28PDF%29%27%20in%20an%20alternative%20format">govuk-feedback@digital.cabinet-office.gov.uk</a>
+          quoting your address, telephone number along with the title of the
+          publication ("<abbr title="Ministry of Defence Architecture Framework">MODAF</abbr> support to dependency analysis (PDF)").
+        </p>
+      </div>
+  </div>
+</section><section class="attachment embedded" id="attachment_52563"><div class="attachment-thumb">
+    <a href="/government/uploads/system/uploads/attachment_data/file/36726/20090210_MODAF_Support_to_Gap_Analysis_V1_0_U.pdf" aria-describedby="attachment-52563-accessibility-help" class="thumbnail">
+      <img alt="" src="https://assets.digital.cabinet-office.gov.uk/government/uploads/system/uploads/attachment_data/file/36726/thumbnail_20090210_MODAF_Support_to_Gap_Analysis_V1_0_U.pdf.png"></a>  </div>
+  <div class="attachment-details">
+    <h3 class="title"><a href="/government/uploads/system/uploads/attachment_data/file/36726/20090210_MODAF_Support_to_Gap_Analysis_V1_0_U.pdf" aria-describedby="attachment-52563-accessibility-help"><abbr title="Ministry of Defence Architecture Framework">MODAF</abbr> support to gap analysis (PDF)</a></h3>
+    <p class="metadata">
+      <span class="type"><abbr title="Portable Document Format">PDF</abbr></span>,
+      <span class="file-size">108 KB</span>,
+        <span class="page-length">2 pages</span>
+    </p>
+      <div class="accessibility-warning js-toggle-accessibility-warning" id="attachment-52563-accessibility-help">
+        <h3>This file may not be accessible.
+          <span class="toggler">Request a different format.</span>
+        </h3>
+        <p class="help-block">
+          To request this document in an alternative format such as braille, audio
+          or a different file type please email
+          <a href="mailto:govuk-feedback@digital.cabinet-office.gov.uk?body=%0A%0ADetails%20of%20document%20required%3A%0A%0ATitle%3A%20MODAF%20support%20to%20gap%20analysis%20%28PDF%29%0A%20%20%20%20%20%20&amp;subject=Request%20for%20%27MODAF%20support%20to%20gap%20analysis%20%28PDF%29%27%20in%20an%20alternative%20format">govuk-feedback@digital.cabinet-office.gov.uk</a>
+          quoting your address, telephone number along with the title of the
+          publication ("<abbr title="Ministry of Defence Architecture Framework">MODAF</abbr> support to gap analysis (PDF)").
+        </p>
+      </div>
+  </div>
+</section><section class="attachment embedded" id="attachment_52564"><div class="attachment-thumb">
+    <a href="/government/uploads/system/uploads/attachment_data/file/36727/20090217_CreatingCapabilityArchitectures_V1_0_U.pdf" aria-describedby="attachment-52564-accessibility-help" class="thumbnail">
+      <img alt="" src="https://assets.digital.cabinet-office.gov.uk/government/uploads/system/uploads/attachment_data/file/36727/thumbnail_20090217_CreatingCapabilityArchitectures_V1_0_U.pdf.png"></a>  </div>
+  <div class="attachment-details">
+    <h3 class="title"><a href="/government/uploads/system/uploads/attachment_data/file/36727/20090217_CreatingCapabilityArchitectures_V1_0_U.pdf" aria-describedby="attachment-52564-accessibility-help">Creating capability architectures with <abbr title="Ministry of Defence Architecture Framework">MODAF</abbr> (PDF)</a></h3>
+    <p class="metadata">
+      <span class="type"><abbr title="Portable Document Format">PDF</abbr></span>,
+      <span class="file-size">157 KB</span>,
+        <span class="page-length">5 pages</span>
+    </p>
+      <div class="accessibility-warning js-toggle-accessibility-warning" id="attachment-52564-accessibility-help">
+        <h3>This file may not be accessible.
+          <span class="toggler">Request a different format.</span>
+        </h3>
+        <p class="help-block">
+          To request this document in an alternative format such as braille, audio
+          or a different file type please email
+          <a href="mailto:govuk-feedback@digital.cabinet-office.gov.uk?body=%0A%0ADetails%20of%20document%20required%3A%0A%0ATitle%3A%20Creating%20capability%20architectures%20with%20MODAF%20%28PDF%29%0A%20%20%20%20%20%20&amp;subject=Request%20for%20%27Creating%20capability%20architectures%20with%20MODAF%20%28PDF%29%27%20in%20an%20alternative%20format">govuk-feedback@digital.cabinet-office.gov.uk</a>
+          quoting your address, telephone number along with the title of the
+          publication ("Creating capability architectures with <abbr title="Ministry of Defence Architecture Framework">MODAF</abbr> (PDF)").
+        </p>
+      </div>
+  </div>
+</section><h2 id="frequently-asked-questions">Frequently asked questions</h2>
+
+<p>The following links provide information on ontologies and their use in the <abbr title="Ministry of Defence Architecture Framework">MODAF</abbr>, a glossary and abbreviations list and frequently asked questions.</p>
+
+<section class="attachment embedded" id="attachment_52683"><div class="attachment-thumb">
+    <a href="/government/uploads/system/uploads/attachment_data/file/36748/20090203_Ontologies_and_their_Use_MODAF_V1_0_U.pdf" aria-describedby="attachment-52683-accessibility-help" class="thumbnail">
+      <img alt="" src="https://assets.digital.cabinet-office.gov.uk/government/uploads/system/uploads/attachment_data/file/36748/thumbnail_20090203_Ontologies_and_their_Use_MODAF_V1_0_U.pdf.png"></a>  </div>
+  <div class="attachment-details">
+    <h3 class="title"><a href="/government/uploads/system/uploads/attachment_data/file/36748/20090203_Ontologies_and_their_Use_MODAF_V1_0_U.pdf" aria-describedby="attachment-52683-accessibility-help">Ontologies and their use in <abbr title="Ministry of Defence Architecture Framework">MODAF</abbr> (PDF)</a></h3>
+    <p class="metadata">
+      <span class="type"><abbr title="Portable Document Format">PDF</abbr></span>,
+      <span class="file-size">157 KB</span>,
+        <span class="page-length">5 pages</span>
+    </p>
+      <div class="accessibility-warning js-toggle-accessibility-warning" id="attachment-52683-accessibility-help">
+        <h3>This file may not be accessible.
+          <span class="toggler">Request a different format.</span>
+        </h3>
+        <p class="help-block">
+          To request this document in an alternative format such as braille, audio
+          or a different file type please email
+          <a href="mailto:govuk-feedback@digital.cabinet-office.gov.uk?body=%0A%0ADetails%20of%20document%20required%3A%0A%0ATitle%3A%20Ontologies%20and%20their%20use%20in%20MODAF%20%28PDF%29%0A%20%20%20%20%20%20&amp;subject=Request%20for%20%27Ontologies%20and%20their%20use%20in%20MODAF%20%28PDF%29%27%20in%20an%20alternative%20format">govuk-feedback@digital.cabinet-office.gov.uk</a>
+          quoting your address, telephone number along with the title of the
+          publication ("Ontologies and their use in <abbr title="Ministry of Defence Architecture Framework">MODAF</abbr> (PDF)").
+        </p>
+      </div>
+  </div>
+</section><section class="attachment embedded" id="attachment_52684"><div class="attachment-thumb">
+    <a href="/government/uploads/system/uploads/attachment_data/file/36749/20090304_MODAF01_2Glossary_V1_0__1.pdf" aria-describedby="attachment-52684-accessibility-help" class="thumbnail">
+      <img alt="" src="https://assets.digital.cabinet-office.gov.uk/government/uploads/system/uploads/attachment_data/file/36749/thumbnail_20090304_MODAF01_2Glossary_V1_0__1.pdf.png"></a>  </div>
+  <div class="attachment-details">
+    <h3 class="title"><a href="/government/uploads/system/uploads/attachment_data/file/36749/20090304_MODAF01_2Glossary_V1_0__1.pdf" aria-describedby="attachment-52684-accessibility-help"><abbr title="Ministry of Defence Architecture Framework">MODAF</abbr> glossary (PDF)</a></h3>
+    <p class="metadata">
+      <span class="type"><abbr title="Portable Document Format">PDF</abbr></span>,
+      <span class="file-size">41.9 KB</span>,
+        <span class="page-length">4 pages</span>
+    </p>
+      <div class="accessibility-warning js-toggle-accessibility-warning" id="attachment-52684-accessibility-help">
+        <h3>This file may not be accessible.
+          <span class="toggler">Request a different format.</span>
+        </h3>
+        <p class="help-block">
+          To request this document in an alternative format such as braille, audio
+          or a different file type please email
+          <a href="mailto:govuk-feedback@digital.cabinet-office.gov.uk?body=%0A%0ADetails%20of%20document%20required%3A%0A%0ATitle%3A%20MODAF%20glossary%20%28PDF%29%0A%20%20%20%20%20%20&amp;subject=Request%20for%20%27MODAF%20glossary%20%28PDF%29%27%20in%20an%20alternative%20format">govuk-feedback@digital.cabinet-office.gov.uk</a>
+          quoting your address, telephone number along with the title of the
+          publication ("<abbr title="Ministry of Defence Architecture Framework">MODAF</abbr> glossary (PDF)").
+        </p>
+      </div>
+  </div>
+</section><section class="attachment embedded" id="attachment_52685"><div class="attachment-thumb">
+    <a href="/government/uploads/system/uploads/attachment_data/file/36750/20090521_MODAF_1_2_FAQs_Comparison_Of_MODAF_With_Other_Frameworks_V1_0_U.pdf" aria-describedby="attachment-52685-accessibility-help" class="thumbnail">
+      <img alt="" src="https://assets.digital.cabinet-office.gov.uk/government/uploads/system/uploads/attachment_data/file/36750/thumbnail_20090521_MODAF_1_2_FAQs_Comparison_Of_MODAF_With_Other_Frameworks_V1_0_U.pdf.png"></a>  </div>
+  <div class="attachment-details">
+    <h3 class="title"><a href="/government/uploads/system/uploads/attachment_data/file/36750/20090521_MODAF_1_2_FAQs_Comparison_Of_MODAF_With_Other_Frameworks_V1_0_U.pdf" aria-describedby="attachment-52685-accessibility-help">Comparison of <abbr title="Ministry of Defence Architecture Framework">MODAF</abbr> with other frameworks (PDF)</a></h3>
+    <p class="metadata">
+      <span class="type"><abbr title="Portable Document Format">PDF</abbr></span>,
+      <span class="file-size">131 KB</span>,
+        <span class="page-length">4 pages</span>
+    </p>
+      <div class="accessibility-warning js-toggle-accessibility-warning" id="attachment-52685-accessibility-help">
+        <h3>This file may not be accessible.
+          <span class="toggler">Request a different format.</span>
+        </h3>
+        <p class="help-block">
+          To request this document in an alternative format such as braille, audio
+          or a different file type please email
+          <a href="mailto:govuk-feedback@digital.cabinet-office.gov.uk?body=%0A%0ADetails%20of%20document%20required%3A%0A%0ATitle%3A%20Comparison%20of%20MODAF%20with%20other%20frameworks%20%28PDF%29%0A%20%20%20%20%20%20&amp;subject=Request%20for%20%27Comparison%20of%20MODAF%20with%20other%20frameworks%20%28PDF%29%27%20in%20an%20alternative%20format">govuk-feedback@digital.cabinet-office.gov.uk</a>
+          quoting your address, telephone number along with the title of the
+          publication ("Comparison of <abbr title="Ministry of Defence Architecture Framework">MODAF</abbr> with other frameworks (PDF)").
+        </p>
+      </div>
+  </div>
+</section><section class="attachment embedded" id="attachment_52686"><div class="attachment-thumb">
+    <a href="/government/uploads/system/uploads/attachment_data/file/36751/20090521_MODAF_1_2_FAQs_How_MODAF_Can_Reflect_Security_Concerns_V1_0_U.pdf" aria-describedby="attachment-52686-accessibility-help" class="thumbnail">
+      <img alt="" src="https://assets.digital.cabinet-office.gov.uk/government/uploads/system/uploads/attachment_data/file/36751/thumbnail_20090521_MODAF_1_2_FAQs_How_MODAF_Can_Reflect_Security_Concerns_V1_0_U.pdf.png"></a>  </div>
+  <div class="attachment-details">
+    <h3 class="title"><a href="/government/uploads/system/uploads/attachment_data/file/36751/20090521_MODAF_1_2_FAQs_How_MODAF_Can_Reflect_Security_Concerns_V1_0_U.pdf" aria-describedby="attachment-52686-accessibility-help">How <abbr title="Ministry of Defence Architecture Framework">MODAF</abbr> can reflect security concerns (PDF)</a></h3>
+    <p class="metadata">
+      <span class="type"><abbr title="Portable Document Format">PDF</abbr></span>,
+      <span class="file-size">47.6 KB</span>,
+        <span class="page-length">3 pages</span>
+    </p>
+      <div class="accessibility-warning js-toggle-accessibility-warning" id="attachment-52686-accessibility-help">
+        <h3>This file may not be accessible.
+          <span class="toggler">Request a different format.</span>
+        </h3>
+        <p class="help-block">
+          To request this document in an alternative format such as braille, audio
+          or a different file type please email
+          <a href="mailto:govuk-feedback@digital.cabinet-office.gov.uk?body=%0A%0ADetails%20of%20document%20required%3A%0A%0ATitle%3A%20How%20MODAF%20can%20reflect%20security%20concerns%20%28PDF%29%0A%20%20%20%20%20%20&amp;subject=Request%20for%20%27How%20MODAF%20can%20reflect%20security%20concerns%20%28PDF%29%27%20in%20an%20alternative%20format">govuk-feedback@digital.cabinet-office.gov.uk</a>
+          quoting your address, telephone number along with the title of the
+          publication ("How <abbr title="Ministry of Defence Architecture Framework">MODAF</abbr> can reflect security concerns (PDF)").
+        </p>
+      </div>
+  </div>
+</section><section class="attachment embedded" id="attachment_52687"><div class="attachment-thumb">
+    <a href="/government/uploads/system/uploads/attachment_data/file/36752/20090520_MODAF_1_2FAQs_UML_Relation_To_MODAF_V1_0_U.pdf" aria-describedby="attachment-52687-accessibility-help" class="thumbnail">
+      <img alt="" src="https://assets.digital.cabinet-office.gov.uk/government/uploads/system/uploads/attachment_data/file/36752/thumbnail_20090520_MODAF_1_2FAQs_UML_Relation_To_MODAF_V1_0_U.pdf.png"></a>  </div>
+  <div class="attachment-details">
+    <h3 class="title"><a href="/government/uploads/system/uploads/attachment_data/file/36752/20090520_MODAF_1_2FAQs_UML_Relation_To_MODAF_V1_0_U.pdf" aria-describedby="attachment-52687-accessibility-help">Unified Modeling Language (UML) relation to <abbr title="Ministry of Defence Architecture Framework">MODAF</abbr> (PDF)</a></h3>
+    <p class="metadata">
+      <span class="type"><abbr title="Portable Document Format">PDF</abbr></span>,
+      <span class="file-size">24.6 KB</span>,
+        <span class="page-length">1 page</span>
+    </p>
+      <div class="accessibility-warning js-toggle-accessibility-warning" id="attachment-52687-accessibility-help">
+        <h3>This file may not be accessible.
+          <span class="toggler">Request a different format.</span>
+        </h3>
+        <p class="help-block">
+          To request this document in an alternative format such as braille, audio
+          or a different file type please email
+          <a href="mailto:govuk-feedback@digital.cabinet-office.gov.uk?body=%0A%0ADetails%20of%20document%20required%3A%0A%0ATitle%3A%20Unified%20Modeling%20Language%20%28UML%29%20relation%20to%20MODAF%20%28PDF%29%0A%20%20%20%20%20%20&amp;subject=Request%20for%20%27Unified%20Modeling%20Language%20%28UML%29%20relation%20to%20MODAF%20%28PDF%29%27%20in%20an%20alternative%20format">govuk-feedback@digital.cabinet-office.gov.uk</a>
+          quoting your address, telephone number along with the title of the
+          publication ("Unified Modeling Language (UML) relation to <abbr title="Ministry of Defence Architecture Framework">MODAF</abbr> (PDF)").
+        </p>
+      </div>
+  </div>
+</section><section class="attachment embedded" id="attachment_52688"><div class="attachment-thumb">
+    <a href="/government/uploads/system/uploads/attachment_data/file/36753/20090520_MODAF_1_2_FAQs_Coherency_Across_ModelsWithMODAF_V1_0_U.pdf" aria-describedby="attachment-52688-accessibility-help" class="thumbnail">
+      <img alt="" src="https://assets.digital.cabinet-office.gov.uk/government/uploads/system/uploads/attachment_data/file/36753/thumbnail_20090520_MODAF_1_2_FAQs_Coherency_Across_ModelsWithMODAF_V1_0_U.pdf.png"></a>  </div>
+  <div class="attachment-details">
+    <h3 class="title"><a href="/government/uploads/system/uploads/attachment_data/file/36753/20090520_MODAF_1_2_FAQs_Coherency_Across_ModelsWithMODAF_V1_0_U.pdf" aria-describedby="attachment-52688-accessibility-help">Coherency across models with <abbr title="Ministry of Defence Architecture Framework">MODAF</abbr> (PDF)</a></h3>
+    <p class="metadata">
+      <span class="type"><abbr title="Portable Document Format">PDF</abbr></span>,
+      <span class="file-size">456 KB</span>,
+        <span class="page-length">4 pages</span>
+    </p>
+      <div class="accessibility-warning js-toggle-accessibility-warning" id="attachment-52688-accessibility-help">
+        <h3>This file may not be accessible.
+          <span class="toggler">Request a different format.</span>
+        </h3>
+        <p class="help-block">
+          To request this document in an alternative format such as braille, audio
+          or a different file type please email
+          <a href="mailto:govuk-feedback@digital.cabinet-office.gov.uk?body=%0A%0ADetails%20of%20document%20required%3A%0A%0ATitle%3A%20Coherency%20across%20models%20with%20MODAF%20%28PDF%29%0A%20%20%20%20%20%20&amp;subject=Request%20for%20%27Coherency%20across%20models%20with%20MODAF%20%28PDF%29%27%20in%20an%20alternative%20format">govuk-feedback@digital.cabinet-office.gov.uk</a>
+          quoting your address, telephone number along with the title of the
+          publication ("Coherency across models with <abbr title="Ministry of Defence Architecture Framework">MODAF</abbr> (PDF)").
+        </p>
+      </div>
+  </div>
+</section><section class="attachment embedded" id="attachment_52689"><div class="attachment-thumb">
+    <a href="/government/uploads/system/uploads/attachment_data/file/36754/20090520_MODAF1_2_FAQs_Sharing_Architecture_Data_V1_0_U.pdf" aria-describedby="attachment-52689-accessibility-help" class="thumbnail">
+      <img alt="" src="https://assets.digital.cabinet-office.gov.uk/government/uploads/system/uploads/attachment_data/file/36754/thumbnail_20090520_MODAF1_2_FAQs_Sharing_Architecture_Data_V1_0_U.pdf.png"></a>  </div>
+  <div class="attachment-details">
+    <h3 class="title"><a href="/government/uploads/system/uploads/attachment_data/file/36754/20090520_MODAF1_2_FAQs_Sharing_Architecture_Data_V1_0_U.pdf" aria-describedby="attachment-52689-accessibility-help">Sharing architecture data PDF</a></h3>
+    <p class="metadata">
+      <span class="type"><abbr title="Portable Document Format">PDF</abbr></span>,
+      <span class="file-size">35.4 KB</span>,
+        <span class="page-length">2 pages</span>
+    </p>
+      <div class="accessibility-warning js-toggle-accessibility-warning" id="attachment-52689-accessibility-help">
+        <h3>This file may not be accessible.
+          <span class="toggler">Request a different format.</span>
+        </h3>
+        <p class="help-block">
+          To request this document in an alternative format such as braille, audio
+          or a different file type please email
+          <a href="mailto:govuk-feedback@digital.cabinet-office.gov.uk?body=%0A%0ADetails%20of%20document%20required%3A%0A%0ATitle%3A%20Sharing%20architecture%20data%20PDF%0A%20%20%20%20%20%20&amp;subject=Request%20for%20%27Sharing%20architecture%20data%20PDF%27%20in%20an%20alternative%20format">govuk-feedback@digital.cabinet-office.gov.uk</a>
+          quoting your address, telephone number along with the title of the
+          publication ("Sharing architecture data PDF").
+        </p>
+      </div>
+  </div>
+</section><section class="attachment embedded" id="attachment_52690"><div class="attachment-thumb">
+    <a href="/government/uploads/system/uploads/attachment_data/file/36755/20081023_MODAF_FAQs_V1_0_U.pdf" aria-describedby="attachment-52690-accessibility-help" class="thumbnail">
+      <img alt="" src="https://assets.digital.cabinet-office.gov.uk/government/uploads/system/uploads/attachment_data/file/36755/thumbnail_20081023_MODAF_FAQs_V1_0_U.pdf.png"></a>  </div>
+  <div class="attachment-details">
+    <h3 class="title"><a href="/government/uploads/system/uploads/attachment_data/file/36755/20081023_MODAF_FAQs_V1_0_U.pdf" aria-describedby="attachment-52690-accessibility-help">Other frequently asked questions (PDF)</a></h3>
+    <p class="metadata">
+      <span class="type"><abbr title="Portable Document Format">PDF</abbr></span>,
+      <span class="file-size">32.5 KB</span>,
+        <span class="page-length">2 pages</span>
+    </p>
+      <div class="accessibility-warning js-toggle-accessibility-warning" id="attachment-52690-accessibility-help">
+        <h3>This file may not be accessible.
+          <span class="toggler">Request a different format.</span>
+        </h3>
+        <p class="help-block">
+          To request this document in an alternative format such as braille, audio
+          or a different file type please email
+          <a href="mailto:govuk-feedback@digital.cabinet-office.gov.uk?body=%0A%0ADetails%20of%20document%20required%3A%0A%0ATitle%3A%20Other%20frequently%20asked%20questions%20%28PDF%29%0A%20%20%20%20%20%20&amp;subject=Request%20for%20%27Other%20frequently%20asked%20questions%20%28PDF%29%27%20in%20an%20alternative%20format">govuk-feedback@digital.cabinet-office.gov.uk</a>
+          quoting your address, telephone number along with the title of the
+          publication ("Other frequently asked questions (PDF)").
+        </p>
+      </div>
+  </div>
+</section><h2 id="is-there-a-modaf-manual">Is there a <abbr title="Ministry of Defence Architecture Framework">MODAF</abbr> manual?</h2>
+
+<p>A PDF download to act as a manual or reference guide fo the <abbr title="Ministry of Defence Architecture Framework">MODAF</abbr> practitioner.</p>
+
+<section class="attachment embedded" id="attachment_52705"><div class="attachment-thumb">
+    <a href="/government/uploads/system/uploads/attachment_data/file/36757/20100602MODAFDownload12004.pdf" aria-describedby="attachment-52705-accessibility-help" class="thumbnail">
+      <img alt="" src="https://assets.digital.cabinet-office.gov.uk/government/uploads/system/uploads/attachment_data/file/36757/thumbnail_20100602MODAFDownload12004.pdf.png"></a>  </div>
+  <div class="attachment-details">
+    <h3 class="title"><a href="/government/uploads/system/uploads/attachment_data/file/36757/20100602MODAFDownload12004.pdf" aria-describedby="attachment-52705-accessibility-help"><abbr title="Ministry of Defence Architecture Framework">MODAF</abbr> Website Download v1 2 004 (PDF)</a></h3>
+    <p class="metadata">
+      <span class="type"><abbr title="Portable Document Format">PDF</abbr></span>,
+      <span class="file-size">9.86 MB</span>
+    </p>
+      <div class="accessibility-warning js-toggle-accessibility-warning" id="attachment-52705-accessibility-help">
+        <h3>This file may not be accessible.
+          <span class="toggler">Request a different format.</span>
+        </h3>
+        <p class="help-block">
+          To request this document in an alternative format such as braille, audio
+          or a different file type please email
+          <a href="mailto:govuk-feedback@digital.cabinet-office.gov.uk?body=%0A%0ADetails%20of%20document%20required%3A%0A%0ATitle%3A%20MODAF%20Website%20Download%20v1%202%20004%20%28PDF%29%0A%20%20%20%20%20%20&amp;subject=Request%20for%20%27MODAF%20Website%20Download%20v1%202%20004%20%28PDF%29%27%20in%20an%20alternative%20format">govuk-feedback@digital.cabinet-office.gov.uk</a>
+          quoting your address, telephone number along with the title of the
+          publication ("<abbr title="Ministry of Defence Architecture Framework">MODAF</abbr> Website Download v1 2 004 (PDF)").
+        </p>
+      </div>
+  </div>
+</section><h2 id="modaf-documentation-configuration-control-policy-and-version-history">
+<abbr title="Ministry of Defence Architecture Framework">MODAF</abbr> documentation: configuration control policy and version history</h2>
+
+<p>Details on major, minor and editorial revisions.</p>
+
+<section class="attachment embedded" id="attachment_52708"><div class="attachment-thumb">
+    <a href="/government/uploads/system/uploads/attachment_data/file/36760/20090518_MODAF_1_2_Version_History_V1_0_U.pdf" aria-describedby="attachment-52708-accessibility-help" class="thumbnail">
+      <img alt="" src="https://assets.digital.cabinet-office.gov.uk/government/uploads/system/uploads/attachment_data/file/36760/thumbnail_20090518_MODAF_1_2_Version_History_V1_0_U.pdf.png"></a>  </div>
+  <div class="attachment-details">
+    <h3 class="title"><a href="/government/uploads/system/uploads/attachment_data/file/36760/20090518_MODAF_1_2_Version_History_V1_0_U.pdf" aria-describedby="attachment-52708-accessibility-help"><abbr title="Ministry of Defence Architecture Framework">MODAF</abbr> 1.2 Version History V1.0 (PDF)</a></h3>
+    <p class="metadata">
+      <span class="type"><abbr title="Portable Document Format">PDF</abbr></span>,
+      <span class="file-size">49.1 KB</span>
+    </p>
+      <div class="accessibility-warning js-toggle-accessibility-warning" id="attachment-52708-accessibility-help">
+        <h3>This file may not be accessible.
+          <span class="toggler">Request a different format.</span>
+        </h3>
+        <p class="help-block">
+          To request this document in an alternative format such as braille, audio
+          or a different file type please email
+          <a href="mailto:govuk-feedback@digital.cabinet-office.gov.uk?body=%0A%0ADetails%20of%20document%20required%3A%0A%0ATitle%3A%20MODAF%201.2%20Version%20History%20V1.0%20%28PDF%29%0A%20%20%20%20%20%20&amp;subject=Request%20for%20%27MODAF%201.2%20Version%20History%20V1.0%20%28PDF%29%27%20in%20an%20alternative%20format">govuk-feedback@digital.cabinet-office.gov.uk</a>
+          quoting your address, telephone number along with the title of the
+          publication ("<abbr title="Ministry of Defence Architecture Framework">MODAF</abbr> 1.2 Version History V1.0 (PDF)").
+        </p>
+      </div>
+  </div>
+</section><section class="attachment embedded" id="attachment_52709"><div class="attachment-thumb">
+    <a href="/government/uploads/system/uploads/attachment_data/file/36761/20100426MODAF1_2_004ChangeLog.pdf" aria-describedby="attachment-52709-accessibility-help" class="thumbnail">
+      <img alt="" src="https://assets.digital.cabinet-office.gov.uk/government/uploads/system/uploads/attachment_data/file/36761/thumbnail_20100426MODAF1_2_004ChangeLog.pdf.png"></a>  </div>
+  <div class="attachment-details">
+    <h3 class="title"><a href="/government/uploads/system/uploads/attachment_data/file/36761/20100426MODAF1_2_004ChangeLog.pdf" aria-describedby="attachment-52709-accessibility-help"><abbr title="Ministry of Defence Architecture Framework">MODAF</abbr> 1.2 004 Change Log (PDF)</a></h3>
+    <p class="metadata">
+      <span class="type"><abbr title="Portable Document Format">PDF</abbr></span>,
+      <span class="file-size">42 KB</span>,
+        <span class="page-length">4 pages</span>
+    </p>
+      <div class="accessibility-warning js-toggle-accessibility-warning" id="attachment-52709-accessibility-help">
+        <h3>This file may not be accessible.
+          <span class="toggler">Request a different format.</span>
+        </h3>
+        <p class="help-block">
+          To request this document in an alternative format such as braille, audio
+          or a different file type please email
+          <a href="mailto:govuk-feedback@digital.cabinet-office.gov.uk?body=%0A%0ADetails%20of%20document%20required%3A%0A%0ATitle%3A%20MODAF%201.2%20004%20Change%20Log%20%28PDF%29%0A%20%20%20%20%20%20&amp;subject=Request%20for%20%27MODAF%201.2%20004%20Change%20Log%20%28PDF%29%27%20in%20an%20alternative%20format">govuk-feedback@digital.cabinet-office.gov.uk</a>
+          quoting your address, telephone number along with the title of the
+          publication ("<abbr title="Ministry of Defence Architecture Framework">MODAF</abbr> 1.2 004 Change Log (PDF)").
+        </p>
+      </div>
+  </div>
+</section><h2 id="contact-details">Contact details</h2>
 
 <p><a href="mailto:CIO-ISP-POLAFAstHd@mod.uk">CIO-ISP-POLAFAstHd@mod.uk</a></p>
 
 <h2 id="related-links">Related links</h2>
-
-<p><a rel="external" href="http://www.mod.uk/DefenceInternet/AboutDefence/CorporatePublications/InformationManagement/MODAF/UseAndExamplesOfModaf.htm">Examples and use of <abbr title="Ministry of Defence Architecture Framework">MODAF</abbr></a></p>
-
-<p><a rel="external" href="http://www.mod.uk/DefenceInternet/AboutDefence/CorporatePublications/InformationManagement/MODAF/ModafMetaModel.htm">The <abbr title="Ministry of Defence Architecture Framework">MODAF</abbr> Meta Model (<abbr title="Meta Model">M3</abbr>)</a></p>
-
-<p><a rel="external" href="http://www.mod.uk/DefenceInternet/AboutDefence/CorporatePublications/InformationManagement/MODAF/FrequentlyAskedQuestions.htm">Frequently asked questions &amp; glossary</a></p>
-
-<p><a rel="external" href="http://www.mod.uk/DefenceInternet/AboutDefence/CorporatePublications/InformationManagement/MODAF/ConfigurationControl.htm"><abbr title="Ministry of Defence Architecture Framework">MODAF</abbr> Configuration Control</a></p>
 
 <p><a rel="external" href="http://www.ideasgroup.org/">International Defence Enterprise Architecture Specification (IDEAS) Group</a></p>
 

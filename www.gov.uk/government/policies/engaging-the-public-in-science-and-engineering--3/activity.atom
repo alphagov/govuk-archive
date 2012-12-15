@@ -8,7 +8,18 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-09-21T01:00:00+01:00</updated>
+  <updated>2012-12-14T00:00:00+00:00</updated>
+  <entry>
+    <id>tag:www.gov.uk,2005:Publication/56716</id>
+    <published>2012-12-14T00:00:00+00:00</published>
+    <updated>2012-12-14T17:40:36+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/science-and-innovation-network-annual-report-2011-12--2"/>
+    <title>Science and innovation network: annual report 2011 - 12</title>
+    <category>Publication</category>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Report of the work of the global Foreign &amp;amp; Commonwealth Office and Department for Business science and innovation network.&lt;/p&gt;
+
+&lt;p&gt;Highlights the achievements of the network, which uses contacts to monitor global scientific developments and build new relationships and collaborations. It showcases examples of UK work to influence and learn from science and innovation policy internationally, and also facilitate international collaboration to the benefit of the UK.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
   <entry>
     <id>tag:www.gov.uk,2005:Publication/48228</id>
     <published>2012-09-21T01:00:00+01:00</published>
@@ -171,14 +182,5 @@
     <title>Public attitudes to science 2011: summary report</title>
     <category>Publication</category>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Summary of the report URN 11/P111, which looks at the UK public’s attitudes to science, scientists and science policy. Measures trends uncovered in the three previous studies and assesses progress since the first study in 2000 (URN 01/847).&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:Publication/46290</id>
-    <published>2011-03-16T00:00:00+00:00</published>
-    <updated>2012-12-11T16:29:44+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/attitudes-to-science-survey-of-14-to16-year-olds"/>
-    <title>Attitudes to science: survey of 14 to16 year olds</title>
-    <category>Publication</category>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Overview of what 14-16 year olds, who are currently undertaking their GCSEs, think about science, scientists and science policy across the UK. BIS was interested in also finding out the. Covers general attitudes to science, science in schools and science outside of schools.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
 </feed>
