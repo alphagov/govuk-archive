@@ -8,14 +8,38 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-12-14T00:00:00+00:00</updated>
+  <updated>2012-12-17T00:00:00+00:00</updated>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56699</id>
-    <published>2012-12-14T00:00:00+00:00</published>
-    <updated>2012-12-14T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/jsp-315-services-accommodation-code-volume-1"/>
-    <title>JSP 315 Services Accommodation code: Volume 1</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;JSP 315 sets out the official standards for MOD buildings, accommodation, offices and physical training grounds.&lt;/p&gt;&lt;/div&gt;</content>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56866</id>
+    <published>2012-12-17T00:00:00+00:00</published>
+    <updated>2012-12-17T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/defence-focus-magazine-266"/>
+    <title>Defence Focus magazine 266</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Defence Focus magazine issue 266 - December 2012 - January 2013&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56973</id>
+    <published>2012-12-17T00:00:00+00:00</published>
+    <updated>2012-12-17T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/jsp-315-sevices-accommodation-code-volume-3"/>
+    <title>JSP 315 Sevices Accommodation code: Volume 3</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Volume 3 of Joint Services Publication (JSP) 315: Services Accommodation Code deals with Reserves and Cadet Accommodation.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56824</id>
+    <published>2012-12-17T00:00:00+00:00</published>
+    <updated>2012-12-17T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/notice-of-proposed-new-byelaws"/>
+    <title>Notice of proposed new Byelaws</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Notice of proposal for the introduction of new byelaws in respect of the Ministry of Defence site known as RAF Croughton.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56799</id>
+    <published>2012-12-17T00:00:00+00:00</published>
+    <updated>2012-12-17T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/court-martial-results-from-the-military-court-centres"/>
+    <title>Court Martial Results from the Military Court Centres</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;In line with the Government’s Transparency and Open Data initiative, the Military Court Service has agreed to provide Court Martial results in respect of the Military Court Centres.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/55605</id>
@@ -34,12 +58,12 @@
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;These Key Performance Indicators (KPI) were developed after consultation with UK Service Family Accommodation key stakeholders, including representatives of Service families. The KPIs provide information on various aspects of the strategic and operational performance of Defence Infrastructure Organisation (DIO) Operations Accommodation and the maintenance Housing Prime Contractor (MODern Housing Solutions – MHS).  They are issued monthly. In addition, a Statement of Charge KPIs (2012/13) has also been provided.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/55691</id>
-    <published>2012-12-12T00:00:00+00:00</published>
-    <updated>2012-12-12T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/crown-copyright-mod-news-licence"/>
-    <title>Crown copyright - MOD news licence</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;MOD grants a worldwide, royalty-free, perpetual, non-exclusive licence to use its images for the reporting of current news only. The attached document contains further details.&lt;/p&gt;&lt;/div&gt;</content>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/50174</id>
+    <published>2012-12-11T00:00:00+00:00</published>
+    <updated>2012-12-11T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/senior-officers-of-the-armed-forces-business-expenses"/>
+    <title>Senior Officers of the Armed Forces: business expenses</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;In addition to publishing the business expenses incurred by the most senior Civil Servants on official duty, the Ministry of Defence will now be publishing the business expenses of the most senior Officers of the Armed Forces on a quarterly basis.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/50179</id>
@@ -72,14 +96,6 @@
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/senior-officers-of-the-armed-forces-hospitality-received"/>
     <title>Senior Officers of the Armed Forces: hospitality received</title>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;In addition to publishing the hospitality received of our most senior Civil Servants, the Ministry of Defence will now be publishing the hospitality received of the most senior Officers of the Armed Forces on a quarterly basis.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/50174</id>
-    <published>2012-12-11T00:00:00+00:00</published>
-    <updated>2012-12-11T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/senior-officers-of-the-armed-forces-business-expenses"/>
-    <title>Senior Officers of the Armed Forces: business expenses</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;In addition to publishing the business expenses incurred by the most senior Civil Servants on official duty, the Ministry of Defence will now be publishing the business expenses of the most senior Officers of the Armed Forces on a quarterly basis.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/43719</id>
@@ -149,6 +165,14 @@
 &lt;p&gt;Service parents with children in State funded schools in England are encouraged to ensure that the Head Teacher of their child(ren)’s school is made aware of their Service status for the Spring School Census which will be conducted on 17 January 2013.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/47752</id>
+    <published>2012-12-06T00:00:00+00:00</published>
+    <updated>2012-12-06T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/mod-annual-report-2011-12"/>
+    <title>MOD Annual Report 2011/12</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Ministry of Defence Annual Report and Accounts 2011-12 - For the year ended 31 March 2012.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/48933</id>
     <published>2012-12-06T00:00:00+00:00</published>
     <updated>2012-12-06T00:00:00+00:00</updated>
@@ -157,12 +181,16 @@
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Ministry of Defence Annual Report and Accounts 2011-12 and Sustainability Report.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/47752</id>
-    <published>2012-12-06T00:00:00+00:00</published>
-    <updated>2012-12-06T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/mod-annual-report-2011-12"/>
-    <title>MOD Annual Report 2011/12</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Ministry of Defence Annual Report and Accounts 2011-12 - For the year ended 31 March 2012.&lt;/p&gt;&lt;/div&gt;</content>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56151</id>
+    <published>2012-12-05T00:00:00+00:00</published>
+    <updated>2012-12-05T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/armed-forces-covenant-annual-report-2012"/>
+    <title>Armed Forces Covenant Annual Report 2012</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This first annual report is the beginning of a process to identify issues and make sure they are addressed. The report highlights progress across all 15 themes of the Covenant and identifies work still to be done.&lt;/p&gt;
+
+&lt;p&gt;The report covers the following groups: serving personnel; reservists; the wounded, injured and sick; families; the bereaved; service leavers; and veterans. It sets out a number of important achievements and also highlights remaining challenges and makes a series of new commitments.&lt;/p&gt;
+
+&lt;p&gt;There are three leaflets explaining what the Covenant means for Serving personnel, Veterans and Service families&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/39719</id>
@@ -192,26 +220,6 @@ Email: deslcsls-opsformsandpubs@mod.uk&lt;/p&gt;
 Military Network: 9 4240 2052&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56151</id>
-    <published>2012-12-05T00:00:00+00:00</published>
-    <updated>2012-12-05T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/armed-forces-covenant-annual-report-2012"/>
-    <title>Armed Forces Covenant Annual Report 2012</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This first annual report is the beginning of a process to identify issues and make sure they are addressed. The report highlights progress across all 15 themes of the Covenant and identifies work still to be done.&lt;/p&gt;
-
-&lt;p&gt;The report covers the following groups: serving personnel; reservists; the wounded, injured and sick; families; the bereaved; service leavers; and veterans. It sets out a number of important achievements and also highlights remaining challenges and makes a series of new commitments.&lt;/p&gt;
-
-&lt;p&gt;There are three leaflets explaining what the Covenant means for Serving personnel, Veterans and Service families&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/55992</id>
-    <published>2012-12-01T00:00:00+00:00</published>
-    <updated>2012-12-01T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/holcombe-moor-firing-times"/>
-    <title>Holcombe Moor Firing Times</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Holcombe Moor’s Firing Times are presented in three file formats so that the information is accessible to everyone. The TXT format is browseable on mobile devices such as Blackberry’s, smart phones and tablets. The CSV format enables the MOD to post information on data.gov.uk, and therefore remain transparent.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/55827</id>
     <published>2012-12-01T00:00:00+00:00</published>
     <updated>2012-12-01T00:00:00+00:00</updated>
@@ -220,19 +228,11 @@ Military Network: 9 4240 2052&lt;/p&gt;&lt;/div&gt;</content>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Lulworth Firing Times are presented in three file formats so that the information is accessible to everyone. The TXT format is readable on mobile devices such as Blackberry’s, smart phones and tablets. The CSV format enables the MOD to post information on data.gov.uk, and therefore remain transparent.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/16895</id>
-    <published>2012-11-23T00:00:00+00:00</published>
-    <updated>2012-11-23T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/guidance-on-the-export-licensing-of-man-portable-defence-systems-manpads"/>
-    <title>Guidance on the export licensing of Man-Portable Defence Systems (MANPADs)</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Guidance for exporters about how the UK Government interprets the provisions of the Wassenaar Arrangements ‘Elements for Export Controls of MANPADs’. &lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/47811</id>
-    <published>2012-11-22T00:00:00+00:00</published>
-    <updated>2012-11-22T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/new-employment-model-faqs"/>
-    <title>New Employment Model FAQS</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;New Employment Model(NEM)- Frequently Asked Questions&lt;/p&gt;&lt;/div&gt;</content>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/55992</id>
+    <published>2012-12-01T00:00:00+00:00</published>
+    <updated>2012-12-01T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/holcombe-moor-firing-times"/>
+    <title>Holcombe Moor Firing Times</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Holcombe Moor’s Firing Times are presented in three file formats so that the information is accessible to everyone. The TXT format is browseable on mobile devices such as Blackberry’s, smart phones and tablets. The CSV format enables the MOD to post information on data.gov.uk, and therefore remain transparent.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
 </feed>

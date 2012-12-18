@@ -62,8 +62,8 @@
 &lt;/ul&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:NewsArticle/56700</id>
-    <published>2012-12-14T16:45:41+00:00</published>
+    <id>tag:www.gov.uk,2005:NewsArticle/56759</id>
+    <published>2012-12-14T16:45:00+00:00</published>
     <updated>2012-12-14T16:45:41+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/support-for-innovation-workshop"/>
     <title>Support for Innovation Workshop</title>
@@ -92,7 +92,7 @@
 
 &lt;p&gt;Including support from the Design Council to enhance product value through design and how Growth Accelerator can support your business growth.&lt;/p&gt;
 
-&lt;p&gt;Register for the free workshop at &lt;a href="www.business-events.org.uk"&gt;www.business-events.org.uk&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Register for the free workshop at &lt;a rel="external" href="http://www.business-events.org.uk"&gt;www.business-events.org.uk&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;The workshop is being held at the Business &amp;amp; IP Centre, Newcastle City Library. The Centre is designed to support entrepreneurs, inventors and small businesses from that first spark of inspiration to successfully launching and developing a business. It is the first regional centre based on the British Library’s model and have been running since September 2011. Since the launch, over 2,000 entrepreneurs have used the Centre.&lt;/p&gt;
 
@@ -123,13 +123,13 @@
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Fourth annual report analysing the updated 2012 dataset from the bioscience and health technology database. The data relates to companies that are active in the UK in three of the life sciences sectors: medical technology, medical biotechnology and industrial biotechnology. Enables comparisons against last year’s information to see how these sectors are changing. Overview of this highly innovative industry with over 4,500 companies, employing over 167,000 people and generating a turnover of over £50 billion.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:Publication/48312</id>
+    <id>tag:www.gov.uk,2005:Publication/56987</id>
     <published>2012-11-21T00:00:00+00:00</published>
     <updated>2012-12-11T16:31:21+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/annual-innovation-report-2012-innovation-research-and-growth"/>
     <title>Annual innovation report 2012: innovation, research and growth</title>
     <category>Publication</category>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Fourth annual innovation report that gives the latest available evidence on UK innovation performance and the contribution of business, government, higher education and research organisations to UK innovation activities. Presents key measures of innovatio&lt;/p&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Fourth annual innovation report that gives the latest available evidence on UK innovation performance and the contribution of business, government, higher education and research organisations to UK innovation activities. Presents key measures of innovation and research performance, and provides a benchmark to track performance measures for the Innovation and research strategy for growth (URN 11/1387). Also records the practical progress made implementing the strategy. Underlying data for this publication is available in a machine processable format on the Transparency/Report Data webpage.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:Publication/48270</id>

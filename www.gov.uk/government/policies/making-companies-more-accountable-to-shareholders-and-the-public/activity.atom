@@ -113,6 +113,15 @@
 &lt;/ul&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
+    <id>tag:www.gov.uk,2005:Publication/56858</id>
+    <published>2012-10-18T01:00:00+01:00</published>
+    <updated>2012-12-11T16:31:08+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/the-future-of-narrative-reporting-a-new-structure-for-narrative-reporting-in-the-uk"/>
+    <title>The future of narrative reporting: a new structure for narrative reporting in the UK</title>
+    <category>Publication</category>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Respond by 15 November 2012. Seeks views on a package of draft regulations to reform narrative reporting in the UK. Aims to create a new structure to help shareholders, investors and other stakeholders find relevant information quickly and easily. Accompanies an impact assessment (URN 12/978) and Regulatory Policy Committee opinion (12/1227). See also 11/945 for the related consultation and 12/588 for the government response.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
     <id>tag:www.gov.uk,2005:Consultation/47193</id>
     <published>2012-10-18T01:00:00+01:00</published>
     <updated>2012-12-11T16:30:23+00:00</updated>
@@ -148,14 +157,5 @@
     <title>Specific instance under the OECD guidelines for multi-national enterprises: application for review of the initial assessment</title>
     <category>Publication</category>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Records the recommendation of the Steering Board on a request for review of the decision of the UK national contact point on a complaint from an individual against a UK company, for a breach of the OECD guidelines for multinational enterprises. See URN 12/1229 for the initial assessment decision.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:Publication/48251</id>
-    <published>2012-10-18T01:00:00+01:00</published>
-    <updated>2012-12-11T16:31:07+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/reforming-uk-narrative-reporting-impact-assessment"/>
-    <title>Reforming UK narrative reporting: impact assessment</title>
-    <category>Publication</category>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;A final stage assessment of the impact of proposed measures to reform narrative reporting in the UK. Accompanies a Regulatory Policy Committee opinion (URN 12/1227) and a paper setting out a package of measures expected to achieve this (12/979). See also&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
 </feed>

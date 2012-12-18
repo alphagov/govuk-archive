@@ -8,7 +8,15 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-12-14T00:00:00+00:00</updated>
+  <updated>2012-12-17T00:00:00+00:00</updated>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56833</id>
+    <published>2012-12-17T00:00:00+00:00</published>
+    <updated>2012-12-17T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/tax-arrangements-for-public-sector-appointees-in-bis-as-of-31-january-2012"/>
+    <title>Tax arrangements for public sector appointees in BIS as of 31 January 2012 </title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Coalition Government has committed to making clear to the public how it uses taxpayers’ money. All government departments have been asked to publish a wide range of information about how it meets and measures its objectives and the use of resources.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/56596</id>
     <published>2012-12-14T00:00:00+00:00</published>
@@ -228,6 +236,14 @@
 &lt;/ul&gt;&lt;p&gt;The data is published in CSV and Excel formats in payment date sequence.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/50171</id>
+    <published>2012-12-11T00:00:00+00:00</published>
+    <updated>2012-12-11T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/senior-officers-of-the-armed-forces-hospitality-received"/>
+    <title>Senior Officers of the Armed Forces: hospitality received</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;In addition to publishing the hospitality received of our most senior Civil Servants, the Ministry of Defence will now be publishing the hospitality received of the most senior Officers of the Armed Forces on a quarterly basis.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/50174</id>
     <published>2012-12-11T00:00:00+00:00</published>
     <updated>2012-12-11T00:00:00+00:00</updated>
@@ -244,14 +260,6 @@
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Ministry of Defence publishes the hospitality received of its most senior Civil Servants on a quarterly basis.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/50180</id>
-    <published>2012-12-11T00:00:00+00:00</published>
-    <updated>2012-12-11T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/senior-staff-business-expenses"/>
-    <title>Senior staff: business expenses</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The &lt;abbr title="Ministry of Defence"&gt;MOD&lt;/abbr&gt; publishes the expenses of its most senior Civil Servants on a quarterly basis.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/50164</id>
     <published>2012-12-11T00:00:00+00:00</published>
     <updated>2012-12-11T00:00:00+00:00</updated>
@@ -260,12 +268,12 @@
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;In line with other government departments the &lt;abbr title="Ministry of Defence"&gt;MOD&lt;/abbr&gt; is publishing details of the non-consolidated performance awards paid to Senior Civil Service staff, Senior Fixed term Appointees and staff below the &lt;abbr title="Senior Civil Service"&gt;SCS&lt;/abbr&gt;.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/50171</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/50180</id>
     <published>2012-12-11T00:00:00+00:00</published>
     <updated>2012-12-11T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/senior-officers-of-the-armed-forces-hospitality-received"/>
-    <title>Senior Officers of the Armed Forces: hospitality received</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;In addition to publishing the hospitality received of our most senior Civil Servants, the Ministry of Defence will now be publishing the hospitality received of the most senior Officers of the Armed Forces on a quarterly basis.&lt;/p&gt;&lt;/div&gt;</content>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/senior-staff-business-expenses"/>
+    <title>Senior staff: business expenses</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The &lt;abbr title="Ministry of Defence"&gt;MOD&lt;/abbr&gt; publishes the expenses of its most senior Civil Servants on a quarterly basis.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/17630</id>
@@ -334,16 +342,6 @@
 &lt;p&gt;Given the wide range of organisations covered, caution should be exercised when drawing inferences from the figures and care should be taken when making comparisons between organisations.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/28528</id>
-    <published>2012-12-07T00:00:00+00:00</published>
-    <updated>2012-12-07T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/planning-inspectorate-staff-data-and-organogram-december-2012"/>
-    <title>Planning Inspectorate staff data and organogram: December 2012</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;These datasets show junior and senior posts and salary information for staff at the Planning Inspectorate.&lt;/p&gt;
-
-&lt;p&gt;The data is also available as an &lt;a rel="external" href="http://reference.data.gov.uk/gov-structure/organogram/?pubbod=the-planning-inspectorate"&gt;organogram&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/28518</id>
     <published>2012-12-07T00:00:00+00:00</published>
     <updated>2012-12-07T00:00:00+00:00</updated>
@@ -354,19 +352,21 @@
 &lt;p&gt;This is in line with the &lt;a href="https://www.gov.uk/government/publications/local-authority-data-transparency-code"&gt;Local authority data transparency code&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/28528</id>
+    <published>2012-12-07T00:00:00+00:00</published>
+    <updated>2012-12-07T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/planning-inspectorate-staff-data-and-organogram-december-2012"/>
+    <title>Planning Inspectorate staff data and organogram: December 2012</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;These datasets show junior and senior posts and salary information for staff at the Planning Inspectorate.&lt;/p&gt;
+
+&lt;p&gt;The data is also available as an &lt;a rel="external" href="http://reference.data.gov.uk/gov-structure/organogram/?pubbod=the-planning-inspectorate"&gt;organogram&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/17782</id>
     <published>2012-12-05T00:00:00+00:00</published>
     <updated>2012-12-05T00:00:00+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/planning-inspectorate-spending-over-500-october-2012"/>
     <title>Planning Inspectorate spending over £500: October 2012</title>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;These documents show spending by the Planning Inspectorate over £500 for October 2012.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/17645</id>
-    <published>2012-12-04T00:00:00+00:00</published>
-    <updated>2012-12-04T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/bis-overall-staff-declaration-rates-2010-to-2011"/>
-    <title>BIS overall staff declaration rates 2010 to 2011</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Contains breakdown of staff by grade for core BIS, including UK Trade &amp;amp; Investment. Covers the financial year 2010 to 2011.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
 </feed>

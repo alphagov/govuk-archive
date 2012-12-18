@@ -97,12 +97,12 @@
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Government response to the consultation to provide midata with a statutory underpinning (URN 12/943). Explains the government’s proposals for the midata programme and summarises public responses to the consultation. See also the final impact assessment 12/944.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/48245</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56819</id>
     <published>2012-11-19T00:00:00+00:00</published>
     <updated>2012-11-19T00:00:00+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/midata-impact-assessment-order-making-power-for-midata"/>
     <title>midata impact assessment: order making power for midata</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Assesses the impact of proposals to set up a power to make the midata programme compulsory. Government has a role in ensuring all relevant firms in a sector release information on a consistent basis. Government intervention would only require firms to rel&lt;/p&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Assesses the impact of proposals to set up a power to make the midata programme compulsory. Government has a role in ensuring all relevant firms in a sector release information on a consistent basis. Government intervention would only require firms to release data, on request, if they already collect it. This aims to give consumers access to their transaction data to make better informed decisions and choose products which offer them the best value. This in turn will reward firms offering the best value. Relates to the midata consultation URN 12/943, and the government response 12/1283.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/56327</id>
@@ -229,11 +229,28 @@
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Final stage assessment of the impact of proposals on codes of conduct in the Enterprise and Regulatory Reform Bill. Aims to improve the efficiency, governance and accountability of collecting societies to benefit members, licensees and potential licensees, and to enable the introduction of extended collective licensing.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/55919</id>
-    <published>2012-09-03T00:00:00+01:00</published>
-    <updated>2012-09-03T00:00:00+01:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/consultation-on-the-early-implementation-of-a-ban-on-above-cost-payment-surcharges"/>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/47189</id>
+    <published>2012-09-03T01:00:00+01:00</published>
+    <updated>2012-09-03T01:00:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/consultations/consultation-on-the-early-implementation-of-a-ban-on-above-cost-payment-surcharges"/>
     <title>Consultation on the early implementation of a ban on above cost payment surcharges</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;ClClosed consultation that sought views on the early implementation of Article 19 of the Consumer Rights Directive, to ban above cost payment surcharges. The government aims to address payment surcharges applied to all forms of payment, where they are excessive. See URN 12/1009 for the related impact assessment. Consultation period ended 15 October 2012.&lt;/p&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;hr&gt;&lt;h2 id="proposals-to-limit-payment-surcharges"&gt;Proposals to limit payment surcharges&lt;/h2&gt;
+
+&lt;p&gt;Some businesses add a charge to the price of goods or services when the consumer chooses to pay by a particular method, for example by using a credit card or a debit card.  These additional charges are known as payment surcharges.&lt;/p&gt;
+
+&lt;p&gt;This consultation sets out the Government’s proposal for early implementation of a provision of the European Union’s Consumer Rights Directive. This will put in place legislation to ban businesses from imposing excessive payment surcharges on consumers.  Businesses will remain able to add a charge only so far as it covers the actual costs of processing any particular form of payment. The consultation is seeking views on the timing of the implementation of this legislation and how best to define the scope and application of the provision.&lt;/p&gt;
+
+&lt;p&gt;The responses to the consultation will inform our guidance to businesses on how to set their fees in compliance with the regulation.&lt;/p&gt;
+
+&lt;p&gt;The implementation in the UK of the remaining provisions of the Consumer Rights Directive is subject to a separate consultation which can be found at: &lt;/p&gt;
+
+&lt;p&gt;&lt;a rel="external" href="http://www.bis.gov.uk/Consultations/consultation-implementation-consumer-rights-directive?cat=open"&gt;http://www.bis.gov.uk/Consultations/consultation-implementation-consumer-rights-directive?cat=open&lt;/a&gt;   &lt;/p&gt;
+
+&lt;h2 id="download-the-consultation"&gt;Download the consultation&lt;/h2&gt;
+
+&lt;hr&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a rel="external" href="http://www.bis.gov.uk/assets/biscore/consumer-issues/docs/c/12-1008-consultation-ban-above-cost-payment-surcharges.pdf"&gt;Consultation on the early implementation of a ban on above cost payment surcharges (PDF, 322 Kb) &lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a rel="external" href="http://www.bis.gov.uk/assets/biscore/consumer-issues/docs/c/12-1009-consultation-ban-above-cost-payment-surcharges-impact.pdf"&gt;Consultation on the early implementation of a ban on above cost payment surcharges: impact assessment (PDF, 345 Kb) &lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
   </entry>
 </feed>

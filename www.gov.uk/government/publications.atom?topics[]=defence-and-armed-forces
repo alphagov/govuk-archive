@@ -8,7 +8,21 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-12-12T00:00:00+00:00</updated>
+  <updated>2012-12-14T00:00:00+00:00</updated>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56617</id>
+    <published>2012-12-14T00:00:00+00:00</published>
+    <updated>2012-12-14T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/list-of-certified-companies"/>
+    <title>List of certified companies </title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This list is published by the Export Control Organisation (ECO) in conjunction with the &lt;a href="https://www.gov.uk/military-goods-ogels#ogel-certified-companies"&gt;Open general export licence (certified companies)&lt;/a&gt;. &lt;/p&gt;
+
+&lt;p&gt;This particular OGEL permits, subject to certain conditions, the export or transfer of items specified in Schedule 1 of the licence to those companies referred to in Schedule 2. &lt;/p&gt;
+
+&lt;p&gt;You should always consult this list first before registering to use the licence via &lt;a rel="external" href="https://www.spire.bis.gov.uk"&gt;SPIRE&lt;/a&gt;, ECO’s export licensing database. &lt;/p&gt;
+
+&lt;p&gt;You should also be aware that the Euopean Commission also publishes a publically available database called &lt;a rel="external" href="http://ec.europa.eu/enterprise/sectors/defence/certider/"&gt;CERTIDER&lt;/a&gt;. This Euopean database contains more information about the certification of defence-related companies across Europe. Access You can also &lt;a rel="external" href="http://ec.europa.eu/enterprise/sectors/defence/certider/help/CERTIDER_Europa%20Manual_EN.pdf"&gt;download guidance on consulting the CERTIDER database on the Europa website (PDF, 1.81MB)&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/54831</id>
     <published>2012-12-12T00:00:00+00:00</published>
@@ -16,16 +30,6 @@
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/afghanistan-progress-reports"/>
     <title>Afghanistan: Progress reports</title>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Foreign Secretary updates Parliament with a progress report every month as part of his commitment to keep Parliament regularly informed on developments in Afghanistan.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/55122</id>
-    <published>2012-12-12T00:00:00+00:00</published>
-    <updated>2012-12-12T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/afghanistan-ministry-of-counter-narcotics-national-drug-control-strategy"/>
-    <title>Afghanistan Ministry of Counter-Narcotics' National Drug Control Strategy </title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The UK supports the Afghan Government in implementing its National Drug Control Strategy. It is a comprehensive approach which covers a range of activities to counter the drugs trade. These include building government institutions and law enforcement capacity, targeted eradication programmes and the development of alternative livelihoods, information and education campaigns and engagement with countries in the region. &lt;/p&gt;
-
-&lt;p&gt;Read the attached updated five-year strategy for tackling the illicit drug problem in Afghanistan.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/52540</id>
@@ -38,6 +42,16 @@
 &lt;p&gt;This note was issued in conjunction with an equivalent US Note. &lt;/p&gt;
 
 &lt;p&gt;For related guidance please refer to our guide &lt;a href="https://www.gov.uk/exporting-military-goods-to-the-united-states"&gt;exporting military goods to the United States&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/55122</id>
+    <published>2012-12-12T00:00:00+00:00</published>
+    <updated>2012-12-12T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/afghanistan-ministry-of-counter-narcotics-national-drug-control-strategy"/>
+    <title>Afghanistan Ministry of Counter-Narcotics' National Drug Control Strategy </title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The UK supports the Afghan Government in implementing its National Drug Control Strategy. It is a comprehensive approach which covers a range of activities to counter the drugs trade. These include building government institutions and law enforcement capacity, targeted eradication programmes and the development of alternative livelihoods, information and education campaigns and engagement with countries in the region. &lt;/p&gt;
+
+&lt;p&gt;Read the attached updated five-year strategy for tackling the illicit drug problem in Afghanistan.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/48933</id>
@@ -133,6 +147,14 @@ The Capability Review has been developed through extensive evidence-gathering wo
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Oral Statement on the Defence Budget.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/34176</id>
+    <published>2012-05-01T00:00:00+01:00</published>
+    <updated>2012-05-01T00:00:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/oral-statement-on-carrier-strike-capability-defence-secretary-10-may-2012"/>
+    <title>Oral Statement on Carrier Strike Capability - Defence Secretary 10 May 2012</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Oral Statement on Carrier Strike Capability.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/34440</id>
     <published>2012-05-01T00:00:00+01:00</published>
     <updated>2012-05-01T00:00:00+01:00</updated>
@@ -153,14 +175,6 @@ The Capability Review has been developed through extensive evidence-gathering wo
 &lt;p&gt;Priority 5 - Children and Young People have their voices heard&lt;/p&gt;
 
 &lt;p&gt;Priority 6 - Learning Pathways and the world of work&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/34176</id>
-    <published>2012-05-01T00:00:00+01:00</published>
-    <updated>2012-05-01T00:00:00+01:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/oral-statement-on-carrier-strike-capability-defence-secretary-10-may-2012"/>
-    <title>Oral Statement on Carrier Strike Capability - Defence Secretary 10 May 2012</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Oral Statement on Carrier Strike Capability.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/47574</id>
@@ -215,17 +229,5 @@ The Capability Review has been developed through extensive evidence-gathering wo
   &lt;li&gt;to stop countries such as Iran and North Korea from obtaining &lt;abbr title="weapons of mass destruction"&gt;WMD&lt;/abbr&gt; or advanced conventional weapons&lt;/li&gt;
   &lt;li&gt;to build up the &lt;a rel="external" href="http://www.iaea.org/"&gt;International Atomic Energy Agency (IAEA)&lt;/a&gt;, &lt;a rel="external" href="http://www.un.org/en/"&gt;United Nations&lt;/a&gt; and other organisations and treaties that help us meet our objectives through the international community and which serve to underpin global security and prosperity&lt;/li&gt;
 &lt;/ul&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/34257</id>
-    <published>2012-02-03T00:00:00+00:00</published>
-    <updated>2012-02-03T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/the-european-union-defence-and-security-public-contracts-regulations-dspcr-2011"/>
-    <title>The European Union Defence and Security Public Contracts Regulations (DSPCR) 2011</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The DSPCR, effective from 21 August 2011, establishes new procurement rules specifically for the procurement of defence and sensitive security equipment and related goods, works and services by contracting authorities, including MOD, and utilities throughout England, Scotland, Wales and Northern Ireland.  Government policy and guidance on the subject can be found below.&lt;/p&gt;
-
-&lt;p&gt;A copy of the DSPCR Statutory Instrument (SI 1848) can be found in External links.&lt;/p&gt;
-
-&lt;p&gt;An EU Defence and Security Procurement Directive on-line training course is available through the UK Defence Academy College of Management and Technology website via the Acquisition e-learning site button.  A charge is made for non-MOD users who should register on the Acquisition e-learning site before they can login and apply for the course.  The cost is £50.00 ex VAT. Details of payment options will be sent in a confirmation email when the course is applied for.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
 </feed>
