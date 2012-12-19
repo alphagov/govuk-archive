@@ -8,7 +8,15 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-11-13T00:00:00+00:00</updated>
+  <updated>2012-12-18T00:00:00+00:00</updated>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/57045</id>
+    <published>2012-12-18T00:00:00+00:00</published>
+    <updated>2012-12-18T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/foi-16-07-2012-115055-010-reservists-salaries"/>
+    <title>FOI-16-07-2012-115055-010 Reservists salaries</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Freedom of Information (FOI) request on Reservists salaries.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/54950</id>
     <published>2012-11-13T00:00:00+00:00</published>
@@ -160,13 +168,5 @@
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/foi-requests-for-information-received-by-mod-july-2011"/>
     <title>FOI Requests for information received by MOD July 2011</title>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;FOI Requests for Information received by MOD 04 - 29 July 2011&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/28506</id>
-    <published>2011-07-19T00:00:00+01:00</published>
-    <updated>2011-07-19T00:00:00+01:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/response-to-foi-06-06-2011-151146-007"/>
-    <title>Response to FOI 06-06-2011-151146-007</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Request for Court Martial Statistics 2000-2011&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
 </feed>

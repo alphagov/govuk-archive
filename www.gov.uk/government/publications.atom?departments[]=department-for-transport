@@ -8,7 +8,23 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-12-17T09:33:29+00:00</updated>
+  <updated>2012-12-18T00:00:00+00:00</updated>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/57524</id>
+    <published>2012-12-18T00:00:00+00:00</published>
+    <updated>2012-12-18T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/port-marine-safety-code"/>
+    <title>Port marine safety code</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The port marine safety code establishes a national standard for every aspect of port marine safety and aims to enhance safety for those who use or work in ports, their ships, passengers and the environment. The code applies to all harbour authorities in the UK that have statutory powers and duties.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/57054</id>
+    <published>2012-12-18T00:00:00+00:00</published>
+    <updated>2012-12-18T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/consultations/nationally-significant-highways-and-rail-schemes-amendments-to-planning-act-2008-definitions"/>
+    <title>Nationally significant highways and rail schemes: amendments to Planning Act 2008 definitions</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This consultation is on proposals to amend the definitions of ‘nationally significant’ rail and highways projects set out in the Planning Act 2008. The aim of this is to speed up the completion of projects and reduce the costs.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/56774</id>
     <published>2012-12-17T09:33:29+00:00</published>
@@ -200,6 +216,32 @@
 &lt;/section&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/16746</id>
+    <published>2012-12-13T00:00:00+00:00</published>
+    <updated>2012-12-13T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/port-freight-statistics-quarter-3-2012"/>
+    <title>Port freight statistics: quarter 3 2012</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This publication presents provisional summary statistics on freight handled by major UK ports, updated quarterly. Provisional annual statistics are updated in June and detailed final annual statistics are published in September. &lt;/p&gt;
+
+&lt;h2 id="key-points"&gt;Key points&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Total port traffic (tonnage) in the year ending quarter 3 2012 (497 million tonnes) was down 2% on the year ending quarter 3 2011 (509 million tonnes). &lt;/li&gt;
+  &lt;li&gt;The number of units of all types handled in the year ending quarter 3 2012  (20.8 million units) was down 3% compared with the year ending quarter 3 2011 (21.4 million units).&lt;/li&gt;
+  &lt;li&gt;Tonnage in quarter 3 of 2012 (124 million tonnes) was down 3% compared with quarter 3 2011 (127 million tonnes).&lt;/li&gt;
+  &lt;li&gt;The number of units of all types handled in quarter 3 2012 (5.98 million units) was down 4% compared with quarter 3 2011 (6.21 million units). &lt;/li&gt;
+&lt;/ul&gt;&lt;h2 id="technical-information"&gt;Technical information&lt;/h2&gt;
+
+&lt;p&gt;Information on port freight statistics, including the pre-release access list, and related technical documentation &lt;a href="https://www.gov.uk/technical-guidance-for-transport-stats#Port-statistics"&gt;can be found here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id="contact-us"&gt;Contact us&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="mailto:maritime.stats@dft.gsi.gov.uk"&gt;maritime.stats@dft.gsi.gov.uk&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Phone: 020 7944 4131&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/55932</id>
     <published>2012-12-13T00:00:00+00:00</published>
     <updated>2012-12-13T00:00:00+00:00</updated>
@@ -229,65 +271,32 @@
 &lt;p&gt;Further information on TSGB statistics tables, including the pre-release access list and related technical documentation can be found in each of the &lt;a href="https://www.gov.uk/government/organisations/department-for-transport/series/transport-statistics-great-britain#statistical-data-sets"&gt;TSGB chapters&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/55873</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/16748</id>
     <published>2012-12-13T00:00:00+00:00</published>
     <updated>2012-12-13T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/consultations/motoring-services-strategy"/>
-    <title>Motoring services strategy</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This consultation seeks views on reforms which will put customers and businesses closer to the heart of the 4 motoring services agencies:&lt;/p&gt;
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/vehicle-licensing-statistics-quarter-3-2012"/>
+    <title>Vehicle licensing statistics: quarter 3 2012</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This publication presents information on motor vehicles in Great Britain that were licensed on the 30 September 2012 (the end of quarter 3), or which were registered for the first time during quarter 3 (July to September 2012).&lt;/p&gt;
 
-&lt;ul&gt;
-&lt;li&gt;&lt;a rel="external" href="http://www.dft.gov.uk/dvla/"&gt;Driver and Vehicle Licensing Agency&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="https://www.gov.uk/government/organisations/driving-standards-agency"&gt;Driving Standards Agency&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a rel="external" href="http://www.dft.gov.uk/vca/"&gt;Vehicle Certification Agency&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a rel="external" href="http://www.dft.gov.uk/vosa/"&gt;Vehicle and Operator Services Agency&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;p&gt;It outlines 6 major drivers which will accomplish this vision. These are:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;maximising digital services&lt;/li&gt;
-  &lt;li&gt;reforming the Vehicle Certification Agency to support economic growth and vehicle manufacturing&lt;/li&gt;
-  &lt;li&gt;bringing the driving test closer to the customer&lt;/li&gt;
-  &lt;li&gt;transforming heavy goods vehicle, bus and coach testing&lt;/li&gt;
-  &lt;li&gt;delivering better customer services through dialogue with our customers&lt;/li&gt;
-  &lt;li&gt;defining our organisations to provide better services&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56016</id>
-    <published>2012-12-13T00:00:00+00:00</published>
-    <updated>2012-12-13T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/membership-of-motorists-forum"/>
-    <title>Membership of Motorists' Forum</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This Freedom of Information response explains how the membership of the Motorists’ Forum was selected after the 2010 election. It also releases the paper submitted to the then Roads Minister Mike Penning on who should retain membership.    &lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56455</id>
-    <published>2012-12-13T00:00:00+00:00</published>
-    <updated>2012-12-13T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/national-travel-survey-2011"/>
-    <title>National Travel Survey: 2011</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This statistical release presents information on personal travel in Great Britain during 2011. It contains the latest results and trends on how and why people travel with breakdowns by age, gender and income. It also contains trends in driving licence holding; school travel; and concessionary travel. &lt;/p&gt;
+&lt;p&gt;The statistics are derived from data held by the Driver and Vehicle Licensing Agency (DVLA), which administers vehicle registration and licensing records in Great Britain.  &lt;/p&gt;
 
 &lt;h2 id="key-points"&gt;Key points&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;In 2011, residents of Great Britain made an average of 958 trips per person and travelled 6,826 miles. The average trip length was 7.1 miles.&lt;/li&gt;
-  &lt;li&gt;Between 1995/97 and 2011, overall trips rates fell by 12%. Trips by private modes of transport fell by 13% while public transport modes increased by 3%. Walking trips saw the largest decrease.  &lt;/li&gt;
-  &lt;li&gt;By purpose, most of the decline in overall trips rates between 1995/97 and 2011 can be accounted for by a fall in shopping and visiting friends. &lt;/li&gt;
-  &lt;li&gt;Trips by car (as a driver or passenger) accounted for 64% of all trips made and 79% of distance travelled in 2011. &lt;/li&gt;
-  &lt;li&gt;On average, females make more trips than males, but males travel much further each year.&lt;/li&gt;
-  &lt;li&gt;In 2011, 79% of males and 65% of females had a full driving licence.&lt;/li&gt;
-  &lt;li&gt;Since 1995/97, the average number of car driver trips by men has fallen by 18% and average distance travelled fell by 16%, while car driver trips and distance travelled by women increased by 11% and 23% respectively. Men still drive nearly twice as many miles per year than women.&lt;/li&gt;
-  &lt;li&gt;Concessionary travel pass take-up in 2011 was 79% of those eligible (82% of females and 76% of males).&lt;/li&gt;
+&lt;li&gt;34.7 million vehicles were licensed for use on the roads in Great Britain on the 30 September 2012, up 0.7% on the year before. Of these vehicles, 28.8 million were cars. &lt;/li&gt;
+  &lt;li&gt;The numbers of licensed Heavy Goods Vehicles and Buses &amp;amp; Coaches have decreased since the economic downturn began in 2008/09, and the rate of increase in other types of vehicles has slowed.&lt;/li&gt;
+  &lt;li&gt;681.3 thousand vehicles were registered for the first time in Great Britain during quarter 3 2012, up 6.4% on the same quarter of the previous year. &lt;/li&gt;
+  &lt;li&gt;During quarter 3 2012, 987 new ultra-low emission vehicles were registered for the first time (in the UK). &lt;/li&gt;
+  &lt;li&gt;Average CO2 emissions from new cars fell from 133.2 g/km in quarter 2 2012 to 131.9 g/km in quarter 3 2012. &lt;/li&gt;
 &lt;/ul&gt;&lt;h2 id="technical-information"&gt;Technical information&lt;/h2&gt;
 
-&lt;p&gt;Further information on the National Travel Survey, including standard error estimates for 2009, survey materials (questionnaire, travel diaries and fuel card), the UKSA assessment &lt;a href="https://www.gov.uk/technical-guidance-for-transport-stats#national-travel-survey-statistics"&gt;can be found here&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Information on Vehicle licensing statistics, including the pre-release access list &lt;a href="https://www.gov.uk/technical-guidance-for-transport-statistics-part-2#vehicle-licensing-statistics"&gt;can be found here&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h2 id="contact-us"&gt;Contact us&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="mailto:national.travelsurvey@dft.gsi.gov.uk"&gt;national.travelsurvey@dft.gsi.gov.uk&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Phone: 020 7944 3097&lt;/li&gt;
+&lt;li&gt;&lt;a href="mailto:vehicles.stats@dft.gsi.gov.uk"&gt;vehicles.stats@dft.gsi.gov.uk&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Phone: 020 7944 3077&lt;/li&gt;
 &lt;/ul&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
@@ -362,6 +371,137 @@
 &lt;li&gt;&lt;a href="https://www.gov.uk/government/publications/department-for-transport-business-plan"&gt;Business Plan 2012-2015&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href="https://www.gov.uk/government/publications/input-and-impact-indicators"&gt;Input and impact indicators&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Analyst contact: email &lt;a href="mailto:national.travelsurvey@dft.gsi.gov.uk"&gt;national.travelsurvey@dft.gsi.gov.uk&lt;/a&gt; or telephone 020 7944 3097&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/55873</id>
+    <published>2012-12-13T00:00:00+00:00</published>
+    <updated>2012-12-13T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/consultations/motoring-services-strategy"/>
+    <title>Motoring services strategy</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This consultation seeks views on reforms which will put customers and businesses closer to the heart of the 4 motoring services agencies:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel="external" href="http://www.dft.gov.uk/dvla/"&gt;Driver and Vehicle Licensing Agency&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://www.gov.uk/government/organisations/driving-standards-agency"&gt;Driving Standards Agency&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a rel="external" href="http://www.dft.gov.uk/vca/"&gt;Vehicle Certification Agency&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a rel="external" href="http://www.dft.gov.uk/vosa/"&gt;Vehicle and Operator Services Agency&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;It outlines 6 major drivers which will accomplish this vision. These are:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;maximising digital services&lt;/li&gt;
+  &lt;li&gt;reforming the Vehicle Certification Agency to support economic growth and vehicle manufacturing&lt;/li&gt;
+  &lt;li&gt;bringing the driving test closer to the customer&lt;/li&gt;
+  &lt;li&gt;transforming heavy goods vehicle, bus and coach testing&lt;/li&gt;
+  &lt;li&gt;delivering better customer services through dialogue with our customers&lt;/li&gt;
+  &lt;li&gt;defining our organisations to provide better services&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56362</id>
+    <published>2012-12-13T00:00:00+00:00</published>
+    <updated>2012-12-13T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/reliability-of-journeys-on-the-highways-agencys-motorway-and-a-road-network-october-2012"/>
+    <title>Reliability of journeys on the Highway's Agencys motorway and A road network: October 2012</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="key-points"&gt;Key points&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;In the year ending October 2012, provisional data show that 82.3% of journeys on the Highways Agency managed network were ‘on time’. This is 0.3 percentage points lower than the previous year, ending September 2012.&lt;/li&gt;
+  &lt;li&gt;Provisional data show that 79.6% of journeys on the Highways Agency network during October 2012 were ‘on time’, down 3.4 percentage points from October 2011.&lt;/li&gt;
+&lt;/ul&gt;&lt;h2 id="technical-information"&gt;Technical information&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Information on Road congestion and reliability statistics, including the pre-release access list and related technical documentation &lt;a href="https://www.gov.uk/technical-guidance-for-transport-stats#Road-congestion-and-reliability-statistics"&gt;can be found here&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;&lt;h2 id="contact-us"&gt;Contact us&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="mailto:congestion.stats@dft.gsi.gov.uk"&gt;congestion.stats@dft.gsi.gov.uk&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Phone: 020 7944 6579&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/55826</id>
+    <published>2012-12-13T00:00:00+00:00</published>
+    <updated>2012-12-13T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/quarterly-bus-statistics-quarter-3-2012"/>
+    <title>Quarterly bus statistics: quarter 3 2012</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This statistical release presents data on local bus passenger journeys and fares in Great Britain up to Q3 (July to September) 2012. &lt;/p&gt;
+
+&lt;p&gt;Passenger journey figures are based on data collected from a panel survey of the largest bus operators and are seasonally adjusted. The bus fares index is compiled from data provided by a representative sample of operators. &lt;/p&gt;
+
+&lt;p&gt;Annual statistics on bus operator revenue and costs, and Government support to bus operators and for concessionary travel have been updated alongside this publication and are available on the Department’s website &lt;a href="https://www.gov.uk/government/publications/annual-bus-statistics-2011-12"&gt;here&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id="key-points"&gt;Key points&lt;/h2&gt;
+
+&lt;h3 id="passenger-journeys"&gt;Passenger journeys&lt;/h3&gt;
+&lt;p&gt;Comparing Q3 (July to September) 2012 with the same quarter in the previous year:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;
+    &lt;p&gt;There was a 0.1% decrease in bus passenger journeys in England with a 2.4% increase for London, a 1.8% per cent decrease in metropolitan areas and a decrease of 3.2% in non-metropolitan areas. &lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Over the same period there was a decrease of 2.1% in passenger journeys in Scotland, and a decrease of 3.2% in Wales.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Comparing Q3 (July to September) 2012 with the previous quarter, there was an increase of 0.3% in seasonally adjusted bus passenger journeys in England, with falls in each area type except London which had an increase of 1.3%. &lt;/p&gt;
+
+&lt;h3 id="bus-fares-index"&gt;Bus fares index&lt;/h3&gt;
+&lt;p&gt;Comparing September 2012 with September 2011:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;
+    &lt;p&gt;There was an increase in bus fares of 6.0% in England (5.4% in London, 5.2% in metropolitan areas and 7.2% in non-metropolitan areas). The all items retail prices index increased by 2.6% over this period.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Over the same period there was an increase of 5.4% in fares in Scotland, and an increase of 9.1% in Wales.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;&lt;h2 id="technical-information"&gt;Technical information&lt;/h2&gt;
+
+&lt;p&gt;Information on bus statistics, including the pre-release access list and related technical documentation can be found &lt;a href="https://www.gov.uk/government/organisations/department-for-transport/series/bus-statistics"&gt;here&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id="contact-us"&gt;Contact us&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="mailto:bus.statistics@dft.gsi.gov.uk"&gt;bus.statistics@dft.gsi.gov.uk&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Phone: 020 7944 3076&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56016</id>
+    <published>2012-12-13T00:00:00+00:00</published>
+    <updated>2012-12-13T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/membership-of-motorists-forum"/>
+    <title>Membership of Motorists' Forum</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This Freedom of Information response explains how the membership of the Motorists’ Forum was selected after the 2010 election. It also releases the paper submitted to the then Roads Minister Mike Penning on who should retain membership.    &lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56455</id>
+    <published>2012-12-13T00:00:00+00:00</published>
+    <updated>2012-12-13T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/national-travel-survey-2011"/>
+    <title>National Travel Survey: 2011</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This statistical release presents information on personal travel in Great Britain during 2011. It contains the latest results and trends on how and why people travel with breakdowns by age, gender and income. It also contains trends in driving licence holding; school travel; and concessionary travel. &lt;/p&gt;
+
+&lt;h2 id="key-points"&gt;Key points&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;In 2011, residents of Great Britain made an average of 958 trips per person and travelled 6,826 miles. The average trip length was 7.1 miles.&lt;/li&gt;
+  &lt;li&gt;Between 1995/97 and 2011, overall trips rates fell by 12%. Trips by private modes of transport fell by 13% while public transport modes increased by 3%. Walking trips saw the largest decrease.  &lt;/li&gt;
+  &lt;li&gt;By purpose, most of the decline in overall trips rates between 1995/97 and 2011 can be accounted for by a fall in shopping and visiting friends. &lt;/li&gt;
+  &lt;li&gt;Trips by car (as a driver or passenger) accounted for 64% of all trips made and 79% of distance travelled in 2011. &lt;/li&gt;
+  &lt;li&gt;On average, females make more trips than males, but males travel much further each year.&lt;/li&gt;
+  &lt;li&gt;In 2011, 79% of males and 65% of females had a full driving licence.&lt;/li&gt;
+  &lt;li&gt;Since 1995/97, the average number of car driver trips by men has fallen by 18% and average distance travelled fell by 16%, while car driver trips and distance travelled by women increased by 11% and 23% respectively. Men still drive nearly twice as many miles per year than women.&lt;/li&gt;
+  &lt;li&gt;Concessionary travel pass take-up in 2011 was 79% of those eligible (82% of females and 76% of males).&lt;/li&gt;
+&lt;/ul&gt;&lt;h2 id="technical-information"&gt;Technical information&lt;/h2&gt;
+
+&lt;p&gt;Further information on the National Travel Survey, including standard error estimates for 2009, survey materials (questionnaire, travel diaries and fuel card), the UKSA assessment &lt;a href="https://www.gov.uk/technical-guidance-for-transport-stats#national-travel-survey-statistics"&gt;can be found here&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id="contact-us"&gt;Contact us&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="mailto:national.travelsurvey@dft.gsi.gov.uk"&gt;national.travelsurvey@dft.gsi.gov.uk&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Phone: 020 7944 3097&lt;/li&gt;
 &lt;/ul&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
@@ -466,130 +606,6 @@
 &lt;/ul&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/16748</id>
-    <published>2012-12-13T00:00:00+00:00</published>
-    <updated>2012-12-13T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/vehicle-licensing-statistics-quarter-3-2012"/>
-    <title>Vehicle licensing statistics: quarter 3 2012</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This publication presents information on motor vehicles in Great Britain that were licensed on the 30 September 2012 (the end of quarter 3), or which were registered for the first time during quarter 3 (July to September 2012).&lt;/p&gt;
-
-&lt;p&gt;The statistics are derived from data held by the Driver and Vehicle Licensing Agency (DVLA), which administers vehicle registration and licensing records in Great Britain.  &lt;/p&gt;
-
-&lt;h2 id="key-points"&gt;Key points&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;34.7 million vehicles were licensed for use on the roads in Great Britain on the 30 September 2012, up 0.7% on the year before. Of these vehicles, 28.8 million were cars. &lt;/li&gt;
-  &lt;li&gt;The numbers of licensed Heavy Goods Vehicles and Buses &amp;amp; Coaches have decreased since the economic downturn began in 2008/09, and the rate of increase in other types of vehicles has slowed.&lt;/li&gt;
-  &lt;li&gt;681.3 thousand vehicles were registered for the first time in Great Britain during quarter 3 2012, up 6.4% on the same quarter of the previous year. &lt;/li&gt;
-  &lt;li&gt;During quarter 3 2012, 987 new ultra-low emission vehicles were registered for the first time (in the UK). &lt;/li&gt;
-  &lt;li&gt;Average CO2 emissions from new cars fell from 133.2 g/km in quarter 2 2012 to 131.9 g/km in quarter 3 2012. &lt;/li&gt;
-&lt;/ul&gt;&lt;h2 id="technical-information"&gt;Technical information&lt;/h2&gt;
-
-&lt;p&gt;Information on Vehicle licensing statistics, including the pre-release access list &lt;a href="https://www.gov.uk/technical-guidance-for-transport-statistics-part-2#vehicle-licensing-statistics"&gt;can be found here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id="contact-us"&gt;Contact us&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="mailto:vehicles.stats@dft.gsi.gov.uk"&gt;vehicles.stats@dft.gsi.gov.uk&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Phone: 020 7944 3077&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/16746</id>
-    <published>2012-12-13T00:00:00+00:00</published>
-    <updated>2012-12-13T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/port-freight-statistics-quarter-3-2012"/>
-    <title>Port freight statistics: quarter 3 2012</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This publication presents provisional summary statistics on freight handled by major UK ports, updated quarterly. Provisional annual statistics are updated in June and detailed final annual statistics are published in September. &lt;/p&gt;
-
-&lt;h2 id="key-points"&gt;Key points&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Total port traffic (tonnage) in the year ending quarter 3 2012 (497 million tonnes) was down 2% on the year ending quarter 3 2011 (509 million tonnes). &lt;/li&gt;
-  &lt;li&gt;The number of units of all types handled in the year ending quarter 3 2012  (20.8 million units) was down 3% compared with the year ending quarter 3 2011 (21.4 million units).&lt;/li&gt;
-  &lt;li&gt;Tonnage in quarter 3 of 2012 (124 million tonnes) was down 3% compared with quarter 3 2011 (127 million tonnes).&lt;/li&gt;
-  &lt;li&gt;The number of units of all types handled in quarter 3 2012 (5.98 million units) was down 4% compared with quarter 3 2011 (6.21 million units). &lt;/li&gt;
-&lt;/ul&gt;&lt;h2 id="technical-information"&gt;Technical information&lt;/h2&gt;
-
-&lt;p&gt;Information on port freight statistics, including the pre-release access list, and related technical documentation &lt;a href="https://www.gov.uk/technical-guidance-for-transport-stats#Port-statistics"&gt;can be found here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id="contact-us"&gt;Contact us&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="mailto:maritime.stats@dft.gsi.gov.uk"&gt;maritime.stats@dft.gsi.gov.uk&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Phone: 020 7944 4131&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/55826</id>
-    <published>2012-12-13T00:00:00+00:00</published>
-    <updated>2012-12-13T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/quarterly-bus-statistics-quarter-3-2012"/>
-    <title>Quarterly bus statistics: quarter 3 2012</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This statistical release presents data on local bus passenger journeys and fares in Great Britain up to Q3 (July to September) 2012. &lt;/p&gt;
-
-&lt;p&gt;Passenger journey figures are based on data collected from a panel survey of the largest bus operators and are seasonally adjusted. The bus fares index is compiled from data provided by a representative sample of operators. &lt;/p&gt;
-
-&lt;p&gt;Annual statistics on bus operator revenue and costs, and Government support to bus operators and for concessionary travel have been updated alongside this publication and are available on the Department’s website &lt;a href="https://www.gov.uk/government/publications/annual-bus-statistics-2011-12"&gt;here&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id="key-points"&gt;Key points&lt;/h2&gt;
-
-&lt;h3 id="passenger-journeys"&gt;Passenger journeys&lt;/h3&gt;
-&lt;p&gt;Comparing Q3 (July to September) 2012 with the same quarter in the previous year:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;
-    &lt;p&gt;There was a 0.1% decrease in bus passenger journeys in England with a 2.4% increase for London, a 1.8% per cent decrease in metropolitan areas and a decrease of 3.2% in non-metropolitan areas. &lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Over the same period there was a decrease of 2.1% in passenger journeys in Scotland, and a decrease of 3.2% in Wales.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;&lt;p&gt;Comparing Q3 (July to September) 2012 with the previous quarter, there was an increase of 0.3% in seasonally adjusted bus passenger journeys in England, with falls in each area type except London which had an increase of 1.3%. &lt;/p&gt;
-
-&lt;h3 id="bus-fares-index"&gt;Bus fares index&lt;/h3&gt;
-&lt;p&gt;Comparing September 2012 with September 2011:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;
-    &lt;p&gt;There was an increase in bus fares of 6.0% in England (5.4% in London, 5.2% in metropolitan areas and 7.2% in non-metropolitan areas). The all items retail prices index increased by 2.6% over this period.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Over the same period there was an increase of 5.4% in fares in Scotland, and an increase of 9.1% in Wales.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;&lt;h2 id="technical-information"&gt;Technical information&lt;/h2&gt;
-
-&lt;p&gt;Information on bus statistics, including the pre-release access list and related technical documentation can be found &lt;a href="https://www.gov.uk/government/organisations/department-for-transport/series/bus-statistics"&gt;here&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id="contact-us"&gt;Contact us&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="mailto:bus.statistics@dft.gsi.gov.uk"&gt;bus.statistics@dft.gsi.gov.uk&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Phone: 020 7944 3076&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56362</id>
-    <published>2012-12-13T00:00:00+00:00</published>
-    <updated>2012-12-13T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/reliability-of-journeys-on-the-highways-agencys-motorway-and-a-road-network-october-2012"/>
-    <title>Reliability of journeys on the Highway's Agencys motorway and A road network: October 2012</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="key-points"&gt;Key points&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;In the year ending October 2012, provisional data show that 82.3% of journeys on the Highways Agency managed network were ‘on time’. This is 0.3 percentage points lower than the previous year, ending September 2012.&lt;/li&gt;
-  &lt;li&gt;Provisional data show that 79.6% of journeys on the Highways Agency network during October 2012 were ‘on time’, down 3.4 percentage points from October 2011.&lt;/li&gt;
-&lt;/ul&gt;&lt;h2 id="technical-information"&gt;Technical information&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Information on Road congestion and reliability statistics, including the pre-release access list and related technical documentation &lt;a href="https://www.gov.uk/technical-guidance-for-transport-stats#Road-congestion-and-reliability-statistics"&gt;can be found here&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;&lt;h2 id="contact-us"&gt;Contact us&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="mailto:congestion.stats@dft.gsi.gov.uk"&gt;congestion.stats@dft.gsi.gov.uk&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Phone: 020 7944 6579&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/49794</id>
     <published>2012-12-12T00:00:00+00:00</published>
     <updated>2012-12-12T00:00:00+00:00</updated>
@@ -630,34 +646,5 @@
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/consultations/integrated-transport-block-funding"/>
     <title>Integrated Transport Block funding</title>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;We seek views on the future calculation and distribution of the Integrated Transport Block. This is capital funding given to local authorities in England, outside of London, for small transport improvement schemes.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/49047</id>
-    <published>2012-12-11T00:00:00+00:00</published>
-    <updated>2012-12-11T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/report-about-the-value-of-prevented-injuries-and-fatalities"/>
-    <title>Report about the value of prevented injuries and fatalities</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This Freedom of Information response concerns a report about making updates to the Department for Transport’s value of a prevented fatality (VPF) and values of prevented injuries (VPI).&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/50143</id>
-    <published>2012-12-11T00:00:00+00:00</published>
-    <updated>2012-12-11T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/government-response-to-motorists-forum-report-on-garage-customer-experience"/>
-    <title>Government response to Motorists' Forum report on garage customer experience </title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Department for Transport and the Department for Business Innovation and Skills have worked closely together to produce the government response to the Motorists’ Forum sub-group report.  &lt;/p&gt;
-
-&lt;p&gt;The government response adopts recommendations from the Motorists’ Forum sub-group report which would help to do the following:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;build on existing best practice in the industry&lt;/li&gt;
-  &lt;li&gt;encourage garages to improve customer service without the burden of extra legislation&lt;/li&gt;
-  &lt;li&gt;help promote the wider adoption of self-regulation codes of practice by garages&lt;/li&gt;
-  &lt;li&gt;encourage greater publication of information regarding the services they offer&lt;/li&gt;
-&lt;/ul&gt;&lt;h2 id="related-documents"&gt;Related documents&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.gov.uk/government/publications/the-report-of-the-motorists-forum-sub-group-on-improving-customer-service-experience-at-garages"&gt;The report of the Motorists’ Forum sub-group on improving customer service experience at garages&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</content>
   </entry>
 </feed>

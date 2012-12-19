@@ -8,7 +8,39 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-12-17T00:00:00+00:00</updated>
+  <updated>2012-12-18T00:00:00+00:00</updated>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/57071</id>
+    <published>2012-12-18T00:00:00+00:00</published>
+    <updated>2012-12-18T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/number-of-enterprise-finance-guarantee-efg-scheme-loans-drawn"/>
+    <title>Number and value of Enterprise Finance Guarantee (EFG) scheme loans drawn.</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Number and value of EFG loans drawn, by bank.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56768</id>
+    <published>2012-12-17T00:00:00+00:00</published>
+    <updated>2012-12-17T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/construction-resource-cost-indices-notes-and-definitions"/>
+    <title>Construction resource cost indices notes and definitions</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Resource Cost Indices give a measure of the notional trend of input costs to a contractor in terms of increases in the cost of labour, materials and plant by application of the Price Adjustment Formulae for Building (Series 3), Specialist Engineering (Series 3) and Civil Engineering (1990 Series) to cost models.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56761</id>
+    <published>2012-12-17T00:00:00+00:00</published>
+    <updated>2012-12-17T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/quarterly-price-and-cost-indices-commentary-3q-2012"/>
+    <title>Quarterly price and cost indices: commentary 3Q 2012</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Explains the data published in the three quarterly BIS construction price and cost indices (PCIs): tender price indices (12/P147C), construction resource cost indices (12/P148C), and output price indices (URN 12/P149C).&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56767</id>
+    <published>2012-12-17T00:00:00+00:00</published>
+    <updated>2012-12-17T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/construction-tender-price-indices-tpis-notes-and-definitions"/>
+    <title>Construction tender price indices (TPIs) notes and definitions</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Tender Price Index of Public Sector Building Non Housing (PUBSEC) measures the movement of prices in tenders for building contracts in the public sector in Great Britain. It does not include contracts for housing, civil engineering, mechanical engineering, electrical engineering, minor alterations projects or for repair and maintenance work.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/57009</id>
     <published>2012-12-17T00:00:00+00:00</published>
@@ -32,30 +64,6 @@
 &lt;h2 id="publication-note"&gt;Publication note&lt;/h2&gt;
 
 &lt;p&gt;This release was published around 40 minutes after 9.30am, in breach of the Code of Practice for Official Statistics. We are currently investigating why this happened, and a report will be submitted to the National Statistician’s Office and published on the UK Statistics Authority’s website in due course.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56761</id>
-    <published>2012-12-17T00:00:00+00:00</published>
-    <updated>2012-12-17T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/quarterly-price-and-cost-indices-commentary-3q-2012"/>
-    <title>Quarterly price and cost indices: commentary 3Q 2012</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Explains the data published in the three quarterly BIS construction price and cost indices (PCIs): tender price indices (12/P147C), construction resource cost indices (12/P148C), and output price indices (URN 12/P149C).&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56767</id>
-    <published>2012-12-17T00:00:00+00:00</published>
-    <updated>2012-12-17T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/construction-tender-price-indices-tpis-notes-and-definitions"/>
-    <title>Construction tender price indices (TPIs) notes and definitions</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Tender Price Index of Public Sector Building Non Housing (PUBSEC) measures the movement of prices in tenders for building contracts in the public sector in Great Britain. It does not include contracts for housing, civil engineering, mechanical engineering, electrical engineering, minor alterations projects or for repair and maintenance work.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56768</id>
-    <published>2012-12-17T00:00:00+00:00</published>
-    <updated>2012-12-17T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/construction-resource-cost-indices-notes-and-definitions"/>
-    <title>Construction resource cost indices notes and definitions</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Resource Cost Indices give a measure of the notional trend of input costs to a contractor in terms of increases in the cost of labour, materials and plant by application of the Price Adjustment Formulae for Building (Series 3), Specialist Engineering (Series 3) and Civil Engineering (1990 Series) to cost models.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/55797</id>
@@ -1742,28 +1750,6 @@
     <content type="html">&lt;div class="govspeak"&gt;&lt;h3 id="contact-information"&gt;Contact information&lt;/h3&gt;
 
 &lt;p&gt;General &amp;amp; Statistical enquiries &lt;a href="mailto:repi@bis.gsi.gov.uk"&gt;repi@bis.gsi.gov.uk&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/17713</id>
-    <published>2012-12-04T00:00:00+00:00</published>
-    <updated>2012-12-04T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/job-estimates"/>
-    <title>Job estimates</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This section provides sub-national estimates of employee jobs by two factors: industry sector and ownership (Public/ Private). Estimates are of employee jobs, rather than workforce jobs. Self-employed, HM Forces and Government Assisted trainees are therefore excluded. It is also a count of jobs rather than people i.e. one person would be counted once in an employment figure even if they had numerous jobs, where as in a jobs measure each job they had would be counted separately.&lt;/p&gt;
-
-&lt;h3 id="proportion-of-employee-jobs-in-selected-industrial-sectors"&gt;Proportion of employee jobs in selected industrial sectors&lt;/h3&gt;
-
-&lt;p&gt;This data provides estimates of the proportion of employee jobs in selected industrial sectors by NUTS (1 or 2) areas for 2009 from the ONS Business Register Employment Survey.&lt;/p&gt;
-
-&lt;p&gt;The sectors presented are: Aerospace &amp;amp; Defence; Automotive; Chemicals; Construction; Information &amp;amp; Communication; Life Sciences; Metals and Retail &amp;amp; Wholesale.&lt;/p&gt;
-
-&lt;p&gt;Full information on the data and caveats are available alongside the data tables and should be understood before using these estimates.&lt;/p&gt;
-
-&lt;h3 id="sub-regional-public-and-private-sector-employee-job-estimates"&gt;Sub-regional public and private sector employee job estimates&lt;/h3&gt;
-
-&lt;p&gt;This data provides estimates of the level of public and private sector employee jobs by Local Authority and Travel to Work Area from 2003 to 2008 from the ONS Annual Business Inquiry.&lt;/p&gt;
-
-&lt;p&gt;The limitations and caveats which accompany this data are available alongside the data tables and should be understood before using these estimates&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/17646</id>

@@ -8,7 +8,19 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-12-17T00:00:00+00:00</updated>
+  <updated>2012-12-18T00:00:00+00:00</updated>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/57041</id>
+    <published>2012-12-18T00:00:00+00:00</published>
+    <updated>2012-12-18T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/guidance-for-local-planning-authorities-on-implementing-planning-requirements-of-the-eu-waste-framework-directive-2008-98-ec"/>
+    <title>Guidance for local planning authorities on implementing planning requirements of the EU Waste Framework Directive (2008/98/EC)</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Waste Framework Directive (2008/98/EC) (‘the Directive’) provides an overarching legislative framework for the management of waste across Europe. This guidance note provides advice on the measures required by local planning authorities to ensure compliance with the directive. &lt;/p&gt;
+
+&lt;p&gt;This guidance is aimed primarily at waste planning authorities, but it highlights the main legal and policy provisions of relevance to all planning authorities, and the action we expect them to take to assist them in ensuring compliance with the directive. &lt;/p&gt;
+
+&lt;p&gt;It should be read alongside the government’s planning policy for waste management, currently set out in &lt;a href="https://www.gov.uk/government/publications/planning-for-sustainable-waste-management-planning-policy-statement-10"&gt;Planning Policy Statement 10&lt;/a&gt; and its &lt;a href="https://www.gov.uk/government/publications/planning-for-sustainable-waste-management-a-companion-guide-to-planning-policy-statement-10"&gt;companion guide&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/56834</id>
     <published>2012-12-17T00:00:00+00:00</published>
@@ -258,22 +270,5 @@
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;A leaflet on tree preservation procedures in England. Mainly for the benefit of tree owners, their neighbours and local community groups, it answers commonly asked questions about the procedures.&lt;/p&gt;
 
 &lt;p&gt;This replaces &lt;em&gt;Protected trees: A guide to tree preservation procedures&lt;/em&gt; published on 10 March 2010.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/11311</id>
-    <published>2012-04-02T00:00:00+01:00</published>
-    <updated>2012-04-02T00:00:00+01:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/changes-to-the-energy-performance-of-buildings-framework"/>
-    <title>Changes to the energy performance of buildings framework</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The documents below describe the April 2012 changes to the Energy Performance of Buildings framework.&lt;/p&gt;
-
-&lt;p&gt;We have taken steps to make it easier for consumers to save money on their fuel bills by:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;introducing a new look domestic Energy Performance Certificate which is consumer friendly and easy to understand&lt;/li&gt;
-  &lt;li&gt;requiring Domestic Energy Assessors to improve their skills and deliver a better customer service&lt;/li&gt;
-  &lt;li&gt;opening up access to the Energy Performance Certificate register of more than seven million Energy Performance Certificates&lt;/li&gt;
-  &lt;li&gt;amending the Regulations so the Energy Performance Certificate is provided earlier to prospective buyers and tenants, increasing the likelihood of people acting on recommendations which identify cost effective savings.&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</content>
   </entry>
 </feed>

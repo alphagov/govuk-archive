@@ -8,7 +8,39 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-12-17T00:00:00+00:00</updated>
+  <updated>2012-12-18T00:00:00+00:00</updated>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/57071</id>
+    <published>2012-12-18T00:00:00+00:00</published>
+    <updated>2012-12-18T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/number-of-enterprise-finance-guarantee-efg-scheme-loans-drawn"/>
+    <title>Number and value of Enterprise Finance Guarantee (EFG) scheme loans drawn.</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Number and value of EFG loans drawn, by bank.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/57027</id>
+    <published>2012-12-18T00:00:00+00:00</published>
+    <updated>2012-12-18T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/op-herrick-casualty-and-fatality-tables"/>
+    <title>Op Herrick casualty and fatality tables</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Casualty and fatality tables up to 30 November 2012. Report includes historical data (pre Jan 06) on Very Seriously Injured and Seriously Injured personnel for Op HERRICK. These figures are updated monthly, two weeks in arrears.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56768</id>
+    <published>2012-12-17T00:00:00+00:00</published>
+    <updated>2012-12-17T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/construction-resource-cost-indices-notes-and-definitions"/>
+    <title>Construction resource cost indices notes and definitions</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Resource Cost Indices give a measure of the notional trend of input costs to a contractor in terms of increases in the cost of labour, materials and plant by application of the Price Adjustment Formulae for Building (Series 3), Specialist Engineering (Series 3) and Civil Engineering (1990 Series) to cost models.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56769</id>
+    <published>2012-12-17T00:00:00+00:00</published>
+    <updated>2012-12-17T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/construction-resource-cost-indices-december-2012"/>
+    <title>Construction resource cost indices - December 2012</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;A small number of the indices in this release have been revised due to inconsistencies between the indices published on the BIS website and those published on BCIS Online.  Mostly this affects older indices with a few more recent exceptions. BIS apologises for any inconvenience this may have caused.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/57009</id>
     <published>2012-12-17T00:00:00+00:00</published>
@@ -34,28 +66,12 @@
 &lt;p&gt;This release was published around 40 minutes after 9.30am, in breach of the Code of Practice for Official Statistics. We are currently investigating why this happened, and a report will be submitted to the National Statistician’s Office and published on the UK Statistics Authority’s website in due course.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56769</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56767</id>
     <published>2012-12-17T00:00:00+00:00</published>
     <updated>2012-12-17T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/construction-resource-cost-indices-december-2012"/>
-    <title>Construction resource cost indices - December 2012</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;A small number of the indices in this release have been revised due to inconsistencies between the indices published on the BIS website and those published on BCIS Online.  Mostly this affects older indices with a few more recent exceptions. BIS apologises for any inconvenience this may have caused.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56768</id>
-    <published>2012-12-17T00:00:00+00:00</published>
-    <updated>2012-12-17T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/construction-resource-cost-indices-notes-and-definitions"/>
-    <title>Construction resource cost indices notes and definitions</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Resource Cost Indices give a measure of the notional trend of input costs to a contractor in terms of increases in the cost of labour, materials and plant by application of the Price Adjustment Formulae for Building (Series 3), Specialist Engineering (Series 3) and Civil Engineering (1990 Series) to cost models.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56761</id>
-    <published>2012-12-17T00:00:00+00:00</published>
-    <updated>2012-12-17T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/quarterly-price-and-cost-indices-commentary-3q-2012"/>
-    <title>Quarterly price and cost indices: commentary 3Q 2012</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Explains the data published in the three quarterly BIS construction price and cost indices (PCIs): tender price indices (12/P147C), construction resource cost indices (12/P148C), and output price indices (URN 12/P149C).&lt;/p&gt;&lt;/div&gt;</content>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/construction-tender-price-indices-tpis-notes-and-definitions"/>
+    <title>Construction tender price indices (TPIs) notes and definitions</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Tender Price Index of Public Sector Building Non Housing (PUBSEC) measures the movement of prices in tenders for building contracts in the public sector in Great Britain. It does not include contracts for housing, civil engineering, mechanical engineering, electrical engineering, minor alterations projects or for repair and maintenance work.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/56765</id>
@@ -74,12 +90,12 @@
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;A small number of the indices in this release have been revised due to inconsistencies between the indices published on the BIS website and those published on BCIS Online.  Mostly this affects older indices with a few more recent exceptions. BIS apologises for any inconvenience this may have caused.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56767</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56761</id>
     <published>2012-12-17T00:00:00+00:00</published>
     <updated>2012-12-17T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/construction-tender-price-indices-tpis-notes-and-definitions"/>
-    <title>Construction tender price indices (TPIs) notes and definitions</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Tender Price Index of Public Sector Building Non Housing (PUBSEC) measures the movement of prices in tenders for building contracts in the public sector in Great Britain. It does not include contracts for housing, civil engineering, mechanical engineering, electrical engineering, minor alterations projects or for repair and maintenance work.&lt;/p&gt;&lt;/div&gt;</content>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/quarterly-price-and-cost-indices-commentary-3q-2012"/>
+    <title>Quarterly price and cost indices: commentary 3Q 2012</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Explains the data published in the three quarterly BIS construction price and cost indices (PCIs): tender price indices (12/P147C), construction resource cost indices (12/P148C), and output price indices (URN 12/P149C).&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/55840</id>
@@ -228,6 +244,46 @@
 &lt;/section&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56822</id>
+    <published>2012-12-13T00:00:00+00:00</published>
+    <updated>2012-12-13T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/fire-statistics-user-survey-2012-summary-of-responses"/>
+    <title>Fire statistics user survey 2012: summary of responses</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;In summer 2012, the Department for Communities and Local Government issued a survey inviting views on its publication &lt;a href="https://www.gov.uk/government/organisations/department-for-communities-and-local-government/series/fire-statistics-great-britain"&gt;Fire statistics Great Britain&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;This document summarises the views expressed by respondents and it explains the decisions taken in light of the responses.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56455</id>
+    <published>2012-12-13T00:00:00+00:00</published>
+    <updated>2012-12-13T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/national-travel-survey-2011"/>
+    <title>National Travel Survey: 2011</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This statistical release presents information on personal travel in Great Britain during 2011. It contains the latest results and trends on how and why people travel with breakdowns by age, gender and income. It also contains trends in driving licence holding; school travel; and concessionary travel. &lt;/p&gt;
+
+&lt;h2 id="key-points"&gt;Key points&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;In 2011, residents of Great Britain made an average of 958 trips per person and travelled 6,826 miles. The average trip length was 7.1 miles.&lt;/li&gt;
+  &lt;li&gt;Between 1995/97 and 2011, overall trips rates fell by 12%. Trips by private modes of transport fell by 13% while public transport modes increased by 3%. Walking trips saw the largest decrease.  &lt;/li&gt;
+  &lt;li&gt;By purpose, most of the decline in overall trips rates between 1995/97 and 2011 can be accounted for by a fall in shopping and visiting friends. &lt;/li&gt;
+  &lt;li&gt;Trips by car (as a driver or passenger) accounted for 64% of all trips made and 79% of distance travelled in 2011. &lt;/li&gt;
+  &lt;li&gt;On average, females make more trips than males, but males travel much further each year.&lt;/li&gt;
+  &lt;li&gt;In 2011, 79% of males and 65% of females had a full driving licence.&lt;/li&gt;
+  &lt;li&gt;Since 1995/97, the average number of car driver trips by men has fallen by 18% and average distance travelled fell by 16%, while car driver trips and distance travelled by women increased by 11% and 23% respectively. Men still drive nearly twice as many miles per year than women.&lt;/li&gt;
+  &lt;li&gt;Concessionary travel pass take-up in 2011 was 79% of those eligible (82% of females and 76% of males).&lt;/li&gt;
+&lt;/ul&gt;&lt;h2 id="technical-information"&gt;Technical information&lt;/h2&gt;
+
+&lt;p&gt;Further information on the National Travel Survey, including standard error estimates for 2009, survey materials (questionnaire, travel diaries and fuel card), the UKSA assessment &lt;a href="https://www.gov.uk/technical-guidance-for-transport-stats#national-travel-survey-statistics"&gt;can be found here&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id="contact-us"&gt;Contact us&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="mailto:national.travelsurvey@dft.gsi.gov.uk"&gt;national.travelsurvey@dft.gsi.gov.uk&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Phone: 020 7944 3097&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/56362</id>
     <published>2012-12-13T00:00:00+00:00</published>
     <updated>2012-12-13T00:00:00+00:00</updated>
@@ -277,46 +333,6 @@
   &lt;li&gt;&lt;a href="https://www.gov.uk/government/statistical-data-sets/tsgb10"&gt;TSGB10 - Olympics&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;h2 id="technical-information"&gt;Technical information&lt;/h2&gt;
 &lt;p&gt;Further information on TSGB statistics tables, including the pre-release access list and related technical documentation can be found in each of the &lt;a href="https://www.gov.uk/government/organisations/department-for-transport/series/transport-statistics-great-britain#statistical-data-sets"&gt;TSGB chapters&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56455</id>
-    <published>2012-12-13T00:00:00+00:00</published>
-    <updated>2012-12-13T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/national-travel-survey-2011"/>
-    <title>National Travel Survey: 2011</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This statistical release presents information on personal travel in Great Britain during 2011. It contains the latest results and trends on how and why people travel with breakdowns by age, gender and income. It also contains trends in driving licence holding; school travel; and concessionary travel. &lt;/p&gt;
-
-&lt;h2 id="key-points"&gt;Key points&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;In 2011, residents of Great Britain made an average of 958 trips per person and travelled 6,826 miles. The average trip length was 7.1 miles.&lt;/li&gt;
-  &lt;li&gt;Between 1995/97 and 2011, overall trips rates fell by 12%. Trips by private modes of transport fell by 13% while public transport modes increased by 3%. Walking trips saw the largest decrease.  &lt;/li&gt;
-  &lt;li&gt;By purpose, most of the decline in overall trips rates between 1995/97 and 2011 can be accounted for by a fall in shopping and visiting friends. &lt;/li&gt;
-  &lt;li&gt;Trips by car (as a driver or passenger) accounted for 64% of all trips made and 79% of distance travelled in 2011. &lt;/li&gt;
-  &lt;li&gt;On average, females make more trips than males, but males travel much further each year.&lt;/li&gt;
-  &lt;li&gt;In 2011, 79% of males and 65% of females had a full driving licence.&lt;/li&gt;
-  &lt;li&gt;Since 1995/97, the average number of car driver trips by men has fallen by 18% and average distance travelled fell by 16%, while car driver trips and distance travelled by women increased by 11% and 23% respectively. Men still drive nearly twice as many miles per year than women.&lt;/li&gt;
-  &lt;li&gt;Concessionary travel pass take-up in 2011 was 79% of those eligible (82% of females and 76% of males).&lt;/li&gt;
-&lt;/ul&gt;&lt;h2 id="technical-information"&gt;Technical information&lt;/h2&gt;
-
-&lt;p&gt;Further information on the National Travel Survey, including standard error estimates for 2009, survey materials (questionnaire, travel diaries and fuel card), the UKSA assessment &lt;a href="https://www.gov.uk/technical-guidance-for-transport-stats#national-travel-survey-statistics"&gt;can be found here&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id="contact-us"&gt;Contact us&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="mailto:national.travelsurvey@dft.gsi.gov.uk"&gt;national.travelsurvey@dft.gsi.gov.uk&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Phone: 020 7944 3097&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56822</id>
-    <published>2012-12-13T00:00:00+00:00</published>
-    <updated>2012-12-13T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/fire-statistics-user-survey-2012-summary-of-responses"/>
-    <title>Fire statistics user survey 2012: summary of responses</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;In summer 2012, the Department for Communities and Local Government issued a survey inviting views on its publication &lt;a href="https://www.gov.uk/government/organisations/department-for-communities-and-local-government/series/fire-statistics-great-britain"&gt;Fire statistics Great Britain&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;This document summarises the views expressed by respondents and it explains the decisions taken in light of the responses.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/55826</id>
@@ -435,129 +451,5 @@
 &lt;li&gt;&lt;a href="mailto:vehicles.stats@dft.gsi.gov.uk"&gt;vehicles.stats@dft.gsi.gov.uk&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Phone: 020 7944 3077&lt;/li&gt;
 &lt;/ul&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/16746</id>
-    <published>2012-12-13T00:00:00+00:00</published>
-    <updated>2012-12-13T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/port-freight-statistics-quarter-3-2012"/>
-    <title>Port freight statistics: quarter 3 2012</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This publication presents provisional summary statistics on freight handled by major UK ports, updated quarterly. Provisional annual statistics are updated in June and detailed final annual statistics are published in September. &lt;/p&gt;
-
-&lt;h2 id="key-points"&gt;Key points&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Total port traffic (tonnage) in the year ending quarter 3 2012 (497 million tonnes) was down 2% on the year ending quarter 3 2011 (509 million tonnes). &lt;/li&gt;
-  &lt;li&gt;The number of units of all types handled in the year ending quarter 3 2012  (20.8 million units) was down 3% compared with the year ending quarter 3 2011 (21.4 million units).&lt;/li&gt;
-  &lt;li&gt;Tonnage in quarter 3 of 2012 (124 million tonnes) was down 3% compared with quarter 3 2011 (127 million tonnes).&lt;/li&gt;
-  &lt;li&gt;The number of units of all types handled in quarter 3 2012 (5.98 million units) was down 4% compared with quarter 3 2011 (6.21 million units). &lt;/li&gt;
-&lt;/ul&gt;&lt;h2 id="technical-information"&gt;Technical information&lt;/h2&gt;
-
-&lt;p&gt;Information on port freight statistics, including the pre-release access list, and related technical documentation &lt;a href="https://www.gov.uk/technical-guidance-for-transport-stats#Port-statistics"&gt;can be found here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id="contact-us"&gt;Contact us&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="mailto:maritime.stats@dft.gsi.gov.uk"&gt;maritime.stats@dft.gsi.gov.uk&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Phone: 020 7944 4131&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/17786</id>
-    <published>2012-12-12T19:47:18+00:00</published>
-    <updated>2012-12-12T19:47:18+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/statistical-data-sets/repi-transport"/>
-    <title>REPI Transport</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="transport"&gt;Transport&lt;/h2&gt;
-
-&lt;h3 id="j1---travel-to-work"&gt;J1 - Travel to Work&lt;/h3&gt;
-
-&lt;section class="attachment embedded" id="attachment_28685"&gt;&lt;div class="attachment-thumb"&gt;
-    &lt;a href="/government/uploads/system/uploads/attachment_data/file/16487/J1_REPI.xls" aria-describedby="attachment-28685-accessibility-help" class="thumbnail"&gt;
-      &lt;img alt="" src="https://assets.digital.cabinet-office.gov.uk/government/assets/pub-cover-f3684e2880956dff7bb138bfb0c2bebf.png"&gt;&lt;/a&gt;  &lt;/div&gt;
-  &lt;div class="attachment-details"&gt;
-    &lt;h3 class="title"&gt;&lt;a href="/government/uploads/system/uploads/attachment_data/file/16487/J1_REPI.xls" aria-describedby="attachment-28685-accessibility-help"&gt;Table J(1) - Main mode of transport to work by region of workplace&lt;/a&gt;&lt;/h3&gt;
-    &lt;p class="metadata"&gt;
-      &lt;span class="type"&gt;MS Excel Spreadsheet&lt;/span&gt;,
-      &lt;span class="file-size"&gt;26 KB&lt;/span&gt;
-    &lt;/p&gt;
-      &lt;div class="accessibility-warning js-toggle-accessibility-warning" id="attachment-28685-accessibility-help"&gt;
-        &lt;h3&gt;This file may not be accessible.
-          &lt;span class="toggler"&gt;Request a different format.&lt;/span&gt;
-        &lt;/h3&gt;
-        &lt;p class="help-block"&gt;
-          To request this document in an alternative format such as braille, audio
-          or a different file type please email
-          &lt;a href="mailto:govuk-feedback@digital.cabinet-office.gov.uk?body=%0A%0ADetails%20of%20document%20required%3A%0A%0ATitle%3A%20Table%20J%281%29%20-%20Main%20mode%20of%20transport%20to%20work%20by%20region%20of%20workplace%0AISBN%3A%20%0AUnique%20reference%3A%20%0ACommand%20paper%20number%3A%20%0A%20%20%20%20%20%20&amp;amp;subject=Request%20for%20%27Table%20J%281%29%20-%20Main%20mode%20of%20transport%20to%20work%20by%20region%20of%20workplace%27%20in%20an%20alternative%20format"&gt;govuk-feedback@digital.cabinet-office.gov.uk&lt;/a&gt;
-          quoting your address, telephone number along with the title of the
-          publication ("Table J(1) - Main mode of transport to work by region of workplace").
-        &lt;/p&gt;
-      &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/section&gt;&lt;p&gt;Table J(1) - Main mode of transport to work by region of workplace (XLS, 26 Kb)  &lt;/p&gt;
-
-&lt;p&gt;Last Updated: May 2011&lt;/p&gt;
-
-&lt;p&gt;Source: Labour Force Survey, Office for National Statistics&lt;/p&gt;
-
-&lt;h3 id="j2---average-traffic-speed"&gt;J2 - Average Traffic Speed&lt;/h3&gt;
-
-&lt;section class="attachment embedded" id="attachment_28686"&gt;&lt;div class="attachment-thumb"&gt;
-    &lt;a href="/government/uploads/system/uploads/attachment_data/file/16488/J2_REPI.xls" aria-describedby="attachment-28686-accessibility-help" class="thumbnail"&gt;
-      &lt;img alt="" src="https://assets.digital.cabinet-office.gov.uk/government/assets/pub-cover-f3684e2880956dff7bb138bfb0c2bebf.png"&gt;&lt;/a&gt;  &lt;/div&gt;
-  &lt;div class="attachment-details"&gt;
-    &lt;h3 class="title"&gt;&lt;a href="/government/uploads/system/uploads/attachment_data/file/16488/J2_REPI.xls" aria-describedby="attachment-28686-accessibility-help"&gt;Table J(2) - Average traffic speed on major English roads&lt;/a&gt;&lt;/h3&gt;
-    &lt;p class="metadata"&gt;
-      &lt;span class="type"&gt;MS Excel Spreadsheet&lt;/span&gt;,
-      &lt;span class="file-size"&gt;37 KB&lt;/span&gt;
-    &lt;/p&gt;
-      &lt;div class="accessibility-warning js-toggle-accessibility-warning" id="attachment-28686-accessibility-help"&gt;
-        &lt;h3&gt;This file may not be accessible.
-          &lt;span class="toggler"&gt;Request a different format.&lt;/span&gt;
-        &lt;/h3&gt;
-        &lt;p class="help-block"&gt;
-          To request this document in an alternative format such as braille, audio
-          or a different file type please email
-          &lt;a href="mailto:govuk-feedback@digital.cabinet-office.gov.uk?body=%0A%0ADetails%20of%20document%20required%3A%0A%0ATitle%3A%20Table%20J%282%29%20-%20Average%20traffic%20speed%20on%20major%20English%20roads%0AISBN%3A%20%0AUnique%20reference%3A%20%0ACommand%20paper%20number%3A%20%0A%20%20%20%20%20%20&amp;amp;subject=Request%20for%20%27Table%20J%282%29%20-%20Average%20traffic%20speed%20on%20major%20English%20roads%27%20in%20an%20alternative%20format"&gt;govuk-feedback@digital.cabinet-office.gov.uk&lt;/a&gt;
-          quoting your address, telephone number along with the title of the
-          publication ("Table J(2) - Average traffic speed on major English roads").
-        &lt;/p&gt;
-      &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/section&gt;&lt;p&gt;Table J(2) - Average traffic speed on major English roads (XLS, 37 Kb) &lt;/p&gt;
-
-&lt;p&gt;Last Updated: May 2011&lt;/p&gt;
-
-&lt;p&gt;Source: Transport Statistics, Department for Transport&lt;/p&gt;
-
-&lt;h3 id="j3---motor-vehicle-flows"&gt;J3 - Motor Vehicle Flows&lt;/h3&gt;
-
-&lt;section class="attachment embedded" id="attachment_28687"&gt;&lt;div class="attachment-thumb"&gt;
-    &lt;a href="/government/uploads/system/uploads/attachment_data/file/16489/Table_J3_-_Average_Daily_Motor_Vehicle_Flows_0712.xls" aria-describedby="attachment-28687-accessibility-help" class="thumbnail"&gt;
-      &lt;img alt="" src="https://assets.digital.cabinet-office.gov.uk/government/assets/pub-cover-f3684e2880956dff7bb138bfb0c2bebf.png"&gt;&lt;/a&gt;  &lt;/div&gt;
-  &lt;div class="attachment-details"&gt;
-    &lt;h3 class="title"&gt;&lt;a href="/government/uploads/system/uploads/attachment_data/file/16489/Table_J3_-_Average_Daily_Motor_Vehicle_Flows_0712.xls" aria-describedby="attachment-28687-accessibility-help"&gt;Table J(3) - Average daily motor vehicle flows, all roads&lt;/a&gt;&lt;/h3&gt;
-    &lt;p class="metadata"&gt;
-      &lt;span class="type"&gt;MS Excel Spreadsheet&lt;/span&gt;,
-      &lt;span class="file-size"&gt;25 KB&lt;/span&gt;
-    &lt;/p&gt;
-      &lt;div class="accessibility-warning js-toggle-accessibility-warning" id="attachment-28687-accessibility-help"&gt;
-        &lt;h3&gt;This file may not be accessible.
-          &lt;span class="toggler"&gt;Request a different format.&lt;/span&gt;
-        &lt;/h3&gt;
-        &lt;p class="help-block"&gt;
-          To request this document in an alternative format such as braille, audio
-          or a different file type please email
-          &lt;a href="mailto:govuk-feedback@digital.cabinet-office.gov.uk?body=%0A%0ADetails%20of%20document%20required%3A%0A%0ATitle%3A%20Table%20J%283%29%20-%20Average%20daily%20motor%20vehicle%20flows%2C%20all%20roads%0AISBN%3A%20%0AUnique%20reference%3A%20%0ACommand%20paper%20number%3A%20%0A%20%20%20%20%20%20&amp;amp;subject=Request%20for%20%27Table%20J%283%29%20-%20Average%20daily%20motor%20vehicle%20flows%2C%20all%20roads%27%20in%20an%20alternative%20format"&gt;govuk-feedback@digital.cabinet-office.gov.uk&lt;/a&gt;
-          quoting your address, telephone number along with the title of the
-          publication ("Table J(3) - Average daily motor vehicle flows, all roads").
-        &lt;/p&gt;
-      &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/section&gt;&lt;p&gt;Table J(3) - Average daily motor vehicle flows, all roads (XLS, 25 Kb) &lt;/p&gt;
-
-&lt;p&gt;Last Updated: July 2012&lt;/p&gt;
-
-&lt;p&gt;Source: Transport Statistics, Department for Transport&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
 </feed>

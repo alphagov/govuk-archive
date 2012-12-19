@@ -8,7 +8,39 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-12-17T00:00:00+00:00</updated>
+  <updated>2012-12-18T00:00:00+00:00</updated>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/57071</id>
+    <published>2012-12-18T00:00:00+00:00</published>
+    <updated>2012-12-18T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/number-of-enterprise-finance-guarantee-efg-scheme-loans-drawn"/>
+    <title>Number and value of Enterprise Finance Guarantee (EFG) scheme loans drawn.</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Number and value of EFG loans drawn, by bank.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56765</id>
+    <published>2012-12-17T00:00:00+00:00</published>
+    <updated>2012-12-17T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/construction-output-price-indices-december-2012"/>
+    <title>Construction output price indices - December 2012</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;One of three quarterly BIS construction price and cost indices (PCIs), providing output price indices (OPIs) for construction sectors.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56761</id>
+    <published>2012-12-17T00:00:00+00:00</published>
+    <updated>2012-12-17T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/quarterly-price-and-cost-indices-commentary-3q-2012"/>
+    <title>Quarterly price and cost indices: commentary 3Q 2012</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Explains the data published in the three quarterly BIS construction price and cost indices (PCIs): tender price indices (12/P147C), construction resource cost indices (12/P148C), and output price indices (URN 12/P149C).&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56763</id>
+    <published>2012-12-17T00:00:00+00:00</published>
+    <updated>2012-12-17T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/construction-tender-prices-indices-december-2012"/>
+    <title>Construction tender prices indices December 2012</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;A small number of the indices in this release have been revised due to inconsistencies between the indices published on the BIS website and those published on BCIS Online.  Mostly this affects older indices with a few more recent exceptions. BIS apologises for any inconvenience this may have caused.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/57009</id>
     <published>2012-12-17T00:00:00+00:00</published>
@@ -32,30 +64,6 @@
 &lt;h2 id="publication-note"&gt;Publication note&lt;/h2&gt;
 
 &lt;p&gt;This release was published around 40 minutes after 9.30am, in breach of the Code of Practice for Official Statistics. We are currently investigating why this happened, and a report will be submitted to the National Statistician’s Office and published on the UK Statistics Authority’s website in due course.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56761</id>
-    <published>2012-12-17T00:00:00+00:00</published>
-    <updated>2012-12-17T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/quarterly-price-and-cost-indices-commentary-3q-2012"/>
-    <title>Quarterly price and cost indices: commentary 3Q 2012</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Explains the data published in the three quarterly BIS construction price and cost indices (PCIs): tender price indices (12/P147C), construction resource cost indices (12/P148C), and output price indices (URN 12/P149C).&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56763</id>
-    <published>2012-12-17T00:00:00+00:00</published>
-    <updated>2012-12-17T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/construction-tender-prices-indices-december-2012"/>
-    <title>Construction tender prices indices December 2012</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;A small number of the indices in this release have been revised due to inconsistencies between the indices published on the BIS website and those published on BCIS Online.  Mostly this affects older indices with a few more recent exceptions. BIS apologises for any inconvenience this may have caused.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56765</id>
-    <published>2012-12-17T00:00:00+00:00</published>
-    <updated>2012-12-17T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/construction-output-price-indices-december-2012"/>
-    <title>Construction output price indices - December 2012</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;One of three quarterly BIS construction price and cost indices (PCIs), providing output price indices (OPIs) for construction sectors.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/56769</id>
@@ -1663,25 +1671,6 @@
       &lt;/div&gt;
   &lt;/div&gt;
 &lt;/section&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/54857</id>
-    <published>2012-12-12T00:00:00+00:00</published>
-    <updated>2012-12-12T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/code-of-practice-for-statistics-statement-of-compliance"/>
-    <title>Code of practice for statistics: statement of compliance</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Official National Statistics published by the Department for Business, Innovation and Skills must follow the UK Statistics Authority’s &lt;a rel="external" href="http://www.statisticsauthority.gov.uk/assessment/code-of-practice/index.html"&gt;Code of Practice for Statistics&lt;/a&gt;. &lt;/p&gt;
-
-&lt;p&gt;&lt;abbr title="The Department for Business, Innovation and Skills"&gt;BIS&lt;/abbr&gt; has prepared a number of documents related to compliance with the Code:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;a statement of compliance with the Code&lt;/li&gt;
-  &lt;li&gt;additional statements related to the Code&lt;/li&gt;
-  &lt;li&gt;a separate compliance statement on how it will meet the requirements of the Pre-release Access Order to Official Statistics 2008&lt;/li&gt;
-  &lt;li&gt;a list of recipients of pre-release access to National Statistics produced by &lt;abbr title="The Department for Business, Innovation and Skills"&gt;BIS&lt;/abbr&gt;
-&lt;/li&gt;
-  &lt;li&gt;a statement of administrative sources&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/54863</id>
