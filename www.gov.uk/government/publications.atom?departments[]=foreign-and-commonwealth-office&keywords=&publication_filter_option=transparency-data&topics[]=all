@@ -8,7 +8,15 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-12-17T00:00:00+00:00</updated>
+  <updated>2012-12-19T00:00:00+00:00</updated>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/59916</id>
+    <published>2012-12-19T00:00:00+00:00</published>
+    <updated>2012-12-19T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/permanent-secretary-individual-performance-objectives-2012-to-2013"/>
+    <title>Permanent Secretary individual performance objectives 2012 to 2013</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Defines the role and objectives of Martin Donnelly, the Permanent Secretary, for the 2012 to 2013 period.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/56833</id>
     <published>2012-12-17T00:00:00+00:00</published>
@@ -16,6 +24,14 @@
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/tax-arrangements-for-public-sector-appointees-in-bis-as-of-31-january-2012"/>
     <title>Tax arrangements for public sector appointees in BIS as of 31 January 2012 </title>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Coalition Government has committed to making clear to the public how it uses taxpayers’ money. All government departments have been asked to publish a wide range of information about how it meets and measures its objectives and the use of resources.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56567</id>
+    <published>2012-12-14T00:00:00+00:00</published>
+    <updated>2012-12-14T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/improvement-notice-issued-to-barnsley-metropolitan-borough-council"/>
+    <title>Improvement notice issued to Barnsley Metropolitan Borough Council</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Improvement notice issued to Barnsley Metropolitan Borough Council by the Department for Education.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/56596</id>
@@ -26,12 +42,12 @@
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Attorney General’s Office (AGO) results for the civil service people survey 2012 &lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56567</id>
-    <published>2012-12-14T00:00:00+00:00</published>
-    <updated>2012-12-14T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/improvement-notice-issued-to-barnsley-metropolitan-borough-council"/>
-    <title>Improvement notice issued to Barnsley Metropolitan Borough Council</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Improvement notice issued to Barnsley Metropolitan Borough Council by the Department for Education.&lt;/p&gt;&lt;/div&gt;</content>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/57091</id>
+    <published>2012-12-13T00:00:00+00:00</published>
+    <updated>2012-12-13T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/dclg-staff-data-and-organogram-december-2012"/>
+    <title>DCLG staff data and organogram: December 2012</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;These datasets and &lt;a rel="external" href="http://reference.data.gov.uk/gov-structure/organogram/?dept=dclg"&gt;organogram&lt;/a&gt; shows posts and salary information for staff at DCLG. They’re shared here as part of the effort to make government operations and spending more transparent to the public.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/56321</id>
@@ -135,14 +151,6 @@
 &lt;/ul&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/57091</id>
-    <published>2012-12-13T00:00:00+00:00</published>
-    <updated>2012-12-13T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/dclg-staff-data-and-organogram-december-2012"/>
-    <title>DCLG staff data and organogram: December 2012</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;These datasets and &lt;a rel="external" href="http://reference.data.gov.uk/gov-structure/organogram/?dept=dclg"&gt;organogram&lt;/a&gt; shows posts and salary information for staff at DCLG. They’re shared here as part of the effort to make government operations and spending more transparent to the public.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/56454</id>
     <published>2012-12-13T00:00:00+00:00</published>
     <updated>2012-12-13T00:00:00+00:00</updated>
@@ -236,6 +244,14 @@
 &lt;/ul&gt;&lt;p&gt;The data is published in CSV and Excel formats in payment date sequence.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/50164</id>
+    <published>2012-12-11T00:00:00+00:00</published>
+    <updated>2012-12-11T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/non-consolidated-performance-awards--2"/>
+    <title>Non-consolidated performance awards</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;In line with other government departments the &lt;abbr title="Ministry of Defence"&gt;MOD&lt;/abbr&gt; is publishing details of the non-consolidated performance awards paid to Senior Civil Service staff, Senior Fixed term Appointees and staff below the &lt;abbr title="Senior Civil Service"&gt;SCS&lt;/abbr&gt;.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/50171</id>
     <published>2012-12-11T00:00:00+00:00</published>
     <updated>2012-12-11T00:00:00+00:00</updated>
@@ -244,12 +260,12 @@
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;In addition to publishing the hospitality received of our most senior Civil Servants, the Ministry of Defence will now be publishing the hospitality received of the most senior Officers of the Armed Forces on a quarterly basis.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/50174</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/50180</id>
     <published>2012-12-11T00:00:00+00:00</published>
     <updated>2012-12-11T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/senior-officers-of-the-armed-forces-business-expenses"/>
-    <title>Senior Officers of the Armed Forces: business expenses</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;In addition to publishing the business expenses incurred by the most senior Civil Servants on official duty, the Ministry of Defence will now be publishing the business expenses of the most senior Officers of the Armed Forces on a quarterly basis.&lt;/p&gt;&lt;/div&gt;</content>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/senior-staff-business-expenses"/>
+    <title>Senior staff: business expenses</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The &lt;abbr title="Ministry of Defence"&gt;MOD&lt;/abbr&gt; publishes the expenses of its most senior Civil Servants on a quarterly basis.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/50179</id>
@@ -260,20 +276,12 @@
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Ministry of Defence publishes the hospitality received of its most senior Civil Servants on a quarterly basis.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/50164</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/50174</id>
     <published>2012-12-11T00:00:00+00:00</published>
     <updated>2012-12-11T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/non-consolidated-performance-awards--2"/>
-    <title>Non-consolidated performance awards</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;In line with other government departments the &lt;abbr title="Ministry of Defence"&gt;MOD&lt;/abbr&gt; is publishing details of the non-consolidated performance awards paid to Senior Civil Service staff, Senior Fixed term Appointees and staff below the &lt;abbr title="Senior Civil Service"&gt;SCS&lt;/abbr&gt;.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/50180</id>
-    <published>2012-12-11T00:00:00+00:00</published>
-    <updated>2012-12-11T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/senior-staff-business-expenses"/>
-    <title>Senior staff: business expenses</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The &lt;abbr title="Ministry of Defence"&gt;MOD&lt;/abbr&gt; publishes the expenses of its most senior Civil Servants on a quarterly basis.&lt;/p&gt;&lt;/div&gt;</content>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/senior-officers-of-the-armed-forces-business-expenses"/>
+    <title>Senior Officers of the Armed Forces: business expenses</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;In addition to publishing the business expenses incurred by the most senior Civil Servants on official duty, the Ministry of Defence will now be publishing the business expenses of the most senior Officers of the Armed Forces on a quarterly basis.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/17630</id>
@@ -298,16 +306,6 @@
 &lt;p&gt;For costs, payroll paybill information is broken down into its component parts ie salaries, allowances, employers pensions contributions etc. For non-payroll costs, these are split between costs for consultancy and those of other non-payroll workers.&lt;/p&gt;
 
 &lt;p&gt;Covers October of the financial year 2012 to 2013.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/28512</id>
-    <published>2012-12-07T00:00:00+00:00</published>
-    <updated>2012-12-07T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/senior-dclg-employee-salaries-june-2012"/>
-    <title>Senior DCLG employee salaries: June 2012</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Since 24 January 2012, the Department for Communities and Local Government has published salary details for consenting senior staff earning more than £58,200. &lt;/p&gt;
-
-&lt;p&gt;This is in line with the &lt;a href="https://www.gov.uk/government/publications/local-authority-data-transparency-code"&gt;Local authority data transparency code&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/28507</id>
@@ -342,6 +340,16 @@
 &lt;p&gt;Given the wide range of organisations covered, caution should be exercised when drawing inferences from the figures and care should be taken when making comparisons between organisations.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/28512</id>
+    <published>2012-12-07T00:00:00+00:00</published>
+    <updated>2012-12-07T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/senior-dclg-employee-salaries-june-2012"/>
+    <title>Senior DCLG employee salaries: June 2012</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Since 24 January 2012, the Department for Communities and Local Government has published salary details for consenting senior staff earning more than £58,200. &lt;/p&gt;
+
+&lt;p&gt;This is in line with the &lt;a href="https://www.gov.uk/government/publications/local-authority-data-transparency-code"&gt;Local authority data transparency code&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/28518</id>
     <published>2012-12-07T00:00:00+00:00</published>
     <updated>2012-12-07T00:00:00+00:00</updated>
@@ -360,13 +368,5 @@
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;These datasets show junior and senior posts and salary information for staff at the Planning Inspectorate.&lt;/p&gt;
 
 &lt;p&gt;The data is also available as an &lt;a rel="external" href="http://reference.data.gov.uk/gov-structure/organogram/?pubbod=the-planning-inspectorate"&gt;organogram&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/17782</id>
-    <published>2012-12-05T00:00:00+00:00</published>
-    <updated>2012-12-05T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/planning-inspectorate-spending-over-500-october-2012"/>
-    <title>Planning Inspectorate spending over £500: October 2012</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;These documents show spending by the Planning Inspectorate over £500 for October 2012.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
 </feed>

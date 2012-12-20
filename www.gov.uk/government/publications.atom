@@ -8,276 +8,312 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-12-18T15:17:50+00:00</updated>
+  <updated>2012-12-19T14:15:05+00:00</updated>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/17814</id>
-    <published>2012-12-18T15:17:50+00:00</published>
-    <updated>2012-12-18T15:17:50+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/consultations/statutory-consultee-performance-and-award-of-costs"/>
-    <title>Statutory consultee performance and award of costs</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This consultation proposes to amend guidance in &lt;a href="https://www.gov.uk/government/publications/costs-awards-in-appeals-and-other-planning-proceedings-circular-03-2009"&gt;Circular 03/09: Costs Awards in Appeals and Other Planning Proceedings&lt;/a&gt; in relation to statutory consultees and their advice at appeal.&lt;/p&gt;
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/57019</id>
+    <published>2012-12-19T14:15:05+00:00</published>
+    <updated>2012-12-19T14:15:05+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/statistical-data-sets/housing-stock-summary"/>
+    <title>Housing stock summary</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The English housing survey tables supplement information provided in the reports. Tables may also contain data from the former survey of English housing and the English house condition survey, providing information on change over time.&lt;/p&gt;
 
-&lt;p&gt;The government also announced clarifications to the guidance in relation to local councils and their development plan, and in relation to ensuring evidence submitted at appeal is manifestly accurate and truthful. The government is also requiring the 5 main statutory bodies to report on, and be accountable for their performance on dealing with planning applications as part of their individual Improvement Plans.&lt;/p&gt;
+&lt;p&gt;In some instances cells in the tables are based on a small number of cases and should be approached with caution. It may be necessary to add cells across categories before certain data can be used in a meaningful way. Full details of the way in which the survey was conducted, including details of the sample structure, and survey error and its calculation for specific sub-groups, are provided in &lt;a href="https://www.gov.uk/government/publications/english-housing-survey-technical-advice"&gt;English housing survey: technical advice&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;A summary of responses was published on 18 December 2012. The report above summarises the key issues raised and provides a revised addendum to circular 03/09.&lt;/p&gt;&lt;/div&gt;</content>
+&lt;p&gt;Some tables, where indicated, are based on data from other surveys such as the Office for National Statistics labour force survey. Users should note that there may be slight differences in the household estimates produced using different data sources and methodologies.&lt;/p&gt;
+
+&lt;h2 id="household-web-tables"&gt;Household web tables&lt;/h2&gt;
+
+&lt;section class="attachment embedded" id="attachment_53595"&gt;&lt;div class="attachment-thumb"&gt;
+    &lt;a href="/government/uploads/system/uploads/attachment_data/file/36998/2173775.xls" aria-describedby="attachment-53595-accessibility-help" class="thumbnail"&gt;
+      &lt;img alt="" src="https://assets.digital.cabinet-office.gov.uk/government/assets/pub-cover-f3684e2880956dff7bb138bfb0c2bebf.png"&gt;&lt;/a&gt;  &lt;/div&gt;
+  &lt;div class="attachment-details"&gt;
+    &lt;h3 class="title"&gt;&lt;a href="/government/uploads/system/uploads/attachment_data/file/36998/2173775.xls" aria-describedby="attachment-53595-accessibility-help"&gt;English housing survey housing stock summary statistics tables, 2010&lt;/a&gt;&lt;/h3&gt;
+    &lt;p class="metadata"&gt;
+      &lt;span class="type"&gt;MS Excel Spreadsheet&lt;/span&gt;,
+      &lt;span class="file-size"&gt;362 KB&lt;/span&gt;
+    &lt;/p&gt;
+      &lt;div class="accessibility-warning js-toggle-accessibility-warning" id="attachment-53595-accessibility-help"&gt;
+        &lt;h3&gt;This file may not be accessible.
+          &lt;span class="toggler"&gt;Request a different format.&lt;/span&gt;
+        &lt;/h3&gt;
+        &lt;p class="help-block"&gt;
+          To request this document in an alternative format such as braille, audio
+          or a different file type please email
+          &lt;a href="mailto:alternativeformats@communities.gsi.gov.uk?body=%0A%0ADetails%20of%20document%20required%3A%0A%0ATitle%3A%20English%20housing%20survey%20housing%20stock%20summary%20statistics%20tables%2C%202010%0AISBN%3A%20%0AUnique%20reference%3A%20%0ACommand%20paper%20number%3A%20%0A%20%20%20%20%20%20&amp;amp;subject=Request%20for%20%27English%20housing%20survey%20housing%20stock%20summary%20statistics%20tables%2C%202010%27%20in%20an%20alternative%20format"&gt;alternativeformats@communities.gsi.gov.uk&lt;/a&gt;
+          quoting your address, telephone number along with the title of the
+          publication ("English housing survey housing stock summary statistics tables, 2010").
+        &lt;/p&gt;
+      &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/section&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.gov.uk/government/statistical-data-sets/tenure-trends-and-cross-tenure-analysis"&gt;Tenure trends and cross tenure analysis&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://www.gov.uk/government/statistical-data-sets/owner-occupiers-recent-first-time-buyers-and-second-homes"&gt;Owner occupiers, recent first time buyers and second homes&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://www.gov.uk/government/statistical-data-sets/social-and-private-renters"&gt;Social and private renters&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://www.gov.uk/government/statistical-data-sets/new-households-and-recent-movers"&gt;New households and recent movers&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://www.gov.uk/government/statistical-data-sets/attitudes-and-satisfaction"&gt;Attitudes and satisfaction&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;h2 id="errata"&gt;Errata&lt;/h2&gt;
+
+&lt;p&gt;An errata was published in July 2012. This note presents revisions made to the tables.&lt;/p&gt;
+
+&lt;section class="attachment embedded" id="attachment_53596"&gt;&lt;div class="attachment-thumb"&gt;
+    &lt;a href="/government/uploads/system/uploads/attachment_data/file/36999/2177989.pdf" aria-describedby="attachment-53596-accessibility-help" class="thumbnail"&gt;
+      &lt;img alt="" src="https://assets.digital.cabinet-office.gov.uk/government/uploads/system/uploads/attachment_data/file/36999/thumbnail_2177989.pdf.png"&gt;&lt;/a&gt;  &lt;/div&gt;
+  &lt;div class="attachment-details"&gt;
+    &lt;h3 class="title"&gt;&lt;a href="/government/uploads/system/uploads/attachment_data/file/36999/2177989.pdf" aria-describedby="attachment-53596-accessibility-help"&gt;English housing survey tables: errata&lt;/a&gt;&lt;/h3&gt;
+    &lt;p class="metadata"&gt;
+      &lt;span class="type"&gt;&lt;abbr title="Portable Document Format"&gt;PDF&lt;/abbr&gt;&lt;/span&gt;,
+      &lt;span class="file-size"&gt;34.6 KB&lt;/span&gt;,
+        &lt;span class="page-length"&gt;5 pages&lt;/span&gt;
+    &lt;/p&gt;
+      &lt;div class="accessibility-warning js-toggle-accessibility-warning" id="attachment-53596-accessibility-help"&gt;
+        &lt;h3&gt;This file may not be accessible.
+          &lt;span class="toggler"&gt;Request a different format.&lt;/span&gt;
+        &lt;/h3&gt;
+        &lt;p class="help-block"&gt;
+          To request this document in an alternative format such as braille, audio
+          or a different file type please email
+          &lt;a href="mailto:alternativeformats@communities.gsi.gov.uk?body=%0A%0ADetails%20of%20document%20required%3A%0A%0ATitle%3A%20English%20housing%20survey%20tables%3A%20errata%0AISBN%3A%20%0AUnique%20reference%3A%20%0ACommand%20paper%20number%3A%20%0A%20%20%20%20%20%20&amp;amp;subject=Request%20for%20%27English%20housing%20survey%20tables%3A%20errata%27%20in%20an%20alternative%20format"&gt;alternativeformats@communities.gsi.gov.uk&lt;/a&gt;
+          quoting your address, telephone number along with the title of the
+          publication ("English housing survey tables: errata").
+        &lt;/p&gt;
+      &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/section&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/57427</id>
-    <published>2012-12-18T15:14:52+00:00</published>
-    <updated>2012-12-18T15:14:52+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/consultations/building-regulations-access-statements-security-changing-places-toilets-and-regulation-7"/>
-    <title>Building regulations: access statements, security, changing places toilets and regulation 7</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This consultation paper sets out the detailed proposals on parts A, B, C, K, M and N, access statements, security, changing places toilet and regulation 7, and is section 1 of 4, relating to the 2012 building regulations consultation exercise.&lt;/p&gt;
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60037</id>
+    <published>2012-12-19T00:00:00+00:00</published>
+    <updated>2012-12-19T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/building-regulations-part-p-electrical-safety-in-dwellings"/>
+    <title>Building regulations Part P: electrical safety in dwellings</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This final impact assessment sets out the proposed changes to Part P of the building regulations and provides an analysis of the associated costs and benefits.&lt;/p&gt;
 
-&lt;p&gt;Section 1 provides an overview of the consultation package as a whole as well as proposals on a number of areas including:&lt;/p&gt;
+&lt;p&gt;The proposals aim to reduce the bureaucracy and cost burdens that Part P imposes on installers, building control bodies and consumers, without undermining the improvements to electrical safety, installer competence and the quality of electrical installation work arising from the introduction of Part P in 2005.&lt;/p&gt;
 
-&lt;ul&gt;
-&lt;li&gt;replacing the currently referenced standards in part A (structure) with the new British Standards based on Eurocodes&lt;/li&gt;
-  &lt;li&gt;aligning the existing guidance in Approved Document C (site preparation and resistance to contaminants and moisture) with the most up-to-date radon maps to ensure the safety provisions are targeted appropriately&lt;/li&gt;
-  &lt;li&gt;clarifying the guidance on access statements in Approved Document M (access to and use of buildings)&lt;/li&gt;
-  &lt;li&gt;rationalising the guidance supporting parts M, K and N (access, protection from falling, collision and impact and glazing respectively) to remove unnecessary costs on business&lt;/li&gt;
-  &lt;li&gt;making minor changes to the technical guidance in Approved Document B (fire safety) to resolve practical problems in the application of requirement B2 (internal fire spread (linings))&lt;/li&gt;
-  &lt;li&gt;setting out the intention to take forward the repeal of the fire protection provisions in the Local Acts&lt;/li&gt;
-  &lt;li&gt;setting out the non-regulatory approach proposed in relation to domestic security and changing places toilets&lt;/li&gt;
-&lt;/ul&gt;&lt;h3 id="draft-approved-documents"&gt;Draft Approved Documents&lt;/h3&gt;
-
-&lt;p&gt;Published alongside this section of the consultation is a draft version of a new Approved Document K (protection from falling, collision and impact). Not only does this reflect the proposed changes resulting from the rationalisation of parts K, M and N, it also seeks consultees’ views on the proposed new style of Approved Documents.&lt;/p&gt;
-
-&lt;p&gt;This new style has also been applied to a draft revised Approved Document regulation 7 which can be found in the main consultation document as annex I.&lt;/p&gt;
-
-&lt;h3 id="other-consultation-sections"&gt;Other consultation sections&lt;/h3&gt;
-
-&lt;p&gt;The other consultation sections cover the following:&lt;/p&gt;
+&lt;p&gt;This impact assessment updates the consultation impact assessment which was a supporting document for Section 3 of the 2012 &lt;a href="https://www.gov.uk/government/consultations/building-regulations-electrical-safety"&gt;Building Regulations consultation&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/59988</id>
+    <published>2012-12-19T00:00:00+00:00</published>
+    <updated>2012-12-19T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/despatch-ezine-issue-06-2012"/>
+    <title>Despatch ezine: issue 06/2012</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This issue has articles about:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.gov.uk/government/consultations/building-regulations-conservation-of-fuel-and-power"&gt;section 2: part L (conservation of fuel and power)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="https://www.gov.uk/government/consultations/building-regulations-electrical-safety"&gt;section 3: part P (electrical safety - dwellings)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="https://www.gov.uk/government/consultations/building-regulations-the-building-control-system"&gt;section 4: the building control system&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;improving motoring services&lt;/li&gt;
+  &lt;li&gt;a new online service being rolled out to approved driving instructors (&lt;abbr title="Approved driving instructor"&gt;ADIs&lt;/abbr&gt;)&lt;/li&gt;
+  &lt;li&gt;booking tests from mobile devices&lt;/li&gt;
+  &lt;li&gt;plans to improve &lt;abbr title="Approved driving instructor"&gt;ADI&lt;/abbr&gt; check tests&lt;/li&gt;
+  &lt;li&gt;better rehabilitation for drink drivers&lt;/li&gt;
+  &lt;li&gt;
+&lt;abbr title="Driving Standards Agency"&gt;DSA&lt;/abbr&gt; launching an &lt;abbr title="Approved driving instructor"&gt;ADI&lt;/abbr&gt; theory test DVD-ROM&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;There’s also a round-up of other news from &lt;abbr title="Driving Standards Agency"&gt;DSA&lt;/abbr&gt;.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/59990</id>
+    <published>2012-12-19T00:00:00+00:00</published>
+    <updated>2012-12-19T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/evaluating-access-statement-requirements-in-part-m-of-the-building-regulations-and-minor-technical-amendments-to-part-m-of-the-building-regulations"/>
+    <title>Evaluating access statement requirements in Part M of the building regulations and minor technical amendments to Part M of the building regulations</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Department for Communities and Local Government (DCLG) commissioned  EC Harris to  provide economic and analytical information to support evaluation work being carried out by the department on changes to the Building Regulations due to come into force in 2013. This report provides support to the evaluation work.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/59998</id>
+    <published>2012-12-19T00:00:00+00:00</published>
+    <updated>2012-12-19T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/changes-to-the-building-control-system-introduction-of-risk-based-service-plans-for-local-authorities-and-removal-of-the-warranty-link-rule"/>
+    <title>Changes to the building control system: introduction of risk-based service plans for local authorities and removal of the Warranty Link Rule</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This final impact assessment sets out the proposed changes to the building control system including introduction of risk-based service plans for local authorities and removal of the Warranty Link Rule. &lt;/p&gt;
+
+&lt;p&gt;This updates the consultation impact assessment version which was a supporting document for section 4 of the 2012 &lt;a href="https://www.gov.uk/government/consultations/building-regulations-the-building-control-system" title="Building regulations: the building control system"&gt;Building Regulations consultation&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60015</id>
+    <published>2012-12-19T00:00:00+00:00</published>
+    <updated>2012-12-19T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/one-in-one-out-third-statement-of-new-regulation"/>
+    <title>One-in, one-out: third statement of new regulation</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;A forward look of all regulations in scope of government’s ‘one-in, one-out’ regime that are scheduled to come into force between 1 January 2012 and 30 June 2012.&lt;/p&gt;
+
+&lt;p&gt;This is published every 6 months to give businesses an indication of when regulations affecting them will be coming into effect. It provides an overview of the net costs and benefits to business and civil society organisations, and forecasts a further reduction in new burdens on businesses by an estimated £4.17 million.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60016</id>
+    <published>2012-12-19T00:00:00+00:00</published>
+    <updated>2012-12-19T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/triennial-review-of-the-industrial-development-advisory-board-idab"/>
+    <title>Triennial review of the Industrial Development Advisory Board (IDAB)</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Cabinet Office requires Non-Departmental Public Bodies (NDPBs) to be reviewed every 3 years by their parent department.&lt;/p&gt;
+
+&lt;p&gt;This review looks at the function of the Industrial Development Advisory Board (IDAB), the appropriateness of the body’s delivery mechanisms and its governance arrangements. &lt;/p&gt;
+
+&lt;p&gt;It also describes the purpose of triennial reviews, the process adopted for this review and presents findings based on feedback from stakeholders. It draws on these findings to make recommendations about the future of IDAB.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60031</id>
+    <published>2012-12-19T00:00:00+00:00</published>
+    <updated>2012-12-19T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/strategy-for-uk-life-sciences-one-year-on--2"/>
+    <title>Strategy for UK Life Sciences – One Year On</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Update on progress implementing measures in the ‘Strategy for UK life sciences’ (URN 11/1429). &lt;/p&gt;
+
+&lt;p&gt;The strategy set out a long-term programme with a range of practical measures that the government will take to improve the environment for large and small health life science companies in the UK. It included providing support from discovery right through to the commercialisation of medicines, diagnostics and devices. &lt;/p&gt;
+
+&lt;p&gt;The one year on report describes substantial progress made this year in implementing these measures. It also announces the government’s intention to commit to sequencing 100,000 whole genomes over the next 3-5 years. &lt;/p&gt;
+
+&lt;p&gt;This is part of continuing government efforts to develop the UK’s position as a global life sciences hub.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60035</id>
+    <published>2012-12-19T00:00:00+00:00</published>
+    <updated>2012-12-19T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/consolidation-and-simplification-of-parts-m-k-and-n-of-the-building-regulations"/>
+    <title>Consolidation and simplification of Parts M, K and N of the building regulations   </title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This final impact assessment sets out proposed changes to Parts K (protection from collision falling and impact), Part M (access to and use of buildings) and Part N (glazing) of the building regulations and provides analysis of the associated costs and benefits.&lt;/p&gt;
+
+&lt;p&gt;The proposals are not intended to make changes to technical requirements but will simplify compliance and reduce confusion and complexity for industry.&lt;/p&gt;
+
+&lt;p&gt;This impact assessment updates the consultation impact assessment which was a supporting document for Section 1 of the 2012 &lt;a href="https://www.gov.uk/government/consultations/building-regulations-access-statements-security-changing-places-toilets-and-regulation-7"&gt;Building Regulations consultation&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/59982</id>
+    <published>2012-12-19T00:00:00+00:00</published>
+    <updated>2012-12-19T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/the-building-act-1984-building-amendment-regulations-2012-circular-02-2012"/>
+    <title>The Building Act 1984, Building (Amendment) Regulations 2012: Circular 02/2012</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The purpose of this Circular is to:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;draw attention to these amendments and explain the changes they make to the Building Regulations 2010, the Building (Approved Inspectors etc.) Regulations 2010, the Building (Local Authority Charges) Regulations 2010 and various Local Acts listed in Annex D to this Circular&lt;/li&gt;
+  &lt;li&gt;explain the transitional provisions&lt;/li&gt;
+  &lt;li&gt;announce the approval and publication of new Approved Documents K, P and Regulation 7&lt;/li&gt;
+  &lt;li&gt;announce the amendments to other Approved Documents&lt;/li&gt;
+  &lt;li&gt;announce the authorisation of new and extended competent person schemes&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;This Circular does not give advice on the technical requirements of Part K, Part P or Regulation 7 as these are matters covered by Approved Documents.&lt;/p&gt;
+
+&lt;p&gt;This is a priced publication available from TSO (The Stationery Office), PO Box 29, Norwich NR3 1GN. Order through the Parliamentary Hotline (Lo-call): 08457 023 474, fax: 0870 600 5533, textphone 0870 240 3701, email: &lt;a href="mailto:book.orders@tso.co.uk" title="mailto:book.orders@tso.co.uk"&gt;book.orders@tso.co.uk&lt;/a&gt; or visit &lt;a rel="external" href="http://www.tsoshop.co.uk/" title="TSO"&gt;www.tsoshop.co.uk&lt;/a&gt; to buy online.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60040</id>
+    <published>2012-12-19T00:00:00+00:00</published>
+    <updated>2012-12-19T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/improving-the-energy-efficiency-of-our-buildings"/>
+    <title>Recast of the Energy Performance of Buildings Directive</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Energy Performance of Buildings Directive is an EU measure designed to tackle climate change by reducing the amount of carbon produced by buildings. The requirements of the Directive were implemented on a phased basis by the Energy Performance of Buildings (Certificates and Inspections) (England and Wales) Regulations 2007.&lt;/p&gt;
+
+&lt;p&gt;Key requirements were:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;energy performance certificate to be produced on the sale, rent or construction of a building&lt;/li&gt;
+  &lt;li&gt;display energy certificate to be produced and displayed in large public buildings&lt;/li&gt;
+  &lt;li&gt;air conditioning equipment above a certain size to be inspected regularly&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Changes have been made to the regulations, to transpose the requirements of a recast of the Energy Performance of Buildings Directive in England and Wales. The main requirements will be introduced on 9 January 2013 and are summarised below:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;property advertisements to include details of energy performance certificate rating where available&lt;/li&gt;
+  &lt;li&gt;no longer a requirement to attach front page of the energy performance certificate to written material&lt;/li&gt;
+  &lt;li&gt;extension of current requirement for a display energy certificate in large public buildings, to public buildings above 500m².  Unlike buildings larger than 1,000m²,  display energy certificates for smaller public buildings will be valid for 10 years&lt;/li&gt;
+  &lt;li&gt;energy performance certificate to be displayed in commercial premises larger than 500m² where one has been previously issued&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;The guidance documents have been revised to reflect the changes and can be viewed via the links above.&lt;/p&gt;
+
+&lt;p&gt;The new regulations consolidate all existing regulations which have been revoked. They are available at &lt;a rel="external" href="http://www.legislation.gov.uk/" title="legislation.gov.uk"&gt;legislation.gov.uk&lt;/a&gt;. &lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60042</id>
+    <published>2012-12-19T00:00:00+00:00</published>
+    <updated>2012-12-19T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/simplifying-the-provisions-of-part-b2-of-the-building-regulations"/>
+    <title>Simplifying the provisions of Part B2 of the building regulations</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This final impact assessment sets out the proposed changes to the provisions of requirement B2 of the building regulations relating to internal fire spread (linings).&lt;/p&gt;
+
+&lt;p&gt;These changes are intended to reduce the burden of these provisions on thermoplastic lighting diffusers and decorative wallcoverings whilst maintaining adequate levels of safety.&lt;/p&gt;
+
+&lt;p&gt;This impact assessment updates the consultation impact assessment which was a supporting document for Section 1 of the 2012 &lt;a href="https://www.gov.uk/government/consultations/building-regulations-access-statements-security-changing-places-toilets-and-regulation-7"&gt;Building Regulations consultation&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60046</id>
+    <published>2012-12-19T00:00:00+00:00</published>
+    <updated>2012-12-19T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/civil-aviation-act-frequently-asked-questions"/>
+    <title>Civil Aviation Act: frequently asked questions</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The document features frequently asked questions about the Civil Aviation Act. &lt;/p&gt;
+
+&lt;p&gt;The Act paves the way for the Civil Aviation Authority (CAA) to motivate airports to deliver better facilities, provide more information for passengers and give greater incentives for airports to prepare for disruptive events such as severe weather. The Act also makes provisions for future reforms to the Air Travel Organisers’ Licensing (ATOL) scheme, which offers financial protection for holiday makers in the event of their tour operator going bust.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60048</id>
+    <published>2012-12-19T00:00:00+00:00</published>
+    <updated>2012-12-19T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/the-building-approved-inspectors-and-charges-amendment-regulations-2012-authorisation-of-new-extended-competent-person-schemes"/>
+    <title>The Building, Approved Inspectors and Charges (Amendment) Regulations 2012: authorisation of new extended competent person schemes</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This final impact assessment sets out the costs to authorise one new competent person scheme operator for an existing type of work, and the extension of scope for 7 existing competent person scheme operators to cover both existing types of work and 3 new types of work. &lt;/p&gt;
+
+&lt;p&gt;This impact assessment updates the consultation impact assessment which was a supporting document for Section 4 of the 2012 &lt;a href="https://www.gov.uk/government/consultations/building-regulations-the-building-control-system"&gt;Building Regulations consultation&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60060</id>
+    <published>2012-12-19T00:00:00+00:00</published>
+    <updated>2012-12-19T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/uk-national-strategy-on-the-protection-of-civilians-in-armed-conflict"/>
+    <title>UK National Strategy on the Protection of Civilians in Armed Conflict</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;In March 2010 the United Kingdom launched a national strategy on the Protection of Civilians in Armed Conflict (PoC). The strategy, a collaboration between the Foreign and Commonwealth Office, the Department for International Development and the Ministry of Defence, sets out what the Government is doing to keep the Protection of Civilians at the forefront of our work on political, security and humanitarian fronts. The strategy covers the period 2010-2013, and provides for annual progress reports.&lt;/p&gt;
+
+&lt;p&gt;This 2012 report summarises the UK’s work in four policy areas:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Political engagement&lt;/li&gt;
+  &lt;li&gt;Protection by peace support operations&lt;/li&gt;
+  &lt;li&gt;Humanitarian action&lt;/li&gt;
+  &lt;li&gt;State capacity&lt;/li&gt;
 &lt;/ul&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/57426</id>
-    <published>2012-12-18T15:14:19+00:00</published>
-    <updated>2012-12-18T15:14:19+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/consultations/building-regulations-electrical-safety"/>
-    <title>Building regulations: electrical safety</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This consultation paper sets out detailed proposals on part P, and is section 3 of 4 of the 2012 building regulations consultation exercise. It includes proposals to reduce the cost associated with the provisions governing electrical safety in the home whilst not undermining safety benefits.&lt;/p&gt;
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60073</id>
+    <published>2012-12-19T00:00:00+00:00</published>
+    <updated>2012-12-19T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/consultations/local-government-finance-settlement-2013-to-2014-and-related-matters"/>
+    <title>Local government finance settlement 2013 to 2014 and related matters</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This consultation is about the local government finance settlement 2013 to 2014 and related matters.&lt;/p&gt;
 
-&lt;p&gt;The other consultation sections cover:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.gov.uk/government/consultations/building-regulations-access-statements-security-changing-places-toilets-and-regulation-7"&gt;section 1: introduction to the consultation package and proposals on parts A, B, C, K, M and N, access statements, security, changing places toilets and regulation 7&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="https://www.gov.uk/government/consultations/building-regulations-conservation-of-fuel-and-power"&gt;section 2: part L (conservation of fuel and power)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="https://www.gov.uk/government/consultations/building-regulations-the-building-control-system"&gt;section 4: the building control system&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</content>
+&lt;p&gt;For more information relating to this consultation and the local government finance settlement, view the &lt;a href="https://www.gov.uk/government/news/fair-funding-sensible-savings-and-bill-freeze-right-is-the-right-road-for-councils-says-eric-pickles" title='Fair funding, sensible savings and bill freeze is the right road for councils" says Eric Pickles'&gt;press release&lt;/a&gt; from 19 December 2012 and the &lt;a rel="external" href="http://www.local.communities.gov.uk/finance/1314/settle.htm" title="Local government finance settlement 2013 to 2014"&gt;Local government finance settlement 2013 to 2014&lt;/a&gt; website.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/57425</id>
-    <published>2012-12-18T15:13:25+00:00</published>
-    <updated>2012-12-18T15:13:25+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/consultations/building-regulations-the-building-control-system"/>
-    <title>Building regulations: the building control system</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This consultation paper sets out the detailed proposals on the building control system, and is section 4 of 4 relating to the 2012 building regulations consultation exercise.&lt;/p&gt;
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60078</id>
+    <published>2012-12-19T00:00:00+00:00</published>
+    <updated>2012-12-19T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/further-economic-and-analytical-support-for-proposals-to-amend-the-building-regulations-in-2013"/>
+    <title>Further economic and analytical support for proposals to amend the building regulations in 2013</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Department for Communities and Local Government commissioned EC Harris to provide economic and analytical information to support evaluation work being carried out by the department on changes to the building regulations due to come into force in 2013.&lt;/p&gt;
 
-&lt;p&gt;Section 4 includes proposals on:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;improving local authority building control processes&lt;/li&gt;
-  &lt;li&gt;improving private sector approved inspector arrangements, including removing the warranty link rule&lt;/li&gt;
-  &lt;li&gt;strengthening enforcement&lt;/li&gt;
-  &lt;li&gt;extending the competent person self-certification schemes framework and introducing specialist third-party certification schemes&lt;/li&gt;
-  &lt;li&gt;introducing ‘appointed persons’ to act as compliance co-ordinators on construction sites&lt;/li&gt;
-&lt;/ul&gt;&lt;p&gt;The other consultation sections are:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.gov.uk/government/consultations/building-regulations-access-statements-security-changing-places-toilets-and-regulation-7"&gt;section 1: introduction to the consultation package and proposals on parts A, B, C, K, M and N, access statements, security, changing places toilets and regulation 7&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="https://www.gov.uk/government/consultations/building-regulations-conservation-of-fuel-and-power"&gt;section 2: part L (conservation of fuel and power)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="https://www.gov.uk/government/consultations/building-regulations-electrical-safety"&gt;section 3: part P (electrical safety - dwellings)&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</content>
+&lt;p&gt;The purpose of this research project was to provide information to help inform impact assessments of potential changes to the building regulations in 2013. It also investigated the impact of other changes to the building regulations that are not currently being taken forward.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/57422</id>
-    <published>2012-12-18T15:12:50+00:00</published>
-    <updated>2012-12-18T15:12:50+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/consultations/building-regulations-conservation-of-fuel-and-power"/>
-    <title>Building regulations: conservation of fuel and power</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This consultation paper sets out the detailed proposals on part L of the building regulations. It is section 2 of 4 of the 2012 building regulations consultation exercise.&lt;/p&gt;
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60081</id>
+    <published>2012-12-19T00:00:00+00:00</published>
+    <updated>2012-12-19T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/business-rates-retention-and-the-local-government-finance-settlement-a-practitioners-guide"/>
+    <title>Business rates retention and the local government finance settlement: a practitioners guide</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This guide provides an overview of the calculations set out in the local government finance settlement report 2013 to 2014 and the draft local government finance settlement report 2014 to 2015. It sets out how the business rates retention scheme has been set up and how it will operate. &lt;/p&gt;
 
-&lt;p&gt;It includes proposals for tighter carbon dioxide emission standards for new homes and non-domestic buildings, to take the next step towards zero carbon standards, plus tighter performance standards for works to existing buildings. &lt;/p&gt;
+&lt;p&gt;This guide is aimed at local authority practitioners and is intended to be read alongside both local government finance reports and supporting documents which can be found on the &lt;a rel="external" href="http://www.local.communities.gov.uk/finance/1314/settle.htm" title="Local government finance settlement 2013 to 2014"&gt;local government finance settlement 2013 to 2014&lt;/a&gt; website. &lt;/p&gt;
 
-&lt;p&gt;The paper also contains proposals to introduce, on a phased basis, requirements for additional energy efficiency improvements to be carried out when other specified works (eg extensions) are planned and Green Deal finance is available as an option to meet the up-front costs.&lt;/p&gt;
-
-&lt;p&gt;The other consultation sections are:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.gov.uk/government/consultations/building-regulations-access-statements-security-changing-places-toilets-and-regulation-7"&gt;section 1: introduction to the consultation package and proposals on parts A, B, C, K, M and N, access statements, security, changing places toilets and regulation 7&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="https://www.gov.uk/government/consultations/building-regulations-electrical-safety"&gt;section 3: part P (electrical safety - dwellings)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="https://www.gov.uk/government/consultations/building-regulations-the-building-control-system"&gt;section 4: the building control system&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</content>
+&lt;p&gt;A glossary explaining the terminology used in the reports and in this document can be found at annex A.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/57069</id>
-    <published>2012-12-18T00:00:00+00:00</published>
-    <updated>2012-12-18T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/jsp-886-introduction"/>
-    <title>JSP 886 - Introduction</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Introduction to &lt;abbr title="Joint Service Publication"&gt;JSP&lt;/abbr&gt; 886 - The Defence Logistics Support Chain Manual, including a list of additions and amendments.&lt;/p&gt;&lt;/div&gt;</content>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60082</id>
+    <published>2012-12-19T00:00:00+00:00</published>
+    <updated>2012-12-19T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/business-rates-retention-and-the-local-government-finance-settlement-a-plain-english-guide"/>
+    <title>Business rates retention and the local government finance settlement: a plain English guide</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;A guide explaining the changes to business rates and what the proposals mean for councils, local residents, businesses, charities, developers, and the police and fire and rescue authorities.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/57041</id>
-    <published>2012-12-18T00:00:00+00:00</published>
-    <updated>2012-12-18T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/guidance-for-local-planning-authorities-on-implementing-planning-requirements-of-the-eu-waste-framework-directive-2008-98-ec"/>
-    <title>Guidance for local planning authorities on implementing planning requirements of the EU Waste Framework Directive (2008/98/EC)</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Waste Framework Directive (2008/98/EC) (‘the Directive’) provides an overarching legislative framework for the management of waste across Europe. This guidance note provides advice on the measures required by local planning authorities to ensure compliance with the directive. &lt;/p&gt;
-
-&lt;p&gt;This guidance is aimed primarily at waste planning authorities, but it highlights the main legal and policy provisions of relevance to all planning authorities, and the action we expect them to take to assist them in ensuring compliance with the directive. &lt;/p&gt;
-
-&lt;p&gt;It should be read alongside the government’s planning policy for waste management, currently set out in &lt;a href="https://www.gov.uk/government/publications/planning-for-sustainable-waste-management-planning-policy-statement-10"&gt;Planning Policy Statement 10&lt;/a&gt; and its &lt;a href="https://www.gov.uk/government/publications/planning-for-sustainable-waste-management-a-companion-guide-to-planning-policy-statement-10"&gt;companion guide&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/57045</id>
-    <published>2012-12-18T00:00:00+00:00</published>
-    <updated>2012-12-18T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/foi-16-07-2012-115055-010-reservists-salaries"/>
-    <title>FOI-16-07-2012-115055-010 Reservists salaries</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Freedom of Information (FOI) request on Reservists salaries.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/57054</id>
-    <published>2012-12-18T00:00:00+00:00</published>
-    <updated>2012-12-18T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/consultations/nationally-significant-highways-and-rail-schemes-amendments-to-planning-act-2008-definitions"/>
-    <title>Nationally significant highways and rail schemes: amendments to Planning Act 2008 definitions</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This consultation is on proposals to amend the definitions of ‘nationally significant’ rail and highways projects set out in the Planning Act 2008. The aim of this is to speed up the completion of projects and reduce the costs.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/57035</id>
-    <published>2012-12-18T00:00:00+00:00</published>
-    <updated>2012-12-18T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/the-foreign-offices-human-rights-work-in-2011"/>
-    <title>The Foreign Office's Human Rights work in 2011</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Government welcomes the attentive scrutiny of its human rights work during 2011 carried out by the Foreign Affairs Committee. The Government agrees with the FAC’s assessment that the UK has a strong record in upholding human rights across the world. We welcome the FAC’s comment that our Annual Report on Human Rights and Democracy for 2011 provides ample evidence of our work in promoting higher standards of human rights abroad, sometimes in difficult circumstances. We were pleased that the FAC recognise the considerable effort that went into the production of the FCO’s Annual Human Rights Report for 2011. We have taken steps to strengthen our human rights reporting over the last two years in response to direction from Ministers and feedback from the FAC and others. We will continue to ensure that our reporting is targeted to meet the needs of Parliament and our national and international readership.  &lt;/p&gt;
-
-&lt;p&gt;This Command Paper sets out the Government’s response to the Foreign Affairs Committee’s report of 17 October 2012 into the Foreign and Commonwealth Office’s Human Rights Work in 2011. The Committee’s recommendations are set out in bold. Unless otherwise indicated, references are to paragraphs in the Foreign Affairs Committee Report (HC116).&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/57070</id>
-    <published>2012-12-18T00:00:00+00:00</published>
-    <updated>2012-12-18T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/localising-support-for-council-tax-taking-work-incentives-into-account-guidance"/>
-    <title>Localising support for Council Tax: taking work incentives into account: guidance</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Localising Council Tax support is part of a wider set of reforms to the welfare system. Councils will design local Council Tax reduction schemes for working-age applicants that will also support the wider objectives of welfare reform. This guidance sets out the key considerations for councils when designing their local scheme.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/57071</id>
-    <published>2012-12-18T00:00:00+00:00</published>
-    <updated>2012-12-18T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/number-of-enterprise-finance-guarantee-efg-scheme-loans-drawn"/>
-    <title>Number and value of Enterprise Finance Guarantee (EFG) scheme loans drawn.</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Number and value of EFG loans drawn, by bank.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/57027</id>
-    <published>2012-12-18T00:00:00+00:00</published>
-    <updated>2012-12-18T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/op-herrick-casualty-and-fatality-tables"/>
-    <title>Op Herrick casualty and fatality tables</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Casualty and fatality tables up to 30 November 2012. Report includes historical data (pre Jan 06) on Very Seriously Injured and Seriously Injured personnel for Op HERRICK. These figures are updated monthly, two weeks in arrears.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/57524</id>
-    <published>2012-12-18T00:00:00+00:00</published>
-    <updated>2012-12-18T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/port-marine-safety-code"/>
-    <title>Port marine safety code</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The port marine safety code establishes a national standard for every aspect of port marine safety and aims to enhance safety for those who use or work in ports, their ships, passengers and the environment. The code applies to all harbour authorities in the UK that have statutory powers and duties.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/57527</id>
-    <published>2012-12-18T00:00:00+00:00</published>
-    <updated>2012-12-18T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/release-of-wwii-raf-casualty-packs-to-the-tna"/>
-    <title>Release of WWII RAF casualty packs to the TNA</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Outcome of limited public consultation on the transfer of WWII RAF casualty packs to the The National Archives (TNA).&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/57029</id>
-    <published>2012-12-18T00:00:00+00:00</published>
-    <updated>2012-12-18T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/consultations/uk-government-oil-and-gas-sector-strategy-call-for-industrys-views"/>
-    <title>UK government oil and gas sector strategy: call for industry's views</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;As part of its industrial strategy, the Secretary of State for Business, Innovation and Skills (&lt;abbr title="The DEpartment for Business, Innovation and Skills"&gt;BIS&lt;/abbr&gt;) announced that there will be, initially, 10 sector strategies, of which oil and gas would be one.&lt;/p&gt;
-
-&lt;p&gt;The industry’s input is essential as &lt;abbr title="The DEpartment for Business, Innovation and Skills"&gt;BIS&lt;/abbr&gt; and the Department of Energy and Climate Change (&lt;abbr title="The Department of Energy and Climate Change"&gt;DECC&lt;/abbr&gt;) develop this work in partnership with Oil &amp;amp; Gas UK.&lt;/p&gt;
-
-&lt;p&gt;Sector strategies will be co-developed and implemented with industry to be durable and will:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;be long-term in focus: developing a vision for the sector and what needs to happen from both government and business to get there&lt;/li&gt;
-  &lt;li&gt;be co-created with industry: committing both business and government to specific actions to maintain and develop long-term capabilities&lt;/li&gt;
-  &lt;li&gt;take a whole of government approach: looking across all of government to identify barriers and levers which have the biggest impacts and align these to deliver growth&lt;/li&gt;
-  &lt;li&gt;engage across the totality of the sector: working with industry and identifying actions which benefit business across the whole supply chain whether they are large, medium or small&lt;/li&gt;
-&lt;/ul&gt;&lt;p&gt;Publication is expected in late March 2013.&lt;/p&gt;
-
-&lt;p&gt;Industry’s views are very much welcomed particularly through January 2013 and can be fed into either:&lt;/p&gt;
-
-&lt;p&gt;&lt;abbr title="The DEpartment for Business, Innovation and Skills"&gt;BIS&lt;/abbr&gt; – Tom Worsley – &lt;a href="Tom.Worsley@bis.gsi.gov.uk"&gt;Tom.Worsley@bis.gsi.gov.uk&lt;/a&gt; – 020 7215 6480&lt;/p&gt;
-
-&lt;p&gt;&lt;abbr title="The Department of Energy and Climate Change"&gt;DECC&lt;/abbr&gt; – Audrey Banner – &lt;a href="Audrey.banner@decc.gsi.gov.uk"&gt;Audrey.banner@decc.gsi.gov.uk&lt;/a&gt; – 01224 254104&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/57501</id>
-    <published>2012-12-18T00:00:00+00:00</published>
-    <updated>2012-12-18T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/service-inquiry-report-into-the-accident-involving-red-arrows-hawk-t-mk1-xx179-on-20-august-2011"/>
-    <title>Service Inquiry report into the accident involving Red Arrows Hawk T Mk1 XX179 on 20 August 2011</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;SI report into the accident involving RAF Aerobatic Team (RAFAT) Hawk T Mk1 XX179 near Bournemouth on 20 Aug 11&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56774</id>
-    <published>2012-12-17T09:33:29+00:00</published>
-    <updated>2012-12-17T09:33:29+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/consultations/consultation-on-the-implementation-of-eu-regulation-ec-392-2009"/>
-    <title>Consultation on the implementation of EU Regulation (EC) 392/2009</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="summary"&gt;Summary&lt;/h2&gt;
-
-&lt;p&gt;This consultation seeks views on the UK’s draft Statutory Instrument that transposes Regulation (EC) 392/2009. &lt;/p&gt;
-
-&lt;p&gt;The regulation gives effect, within the &lt;abbr title="European Union"&gt;EU&lt;/abbr&gt;, to the 2002 Protocol to the Athens Convention to create parity for the passenger shipping industry and help ensure that UK citizens have access to the same levels of compensation when travelling between two different &lt;abbr title="European Union"&gt;EU&lt;/abbr&gt; member states. Furthermore, it increases the limits of liabilities for death or personal injuries to passengers being carried by sea; requires carriers to have compulsory insurance, and provides claimants with the right of taking direct action against the insurers. The intended effect is to provide an enhanced framework of compensation in the event of death or personal injury to a passenger, or the loss or damage to luggage when travelling on a sea journey. &lt;/p&gt;
-
-&lt;p&gt;The regulation also brings into scope certain domestic passenger services.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/57009</id>
-    <published>2012-12-17T00:00:00+00:00</published>
-    <updated>2012-12-17T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/bis-quarterly-constuction-price-and-cost-indices-3rd-quarter-2012"/>
-    <title>BIS quarterly constuction price and cost indices 3rd quarter 2012</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="headline-results"&gt;Headline results&lt;/h2&gt;
-
-&lt;p&gt;The BIS Output Price Index for New Construction (2010): All New Construction (COPI) for 3rd Quarter 2012 rose 0.7% on the previous quarter and by 3.5% on the same quarter a year earlier.&lt;/p&gt;
-
-&lt;p&gt;The Tender Price Index for Public Sector Non-Housing (PUBSEC) for 3rd Quarter 2012 fell 1.1% on the previous quarter and 0.6% on the year from 3rd Quarter 2011.&lt;/p&gt;
-
-&lt;p&gt;The Tender Price Index of Social Housing (TPISH) shows a fall of 0.5% compared with the previous quarter and a rise of 1.1% compared with the same quarter a year earlier.&lt;/p&gt;
-
-&lt;p&gt;The BIS Tender Price Index of Road Construction (ROADCON) is not available for 3rd Quarter 2012 but the index for the 2nd Quarter 2012 shows prices falling 1.7% compared to the previous quarter and rising 4% in the year from 2nd Quarter 2011.&lt;/p&gt;
-
-&lt;p&gt;The resource costs indices in 3rd Quarter 2012 show fairly stable prices in the building sectors, housing and non-housing.&lt;/p&gt;
-
-&lt;p&gt;Costs in the infrastructure both roads and infrastructure generally have fallen slightly (0.4%) compared to the previous quarter but still show increases in the year since 3rd Quarter 2011.&lt;/p&gt;
-
-&lt;h2 id="publication-note"&gt;Publication note&lt;/h2&gt;
-
-&lt;p&gt;This release was published around 40 minutes after 9.30am, in breach of the Code of Practice for Official Statistics. We are currently investigating why this happened, and a report will be submitted to the National Statistician’s Office and published on the UK Statistics Authority’s website in due course.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56973</id>
-    <published>2012-12-17T00:00:00+00:00</published>
-    <updated>2012-12-17T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/jsp-315-sevices-accommodation-code-volume-3"/>
-    <title>JSP 315 Sevices Accommodation code: Volume 3</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Volume 3 of Joint Services Publication (JSP) 315: Services Accommodation Code deals with Reserves and Cadet Accommodation.&lt;/p&gt;&lt;/div&gt;</content>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/59917</id>
+    <published>2012-12-19T00:00:00+00:00</published>
+    <updated>2012-12-19T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/50-ways-to-save-examples-of-sensible-savings-in-local-government"/>
+    <title>50 ways to save: examples of sensible savings in local government</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This document sets out 50 examples of sensible savings that councils could make and contains practical tips and guidance, highlighting ways that councillors can challenge officers to deliver savings, and ways that taxpayers can challenge councillors.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
 </feed>

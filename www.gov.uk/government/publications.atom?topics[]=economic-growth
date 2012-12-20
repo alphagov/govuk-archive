@@ -8,14 +8,38 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-12-18T00:00:00+00:00</updated>
+  <updated>2012-12-19T00:00:00+00:00</updated>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/57524</id>
-    <published>2012-12-18T00:00:00+00:00</published>
-    <updated>2012-12-18T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/port-marine-safety-code"/>
-    <title>Port marine safety code</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The port marine safety code establishes a national standard for every aspect of port marine safety and aims to enhance safety for those who use or work in ports, their ships, passengers and the environment. The code applies to all harbour authorities in the UK that have statutory powers and duties.&lt;/p&gt;&lt;/div&gt;</content>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60016</id>
+    <published>2012-12-19T00:00:00+00:00</published>
+    <updated>2012-12-19T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/triennial-review-of-the-industrial-development-advisory-board-idab"/>
+    <title>Triennial review of the Industrial Development Advisory Board (IDAB)</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Cabinet Office requires Non-Departmental Public Bodies (NDPBs) to be reviewed every 3 years by their parent department.&lt;/p&gt;
+
+&lt;p&gt;This review looks at the function of the Industrial Development Advisory Board (IDAB), the appropriateness of the body’s delivery mechanisms and its governance arrangements. &lt;/p&gt;
+
+&lt;p&gt;It also describes the purpose of triennial reviews, the process adopted for this review and presents findings based on feedback from stakeholders. It draws on these findings to make recommendations about the future of IDAB.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60046</id>
+    <published>2012-12-19T00:00:00+00:00</published>
+    <updated>2012-12-19T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/civil-aviation-act-frequently-asked-questions"/>
+    <title>Civil Aviation Act: frequently asked questions</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The document features frequently asked questions about the Civil Aviation Act. &lt;/p&gt;
+
+&lt;p&gt;The Act paves the way for the Civil Aviation Authority (CAA) to motivate airports to deliver better facilities, provide more information for passengers and give greater incentives for airports to prepare for disruptive events such as severe weather. The Act also makes provisions for future reforms to the Air Travel Organisers’ Licensing (ATOL) scheme, which offers financial protection for holiday makers in the event of their tour operator going bust.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/48870</id>
+    <published>2012-12-19T00:00:00+00:00</published>
+    <updated>2012-12-19T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/top-10-overcrowded-train-services-england-and-wales"/>
+    <title>Top 10 overcrowded train services: England and Wales</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This paper shows the 10 most overcrowded peak train services recorded in passenger count data collected by train operators in autumn 2011.&lt;/p&gt;
+
+&lt;p&gt;The Department for Transport (&lt;abbr title="Department for Transport"&gt;DfT&lt;/abbr&gt;) collects rail passenger counts from train operating companies to monitor train crowding levels. All franchises let by &lt;abbr title="Department for Transport"&gt;DfT&lt;/abbr&gt; require the train operator to address crowding and to plan their timetables in such a way as to ensure, as far as possible, that crowding is not unduly concentrated on any particular route or individual service.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/57054</id>
@@ -24,6 +48,14 @@
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/consultations/nationally-significant-highways-and-rail-schemes-amendments-to-planning-act-2008-definitions"/>
     <title>Nationally significant highways and rail schemes: amendments to Planning Act 2008 definitions</title>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This consultation is on proposals to amend the definitions of ‘nationally significant’ rail and highways projects set out in the Planning Act 2008. The aim of this is to speed up the completion of projects and reduce the costs.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/57524</id>
+    <published>2012-12-18T00:00:00+00:00</published>
+    <updated>2012-12-18T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/port-marine-safety-code"/>
+    <title>Port marine safety code</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The port marine safety code establishes a national standard for every aspect of port marine safety and aims to enhance safety for those who use or work in ports, their ships, passengers and the environment. The code applies to all harbour authorities in the UK that have statutory powers and duties.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/56774</id>
@@ -38,32 +70,6 @@
 &lt;p&gt;The regulation gives effect, within the &lt;abbr title="European Union"&gt;EU&lt;/abbr&gt;, to the 2002 Protocol to the Athens Convention to create parity for the passenger shipping industry and help ensure that UK citizens have access to the same levels of compensation when travelling between two different &lt;abbr title="European Union"&gt;EU&lt;/abbr&gt; member states. Furthermore, it increases the limits of liabilities for death or personal injuries to passengers being carried by sea; requires carriers to have compulsory insurance, and provides claimants with the right of taking direct action against the insurers. The intended effect is to provide an enhanced framework of compensation in the event of death or personal injury to a passenger, or the loss or damage to luggage when travelling on a sea journey. &lt;/p&gt;
 
 &lt;p&gt;The regulation also brings into scope certain domestic passenger services.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/16746</id>
-    <published>2012-12-13T00:00:00+00:00</published>
-    <updated>2012-12-13T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/port-freight-statistics-quarter-3-2012"/>
-    <title>Port freight statistics: quarter 3 2012</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This publication presents provisional summary statistics on freight handled by major UK ports, updated quarterly. Provisional annual statistics are updated in June and detailed final annual statistics are published in September. &lt;/p&gt;
-
-&lt;h2 id="key-points"&gt;Key points&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Total port traffic (tonnage) in the year ending quarter 3 2012 (497 million tonnes) was down 2% on the year ending quarter 3 2011 (509 million tonnes). &lt;/li&gt;
-  &lt;li&gt;The number of units of all types handled in the year ending quarter 3 2012  (20.8 million units) was down 3% compared with the year ending quarter 3 2011 (21.4 million units).&lt;/li&gt;
-  &lt;li&gt;Tonnage in quarter 3 of 2012 (124 million tonnes) was down 3% compared with quarter 3 2011 (127 million tonnes).&lt;/li&gt;
-  &lt;li&gt;The number of units of all types handled in quarter 3 2012 (5.98 million units) was down 4% compared with quarter 3 2011 (6.21 million units). &lt;/li&gt;
-&lt;/ul&gt;&lt;h2 id="technical-information"&gt;Technical information&lt;/h2&gt;
-
-&lt;p&gt;Information on port freight statistics, including the pre-release access list, and related technical documentation &lt;a href="https://www.gov.uk/technical-guidance-for-transport-stats#Port-statistics"&gt;can be found here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id="contact-us"&gt;Contact us&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="mailto:maritime.stats@dft.gsi.gov.uk"&gt;maritime.stats@dft.gsi.gov.uk&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Phone: 020 7944 4131&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/56321</id>
@@ -167,6 +173,32 @@
 &lt;/ul&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/16746</id>
+    <published>2012-12-13T00:00:00+00:00</published>
+    <updated>2012-12-13T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/port-freight-statistics-quarter-3-2012"/>
+    <title>Port freight statistics: quarter 3 2012</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This publication presents provisional summary statistics on freight handled by major UK ports, updated quarterly. Provisional annual statistics are updated in June and detailed final annual statistics are published in September. &lt;/p&gt;
+
+&lt;h2 id="key-points"&gt;Key points&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Total port traffic (tonnage) in the year ending quarter 3 2012 (497 million tonnes) was down 2% on the year ending quarter 3 2011 (509 million tonnes). &lt;/li&gt;
+  &lt;li&gt;The number of units of all types handled in the year ending quarter 3 2012  (20.8 million units) was down 3% compared with the year ending quarter 3 2011 (21.4 million units).&lt;/li&gt;
+  &lt;li&gt;Tonnage in quarter 3 of 2012 (124 million tonnes) was down 3% compared with quarter 3 2011 (127 million tonnes).&lt;/li&gt;
+  &lt;li&gt;The number of units of all types handled in quarter 3 2012 (5.98 million units) was down 4% compared with quarter 3 2011 (6.21 million units). &lt;/li&gt;
+&lt;/ul&gt;&lt;h2 id="technical-information"&gt;Technical information&lt;/h2&gt;
+
+&lt;p&gt;Information on port freight statistics, including the pre-release access list, and related technical documentation &lt;a href="https://www.gov.uk/technical-guidance-for-transport-stats#Port-statistics"&gt;can be found here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id="contact-us"&gt;Contact us&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="mailto:maritime.stats@dft.gsi.gov.uk"&gt;maritime.stats@dft.gsi.gov.uk&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Phone: 020 7944 4131&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/56454</id>
     <published>2012-12-13T00:00:00+00:00</published>
     <updated>2012-12-13T00:00:00+00:00</updated>
@@ -241,18 +273,6 @@
 &lt;/ul&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/54869</id>
-    <published>2012-12-12T00:00:00+00:00</published>
-    <updated>2012-12-12T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/town-teams-support-package-prospectus-and-application-form"/>
-    <title>Town Teams support package: prospectus and application form</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The department is awarding grant funding for a support package for Town Teams to help them transform their local high streets into social places, bustling with people, services and jobs. The support focuses on improving local leadership and delivery in ‘Portas Pilots’ and sharing learning with ‘Town Team Partners’.&lt;/p&gt;
-
-&lt;h2 id="contact-us-by-16-january-2013"&gt;Contact us by 16 January 2013&lt;/h2&gt;
-
-&lt;p&gt;Applications should be sent to &lt;a href="mailto:HighStreets@communities.gsi.gov.uk"&gt;HighStreets@communities.gsi.gov.uk&lt;/a&gt;. Please use the application form above.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/49794</id>
     <published>2012-12-12T00:00:00+00:00</published>
     <updated>2012-12-12T00:00:00+00:00</updated>
@@ -265,6 +285,18 @@
 (c) removing 3 regulations from the statute book  &lt;/p&gt;
 
 &lt;p&gt;In addition, this consultation is seeking views on the commitment in the ‘&lt;a href="https://www.gov.uk/government/publications/logistics-growth-review"&gt;Logistics growth review&lt;/a&gt;’ to explore opportunities to support green technologies through the operator licensing regime.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/54869</id>
+    <published>2012-12-12T00:00:00+00:00</published>
+    <updated>2012-12-12T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/town-teams-support-package-prospectus-and-application-form"/>
+    <title>Town Teams support package: prospectus and application form</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The department is awarding grant funding for a support package for Town Teams to help them transform their local high streets into social places, bustling with people, services and jobs. The support focuses on improving local leadership and delivery in ‘Portas Pilots’ and sharing learning with ‘Town Team Partners’.&lt;/p&gt;
+
+&lt;h2 id="contact-us-by-16-january-2013"&gt;Contact us by 16 January 2013&lt;/h2&gt;
+
+&lt;p&gt;Applications should be sent to &lt;a href="mailto:HighStreets@communities.gsi.gov.uk"&gt;HighStreets@communities.gsi.gov.uk&lt;/a&gt;. Please use the application form above.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/56534</id>
@@ -285,20 +317,6 @@
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;We seek views on the future calculation and distribution of the Integrated Transport Block. This is capital funding given to local authorities in England, outside of London, for small transport improvement schemes.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/50139</id>
-    <published>2012-12-11T00:00:00+00:00</published>
-    <updated>2012-12-11T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/the-report-of-the-motorists-forum-sub-group-on-improving-customer-service-experience-at-garages"/>
-    <title>The report of the Motorists' Forum sub-group on improving customer service experience at garages</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This Motorists’ Forum sub-group report sets out a raft of recommendations to improve the garage service and repair industry (including the MOT test) and to increase consumer confidence and satisfaction in the industry. &lt;/p&gt;
-
-&lt;h2 id="related-documents"&gt;Related documents&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.gov.uk/government/publications/government-response-to-motorists-forum-report-on-garage-customer-experience"&gt;Government response to Motorists’ Forum report on garage customer experience&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/50143</id>
     <published>2012-12-11T00:00:00+00:00</published>
     <updated>2012-12-11T00:00:00+00:00</updated>
@@ -317,6 +335,20 @@
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://www.gov.uk/government/publications/the-report-of-the-motorists-forum-sub-group-on-improving-customer-service-experience-at-garages"&gt;The report of the Motorists’ Forum sub-group on improving customer service experience at garages&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/50139</id>
+    <published>2012-12-11T00:00:00+00:00</published>
+    <updated>2012-12-11T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/the-report-of-the-motorists-forum-sub-group-on-improving-customer-service-experience-at-garages"/>
+    <title>The report of the Motorists' Forum sub-group on improving customer service experience at garages</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This Motorists’ Forum sub-group report sets out a raft of recommendations to improve the garage service and repair industry (including the MOT test) and to increase consumer confidence and satisfaction in the industry. &lt;/p&gt;
+
+&lt;h2 id="related-documents"&gt;Related documents&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.gov.uk/government/publications/government-response-to-motorists-forum-report-on-garage-customer-experience"&gt;Government response to Motorists’ Forum report on garage customer experience&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
@@ -371,34 +403,6 @@
 &lt;/ul&gt;&lt;p&gt;The draft designation orders which we are are consulting on here append plan(s) outlining the area which the port security authority will have responsibility over.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/16713</id>
-    <published>2012-12-06T00:00:00+00:00</published>
-    <updated>2012-12-06T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/waterborne-freight-in-the-united-kingdom-2011"/>
-    <title>Waterborne freight in the United Kingdom: 2011</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This publication provides information on freight traffic moved within the United Kingdom by water transport, known as ‘domestic waterborne freight’. The statistics cover inland waters traffic, traffic carried around the UK coast (Coastwise), one-port traffic to and from offshore installations and sea dredging. &lt;/p&gt;
-
-&lt;p&gt;The statistics are produced from a combination of the sources for our ‘Port Freight Statistics’ and an independent survey of inland waterway operators. &lt;/p&gt;
-
-&lt;h2 id="key-points"&gt;Key points&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Between 2010 and 2011, goods lifted for all domestic waterborne freight fell by 2%, the sixth consecutive year of decline. However goods moved for all domestic waterborne freight rose by 3%, the first annual increase since 2005. &lt;/li&gt;
-  &lt;li&gt;Coastwise traffic (i.e. traffic carried around the UK coast) remains the largest component of domestic waterborne freight. Despite a fall in the amount of goods lifted by coastwise traffic, the amount of goods moved increased by 4.5% from 2010 to 2011.&lt;/li&gt;
-  &lt;li&gt;In 2011, traffic on UK inland waters was stable compared to 2010, with 43.9 million tonnes lifted and 1.4 billion tonne-kilometres moved.  &lt;/li&gt;
-  &lt;li&gt;Despite a steady decline since 2002, there was an increase in one-port traffic (i.e. to and from offshore installations and sea dredging) in 2011 of 6%, from 20.3 million tonnes lifted in 2010 to 21.6 million tonnes lifted in 2011. &lt;/li&gt;
-&lt;/ul&gt;&lt;h2 id="technical-information"&gt;Technical information:&lt;/h2&gt;
-
-&lt;p&gt;Information on Domestic Waterborne Freight statistics, including the pre-release access list and related technical documentation &lt;a href="https://www.gov.uk/technical-guidance-for-transport-stats#domestic-waterborne-freight-statistics"&gt;can be found here&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id="contact-us"&gt;Contact us&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="mailto:maritime.stats@dft.gsi.gov.uk"&gt;maritime.stats@dft.gsi.gov.uk&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Phone: 020 7944 2021&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/28514</id>
     <published>2012-12-06T00:00:00+00:00</published>
     <updated>2012-12-06T00:00:00+00:00</updated>
@@ -424,23 +428,5 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="/government/publications/response-to-the-report-of-the-laidlaw-inquiry"&gt;Response to the report of the Laidlaw inquiry&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/17573</id>
-    <published>2012-12-03T00:00:00+00:00</published>
-    <updated>2012-12-03T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/traffic-authorisations"/>
-    <title>Traffic authorisations</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This Freedom of Information response letter concerns traffic authorisations given to Westminster City Council between 1 January 2000 and 31 December 2010.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/17618</id>
-    <published>2012-12-03T00:00:00+00:00</published>
-    <updated>2012-12-03T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/green-bus-fund-round-4"/>
-    <title>Green Bus Fund round 4</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Green Bus Fund supports bus companies and local authorities in England to help them buy new low carbon buses. Its main purpose is to support and speed up the introduction of hundreds of low carbon buses across England.&lt;/p&gt;
-
-&lt;p&gt;This bidding guidance and documents are intended for bus operators and local authorities who want to submit bids for grant under the 4th round of the government’s Green Bus Fund. The bidding guidance explains the eligibility terms, the bidding process and how bids should be submitted.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
 </feed>

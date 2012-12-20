@@ -8,7 +8,18 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-12-17T12:03:22+00:00</updated>
+  <updated>2012-12-19T00:00:00+00:00</updated>
+  <entry>
+    <id>tag:www.gov.uk,2005:Publication/60015</id>
+    <published>2012-12-19T00:00:00+00:00</published>
+    <updated>2012-12-19T10:59:28+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/one-in-one-out-third-statement-of-new-regulation"/>
+    <title>One-in, one-out: third statement of new regulation</title>
+    <category>Publication</category>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;A forward look of all regulations in scope of government’s ‘one-in, one-out’ regime that are scheduled to come into force between 1 January 2012 and 30 June 2012.&lt;/p&gt;
+
+&lt;p&gt;This is published every 6 months to give businesses an indication of when regulations affecting them will be coming into effect. It provides an overview of the net costs and benefits to business and civil society organisations, and forecasts a further reduction in new burdens on businesses by an estimated £4.17 million.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
   <entry>
     <id>tag:www.gov.uk,2005:NewsArticle/56802</id>
     <published>2012-12-17T12:03:22+00:00</published>
@@ -86,7 +97,7 @@
 &lt;/ul&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:Publication/56721</id>
+    <id>tag:www.gov.uk,2005:Publication/60014</id>
     <published>2012-12-17T00:00:00+00:00</published>
     <updated>2012-12-17T09:15:00+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/fifth-statement-of-new-regulation-sonr"/>
@@ -97,13 +108,13 @@
 &lt;p&gt;This is published every 6 months to give businesses an indication of when regulations affecting them will be coming into effect. The headline figures show that the sum total of Government deregulation by July 2013 is expected to reduce the annual cost to business by around £919 million.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:Publication/56731</id>
+    <id>tag:www.gov.uk,2005:Publication/60017</id>
     <published>2012-12-17T00:00:00+00:00</published>
     <updated>2012-12-17T09:15:02+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/bis-fifth-statement-of-new-regulation-regulations-covering-january-to-june-2013"/>
     <title>BIS fifth statement of new regulation: regulations covering January to June 2013</title>
     <category>Publication</category>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Lists Department of Business, Innovation and Skills (BIS) measures in scope of ‘One In, Two Out’ regulations to come into force from January to June 2013, to show how BIS is removing burdens on business.&lt;/p&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Lists Department for Business, Innovation and Skills (&lt;abbr title="Department for Business, Innovation and Skills"&gt;BIS&lt;/abbr&gt;) measures in scope of ‘One In, Two Out’ regulations to come into force from January to June 2013, to show how &lt;abbr title="Department for Business, Innovation and Skills"&gt;BIS&lt;/abbr&gt; is removing burdens on business.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:NewsArticle/56434</id>
@@ -261,14 +272,5 @@ Public Enquiries: 0300 330 3000  &lt;/p&gt;
 &lt;p&gt;Anyone wishing to contribute to the review is asked to send their written views before 28 February 2013 to &lt;a href="mailto:balanceofcompetences@bis.gsi.gov.uk"&gt;balanceofcompetences@bis.gsi.gov.uk&lt;/a&gt; or online at &lt;a rel="external" href="https://www.surveymonkey.com/s/internalmarket"&gt;https://www.surveymonkey.com/s/internalmarket&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;It is our intention to publish evidence at the end of the review when the reports are published. In the meantime, the Department for Business, Innovation and Skills plans to use section 22 to exempt FOI requests around evidence received.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:Publication/48187</id>
-    <published>2012-11-01T00:00:00+00:00</published>
-    <updated>2012-12-11T16:30:54+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/enterprise-regulatory-reform-bill-copyright-licensing"/>
-    <title>Enterprise &amp; Regulatory Reform Bill: copyright licensing</title>
-    <category>Publication</category>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Overview of measures in the Enterprise and Regulatory Reform Bill relating to copyright licensing. Explains the main purpose and benefits, and provides context.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
 </feed>

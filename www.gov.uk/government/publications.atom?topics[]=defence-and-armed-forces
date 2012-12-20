@@ -8,7 +8,17 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-12-14T00:00:00+00:00</updated>
+  <updated>2012-12-19T00:00:00+00:00</updated>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/59911</id>
+    <published>2012-12-19T00:00:00+00:00</published>
+    <updated>2012-12-19T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/the-united-kingdom-s-future-nuclear-deterrent-2012-update-to-parliament"/>
+    <title>The United Kingdom’s future nuclear deterrent: 2012 update to Parliament</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;On 18 May 2011, the Ministry of Defence (MOD) announced that the first milestone (known as Initial Gate) for the Successor deterrent submarine programme had been passed and that a five year-long, £3 billion Assessment Phase had been approved. The main purpose of the Assessment Phase is to refine the design of the successor submarine prior to the main investment decision (known as Main Gate), which will be taken in 2016. &lt;/p&gt;
+
+&lt;p&gt;This is the first of a series of annual reports that will explain the progress the MOD has made on this programme and set out what is expected to be achieved over the coming year.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/56617</id>
     <published>2012-12-14T00:00:00+00:00</published>
@@ -24,12 +34,14 @@
 &lt;p&gt;You should also be aware that the Euopean Commission also publishes a publically available database called &lt;a rel="external" href="http://ec.europa.eu/enterprise/sectors/defence/certider/"&gt;CERTIDER&lt;/a&gt;. This Euopean database contains more information about the certification of defence-related companies across Europe. Access You can also &lt;a rel="external" href="http://ec.europa.eu/enterprise/sectors/defence/certider/help/CERTIDER_Europa%20Manual_EN.pdf"&gt;download guidance on consulting the CERTIDER database on the Europa website (PDF, 1.81MB)&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/54831</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/55122</id>
     <published>2012-12-12T00:00:00+00:00</published>
     <updated>2012-12-12T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/afghanistan-progress-reports"/>
-    <title>Afghanistan: Progress reports</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Foreign Secretary updates Parliament with a progress report every month as part of his commitment to keep Parliament regularly informed on developments in Afghanistan.&lt;/p&gt;&lt;/div&gt;</content>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/afghanistan-ministry-of-counter-narcotics-national-drug-control-strategy"/>
+    <title>Afghanistan Ministry of Counter-Narcotics' National Drug Control Strategy </title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The UK supports the Afghan Government in implementing its National Drug Control Strategy. It is a comprehensive approach which covers a range of activities to counter the drugs trade. These include building government institutions and law enforcement capacity, targeted eradication programmes and the development of alternative livelihoods, information and education campaigns and engagement with countries in the region. &lt;/p&gt;
+
+&lt;p&gt;Read the attached updated five-year strategy for tackling the illicit drug problem in Afghanistan.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/52540</id>
@@ -44,14 +56,12 @@
 &lt;p&gt;For related guidance please refer to our guide &lt;a href="https://www.gov.uk/exporting-military-goods-to-the-united-states"&gt;exporting military goods to the United States&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/55122</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/54831</id>
     <published>2012-12-12T00:00:00+00:00</published>
     <updated>2012-12-12T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/afghanistan-ministry-of-counter-narcotics-national-drug-control-strategy"/>
-    <title>Afghanistan Ministry of Counter-Narcotics' National Drug Control Strategy </title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The UK supports the Afghan Government in implementing its National Drug Control Strategy. It is a comprehensive approach which covers a range of activities to counter the drugs trade. These include building government institutions and law enforcement capacity, targeted eradication programmes and the development of alternative livelihoods, information and education campaigns and engagement with countries in the region. &lt;/p&gt;
-
-&lt;p&gt;Read the attached updated five-year strategy for tackling the illicit drug problem in Afghanistan.&lt;/p&gt;&lt;/div&gt;</content>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/afghanistan-progress-reports"/>
+    <title>Afghanistan: Progress reports</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Foreign Secretary updates Parliament with a progress report every month as part of his commitment to keep Parliament regularly informed on developments in Afghanistan.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/48933</id>
@@ -62,7 +72,7 @@
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Ministry of Defence Annual Report and Accounts 2011-12 and Sustainability Report.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56151</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60071</id>
     <published>2012-12-05T00:00:00+00:00</published>
     <updated>2012-12-05T00:00:00+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/armed-forces-covenant-annual-report-2012"/>
@@ -71,7 +81,7 @@
 
 &lt;p&gt;The report covers the following groups: serving personnel; reservists; the wounded, injured and sick; families; the bereaved; service leavers; and veterans. It sets out a number of important achievements and also highlights remaining challenges and makes a series of new commitments.&lt;/p&gt;
 
-&lt;p&gt;There are three leaflets explaining what the Covenant means for Serving personnel, Veterans and Service families&lt;/p&gt;&lt;/div&gt;</content>
+&lt;p&gt;There are three leaflets explaining what the Covenant means for Serving personnel, Veterans and Service families and a Welsh translation of the report.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/51396</id>
@@ -139,22 +149,6 @@ The Capability Review has been developed through extensive evidence-gathering wo
 &lt;p&gt;The MOD’s Capability Review and Action Plan can be accessed from the link below.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/34172</id>
-    <published>2012-05-01T00:00:00+01:00</published>
-    <updated>2012-05-01T00:00:00+01:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/oral-statement-on-the-defence-budget-defence-secretary-14-may-2012"/>
-    <title>Oral Statement on the Defence Budget - Defence Secretary 14 May 2012</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Oral Statement on the Defence Budget.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/34176</id>
-    <published>2012-05-01T00:00:00+01:00</published>
-    <updated>2012-05-01T00:00:00+01:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/oral-statement-on-carrier-strike-capability-defence-secretary-10-may-2012"/>
-    <title>Oral Statement on Carrier Strike Capability - Defence Secretary 10 May 2012</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Oral Statement on Carrier Strike Capability.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/34440</id>
     <published>2012-05-01T00:00:00+01:00</published>
     <updated>2012-05-01T00:00:00+01:00</updated>
@@ -175,6 +169,22 @@ The Capability Review has been developed through extensive evidence-gathering wo
 &lt;p&gt;Priority 5 - Children and Young People have their voices heard&lt;/p&gt;
 
 &lt;p&gt;Priority 6 - Learning Pathways and the world of work&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/34176</id>
+    <published>2012-05-01T00:00:00+01:00</published>
+    <updated>2012-05-01T00:00:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/oral-statement-on-carrier-strike-capability-defence-secretary-10-may-2012"/>
+    <title>Oral Statement on Carrier Strike Capability - Defence Secretary 10 May 2012</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Oral Statement on Carrier Strike Capability.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/34172</id>
+    <published>2012-05-01T00:00:00+01:00</published>
+    <updated>2012-05-01T00:00:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/oral-statement-on-the-defence-budget-defence-secretary-14-may-2012"/>
+    <title>Oral Statement on the Defence Budget - Defence Secretary 14 May 2012</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Oral Statement on the Defence Budget.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/47574</id>
@@ -213,21 +223,5 @@ The Capability Review has been developed through extensive evidence-gathering wo
 &lt;p&gt;The results of the initial consultation stage can be read in the ‘Initial Consultation Results’ document under Related pages on the right-hand side.&lt;/p&gt;
 
 &lt;p&gt;MOD would like to thank all those who participated in the initial consultation.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56585</id>
-    <published>2012-03-23T00:00:00+00:00</published>
-    <updated>2012-03-23T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/national-counter-proliferation-strategy-2012-2015"/>
-    <title>National Counter Proliferation Strategy 2012-2015</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The government launched its new National Counter Proliferation Strategy ahead of the Nuclear Security Summit in Seoul on 26-27 March 2012.&lt;/p&gt;
-
-&lt;p&gt;Agreed by the National Security Council, it has 3 main objectives: &lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;to deny terrorists the materials and expertise to make and use weapons of mass destruction&lt;/li&gt;
-  &lt;li&gt;to stop countries such as Iran and North Korea from obtaining &lt;abbr title="weapons of mass destruction"&gt;WMD&lt;/abbr&gt; or advanced conventional weapons&lt;/li&gt;
-  &lt;li&gt;to build up the &lt;a rel="external" href="http://www.iaea.org/"&gt;International Atomic Energy Agency (IAEA)&lt;/a&gt;, &lt;a rel="external" href="http://www.un.org/en/"&gt;United Nations&lt;/a&gt; and other organisations and treaties that help us meet our objectives through the international community and which serve to underpin global security and prosperity&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</content>
   </entry>
 </feed>

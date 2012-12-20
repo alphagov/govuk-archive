@@ -8,7 +8,17 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-12-17T00:00:00+00:00</updated>
+  <updated>2012-12-19T00:00:00+00:00</updated>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60015</id>
+    <published>2012-12-19T00:00:00+00:00</published>
+    <updated>2012-12-19T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/one-in-one-out-third-statement-of-new-regulation"/>
+    <title>One-in, one-out: third statement of new regulation</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;A forward look of all regulations in scope of government’s ‘one-in, one-out’ regime that are scheduled to come into force between 1 January 2012 and 30 June 2012.&lt;/p&gt;
+
+&lt;p&gt;This is published every 6 months to give businesses an indication of when regulations affecting them will be coming into effect. It provides an overview of the net costs and benefits to business and civil society organisations, and forecasts a further reduction in new burdens on businesses by an estimated £4.17 million.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/56364</id>
     <published>2012-12-17T00:00:00+00:00</published>
@@ -28,15 +38,7 @@
 &lt;/ul&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56731</id>
-    <published>2012-12-17T00:00:00+00:00</published>
-    <updated>2012-12-17T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/bis-fifth-statement-of-new-regulation-regulations-covering-january-to-june-2013"/>
-    <title>BIS fifth statement of new regulation: regulations covering January to June 2013</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Lists Department of Business, Innovation and Skills (BIS) measures in scope of ‘One In, Two Out’ regulations to come into force from January to June 2013, to show how BIS is removing burdens on business.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56721</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60014</id>
     <published>2012-12-17T00:00:00+00:00</published>
     <updated>2012-12-17T00:00:00+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/fifth-statement-of-new-regulation-sonr"/>
@@ -44,6 +46,14 @@
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Provides a forward look of all regulations in scope of government’s ‘one-in, two-out’ regime that are scheduled to come into force between 1 January and 30 June 2013.&lt;/p&gt;
 
 &lt;p&gt;This is published every 6 months to give businesses an indication of when regulations affecting them will be coming into effect. The headline figures show that the sum total of Government deregulation by July 2013 is expected to reduce the annual cost to business by around £919 million.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60017</id>
+    <published>2012-12-17T00:00:00+00:00</published>
+    <updated>2012-12-17T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/bis-fifth-statement-of-new-regulation-regulations-covering-january-to-june-2013"/>
+    <title>BIS fifth statement of new regulation: regulations covering January to June 2013</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Lists Department for Business, Innovation and Skills (&lt;abbr title="Department for Business, Innovation and Skills"&gt;BIS&lt;/abbr&gt;) measures in scope of ‘One In, Two Out’ regulations to come into force from January to June 2013, to show how &lt;abbr title="Department for Business, Innovation and Skills"&gt;BIS&lt;/abbr&gt; is removing burdens on business.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/56356</id>
@@ -78,20 +88,20 @@
 &lt;p&gt;It is our intention to publish evidence at the end of the review when the reports are published. In the meantime, the Department for Business, Innovation and Skills plans to use section 22 to exempt FOI requests around evidence received.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/48188</id>
-    <published>2012-11-01T00:00:00+00:00</published>
-    <updated>2012-11-01T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/enterprise-regulatory-reform-bill-debtor-petition-reform"/>
-    <title>Enterprise &amp; Regulatory Reform Bill: debtor petition reform</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Overview of measures in the Enterprise and Regulatory Reform Bill relating to reform of the process by which an individual may apply for his or her own bankruptcy. Explains the main purpose and benefits, and provides context.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/48187</id>
     <published>2012-11-01T00:00:00+00:00</published>
     <updated>2012-11-01T00:00:00+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/enterprise-regulatory-reform-bill-copyright-licensing"/>
     <title>Enterprise &amp; Regulatory Reform Bill: copyright licensing</title>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Overview of measures in the Enterprise and Regulatory Reform Bill relating to copyright licensing. Explains the main purpose and benefits, and provides context.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/48188</id>
+    <published>2012-11-01T00:00:00+00:00</published>
+    <updated>2012-11-01T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/enterprise-regulatory-reform-bill-debtor-petition-reform"/>
+    <title>Enterprise &amp; Regulatory Reform Bill: debtor petition reform</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Overview of measures in the Enterprise and Regulatory Reform Bill relating to reform of the process by which an individual may apply for his or her own bankruptcy. Explains the main purpose and benefits, and provides context.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/56311</id>
@@ -142,20 +152,20 @@
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;A final stage assessment of the impact for a strict liability measure to be included in the Enterprise and Regulatory Reform Bill. Aims to address the unfairness that results when an employer, due to a strict liability duty, is found liable to pay damages to an employee despite having taken all reasonable steps to protect them. The intention is to redress the balance whilst ensuring employees continue to have the opportunity to claim for damages where an employer can be shown to be at fault.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/48133</id>
-    <published>2012-09-27T00:00:00+01:00</published>
-    <updated>2012-09-27T00:00:00+01:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/regulatory-triage-assessment-form"/>
-    <title>Regulatory triage assessment [form]</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Template to submit information on a regulatory proposal to the Reducing Regulation Committee. This Committee will determine whether the regulatory proposal can be fast tracked, without the requirement for Regulatory Policy Committee scrutiny.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/48132</id>
     <published>2012-09-27T00:00:00+01:00</published>
     <updated>2012-09-27T00:00:00+01:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/changes-to-impact-assessment-and-regulatory-policy-committee-scrutiny-quick-start-guide-for-policy-makers"/>
     <title>Changes to impact assessment and regulatory policy committee scrutiny: quick start guide for policy makers</title>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Guidance for policy makers on improvements to the system for impact assessment and Regulatory Policy Committee scrutiny. Aims to speed up implementing deregulatory measures and to focus scrutiny on measures that have the biggest impact on business.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/48133</id>
+    <published>2012-09-27T00:00:00+01:00</published>
+    <updated>2012-09-27T00:00:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/regulatory-triage-assessment-form"/>
+    <title>Regulatory triage assessment [form]</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Template to submit information on a regulatory proposal to the Reducing Regulation Committee. This Committee will determine whether the regulatory proposal can be fast tracked, without the requirement for Regulatory Policy Committee scrutiny.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/56860</id>
@@ -185,13 +195,5 @@
 The headline figures show the measures that will be introduced this year that are expected to reduce burdens on businesses by an estimated £0.3 million per year.&lt;/p&gt;
 
 &lt;p&gt;It provides an overview of the net costs and benefits to business and civil society organisations.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/45448</id>
-    <published>2012-07-17T00:00:00+01:00</published>
-    <updated>2012-07-17T00:00:00+01:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/department-of-business-innovation-skills-regulations-july-to-december-2012"/>
-    <title>Department of Business, Innovation &amp; Skills regulations: July to December 2012</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Informs businesses and interested stakeholders of Department for Business domestic regulations that come into force between July and December 2012.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
 </feed>

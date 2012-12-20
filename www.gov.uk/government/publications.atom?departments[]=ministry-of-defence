@@ -8,14 +8,16 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-12-18T00:00:00+00:00</updated>
+  <updated>2012-12-19T00:00:00+00:00</updated>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/57501</id>
-    <published>2012-12-18T00:00:00+00:00</published>
-    <updated>2012-12-18T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/service-inquiry-report-into-the-accident-involving-red-arrows-hawk-t-mk1-xx179-on-20-august-2011"/>
-    <title>Service Inquiry report into the accident involving Red Arrows Hawk T Mk1 XX179 on 20 August 2011</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;SI report into the accident involving RAF Aerobatic Team (RAFAT) Hawk T Mk1 XX179 near Bournemouth on 20 Aug 11&lt;/p&gt;&lt;/div&gt;</content>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/59911</id>
+    <published>2012-12-19T00:00:00+00:00</published>
+    <updated>2012-12-19T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/the-united-kingdom-s-future-nuclear-deterrent-2012-update-to-parliament"/>
+    <title>The United Kingdom’s future nuclear deterrent: 2012 update to Parliament</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;On 18 May 2011, the Ministry of Defence (MOD) announced that the first milestone (known as Initial Gate) for the Successor deterrent submarine programme had been passed and that a five year-long, £3 billion Assessment Phase had been approved. The main purpose of the Assessment Phase is to refine the design of the successor submarine prior to the main investment decision (known as Main Gate), which will be taken in 2016. &lt;/p&gt;
+
+&lt;p&gt;This is the first of a series of annual reports that will explain the progress the MOD has made on this programme and set out what is expected to be achieved over the coming year.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/57527</id>
@@ -24,6 +26,14 @@
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/release-of-wwii-raf-casualty-packs-to-the-tna"/>
     <title>Release of WWII RAF casualty packs to the TNA</title>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Outcome of limited public consultation on the transfer of WWII RAF casualty packs to the The National Archives (TNA).&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/57501</id>
+    <published>2012-12-18T00:00:00+00:00</published>
+    <updated>2012-12-18T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/service-inquiry-report-into-the-accident-involving-red-arrows-hawk-t-mk1-xx179-on-20-august-2011"/>
+    <title>Service Inquiry report into the accident involving Red Arrows Hawk T Mk1 XX179 on 20 August 2011</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;SI report into the accident involving RAF Aerobatic Team (RAFAT) Hawk T Mk1 XX179 near Bournemouth on 20 Aug 11&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/57027</id>
@@ -50,20 +60,12 @@
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Introduction to &lt;abbr title="Joint Service Publication"&gt;JSP&lt;/abbr&gt; 886 - The Defence Logistics Support Chain Manual, including a list of additions and amendments.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56852</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56870</id>
     <published>2012-12-17T00:00:00+00:00</published>
     <updated>2012-12-17T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/hms-cumberland-details"/>
-    <title>HMS Cumberland details</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Further information on HMS Cumberland.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56866</id>
-    <published>2012-12-17T00:00:00+00:00</published>
-    <updated>2012-12-17T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/defence-focus-magazine-266"/>
-    <title>Defence Focus magazine 266</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Defence Focus magazine issue 266 - December 2012 - January 2013&lt;/p&gt;&lt;/div&gt;</content>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/hms-cornwall-details"/>
+    <title>HMS Cornwall details</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Further information on HMS Cornwall.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/56973</id>
@@ -74,6 +76,25 @@
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Volume 3 of Joint Services Publication (JSP) 315: Services Accommodation Code deals with Reserves and Cadet Accommodation.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/59996</id>
+    <published>2012-12-17T00:00:00+00:00</published>
+    <updated>2012-12-17T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/notice-of-proposed-new-byelaws"/>
+    <title>Notice of proposed new Byelaws</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Notice of proposal for the introduction of new byelaws in respect of the Ministry of Defence site known as RAF Croughton.&lt;/p&gt;
+
+&lt;h2 id="proposed-new-byelaws"&gt;Proposed new Byelaws&lt;/h2&gt;
+&lt;p&gt;New byelaws which have been drafted following a comprehensive review of the site’s requirements and which are subject to public consultation. &lt;/p&gt;
+
+&lt;p&gt;The Ministry of Defence has determined that replacement / new byelaws are required to control the following sites:&lt;/p&gt;
+
+&lt;p&gt;RAF Croughton &lt;/p&gt;
+
+&lt;p&gt;(Due to publishing delays on the new website the consultation period has exceptionally been extended for a further 10 days from 50 to 60 days)&lt;/p&gt;
+
+&lt;p&gt;It is therefore proposed that the Secretary of State for Defence will make new byelaws for the above sites under the powers granted to him by the Military Lands Act 1892.  In order to enable public consultation and provide an overview of the work being undertaken within the review. Copies of the proposed new byelaws together with their accompanying public notices are included.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/56799</id>
     <published>2012-12-17T00:00:00+00:00</published>
     <updated>2012-12-17T00:00:00+00:00</updated>
@@ -82,12 +103,36 @@
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;In line with the Government’s Transparency and Open Data initiative, the Military Court Service has agreed to provide Court Martial results in respect of the Military Court Centres.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56824</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56866</id>
     <published>2012-12-17T00:00:00+00:00</published>
     <updated>2012-12-17T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/notice-of-proposed-new-byelaws"/>
-    <title>Notice of proposed new Byelaws</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Notice of proposal for the introduction of new byelaws in respect of the Ministry of Defence site known as RAF Croughton.&lt;/p&gt;&lt;/div&gt;</content>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/defence-focus-magazine-266"/>
+    <title>Defence Focus magazine 266</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Defence Focus magazine issue 266 - December 2012 - January 2013&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56864</id>
+    <published>2012-12-17T00:00:00+00:00</published>
+    <updated>2012-12-17T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/hms-chatham-details"/>
+    <title>HMS Chatham details</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Further information on HMS Chatham.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56856</id>
+    <published>2012-12-17T00:00:00+00:00</published>
+    <updated>2012-12-17T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/hms-campbeltown-details"/>
+    <title>HMS Campbeltown details</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Further information on HMS Campbeltown.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56852</id>
+    <published>2012-12-17T00:00:00+00:00</published>
+    <updated>2012-12-17T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/hms-cumberland-details"/>
+    <title>HMS Cumberland details</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Further information on HMS Cumberland.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/56730</id>
@@ -98,20 +143,20 @@
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Pre-qualification Questionnaire (PQQ) issued by the authority in connection with competitive sales for the disposal of government vessels.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/55605</id>
-    <published>2012-12-12T00:00:00+00:00</published>
-    <updated>2012-12-12T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/daily-messing-rates"/>
-    <title>Daily Messing Rates</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Daily Messing Rates information&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/55622</id>
     <published>2012-12-12T00:00:00+00:00</published>
     <updated>2012-12-12T00:00:00+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/dio-operations-accommodation-customer-satisfaction-key-performance-indicators"/>
     <title>DIO Operations Accommodation Customer Satisfaction Key Performance Indicators</title>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;These Key Performance Indicators (KPI) were developed after consultation with UK Service Family Accommodation key stakeholders, including representatives of Service families. The KPIs provide information on various aspects of the strategic and operational performance of Defence Infrastructure Organisation (DIO) Operations Accommodation and the maintenance Housing Prime Contractor (MODern Housing Solutions – MHS).  They are issued monthly. In addition, a Statement of Charge KPIs (2012/13) has also been provided.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/55605</id>
+    <published>2012-12-12T00:00:00+00:00</published>
+    <updated>2012-12-12T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/daily-messing-rates"/>
+    <title>Daily Messing Rates</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Daily Messing Rates information&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/50164</id>
@@ -122,30 +167,6 @@
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;In line with other government departments the &lt;abbr title="Ministry of Defence"&gt;MOD&lt;/abbr&gt; is publishing details of the non-consolidated performance awards paid to Senior Civil Service staff, Senior Fixed term Appointees and staff below the &lt;abbr title="Senior Civil Service"&gt;SCS&lt;/abbr&gt;.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/50180</id>
-    <published>2012-12-11T00:00:00+00:00</published>
-    <updated>2012-12-11T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/senior-staff-business-expenses"/>
-    <title>Senior staff: business expenses</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The &lt;abbr title="Ministry of Defence"&gt;MOD&lt;/abbr&gt; publishes the expenses of its most senior Civil Servants on a quarterly basis.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/50179</id>
-    <published>2012-12-11T00:00:00+00:00</published>
-    <updated>2012-12-11T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/senior-staff-hospitality-received"/>
-    <title>Senior staff: hospitality received</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Ministry of Defence publishes the hospitality received of its most senior Civil Servants on a quarterly basis.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/50174</id>
-    <published>2012-12-11T00:00:00+00:00</published>
-    <updated>2012-12-11T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/senior-officers-of-the-armed-forces-business-expenses"/>
-    <title>Senior Officers of the Armed Forces: business expenses</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;In addition to publishing the business expenses incurred by the most senior Civil Servants on official duty, the Ministry of Defence will now be publishing the business expenses of the most senior Officers of the Armed Forces on a quarterly basis.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/50171</id>
     <published>2012-12-11T00:00:00+00:00</published>
     <updated>2012-12-11T00:00:00+00:00</updated>
@@ -154,60 +175,11 @@
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;In addition to publishing the hospitality received of our most senior Civil Servants, the Ministry of Defence will now be publishing the hospitality received of the most senior Officers of the Armed Forces on a quarterly basis.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/43780</id>
-    <published>2012-12-10T00:00:00+00:00</published>
-    <updated>2012-12-10T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/second-world-war-commemorative-booklets"/>
-    <title>Second World War Commemorative Booklets</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;A series of second World War Commemorative booklets telling the story of the following&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;The turning point in the war with Japan&lt;/li&gt;
-  &lt;li&gt;Securing the Allies route to Rome&lt;/li&gt;
-  &lt;li&gt;The amphibious invasion that established the Second Front&lt;/li&gt;
-  &lt;li&gt;The Drive on Caen, Northern France (7 June - 9 July 1944)&lt;/li&gt;
-  &lt;li&gt;Overcoming Hitler’s attempt to throw the Allies back into the sea&lt;/li&gt;
-  &lt;li&gt;The Allies’ attempt to establish a bridgehead into Germany&lt;/li&gt;
-  &lt;li&gt;Allied troops witness the horror of genocide&lt;/li&gt;
-  &lt;li&gt;The days of rapid advance across North West Europe&lt;/li&gt;
-  &lt;li&gt;The decisive defeat of the German forces in Normandy&lt;/li&gt;
-  &lt;li&gt;The days of rapid advance across North West Europe&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/43719</id>
-    <published>2012-12-10T00:00:00+00:00</published>
-    <updated>2012-12-10T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/history-of-the-ministry-of-defence"/>
-    <title>History of the Ministry of Defence</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Ministry of Defence (MOD) is a relatively young organisation - it has only existed in its present form since 1971 - but its predecessors go back to the times of Henry VII in the 16th century.&lt;/p&gt;
-
-&lt;h2 id="origins"&gt;Origins&lt;/h2&gt;
-
-&lt;p&gt;That the MOD can seem complex and confusing is partly attributable to the variety of tasks we undertake, but another reason lies in the Department’s origins. Today’s MOD is a fusion of old ministries: from 1946 to 1964 there were five Departments of State doing what the unified MOD does now: the Admiralty, the War Office, the Air Ministry, the Ministry of Aviation and the Ministry of Defence itself. In 1964 the first three and the MOD were amalgamated, and the defence functions of the Ministry of Aviation Supply (as it had by then become) were absorbed in 1971, when the MOD took over responsibility for supplying military aircraft and guided weapons.&lt;/p&gt;
-
-&lt;h2 id="the-admiralty"&gt;The Admiralty&lt;/h2&gt;
-
-&lt;p&gt;The oldest of these Departments was the Admiralty, responsible for the Navy. In 1546 Henry VIII created a Navy Board to oversee the administrative affairs of the naval service; policy direction, operational control and maritime jurisdiction remained in the hands of the Lord High Admiral. From 1628 this post was more often than not filled by a “committee” of Lords Commissioners - the Board of Admiralty, whose head was the First Lord, the Minister who was the political master of the Navy. For 200 years the Navy was run by these two Boards, under a system devised largely by Samuel Pepys.&lt;/p&gt;
-
-&lt;p&gt;The organisation served well enough during the wars with the Spanish, Dutch and French, but relations between the two Boards were not always harmonious. In 1832 a reforming First Lord abolished the Navy Board, bringing its functions under the superintendence of “Their Lordships” - the Board of Admiralty.&lt;/p&gt;
-
-&lt;p&gt;In the eighteenth century the Department moved to the building in Whitehall still called the Old Admiralty. The Admiralty Board continues to hold meetings in the historic Boardroom in the Old Admiralty Building.&lt;/p&gt;
-
-&lt;h2 id="the-war-office"&gt;The War Office&lt;/h2&gt;
-
-&lt;p&gt;The War Office, responsible for the Army, was originally the Secretary at War’s office. The first holder of the post was killed in battle - at sea - against the Dutch in 1666. It was not at first a big spending Department; office expenses for six months of 1673 amounted to £14 9s 0d. It became however of increasing importance in the political control of the Army, although it was not the only Government Department involved - in 1815 there were fifteen.&lt;/p&gt;
-
-&lt;p&gt;This was not an efficient system, and finally in 1854 the War Office was set up to take over all political and financial control of the Army. Even that was not a complete success. Florence Nightingale, who was a friend of the Secretary of State and very interested in the cause of military reform after her experiences during the Crimean War, wrote to him in 1859, describing the War Office as “a very slow office, an enormously expensive office, a not very efficient office”. After many years of gradual change the War Office was finally reformed in 1904 on the lines of the Board of Admiralty, with the Secretary of State chairing the Army Council, and a new office for it was built in Whitehall.&lt;/p&gt;
-
-&lt;h2 id="the-air-ministry"&gt;The Air Ministry&lt;/h2&gt;
-
-&lt;p&gt;The Air Ministry was created in January 1918 to oversee the birth in April 1918 of the Royal Air Force from the amalgamation of the Royal Flying Corps and the Royal Naval Air Service. The organisation was broadly similar to that of the Admiralty and the War Office, with a Secretary of State chairing the Air Council and the senior RAF member holding the post of Chief of the Air Staff. In 1919 the Air Ministry moved to Adastral House, then in Kingsway. In 1952 the central part of the Air Ministry moved to the new building in Whitehall Gardens that was later to become the Main Building of the Ministry of Defence.&lt;/p&gt;
-
-&lt;h2 id="the-procurement-executive"&gt;The Procurement Executive&lt;/h2&gt;
-
-&lt;p&gt;The supply of military aircraft, which had been the responsibility of the Air Ministry, was transferred in 1940 to a new Ministry of Aircraft Production, which in 1946 was amalgamated with the Ministry of Supply. In further reorganisations the task was switched to the Ministry of Aviation in 1959, to the Ministry of Technology in 1967 and finally to the Ministry of Aviation Supply in 1970. In 1971 the Government called on Mr Derek Rayner to advise on its relations with the aviation industry. One of his principal recommendations was the transfer to the MOD of the military aviation task, to be undertaken by a separate organisation within the MOD, which would also assume the responsibility for all other military procurement.&lt;/p&gt;
-
-&lt;p&gt;The Procurement Executive was born on 2 August 1971, with Mr (later Lord) Rayner as its first Chief Executive. In 1995, it collocated to the purpose-built Abbey Wood complex in Filton, north Bristol and in 1999 became an Executive Agency of the MOD.&lt;/p&gt;&lt;/div&gt;</content>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/50174</id>
+    <published>2012-12-11T00:00:00+00:00</published>
+    <updated>2012-12-11T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/senior-officers-of-the-armed-forces-business-expenses"/>
+    <title>Senior Officers of the Armed Forces: business expenses</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;In addition to publishing the business expenses incurred by the most senior Civil Servants on official duty, the Ministry of Defence will now be publishing the business expenses of the most senior Officers of the Armed Forces on a quarterly basis.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
 </feed>

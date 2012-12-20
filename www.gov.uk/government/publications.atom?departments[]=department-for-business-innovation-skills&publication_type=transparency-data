@@ -8,7 +8,15 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-12-17T00:00:00+00:00</updated>
+  <updated>2012-12-19T00:00:00+00:00</updated>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/59916</id>
+    <published>2012-12-19T00:00:00+00:00</published>
+    <updated>2012-12-19T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/permanent-secretary-individual-performance-objectives-2012-to-2013"/>
+    <title>Permanent Secretary individual performance objectives 2012 to 2013</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Defines the role and objectives of Martin Donnelly, the Permanent Secretary, for the 2012 to 2013 period.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/56833</id>
     <published>2012-12-17T00:00:00+00:00</published>
@@ -42,51 +50,11 @@
 &lt;p&gt;Covers April to October of the financial year 2012 to 2013.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/17654</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/17653</id>
     <published>2012-12-04T00:00:00+00:00</published>
     <updated>2012-12-04T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/bis-leavers-diversity-statistics-2010-to-2011"/>
-    <title>BIS leavers diversity statistics: 2010 to 2011</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Contains breakdown of staff by grade for core BIS, including UK Trade &amp;amp; Investment. Covers the financial year 2010 to 2011.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/17652</id>
-    <published>2012-12-04T00:00:00+00:00</published>
-    <updated>2012-12-04T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/bis-flexible-working-arrangements-2010-to-2011"/>
-    <title>BIS flexible working arrangements: 2010 to 2011</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Contains breakdown of staff by grade for core BIS, including UK Trade &amp;amp; Investment. Covers the financial year 2010 to 2011.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/17645</id>
-    <published>2012-12-04T00:00:00+00:00</published>
-    <updated>2012-12-04T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/bis-overall-staff-declaration-rates-2010-to-2011"/>
-    <title>BIS overall staff declaration rates 2010 to 2011</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Contains breakdown of staff by grade for core BIS, including UK Trade &amp;amp; Investment. Covers the financial year 2010 to 2011.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/17647</id>
-    <published>2012-12-04T00:00:00+00:00</published>
-    <updated>2012-12-04T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/bis-staff-in-post-2010-to-2011"/>
-    <title>BIS staff in post: 2010 to 2011</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Contains breakdown of staff by grade for core BIS, including UK Trade &amp;amp; Investment. Covers the financial year 2010 to 2011.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/17648</id>
-    <published>2012-12-04T00:00:00+00:00</published>
-    <updated>2012-12-04T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/bis-recruitment-2010-to-2011"/>
-    <title>BIS recruitment: 2010 to 2011</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Contains breakdown of staff by grade for core BIS, including UK Trade &amp;amp; Investment. Covers the financial year 2010 to 2011.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/17655</id>
-    <published>2012-12-04T00:00:00+00:00</published>
-    <updated>2012-12-04T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/bis-equality-and-diversity-2010-to-2011"/>
-    <title>BIS equality and diversity: 2010 to 2011</title>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/bis-learning-and-development-2010-to-2011"/>
+    <title>BIS learning and development: 2010 to 2011</title>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Contains breakdown of staff by grade for core BIS, including UK Trade &amp;amp; Investment. Covers the financial year 2010 to 2011.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
@@ -98,11 +66,43 @@
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Contains breakdown of staff by grade for core BIS, including UK Trade &amp;amp; Investment. Covers the financial year 2010 to 2011.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/17653</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/17645</id>
     <published>2012-12-04T00:00:00+00:00</published>
     <updated>2012-12-04T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/bis-learning-and-development-2010-to-2011"/>
-    <title>BIS learning and development: 2010 to 2011</title>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/bis-overall-staff-declaration-rates-2010-to-2011"/>
+    <title>BIS overall staff declaration rates 2010 to 2011</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Contains breakdown of staff by grade for core BIS, including UK Trade &amp;amp; Investment. Covers the financial year 2010 to 2011.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/17655</id>
+    <published>2012-12-04T00:00:00+00:00</published>
+    <updated>2012-12-04T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/bis-equality-and-diversity-2010-to-2011"/>
+    <title>BIS equality and diversity: 2010 to 2011</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Contains breakdown of staff by grade for core BIS, including UK Trade &amp;amp; Investment. Covers the financial year 2010 to 2011.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/17654</id>
+    <published>2012-12-04T00:00:00+00:00</published>
+    <updated>2012-12-04T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/bis-leavers-diversity-statistics-2010-to-2011"/>
+    <title>BIS leavers diversity statistics: 2010 to 2011</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Contains breakdown of staff by grade for core BIS, including UK Trade &amp;amp; Investment. Covers the financial year 2010 to 2011.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/17647</id>
+    <published>2012-12-04T00:00:00+00:00</published>
+    <updated>2012-12-04T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/bis-staff-in-post-2010-to-2011"/>
+    <title>BIS staff in post: 2010 to 2011</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Contains breakdown of staff by grade for core BIS, including UK Trade &amp;amp; Investment. Covers the financial year 2010 to 2011.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/17652</id>
+    <published>2012-12-04T00:00:00+00:00</published>
+    <updated>2012-12-04T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/bis-flexible-working-arrangements-2010-to-2011"/>
+    <title>BIS flexible working arrangements: 2010 to 2011</title>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Contains breakdown of staff by grade for core BIS, including UK Trade &amp;amp; Investment. Covers the financial year 2010 to 2011.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
@@ -114,99 +114,95 @@
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Contains breakdown of staff by grade for core BIS, including UK Trade &amp;amp; Investment. Covers the financial year 2010 to 2011.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/17604</id>
-    <published>2012-12-03T00:00:00+00:00</published>
-    <updated>2012-12-03T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/bis-workforce-management-september-2011"/>
-    <title>BIS workforce management: September 2011</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;For workforce numbers, both payroll and non-payroll (contingent labour, including consultants) information is provided, split between full-time equivalents (FTE) and headcount, with payroll staff numbers mapped to standard Civil Service grades.&lt;/p&gt;
-
-&lt;p&gt;For costs, payroll paybill information is broken down into its component parts i.e. salaries, allowances, employers pensions contributions etc. For non-payroll costs, these are split between costs for consultancy and those of other non-payroll workers.&lt;/p&gt;
-
-&lt;p&gt;Covers September of the financial year 2011 to 2012.&lt;/p&gt;&lt;/div&gt;</content>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/17648</id>
+    <published>2012-12-04T00:00:00+00:00</published>
+    <updated>2012-12-04T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/bis-recruitment-2010-to-2011"/>
+    <title>BIS recruitment: 2010 to 2011</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Contains breakdown of staff by grade for core BIS, including UK Trade &amp;amp; Investment. Covers the financial year 2010 to 2011.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/17608</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/17616</id>
     <published>2012-12-03T00:00:00+00:00</published>
     <updated>2012-12-03T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/bis-workforce-management-august-2011"/>
-    <title>BIS workforce management: August 2011</title>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/bis-workforce-management-may-2011"/>
+    <title>BIS workforce management: May 2011</title>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;For workforce numbers, both payroll and non-payroll (contingent labour, including consultants) information is provided, split between full-time equivalents (FTE) and headcount, with payroll staff numbers mapped to standard Civil Service grades.&lt;/p&gt;
 
 &lt;p&gt;For costs, payroll paybill information is broken down into its component parts i.e. salaries, allowances, employers pensions contributions etc. For non-payroll costs, these are split between costs for consultancy and those of other non-payroll workers.&lt;/p&gt;
 
-&lt;p&gt;Covers August of the financial year 2011 to 2012.&lt;/p&gt;&lt;/div&gt;</content>
+&lt;p&gt;Covers May of the financial year 2011 to 2012.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/17594</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/17617</id>
     <published>2012-12-03T00:00:00+00:00</published>
     <updated>2012-12-03T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/bis-workforce-management-december-2011"/>
-    <title>BIS workforce management: December 2011</title>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/bis-workforce-management-april-2011"/>
+    <title>BIS workforce management: April 2011</title>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;For workforce numbers, both payroll and non-payroll (contingent labour, including consultants) information is provided, split between full-time equivalents (FTE) and headcount, with payroll staff numbers mapped to standard Civil Service grades.&lt;/p&gt;
 
 &lt;p&gt;For costs, payroll paybill information is broken down into its component parts i.e. salaries, allowances, employers pensions contributions etc. For non-payroll costs, these are split between costs for consultancy and those of other non-payroll workers.&lt;/p&gt;
 
-&lt;p&gt;Covers December of the financial year 2011 to 2012.&lt;/p&gt;&lt;/div&gt;</content>
+&lt;p&gt;Covers April of the financial year 2011 to 2012.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/17598</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/17612</id>
     <published>2012-12-03T00:00:00+00:00</published>
     <updated>2012-12-03T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/bis-workforce-management-november-2011--2"/>
-    <title>BIS workforce management: November 2011</title>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/bis-workforce-management-june-2011"/>
+    <title>BIS workforce management: June 2011</title>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;For workforce numbers, both payroll and non-payroll (contingent labour, including consultants) information is provided, split between full-time equivalents (FTE) and headcount, with payroll staff numbers mapped to standard Civil Service grades.&lt;/p&gt;
 
 &lt;p&gt;For costs, payroll paybill information is broken down into its component parts i.e. salaries, allowances, employers pensions contributions etc. For non-payroll costs, these are split between costs for consultancy and those of other non-payroll workers.&lt;/p&gt;
 
-&lt;p&gt;Covers November of the financial year 2011 to 2012.&lt;/p&gt;&lt;/div&gt;</content>
+&lt;p&gt;Covers June of the financial year 2011 to 2012.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/17603</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/17620</id>
     <published>2012-12-03T00:00:00+00:00</published>
     <updated>2012-12-03T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/bis-workforce-management-october-2011"/>
-    <title>BIS workforce management: October 2011</title>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/bis-workforce-management-september-2012"/>
+    <title>BIS workforce management: September 2012</title>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;For workforce numbers, both payroll and non-payroll (contingent labour, including consultants) information is provided, split between full-time equivalents (FTE) and headcount, with payroll staff numbers mapped to standard Civil Service grades.&lt;/p&gt;
 
 &lt;p&gt;For costs, payroll paybill information is broken down into its component parts i.e. salaries, allowances, employers pensions contributions etc. For non-payroll costs, these are split between costs for consultancy and those of other non-payroll workers.&lt;/p&gt;
 
-&lt;p&gt;Covers October of the financial year 2011 to 2012.&lt;/p&gt;&lt;/div&gt;</content>
+&lt;p&gt;Covers September of the financial year 2012 to 2013.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/17611</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/17622</id>
     <published>2012-12-03T00:00:00+00:00</published>
     <updated>2012-12-03T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/bis-workforce-management-july-2011"/>
-    <title>BIS workforce management: July 2011</title>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/bis-workforce-management-august-2012"/>
+    <title>BIS workforce management: August 2012</title>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;For workforce numbers, both payroll and non-payroll (contingent labour, including consultants) information is provided, split between full-time equivalents (FTE) and headcount, with payroll staff numbers mapped to standard Civil Service grades.&lt;/p&gt;
 
 &lt;p&gt;For costs, payroll paybill information is broken down into its component parts i.e. salaries, allowances, employers pensions contributions etc. For non-payroll costs, these are split between costs for consultancy and those of other non-payroll workers.&lt;/p&gt;
 
-&lt;p&gt;Covers July of the financial year 2011 to 2012.&lt;/p&gt;&lt;/div&gt;</content>
+&lt;p&gt;Covers August of the financial year 2012 to 2013.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/17632</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/17624</id>
     <published>2012-12-03T00:00:00+00:00</published>
     <updated>2012-12-03T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/bis-workforce-management-april-2011-to-march-2012"/>
-    <title>BIS workforce management: April 2011 to March 2012</title>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/bis-workforce-management-july-2012"/>
+    <title>BIS workforce management: July 2012</title>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;For workforce numbers, both payroll and non-payroll (contingent labour, including consultants) information is provided, split between full-time equivalents (FTE) and headcount, with payroll staff numbers mapped to standard Civil Service grades.&lt;/p&gt;
 
 &lt;p&gt;For costs, payroll paybill information is broken down into its component parts i.e. salaries, allowances, employers pensions contributions etc. For non-payroll costs, these are split between costs for consultancy and those of other non-payroll workers.&lt;/p&gt;
 
-&lt;p&gt;Covers April to March of the financial year 2011 to 2012.&lt;/p&gt;&lt;/div&gt;</content>
+&lt;p&gt;Covers July of the financial year 2012 to 2013.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/17637</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/17626</id>
     <published>2012-12-03T00:00:00+00:00</published>
     <updated>2012-12-03T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/bis-workforce-management-baseline-april-2011-to-march-2012"/>
-    <title>BIS workforce management: baseline, April 2011 to March 2012</title>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/bis-workforce-management-june-2012"/>
+    <title>BIS workforce management: June 2012</title>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;For workforce numbers, both payroll and non-payroll (contingent labour, including consultants) information is provided, split between full-time equivalents (FTE) and headcount, with payroll staff numbers mapped to standard Civil Service grades.&lt;/p&gt;
 
 &lt;p&gt;For costs, payroll paybill information is broken down into its component parts i.e. salaries, allowances, employers pensions contributions etc. For non-payroll costs, these are split between costs for consultancy and those of other non-payroll workers.&lt;/p&gt;
 
-&lt;p&gt;Covers the financial year 2011 to 2012.&lt;/p&gt;&lt;/div&gt;</content>
+&lt;p&gt;Covers June of the financial year 2012 to 2013.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
 </feed>
