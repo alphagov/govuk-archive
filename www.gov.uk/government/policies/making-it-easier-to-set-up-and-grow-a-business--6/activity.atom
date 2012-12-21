@@ -109,15 +109,6 @@
 &lt;/ol&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:Publication/57071</id>
-    <published>2012-12-18T00:00:00+00:00</published>
-    <updated>2012-12-18T12:25:16+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/number-of-enterprise-finance-guarantee-efg-scheme-loans-drawn"/>
-    <title>Number and value of Enterprise Finance Guarantee (EFG) scheme loans drawn.</title>
-    <category>Publication</category>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Number and value of EFG loans drawn, by bank.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
     <id>tag:www.gov.uk,2005:Speech/57077</id>
     <published>2012-12-18T00:00:00+00:00</published>
     <updated>2012-12-18T12:38:42+00:00</updated>
@@ -143,28 +134,37 @@
 &lt;p&gt;&lt;a href="https://www.gov.uk/government/publications/number-of-enterprise-finance-guarantee-efg-scheme-loans-drawn"&gt;The full list of available &lt;abbr title="Enterprise Finance Guarantee"&gt;EFG&lt;/abbr&gt; loans drawn, by bank.&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:NewsArticle/56672</id>
-    <published>2012-12-14T17:47:04+00:00</published>
+    <id>tag:www.gov.uk,2005:Publication/60156</id>
+    <published>2012-12-18T00:00:00+00:00</published>
+    <updated>2012-12-20T13:08:06+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/number-of-enterprise-finance-guarantee-efg-scheme-loans-drawn"/>
+    <title>Number and value of Enterprise Finance Guarantee (EFG) scheme loans drawn.</title>
+    <category>Publication</category>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Number and value of EFG loans drawn, by bank.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:NewsArticle/60131</id>
+    <published>2012-12-14T17:47:00+00:00</published>
     <updated>2012-12-14T17:47:04+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/small-businesses-to-benefit-from-1-1-million-innovation-boost"/>
     <title>Small businesses to benefit from £1.1 million innovation boost</title>
     <category>News Article</category>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Innovation is vital for business growth. The aim is simple – to accelerate economic growth by stimulating and supporting business-led innovation.&lt;/p&gt;
 
-&lt;p&gt;A £2 million fund has been created for the Innovation Vouchers scheme, running over the next three years. The vouchers provide £5000 for a UK start-up, micro, small or medium-sized businesses to work with external experts and gain new knowledge to help their business.&lt;/p&gt;
+&lt;p&gt;A £2 million fund has been created for the Innovation Vouchers scheme, running over the next 3 years. The vouchers provide £5000 for a UK start-up, micro, small or medium-sized businesses to work with external experts and gain new knowledge to help their business.&lt;/p&gt;
 
 &lt;p&gt;The extra £1.1 million announced today is for companies who want to use public open data to commercialise their ideas and develop products and prototypes.&lt;/p&gt;
 
 &lt;p&gt;An open data business innovator or inventors could use an Innovation Voucher by:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Grow ing services and solutions using open data&lt;/li&gt;
-  &lt;li&gt;Developing an idea into a working prototype&lt;/li&gt;
-  &lt;li&gt;Integrating open data with other data sources to develop products and prototypes&lt;/li&gt;
-  &lt;li&gt;Seeking Intellectual Property advice in respect of ideas incorporating open data&lt;/li&gt;
-&lt;/ul&gt;&lt;p&gt;The scheme is already open to businesses who want to develop ideas relating to the Agri-food, Built Environment, Space industries, Energy, Water and Waste sectors, with a hundred vouchers allocated every three months.&lt;/p&gt;
+&lt;li&gt;growing services and solutions using open data&lt;/li&gt;
+  &lt;li&gt;developing an idea into a working prototype&lt;/li&gt;
+  &lt;li&gt;integrating open data with other data sources to develop products and prototypes&lt;/li&gt;
+  &lt;li&gt;seeking intellectual property advice in respect of ideas incorporating open data&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;The scheme is already open to businesses who want to develop ideas relating to the agri-food, built environment, space industries, energy, water and waste sectors, with a hundred vouchers allocated every 3 months.&lt;/p&gt;
 
-&lt;p&gt;The latest figures from round one show that over 200 projects were successful in the draw for Innovation Vouchers for Agri-Food, Built Environment and Space.&lt;/p&gt;
+&lt;p&gt;The latest figures from round one show that over 200 projects were successful in the draw for Innovation Vouchers for agri-food, built environment and space.&lt;/p&gt;
 
 &lt;p&gt;Making the announcement, Universities and Science Minister David Willetts said:&lt;/p&gt;
 
@@ -179,12 +179,12 @@
 &lt;p&gt;Business can use their Innovation Vouchers to work with knowledge suppliers such as:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Universities and further education colleges&lt;/li&gt;
-  &lt;li&gt;Research and technology organisations&lt;/li&gt;
-  &lt;li&gt;Technical consultancies&lt;/li&gt;
-  &lt;li&gt;Catapult centres&lt;/li&gt;
-  &lt;li&gt;Design advisers&lt;/li&gt;
-  &lt;li&gt;Intellectual property advisers.&lt;/li&gt;
+&lt;li&gt;universities and further education colleges&lt;/li&gt;
+  &lt;li&gt;research and technology organisations&lt;/li&gt;
+  &lt;li&gt;technical consultancies&lt;/li&gt;
+  &lt;li&gt;catapult centres&lt;/li&gt;
+  &lt;li&gt;design advisers&lt;/li&gt;
+  &lt;li&gt;intellectual property advisers&lt;/li&gt;
 &lt;/ul&gt;&lt;p&gt;The additional funding for open data vouchers comes after BIS announced this week new measures &lt;a rel="external" href="http://news.bis.gov.uk/Press-Releases/New-funding-to-accelerate-benefits-of-open-data-684c1.aspx"&gt;to open up access to public data&lt;/a&gt;, including a new £7.5 million Data Strategy Board Breakthrough Fund and a new £850,000 open data Immersion Programme which will assist public organisations and companies in opening up new opportunities for data.&lt;/p&gt;
 
 &lt;h3 id="links"&gt;Links&lt;/h3&gt;

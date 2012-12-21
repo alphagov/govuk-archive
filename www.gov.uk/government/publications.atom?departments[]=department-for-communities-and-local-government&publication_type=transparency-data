@@ -8,7 +8,15 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-12-14T00:00:00+00:00</updated>
+  <updated>2012-12-20T00:00:00+00:00</updated>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60093</id>
+    <published>2012-12-20T00:00:00+00:00</published>
+    <updated>2012-12-20T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/non-consolidated-performance-related-payments-2011-to-2012"/>
+    <title>Non-consolidated performance related payments 2011 to 2012</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Non-consolidated performance related payments for 2011 to 2012.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/56567</id>
     <published>2012-12-14T00:00:00+00:00</published>
@@ -45,12 +53,12 @@
 &lt;/ul&gt;&lt;p&gt;The data is published in CSV and Excel formats in payment date sequence.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/28507</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/28474</id>
     <published>2012-12-07T00:00:00+00:00</published>
     <updated>2012-12-07T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/workforce-management-information-october-2012"/>
-    <title>Workforce management information: October 2012 </title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Details of the workforce management data for October 2012.&lt;/p&gt;
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/workforce-management-information-september-2012"/>
+    <title>Workforce management information: September 2012</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Details of the workforce management data for September 2012.&lt;/p&gt;
 
 &lt;p&gt;These figures are not official statistics. They are internal workforce management information published in the interests of transparency.&lt;/p&gt;
 
@@ -61,12 +69,12 @@
 &lt;p&gt;Given the wide range of organisations covered, caution should be exercised when drawing inferences from the figures and care should be taken when making comparisons between organisations.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/28474</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/28507</id>
     <published>2012-12-07T00:00:00+00:00</published>
     <updated>2012-12-07T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/workforce-management-information-september-2012"/>
-    <title>Workforce management information: September 2012</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Details of the workforce management data for September 2012.&lt;/p&gt;
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/workforce-management-information-october-2012"/>
+    <title>Workforce management information: October 2012 </title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Details of the workforce management data for October 2012.&lt;/p&gt;
 
 &lt;p&gt;These figures are not official statistics. They are internal workforce management information published in the interests of transparency.&lt;/p&gt;
 
@@ -118,20 +126,20 @@
 &lt;/ol&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/16819</id>
-    <published>2012-11-23T00:00:00+00:00</published>
-    <updated>2012-11-23T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/dclg-exceptions-to-spending-controls-1-april-2012-to-30-september-2012"/>
-    <title>DCLG exceptions to spending controls: 1 April 2012 to 30 September 2012</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Approved spending for Department for Communities and Local Government for 1 April 2012 to 30 September 2012.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/16838</id>
     <published>2012-11-23T00:00:00+00:00</published>
     <updated>2012-11-23T00:00:00+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/queen-elizabeth-ii-conference-centre-expenditure-october-2012"/>
     <title>Queen Elizabeth II Conference Centre expenditure: October 2012</title>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Spending over £250 for the Queen Elizabeth II Conference Centre for October 2012.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/16819</id>
+    <published>2012-11-23T00:00:00+00:00</published>
+    <updated>2012-11-23T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/dclg-exceptions-to-spending-controls-1-april-2012-to-30-september-2012"/>
+    <title>DCLG exceptions to spending controls: 1 April 2012 to 30 September 2012</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Approved spending for Department for Communities and Local Government for 1 April 2012 to 30 September 2012.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/16401</id>
@@ -150,44 +158,12 @@
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Improvement notice issued to Walsall Metropolitan Borough Council by the Department for Education.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/15136</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/15144</id>
     <published>2012-11-13T00:00:00+00:00</published>
     <updated>2012-11-13T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/dclg-special-advisers-data-january-to-march-2012"/>
-    <title>DCLG special advisers data: January to March 2012</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Details of meetings between special advisers to the DCLG and media and business representatives, as well as of gifts and hospitality received by them. This data supports the government’s commitment to transparency and covers the period from January to March 2012.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/15129</id>
-    <published>2012-11-13T00:00:00+00:00</published>
-    <updated>2012-11-13T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/dclg-special-advisers-data-august-to-september-2010"/>
-    <title>DCLG special advisers data: August to September 2010</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Details of meetings between special advisers to the DCLG and media and business representatives, as well as of gifts and hospitality received by them. This data supports the government’s commitment to transparency and covers the period from August to September 2010.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/15132</id>
-    <published>2012-11-13T00:00:00+00:00</published>
-    <updated>2012-11-13T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/dclg-special-advisers-data-january-to-march-2011"/>
-    <title> DCLG special advisers data: January to March 2011</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Details of meetings between special advisers to the DCLG and media and business representatives, as well as of gifts and hospitality received by them. This data supports the government’s commitment to transparency and covers the period from January to March 2011.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/15122</id>
-    <published>2012-11-13T00:00:00+00:00</published>
-    <updated>2012-11-13T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/dclg-special-advisers-data-april-to-june-2012"/>
-    <title>DCLG special advisers data: April to June 2012</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Details of meetings between special advisers to the DCLG and media and business representatives, as well as of gifts and hospitality received by them. This data supports the government’s commitment to transparency and covers the period from April to June 2012.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/15139</id>
-    <published>2012-11-13T00:00:00+00:00</published>
-    <updated>2012-11-13T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/dclg-special-advisers-data-july-to-september-2011"/>
-    <title>DCLG special advisers data: July to September 2011</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Details of meetings between special advisers to the DCLG and media and business representatives, as well as of gifts and hospitality received by them. This data supports the government’s commitment to transparency and covers the period from July to September 2011.&lt;/p&gt;&lt;/div&gt;</content>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/dclg-special-advisers-data-october-to-december-2010"/>
+    <title>DCLG special advisers data: October to December 2010</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Details of meetings between special advisers to the DCLG and media and business representatives, as well as of gifts and hospitality received by them. This data supports the government’s commitment to transparency and covers the period from October to December 2010.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/15141</id>
@@ -198,19 +174,141 @@
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Details of meetings between special advisers to the DCLG and media and business representatives, as well as of gifts and hospitality received by them. This data supports the government’s commitment to transparency and covers the period from May to July 2010.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/15144</id>
-    <published>2012-11-13T00:00:00+00:00</published>
-    <updated>2012-11-13T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/dclg-special-advisers-data-october-to-december-2010"/>
-    <title>DCLG special advisers data: October to December 2010</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Details of meetings between special advisers to the DCLG and media and business representatives, as well as of gifts and hospitality received by them. This data supports the government’s commitment to transparency and covers the period from October to December 2010.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/15148</id>
     <published>2012-11-13T00:00:00+00:00</published>
     <updated>2012-11-13T00:00:00+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/dclg-special-advisers-data-october-to-december-2011"/>
     <title>DCLG special advisers data: October to December 2011</title>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Details of meetings between special advisers to the DCLG and media and business representatives, as well as of gifts and hospitality received by them. This data supports the government’s commitment to transparency and covers the period from October and December 2011.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/16280</id>
+    <published>2012-11-13T00:00:00+00:00</published>
+    <updated>2012-11-13T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/local-government-fire-service-expenditure"/>
+    <title>Local government fire service expenditure</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Communities and Local Government Secretary of State, Eric Pickles MP, has called on councils and other public bodies to provide financial transparency by publishing spending information online.&lt;/p&gt;
+
+&lt;p&gt;Use the links listed below to find out the details of each Fire Authorities’ expenditure.&lt;/p&gt;
+
+&lt;p&gt;&lt;a rel="external" href="http://www.avonfire.gov.uk/avon/guide-to-published-information/spend-over-500"&gt;Avon Fire and Rescue Service&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a rel="external" href="http://www.bedsfire.com/CombinedFireAuthority/FinBudget/Pages/MonFinRep.aspx"&gt;Bedfordshire and Luton Fire and Rescue Service&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a rel="external" href="http://www.bucksfire.gov.uk/BucksFire/What+we+spend+and+how+we+spend+it/Spend+over+%C2%A3500.htm"&gt;Buckinghamshire and Milton Keynes Fire and Rescue&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a rel="external" href="http://www.cambsfire.gov.uk/about/6267.php"&gt;Cambridgeshire Fire and Rescue Service&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a rel="external" href="http://www.cheshirefire.gov.uk/detail.aspx?mid=2124"&gt;Cheshire Fire and Rescue Service&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a rel="external" href="http://www.clevelandfire.gov.uk/what-we-spend-how-we-spend-it/?locale=en"&gt;Cleveland Fire and Rescue Service&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a rel="external" href="http://www.cornwall.gov.uk/default.aspx?page=1163"&gt;Cornwall Fire and Rescue Service*&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a rel="external" href="http://www.ddfra.co.uk/performance/transparency-reports"&gt;County Durham and Darlington Fire and Rescue Service&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a rel="external" href="http://www.cumbria.gov.uk/managingyourcouncil/councilspend500/default.asp"&gt;Cumbria Fire and Rescue Service*&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a rel="external" href="http://www.derbys-fire.gov.uk/about-us-our-vision/what-we-spend-and-how-we-spend-it/expenditure-over-250-pound"&gt;Derbyshire Fire and Rescue Service&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a rel="external" href="http://www.dsfire.gov.uk/AboutUs/WhatWeSpend/SpendOver500/Index.cfm?siteCategoryId=2&amp;amp;T1ID=11&amp;amp;T2ID=135"&gt;Devon and Somerset Fire and Rescue Service&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a rel="external" href="http://www.dorsetfire.gov.uk/index.php?ref=530"&gt;Dorset Fire and Rescue Service&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a rel="external" href="http://www.esfrs.org/about_us/localTransparency.shtml"&gt;East Sussex Fire and Rescue Service&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a rel="external" href="http://www.essex-fire.gov.uk/pages/index.asp?area=28&amp;amp;id=418"&gt;Essex County Fire and Rescue Service&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a rel="external" href="http://www.gloucestershire.gov.uk/article/106349/Spend-over-500"&gt;Gloucestershire Fire and Rescue Service*&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Greater Manchester Fire and Rescue Service is available through an FOI request&lt;/p&gt;
+
+&lt;p&gt;&lt;a rel="external" href="http://www.hantsfire.gov.uk/theservice/transparency.htm"&gt;Hampshire Fire and Rescue Service&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a rel="external" href="http://www.hwfire.org.uk/right_to_know/local_transparency.html"&gt;Hereford and Worcester Fire and Rescue Service&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a rel="external" href="http://www.hertsdirect.org/your-local-data/money/supplierpymtsmr500/"&gt;Hertfordshire Fire and Rescue Service*&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a rel="external" href="http://www.humbersidefire.gov.uk/documents/hfrs-documents.htm?allDocuments=true"&gt;Humberside Fire and Rescue Service&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a rel="external" href="http://www.iwight.com/council/transparency/transpar.asp"&gt;Isle of Wight Fire and Rescue Service*&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a rel="external" href="http://www.scilly.gov.uk/council/suppliers.htm"&gt;Isles of Scilly Fire and Rescue Service*&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a rel="external" href="http://www.kent.fire-uk.org/default.aspx?page=1238"&gt;Kent Fire and Rescue Service&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a rel="external" href="http://www.lancsfirerescue.org.uk/monthly-spend-reports/"&gt;Lancashire Fire and Rescue Service&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a rel="external" href="http://www.leicestershire-fire.gov.uk/fireservice/transparency-reports.shtml"&gt;Leicestershire Fire and Rescue Service&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a rel="external" href="http://www.lincolnshire.gov.uk/searchResults.aspx?qsearch=1&amp;amp;keywords=transparency&amp;amp;x=42&amp;amp;y=24"&gt;Lincolnshire Fire and Rescue Service*&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a rel="external" href="http://www.london-fire.gov.uk/spendingover500.asp"&gt;London Fire Brigade&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a rel="external" href="http://www.merseyfire.gov.uk/aspx/pages/corporate/Access-To-Information.aspx"&gt;Merseyside Fire and Rescue Service&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a rel="external" href="http://www.norfolk.gov.uk/Council_and_democracy/Open_data/Payments_to_suppliers/index.htm"&gt;Norfolk Fire and Rescue Service*&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a rel="external" href="http://www.northyorksfire.gov.uk/about-us/financial-information/transparency/payments"&gt;North Yorkshire Fire and Rescue Service&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a rel="external" href="http://www.northamptonshire.gov.uk/en/councilservices/Council/transparency/Pages/opendata.aspx"&gt;Northamptonshire Fire and Rescue Service*&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a rel="external" href="http://www.northumberland.gov.uk/default.aspx?page=9100"&gt;Northumberland Fire and Rescue Service* &lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a rel="external" href="http://www.notts-fire.gov.uk/E171A6C865FF41538BE6C7A3677316DA.asp"&gt;Nottinghamshire Fire and Rescue Service&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a rel="external" href="http://www.oxfordshire.gov.uk/cms/content/council-spending-over-500-pounds"&gt;Oxfordshire Fire and Rescue Service*&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a rel="external" href="http://www.rbfrs.co.uk/local-transparency.html"&gt;Royal Berkshire Fire and Rescue Service&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a rel="external" href="http://www.shropshirefire.gov.uk/managing-the-service/freedom-of-information-act/supplier-payments"&gt;Shropshire Fire and Rescue Service&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a rel="external" href="http://www.syfire.gov.uk/1118.asp"&gt;South Yorkshire Fire and Rescue Service&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a rel="external" href="http://www.staffordshirefire.gov.uk/1131.asp"&gt;Staffordshire Fire and Rescue Service&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a rel="external" href="http://www.suffolk.gov.uk/your-council/finance/transparency-2/how-your-money-is-spent/council-payments/"&gt;Suffolk Fire and Rescue Service*&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a rel="external" href="http://www.surreycc.gov.uk/your-council/council-tax-and-finance/council-spending-over-500-pounds"&gt;Surrey Fire and Rescue Service*&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a rel="external" href="http://www.twfire.gov.uk/500/"&gt;Tyne and Wear Fire and Rescue Service&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a rel="external" href="http://opendata.warwickshire.gov.uk/categories/finance"&gt;Warwickshire Fire and Rescue Service*&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a rel="external" href="http://www.wmfs.net/content/local-transparency"&gt;West Midlands Fire and Rescue Service&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a rel="external" href="http://www.westsussex.gov.uk/your_council/open_data/west_sussex_data_store.aspx"&gt;West Sussex Fire and Rescue Service*&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a rel="external" href="http://www.westyorksfire.gov.uk/transparency"&gt;West Yorkshire Fire and Rescue Authority&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a rel="external" href="http://www.wiltsfire.gov.uk/Departments/foi/local-transparency-over-500.html"&gt;Wiltshire Fire and Rescue Service&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Publish information via their local council’s website&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/15263</id>
+    <published>2012-11-13T00:00:00+00:00</published>
+    <updated>2012-11-13T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/dclg-staff-data-and-organogram-march-2012--5"/>
+    <title>DCLG staff data and organogram: March 2012</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;These datasets and organogram shows posts and salary information for staff at DCLG as of 31 March 2012. They’re shared here as part of the effort to make government operations and spending more transparent to the public.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/15274</id>
+    <published>2012-11-13T00:00:00+00:00</published>
+    <updated>2012-11-13T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/dclg-staff-data-and-organogram-march-2011--3"/>
+    <title>DCLG staff data and organogram: March 2011</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;These datasets and organogram shows posts and salary information for staff at DCLG as of 31 March 2011. They’re shared here as part of the effort to make government operations and spending more transparent to the public.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/15279</id>
+    <published>2012-11-13T00:00:00+00:00</published>
+    <updated>2012-11-13T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/dclg-staff-data-and-organogram-september-2011--3"/>
+    <title>DCLG staff data and organogram: September 2011</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;These datasets and organogram shows posts and salary information for staff at DCLG as of 30 September 2011. They’re shared here as part of the effort to make government operations and spending more transparent to the public.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
 </feed>

@@ -8,11 +8,37 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-11-21T00:00:00+00:00</updated>
+  <updated>2012-12-20T00:00:00+00:00</updated>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56283</id>
-    <published>2012-11-21T00:00:00+00:00</published>
-    <updated>2012-11-21T00:00:00+00:00</updated>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60184</id>
+    <published>2012-12-20T00:00:00+00:00</published>
+    <updated>2012-12-20T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/government-procurement-card-data"/>
+    <title>Government procurement card data</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Details of the Foreign &amp;amp; Commonwealth Office’s (FCO’s) information on government procurement cards are attached.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60065</id>
+    <published>2012-12-20T00:00:00+00:00</published>
+    <updated>2012-12-20T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/ncpprp-bonus-data-for-the-reporting-year-2011-12"/>
+    <title>NCPPRP (bonus) data for the reporting year 2011/12</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Non-consolidated performance related pay for the Foreign &amp;amp; Commonwealth Office and FCO Services for performance year 2011/2012&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60264</id>
+    <published>2012-12-20T00:00:00+00:00</published>
+    <updated>2012-12-20T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/foreign-office-spend-over-25-000-for-september-2012"/>
+    <title>Foreign Office Spend over £25,000 for September 2012</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Coalition Government is committed to publishing departmental spend over £25,000 as part of its commitment to transparency and open government.&lt;/p&gt;
+
+&lt;p&gt;This is the Foreign Office spend in the UK for transactions totalling over £25,000 published by month. We have published our spend in line with Cabinet Office guidelines which allow for data protection of individuals and security constraints.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60262</id>
+    <published>2012-11-20T00:00:00+00:00</published>
+    <updated>2012-11-20T00:00:00+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/foreign-office-spend-over-25-000-for-august-2012"/>
     <title>Foreign Office Spend over £25,000 for August 2012</title>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Coalition Government is committed to publishing departmental spend over £25,000 as part of its commitment to transparency and open government.&lt;/p&gt;
@@ -34,14 +60,6 @@
   &lt;li&gt;Marketing &lt;/li&gt;
   &lt;li&gt;Property&lt;/li&gt;
 &lt;/ul&gt;&lt;p&gt;Foreign &amp;amp; Commonwealth Office (FCO) exceptions to each of the moratorium listed are published here.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/55681</id>
-    <published>2012-09-14T00:00:00+01:00</published>
-    <updated>2012-09-14T00:00:00+01:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/government-procurement-card-data"/>
-    <title>Government procurement card data</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Details of the Foreign &amp;amp; Commonwealth Office’s (FCO’s) information on government procurement cards are attached.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/55685</id>
@@ -118,14 +136,6 @@ ministers’  hospitality, gifts, meetings and overseas travel. We have also pub
 &lt;p&gt;The FCO already publishes some data on its people, buildings and money, including in our annual public accounts and in response to Freedom of Information (FOI) requests.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/55353</id>
-    <published>2012-01-01T00:00:00+00:00</published>
-    <updated>2012-01-01T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/the-foreign-commonwealth-office"/>
-    <title>The Foreign &amp; Commonwealth Office: who we are, what we do and how we're organised</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Details of what the FCO aims to achieve: FCO properties in the UK and overseas; consular work; information technology; protocol and human resources.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/55639</id>
     <published>2012-01-01T00:00:00+00:00</published>
     <updated>2012-01-01T00:00:00+00:00</updated>
@@ -143,14 +153,12 @@ limitations are.
 Our Customer Charter sets out our commitment to providing a high level of service to you and what we ask from you in return.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/54878</id>
-    <published>2011-11-01T00:00:00+00:00</published>
-    <updated>2011-11-01T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/non-consolidated-performance-related-pay-2010-to-2011"/>
-    <title>Non consolidated performance related pay, 2010 to 2011</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The coalition government has committed to making clear to the public how it uses taxpayers’ money. All government departments have been asked to publish a wide range of information about how it meets and measures its objectives and the use of resources. &lt;/p&gt;
-
-&lt;p&gt;The Foreign &amp;amp; Commonwealth Office (FCO) already publishes some data on its people, buildings and money, including in our annual public accounts and in response to Freedom of Information (FOI) requests.&lt;/p&gt;&lt;/div&gt;</content>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/55353</id>
+    <published>2012-01-01T00:00:00+00:00</published>
+    <updated>2012-01-01T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/the-foreign-commonwealth-office"/>
+    <title>The Foreign &amp; Commonwealth Office: who we are, what we do and how we're organised</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Details of what the FCO aims to achieve: FCO properties in the UK and overseas; consular work; information technology; protocol and human resources.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/55661</id>
@@ -159,6 +167,16 @@ Our Customer Charter sets out our commitment to providing a high level of servic
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/foreign-office-staff-and-salary-data"/>
     <title>FCO staff and salary data</title>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The coalition government has committed to making clear to the public how it uses taxpayers’ money. All government departments have been asked to publish a wide range of information about how it meets and measures its objectives and the use of resources. The Foreign &amp;amp; Commonwealth Office already publishes some data on its people, buildings and money, including in our annual public accounts and in response to Freedom of Information (FOI) requests. &lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/54878</id>
+    <published>2011-11-01T00:00:00+00:00</published>
+    <updated>2011-11-01T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/non-consolidated-performance-related-pay-2010-to-2011"/>
+    <title>Non consolidated performance related pay, 2010 to 2011</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The coalition government has committed to making clear to the public how it uses taxpayers’ money. All government departments have been asked to publish a wide range of information about how it meets and measures its objectives and the use of resources. &lt;/p&gt;
+
+&lt;p&gt;The Foreign &amp;amp; Commonwealth Office (FCO) already publishes some data on its people, buildings and money, including in our annual public accounts and in response to Freedom of Information (FOI) requests.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/55668</id>

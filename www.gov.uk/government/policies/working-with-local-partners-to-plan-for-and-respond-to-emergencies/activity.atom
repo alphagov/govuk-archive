@@ -8,7 +8,16 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-11-29T00:00:00+00:00</updated>
+  <updated>2012-12-20T00:00:00+00:00</updated>
+  <entry>
+    <id>tag:www.gov.uk,2005:Publication/56832</id>
+    <published>2012-12-20T00:00:00+00:00</published>
+    <updated>2012-12-20T11:05:07+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/fire-and-rescue-protective-security-strategy-2012"/>
+    <title>Fire and rescue protective security strategy 2012</title>
+    <category>Publication</category>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This strategy is a refresh of the 2009 protective security strategy for fire and rescue authorities. It outlines 6 key deliverables to enhance protective security for fire and rescue authorities.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
   <entry>
     <id>tag:www.gov.uk,2005:Publication/17107</id>
     <published>2012-11-29T00:00:00+00:00</published>
@@ -167,14 +176,5 @@
     <title>Generic risk assessment 2.6: rescue of trapped persons</title>
     <category>Publication</category>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Generic risk assessment 2.6 examines the hazards, risks and control measures that relate to incidents where persons are trapped and require release.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:Publication/16612</id>
-    <published>2011-12-06T00:00:00+00:00</published>
-    <updated>2012-11-14T12:39:26+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/generic-risk-assessment-2-4-flooding-and-water-safety"/>
-    <title>Generic risk assessment 2.4: flooding and water safety</title>
-    <category>Publication</category>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Generic risk assessment 2.4 examines the hazards, risks and control measures relating to fire and rescue service staff, the personnel of other agencies and members of the public at incidents near, or in, water.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
 </feed>

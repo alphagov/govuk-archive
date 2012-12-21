@@ -8,7 +8,15 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-12-14T00:00:00+00:00</updated>
+  <updated>2012-12-20T00:00:00+00:00</updated>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60242</id>
+    <published>2012-12-20T00:00:00+00:00</published>
+    <updated>2012-12-20T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/law-officers-departments-digital-strategy"/>
+    <title>Law Officers' Departments - Digital Strategy</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This strategy sets out how the Law Officers’ Departments will become digital by default. It fulfils the commitment made in the Civil Service Reform Plan.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/56596</id>
     <published>2012-12-14T00:00:00+00:00</published>
@@ -73,6 +81,16 @@
 &lt;p&gt;&lt;a href="https://www.gov.uk/complain-about-low-crown-court-sentence"&gt;How to complain about a low Crown Court sentence&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/16894</id>
+    <published>2012-11-23T00:00:00+00:00</published>
+    <updated>2012-11-23T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/ago-business-plan-2012-to-2013"/>
+    <title>AGO business plan 2012 to 2013</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;In keeping with all other government departments, the Law Officers’ departments are required to publish a departmental report annually.&lt;/p&gt;
+
+&lt;p&gt;Our financial information is published in the &lt;a rel="external" href="http://www.tsol.gov.uk"&gt;Treasury Solicitor’s&lt;/a&gt; annual report &lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/16888</id>
     <published>2012-11-23T00:00:00+00:00</published>
     <updated>2012-11-23T00:00:00+00:00</updated>
@@ -91,14 +109,12 @@
 &lt;/ul&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/16894</id>
-    <published>2012-11-23T00:00:00+00:00</published>
-    <updated>2012-11-23T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/ago-business-plan-2012-to-2013"/>
-    <title>AGO business plan 2012 to 2013</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;In keeping with all other government departments, the Law Officers’ departments are required to publish a departmental report annually.&lt;/p&gt;
-
-&lt;p&gt;Our financial information is published in the &lt;a rel="external" href="http://www.tsol.gov.uk"&gt;Treasury Solicitor’s&lt;/a&gt; annual report &lt;/p&gt;&lt;/div&gt;</content>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56101</id>
+    <published>2012-10-20T00:00:00+01:00</published>
+    <updated>2012-10-20T00:00:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/ministerial-overseas-travel-april-to-june-2012"/>
+    <title>Ministerial overseas travel: April to June 2012 </title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Attorney General’s Office (AGO) ministers must publish details of overseas travel that’s part of their official duties.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/56097</id>
@@ -114,14 +130,6 @@
   &lt;li&gt;minor refreshments at meetings, receptions, conferences, and seminars&lt;/li&gt;
   &lt;li&gt;offers of hospitality which were declined&lt;/li&gt;
 &lt;/ul&gt;&lt;p&gt;The entry for this quarter is a nil return.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56101</id>
-    <published>2012-10-20T00:00:00+01:00</published>
-    <updated>2012-10-20T00:00:00+01:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/ministerial-overseas-travel-april-to-june-2012"/>
-    <title>Ministerial overseas travel: April to June 2012 </title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Attorney General’s Office (AGO) ministers must publish details of overseas travel that’s part of their official duties.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/55860</id>
@@ -140,28 +148,6 @@
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/agos-ministerial-meetings-april-to-june-2012"/>
     <title>Ministerial meetings April to June 2012</title>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Attorney General’s Office (AGO) details of ministers’ meetings with external organisations (including meetings with newspaper and media owners, editors and senior executives).&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/12840</id>
-    <published>2012-10-16T00:00:00+01:00</published>
-    <updated>2012-10-16T00:00:00+01:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/written-ministerial-statement-freedom-of-information-act-veto-of-release-of-prince-charles-letters"/>
-    <title>Written ministerial statement: Freedom of Information Act veto of release of Prince Charles letters </title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;I have today given the Information Commissioner  a certificate under section 53 of the Freedom of Information Act 2000 (“the Act”) both as it applies for the purposes of the Act itself, and as it applies to the Environmental Information Regulations 2004 (“the Regulations”) by reason of regulation 18(6).  This certificate relates to the Upper Tribunal’s judgment dated 18 September 2012 (Evans v (1) Information Commissioner (2) Seven Government Departments [2012] UKUT 313 (AAC). It is my view, as an accountable person under the Act, that there was no failure by the seven departments  joined as Additional Parties to this appeal at the Tribunal to comply with section 1(1)(b) of the Act, or to comply any obligation under the Regulations,  as a result of those Departments  withholding the correspondence between The Prince of Wales and Ministers in the previous Administration.  &lt;/p&gt;
-
-&lt;p&gt;The consequence of my giving the Information Commissioner this certificate is that the Tribunal’s judgment, which ordered that the Information Commissioner’s Decision Notices be amended so that the documents identified in the Tribunal’s judgment be disclosed, ceases to have effect.   &lt;/p&gt;
-
-&lt;p&gt;A copy of the certificate has been laid before each House of Parliament.  I have additionally placed a copy of the certificate and a detailed statement of the reasons for my decision in the Libraries of both Houses, the Vote Office and the Printed Paper Office.&lt;/p&gt;
-
-&lt;p&gt;My decision to exercise the veto in this case was not taken lightly. I have taken into account the Statement of Government Policy on the use of the executive override as it relates to information falling within the scope of section 35(1) of the Act.  Although that policy is not directly applicable to this case I have applied the principles in it in coming to my decision.&lt;/p&gt;
-
-&lt;p&gt;I have taken into account the views of Cabinet, former Ministers and the Information Commissioner, in considering both the balance of the public interest in disclosure and non-disclosure and whether this is an exceptional case. My view is that the public interest favours non-disclosure. I have also concluded that this constitutes an exceptional case and that the exercise of the veto is warranted.  &lt;/p&gt;
-
-&lt;p&gt;In summary, my decision is based on my view that the correspondence was undertaken as part of The Prince of Wales’ preparation for becoming King. The Prince of Wales engaged in this correspondence with Ministers with the expectation that it would be confidential. Disclosure of the correspondence could damage The Prince of Wales’ ability to perform his duties when he becomes King. It is a matter of the highest importance within our constitutional framework that the Monarch is a politically neutral figure able to engage in confidence with the Government of the day, whatever its political colour. In my view, there is nothing in the nature or content of this particular correspondence which outweighs that strong public interest against disclosure.&lt;/p&gt;
-
-&lt;p&gt;A detailed explanation of the basis on which I arrived at the conclusion that the veto should be used is set out in my statement of reasons.&lt;/p&gt;
-
-&lt;p&gt;End&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/55672</id>
@@ -297,20 +283,26 @@ ATTORNEY GENERAL
 16 October 2012&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56140</id>
-    <published>2012-07-20T00:00:00+01:00</published>
-    <updated>2012-07-20T00:00:00+01:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/ministerial-gifts-given-and-received-january-to-march-2012"/>
-    <title>Ministerial gifts given and received: January to March 2012</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Attorney General’s Office (AGO) ministers must publish details of gifts they give or receive over £140.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56148</id>
-    <published>2012-07-20T00:00:00+01:00</published>
-    <updated>2012-07-20T00:00:00+01:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/ministerial-overseas-travel-january-to-march-2012"/>
-    <title>Ministerial overseas travel: January to March 2012</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Attorney General’s Office (AGO) ministers must publish details of overseas travel that’s part of their official duties.&lt;/p&gt;&lt;/div&gt;</content>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/12840</id>
+    <published>2012-10-16T00:00:00+01:00</published>
+    <updated>2012-10-16T00:00:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/written-ministerial-statement-freedom-of-information-act-veto-of-release-of-prince-charles-letters"/>
+    <title>Written ministerial statement: Freedom of Information Act veto of release of Prince Charles letters </title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;I have today given the Information Commissioner  a certificate under section 53 of the Freedom of Information Act 2000 (“the Act”) both as it applies for the purposes of the Act itself, and as it applies to the Environmental Information Regulations 2004 (“the Regulations”) by reason of regulation 18(6).  This certificate relates to the Upper Tribunal’s judgment dated 18 September 2012 (Evans v (1) Information Commissioner (2) Seven Government Departments [2012] UKUT 313 (AAC). It is my view, as an accountable person under the Act, that there was no failure by the seven departments  joined as Additional Parties to this appeal at the Tribunal to comply with section 1(1)(b) of the Act, or to comply any obligation under the Regulations,  as a result of those Departments  withholding the correspondence between The Prince of Wales and Ministers in the previous Administration.  &lt;/p&gt;
+
+&lt;p&gt;The consequence of my giving the Information Commissioner this certificate is that the Tribunal’s judgment, which ordered that the Information Commissioner’s Decision Notices be amended so that the documents identified in the Tribunal’s judgment be disclosed, ceases to have effect.   &lt;/p&gt;
+
+&lt;p&gt;A copy of the certificate has been laid before each House of Parliament.  I have additionally placed a copy of the certificate and a detailed statement of the reasons for my decision in the Libraries of both Houses, the Vote Office and the Printed Paper Office.&lt;/p&gt;
+
+&lt;p&gt;My decision to exercise the veto in this case was not taken lightly. I have taken into account the Statement of Government Policy on the use of the executive override as it relates to information falling within the scope of section 35(1) of the Act.  Although that policy is not directly applicable to this case I have applied the principles in it in coming to my decision.&lt;/p&gt;
+
+&lt;p&gt;I have taken into account the views of Cabinet, former Ministers and the Information Commissioner, in considering both the balance of the public interest in disclosure and non-disclosure and whether this is an exceptional case. My view is that the public interest favours non-disclosure. I have also concluded that this constitutes an exceptional case and that the exercise of the veto is warranted.  &lt;/p&gt;
+
+&lt;p&gt;In summary, my decision is based on my view that the correspondence was undertaken as part of The Prince of Wales’ preparation for becoming King. The Prince of Wales engaged in this correspondence with Ministers with the expectation that it would be confidential. Disclosure of the correspondence could damage The Prince of Wales’ ability to perform his duties when he becomes King. It is a matter of the highest importance within our constitutional framework that the Monarch is a politically neutral figure able to engage in confidence with the Government of the day, whatever its political colour. In my view, there is nothing in the nature or content of this particular correspondence which outweighs that strong public interest against disclosure.&lt;/p&gt;
+
+&lt;p&gt;A detailed explanation of the basis on which I arrived at the conclusion that the veto should be used is set out in my statement of reasons.&lt;/p&gt;
+
+&lt;p&gt;End&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/56155</id>
@@ -330,12 +322,28 @@ ATTORNEY GENERAL
 &lt;/ul&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56148</id>
+    <published>2012-07-20T00:00:00+01:00</published>
+    <updated>2012-07-20T00:00:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/ministerial-overseas-travel-january-to-march-2012"/>
+    <title>Ministerial overseas travel: January to March 2012</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Attorney General’s Office (AGO) ministers must publish details of overseas travel that’s part of their official duties.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/56153</id>
     <published>2012-07-20T00:00:00+01:00</published>
     <updated>2012-07-20T00:00:00+01:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/ministerial-meetings-january-to-march-2012"/>
     <title>Ministerial meetings: January to March 2012</title>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Attorney General’s Office (AGO) details of ministers’ meetings with external organisations (including meetings with newspaper and media owners, editors and senior executives).&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56140</id>
+    <published>2012-07-20T00:00:00+01:00</published>
+    <updated>2012-07-20T00:00:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/ministerial-gifts-given-and-received-january-to-march-2012"/>
+    <title>Ministerial gifts given and received: January to March 2012</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Attorney General’s Office (AGO) ministers must publish details of gifts they give or receive over £140.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/15333</id>
@@ -393,13 +401,5 @@ ATTORNEY GENERAL
   &lt;li&gt;minor refreshments at meetings, receptions, conferences, and seminars&lt;/li&gt;
   &lt;li&gt;offers of hospitality which were declined&lt;/li&gt;
 &lt;/ul&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56174</id>
-    <published>2012-03-04T00:00:00+00:00</published>
-    <updated>2012-03-04T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/ministerial-gifts-given-and-received-july-to-september-2011"/>
-    <title>Ministerial gifts given and received: July to September 2011</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Attorney General’s Office (AGO) ministers must publish details of gifts they give or receive over £140.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
 </feed>

@@ -8,7 +8,18 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-11-30T00:00:00+00:00</updated>
+  <updated>2012-12-20T00:00:00+00:00</updated>
+  <entry>
+    <id>tag:www.gov.uk,2005:Publication/60051</id>
+    <published>2012-12-20T00:00:00+00:00</published>
+    <updated>2012-12-20T13:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/better-choices-better-deals-report-on-progress-on-the-consumer-empowerment-strategy"/>
+    <title>Better choices: better deals. Report on progress on the consumer empowerment strategy</title>
+    <category>Publication</category>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The consumer empowerment strategy Better Choices: Better Deals was published in April 2011. This progress report describes how the wide range of commitments made then have been taken forward. Many of these have involved two or more of government, businesses, economic regulators, consumer groups and individual consumers coming together to develop practical ways to help empower people to make better choices and get better deals.&lt;/p&gt;
+
+&lt;p&gt;The empowerment strategy established midata, a programme of work involving government, consumer groups and leading businesses to give consumers more control and access to the data that companies hold about them. The aim of the midata programme is to give consumers access to their transaction data in a way that is electronic, portable and safe.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
   <entry>
     <id>tag:www.gov.uk,2005:Publication/56408</id>
     <published>2012-11-30T00:00:00+00:00</published>
@@ -143,30 +154,5 @@
     <title>Civil enforcement remedies: extending the range of remedies available to public enforcers of consumer law -impact assessment</title>
     <category>Publication</category>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Assesses the impact of proposals to extend the range of remedies available to enforcers of consumer law. Analyses options that aim to increase business compliance with the law, improve redress for consumers affected by the breach of consumer law, and empower consumers to exercise greater consumer choice. See URN 12/1193 for the related consultation document.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:Consultation/47194</id>
-    <published>2012-11-05T00:00:00+00:00</published>
-    <updated>2012-12-11T16:30:23+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/consultations/civil-enforcement-remedies-consultation-on-extending-the-range-of-remedies-available-to-public-enforcers-of-consumer-law"/>
-    <title>Civil enforcement remedies - consultation on extending the range of remedies available to public enforcers of consumer law</title>
-    <category>Consultation</category>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;hr&gt;&lt;p&gt;The proposals would allow remedies aimed at achieving one or more of three outcomes:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;increased business compliance with the law;&lt;/li&gt;
-  &lt;li&gt;improved redress for consumers affected by the breach; and&lt;/li&gt;
-  &lt;li&gt;more confident consumers who are empowered to exercise greater consumer choice&lt;/li&gt;
-&lt;/ul&gt;&lt;p&gt;The consultation considers whether implementation of the Regulatory Enforcement and Sanctions Act 2008 or introducing new remedies under Part 8 of the Enterprise Act 2002 would be most appropriate. Part 8 currently allows for court-based Enforcement Orders which can be used to stop a business behaving in a particular way.&lt;/p&gt;
-
-&lt;p&gt;The proposals in this consultation form part of a proposed wider reform of consumer law, intended to simplify and clarify consumer law to reduce business compliance costs and empower consumers. Implementation of the proposals would require primary legislation, which we propose to do via a proposed Consumer Bill of Rights.  &lt;/p&gt;
-
-&lt;h2 id="download-the-consultation"&gt;Download the consultation&lt;/h2&gt;
-
-&lt;hr&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a rel="external" href="http://www.bis.gov.uk/assets/biscore/consumer-issues/docs/c/12-1193-civil-enforcement-remedies-consultation-on-extending.pdf"&gt;Civil enforcement remedies: consultation on extending the range of remedies available to public enforcers of consumer law (PDF, 440 Kb) &lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a rel="external" href="http://www.bis.gov.uk/assets/biscore/consumer-issues/docs/c/12-1193rf-civil-enforcement-remedies-consultation-on-extending-form.doc"&gt;Civil enforcement remedies: consultation on extending the range of remedies available to public enforcers of consumer law. Response form (DOC, 145 Kb) &lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a rel="external" href="http://www.bis.gov.uk/assets/biscore/consumer-issues/docs/c/12-1194-civil-enforcement-remedies-impact-assessment.pdf"&gt;Civil enforcement remedies: extending the range of remedies available to public enforcers of consumer law. Impact assessment (PDF, 257 Kb) &lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</content>
   </entry>
 </feed>

@@ -8,7 +8,42 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-12-19T00:00:00+00:00</updated>
+  <updated>2012-12-20T00:00:00+00:00</updated>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60184</id>
+    <published>2012-12-20T00:00:00+00:00</published>
+    <updated>2012-12-20T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/government-procurement-card-data"/>
+    <title>Government procurement card data</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Details of the Foreign &amp;amp; Commonwealth Office’s (FCO’s) information on government procurement cards are attached.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60198</id>
+    <published>2012-12-20T00:00:00+00:00</published>
+    <updated>2012-12-20T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/the-fco-digital-strategy"/>
+    <title>The FCO Digital Strategy</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This strategy covers the work of the Foreign and Commonwealth Office. It covers the implications of
+digital for our overall diplomatic work, as well as for our services to the British public.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60264</id>
+    <published>2012-12-20T00:00:00+00:00</published>
+    <updated>2012-12-20T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/foreign-office-spend-over-25-000-for-september-2012"/>
+    <title>Foreign Office Spend over £25,000 for September 2012</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Coalition Government is committed to publishing departmental spend over £25,000 as part of its commitment to transparency and open government.&lt;/p&gt;
+
+&lt;p&gt;This is the Foreign Office spend in the UK for transactions totalling over £25,000 published by month. We have published our spend in line with Cabinet Office guidelines which allow for data protection of individuals and security constraints.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60065</id>
+    <published>2012-12-20T00:00:00+00:00</published>
+    <updated>2012-12-20T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/ncpprp-bonus-data-for-the-reporting-year-2011-12"/>
+    <title>NCPPRP (bonus) data for the reporting year 2011/12</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Non-consolidated performance related pay for the Foreign &amp;amp; Commonwealth Office and FCO Services for performance year 2011/2012&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/60060</id>
     <published>2012-12-19T00:00:00+00:00</published>
@@ -51,20 +86,20 @@
 &lt;p&gt;The &lt;abbr title="Science and Innovation Network"&gt;SIN&lt;/abbr&gt;’s 90+ staff are managed by a team based in &lt;abbr title="Department for Business, Innovation and Skills"&gt;BIS&lt;/abbr&gt;’s International Knowledge and Innovation Unit.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/52541</id>
-    <published>2012-12-12T00:00:00+00:00</published>
-    <updated>2012-12-12T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/travel-safe-know-before-you-go"/>
-    <title>Travel safe: know before you go</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Planning the trip of a lifetime, a gap year abroad, or just a relaxing break? Lonely Planet have teamed up with the Foreign &amp;amp; Commonwealth Office to produce this guide to safe travel. It’s full of information, tips, and stories from travellers themselves to help you choose your destination, plan your trip and have a safe and above all enjoyable time while you’re there.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/54831</id>
     <published>2012-12-12T00:00:00+00:00</published>
     <updated>2012-12-12T00:00:00+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/afghanistan-progress-reports"/>
     <title>Afghanistan: Progress reports</title>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Foreign Secretary updates Parliament with a progress report every month as part of his commitment to keep Parliament regularly informed on developments in Afghanistan.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/52541</id>
+    <published>2012-12-12T00:00:00+00:00</published>
+    <updated>2012-12-12T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/travel-safe-know-before-you-go"/>
+    <title>Travel safe: know before you go</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Planning the trip of a lifetime, a gap year abroad, or just a relaxing break? Lonely Planet have teamed up with the Foreign &amp;amp; Commonwealth Office to produce this guide to safe travel. It’s full of information, tips, and stories from travellers themselves to help you choose your destination, plan your trip and have a safe and above all enjoyable time while you’re there.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/55122</id>
@@ -153,16 +188,6 @@
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Guidance for exporters about how the UK Government interprets the provisions of the Wassenaar Arrangements ‘Elements for Export Controls of MANPADs’. &lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56283</id>
-    <published>2012-11-21T00:00:00+00:00</published>
-    <updated>2012-11-21T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/foreign-office-spend-over-25-000-for-august-2012"/>
-    <title>Foreign Office Spend over £25,000 for August 2012</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Coalition Government is committed to publishing departmental spend over £25,000 as part of its commitment to transparency and open government.&lt;/p&gt;
-
-&lt;p&gt;This is the Foreign Office spend in the UK for transactions totalling over £25,000 published by month. We have published our spend in line with Cabinet Office guidelines which allow for data protection of individuals and security constraints.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/16633</id>
     <published>2012-11-21T00:00:00+00:00</published>
     <updated>2012-11-21T00:00:00+00:00</updated>
@@ -171,57 +196,21 @@
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The government published this white paper on the Overseas Territories on the 28 June 2012, setting out its overall approach. &lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60262</id>
+    <published>2012-11-20T00:00:00+00:00</published>
+    <updated>2012-11-20T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/foreign-office-spend-over-25-000-for-august-2012"/>
+    <title>Foreign Office Spend over £25,000 for August 2012</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Coalition Government is committed to publishing departmental spend over £25,000 as part of its commitment to transparency and open government.&lt;/p&gt;
+
+&lt;p&gt;This is the Foreign Office spend in the UK for transactions totalling over £25,000 published by month. We have published our spend in line with Cabinet Office guidelines which allow for data protection of individuals and security constraints.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/55656</id>
     <published>2012-11-12T00:00:00+00:00</published>
     <updated>2012-11-12T00:00:00+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/checklist-for-travellers"/>
     <title>Staying safe and healthy</title>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Leaflet that gives advice on staying safe while abroad; additional leaflet with advice on personal safety from ABTA, the Travel Association.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/55994</id>
-    <published>2012-11-01T00:00:00+00:00</published>
-    <updated>2012-11-01T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/foi-ref-1015-12"/>
-    <title>Spending on 'history library'</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;How much money has been spent on establishing a “history library”, undertaken by the Foreign Office under this government?; How much money was spent on re-stuffing “Albert”, the 20-foot anaconda housed in a glass case in the Foreign Office?&lt;/p&gt;
-
-&lt;p&gt;FOI Ref 1015-12&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/47245</id>
-    <published>2012-10-17T00:00:00+01:00</published>
-    <updated>2012-10-17T00:00:00+01:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/six-monthly-reports-on-hong-kong"/>
-    <title>Six monthly reports on Hong Kong</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Since July 1997, the Foreign Secretary has reported to Parliament at 
-six-monthly intervals on the implementation of the Sino-British Joint 
-Declaration on the Question of Hong Kong.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56020</id>
-    <published>2012-10-10T00:00:00+01:00</published>
-    <updated>2012-10-10T00:00:00+01:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/foi-ref-0621-12"/>
-    <title>Details of number of employees, locations and IT related questions</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Details of number of employees, locations and IT related questions.&lt;/p&gt;
-
-&lt;p&gt;FOI Ref 0621-12&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/55263</id>
-    <published>2012-10-01T00:00:00+01:00</published>
-    <updated>2012-10-01T00:00:00+01:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/exceptions-data"/>
-    <title>Exceptions data</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The coalition government has put in place measures to constrain spending. Government departments have been asked to limit their expenditure in five areas. These are:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Consultancy&lt;/li&gt;
-  &lt;li&gt;ICT &lt;/li&gt;
-  &lt;li&gt;Recruitment of certain new staff &lt;/li&gt;
-  &lt;li&gt;Marketing &lt;/li&gt;
-  &lt;li&gt;Property&lt;/li&gt;
-&lt;/ul&gt;&lt;p&gt;Foreign &amp;amp; Commonwealth Office (FCO) exceptions to each of the moratorium listed are published here.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
 </feed>

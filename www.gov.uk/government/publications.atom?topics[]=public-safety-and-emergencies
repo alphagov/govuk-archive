@@ -8,7 +8,25 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-12-13T00:00:00+00:00</updated>
+  <updated>2012-12-20T00:00:00+00:00</updated>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56832</id>
+    <published>2012-12-20T00:00:00+00:00</published>
+    <updated>2012-12-20T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/fire-and-rescue-protective-security-strategy-2012"/>
+    <title>Fire and rescue protective security strategy 2012</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This strategy is a refresh of the 2009 protective security strategy for fire and rescue authorities. It outlines 6 key deliverables to enhance protective security for fire and rescue authorities.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/57434</id>
+    <published>2012-12-20T00:00:00+00:00</published>
+    <updated>2012-12-20T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/policy-on-protecting-personal-and-other-sensitive-information-in-fire-and-rescue-incident-and-casualty-data"/>
+    <title>Policy on protecting personal and other sensitive information in fire and rescue incident and casualty data</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Fire and rescue services across Great Britain record details of all incidents attended and of casualties. A national database is populated from these and this contains details as described in the &lt;a href="https://www.gov.uk/government/publications/incident-recording-system-for-fire-and-rescue-authorities"&gt;Incident recording system for fire and rescue authorities&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;This document summarises issues relating to data protection of fire and rescue incident records, and how these are managed in the context of the production of statistical outputs and access to record-level data sets.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/56085</id>
     <published>2012-12-13T00:00:00+00:00</published>
@@ -145,16 +163,6 @@ of agreement&lt;/a&gt; on the core parameters for reforms to the firefighters’
 &lt;p&gt;The overall proportion of premises found to be satisfactory in 2011 to 2012 was 59%, compared to 56% in 2010 to 2011.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/13403</id>
-    <published>2012-09-20T01:00:00+01:00</published>
-    <updated>2012-09-20T01:00:00+01:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/consultations/protocol-on-government-intervention-action-on-fire-and-rescue-authorities-in-england"/>
-    <title>Protocol on government intervention action on fire and rescue authorities in England</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Consultation on guidance on statements of assurance for fire and rescue authorities in England and Protocol on Government intervention action for fire and rescue authorities in England.&lt;/p&gt;
-
-&lt;p&gt;The consultation seeks views on the revision of the protocol on Government intervention action and applies to fire and rescue authorities in England only.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/13402</id>
     <published>2012-09-20T01:00:00+01:00</published>
     <updated>2012-09-20T01:00:00+01:00</updated>
@@ -163,6 +171,16 @@ of agreement&lt;/a&gt; on the core parameters for reforms to the firefighters’
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Consultation on guidance on statements of assurance for fire and rescue authorities in England.&lt;/p&gt;
 
 &lt;p&gt;The consultation seeks views on ‘light-touch’ guidance on statements of assurance for fire and rescue authorities in England&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/13403</id>
+    <published>2012-09-20T01:00:00+01:00</published>
+    <updated>2012-09-20T01:00:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/consultations/protocol-on-government-intervention-action-on-fire-and-rescue-authorities-in-england"/>
+    <title>Protocol on government intervention action on fire and rescue authorities in England</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Consultation on guidance on statements of assurance for fire and rescue authorities in England and Protocol on Government intervention action for fire and rescue authorities in England.&lt;/p&gt;
+
+&lt;p&gt;The consultation seeks views on the revision of the protocol on Government intervention action and applies to fire and rescue authorities in England only.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/11791</id>
@@ -240,56 +258,6 @@ of agreement&lt;/a&gt; on the core parameters for reforms to the firefighters’
 
 &lt;ul&gt;
 &lt;li&gt;publication of the fire and rescue national framework for England&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/15729</id>
-    <published>2012-07-04T00:00:00+01:00</published>
-    <updated>2012-07-04T00:00:00+01:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/fire-incidents-response-times-england-2011-to-2012"/>
-    <title>Fire incidents response times: England 2011 to 2012</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This publication and accompanying data tables were released on Wednesday 4 July 2012 by the Department for Communities and Local Government. The publication focuses on trends in average response times at England level.&lt;/p&gt;
-
-&lt;p&gt;Statistics in this release are the latest figures available for England and relate to periods up to 31 March 2012.&lt;/p&gt;
-
-&lt;p&gt;The key points are as follows:&lt;/p&gt;
-
-&lt;h3 id="response-times"&gt;Response times&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;In 2011-12, the average response time to fires in dwellings was 7.2 minutes (10 seconds shorter than in 2010-11) and 7.9 minutes to fires in other buildings (5 seconds shorter than in 2010-11).&lt;/li&gt;
-  &lt;li&gt;Average response times in 2011-12 were higher than in 2001-02 by around 22 per cent for dwelling fires and by around 29 per cent for fires in other buildings.&lt;/li&gt;
-&lt;/ul&gt;&lt;h3 id="severity-of-fires"&gt;Severity of fires&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;On average, improvements in fire safety and prevention have greatly outweighed the effect of longer average response times.&lt;/li&gt;
-  &lt;li&gt;In 2011-12, there were 54 per cent fewer fire non-fatal casualties and 34 per cent fewer fire fatalities than in 2001-02.&lt;/li&gt;
-  &lt;li&gt;In 2011-12, the average area of damage in dwelling fires was 20 per cent lower than in 2001-02.&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/11692</id>
-    <published>2012-07-04T00:00:00+01:00</published>
-    <updated>2012-07-04T00:00:00+01:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/fire-statistics-monitor-april-2011-to-march-2012"/>
-    <title>Fire statistics monitor: April 2011 to March 2012</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The latest national statistics on fires, casualties, false alarms and non-fire incidents attended by the fire and rescue services in England, produced by the Department for Communities and Local Government, were released on Wednesday 4 July under the auspices of the UK Statistics Authority.&lt;/p&gt;
-
-&lt;p&gt;Statistics in this release are the latest available figures for England. They focus on the period of 1 April to 2011 to 31 March 2012. Key points of the latest data are:&lt;/p&gt;
-
-&lt;h3 id="fatal-and-non-fatal-casualties"&gt;Fatal and non-fatal casualties&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;In 2011-12 there were 304 fire fatalities; 27 fewer than in 2010-11.&lt;/li&gt;
-  &lt;li&gt;Accidental dwelling fires fatalities, which account for three fifths of all fire fatalities, were down by 26 from 213 in 2010-11 to 187 in 2011-12.&lt;/li&gt;
-  &lt;li&gt;There were 4,277 non-fatal fire casualties (excluding first aid cases and where only a precautionary checks was recommended). This was 2 per cent lower than in 2010-11.&lt;/li&gt;
-&lt;/ul&gt;&lt;h3 id="incidents"&gt;Incidents&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;In England, Fire and Rescue Services attended 223,000 fires, 2 per cent lower than in 2010-11.&lt;/li&gt;
-  &lt;li&gt;Dwelling fires were 4 per cent lower at 35,000, and fires in other buildings were down by 2 per cent to 20,000. Road vehicle fires fell by 14 per cent to 24,000.&lt;/li&gt;
-  &lt;li&gt;Attendances at fire false alarms decreased by 9 per cent to 249,000. More than two thirds of these were due to apparatus, while 4 per cent were malicious false alarms.&lt;/li&gt;
-  &lt;li&gt;Fire and Rescue Services attended 133,000 non-fire incidents in 2011-12, down 9 per cent from 2010-11. The most common categories of non-fire incidents were: road traffic collisions (21 per cent), effecting entry (11 per cent), lift releases (11 per cent), flooding (9 per cent) and medical incidents (9 per cent).&lt;/li&gt;
 &lt;/ul&gt;&lt;/div&gt;</content>
   </entry>
 </feed>

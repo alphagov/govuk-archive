@@ -8,21 +8,7 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-12-19T00:00:00+00:00</updated>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60031</id>
-    <published>2012-12-19T00:00:00+00:00</published>
-    <updated>2012-12-19T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/strategy-for-uk-life-sciences-one-year-on--2"/>
-    <title>Strategy for UK Life Sciences – One Year On</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Update on progress implementing measures in the ‘Strategy for UK life sciences’ (URN 11/1429). &lt;/p&gt;
-
-&lt;p&gt;The strategy set out a long-term programme with a range of practical measures that the government will take to improve the environment for large and small health life science companies in the UK. It included providing support from discovery right through to the commercialisation of medicines, diagnostics and devices. &lt;/p&gt;
-
-&lt;p&gt;The one year on report describes substantial progress made this year in implementing these measures. It also announces the government’s intention to commit to sequencing 100,000 whole genomes over the next 3-5 years. &lt;/p&gt;
-
-&lt;p&gt;This is part of continuing government efforts to develop the UK’s position as a global life sciences hub.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
+  <updated>2012-10-12T00:00:00+01:00</updated>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/48271</id>
     <published>2012-10-12T00:00:00+01:00</published>
@@ -40,12 +26,12 @@
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Review of Shareholder Executive’s activities over the past year. Also includes the outlook for the coming year, and an assessment of financial performance of its portfolio over the past year.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/48318</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60023</id>
     <published>2012-09-21T00:00:00+01:00</published>
     <updated>2012-09-21T00:00:00+01:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/uk-national-contact-point-for-the-oecd-guidelines-for-multinational-enterprises-annual-report-to-the-oecd-investment-committee-for-2011-to-12"/>
     <title>UK national contact point for the OECD guidelines for multinational enterprises: annual report to the OECD Investment Committee for 2011 to 12</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Annual report of the UK annual national contact point (NCP) to the OECD Investment Committee. Covers awareness raising activities, complaints it has considered and structural arrangements.&lt;/p&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Annual report of the UK National Contact Point (NCP) to the the Organisation for Economic Co-operation and Development (OECD) investment committee. Covers awareness raising activities, complaints it has considered and structural arrangements.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/48269</id>
@@ -77,20 +63,20 @@ The headline figures show the measures that will be introduced this year that ar
 &lt;p&gt;It provides an overview of the net costs and benefits to business and civil society organisations.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/46390</id>
-    <published>2012-07-13T00:00:00+01:00</published>
-    <updated>2012-07-13T00:00:00+01:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/industrial-development-act-1982-ministers-report-for-year-ended-march-2012"/>
-    <title>Industrial Development Act 1982: ministers' report for year ended March 2012</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;House of Commons papers: 2010-12: 210. Annual report of schemes falling under the Industrial Development Act 1982 for the year ending 31 March 2012. Includes appendices of relevant statistical data.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/45763</id>
     <published>2012-07-13T00:00:00+01:00</published>
     <updated>2012-07-13T00:00:00+01:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/bis-continuous-improvement-strategy"/>
     <title>BIS continuous improvement strategy</title>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Outlines the department’s approach to organisational development. It pulls together the strands of work across  BIS and partner organisations that will contribute to the development of a continuous improvement culture.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/46390</id>
+    <published>2012-07-13T00:00:00+01:00</published>
+    <updated>2012-07-13T00:00:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/industrial-development-act-1982-ministers-report-for-year-ended-march-2012"/>
+    <title>Industrial Development Act 1982: ministers' report for year ended March 2012</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;House of Commons papers: 2010-12: 210. Annual report of schemes falling under the Industrial Development Act 1982 for the year ending 31 March 2012. Includes appendices of relevant statistical data.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/45762</id>
@@ -101,28 +87,28 @@ The headline figures show the measures that will be introduced this year that ar
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Sets out the actions BIS will take over the next two years to drive reform and improvement through transparency. Covers datasets that have the potential to create economic opportunities, datasets that are collected in higher and further education. Also looks at providing individuals with access to data about them, satisfaction and experience data, and improving the quality of data published.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/45764</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56943</id>
     <published>2012-06-13T00:00:00+01:00</published>
     <updated>2012-06-13T00:00:00+01:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/department-for-business-innovation-and-skills-structural-reform-plan-monthly-implementation-update-may-2012"/>
-    <title>Department for Business, Innovation and Skills structural reform plan monthly implementation update: May 2012</title>
+    <title>Structural reform plan monthly implementation update: May 2012</title>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Report on progress towards the department’s commitments in its business plan, including structural reform. See the draft structural reform plan (10/1086).&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/45768</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/59968</id>
     <published>2012-05-31T00:00:00+01:00</published>
     <updated>2012-05-31T00:00:00+01:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/business-plan-2012-2015-department-for-business-innovation-and-skills"/>
-    <title>Business plan 2012-2015: Department for Business, Innovation and Skills</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Sets out the department’s priorities and how it will implement these priorities. Also explains BIS planned expenditure over the spending review period, and key data and indicators that BIS will publish to help the public to track the cost and impact of public services. See URN 12/P58A for annexes containing information on cross-government priorities, additional departmental actions and actions from the 2011 business plan that have been completed.&lt;/p&gt;&lt;/div&gt;</content>
+    <title>Business plan 2012 to 2015</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Sets out the department’s priorities and how it will implement these priorities. Part C sets out the department’s structural reform plan. Also explains BIS planned expenditure over the spending review period, and key data and indicators that BIS will publish to help the public to track the cost and impact of public services. See URN 12/P58A for annexes containing information on cross-government priorities, additional departmental actions and actions from the 2011 business plan that have been completed.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/45769</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/59978</id>
     <published>2012-05-31T00:00:00+01:00</published>
     <updated>2012-05-31T00:00:00+01:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/business-plan-2012-2015-department-for-business-innovation-and-skills-annexes"/>
-    <title>Business plan 2012-2015: Department for Business, Innovation and Skills - annexes</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Annexes A-C of the BIS Business Plan 2012-15 (URN 12/P58). Contains information on cross-Government priorities, additional departmental actions and actions from the 2011 business plan that have been completed.&lt;/p&gt;&lt;/div&gt;</content>
+    <title>Business plan 2012 to 2015, annexes A to C</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Annexes A-C of the BIS Business plan 2012 to 2015 (URN 12/P58). Contains information on cross-government priorities, additional departmental actions and actions from the 2011 business plan that have been completed.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/45374</id>
@@ -179,5 +165,13 @@ The headline figures show the measures that will be introduced this year that ar
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/bis-third-statement-of-new-regulation-regulations-covering-january-to-june-2012"/>
     <title>BIS third statement of new regulation: regulations covering January to June 2012</title>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Informs businesses of Department for Business domestic regulations that come into force between January 2012 and June 2012.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/45789</id>
+    <published>2012-02-14T00:00:00+00:00</published>
+    <updated>2012-02-14T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/guide-to-bis-2011-2012-working-together-for-growth"/>
+    <title>Guide to BIS 2011 - 2012: working together for growth</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Guide to the department for Business, Innovation and Skills. Overview of the department’s vision, objectives, key deliverables, partners, budget and leadership team.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
 </feed>

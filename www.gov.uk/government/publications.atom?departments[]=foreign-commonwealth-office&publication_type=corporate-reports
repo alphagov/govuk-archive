@@ -8,7 +8,16 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-12-12T00:00:00+00:00</updated>
+  <updated>2012-12-20T00:00:00+00:00</updated>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60198</id>
+    <published>2012-12-20T00:00:00+00:00</published>
+    <updated>2012-12-20T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/the-fco-digital-strategy"/>
+    <title>The FCO Digital Strategy</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This strategy covers the work of the Foreign and Commonwealth Office. It covers the implications of
+digital for our overall diplomatic work, as well as for our services to the British public.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/54831</id>
     <published>2012-12-12T00:00:00+00:00</published>
@@ -138,20 +147,20 @@ exports.The quarterly and annual reports give details by destination, of physica
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;In this document we set out the Foreign and Commonwealth Office (FCO)’s approach to Transparency and Open Data; our aspirations regarding future publication and public engagement and how we will implement these plans.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/47262</id>
-    <published>2012-05-31T00:00:00+01:00</published>
-    <updated>2012-05-31T00:00:00+01:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/business-plan-input-and-impact-indicators"/>
-    <title>Business Plan Input and Impact Indicators</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Details of the FCO’s monthly operating costs and expenditure on projects, measured against financial targets and stated objectives.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/55376</id>
     <published>2012-05-31T00:00:00+01:00</published>
     <updated>2012-05-31T00:00:00+01:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/business-plan"/>
     <title>The Foreign &amp; Commonwealth Office 2012-15 Business Plan</title>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Foreign &amp;amp; Commonwealth Office 2012-15 Business Plan sets out the programme of work it plans to carry out over the next three years to support the coalition government’s objectives. It also contains information on organisational structure, budget and performance measurement.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/47262</id>
+    <published>2012-05-31T00:00:00+01:00</published>
+    <updated>2012-05-31T00:00:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/business-plan-input-and-impact-indicators"/>
+    <title>Business Plan Input and Impact Indicators</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Details of the FCO’s monthly operating costs and expenditure on projects, measured against financial targets and stated objectives.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/50042</id>
@@ -241,14 +250,5 @@ medium sized enterprises.&lt;/p&gt;&lt;/div&gt;</content>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/fco-management-board-minutes"/>
     <title>FCO Management Board minutes</title>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Find out what FCO Management Board members discuss each month at their Board meetings. We publish a summary after every Board meeting.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/50032</id>
-    <published>2011-12-16T00:00:00+00:00</published>
-    <updated>2011-12-16T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/fco-management-board-sub-committees"/>
-    <title>FCO Management Board Sub-Committees</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Three sub-committees support the work of the FCO Board. They are: The Audit and Risk Committee - assists the Board on issues of risk, control and governance. The HR Committee - provides a corporate view of the FCO’s
-HR policies and operations. The Operations Committee - ensures that network changes and efficiency savings are timely and coordinated.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
 </feed>

@@ -7,11 +7,11 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-12-12T18:30:29+00:00</updated>
+  <updated>2012-12-20T16:57:38+00:00</updated>
   <entry>
-    <id>tag:www.gov.uk,2005:Policy/60068</id>
-    <published>2012-12-12T18:30:29+00:00</published>
-    <updated>2012-12-12T18:30:29+00:00</updated>
+    <id>tag:www.gov.uk,2005:Policy/60105</id>
+    <published>2012-12-20T16:57:38+00:00</published>
+    <updated>2012-12-20T16:57:38+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/policies/providing-better-information-and-protection-for-consumers"/>
     <title>Providing better information and protection for consumers</title>
     <summary>How the government is changing some laws to help consumers</summary>
@@ -93,17 +93,28 @@
 &lt;p&gt;We worked with a number of partners to produce our ‘Guide for community buying groups’. All of the organisations below contributed or checked material for us:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Action with Communities in Rural England (ACRE)&lt;/li&gt;
-  &lt;li&gt;Allen Valleys Oil Buying Co-operative&lt;/li&gt;
-  &lt;li&gt;Brighter Living Partnership&lt;/li&gt;
-  &lt;li&gt;Citizens Advice&lt;/li&gt;
-  &lt;li&gt;Co-operatives UK&lt;/li&gt;
-  &lt;li&gt;Oxfordshire Rural Community Council&lt;/li&gt;
-  &lt;li&gt;The R Shop Bulk Buying Project&lt;/li&gt;
+&lt;li&gt;&lt;a rel="external" href="http://www.acre.org.uk/"&gt;Action with Communities in Rural England (ACRE)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a rel="external" href="http://www.allenvalleys.co.uk/oil/"&gt;Allen Valleys Oil Buying Co-operative&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a rel="external" href="http://www.brighterliving.org.uk/"&gt;Brighter Living Partnership&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a rel="external" href="http://www.citizensadvice.org.uk/"&gt;Citizens Advice&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a rel="external" href="http://www.uk.coop/"&gt;Co-operatives UK&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a rel="external" href="http://www.oxonrcc.org.uk/"&gt;Oxfordshire Rural Community Council&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a rel="external" href="http://socialinnovation.typepad.com/silk/2009/10/bulk-buying-project.html"&gt;The R Shop Bulk Buying Project&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Solar 100 Project&lt;/li&gt;
-  &lt;li&gt;Sustain&lt;/li&gt;
+  &lt;li&gt;&lt;a rel="external" href="http://www.sustainweb.org/"&gt;Sustain&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Up2Us&lt;/li&gt;
-&lt;/ul&gt;&lt;p&gt;We also worked with the Law Commission and the Scottish Law Commission, who both did studies on misleading and aggressive selling.&lt;/p&gt;&lt;/div&gt;</content>
+&lt;/ul&gt;&lt;p&gt;We also worked with the &lt;a rel="external" href="http://lawcommission.justice.gov.uk/"&gt;Law Commission&lt;/a&gt; and the &lt;a rel="external" href="http://www.scotlawcom.gov.uk/"&gt;Scottish Law Commission,&lt;/a&gt; who both did studies on misleading and aggressive selling.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:Publication/60051</id>
+    <published>2012-12-20T00:00:00+00:00</published>
+    <updated>2012-12-20T13:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/better-choices-better-deals-report-on-progress-on-the-consumer-empowerment-strategy"/>
+    <title>Better choices: better deals. Report on progress on the consumer empowerment strategy</title>
+    <summary>This report covers the progress that has been made in the 18 months since the consumer enpowerment strategy was launched. </summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The consumer empowerment strategy Better Choices: Better Deals was published in April 2011. This progress report describes how the wide range of commitments made then have been taken forward. Many of these have involved two or more of government, businesses, economic regulators, consumer groups and individual consumers coming together to develop practical ways to help empower people to make better choices and get better deals.&lt;/p&gt;
+
+&lt;p&gt;The empowerment strategy established midata, a programme of work involving government, consumer groups and leading businesses to give consumers more control and access to the data that companies hold about them. The aim of the midata programme is to give consumers access to their transaction data in a way that is electronic, portable and safe.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:Policy/55937</id>
@@ -193,15 +204,6 @@
 &lt;/div&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:Publication/56408</id>
-    <published>2012-11-30T00:00:00+00:00</published>
-    <updated>2012-12-13T15:48:38+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/the-pyrotechnic-articles-safety-regulations-2010-impact-assessment"/>
-    <title>The Pyrotechnic Articles (Safety) Regulations 2010: impact assessment</title>
-    <summary>Assesses the impact of proposals to amend the pyrotechnic articles regulations reducing the age at which Christmas crackers can be purchased</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Assesses the impact of government proposals to amend the pyrotechnic articles regulations to reduce the age at which Christmas crackers can be purchased from 16 to 12, as the regulations are unnecessarily restrictive. See the related &lt;a href="https://www.gov.uk/government/consultations/red-tape-challenge-retail-and-manufacturing-consultation--2"&gt;red tape challenge:retail and manufacturing consultation&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
     <id>tag:www.gov.uk,2005:Publication/56251</id>
     <published>2012-11-30T00:00:00+00:00</published>
     <updated>2012-12-13T16:10:19+00:00</updated>
@@ -209,6 +211,15 @@
     <title>The Pencils and Graphic Instruments (Safety) Regulations 1998: impact assessment</title>
     <summary>Assesses the impact of the government's proposals to revoke pencils and graphic instruments regulations.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Assesses the impact of the government’s proposals to revoke pencils and graphic instruments regulations, as they are outdated and no longer reflect current products and processes. See the related &lt;a href="https://www.gov.uk/government/consultations/red-tape-challenge-retail-and-manufacturing-consultation--2"&gt;red tape challenge: retail and manufacturing consultation&lt;/a&gt; &lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:Publication/56408</id>
+    <published>2012-11-30T00:00:00+00:00</published>
+    <updated>2012-12-13T15:48:38+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/the-pyrotechnic-articles-safety-regulations-2010-impact-assessment"/>
+    <title>The Pyrotechnic Articles (Safety) Regulations 2010: impact assessment</title>
+    <summary>Assesses the impact of proposals to amend the pyrotechnic articles regulations reducing the age at which Christmas crackers can be purchased</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Assesses the impact of government proposals to amend the pyrotechnic articles regulations to reduce the age at which Christmas crackers can be purchased from 16 to 12, as the regulations are unnecessarily restrictive. See the related &lt;a href="https://www.gov.uk/government/consultations/red-tape-challenge-retail-and-manufacturing-consultation--2"&gt;red tape challenge:retail and manufacturing consultation&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:NewsArticle/47149</id>
@@ -243,6 +254,24 @@
   &lt;li&gt;&lt;a rel="external" href="http://www.bis.gov.uk/policies/consumer-issues/consumer-empowerment/buy-better-together-challenge"&gt;Buy Better Together Challenge&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a rel="external" href="http://www.bis.gov.uk/news/topstories/2012/Nov/hwww.smarterbuys.org.uk"&gt;Smarter Buys&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:Publication/48232</id>
+    <published>2012-11-23T00:00:00+00:00</published>
+    <updated>2012-12-11T16:31:04+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/street-trading-and-pedlar-laws-compliance-with-the-european-services-directive-impact-assessment"/>
+    <title>Street trading and pedlar laws: compliance with the European Services Directive. Impact assessment</title>
+    <summary/>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Assesses the impact of draft regulations for the street trading regime and proposals to repeal the Pedlars Act. Aims to bring UK legislation in line with the European Services Directive (2006/123/EC) requirements. Also seeks to maintain a balance between&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:Publication/48230</id>
+    <published>2012-11-23T00:00:00+00:00</published>
+    <updated>2012-12-11T16:31:03+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/street-trading-and-pedlar-laws-compliance-with-the-european-services-directive-a-joint-consultation-on-the-draft-regulations-repeal-of-the-pedlars-acts-uk-wide-and-changes-to-street-trading-legislation-in-england-and-wales-and-northern-ireland"/>
+    <title>Street trading and pedlar laws: compliance with the European Services Directive. A joint consultation on the draft regulations - repeal of the Pedlars Acts (UK-wide), and changes to street trading legislation in England and Wales and Northern Ireland</title>
+    <summary/>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Responses by 15 February 2013. Consultation seeking views on draft regulations to amend national street trading legislation for England and Wales and for Northern Ireland. Also covers proposals to repeal the Pedlars Act 1871 and 1881 for the whole of the&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:Consultation/47198</id>
@@ -283,32 +312,5 @@
   &lt;li&gt;&lt;a rel="external" href="http://www.bis.gov.uk/assets/biscore/consumer-issues/docs/s/12-605rf-street-trading-compliance-with-services-directive-form.doc"&gt;Street trading and pedlar laws: compliance with the European Services Directive consultation - response form for England and Wales only (DOC, 151 Kb) &lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a rel="external" href="http://www.bis.gov.uk/assets/biscore/consumer-issues/docs/s/12-606-street-trading-compliance-with-services-directive-impact.pdf"&gt;Street trading and pedlar laws: compliance with the European Services Directive impact assessment (PDF, 189 Kb) &lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:Publication/48231</id>
-    <published>2012-11-23T00:00:00+00:00</published>
-    <updated>2012-12-11T16:31:03+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/street-trading-and-pedlary-laws-compliance-with-the-requirements-of-the-european-services-directive-response-form-for-england-and-wales-only"/>
-    <title>Street trading and pedlary laws: compliance with the requirements of the European Services Directive. Response form for England and Wales only</title>
-    <summary/>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Responses by 15 February 2013. Template for responses to the consultation on draft regulations to amend national street trading legislation and proposals to repeal the Pedlars Act (URN 12/605).&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:Publication/48230</id>
-    <published>2012-11-23T00:00:00+00:00</published>
-    <updated>2012-12-11T16:31:03+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/street-trading-and-pedlar-laws-compliance-with-the-european-services-directive-a-joint-consultation-on-the-draft-regulations-repeal-of-the-pedlars-acts-uk-wide-and-changes-to-street-trading-legislation-in-england-and-wales-and-northern-ireland"/>
-    <title>Street trading and pedlar laws: compliance with the European Services Directive. A joint consultation on the draft regulations - repeal of the Pedlars Acts (UK-wide), and changes to street trading legislation in England and Wales and Northern Ireland</title>
-    <summary/>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Responses by 15 February 2013. Consultation seeking views on draft regulations to amend national street trading legislation for England and Wales and for Northern Ireland. Also covers proposals to repeal the Pedlars Act 1871 and 1881 for the whole of the&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:Publication/48232</id>
-    <published>2012-11-23T00:00:00+00:00</published>
-    <updated>2012-12-11T16:31:04+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/street-trading-and-pedlar-laws-compliance-with-the-european-services-directive-impact-assessment"/>
-    <title>Street trading and pedlar laws: compliance with the European Services Directive. Impact assessment</title>
-    <summary/>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Assesses the impact of draft regulations for the street trading regime and proposals to repeal the Pedlars Act. Aims to bring UK legislation in line with the European Services Directive (2006/123/EC) requirements. Also seeks to maintain a balance between&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
 </feed>

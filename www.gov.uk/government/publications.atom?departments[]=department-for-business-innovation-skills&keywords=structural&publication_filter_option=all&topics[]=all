@@ -10,11 +10,11 @@
   </author>
   <updated>2012-06-13T00:00:00+01:00</updated>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/45764</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56943</id>
     <published>2012-06-13T00:00:00+01:00</published>
     <updated>2012-06-13T00:00:00+01:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/department-for-business-innovation-and-skills-structural-reform-plan-monthly-implementation-update-may-2012"/>
-    <title>Department for Business, Innovation and Skills structural reform plan monthly implementation update: May 2012</title>
+    <title>Structural reform plan monthly implementation update: May 2012</title>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Report on progress towards the department’s commitments in its business plan, including structural reform. See the draft structural reform plan (10/1086).&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
@@ -122,6 +122,14 @@
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Report on progress towards the department’s commitments in its business plan, including structural reform. See the draft structural reform plan (10/1086).&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60036</id>
+    <published>2011-05-13T00:00:00+01:00</published>
+    <updated>2011-05-13T00:00:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/business-plan-2011-2015-department-for-business-innovation-and-skills-annex-b-srp-amendments"/>
+    <title>Business plan 2011 to 2015, annex B, structural reform plan amendments</title>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Details amendments made to the structural reform plan (&lt;abbr title="Structural reform plan"&gt;SRP&lt;/abbr&gt;) (URN 10/1086) since the last business plan (10/P58) was published. One of 4 annexes to the BIS business plan 2011-2015 URN 11/P58.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/45746</id>
     <published>2011-05-10T00:00:00+01:00</published>
     <updated>2011-05-10T00:00:00+01:00</updated>
@@ -159,14 +167,6 @@
     <updated>2010-11-23T00:00:00+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/department-for-business-innovation-and-skills-structural-reform-plan-monthly-implementation-update-october-2010"/>
     <title>Department for Business, Innovation and Skills structural reform plan: monthly implementation update - October 2010</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Monthly report to show progress towards the department’s commitments in its structural reform plan. See the draft BIS structural reform plan: URN 10/1086.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/45734</id>
-    <published>2010-10-04T00:00:00+01:00</published>
-    <updated>2010-10-04T00:00:00+01:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/department-for-business-innovation-and-skills-structural-reform-plan-monthly-implementation-update-september-2010"/>
-    <title>Department for Business, Innovation and Skills structural reform plan: monthly implementation update - September 2010</title>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Monthly report to show progress towards the department’s commitments in its structural reform plan. See the draft BIS structural reform plan: URN 10/1086.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
 </feed>
