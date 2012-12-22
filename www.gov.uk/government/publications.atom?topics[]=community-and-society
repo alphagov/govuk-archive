@@ -8,13 +8,15 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-12-15T00:00:00+00:00</updated>
+  <updated>2012-12-15T00:15:01+00:00</updated>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/56541</id>
     <published>2012-12-15T00:00:00+00:00</published>
-    <updated>2012-12-15T00:00:00+00:00</updated>
+    <updated>2012-12-15T00:15:01+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/working-with-troubled-families-a-guide-to-evidence-and-good-practice"/>
     <title>Working with Troubled Families: a guide to evidence and good practice</title>
+    <category>Publication</category>
+    <summary>Guidance for local authorities and their partners on how to work with troubled families.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This is a tool to help local authorities and their partners, who have asked for guidance on how best to work with troubled families, and for the evidence about family intervention to be brought together in one place. &lt;/p&gt;
 
 &lt;p&gt;The report looks at academic evidence, local evaluations of practice, what practitioners have told us works in their services and what families tell us makes this work different and successful for them.&lt;/p&gt;&lt;/div&gt;</content>
@@ -22,9 +24,11 @@
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/50166</id>
     <published>2012-12-11T00:00:00+00:00</published>
-    <updated>2012-12-11T00:00:00+00:00</updated>
+    <updated>2012-12-12T19:39:08+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/the-shareholder-executive-publications"/>
     <title>The Shareholder Executive: publications</title>
+    <category>Publication</category>
+    <summary>Working with shareholder departments in government to improve fundamentally the government’s capabilities and performance as a shareholder.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="senior-team"&gt;Senior team&lt;/h2&gt;
 
 &lt;section class="attachment embedded" id="attachment_49071"&gt;&lt;div class="attachment-thumb"&gt;
@@ -80,9 +84,11 @@
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/17148</id>
     <published>2012-12-06T00:00:00+00:00</published>
-    <updated>2012-12-06T00:00:00+00:00</updated>
+    <updated>2012-12-06T16:19:47+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/decentralisation-an-assessment-of-progress"/>
     <title>Decentralisation: an assessment of progress</title>
+    <category>Publication</category>
+    <summary>A report setting out the progress the government is making to 'decentralise' power from Whitehall across the country.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The report by the Rt Hon Greg Clark MP provides an assessment of how 12 government departments are decentralising power and puts forward personal recommendations for next steps. It shows strong progress across all of the domestic policy agenda, but also calls for continued reform.&lt;/p&gt;
 
 &lt;p&gt;The report makes the case for decentralisation (sustainable growth, better public services, a stronger society), setting out the gold standard for decentralisation, based on the &lt;a href="https://www.gov.uk/government/publications/decentralisation-and-the-localism-bill-an-essential-guide--2"&gt;guide to decentralisation and the Localism Bill&lt;/a&gt;, which was published in December 2010.&lt;/p&gt;&lt;/div&gt;</content>
@@ -90,17 +96,21 @@
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/48919</id>
     <published>2012-11-27T00:00:00+00:00</published>
-    <updated>2012-11-27T00:00:00+00:00</updated>
+    <updated>2012-11-27T10:35:56+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/flying-flags-a-plain-english-guide"/>
     <title>Flying flags: a plain English guide</title>
+    <category>Publication</category>
+    <summary>A guide to the flags that can be flown without permission from your local planning authority.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The government has recently made changes to regulations which widen the types of flags you may fly in England. This guide provides a brief summary of the new rules over flag flying that were introduced on 12 October 2012.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/14067</id>
     <published>2012-11-10T00:00:00+00:00</published>
-    <updated>2012-11-10T00:00:00+00:00</updated>
+    <updated>2012-11-14T12:40:14+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/troubled-families-case-studies"/>
     <title>Troubled families case studies</title>
+    <category>Publication</category>
+    <summary>This document describes how families were helped in Sheffield, Bradford, Lancashire, Leeds and Norfolk. </summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Work with family intervention projects can make a significant difference to families’ lives.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
@@ -109,24 +119,30 @@
     <updated>2012-10-31T00:00:00+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/consultations/making-it-easier-to-set-up-new-town-and-parish-councils-discussion-paper"/>
     <title>Making it easier to set up new town and parish councils: discussion paper</title>
+    <category>Consultation</category>
+    <summary>Consultation about a range of measures to make it easier to set up new town and parish councils.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The government wants to make it easier to set up new town and parish councils. This discussion paper presents a range of proposals that would help achieve this. We would like your views on these, as well as any other comments or ideas.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/11805</id>
-    <published>2012-08-28T00:00:00+01:00</published>
-    <updated>2012-08-28T00:00:00+01:00</updated>
+    <published>2012-08-28T01:00:00+01:00</published>
+    <updated>2012-11-14T12:35:53+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/dealing-with-illegal-and-unauthorised-encampments-a-summary-of-available-powers"/>
     <title>Dealing with illegal and unauthorised encampments: a summary of available powers</title>
+    <category>Publication</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Recent experience has brought into focus the question of balance between the right to peaceful protest and the disruptive impact of the illegal occupation of land. In addition, the formation of unauthorised campsites by traveller groups can be problematic for the general public and private landowners.&lt;/p&gt;
 
 &lt;p&gt;On occasion local authorities and their partner agencies have been unclear about the full range of powers available to them to tackle both illegal and unauthorised encampments sites. This summary is intended to be an accessible source of information providing an overview of powers available and to enable the timely reclamation of land and property. This information complements the Department’s Guide to effective use of enforcement powers - Part 1: unauthorised encampments (see below) and is primarily aimed at local authority officials, but it is also intended to be helpful to landowners and others affected by such encampments.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/11804</id>
-    <published>2012-08-28T00:00:00+01:00</published>
-    <updated>2012-08-28T00:00:00+01:00</updated>
+    <published>2012-08-28T01:00:00+01:00</published>
+    <updated>2012-11-14T12:35:52+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/tenant-panels-and-empowerment-training-and-support-programme-prospectus"/>
     <title>Tenant panels and empowerment: training and support programme prospectus</title>
+    <category>Publication</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This prospectus invites applications from eligible organisations for grant funding to deliver a national programme for social tenants living in social housing that will:&lt;/p&gt;
 
 &lt;p&gt;encourage more tenant panels to challenge landlords, shape services and get involved in local decision making; and
@@ -134,46 +150,56 @@ empower tenants to engage with their landlord and take control of local services
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/11807</id>
-    <published>2012-08-22T00:00:00+01:00</published>
-    <updated>2012-08-22T00:00:00+01:00</updated>
+    <published>2012-08-22T01:00:00+01:00</published>
+    <updated>2012-11-14T12:35:56+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/food-growing-case-studies"/>
     <title>Food growing: case studies</title>
+    <category>Publication</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The projects included in this document showcase best practice and the varied approaches that community groups have taken to getting land to use for their food growing projects. From space on housing estates now being run as a mini social enterprise, to derelict allotment land, every project shows that where community groups work together with their local authorities or other local landowners, great achievements can follow.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/11808</id>
-    <published>2012-08-22T00:00:00+01:00</published>
-    <updated>2012-08-22T00:00:00+01:00</updated>
+    <published>2012-08-22T01:00:00+01:00</published>
+    <updated>2012-11-14T12:35:57+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/potential-funding-for-community-green-spaces"/>
     <title>Potential funding for community green spaces</title>
+    <category>Publication</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This document sets out the potential funding available to community and voluntary organisations to start either a food growing or community orchards project. It identifies the different grant schemes open to local groups, green spaces, allotment organisations or trusts, and also where to go to get help when looking for funding.&lt;/p&gt;
 
 &lt;p&gt;This replaces the guidance published in August 2011.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/11292</id>
-    <published>2012-08-02T00:00:00+01:00</published>
-    <updated>2012-08-02T00:00:00+01:00</updated>
+    <published>2012-08-02T01:00:00+01:00</published>
+    <updated>2012-11-14T12:31:45+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/openness-and-transparency-on-personal-interests-guidance-for-councillors"/>
     <title>Openness and transparency on personal interests: guidance for councillors</title>
+    <category>Publication</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This guide gives basic practical information to councillors about how to be open and transparent about their personal interests. It is designed to help councillors, including parish councillors, now that new standards arrangements have been introduced by the Localism Act 2011.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/11449</id>
-    <published>2012-07-18T00:00:00+01:00</published>
-    <updated>2012-07-18T00:00:00+01:00</updated>
+    <published>2012-07-18T01:00:00+01:00</published>
+    <updated>2012-11-14T12:32:50+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/listening-to-troubled-families"/>
     <title>Listening to troubled families</title>
+    <category>Publication</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Louise Casey, head of the troubled families programme, interviewed 16 troubled families for this report that starkly describes the problems families face.&lt;/p&gt;
 
 &lt;p&gt;The primary purpose of carrying out the interviews was to listen directly to families about their lives, the problems they have experienced and caused and to begin to understand the sort of help that will enable them to really change.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/11382</id>
-    <published>2012-07-13T00:00:00+01:00</published>
-    <updated>2012-07-13T00:00:00+01:00</updated>
+    <published>2012-07-13T01:00:00+01:00</published>
+    <updated>2012-11-14T12:32:25+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/policy-statement-for-part-2-of-the-localism-act-2011"/>
     <title>Policy statement for part 2 of the Localism Act 2011</title>
+    <category>Publication</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;A proposed policy statement to accompany Part 2 of the Localism Act was developed with the Local Government Association and Greater London Authority. The consultation on the proposed statement ended on 22 April 2012. As a result, the policy statement has been revised and is now available in final form.&lt;/p&gt;
 
 &lt;p&gt;The Localism Act provides a substantial and lasting shift in power away from central government and towards local people. The government has given public authorities more powers and freedoms to conduct their business and deliver services to the public. This includes a major reduction in the ‘oversight’ role of central government. Public authorities must, therefore, accept responsibility for the consequences of their actions or omissions.&lt;/p&gt;
@@ -182,10 +208,12 @@ empower tenants to engage with their landlord and take control of local services
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/11309</id>
-    <published>2012-06-27T00:00:00+01:00</published>
-    <updated>2012-06-27T00:00:00+01:00</updated>
+    <published>2012-06-27T01:00:00+01:00</published>
+    <updated>2012-11-14T12:31:52+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/community-right-to-challenge-statutory-guidance"/>
     <title>Community Right to Challenge: statutory guidance</title>
+    <category>Publication</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This guidance provides further explanation of the legislative framework for the Community Right to Challenge. This is contained in Part 5, Chapter 2 of the Localism Act 2011, The Community Right to Challenge (Expressions of Interest and Excluded Services) (England) Regulations 2012, and The Community Right to Challenge (Fire and Rescue Authorities and Rejection of Expressions of Interest) (England) Regulations 2012.&lt;/p&gt;
 
 &lt;p&gt;The Localism Act was enacted on 15 November 2011. The Community Right to Challenge was commenced on 27 June 2012.&lt;/p&gt;
@@ -198,6 +226,8 @@ empower tenants to engage with their landlord and take control of local services
     <updated>2012-06-13T01:00:00+01:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/consultations/proposals-from-town-and-parish-councils-under-the-sustainable-communities-act-2007"/>
     <title>Proposals from town and parish councils under the Sustainable Communities Act 2007</title>
+    <category>Consultation</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;On 15 December 2010 the Secretary of State for Communities and Local Government issued a second invitation to local authorities under the Sustainable Communities Act 2007. He invited local authorities to consult people, ask them how they would like to see their local area improved and to take appropriate action to make it happen. The Localism Act has given them far more freedom and flexibility to do this.&lt;/p&gt;
 
 &lt;p&gt;If local authorities, having consulted and reached agreement with their local communities, find that a bureaucratic barrier prevents them from taking action, they can submit a formal ‘proposal’ under the Sustainable Communities Act 2007 asking Government to remove the barrier through the online portal at &lt;a rel="external" href="http://barrierbusting.communities.gov.uk/"&gt;http://barrierbusting.communities.gov.uk&lt;/a&gt; (external link). This portal is also open to anyone who wishes to ask the government to remove a barrier which is stopping local action.&lt;/p&gt;
@@ -206,30 +236,36 @@ empower tenants to engage with their landlord and take control of local services
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/11505</id>
-    <published>2012-05-07T00:00:00+01:00</published>
-    <updated>2012-05-07T00:00:00+01:00</updated>
+    <published>2012-05-07T01:00:00+01:00</published>
+    <updated>2012-11-14T12:33:15+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/accelerating-the-release-of-surplus-public-sector-land-progress-report"/>
     <title>Accelerating the release of surplus public sector land: progress report</title>
+    <category>Publication</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This report sets out the progress made in the past year to accelerate the release of surplus public land to support housing. It also describes the support mechanisms that have been put in place to help departments dispose of land and the next steps for the programme in the coming year.&lt;/p&gt;
 
 &lt;p&gt;As set out in Budget 2012 sufficient land has been identified to meet the government’s ambition to dispose of land with the capacity to build over 100,000 homes by April 2015.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/11534</id>
-    <published>2012-04-04T00:00:00+01:00</published>
-    <updated>2012-04-04T00:00:00+01:00</updated>
+    <published>2012-04-04T01:00:00+01:00</published>
+    <updated>2012-11-14T12:33:26+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/reducing-inequalities-for-gypsies-and-travellers-progress-report"/>
     <title>Reducing inequalities for gypsies and travellers: progress report</title>
+    <category>Publication</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Gypsies and travellers experience, and are being held back by, some of the worst outcomes of any group across a wide range of social indicators. In November 2010, the Secretary of State for Communities and Local Government set up a ministerial working group to tackle these issues, bringing together ministers from 7 government departments.&lt;/p&gt;
 
 &lt;p&gt;This progress report includes 28 commitments from across government that will help mainstream services work more effectively with the gypsy and traveller communities.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/15390</id>
-    <published>2012-03-28T00:00:00+01:00</published>
-    <updated>2012-03-28T00:00:00+01:00</updated>
+    <published>2012-03-28T01:00:00+01:00</published>
+    <updated>2012-11-14T12:41:30+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/the-troubled-families-programme-financial-framework"/>
     <title>The troubled families programme: financial framework</title>
+    <category>Publication</category>
+    <summary>Information on the Troubled Families programme payment-by-results scheme for local authorities</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Troubled Families Financial Framework is a results-based funding scheme which provides details of the payment mechanism for local authorities to receive extra funding to deal with troubled families.&lt;/p&gt;
 
 &lt;p&gt;Aimed at local authorities, this document explains:&lt;/p&gt;
@@ -243,9 +279,11 @@ empower tenants to engage with their landlord and take control of local services
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/11248</id>
     <published>2012-03-23T00:00:00+00:00</published>
-    <updated>2012-03-23T00:00:00+00:00</updated>
+    <updated>2012-11-14T12:31:24+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/alcohol-fund-prospectus--2"/>
     <title>Alcohol fund prospectus</title>
+    <category>Publication</category>
+    <summary>The documents outlines how local partnerships can apply for funding to tackle problem drinking</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;In her third report as Government Champion for Safe and Active Communities, Baroness Newlove set out the importance of tackling the damage associated with problem drinking and announced a new £1 million government fund to help address this.&lt;/p&gt;
 
 &lt;p&gt;The attached document describes how local authorities, alongside police, schools, youth groups, the NHS, local retailers and ordinary people, could apply for a share of the fund, and sets out the selection criteria.&lt;/p&gt;
@@ -255,9 +293,11 @@ empower tenants to engage with their landlord and take control of local services
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/11764</id>
     <published>2012-02-21T00:00:00+00:00</published>
-    <updated>2012-02-21T00:00:00+00:00</updated>
+    <updated>2012-11-14T12:35:37+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/creating-the-conditions-for-a-more-integrated-society"/>
     <title>Creating the conditions for a more integrated society</title>
+    <category>Publication</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This document sets out the Government’s approach to achieving a more integrated society, focusing on creating the conditions for everyone to live and work successfully alongside each other.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
 </feed>

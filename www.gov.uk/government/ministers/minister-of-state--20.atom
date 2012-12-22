@@ -8,13 +8,15 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-12-20T00:00:00+00:00</updated>
+  <updated>2012-12-20T09:55:18+00:00</updated>
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/60109</id>
     <published>2012-12-20T00:00:00+00:00</published>
-    <updated>2012-12-20T00:00:00+00:00</updated>
+    <updated>2012-12-20T09:55:18+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/speeches/the-port-of-dover"/>
     <title>The Port of Dover</title>
+    <category>Statement to parliament</category>
+    <summary>Dover Port transfer scheme decision announced.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;In January 2010 Dover Harbour Board (DHB) submitted a voluntary transfer scheme in accordance with section 9 of the Ports Act 1991, which allows a relevant port authority to voluntarily submit a transfer scheme, which, if confirmed by the Secretary of State for Transport, would allow the port to be privatised.  This was followed by a statutory consultation period on Dover’s transfer scheme that ended on 25 March 2010.&lt;/p&gt;
 
 &lt;p&gt;On 16 May 2011 the then Secretary of State for Transport, The &lt;abbr title="Right Honourable"&gt;Rt Hon&lt;/abbr&gt; Member for Runnymede and Weybridge (Philip Hammond), launched a consultation on the criteria that the government considers relevant when considering the appropriateness of the sale of a major trust port. The revised criteria - Secretary of State for Transport’s guidance note concerning procedure for the sale of trust ports - was published on 3 August 2011.&lt;/p&gt;
@@ -35,6 +37,8 @@
     <updated>2012-12-19T15:11:03+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/passengers-come-first-in-new-civil-aviation-act"/>
     <title>Passengers come first in new Civil Aviation Act </title>
+    <category>News article</category>
+    <summary>The Civil Aviation Act has become law today and paves the way for airports to offer better facilities and information for passengers.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Passengers have today been placed firmly at the heart of UK airport regulation as a new Civil Aviation Act becomes law. The Act paves the way for the Civil Aviation Authority (&lt;abbr title="Civil Aviation Authority"&gt;CAA&lt;/abbr&gt;) to motivate airports to deliver better facilities, provide more information for passengers and give greater incentives for airports to prepare for disruptive events such as severe weather. The Act also makes provisions for future reforms to the Air Travel Organisers’ Licensing (&lt;abbr title="Air Travel Organisers’ Licensing"&gt;ATOL&lt;/abbr&gt;) scheme, which offers financial protection for holiday makers in the event of their tour operator going bust.&lt;/p&gt;
 
 &lt;p&gt;The new Act sees a number of key changes to the powers and responsibilities of the aviation regulator, the &lt;abbr title="Civil Aviation Authority"&gt;CAA&lt;/abbr&gt;, including:&lt;/p&gt;
@@ -107,6 +111,8 @@ Public enquiries: 0300 330 3000  &lt;/p&gt;&lt;/div&gt;</content>
     <updated>2012-12-14T10:38:38+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/industry-launches-new-rail-technical-strategy"/>
     <title>Industry launches new rail technical strategy</title>
+    <category>News article</category>
+    <summary>New techniques and technologies to improve the performance and cost-effectiveness of the railway.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Rail industry leaders have outlined a 30 year vision for the railway through a new edition of the ‘Rail technical strategy’.&lt;/p&gt;
 
 &lt;p&gt;The ‘Rail technical strategy’ describes how technology can help the railway increase capacity, improve reliability, cut carbon emissions and reduce costs.&lt;/p&gt;
@@ -124,9 +130,11 @@ Public enquiries: 0300 330 3000  &lt;/p&gt;&lt;/div&gt;</content>
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/17252</id>
     <published>2012-11-29T00:00:00+00:00</published>
-    <updated>2012-11-29T00:00:00+00:00</updated>
+    <updated>2012-11-29T16:15:00+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/speeches/uk-air-rail-conference"/>
     <title>UK Air-Rail Conference</title>
+    <category>Speech</category>
+    <summary>The economic importance of air-rail connections, and the government’s record of investment and modernisation.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="opening-remarks"&gt;Opening remarks&lt;/h2&gt;
 
 &lt;p&gt;Thank you for that introduction. &lt;/p&gt;
@@ -331,6 +339,8 @@ Public enquiries: 0300 330 3000  &lt;/p&gt;&lt;/div&gt;</content>
     <updated>2012-11-27T09:46:29+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/widespread-support-for-greater-rail-devolution"/>
     <title>Widespread support for greater rail devolution</title>
+    <category>News article</category>
+    <summary>Consultation responses published today reveal widespread support for rail devolution.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Passengers and local communities could achieve better rail services and value for money for taxpayers if they have more say on how their railways are run, according to responses to a government consultation.&lt;/p&gt;
 
 &lt;p&gt;The feedback published today also reveals widespread support for rail devolution. The consultation asked individuals, regional groups and interested organisations to give their views on how devolution might work and what the benefits were.&lt;/p&gt;
@@ -375,9 +385,11 @@ Public enquiries: 0300 330 3000&lt;/p&gt;&lt;/div&gt;</content>
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/16471</id>
     <published>2012-11-19T00:00:00+00:00</published>
-    <updated>2012-11-19T00:00:00+00:00</updated>
+    <updated>2012-11-20T09:30:13+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/speeches/westbourne-hs2-alliance-dinner"/>
     <title>Westbourne HS2 Alliance dinner</title>
+    <category>Speech</category>
+    <summary>Speech by the Rt Hon Simon Burns MP, Minister of State for Transport.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="opening-remarks"&gt;Opening remarks&lt;/h2&gt;
 
 &lt;p&gt;Thank you for that introduction James (James Bethall, Westbourne Comms).&lt;/p&gt;
@@ -467,9 +479,11 @@ Public enquiries: 0300 330 3000&lt;/p&gt;&lt;/div&gt;</content>
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/17420</id>
     <published>2012-11-15T13:04:00+00:00</published>
-    <updated>2012-11-15T13:04:00+00:00</updated>
+    <updated>2012-11-15T13:04:43+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/minister-views-multi-billion-pound-plans-for-the-north-west"/>
     <title>Minister views multi-billion pound plans for the north-west</title>
+    <category>News article</category>
+    <summary>Major upgrades to rail links in the north west are progressing well.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;A major upgrade to rail links which will bring over £4 billion of economic benefits to the north-west is progressing well, said Transport Minister Simon Burns. &lt;/p&gt;
 
 &lt;p&gt;The minister visited Manchester and Liverpool today to see for himself work on the Northern Hub and plans for the electrification of rail lines – both projects could bring up to 30,000 jobs to the region.&lt;/p&gt;
@@ -509,9 +523,11 @@ Public enquiries: 0300 330 3000 &lt;/p&gt;&lt;/div&gt;</content>
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/16218</id>
     <published>2012-11-14T00:00:00+00:00</published>
-    <updated>2012-11-14T00:00:00+00:00</updated>
+    <updated>2012-11-15T13:41:12+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/speeches/nuneaton-north-chord-event"/>
     <title>Nuneaton North Chord event</title>
+    <category>Speech</category>
+    <summary>Speech by the Rt Hon Simon Burns MP, Minister of State for Transport.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="opening-remarks"&gt;Opening remarks&lt;/h2&gt;
 &lt;p&gt;Thank you for asking me along today. &lt;/p&gt;
 
@@ -549,9 +565,11 @@ Public enquiries: 0300 330 3000 &lt;/p&gt;&lt;/div&gt;</content>
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/16224</id>
     <published>2012-11-14T00:00:00+00:00</published>
-    <updated>2012-11-14T00:00:00+00:00</updated>
+    <updated>2012-11-15T13:50:30+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/speeches/peterborough-station-makeover-official-opening"/>
     <title>Peterborough Station makeover – official opening</title>
+    <category>Speech</category>
+    <summary>Speech by the Rt Hon Simon Burns MP, Minister of State for Transport.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="opening-remarks"&gt;Opening remarks&lt;/h2&gt;
 
 &lt;p&gt;Thank you for that introduction. &lt;/p&gt;
@@ -622,9 +640,11 @@ Looked at from any angle, this is a makeover that really delivers.&lt;/p&gt;
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/16242</id>
     <published>2012-10-31T00:00:00+00:00</published>
-    <updated>2012-10-31T00:00:00+00:00</updated>
+    <updated>2012-11-08T22:57:01+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/speeches/all-party-parliamentary-rail-in-the-north-group-reception"/>
     <title>All party parliamentary rail in the north group reception</title>
+    <category>Speech</category>
+    <summary>Speech by the Rt Hon Simon Burns MP, Minister of State for Transport.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="introductory-remarks"&gt;Introductory remarks&lt;/h2&gt;
 
 &lt;p&gt;Thank you for that introduction Julie (Julie Hilling - Chair of &lt;abbr title="All Party Parliamentary Group"&gt;APPG&lt;/abbr&gt;). And many thanks for asking me along today. &lt;/p&gt;

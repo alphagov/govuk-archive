@@ -8,13 +8,15 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-12-18T00:00:00+00:00</updated>
+  <updated>2012-12-18T15:16:18+00:00</updated>
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/57519</id>
     <published>2012-12-18T00:00:00+00:00</published>
-    <updated>2012-12-18T00:00:00+00:00</updated>
+    <updated>2012-12-18T15:16:18+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/speeches/changes-to-the-building-regulations"/>
     <title>Changes to the building regulations</title>
+    <category>Statement to parliament</category>
+    <summary>Written Ministerial Statement by The Right Honourable Don Foster MP on changes to the building regulations regime in England.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;I am setting out today the changes that will be made to the building regulations regime in England to deliver an even better and more cost-effective way of ensuring our buildings remain safe and sustainable. The changes will deliver savings of around £50 million per year to business. In addition, legislation will also be laid before Parliament shortly to amend the Energy Performance of Buildings Regulations and to repeal unnecessary fire provisions of Local Acts which overlap national provisions.&lt;/p&gt;
 
 &lt;p&gt;The &lt;a href="https://www.gov.uk/government/consultations/building-regulations-access-statements-security-changing-places-toilets-and-regulation-7"&gt;consultation paper&lt;/a&gt; issued by the Department for Communities and Local Government on 31 January this year contained a range of proposals to improve the building regulations regime. I am setting out today decisions on the deregulatory changes. I am also publishing today a document providing a factual summary of the responses received. The changes have been developed after active engagement with external partners and demonstrate the government’s ongoing commitment to ensuring that where regulation is necessary the impact on business is properly considered and the associated cost minimised. Decisions on the outstanding issues relating to the energy efficiency of buildings, on better targeting of radon protection measures and the referencing of British Standards for structural design based on Eurocodes will be set out in a further statement next year. We will also set out next year the outcome of the review of the framework of building regulations and local housing standards which I announced in October.&lt;/p&gt;
@@ -44,9 +46,11 @@
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/17243</id>
     <published>2012-11-29T00:00:00+00:00</published>
-    <updated>2012-11-29T00:00:00+00:00</updated>
+    <updated>2012-11-29T12:33:36+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/speeches/town-and-country-planning-association-conference-speech"/>
     <title>Town and Country Planning Association conference speech</title>
+    <category>Speech</category>
+    <summary>This is a speech delivered by Planning Minister Nick Boles about beautiful urban landscapes and affordable homes.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;England is famous for the beauty of its landscapes.  &lt;/p&gt;
 
 &lt;p&gt;From the Yorkshire Dales to the South Hams, from the Weald of Kent to the Cumbrian Lakes, England glories in countryside of which generations of man and nature are joint authors.  &lt;/p&gt;
@@ -227,9 +231,11 @@ So the government has acted to ensure that more land is brought forward for deve
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/16537</id>
     <published>2012-11-20T00:00:00+00:00</published>
-    <updated>2012-11-20T00:00:00+00:00</updated>
+    <updated>2012-11-21T11:46:17+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/speeches/2012-uk-bus-awards-lunch-speech"/>
     <title>2012 UK Bus Awards lunch speech</title>
+    <category>Speech</category>
+    <summary>Speech by Norman Baker MP, Parliamentary Under-Secretary of State for Transport.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="opening-remarks"&gt;Opening Remarks&lt;/h2&gt;
 
 &lt;p&gt;Thank you for that introduction.&lt;/p&gt;
@@ -418,9 +424,11 @@ So the government has acted to ensure that more land is brought forward for deve
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/16656</id>
     <published>2012-11-09T00:00:00+00:00</published>
-    <updated>2012-11-09T00:00:00+00:00</updated>
+    <updated>2012-11-26T15:54:46+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/speeches/suffolk-sustainable-transport-forum"/>
     <title>Suffolk Sustainable Transport Forum</title>
+    <category>Speech</category>
+    <summary>Speech by Norman Baker MP, Parliamentary Under-Secretary of State for Transport.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;&lt;a rel="external" href="http://www.youtube.com/watch?v=jYG7r0lJIaE&amp;amp;feature=share&amp;amp;list=UU8mgf88hO4bbrfta9bcgZuA" title="Suffolk Sustainable Transport Forum"&gt;Suffolk Sustainable Transport Forum&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id="transcript"&gt;Transcript&lt;/h2&gt;
@@ -454,9 +462,11 @@ So the government has acted to ensure that more land is brought forward for deve
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/16285</id>
     <published>2012-11-08T00:00:00+00:00</published>
-    <updated>2012-11-08T00:00:00+00:00</updated>
+    <updated>2012-11-16T11:44:17+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/speeches/biofuels-the-renewable-transport-fuel-obligation-progress-on-adoption-and-the-next-generation"/>
     <title>Biofuels: the Renewable Transport Fuel Obligation, progress on adoption and the next generation </title>
+    <category>Speech</category>
+    <summary>Speech by Norman Baker MP, Parliamentary Under-Secretary of State for Transport.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Thank you to the Westminster Energy, Environment and Transport forum for inviting me to speak at your event this morning. &lt;/p&gt;
 
 &lt;p&gt;I am pleased to have the chance to talk to you about the possible next steps on biofuels policy. First though, I want to talk a bit about how we got to where we are today, and in particular about developments over the past year.&lt;/p&gt;
@@ -542,6 +552,8 @@ Biofuels are of course just 1 part of a wider strategy to encourage growth and c
     <updated>2012-11-06T13:03:00+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/double-boost-for-carbon-cutting-buses"/>
     <title>Double boost for carbon cutting buses</title>
+    <category>News article</category>
+    <summary>An extra £20 million is being made available for the government’s Green Bus Fund.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;An extra £20 million is being made available for the government’s Green Bus Fund Transport Minister Norman Baker has announced today.&lt;/p&gt;
 
 &lt;p&gt;And in a second boost for low carbon buses Mr Baker has today launched an easy-to-use toolkit to allow local authorities and bus operators to make informed decisions on investing in carbon cutting buses.&lt;/p&gt;
@@ -601,9 +613,11 @@ Public Enquiries: 0300 330 3000&lt;/p&gt;
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/12467</id>
     <published>2012-11-06T00:00:00+00:00</published>
-    <updated>2012-11-06T00:00:00+00:00</updated>
+    <updated>2012-11-06T13:09:33+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/speeches/investment-in-green-buses"/>
     <title>Investment in green buses</title>
+    <category>Statement to parliament</category>
+    <summary>Written statement by Norman Baker MP, Parliamentary Under-Secretary of State for Transport</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;I am pleased to announce today that the department is making a further £20 million available to help bus operators and local authorities in England buy low carbon emission buses through a fourth round of the Green Bus Fund.&lt;/p&gt;
 
 &lt;p&gt;Operators and authorities will be able to bid for a share of this funding to meet the additional up-front cost of purchasing these buses, and we calculate that this will allow for around 300 new low carbon buses to be bought. This investment will aid the department’s overarching objectives of helping to create growth and cut carbon, as well as help to support UK manufacturers.&lt;/p&gt;
@@ -621,9 +635,11 @@ Public Enquiries: 0300 330 3000&lt;/p&gt;
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/13167</id>
     <published>2012-11-01T00:00:00+00:00</published>
-    <updated>2012-11-01T00:00:00+00:00</updated>
+    <updated>2012-11-08T17:37:12+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/transport-statistics-1-november-2012"/>
     <title>Transport Statistics 1 November 2012</title>
+    <category>News article</category>
+    <summary>Statistical release about reported road casualties and biofuels.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Department for Transport has published the following Transport Statistics:&lt;/p&gt;
 
 &lt;ul&gt;
@@ -640,10 +656,12 @@ Public Enquiries: 0300 330 3000&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/14921</id>
-    <published>2012-09-27T00:00:00+01:00</published>
-    <updated>2012-09-27T00:00:00+01:00</updated>
+    <published>2012-09-27T01:00:00+01:00</published>
+    <updated>2012-10-02T21:51:51+01:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/speeches/electric-vehicle-event"/>
     <title>Electric vehicle event</title>
+    <category>Speech</category>
+    <summary>Video speech by Norman Baker MP, Parliamentary Under-Secretary of State for Transport.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;&lt;a rel="external" href="http://www.youtube.com/watch?v=UAlP0rXy81Q"&gt;Electric Vehicle Event, Adastral Park&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;I am sorry not to be able to be with you today at Adastral Park – but delighted to be able to join you in your electric vehicle event today – by video – and offer my support.&lt;/p&gt;
@@ -674,10 +692,12 @@ Public Enquiries: 0300 330 3000&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/13203</id>
-    <published>2012-09-27T00:00:00+01:00</published>
-    <updated>2012-09-27T00:00:00+01:00</updated>
+    <published>2012-09-27T01:00:00+01:00</published>
+    <updated>2012-11-13T11:18:42+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/speeches/transport-technology-and-the-city-of-the-future-speech"/>
     <title>Transport, technology and the city of the future speech</title>
+    <category>Speech</category>
+    <summary>Video speech by the Parliamentary Under-Secretary of State for Transport.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="transcript"&gt;Transcript&lt;/h2&gt;
 
 &lt;p&gt;&lt;a rel="external" href="http://www.youtube.com/watch?v=Ke_os03ESSg"&gt;Transport, technology and the city of the future speech&lt;/a&gt;&lt;/p&gt;
@@ -732,10 +752,12 @@ Public Enquiries: 0300 330 3000&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/13199</id>
-    <published>2012-09-21T00:00:00+01:00</published>
-    <updated>2012-09-21T00:00:00+01:00</updated>
+    <published>2012-09-21T01:00:00+01:00</published>
+    <updated>2012-11-15T06:00:58+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/speeches/investing-in-future-transport-conference-opening-speech"/>
     <title>Investing in Future Transport Conference opening speech</title>
+    <category>Speech</category>
+    <summary>Speech by Parliamentary Under Secretary of State for Transport to delegates attending the Investing In Future Transport Conference.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="transcript"&gt;Transcript&lt;/h2&gt;
 
 &lt;p&gt;&lt;a rel="external" href="http://www.youtube.com/watch?v=lFoiHF2Kk0c"&gt;Investing in Future Transport Conference opening speech&lt;/a&gt;&lt;/p&gt;
@@ -802,10 +824,12 @@ Public Enquiries: 0300 330 3000&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/13184</id>
-    <published>2012-09-11T00:00:00+01:00</published>
-    <updated>2012-09-11T00:00:00+01:00</updated>
+    <published>2012-09-11T01:00:00+01:00</published>
+    <updated>2012-11-15T06:14:59+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/speeches/fuel-quality-directive-transposition-response-to-the-comments-received-in-the-consultation"/>
     <title>Fuel Quality Directive Transposition response to the comments received in the consultation</title>
+    <category>Statement to parliament</category>
+    <summary>Written statement by Norman Baker MP, Parliamentary Under-Secretary of State for Transport.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Today I am publishing our response to the comments received in the &lt;a rel="external" href="http://www.dft.gov.uk/consultations/dft-2011-04/"&gt;consultation on our proposals to implement Articles 7a to 7e of the EU Fuel Quality Directive (Directive 98/70/EC as amended by Directive 2009/30/EC)&lt;/a&gt;. The Directive requires suppliers to reduce the lifecycle greenhouse gas intensity of many transport fuels.&lt;/p&gt;
 
 &lt;p&gt;The response sets out our decision to introduce new secondary legislation to transpose requirements of the Fuel Quality Directive, including new annual reporting requirements for fossil fuels and biofuels.&lt;/p&gt;
@@ -822,10 +846,12 @@ Public Enquiries: 0300 330 3000&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/13382</id>
-    <published>2012-07-25T00:00:00+01:00</published>
-    <updated>2012-07-25T00:00:00+01:00</updated>
+    <published>2012-07-25T01:00:00+01:00</published>
+    <updated>2012-11-19T11:21:11+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/speeches/abolition-of-regional-strategies"/>
     <title>Abolition of regional strategies</title>
+    <category>Statement to parliament</category>
+    <summary>Statement by Baroness Hanham on the abolition of regional strategies</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;It is the Government’s policy to revoke existing regional strategies outside London, reflecting manifesto commitments made by both Coalition parties in the 2010 general election and subsequently incorporated into the Coalition Agreement. The Localism Act 2011 provides for the abolition of regional strategies in a two-stage process. The first stage, to remove the regional planning framework and prevent further strategies from being created, took effect when the Localism Act received Royal Assent on 15 November. The second stage would be to abolish the existing regional strategies by secondary legislation. However, any final decision on this must take account of assessments of, and consultation on, the possible environmental effects of revocation of each of the existing regional strategies.&lt;/p&gt;
 
 &lt;p&gt;The Strategic Environmental Assessment process is set out in an EU Directive (Directive 2001/42/EC). In March 2012, the European Court of Justice issued a significant ruling on the interpretation and application of the Directive (Inter-Environnement Bruxelles ASBL &amp;amp; Others v Government of the Brussels-Capital Region).&lt;/p&gt;
@@ -844,10 +870,12 @@ Public Enquiries: 0300 330 3000&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/8236</id>
-    <published>2012-07-16T00:00:00+01:00</published>
-    <updated>2012-07-16T00:00:00+01:00</updated>
+    <published>2012-07-16T01:00:00+01:00</published>
+    <updated>2012-10-18T16:04:23+01:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/speeches/fuel-quality-directive-transposition"/>
     <title>Fuel Quality Directive Transposition</title>
+    <category>Statement to parliament</category>
+    <summary>Written statement by Norman Baker MP, Parliamentary Under-Secretary of State for Transport.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Today I am publishing our &lt;a rel="external" href="http://www.dft.gov.uk/consultations/dft-2011-05/"&gt;response to the comments received in the consultation on our proposals to expand the scope of the Renewable Transport Fuel Obligation Order 2007 to include non-road mobile machinery.&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;The Fuel Quality Directive (articles 1 and 7a(2)) requires that suppliers of fuels used in non-road mobile machinery should be obliged to reduce the lifecycle greenhouse gas intensities of the fuels they supply. Our preferred approach for implementing this requirement of the Directive is to amend the current RTFO Order 2007. However, given concerns about the sustainability of some biofuels, it is important that this change does not at this point result in an increase in the absolute volume of biofuel supplied in the UK.&lt;/p&gt;
@@ -860,10 +888,12 @@ Public Enquiries: 0300 330 3000&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/14213</id>
-    <published>2012-07-11T00:00:00+01:00</published>
-    <updated>2012-07-11T00:00:00+01:00</updated>
+    <published>2012-07-11T01:00:00+01:00</published>
+    <updated>2012-10-17T18:55:05+01:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/speeches/bikeability"/>
     <title>Bikeability</title>
+    <category>Speech</category>
+    <summary>Video speech by Norman Baker MP, Parliamentary Under-Secretary of State for Transport.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Video speech by Norman Baker MP, Parliamentary Under-Secretary of State for Transport.
 &lt;a rel="external" href="http://www.youtube.com/watch?v=DuXBgj0PvOg"&gt;Bikeability&lt;/a&gt;
 ## Transcript&lt;/p&gt;
@@ -917,9 +947,11 @@ Public Enquiries: 0300 330 3000&lt;/p&gt;&lt;/div&gt;</content>
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/14630</id>
     <published>2012-07-03T01:00:00+01:00</published>
-    <updated>2012-07-03T01:00:00+01:00</updated>
+    <updated>2012-11-14T12:40:55+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/next-steps-to-improve-the-planning-system-and-support-sustainable-development"/>
     <title>Next steps to improve the planning system and support sustainable development</title>
+    <category>News article</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Further moves to simplify the planning system and make it more accessible to people in communities were set out today by Planning Minister Greg Clark.&lt;/p&gt;
 
 &lt;p&gt;The package of measures includes proposals to make it easier to re-use some existing buildings without needing planning permission including the so-called ‘meanwhile’ use of vacant commercial buildings; streamlining the amount of paperwork needed for a planning application; speeding up planning appeal decisions; reducing the volume of planning guidance; and ensuring planning departments are properly resourced to assess applications promptly and efficiently, reducing the burden on council taxpayers.&lt;/p&gt;
@@ -973,10 +1005,12 @@ Public Enquiries: 0300 330 3000&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/8556</id>
-    <published>2012-06-27T00:00:00+01:00</published>
-    <updated>2012-06-27T00:00:00+01:00</updated>
+    <published>2012-06-27T01:00:00+01:00</published>
+    <updated>2012-10-18T15:05:42+01:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/speeches/266-million-investment-in-local-sustainable-transport-schemes"/>
     <title>£266 million investment in local sustainable transport schemes</title>
+    <category>Statement to parliament</category>
+    <summary>Written statement by Norman Baker MP, Parliamentary Under-Secretary of State for Transport.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;I am pleased to announce today that I am awarding a further &lt;a rel="external" href="http://www.dft.gov.uk/publications/local-sustainable-transport-fund-guidance-on-the-application-process/"&gt;£266 million to support authorities in delivering local economic growth whilst cutting carbon emissions&lt;/a&gt; from transport. This funding unlocks further local funding sources to deliver £460 million investment in local sustainable transport schemes.&lt;/p&gt;
 
 &lt;p&gt;Today’s announcement is the third and final instalment of the Local Sustainable Transport Fund, which is now delivering over £1 billion investment in sustainable travel across England, and demonstrating that economic growth and carbon reduction go hand in hand. To facilitate today’s announcements, I have secured an additional £40 million for the Fund, on top of the original £560 million allocation.&lt;/p&gt;
@@ -1293,9 +1327,11 @@ Public Enquiries: 0300 330 3000&lt;/p&gt;&lt;/div&gt;</content>
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/14185</id>
     <published>2012-06-27T00:00:00+01:00</published>
-    <updated>2012-06-27T00:00:00+01:00</updated>
+    <updated>2012-10-17T13:19:37+01:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/266m-transport-boost-for-green-growth-and-infrastructure"/>
     <title>£266M transport boost for green growth and infrastructure </title>
+    <category>News article</category>
+    <summary>Norman Baker  has announced that towns and cities across England are set to benefit from major transport schemes boosting green growth.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Towns and cities across England are set to benefit from major transport schemes boosting green growth, Transport Minister Norman Baker announced today.&lt;/p&gt;
 
 &lt;p&gt;The funding forms the third allocation from the Local Sustainable Transport Fund. &lt;a rel="external" href="http://www.dft.gov.uk/publications/local-sustainable-transport-fund-guidance-on-the-application-process/"&gt;12 major projects have won funding totalling £225 million, while 15 smaller schemes are receiving a total of £41 million&lt;/a&gt; from the Department for Transport. This includes an additional £40 million on top of the previously- announced £560m funding available under the scheme.&lt;/p&gt;
@@ -1369,10 +1405,12 @@ Public Enquiries: 0300 330 3000&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/13698</id>
-    <published>2012-05-24T00:00:00+01:00</published>
-    <updated>2012-05-24T00:00:00+01:00</updated>
+    <published>2012-05-24T01:00:00+01:00</published>
+    <updated>2012-10-18T14:43:15+01:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/speeches/further-projects-approved-for-the-local-sustainable-transport-fund"/>
     <title>Further projects approved for the Local Sustainable Transport Fund</title>
+    <category>Statement to parliament</category>
+    <summary>Written statement by Norman Baker MP, Parliamentary Under-Secretary of State for Transport.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;I am pleased to announce today that the department is awarding a further £112.94 million to support authorities in delivering local economic growth whilst cutting carbon emissions from transport.&lt;/p&gt;
 
 &lt;p&gt;On 24 February 2012, the department received 53 bids to Tranche Two of the Local Sustainable Transport Fund from 48 lead authorities.&lt;/p&gt;
@@ -1399,9 +1437,11 @@ Public Enquiries: 0300 330 3000&lt;/p&gt;&lt;/div&gt;</content>
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/7947</id>
     <published>2012-05-24T00:00:00+01:00</published>
-    <updated>2012-05-24T00:00:00+01:00</updated>
+    <updated>2012-10-13T22:05:11+01:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/green-growth-gets-113-million-transport-boost"/>
     <title>Green growth gets £113 million transport boost</title>
+    <category>News article</category>
+    <summary>30 carbon cutting, growth boosting local transport schemes have been given the green light by Transport Minister Norman Baker.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;30 carbon cutting, growth boosting local transport schemes were given the green light today by Transport Minister Norman Baker.&lt;/p&gt;
 
 &lt;p&gt;The projects have won funding totalling £113 million as part of the second allocation from the Local Sustainable Transport Fund. They are led by 29 English local authorities with many more as partners and cover eight regions. All projects are designed to create a sustainable transport package that delivers economic growth and reduces carbon emissions.&lt;/p&gt;

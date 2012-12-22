@@ -8,53 +8,65 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-10-24T00:00:00+01:00</updated>
+  <updated>2012-12-11T16:30:51+00:00</updated>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/48171</id>
-    <published>2012-10-24T00:00:00+01:00</published>
-    <updated>2012-10-24T00:00:00+01:00</updated>
+    <published>2012-10-24T01:00:00+01:00</published>
+    <updated>2012-12-11T16:30:51+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/enterprise-and-regulatory-reform-bill-policy-paper"/>
     <title>Enterprise and Regulatory Reform Bill: policy paper</title>
+    <category>Publication</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Explains why the Government is undertaking the measures contained in this Enterprise and Regulatory Reform Bill, and explains what each measure aims to achieve. Also provides more detail on the clauses of the Bill.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/45816</id>
     <published>2012-03-20T00:00:00+00:00</published>
-    <updated>2012-03-20T00:00:00+00:00</updated>
+    <updated>2012-12-11T16:28:04+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/export-control-organisation-transparency-in-export-licensing-discussion-paper"/>
     <title>Export Control Organisation: transparency in export licensing - discussion paper</title>
+    <category>Publication</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Sought views on making export control information available to the public, while balancing the need to protect any sensitive material where necessary. Responses were due by 20 April 2012. See URN 12/920 for the government response.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/46283</id>
     <published>2012-02-28T00:00:00+00:00</published>
-    <updated>2012-02-28T00:00:00+00:00</updated>
+    <updated>2012-12-11T16:29:43+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/trade-white-paper-progress-and-achievements-in-year-1"/>
     <title>Trade white paper: progress and achievements in year 1</title>
+    <category>Publication</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Explains the progress made so far towards the commitments set out in the trade and investment white paper framework for action (URN 11/717).&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/45815</id>
     <published>2012-02-02T00:00:00+00:00</published>
-    <updated>2012-02-02T00:00:00+00:00</updated>
+    <updated>2012-12-11T16:28:04+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/export-control-system-government-response-to-eu-green-paper"/>
     <title>Export control system: government response to EU green paper</title>
+    <category>Publication</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Formal UK Government response to the European Commission’s green paper on the future of the dual-use export control system.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/45470</id>
     <published>2012-01-23T00:00:00+00:00</published>
-    <updated>2012-01-23T00:00:00+00:00</updated>
+    <updated>2012-12-11T16:26:51+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/executive-remuneration-discussion-paper-summary-of-responses"/>
     <title>Executive remuneration discussion paper: summary of responses</title>
+    <category>Publication</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Summary of responses to the discussion paper on executive remuneration (URN 11/1287). Summarises by theme and by question. The discussion paper looked at how remuneration is structured and the role of remuneration committees and shareholders in the process of setting pay.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/59923</id>
     <published>2011-11-29T00:00:00+00:00</published>
-    <updated>2011-11-29T00:00:00+00:00</updated>
+    <updated>2012-12-12T19:59:40+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/msb-growth-performance"/>
     <title>Mid-sized business (MSB) growth performance</title>
+    <category>Publication</category>
+    <summary>MSB growth performance research papers</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;In investigating mid-sized business (&lt;abbr title="Mid-sized business"&gt;MSB&lt;/abbr&gt;) growth performance, there were 3 areas of the research commissioned by the Department for Innovation Business &amp;amp; Skills (&lt;abbr title="Department for Business, Innovation and Skills"&gt;BIS&lt;/abbr&gt;):&lt;/p&gt;
 
 &lt;ul&gt;
@@ -227,9 +239,20 @@
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/44954</id>
     <published>2011-10-18T01:00:00+01:00</published>
-    <updated>2011-10-18T01:00:00+01:00</updated>
+    <updated>2012-12-11T16:26:18+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/consultations/financial-reporting-council-reform"/>
     <title>Financial Reporting Council Reform</title>
+    <category>Consultation</category>
+    <summary>A consultation paper seeking views on proposed reforms to the structure of the Financial Reporting Council has been published. Responses due by 10 January 2012.
+
+
+BIS and FRC consulted jointly on proposals to reform the FRC. The proposals were designed to clarify the FRC?Ûªs scope, streamline its governance and structure, and give it greater independence from the accountancy profession and a proportionate range of sanctions against poor quality auditing. 
+
+The response to the consultation helped the Department and the FRC refine the proposals. In particular the proposals have been amended to enhance the status of the expert groups that will advise the FRC Board on accounting, auditing and actuarial issues and to make clear the procedural safeguards that will be put in place as part of the FRC?Ûªs monitoring and enforcement work. 
+
+The Government intends, subject to Parliamentary approval, to bring forward secondary legislation for changes to come into force from Monday, 2nd July 2012.
+
+The joint Government and FRC response was published on 27th March 2012 (please see link below).</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;hr&gt;&lt;p&gt;The FRC is already well-regarded in the UK, the EU and internationally, but we believe by tightening the focus of its activities and reforming its structural framework that it could be even more effective, increasing still further the contribution it makes to supporting the UK’s business interests. This consultation document seeks views on a set of reforms designed to build on the FRC’s strengths as well as tackle the underlying issues that currently inhibit its effectiveness. Reform is needed to:&lt;/p&gt;
 
 &lt;ul&gt;
@@ -252,18 +275,22 @@
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/46078</id>
-    <published>2011-09-20T00:00:00+01:00</published>
-    <updated>2011-09-20T00:00:00+01:00</updated>
+    <published>2011-09-20T01:00:00+01:00</published>
+    <updated>2012-12-11T16:29:01+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/professional-qualifications-directive-response-to-the-european-commission-green-paper"/>
     <title>Professional Qualifications Directive: response to the European Commission green paper</title>
+    <category>Publication</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;UK response to a European Commission consultation on the revision of the Recognition of Professional Qualifications Directive (2005/36/EC). Makes recommendations on proposed new approaches, building on achievements and modernising automatic recognition.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/44953</id>
     <published>2011-09-19T01:00:00+01:00</published>
-    <updated>2011-09-19T01:00:00+01:00</updated>
+    <updated>2012-12-11T16:26:18+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/consultations/the-future-of-narrative-reporting-a-further-consultation"/>
     <title>The future of narrative reporting: a further consultation</title>
+    <category>Consultation</category>
+    <summary>Consultation paper seeking views on issues relating to corporate narrative reporting.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;hr&gt;&lt;p&gt;The consultation seeks views on Government plans to make narrative reporting simpler, clearer and more focussed. It includes proposals to change company narrative reports to make the framework clearer for companies and easier for investors to locate the information they need. We are also reviewing the disclosure requirements that we place on companies to streamline and remove inconsistencies.&lt;/p&gt;
 
 &lt;p&gt;The consultation also includes a number of proposals to make the reporting of executive remuneration clearer and more relevant to investors. In addition to this, the Government has published a separate &lt;a rel="external" href="http://www.bis.gov.uk//Consultations/executive-remuneration-discussion-paper"&gt;discussion paper seeking views on a range of issues relating to executive remuneration&lt;/a&gt;.&lt;/p&gt;
@@ -291,42 +318,54 @@
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/45465</id>
-    <published>2011-09-19T00:00:00+01:00</published>
-    <updated>2011-09-19T00:00:00+01:00</updated>
+    <published>2011-09-19T01:00:00+01:00</published>
+    <updated>2012-12-11T16:26:51+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/executive-remuneration-discussion-paper"/>
     <title>Executive remuneration: discussion paper</title>
+    <category>Publication</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Sought views on wide-ranging proposals on how to link executive pay more closely to company performance. Aims to build a stronger understanding of the issues. Published in conjunction with a consultation on narrative reporting that includes proposals on the reporting of executive pay (URN 11/945). Responses were due by 25 November 2011. See 12/564 for the summary of responses. See also consultation on shareholder voting rights 12/639.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/45506</id>
-    <published>2011-08-25T00:00:00+01:00</published>
-    <updated>2011-08-25T00:00:00+01:00</updated>
+    <published>2011-08-25T01:00:00+01:00</published>
+    <updated>2012-12-11T16:26:59+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/simpler-reporting-for-small-businesses-discussion-paper"/>
     <title>Simpler reporting for small businesses: discussion paper</title>
+    <category>Publication</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Seeks views on simplifying reporting requirements for incorporated businesses. Looks at the prospects for developing a new reporting regime based on the minimum required that meet the needs of users through alignment with the tax system and reducing or removing inconsistencies. Aims to significantly reduce the regulatory burden on the very smallest businesses and release the associated cost savings. Consultation period ended 30 October 2011.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/46083</id>
-    <published>2011-07-22T00:00:00+01:00</published>
-    <updated>2011-07-22T00:00:00+01:00</updated>
+    <published>2011-07-22T01:00:00+01:00</published>
+    <updated>2012-12-11T16:29:02+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/corporate-governance-framework-response-to-the-european-commission-green-paper"/>
     <title>Corporate governance framework: response to the European Commission green paper</title>
+    <category>Publication</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;UK government response to the European Commission Communication COM (2011) 164 final paper. Covers corporate governance issues: boards of directors, shareholders and monitoring and the implementation of corporate governance codes. Includes the views of the Financial Services Authority.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/45918</id>
-    <published>2011-06-28T00:00:00+01:00</published>
-    <updated>2011-06-28T00:00:00+01:00</updated>
+    <published>2011-06-28T01:00:00+01:00</published>
+    <updated>2012-12-11T16:28:27+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/supporting-evidence-for-the-higher-education-white-paper-2011"/>
     <title>Supporting evidence for the higher education white paper (2011)</title>
+    <category>Publication</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;BIS economics paper no. 14. Provides the supporting analysis for the higher education (HE) white paper (URN 11/944).Summarises a wide range of evidence and highlights the importance of a well-functioning higher education (HE) system. Covers the role of higher education in UK economic and social development, the reasons why government intervenes in the market for higher education and, the factors underlying behaviour and competition in the higher education market. Underlying data for the figures and tables this publication is also available in a machine processable format on the Transparency/Report Data webpage.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/44948</id>
     <published>2011-06-28T01:00:00+01:00</published>
-    <updated>2011-06-28T01:00:00+01:00</updated>
+    <updated>2012-12-11T16:26:16+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/consultations/higher-education-white-paper-students-at-the-heart-of-the-system"/>
     <title>Higher Education White Paper - Students at the Heart of the System</title>
+    <category>Consultation</category>
+    <summary>The purpose of this consultation was to receive input to the Government?Ûªs overall
+package of proposals for reforming higher education in England, as set out in this
+White Paper.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;hr&gt;&lt;p&gt;This consultation has now closed, for details see:&lt;/p&gt;
 
 &lt;ul&gt;
@@ -346,9 +385,11 @@
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/44958</id>
     <published>2011-06-24T01:00:00+01:00</published>
-    <updated>2011-06-24T01:00:00+01:00</updated>
+    <updated>2012-12-11T16:26:19+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/consultations/transforming-regulatory-enforcement-discussion-paper"/>
     <title>Transforming Regulatory Enforcement: Discussion Paper</title>
+    <category>Consultation</category>
+    <summary>How regulation is enforced can be just as important for managing the burdens on business as the overall volume of regulation; and the way in which enforcement is approached also impacts on our ability to deliver high levels of compliance. As part of the Government?Ûªs reform strategy we are looking for better ways to implement regulation, to improve compliance outcomes whilst reducing burdens on compliant businesses and focusing resources on higher risk organisations.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;hr&gt;&lt;p&gt;The Governmentlaunched two documents underpinning a consultation period on regulatory enforcement to seek views on the best ways to deliver improvements. Proposed changes will deliver commitments made in the Growth Review as part of a package of measures to free up business from unnecessary regulatory burdens. &lt;/p&gt;
 
 &lt;p&gt;The two consultation documents are a Discussion Paper on improving the implementation of regulation (on this page) and a&lt;a rel="external" href="http://www.bis.gov.uk//Consultations/future-of-local-better-regulation-office-and-primary-authority-scheme"&gt;document on the future of the Local Better Regulation Office (LBRO) and the Primary Authority (PA) scheme&lt;/a&gt;. We invite views from interested parties on both these documents. &lt;/p&gt;
@@ -370,78 +411,53 @@
 &lt;/ul&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/45514</id>
-    <published>2010-12-10T00:00:00+00:00</published>
-    <updated>2010-12-10T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/european-commission-green-paper-on-audit-uk-government-response"/>
-    <title>European Commission green paper on audit: UK government response</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Response from the UK government to the green paper on audit by the European Commission. Includes the government memorandum of evidence submitted to the House of Lords Economic Affairs Committee on the market concentration and role of auditors on 10 September 2010.&lt;/p&gt;&lt;/div&gt;</content>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60757</id>
+    <published>2011-02-09T00:00:00+00:00</published>
+    <updated>2012-12-21T14:34:58+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/global-context-how-has-world-trade-and-investment-developed-whats-next-trade-and-investment-analytical-papers-topic-1-of-18"/>
+    <title>Global context - how has world trade and investment developed, what's next? Trade and investment analytical papers topic 1 of 18</title>
+    <category>Publication</category>
+    <summary/>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Analyses trends in world trade and investment, the impact of the global economic crisis and future developments. One of a series of analytical papers supporting the ‘Trade and investment for growth’ white paper (URN 11/717).&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/46279</id>
-    <published>2010-11-05T00:00:00+00:00</published>
-    <updated>2010-11-05T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/trade-white-paper-call-for-evidence"/>
-    <title>Trade white paper: call for evidence</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Aims to gather perspectives on UK trade and investment performance and potential. This includes the role of government on trade issues, the impact of global developments, both economic and otherwise, and the course of UK trade policy. The views gathered will inform the development of a white paper for an overarching trade and investment strategy. Deadline for responses was 14 January 2011. See URN 11/726 for the summary of responses and 11/717 for the white paper.&lt;/p&gt;&lt;/div&gt;</content>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60767</id>
+    <published>2011-02-09T00:00:00+00:00</published>
+    <updated>2012-12-21T15:03:07+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/protectionism-trade-and-investment-analytical-papers-topic-5-of-18"/>
+    <title>Protectionism: trade and investment analytical papers topic 5 of 18 </title>
+    <category>Publication</category>
+    <summary/>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Analyses the effect of protectionism on trade. One of a series of analytical papers that supporting the ‘Trade and investment for growth’ white paper (URN 11/717).&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/45001</id>
-    <published>2010-11-05T00:00:00+00:00</published>
-    <updated>2010-11-05T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/consultations/trade-white-paper"/>
-    <title>Trade white paper</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;hr&gt;&lt;p&gt;&lt;strong&gt;The deadline for responses to this Call for Evidence has been extended to 14 January 2011 to allow time for responses over the Christmas holiday period.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;We welcome the views of the public to inform the development of the strategy - to highlight issues and areas where the Government could play a more effective role, and to share your ideas for the global trading system. Please contribute to this Call for Evidence which can be downloaded below, and send your views and evidence to &lt;a href="mailto:tradewhitepaper@bis.gsi.gov.uk"&gt;tradewhitepaper@bis.gsi.gov.uk&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id="download-the-consultation"&gt;Download the consultation&lt;/h2&gt;
-
-&lt;hr&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a rel="external" href="http://www.bis.gov.uk/assets/biscore/international-trade-investment-and-development/docs/t/10-1262-trade-white-paper-call-for-evidence.pdf"&gt;Trade white paper: call for evidence (PDF, 56 Kb)&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</content>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60770</id>
+    <published>2011-02-09T00:00:00+00:00</published>
+    <updated>2012-12-21T14:59:14+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/the-uk-and-the-single-market-trade-and-investment-analytical-papers-topic-4-of-18"/>
+    <title>The UK and the Single Market: trade and investment analytical papers topic 4 of 18</title>
+    <category>Publication</category>
+    <summary/>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Argues that there is still substantial scope for further UK economic growth from a better functioning Single Market. One of a series of analytical papers supporting the ‘Trade and investment for growth’ white paper (URN 11/717).&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/45459</id>
-    <published>2010-10-22T00:00:00+01:00</published>
-    <updated>2010-10-22T00:00:00+01:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/companies-act-2006-transfer-of-audit-working-papers-to-third-countries-regulations-2010-explanatory-text"/>
-    <title>Companies Act 2006 (Transfer of Audit Working Papers to Third Countries) Regulations 2010: explanatory text</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Explanatory text for the draft statutory instrument following the informal consultation published in March 2010 (URN 10/886).&lt;/p&gt;&lt;/div&gt;</content>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60771</id>
+    <published>2011-02-09T00:00:00+00:00</published>
+    <updated>2012-12-21T14:54:30+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/uk-trade-performance-over-the-past-years-trade-and-investment-analytical-papers-topic-3-of-18"/>
+    <title>UK trade performance over the past years: trade and investment analytical papers topic 3 of 18</title>
+    <category>Publication</category>
+    <summary/>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Overview of total trade by the UK over time, examining exports of goods and services and also imports in more detail. Discusses factors which may influence trade performance. One of a series of analytical papers supporting the ‘Trade and investment for growth’ white paper (URN 11/717).&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/44968</id>
-    <published>2010-08-20T01:00:00+01:00</published>
-    <updated>2010-08-20T01:00:00+01:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/consultations/call-for-evidence-review-of-offender-learning"/>
-    <title>Call for evidence - Review of Offender Learning</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;hr&gt;&lt;h2 id="background-to-the-call-for-evidence"&gt;Background to the Call for Evidence&lt;/h2&gt;
-
-&lt;p&gt;Offender learning is a vital element within the offender skills and employment agenda. We know that, especially in concert with the resolution of housing issues, it is a very significant factor in reducing re-offending. We need to focus on protecting the public from the costs and effects of crime. Effective and relevant offender learning provision makes offenders better able to find work, and so more of an asset to the economy, and less of a concern to the wider community, particularly through preventing people from becoming the victims of tomorrow. &lt;/p&gt;
-
-&lt;p&gt;In December 2006, Reducing Re-offending Through Skills and Employment: Next Steps (“Next Steps”) set out a plan of actions to improve the effectiveness of the cross-government arrangements for delivering skills and providing the employment services, within the context of the criminal justice system, that lead to reduced re-offending. A great deal of activity has taken place since then, including the appointment of a new set of offender learning providers, the introduction of separate arrangements for providing careers information and advice, the introduction by the National Offender Management Service of arrangements to support offenders on transition back into the community, and a strategic review of employment services for offenders. &lt;/p&gt;
-
-&lt;p&gt;The review of offender learning announced by John Hayes, Minister of State for Further Education, Skills and Lifelong Learning, will assess progress against the policy framework set out in the Next Steps document and make recommendations to improve the efficiency and effectiveness of the arrangements. The review is taking full account of the earlier strategic review of employment services for offenders, and will inform the Ministry of Justice’s Autumn Green Paper setting out the proposed approach to sentencing and rehabilitation reform. &lt;/p&gt;
-
-&lt;p&gt;Next Steps can be found on the Ministry of Justice website.&lt;/p&gt;
-
-&lt;p&gt;This call for evidence is an important part of the review: we want to know what you think and why. This is your chance to tell us what we can start doing, do better or stop doing at all. &lt;/p&gt;
-
-&lt;p&gt;We look forward to hearing from you. &lt;/p&gt;
-
-&lt;p&gt;Jane Bateman &lt;br&gt;
-Chair of the Offender Learning Review Steering Group   &lt;/p&gt;
-
-&lt;h2 id="download-the-consultation"&gt;Download the consultation&lt;/h2&gt;
-
-&lt;hr&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a rel="external" href="http://www.bis.gov.uk/assets/biscore/further-education-skills/docs/c/10-1116-offender-learning-review-call-for-evidence.pdf"&gt;Call for evidence: review of offender learning (PDF, 109 Kb)&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;h2 id="download-the-government-response"&gt;Download the government response&lt;/h2&gt;
-
-&lt;hr&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a rel="external" href="http://www.bis.gov.uk/assets/biscore/further-education-skills/docs/m/11-828-making-prisons-work-skills-for-rehabilitation.pdf"&gt;Making prisons work: skills for rehabilitation. Review of offender learning (PDF, 360 Kb)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a rel="external" href="http://www.bis.gov.uk/assets/biscore/further-education-skills/docs/d/11-829-distillation-call-for-evidence-responses-offender-learning.pdf"&gt;Distillation of call for evidence responses: review of offender learning (PDF, 176 Kb)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a rel="external" href="http://www.bis.gov.uk/assets/biscore/further-education-skills/docs/i/11-827-implementation-of-test-beds-virtual-campus.pdf"&gt;Implementation and delivery of the test beds virtual campus: case study (PDF, 432 Kb)&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</content>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60772</id>
+    <published>2011-02-09T00:00:00+00:00</published>
+    <updated>2012-12-21T14:42:37+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/economic-openness-and-economic-prosperity-trade-and-investment-analytical-papers-topic-2-of-18"/>
+    <title>Economic openness and economic prosperity: trade and investment analytical papers topic 2 of 18</title>
+    <category>Publication</category>
+    <summary/>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Analyses the effect of open markets on prosperity. Argues that complementary policies can help maximising the benefits of economic openness. One of a series of analytical papers supporting the ‘Trade and investment for growth’ white paper (URN 11/717).&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
 </feed>

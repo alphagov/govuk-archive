@@ -8,7 +8,7 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-11-26T00:00:00+00:00</updated>
+  <updated>2012-11-27T15:57:11+00:00</updated>
   <entry>
     <id>tag:www.gov.uk,2005:Speech/17053</id>
     <published>2012-11-26T00:00:00+00:00</published>
@@ -16,6 +16,7 @@
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/speeches/national-empty-homes-conference-2012"/>
     <title>National Empty Homes conference 2012</title>
     <category>Speech</category>
+    <summary>Speech by Don Foster to the annual National Empty Homes conference.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;In 1990, Rachel Whiteread won international recognition for her cast of an empty room. &lt;/p&gt;
 
 &lt;p&gt;It was a striking piece. Conveying the sadness, the sheer tragedy of an unoccupied place - a place with no one to call it home.&lt;/p&gt;
@@ -123,7 +124,8 @@
     <updated>2012-11-22T12:41:54+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/eric-pickles-visits-hidden-homes-in-wandsworth"/>
     <title>Eric Pickles visits ‘Hidden Homes’ in Wandsworth</title>
-    <category>News Article</category>
+    <category>News article</category>
+    <summary>Communities Secretary Eric Pickles marks the 10th anniversary of the Hidden Homes initiative.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Eric Pickles visited the Rollo housing estate in the London Borough of Wandsworth today (22 November 2012) to see how £3.6 million of government funding is helping the council provide more affordable homes for local families.&lt;/p&gt;
 
 &lt;p&gt;Mr Pickles unveiled the final 38 affordable new homes of the Hidden Homes initiative that celebrates its 10th anniversary this year. &lt;/p&gt;
@@ -166,6 +168,7 @@
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/right-to-buy-notice-in-reply-to-a-tenants-claim-rtb2"/>
     <title>Right to Buy: notice in reply to a tenant's claim (RTB2)</title>
     <category>Publication</category>
+    <summary>The RTB2 is the notice that a council sends to a tenant who has applied to buy their home through the Right to Buy scheme.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;When a council tenant applies to buy their home through the Right to Buy scheme, the council will send a notice (RTB2) within 4 weeks of receiving the completed application form (RTB1).&lt;/p&gt;
 
 &lt;p&gt;This will confirm if the tenant has the Right to Buy their home.&lt;/p&gt;&lt;/div&gt;</content>
@@ -177,6 +180,7 @@
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/social-housing-sales-in-england-2011-to-2012"/>
     <title>Social housing sales in England: 2011 to 2012</title>
     <category>Publication</category>
+    <summary>Total social housing sales in England, including Right to Buy, Right to Acquire and Social Homebuy.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This statistical release presents official statistics on the number of sales of existing social housing stock in England for 2011 to 2012.&lt;/p&gt;
 
 &lt;p&gt;Social housing sales include sales under right to buy, preserved right to buy, right to acquire, social homebuy, other outright or shared equity sales to tenants, and sales of existing stock to the private sector. The figures exclude sales through low cost home ownership schemes where these do not relate to existing social stock, i.e. sales of newly built homes for shared ownership or acquisitions of private sector homes for affordable home ownership. Intra-tenure transfers between social housing providers are also excluded.&lt;/p&gt;
@@ -198,6 +202,7 @@
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/right-to-buy-sales-in-england-2012-to-2013-quarters-1-and-2"/>
     <title>Right to buy sales in England: 2012 to 2013 - quarters 1 and 2</title>
     <category>Publication</category>
+    <summary>Total Right to Buy sales by quarter.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This statistical release presents official statistics on the number of sales of dwellings under the right to buy scheme, as well as providing statistics on receipts resulting from those sales, and starts on site as part of the one-for-one replacements.&lt;/p&gt;
 
 &lt;p&gt;Key points from the release are:&lt;/p&gt;
@@ -214,6 +219,7 @@
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/speeches/council-of-mortgage-lenders-conference"/>
     <title>Council of Mortgage Lenders conference</title>
     <category>Speech</category>
+    <summary>Speech by Housing Minister, Mark Prisk, to the Council of Mortgage Lenders' annual conference.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;As a chartered surveyor, I feel I have some understanding of the housing and the property markets. But I come to this role recognising that, frankly, I still have much to learn, especially about the mortgage market.&lt;/p&gt;
 
 &lt;p&gt;So let me start by saying that I want to listen. The considerable expertise gathered here is something I will not ignore. Indeed, it’s experience that I value. There will be times when we won’t always agree, but if we work together, we can make a real difference in quite challenging times.&lt;/p&gt;
@@ -340,7 +346,8 @@
     <updated>2012-11-14T12:41:10+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/multi-million-pound-boost-will-help-buyers-onto-the-housing-ladder"/>
     <title>Multi-million pound boost will help buyers onto the housing ladder</title>
-    <category>News Article</category>
+    <category>News article</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;First time buyers will from today benefit from a multi-million pound boost to help them onto the housing ladder said Housing Minister Mark Prisk.&lt;/p&gt;
 
 &lt;p&gt;The Minister announced the first allocations from a £280million pot to help a further 16,500 first time buyers benefit from the FirstBuy scheme.&lt;/p&gt;
@@ -404,6 +411,7 @@
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/newbuy-guarantee-scheme-statistics-january-to-june-2012"/>
     <title>NewBuy Guarantee scheme statistics: January to June 2012</title>
     <category>Publication</category>
+    <summary>First release of official statistics about the NewBuy Guarantee scheme.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This first release of official statistics about the NewBuy Guarantee scheme was released under the auspices of the UK Statistics Authority’s code of practice on 27 September 2012.&lt;/p&gt;
 
 &lt;p&gt;Statistics on the NewBuy Guarantee scheme cover quarterly and cumulative data for England up to 30 June 2012.&lt;/p&gt;
@@ -422,7 +430,8 @@
     <updated>2012-11-15T13:35:32+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/speeches/housing-and-growth--5"/>
     <title>Housing and growth</title>
-    <category>Speech</category>
+    <category>Statement to parliament</category>
+    <summary>Statement by Communities Secretary Eric Pickles on housing and growth.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;With permission, Mr Speaker, I would like to make a statement on housing and planning:&lt;/p&gt;
 
 &lt;ul&gt;
@@ -492,6 +501,7 @@
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/dealing-with-squatters-in-your-home"/>
     <title>Dealing with squatters in your home</title>
     <category>Publication</category>
+    <summary>Guidance for property owners about the new criminal offence of squatting and about how to regain possession of their properties.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;From 1 September 2012, a person squatting in a residential building is committing a crime. The offence covers squatting in all residential buildings. It protects homeowners and lawful occupiers who discover squatters have occupied their homes. &lt;/p&gt;
 
 &lt;p&gt;This guidance is jointly produced by the Department for Communities and Local Government and the Ministry of Justice. It is aimed at informing property owners about the new offence and the procedures for regaining possession of their properties from squatters.&lt;/p&gt;

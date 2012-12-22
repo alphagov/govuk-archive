@@ -8,13 +8,15 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-09-10T01:00:00+01:00</updated>
+  <updated>2012-12-12T14:02:04+00:00</updated>
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/56112</id>
     <published>2012-09-10T01:00:00+01:00</published>
-    <updated>2012-09-10T01:00:00+01:00</updated>
+    <updated>2012-12-12T14:02:04+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/new-mod-ministerial-team-announced"/>
     <title>New MOD ministerial team announced</title>
+    <category>News article</category>
+    <summary>Following the recent government reshuffle the Prime Minister's Office has announced a change to the ministerial team at the Ministry of Defence.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The new ministerial team is as follows:&lt;/p&gt;
 
 &lt;p&gt;• Secretary of State for Defence - The Rt Hon Philip Hammond MP&lt;/p&gt;
@@ -31,10 +33,13 @@
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/45356</id>
-    <published>2012-06-21T00:00:00+01:00</published>
-    <updated>2012-06-21T00:00:00+01:00</updated>
+    <published>2012-06-21T01:00:00+01:00</published>
+    <updated>2012-12-11T17:35:09+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/speeches/2012-06-21-political-will-military-capacity-maritime-security-in-the-middle-east"/>
     <title>2012/06/21 - Political Will, Military Capacity: Maritime Security in the Middle East</title>
+    <category>Speech</category>
+    <summary>Speech delivered by Minister for the Armed Forces at the Rand Europe Rights of Passage Conference, London on 
+Thursday 21 June 2012.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="introduction"&gt;INTRODUCTION&lt;/h2&gt;
 
 &lt;p&gt;Ladies and Gentlemen, good morning and thank you for inviting me to speak today.&lt;/p&gt;
@@ -231,10 +236,12 @@
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/45350</id>
-    <published>2012-05-22T00:00:00+01:00</published>
-    <updated>2012-05-22T00:00:00+01:00</updated>
+    <published>2012-05-22T01:00:00+01:00</published>
+    <updated>2012-12-11T18:31:13+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/speeches/2012-05-22-address-to-15th-chemical-weapons-demilitarisation-conference"/>
     <title>2012/05/22 - Address to 15th Chemical Weapons Demilitarisation Conference</title>
+    <category>Speech</category>
+    <summary>Speech delivered by Minister for the Armed Forces at the Marriott Hotel, Glasgow on Tuesday 22 May 2012.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="introduction"&gt;Introduction&lt;/h2&gt;
 
 &lt;p&gt;Director-General, Your Excellency, Ladies and Gentlemen, Good Morning.&lt;/p&gt;
@@ -401,9 +408,11 @@ Science Applications International Corporation; and URS Corporation. &lt;/p&gt;
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/55729</id>
     <published>2012-03-28T01:00:00+01:00</published>
-    <updated>2012-03-28T01:00:00+01:00</updated>
+    <updated>2012-12-12T23:51:20+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/uk-driving-efforts-on-global-nuclear-security--2"/>
     <title>UK 'driving efforts' on global nuclear security</title>
+    <category>News article</category>
+    <summary>As the Deputy Prime Minister attends a summit on nuclear security in Seoul, Minister of State for the Armed Forces Nick Harvey has released a statement on the issue.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Mr Harvey writes: &lt;/p&gt;
 
 &lt;p&gt;The rise of international terrorism has made the struggle to keep nuclear material out of the wrong hands more acute.&lt;/p&gt;
@@ -430,9 +439,11 @@ Science Applications International Corporation; and URS Corporation. &lt;/p&gt;
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/41604</id>
     <published>2012-02-22T00:00:00+00:00</published>
-    <updated>2012-02-22T00:00:00+00:00</updated>
+    <updated>2012-12-12T12:13:42+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/tongan-pm-visits-the-mod-as-part-of-three-day-visit"/>
     <title>Tongan PM visits the MOD as part of three-day visit</title>
+    <category>News article</category>
+    <summary>The Tongan Prime Minister, Lord Tu'ivakano, and the Commander of the Tonga Defence Services, Brigadier General 'Uta'atu, were welcomed to the Ministry of Defence in London today with a ceremonial guard from the Household Cavalry Mounted Regiment.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Today’s visit is the first by the Tongan Prime Minister and is part of a three-day programme which includes a visit to the Royal Military Academy Sandhurst as well as meetings at MOD Main Building.&lt;/p&gt;
 
 &lt;p&gt;During the visit a range of topics will be discussed, including Tongan support in Afghanistan and training opportunities for the Tongan Defence Force.&lt;/p&gt;
@@ -456,9 +467,11 @@ Science Applications International Corporation; and URS Corporation. &lt;/p&gt;
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/18754</id>
     <published>2012-02-09T00:00:00+00:00</published>
-    <updated>2012-02-09T00:00:00+00:00</updated>
+    <updated>2012-12-08T11:20:36+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/speeches/2012-02-09-royal-navy-club-founders-day-dinner"/>
     <title>2012/02/09 - Royal Navy Club Founder's Day Dinner</title>
+    <category>Speech</category>
+    <summary>Speech delivered by Minister for the Armed Forces at Trinity House, London on Thursday 9 February 2012.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="introduction"&gt;Introduction&lt;/h2&gt;
 
 &lt;p&gt;Mr Chairman, First Sea Lord, Gentlemen, it is an honour to be invited to address this year’s Founders’ Day dinner. &lt;/p&gt;
@@ -630,9 +643,11 @@ Science Applications International Corporation; and URS Corporation. &lt;/p&gt;
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/39865</id>
     <published>2011-12-22T00:00:00+00:00</published>
-    <updated>2011-12-22T00:00:00+00:00</updated>
+    <updated>2012-12-12T14:03:16+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/extra-talk-time-to-those-back-home-for-troops-in-afghanistan-this-christmas"/>
     <title>Extra talk-time to those back home for troops in Afghanistan this Christmas</title>
+    <category>News article</category>
+    <summary>UK servicemen and women in Afghanistan will enjoy an extra 1 hour and 15 minutes of talk-time to keep in touch with family and friends this Christmas.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;All troops on deployed operations this festive season are being gifted an additional 30 minutes of call time funded by the MOD.&lt;/p&gt;
 
 &lt;p&gt;And as an extra Christmas bonus, communications provider Paradigm will gift an extra 45 minutes to every UK serviceman and woman deployed in Afghanistan, meaning that they can now talk to family and friends for even longer over the festive season.&lt;/p&gt;
@@ -666,9 +681,11 @@ Science Applications International Corporation; and URS Corporation. &lt;/p&gt;
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/18748</id>
     <published>2011-12-07T00:00:00+00:00</published>
-    <updated>2011-12-07T00:00:00+00:00</updated>
+    <updated>2012-12-08T11:57:14+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/speeches/2011-12-07-uk-norway-nuclear-disarmament-verification-initiative-workshop"/>
     <title>2011/12/07 - UK-Norway Nuclear Disarmament Verification Initiative Workshop</title>
+    <category>Speech</category>
+    <summary>Speech delivered by Minister for the Armed Forces at Prospero House, London on Wednesday 7 December 2011.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="introduction"&gt;Introduction&lt;/h2&gt;
 
 &lt;p&gt;Ladies and gentlemen, it is a great pleasure to welcome you to London today to this international workshop on nuclear disarmament verification.&lt;/p&gt;
@@ -802,9 +819,11 @@ Science Applications International Corporation; and URS Corporation. &lt;/p&gt;
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/18744</id>
     <published>2011-11-21T00:00:00+00:00</published>
-    <updated>2011-11-21T00:00:00+00:00</updated>
+    <updated>2012-12-08T11:49:55+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/speeches/2011-11-21-cyber-security-in-the-uk"/>
     <title>2011/11/21 - Cyber Security in the UK</title>
+    <category>Speech</category>
+    <summary>Speech delivered by Minister for the Armed Forces at the KOKODA Foundation Young Strategic Leaders Forum, Canberra, Australia on Monday 21 November 2011.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="introduction"&gt;Introduction&lt;/h2&gt;
 
 &lt;p&gt;Ladies and Gentlemen, thank you for inviting me here to talk about Cyber Security. &lt;/p&gt;
@@ -1013,10 +1032,12 @@ Science Applications International Corporation; and URS Corporation. &lt;/p&gt;
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/18734</id>
-    <published>2011-10-14T00:00:00+01:00</published>
-    <updated>2011-10-14T00:00:00+01:00</updated>
+    <published>2011-10-14T01:00:00+01:00</published>
+    <updated>2012-12-08T12:40:55+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/speeches/2011-10-14-supporting-civilian-authority-what-role-for-the-military--2"/>
     <title>2011/10/14 - Supporting Civilian Authority: What Role for the Military?</title>
+    <category>Speech</category>
+    <summary>Speech delivered by Minister for the Armed Forces at the Politeia Autumn Address, East India House, London on Monday 14 October 2011.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="introduction"&gt;INTRODUCTION&lt;/h2&gt;
 
 &lt;p&gt;On the night of August 6th, and for three further nights, a small minority took to the streets in some of our urban centres looting, vandalising, burning, terrorising the law abiding majority. &lt;/p&gt;

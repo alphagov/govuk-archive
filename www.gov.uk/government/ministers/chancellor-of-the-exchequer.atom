@@ -8,13 +8,15 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-12-06T10:22:00+00:00</updated>
+  <updated>2012-12-06T10:22:27+00:00</updated>
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/18802</id>
     <published>2012-12-06T10:22:00+00:00</published>
-    <updated>2012-12-06T10:22:00+00:00</updated>
+    <updated>2012-12-06T10:22:27+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/government-investment-in-local-growth-to-continue"/>
     <title>Government investment in local growth to continue</title>
+    <category>News article</category>
+    <summary>The Chancellor has announced a package of measures in his Autumn Statement that will help the department continue to boost local growth.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The measures will enable the country to build new homes, deliver key infrastructure and support vital jobs.&lt;/p&gt;
 
 &lt;p&gt;A new £474 million Local Infrastructure Fund that will support investment in key local projects will open up new development, including locally supported large housing sites and bring surplus public land back into use, delivering much needed new homes, businesses, infrastructure and local transport schemes. Plus a further £100 million to bring forward public sector sites for development.&lt;/p&gt;
@@ -48,9 +50,11 @@
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/54871</id>
     <published>2012-12-05T13:00:00+00:00</published>
-    <updated>2012-12-05T13:00:00+00:00</updated>
+    <updated>2012-12-12T16:12:29+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/autumn-statement-2012--2"/>
     <title>Autumn Statement 2012</title>
+    <category>News article</category>
+    <summary>What the Autumn Statement means for Business, Innovation and Skills.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Autumn Statement is one of two major statements the Treasury has to give to Parliament every year.&lt;/p&gt;
 
 &lt;p&gt;The Statement provides an update on the government’s plans for the economy based on the latest forecasts from the Office for Budget Responsibility. These forecasts are published alongside the Autumn Statement on 5 December. &lt;/p&gt;
@@ -99,9 +103,11 @@
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/26216</id>
     <published>2011-03-23T00:00:00+00:00</published>
-    <updated>2011-03-23T00:00:00+00:00</updated>
+    <updated>2012-12-11T16:16:40+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/2011-budget-britain-open-for-business"/>
     <title>2011 Budget: Britain open for business</title>
+    <category>News article</category>
+    <summary>Chancellor of the Exchequer George Osborne has announced measures in the 2011 Budget to make the UK the most attractive destination in Europe for businesses and investment.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Announcing the 2011 Budget, the Chancellor George Osborne outlined the Government’s financial priorities for strong, sustainable and balanced growth across all regions and sectors.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Britain open for business&lt;/strong&gt;&lt;/p&gt;
@@ -125,9 +131,11 @@
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/46928</id>
     <published>2010-07-28T01:00:00+01:00</published>
-    <updated>2010-07-28T01:00:00+01:00</updated>
+    <updated>2012-12-11T16:24:01+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/uk-and-india-a-new-economic-partnership"/>
     <title>UK and India: A new economic partnership</title>
+    <category>News article</category>
+    <summary>Speech by the Chancellor of the Exchequer Rt Hon George Osborne MP Taj Mahal Hotel, Mumbai Wednesday 28 July 2010.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;&lt;strong&gt;Check against delivery&lt;/strong&gt;   &lt;/p&gt;
 
 &lt;p&gt;Welcome everyone.&lt;/p&gt;
@@ -376,9 +384,11 @@ The UK supports the G20’s emergence as the pre-eminent global grouping, in whi
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/46930</id>
     <published>2010-07-28T01:00:00+01:00</published>
-    <updated>2010-07-28T01:00:00+01:00</updated>
+    <updated>2012-12-11T16:24:01+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/mobile-banking-is-having-global-impact"/>
     <title>Mobile banking is having global impact</title>
+    <category>News article</category>
+    <summary>Monitise/Visa Indian joint venture hailed by the British  Chancellor in Mumbai visit.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The widespread emergence of mobile banking is having a huge transformative effect in both developed and emerging economies, a pioneering ‘mobile money’ business leader said today in Mumbai, India.&lt;/p&gt;
 
 &lt;p&gt;Richard Johnson, group strategy director of Monitise plc, said: “For the full potential of mobile banking and payments to be achieved, banks, payments networks and mobile network operators have realised that they must come together in partnership and collaboration.”&lt;/p&gt;
@@ -423,9 +433,11 @@ The UK supports the G20’s emergence as the pre-eminent global grouping, in whi
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/18127</id>
     <published>2010-07-26T01:00:00+01:00</published>
-    <updated>2010-07-26T01:00:00+01:00</updated>
+    <updated>2012-12-11T16:24:57+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/new-ideas-for-business-finance"/>
     <title>New ideas for business finance</title>
+    <category>News article</category>
+    <summary>Government to explore new and innovative ways for business to access finance.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Chancellor &lt;a rel="external" href="http://www.hm-treasury.gov.uk/profile_cx.htm"&gt;George Osborne&lt;/a&gt; and Business Secretary &lt;a rel="external" href="http://www.bis.gov.uk//ministers/vince-cable"&gt;Vince Cable&lt;/a&gt; have launched a &lt;a rel="external" href="http://www.bis.gov.uk//Consultations/financing-private-sector-recovery"&gt;Green Paper on business finance&lt;/a&gt;.   &lt;/p&gt;
 
 &lt;p&gt;The paper starts a consultation with business on ways to access funding to help them expand and create new jobs to grow the economy.   &lt;/p&gt;
@@ -457,9 +469,11 @@ The UK supports the G20’s emergence as the pre-eminent global grouping, in whi
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/18110</id>
     <published>2010-06-22T01:00:00+01:00</published>
-    <updated>2010-06-22T01:00:00+01:00</updated>
+    <updated>2012-12-11T16:24:54+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/budget-creates-conditions-for-enterprise-and-growth"/>
     <title>Budget creates conditions for enterprise and growth</title>
+    <category>News article</category>
+    <summary>The Chancellor of the Exchequer has set out his Budget with a comprehensive five-year plan to rebuild the British economy.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The plan sets out action to tackle the unprecedented budget deficit, introduce a fairer tax system, encourage enterprise and support long-term growth across the economy.   &lt;/p&gt;
 
 &lt;p&gt;The Chancellor wants to support business and make the UK more competitive. This means giving businesses more freedom by reducing regulation and providing targeted tax breaks, while ensuring that the economic opportunities for businesses are shared more evenly throughout the UK’s regions.   &lt;/p&gt;

@@ -15,7 +15,8 @@
     <updated>2012-12-15T00:15:00+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/louise-casey-calls-for-family-intervention-approach"/>
     <title>Louise Casey calls for family intervention approach</title>
-    <category>News Article</category>
+    <category>News article</category>
+    <summary>The head of the Troubled Families programme has endorsed family intervention as the most effective way to turn problem families around and help them get on in life.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Following a look at the academic evidence, alongside consultation with practitioners and families themselves, &lt;a href="https://www.gov.uk/government/people/louise-casey"&gt;Louise Casey&lt;/a&gt; today published a new report that shows the life-changing results that good family intervention can have on even the most challenging households, along with a guide to best practice.&lt;/p&gt;
 
 &lt;p&gt;The &lt;a href="https://www.gov.uk/government/publications/working-with-troubled-families-a-guide-to-evidence-and-good-practice"&gt;‘Working with Troubled Families’ report&lt;/a&gt; outlines that family intervention reduces:&lt;/p&gt;
@@ -70,6 +71,7 @@
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/working-with-troubled-families-a-guide-to-evidence-and-good-practice"/>
     <title>Working with Troubled Families: a guide to evidence and good practice</title>
     <category>Publication</category>
+    <summary>Guidance for local authorities and their partners on how to work with troubled families.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This is a tool to help local authorities and their partners, who have asked for guidance on how best to work with troubled families, and for the evidence about family intervention to be brought together in one place. &lt;/p&gt;
 
 &lt;p&gt;The report looks at academic evidence, local evaluations of practice, what practitioners have told us works in their services and what families tell us makes this work different and successful for them.&lt;/p&gt;&lt;/div&gt;</content>
@@ -81,6 +83,7 @@
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/troubled-families-case-studies"/>
     <title>Troubled families case studies</title>
     <category>Publication</category>
+    <summary>This document describes how families were helped in Sheffield, Bradford, Lancashire, Leeds and Norfolk. </summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Work with family intervention projects can make a significant difference to families’ lives.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
@@ -89,7 +92,8 @@
     <updated>2012-11-14T12:41:10+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/troubled-families-programme-on-track"/>
     <title>Troubled families programme on track</title>
-    <category>News Article</category>
+    <category>News article</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Communities Secretary Eric Pickles has today announced that the Government’s Troubled Families initiative is on track, with councils committed to start working with more than a third of families in the first year of a three-year programme.&lt;/p&gt;
 
 &lt;p&gt;Huge enthusiasm has been shown for the scheme - with all 152 upper-tier local authorities in England on board - and momentum is now building, with families beginning to be identified and worked with, staff appointed and services expanded in order to get children back into school, reduce youth crime and anti-social behaviour and put adults on a path back to work.&lt;/p&gt;
@@ -134,7 +138,8 @@
     <updated>2012-11-14T12:41:07+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/eric-pickles-and-louise-casey-address-troubled-families-co-ordinators"/>
     <title>Eric Pickles and Louise Casey address troubled families co-ordinators</title>
-    <category>News Article</category>
+    <category>News article</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Communities Secretary Eric Pickles has told troubled families co-ordinators that they are at the vanguard of a revolution in social policy.&lt;/p&gt;
 
 &lt;p&gt;The Department for Communities and Local Government on Tuesday brought co-ordinators from all 152 upper-tier local authorities in England to London for a major national conference on delivering the Prime Minister’s pledge to turn around the lives of 120,000 troubled families in the next three years.&lt;/p&gt;
@@ -173,7 +178,8 @@
     <updated>2012-11-14T12:40:58+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/report-highlights-chaos-of-troubled-families-lives"/>
     <title>Report highlights chaos of troubled families' lives</title>
-    <category>News Article</category>
+    <category>News article</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Louise Casey CB has published a &lt;a rel="external" href="http://www.communities.gov.uk/publications/communities/listeningtroubledfamilies"&gt;report&lt;/a&gt; highlighting the chaotic personal histories of the kinds of families who will be targeted as part of the Government’s commitment to turn around the lives of 120,000 troubled families by 2015.&lt;/p&gt;
 
 &lt;p&gt;The report details stark real-life accounts from families, with experiences often passed from generation to generation, such as domestic and sexual abuse, teenage pregnancies, poor parenting, social care interventions, police call outs and educational failure. It also contains Louise Casey’s early conclusions that a whole-family approach is often best for dealing with multiple and inter-linked problems; rather than approaches that deal with single problems or single individuals within a household.&lt;/p&gt;
@@ -233,6 +239,7 @@
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/listening-to-troubled-families"/>
     <title>Listening to troubled families</title>
     <category>Publication</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Louise Casey, head of the troubled families programme, interviewed 16 troubled families for this report that starkly describes the problems families face.&lt;/p&gt;
 
 &lt;p&gt;The primary purpose of carrying out the interviews was to listen directly to families about their lives, the problems they have experienced and caused and to begin to understand the sort of help that will enable them to really change.&lt;/p&gt;&lt;/div&gt;</content>
@@ -243,7 +250,8 @@
     <updated>2012-11-14T12:40:51+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/eric-pickles-hails-100-troubled-families-take-up"/>
     <title>Eric Pickles hails 100% troubled families take-up</title>
-    <category>News Article</category>
+    <category>News article</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Communities Secretary Eric Pickles has welcomed the news that every eligible council has agreed to run the Government’s Troubled Families programme in their area.&lt;/p&gt;
 
 &lt;p&gt;The overwhelmingly positive response from upper-tier local authorities in England means that the Department for Communities and Local Government is on track to meet the Prime Minister’s pledge to turn around the lives of 120,000 troubled families in the next three years.&lt;/p&gt;
@@ -312,7 +320,8 @@ Payment of £4,000&lt;/li&gt;
     <updated>2012-11-14T12:28:45+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/downing-street-launch-for-troubled-families-scheme--2"/>
     <title>Downing Street launch for 'troubled families' scheme</title>
-    <category>News Article</category>
+    <category>News article</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Local authority leaders and frontline community workers were this week invited to a reception in Downing Street to mark the start of the Government’s groundbreaking initiative to turn around the lives of troubled families.&lt;/p&gt;
 
 &lt;p&gt;David Cameron was in attendance along with Cabinet ministers including Communities and Local Government Secretary Eric Pickles, Work and Pensions Secretary Iain Duncan Smith and Home Secretary Theresa May, as well as Head of Troubled Families Policy Louise Casey.&lt;/p&gt;
@@ -350,6 +359,7 @@ Payment of £4,000&lt;/li&gt;
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/the-troubled-families-programme-financial-framework"/>
     <title>The troubled families programme: financial framework</title>
     <category>Publication</category>
+    <summary>Information on the Troubled Families programme payment-by-results scheme for local authorities</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Troubled Families Financial Framework is a results-based funding scheme which provides details of the payment mechanism for local authorities to receive extra funding to deal with troubled families.&lt;/p&gt;
 
 &lt;p&gt;Aimed at local authorities, this document explains:&lt;/p&gt;

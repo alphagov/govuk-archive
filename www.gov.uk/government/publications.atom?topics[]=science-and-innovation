@@ -8,13 +8,15 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-12-14T00:00:00+00:00</updated>
+  <updated>2012-12-14T15:13:26+00:00</updated>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/60019</id>
     <published>2012-12-14T00:00:00+00:00</published>
-    <updated>2012-12-14T00:00:00+00:00</updated>
+    <updated>2012-12-14T15:13:26+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/science-and-innovation-network-annual-report-2011-12"/>
     <title>Science and Innovation Network: Annual Report 2011 to 2012</title>
+    <category>Publication</category>
+    <summary>The Science and Innovation Network supports UK economic and social goals through international collaboration in science research and innovation.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This report shows the scope of the work carried out by the Science and Innovation Network, a joint &lt;abbr title="Department for Business, Innovation and Skills"&gt;BIS&lt;/abbr&gt;-&lt;abbr title="Foreign and Commonwealth Office"&gt;FCO&lt;/abbr&gt; network operating in around 28 countries and territories around the world. &lt;/p&gt;
 
 &lt;p&gt;&lt;abbr title="Science and Innovation Network"&gt;SIN&lt;/abbr&gt; officers are scientifically literate staff in &lt;abbr title="Foreign and Commonwealth Office"&gt;FCO&lt;/abbr&gt; posts who work to benefit the UK through influencing the science and innovation policies of governments, businesses and academia, informing UK policy, and promoting ‘best with best’ collaboration between the UK and other nations. &lt;/p&gt;
@@ -26,57 +28,71 @@
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/56637</id>
     <published>2012-12-10T00:00:00+00:00</published>
-    <updated>2012-12-10T00:00:00+00:00</updated>
+    <updated>2012-12-14T13:40:45+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/strength-opportunity-2012-the-landscape-of-the-medical-biotechnology-industrial-biotechnology-and-pharmaceutical-sectors-in-the-uk-annual-update-december-2012--2"/>
     <title>Strength &amp; opportunity 2012: the landscape of the medical biotechnology, industrial biotechnology and pharmaceutical sectors in the UK. Annual update - December 2012</title>
+    <category>Publication</category>
+    <summary>Fourth annual report analysing the updated 2012 dataset from the bioscience and health technology database.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Fourth annual report analysing the updated 2012 dataset from the bioscience and health technology database. The data relates to companies that are active in the UK in three of the life sciences sectors: medical technology, medical biotechnology and industrial biotechnology. Enables comparisons against last year’s information to see how these sectors are changing. Overview of this highly innovative industry with over 4,500 companies, employing over 167,000 people and generating a turnover of over £50 billion.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/56987</id>
     <published>2012-11-21T00:00:00+00:00</published>
-    <updated>2012-11-21T00:00:00+00:00</updated>
+    <updated>2012-12-11T16:31:21+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/annual-innovation-report-2012-innovation-research-and-growth"/>
     <title>Annual innovation report 2012: innovation, research and growth</title>
+    <category>Publication</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Fourth annual innovation report that gives the latest available evidence on UK innovation performance and the contribution of business, government, higher education and research organisations to UK innovation activities. Presents key measures of innovation and research performance, and provides a benchmark to track performance measures for the Innovation and research strategy for growth (URN 11/1387). Also records the practical progress made implementing the strategy. Underlying data for this publication is available in a machine processable format on the Transparency/Report Data webpage.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/48270</id>
     <published>2012-11-16T00:00:00+00:00</published>
-    <updated>2012-11-16T00:00:00+00:00</updated>
+    <updated>2012-12-11T16:31:12+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/uk-innovation-survey-2011-statistical-annex-revised"/>
     <title>UK innovation survey 2011: statistical annex [revised]</title>
+    <category>Publication</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Statistical annex for data from the 2011 UK innovation survey (12/P107). It includes an overview of the methodology, details of response rates and weighting, and reference tables with the survey results.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/56302</id>
     <published>2012-11-09T00:00:00+00:00</published>
-    <updated>2012-11-09T00:00:00+00:00</updated>
+    <updated>2012-12-11T16:30:54+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/response-to-a-synthetic-biology-roadmap-for-the-uk-letter-from-david-willetts-mp-to-dr-lionel-clarke"/>
     <title>Response to 'A synthetic biology roadmap for the UK': letter from David Willetts MP to Dr Lionel Clarke</title>
+    <category>Publication</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Government’s response to the UK Synthetic Biology Roadmap Coordination Group’s recommendations for the future development of synthetic biology in the UK. Synthetic biology aims to design, engineer or replicate biological systems, for example biosynthetic insulin. This letter explains how the government is working to stimulate innovation, responsible commercial exploitation, economic growth and quality of life.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/56289</id>
     <published>2012-11-07T00:00:00+00:00</published>
-    <updated>2012-11-07T00:00:00+00:00</updated>
+    <updated>2012-12-11T16:30:53+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/e-science-and-e-infrastructure-needs-of-the-uk-life-sciences-industry"/>
     <title>E-science and e-infrastructure needs of the UK life sciences industry</title>
+    <category>Publication</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Report for the E-Infrastructure Leadership Council (ELC) on the e-science and e-infrastructure requirements of the UK life sciences industry. Focuses on several scientific disiplines and makes recommendations for each, including investing in the UK skills base through better training.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/56297</id>
     <published>2012-11-07T00:00:00+00:00</published>
-    <updated>2012-11-07T00:00:00+00:00</updated>
+    <updated>2012-12-11T16:30:53+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/developing-e-infrastructure-in-the-uks-engineering-and-manufacturing-industries"/>
     <title>Developing e-infrastructure in the UK's engineering and manufacturing industries</title>
+    <category>Publication</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Assesses the progress made by the UK engineering and manufacturing industries in the adoption, utilisation and exploitation of UK e-infrastructure. Highlights a number of significant barriers to that progress and makes recommendations to enable the removal or neutralisation of those barriers.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/47192</id>
     <published>2012-10-11T01:00:00+01:00</published>
-    <updated>2012-10-11T01:00:00+01:00</updated>
+    <updated>2012-12-11T16:30:23+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/consultations/shaping-a-uk-agri-tech-strategy-call-for-evidence"/>
     <title>Shaping a UK agri-tech strategy: call for evidence</title>
+    <category>Consultation</category>
+    <summary>This call for evidence invites you to submit views and information that will help shape a Government strategy to promote UK economic growth and international development by making best use of the science and technologies relevant to agriculture.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;hr&gt;&lt;p&gt;The UK has the potential to be at the forefront of developing innovative solutions, and to make fuller use of its agri-science base. Translating fundamental and applied scientific research into innovative technologies, practices and information could enable countries worldwide to meet the food and environmental challenges ahead while also contributing significantly to UK economic growth. &lt;/p&gt;
 
 &lt;p&gt;With its world class plant, animal and environmental research base, the UK is well placed to contribute to the global effort needed to improve the sustainable intensification of agriculture both at home and overseas. This would raise yields without using more land while adapting to climate change, reducing emissions, and maintaining biodiversity and other ecosystem services. It will involve engaging a very wide range of disciplines including natural (plant, animal, agronomy) and social scientists, engineers, and experts in risk management, economics and modelling. &lt;/p&gt;
@@ -95,90 +111,112 @@
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/48228</id>
-    <published>2012-09-21T00:00:00+01:00</published>
-    <updated>2012-09-21T00:00:00+01:00</updated>
+    <published>2012-09-21T01:00:00+01:00</published>
+    <updated>2012-12-11T16:31:03+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/science-engineering-and-technology-set-statistics-2012"/>
     <title>Science, engineering and technology (SET) statistics 2012</title>
+    <category>Publication</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;A summary of key science, engineering and technology indicators, prepared in collaboration with the Office for National Statistics. Includes analysis of the Government financing of SET activities in the UK, describes the relationship between the funders a&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/55978</id>
-    <published>2012-08-24T00:00:00+01:00</published>
-    <updated>2012-08-24T00:00:00+01:00</updated>
+    <published>2012-08-24T01:00:00+01:00</published>
+    <updated>2012-12-11T16:30:36+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/life-sciences-strategy-update-august-2012"/>
     <title>Life sciences strategy update: August 2012</title>
+    <category>Publication</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Letter from David Willetts to stakeholders about progress in implementing the ‘Strategy for UK life sciences’ (URN 11/1429). Focuses on and highlights progress for the following themes: research clusters and collaborations, data, improving the environment (including for SMEs), global marketing of the UK, and skills, talent and workforce.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/55945</id>
-    <published>2012-08-16T00:00:00+01:00</published>
-    <updated>2012-08-16T00:00:00+01:00</updated>
+    <published>2012-08-16T01:00:00+01:00</published>
+    <updated>2012-12-11T16:30:33+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/innovation-dynamics-and-the-role-of-infrastructure"/>
     <title>Innovation dynamics and the role of infrastructure</title>
+    <category>Publication</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;BIS occasional paper no. 3. An economic study into how the role of the innovation infrastructure can be integrated into a quantitative model of the innovation system and used to help explain levels and changes in labour productivity and growth in employment and turnover.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/46393</id>
-    <published>2012-07-18T00:00:00+01:00</published>
-    <updated>2012-07-18T00:00:00+01:00</updated>
+    <published>2012-07-18T01:00:00+01:00</published>
+    <updated>2012-12-11T16:30:06+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/science-and-the-public-science-communication-and-public-attitudes-to-science"/>
     <title>Science and the public: science communication and public attitudes to science</title>
+    <category>Publication</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Based on research sponsored by the Office of Science and Technology (OST) and the Wellcome Trust. It brings together research that maps the provision of science communication and research exploring public attitudes to science, engineering and technology. This report is intended to start a consultation process amongst the science communication community regarding priorities for future activity.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/46253</id>
-    <published>2012-07-16T00:00:00+01:00</published>
-    <updated>2012-07-16T00:00:00+01:00</updated>
+    <published>2012-07-16T01:00:00+01:00</published>
+    <updated>2012-12-11T16:29:37+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/drafting-rules-or-guidance-on-products-or-internet-services-find-out-if-you-need-to-notify-the-european-commission"/>
     <title>Drafting rules or guidance on products or internet services: find out if you need to notify the European Commission</title>
+    <category>Publication</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Explains the rules for whether to notify the European Commission of draft rules or  guidance regulating products and information society services. Also covers exemptions to notifying the Commission and how the standstill period works.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/46304</id>
-    <published>2012-07-16T00:00:00+01:00</published>
-    <updated>2012-07-16T00:00:00+01:00</updated>
+    <published>2012-07-16T01:00:00+01:00</published>
+    <updated>2012-12-11T16:29:47+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/letter-to-dame-janet-finch-on-the-government-response-to-the-finch-group-report-accessibility-sustainability-excellence-how-to-expand-access-to-research-publications"/>
     <title>Letter to Dame Janet Finch on the government response to the Finch Group report: 'Accessibility, sustainability, excellence: how to expand access to research publications'</title>
+    <category>Publication</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The government response to Dame Janet Finch’s report on open access to published research. Broadly accepts the report recommendations to provide easier access to research publications. Announces the government’s intention to increase in the number of taxpayer funded research papers freely available to the public.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/46374</id>
-    <published>2012-07-02T00:00:00+01:00</published>
-    <updated>2012-07-02T00:00:00+01:00</updated>
+    <published>2012-07-02T01:00:00+01:00</published>
+    <updated>2012-12-11T16:30:01+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/modernising-copyright-government-policy-statement-on-consultation"/>
     <title>Modernising copyright: government policy statement on consultation</title>
+    <category>Publication</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Sets out government policy on modernising copyright licensing following the consultation on proposals to make copyright rules more flexible, and better suited to today’s needs. Outlines plans for schemes for the commercial and non-commercial use of ‘orphan’ copyright works and voluntary extended collective licensing of copyright works, subject to a number of important safeguards. Also covers plans to create a backstop power to require collecting societies to adopt codes of conduct based on minimum standards. See also URN 12/897 for the summary of responses to the consultation.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/46369</id>
-    <published>2012-06-14T00:00:00+01:00</published>
-    <updated>2012-06-14T00:00:00+01:00</updated>
+    <published>2012-06-14T01:00:00+01:00</published>
+    <updated>2012-12-11T16:30:00+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/copyright-consultation-summary-of-responses"/>
     <title>Copyright consultation: summary of responses</title>
+    <category>Publication</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Summarises responses to the government’s consultation on copyright. The consultation was launched following the Hargreaves review of intellectual property and growth. This summary analyses general themes from the responses, and also exceptions to copyright and how to protect them.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/46250</id>
-    <published>2012-05-04T00:00:00+01:00</published>
-    <updated>2012-05-04T00:00:00+01:00</updated>
+    <published>2012-05-04T01:00:00+01:00</published>
+    <updated>2012-12-11T16:29:36+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/conformity-assessment-and-accreditation-policy-the-uks-quality-infrastructure"/>
     <title>Conformity assessment and accreditation policy: the UK's quality infrastructure</title>
+    <category>Publication</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;High level statement of the government’s policy on conformity assessment and accreditation. Sets the government’s policy principles and how the government will apply them. Intended for Government departments.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/46296</id>
-    <published>2012-05-03T00:00:00+01:00</published>
-    <updated>2012-05-03T00:00:00+01:00</updated>
+    <published>2012-05-03T01:00:00+01:00</published>
+    <updated>2012-12-11T16:29:46+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/uk-innovation-survey-2011-first-findings"/>
     <title>UK innovation survey 2011: first findings</title>
+    <category>Publication</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Report on results from the UK innovation survey 2011 which covers the three-year period 2008-2010. Aims to provide information for policy and research purposes, giving insights into the innovation process. Covers why and how companies innovate, their information sources, how they protect their innovations and the barriers they come across.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/59963</id>
     <published>2012-03-01T00:00:00+00:00</published>
-    <updated>2012-03-01T00:00:00+00:00</updated>
+    <updated>2012-12-14T17:40:36+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/science-and-innovation-network-annual-report-2011-12--2"/>
     <title>Science and Innovation Network: annual report 2011 to 12</title>
+    <category>Publication</category>
+    <summary>Annual report of the work of the global Foreign &amp; Commonwealth Office and Department for Business Science and Innovation Network.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Report of the work of the global Foreign &amp;amp; Commonwealth Office and Department for Business, Innovation &amp;amp; Skills Science and Innovation Network.&lt;/p&gt;
 
 &lt;p&gt;Highlights the achievements of the network, which uses contacts to monitor global scientific developments and build new relationships and collaborations. It showcases examples of UK work to influence and learn from science and innovation policy internationally, and also facilitate international collaboration to the benefit of the UK.&lt;/p&gt;&lt;/div&gt;</content>
@@ -186,9 +224,11 @@
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/46252</id>
     <published>2012-02-21T00:00:00+00:00</published>
-    <updated>2012-02-21T00:00:00+00:00</updated>
+    <updated>2012-12-11T16:29:37+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/technical-standards-and-regulations-directive-98-34-a-guide"/>
     <title>Technical Standards and Regulations Directive 98/34: a guide</title>
+    <category>Publication</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Guide to the Technical Standards and Regulations Directive 98/34. The Directive sets up a legal mechanism that requests member states to notify to the European Commission, and to the other Members, of their technical regulations, at a draft stage. At this stage amendments can still be introduced and a standstill period of 3 months observed before the adoption of the draft technical regulation (except for urgent, fiscal and financial measures).&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
 </feed>

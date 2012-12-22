@@ -8,13 +8,15 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-08-29T01:00:00+01:00</updated>
+  <updated>2012-11-14T12:41:05+00:00</updated>
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/14689</id>
     <published>2012-08-29T01:00:00+01:00</published>
-    <updated>2012-08-29T01:00:00+01:00</updated>
+    <updated>2012-11-14T12:41:05+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/cash-boost-for-communties-supporting-neighbourhood-planning"/>
     <title>Cash boost for communties supporting neighbourhood planning</title>
+    <category>News article</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;New funding to help communities bring jobs and homes to their neighbourhood using improved planning powers was announced today by Planning Minister Greg Clark.&lt;/p&gt;
 
 &lt;p&gt;Neighbourhood planning gives people a major say in shaping development in their area. It gives communities the power to help decide where development should go and the type and design of development that can be granted automatic planning permission.&lt;/p&gt;
@@ -57,9 +59,11 @@
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/14624</id>
     <published>2012-06-27T01:00:00+01:00</published>
-    <updated>2012-06-27T01:00:00+01:00</updated>
+    <updated>2012-11-14T12:40:54+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/community-right-to-challenge-comes-into-force"/>
     <title>Community Right to Challenge comes into force</title>
+    <category>News article</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;From today more communities will be able to bid to take over local services they think they can run differently and better as the Community Right to Challenge provisions come into effect.&lt;/p&gt;
 
 &lt;p&gt;The Community Right to Challenge hands more power back to communities, allowing voluntary and community groups, parish councils and local authority staff to express an interest in taking over the running of local authority services, making services more responsive to local needs and delivering better value for money.&lt;/p&gt;
@@ -143,10 +147,12 @@
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/12631</id>
-    <published>2012-05-15T00:00:00+01:00</published>
-    <updated>2012-05-15T00:00:00+01:00</updated>
+    <published>2012-05-15T01:00:00+01:00</published>
+    <updated>2012-11-19T18:01:57+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/speeches/tory-minister-labour-mayor-we-fight-together-for-liverpool"/>
     <title>Tory minister, Labour mayor: we fight together for Liverpool</title>
+    <category>Speech</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;hr&gt;&lt;p&gt;Economic growth does not happen in the abstract - it happens in particular places where existing employers expand their production or new firms are attracted to locate for the first time.&lt;/p&gt;
 
 &lt;p&gt;Britain is one the most urban countries in the world. So, unless our cities are places which foster and attract enterprise, investment and job creation then Britain itself will not return to growth with the strength that is needed.&lt;/p&gt;
@@ -177,10 +183,12 @@
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/12595</id>
-    <published>2012-03-27T00:00:00+01:00</published>
-    <updated>2012-03-27T00:00:00+01:00</updated>
+    <published>2012-03-27T01:00:00+01:00</published>
+    <updated>2012-11-19T14:26:12+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/speeches/national-planning-policy-framework--2"/>
     <title>National Planning Policy Framework</title>
+    <category>Statement to parliament</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;hr&gt;&lt;p&gt;Mr Speaker I would like to make a statement about planning policy.&lt;/p&gt;
 
 &lt;p&gt;I am delighted today to be publishing the National Planning Policy Framework and our response to the Communities and Local Government Select Committee Report of the 21 December 2011.&lt;/p&gt;
@@ -286,9 +294,11 @@
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/9730</id>
     <published>2012-03-27T00:00:00+01:00</published>
-    <updated>2012-03-27T00:00:00+01:00</updated>
+    <updated>2012-11-14T12:30:00+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/new-mayors-cabinet-to-provide-cities-with-a-voice-in-government--2"/>
     <title>New Mayors Cabinet to provide cities with a voice in government</title>
+    <category>News article</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;A new Mayors Cabinet that will ensure elected city mayors have a voice at the heart of Government was announced today by Prime Minister David Cameron and Cities Minister Greg Clark.&lt;/p&gt;
 
 &lt;p&gt;The Cabinet will provide city mayors with a direct route to the Prime Minister and other senior Ministers and provide a forum for cities to exchange ideas, highlight new innovations and lobby for the interests of their city.&lt;/p&gt;
@@ -336,9 +346,11 @@
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/9804</id>
     <published>2012-03-27T00:00:00+01:00</published>
-    <updated>2012-03-27T00:00:00+01:00</updated>
+    <updated>2012-11-14T12:30:17+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/planning-reforms-will-deliver-local-growth-with-community-support--2"/>
     <title>Planning reforms will deliver local growth with community support</title>
+    <category>News article</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;A new, simplified planning framework that better supports growth and helps creates the homes and jobs that the country needs, puts unprecedented power into the hands of communities, and helps protect and enhance our natural and historic environment was published by Planning Minister Greg Clark today.&lt;/p&gt;
 
 &lt;p&gt;The new 50 page document, which replaces over 1,300 pages of inherited policy in 44 separate documents delivers on the Coalition Agreement’s commitment to “publish and present to Parliament a simple and consolidated national planning framework covering all forms of development and setting out national economic, environmental and social priorities” by April 2012.&lt;/p&gt;
@@ -403,9 +415,11 @@
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/9688</id>
     <published>2012-03-20T00:00:00+00:00</published>
-    <updated>2012-03-20T00:00:00+00:00</updated>
+    <updated>2012-11-14T12:29:53+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/manchester-city-deal-brings-6-000-jobs-boost--2"/>
     <title>Manchester City Deal brings 6,000 jobs boost</title>
+    <category>News article</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Greater Manchester will create and protect 6,000 jobs as the city signs an innovative deal with central government giving it new powers to create jobs and train local people with the right skills to fill them, Deputy Prime Minister Nick Clegg and Cities Minister Greg Clark have announced today.&lt;/p&gt;
 
 &lt;p&gt;These powers, including the ability to ‘earn back’ a portion of the additional tax generated by investing in infrastructure, have been agreed as part of the City Deals initiative, which sees cities bid for powers to free them from Whitehall controls in order to boost growth locally. Manchester is the first ever city in the country to secure such powers and will be able to reinvest the money in local economic development and infrastructure.&lt;/p&gt;
@@ -483,9 +497,11 @@
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/9112</id>
     <published>2012-02-20T00:00:00+00:00</published>
-    <updated>2012-02-20T00:00:00+00:00</updated>
+    <updated>2012-11-14T12:28:17+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/appointments-to-the-homes-and-communities-agency-regulation-committee--2"/>
     <title>Appointments to the Homes and Communities Agency Regulation committee</title>
+    <category>News article</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Secretary of State for Communities and Local Government today announced the appointment, following open competition, of four non-executives members to the Homes and Communities Agency’s new Regulation Committee:&lt;/p&gt;
 
 &lt;ul&gt;
@@ -540,9 +556,11 @@
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/9689</id>
     <published>2012-02-09T00:00:00+00:00</published>
-    <updated>2012-02-09T00:00:00+00:00</updated>
+    <updated>2012-11-14T12:29:53+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/mayoral-referendum-election-date-confirmed"/>
     <title>Mayoral referendum election date confirmed</title>
+    <category>News article</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Ballot boxes will open on 3 May 2012 for voters to decide on directly elected mayors for England’s largest cities, Ministers confirmed today.&lt;/p&gt;
 
 &lt;p&gt;The Government believes that elected mayors can provide cities with the strong, visible leadership that will help them prosper nationally and internationally.&lt;/p&gt;
@@ -593,9 +611,11 @@
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/9666</id>
     <published>2012-02-07T00:00:00+00:00</published>
-    <updated>2012-02-07T00:00:00+00:00</updated>
+    <updated>2012-11-14T12:29:49+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/liverpool-first-to-strike-new-city-deal-with-government"/>
     <title>Liverpool first to strike new City Deal with government</title>
+    <category>News article</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Liverpool has become the first city to agree new powers through the City Deals programme, the Deputy Prime Minister, Nick Clegg and Cities Minister Greg Clark announced today.&lt;/p&gt;
 
 &lt;p&gt;A range of transformative powers will be devolved to Liverpool to give the city what it needs to attract private investment, close skills gaps and create new jobs.&lt;/p&gt;

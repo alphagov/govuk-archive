@@ -8,13 +8,15 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-05-17T00:00:00+01:00</updated>
+  <updated>2012-12-04T13:31:37+00:00</updated>
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/8440</id>
     <published>2012-05-17T00:00:00+01:00</published>
-    <updated>2012-05-17T00:00:00+01:00</updated>
+    <updated>2012-12-04T13:31:37+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/new-tool-to-tackle-economic-crime"/>
     <title>New tool to tackle economic crime </title>
+    <category>News article</category>
+    <summary>Plans published for a new way of dealing with economic crime.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Plans for a new tool to tackle economic crime have been published for consultation by Solicitor General Edward Garnier QC and Justice Minister Crispin Blunt.&lt;/p&gt;
 
 &lt;p&gt;Under Deferred Prosecution Agreements (&lt;abbr title="Deferred Prosecution Agreements"&gt;DPA&lt;/abbr&gt;), companies would agree to publically admit wrongdoing, and meet tough conditions such as payment of substantial penalties, undertaking internal reform and submitting to regular review and monitoring. &lt;/p&gt;

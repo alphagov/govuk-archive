@@ -8,13 +8,15 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-12-12T12:18:00+00:00</updated>
+  <updated>2012-12-12T17:38:59+00:00</updated>
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/54845</id>
     <published>2012-12-12T12:18:00+00:00</published>
-    <updated>2012-12-12T12:18:00+00:00</updated>
+    <updated>2012-12-12T17:38:59+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/the-new-home-on-the-web-for-fco-mod-bis-and-ago"/>
     <title>The new home on the web for FCO, MOD, BIS and AGO</title>
+    <category>News article</category>
+    <summary>GOV.UK is the new place for corporate and policy information from the Foreign Office, Ministry of Defence, Department for Business and the Attorney General's Office. </summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Four central government departments and several of their public bodies have today (13 December, 2012) become the latest central government organisations to move their corporate and policy content onto the new GOV.UK website - the new single home for all government services and information.&lt;/p&gt;
 
 &lt;p&gt;The Foreign and Commonwealth Office (&lt;abbr title="Foreign and Commonwealth Office"&gt;FCO&lt;/abbr&gt;), Ministry of Defence (&lt;abbr title="Ministry of Defence"&gt;MOD&lt;/abbr&gt;), Department for Business, Innovation and Skills (&lt;abbr title="Department for Business, Innovation and Skills"&gt;BIS&lt;/abbr&gt;) and Attorney General’s Office (&lt;abbr title="Attorney General's Office"&gt;AGO&lt;/abbr&gt;) have moved their content to the new website, joining the Department for Transport (&lt;abbr title="Department for Transport"&gt;DFT&lt;/abbr&gt;) and Communities and Local Government (&lt;abbr title="Department for Communities and Local Government"&gt;DCLG&lt;/abbr&gt;) whose content moved to GOV.UK last month.&lt;/p&gt;
@@ -67,9 +69,11 @@
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/16047</id>
     <published>2012-11-14T13:51:00+00:00</published>
-    <updated>2012-11-14T13:51:00+00:00</updated>
+    <updated>2012-11-14T13:51:59+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/the-new-home-on-the-web-for-dft-and-dclg"/>
     <title>The new home on the web for DFT and DCLG</title>
+    <category>News article</category>
+    <summary>GOV.UK is the new place for corporate and policy information from the Department for Transport and Department for Communities and Local Government</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Department for Transport (&lt;abbr title="Department for Transport"&gt;DFT&lt;/abbr&gt;) and the Department for Communities and Local Government (&lt;abbr title="Department for Communities and Local Government"&gt;DCLG&lt;/abbr&gt;), along with 3 of their public bodies, have today (15 November, 2012) become the first central government organisations to move their corporate and policy content onto the new GOV.UK website - the new single home for all government services and information.&lt;/p&gt;
 
 &lt;p&gt;The Inside Government section on GOV.UK makes it simpler, clearer and faster to find out:&lt;/p&gt;
@@ -122,9 +126,11 @@
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/46811</id>
     <published>2012-05-02T01:00:00+01:00</published>
-    <updated>2012-05-02T01:00:00+01:00</updated>
+    <updated>2012-12-11T16:23:39+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/visit-to-estonia-by-francis-maude-uk-cabinet-office-minister-with-lead-responsibility-for-cyber-issues"/>
     <title>Visit to Estonia by Francis Maude, UK Cabinet Office Minister with lead responsibility for cyber issues</title>
+    <category>News article</category>
+    <summary>From 1-3 May, the Right Honourable Francis Maude MP will visit Estonia on the invitation of President Toomas Hendrik Ilves, following their initial meeting at the London Cyber Conference in November 2011.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;During his visit, Mr Maude will have an extended meeting with President Ilves. The Minister will also meet Prime Minister Andrus Ansip, Riigikogu members, key government officials, independent experts, specialists and entrepreneurs in the cyber sector. Topics under discussion will include e-governance, cyber security and the advancement of the EU Digital Single Market.&lt;/p&gt;
 
 &lt;p&gt;The Minister will visit the NATO Cyber Defence Centre of Excellence, the State Information Systems Authority (RIA), the Cyber Defence League, the Estonian headquarters of Skype, the ICT Demo Centre, Tehnopol Science Park and the Startup Wiseguys business accelerator. He will deliver a speech at the International Centre for Defence Studies, entitled ‘Our response to  cyber: working together to meet the challenges and opportunities of a digital world’.&lt;/p&gt;

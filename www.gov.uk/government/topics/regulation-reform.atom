@@ -14,6 +14,7 @@
     <updated>2012-12-19T10:57:26+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/policies/reducing-the-impact-of-regulation-on-business"/>
     <title>Reducing the impact of regulation on business</title>
+    <category>Policy</category>
     <summary>Cutting red tape, improving existing regulations and avoiding unnecessary new regulations.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="issue"&gt;Issue&lt;/h2&gt;
 
@@ -60,22 +61,12 @@
 &lt;/div&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:Publication/60015</id>
-    <published>2012-12-19T00:00:00+00:00</published>
-    <updated>2012-12-19T10:59:28+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/one-in-one-out-third-statement-of-new-regulation"/>
-    <title>One-in, one-out: third statement of new regulation</title>
-    <summary>Overview of regulations planned to be implemented or removed by government departments between 1 January 2012 and 30 June 2012.</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;A forward look of all regulations in scope of government’s ‘one-in, one-out’ regime that are scheduled to come into force between 1 January 2012 and 30 June 2012.&lt;/p&gt;
-
-&lt;p&gt;This is published every 6 months to give businesses an indication of when regulations affecting them will be coming into effect. It provides an overview of the net costs and benefits to business and civil society organisations, and forecasts a further reduction in new burdens on businesses by an estimated £4.17 million.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
     <id>tag:www.gov.uk,2005:NewsArticle/56972</id>
     <published>2012-12-17T12:03:00+00:00</published>
     <updated>2012-12-17T12:03:22+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/new-figures-show-government-is-winning-war-on-red-tape"/>
     <title>New figures show government is winning war on red tape</title>
+    <category>News article</category>
     <summary>Business Minister pledges tougher action to eliminate burdens on enterprise.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Business will benefit from nearly £1 billion in reduced red tape costs thanks to government action, independent figures revealed today.&lt;/p&gt;
 
@@ -133,10 +124,21 @@
     <updated>2012-12-17T09:15:00+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/fifth-statement-of-new-regulation-sonr"/>
     <title>Fifth statement of new regulation (SONR)</title>
+    <category>Publication</category>
     <summary>An overview of regulations planned to be implemented or removed by government departments between 1 January and 30 June 2013.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Provides a forward look of all regulations in scope of government’s ‘One-in, two-out’ regime that are scheduled to come into force between 1 January and 30 June 2013.&lt;/p&gt;
 
 &lt;p&gt;This is published every 6 months to give businesses an indication of when regulations affecting them will be coming into effect. The headline figures show that the sum total of government deregulation by July 2013 is expected to reduce the annual cost to business by around £919 million.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:Publication/60126</id>
+    <published>2012-12-17T00:00:00+00:00</published>
+    <updated>2012-12-17T09:15:02+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/bis-fifth-statement-of-new-regulation-regulations-covering-january-to-june-2013"/>
+    <title>BIS fifth statement of new regulation: regulations covering January to June 2013</title>
+    <category>Publication</category>
+    <summary>Informs businesses and interested stakeholders of Department for Business domestic regulations that come into force between January and June 2013.</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Lists Department for Business, Innovation &amp;amp; Skills (&lt;abbr title="Department for Business, Innovation and Skills"&gt;BIS&lt;/abbr&gt;) measures in scope of ‘One in, two out’ regulations to come into force from January to June 2013, to show how &lt;abbr title="Department for Business, Innovation and Skills"&gt;BIS&lt;/abbr&gt; is removing burdens on business.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:Publication/56364</id>
@@ -144,6 +146,7 @@
     <updated>2012-12-17T12:02:21+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/dclg-statement-of-new-regulation-1-january-to-30-june-2013"/>
     <title>DCLG statement of new regulation - 1 January to 30 June 2013</title>
+    <category>Publication</category>
     <summary>Overview of regulations that are scheduled to be implemented or removed between 1 January and 30 June 2013.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;A forward look of all regulations in scope of government’s ‘one-in, two-out’ regime that are scheduled to come into force between 1 January and 30 June 2013.&lt;/p&gt;
 
@@ -158,20 +161,12 @@
 &lt;/ul&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:Publication/60126</id>
-    <published>2012-12-17T00:00:00+00:00</published>
-    <updated>2012-12-17T09:15:02+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/bis-fifth-statement-of-new-regulation-regulations-covering-january-to-june-2013"/>
-    <title>BIS fifth statement of new regulation: regulations covering January to June 2013</title>
-    <summary>Informs businesses and interested stakeholders of Department for Business domestic regulations that come into force between January and June 2013.</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Lists Department for Business, Innovation &amp;amp; Skills (&lt;abbr title="Department for Business, Innovation and Skills"&gt;BIS&lt;/abbr&gt;) measures in scope of ‘One in, two out’ regulations to come into force from January to June 2013, to show how &lt;abbr title="Department for Business, Innovation and Skills"&gt;BIS&lt;/abbr&gt; is removing burdens on business.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
     <id>tag:www.gov.uk,2005:NewsArticle/56434</id>
     <published>2012-12-14T10:00:37+00:00</published>
     <updated>2012-12-14T10:00:37+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/government-tackles-red-tape-head-on-with-package-of-measures"/>
     <title>Government tackles red tape head on with package of measures</title>
+    <category>News article</category>
     <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;A review of the way that appeals are handled by regulators launched today is the first stage of a new wave of bureaucracy busting measures announced by the government, Business Minister Michael Fallon confirmed today.&lt;/p&gt;
 
@@ -239,6 +234,7 @@
     <updated>2012-12-11T08:23:28+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/autumn-statement-2012"/>
     <title>Autumn Statement 2012</title>
+    <category>News article</category>
     <summary>The Chancellor of the Exchequer, George Osborne, has delivered his 2012 Autumn Statement to Parliament.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Autumn Statement is one of two major statements the Treasury has to give to parliament every year.&lt;/p&gt;
 
@@ -294,6 +290,7 @@ Public Enquiries: 0300 330 3000  &lt;/p&gt;
     <updated>2012-12-13T17:33:21+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/red-tape-challenge-retail-and-manufacturing-consultation-second-government-response"/>
     <title>Red tape challenge retail and manufacturing consultation: second government response</title>
+    <category>Publication</category>
     <summary>Second government response to the retail and manufacturing consultation.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Second government response to the &lt;a href="https://www.gov.uk/government/consultations/red-tape-challenge-retail-and-manufacturing-consultation--2"&gt;red tape challenge retail and manufacturing consultation&lt;/a&gt; covering the government’s amendment of the Pyrotechnic Articles and revocation of the Pencils and Graphic Instruments Regulations. Also summarises public responses to the consultation.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
@@ -303,7 +300,26 @@ Public Enquiries: 0300 330 3000  &lt;/p&gt;
     <updated>2012-12-11T16:31:00+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/10-point-plan-for-eu-smart-regulation"/>
     <title>10 point plan for EU smart regulation</title>
+    <category>Publication</category>
     <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Secretary of State for Business, along with Ministers from 12 other Member States, jointly signed a ‘10 point plan for EU smart regulation’. Sent to Commission President Barroso on 19 November 2012, in advance of the Commission’s forthcoming Smart Regulation Communication in December 2012. It calls on the Commission to advance the agenda on smart regulation, and to cut red tape at the EU level by reducing the overall EU regulatory burden.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:Consultation/47196</id>
+    <published>2012-11-15T00:00:00+00:00</published>
+    <updated>2012-12-11T16:30:24+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/consultations/call-for-evidence-on-the-governments-review-of-the-balance-of-competences-between-the-united-kingdom-and-the-european-union"/>
+    <title>Call for evidence on the government's review of the balance of competences between the United Kingdom and the European Union</title>
+    <category>Consultation</category>
+    <summary>This call for evidence is to help inform the government's review of the balance of competences between the EU and the UK.</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;hr&gt;&lt;p&gt;&lt;img src="http://www.bis.gov.uk/assets/biscore/corporate/images/logos/balance-of-competencies.JPG?w=200&amp;amp;h=50&amp;amp;as=1" alt="Review of the Balance of Competences"&gt;&lt;/p&gt;
+
+&lt;p&gt;The Government is carrying out a review of the balance of competences between the EU and the UK. This is an audit of what the EU does and how it affects the UK. You can read more about it on the &lt;a rel="external" href="http://www.fco.gov.uk/en/global-issues/european-union/balance-of-competences-review/"&gt;Foreign and Commonwealth Office’s web page on the balance of competences review&lt;/a&gt;. &lt;/p&gt;
+
+&lt;p&gt;We have published our first &lt;a rel="external" href="http://www.bis.gov.uk/assets/biscore/europe/docs/g/12-1278-government-review-balance-competences-united-kingdom-european-union-call.pdf"&gt;Call for Evidence on the Internal Market: Synoptic Review (PDF, 735 Kb) &lt;/a&gt;. The Synoptic report will cover the overall application and effect of the EU Internal Market. The result of the report will be a comprehensive , thorough and detailed analysis of the wider functioning of the Internal Market. It will determine how the so-called “Four Freedoms” operate together to create an efficient and operating Internal Market and ultimately what this means for the UK. We will subsequently be reviewing each of the “Four Freedoms” in turn in semesters 2 and 3.&lt;/p&gt;
+
+&lt;p&gt;Anyone wishing to contribute to the review is asked to send their written views before 28 February 2013 to &lt;a href="mailto:balanceofcompetences@bis.gsi.gov.uk"&gt;balanceofcompetences@bis.gsi.gov.uk&lt;/a&gt; or online at &lt;a rel="external" href="https://www.surveymonkey.com/s/internalmarket"&gt;https://www.surveymonkey.com/s/internalmarket&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;It is our intention to publish evidence at the end of the review when the reports are published. In the meantime, the Department for Business, Innovation and Skills plans to use section 22 to exempt FOI requests around evidence received.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
 </feed>

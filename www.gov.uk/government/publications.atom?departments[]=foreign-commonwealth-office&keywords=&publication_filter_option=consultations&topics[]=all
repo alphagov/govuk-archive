@@ -8,13 +8,15 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2011-09-27T01:00:00+01:00</updated>
+  <updated>2012-12-13T08:59:33+00:00</updated>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/7181</id>
     <published>2011-09-27T01:00:00+01:00</published>
-    <updated>2011-09-27T01:00:00+01:00</updated>
+    <updated>2012-12-13T08:59:33+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/consultations/overseas-territories-consultation"/>
     <title>Overseas Territories Consultation</title>
+    <category>Consultation</category>
+    <summary>Consultation on the future of the Overseas Territories.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Foreign Secretary made an announcement to Parliament on 14 September 2011 setting out the UK Government’s strategy towards the Overseas Territories. This focused on three policy goals:&lt;/p&gt;
 
 &lt;ol&gt;

@@ -8,7 +8,7 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-11-28T00:00:00+00:00</updated>
+  <updated>2012-12-11T16:30:59+00:00</updated>
   <entry>
     <id>tag:www.gov.uk,2005:Publication/56614</id>
     <published>2012-11-28T00:00:00+00:00</published>
@@ -16,6 +16,7 @@
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/applying-student-number-controls-to-alternative-providers-with-designated-courses-consultation"/>
     <title>Applying student number controls to alternative providers with designated courses: consultation</title>
     <category>Publication</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Respond by 23 January 2013. Consultation seeking views from higher education providers on controlling student numbers where they have courses designated for student support purposes. It aims to provide an overview of the new system for alternative providers that wish their students to be able to access student support from the Student Loans Company, to seek responses to specific proposals on student number controls, and to invite views on aspects of how this will operate in practice.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
@@ -25,6 +26,7 @@
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/applying-student-number-controls-to-alternative-providers-with-designated-courses-consultation-response-form"/>
     <title>Applying student number controls to alternative providers with designated courses. [Consultation] response form</title>
     <category>Publication</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Respond by 23 January 2013. Template for responses to consultation on controlling student numbers where they have courses designated for student support purposes (URN 12/1292).&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
@@ -34,6 +36,7 @@
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/consultations/applying-student-number-controls-to-alternative-providers-with-designated-courses"/>
     <title>Applying student number controls to alternative providers with designated courses</title>
     <category>Consultation</category>
+    <summary>Consultation on the process of applying student number controls to alternative providers with designated courses.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;hr&gt;&lt;p&gt;This consultation aims to: &lt;/p&gt;
 
 &lt;ul&gt;
@@ -60,6 +63,7 @@
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/tracking-the-decision-making-of-high-achieving-higher-education-applicants"/>
     <title>Tracking the decision-making of high achieving higher education applicants</title>
     <category>Publication</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;BIS research paper no. 86. Presents findings from research into the decision-making process of high achieving A level students. Analyses the attributes of high achieving applicants to higher education (HE) in comparison to the attributes of the wider applicant population. Examines the factors that contribute to the decision-making process of high achievers, and uses these to frame the admissions experiences of those who applied to the most selective HE and those who did not.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
@@ -69,6 +73,7 @@
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/guidance-on-the-process-and-criteria-for-assessing-student-numbers-and-good-governance-for-non-hefce-funded-organisations-wishing-to-apply-for-the-title-of-university-and-university-college"/>
     <title>Guidance on the process and criteria for assessing student numbers and good governance for non-HEFCE funded organisations wishing to apply for the title of university and university college</title>
     <category>Publication</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Explains how to apply for university and university college title, and the required report(s) on student numbers and/or good governance as part of a self-certification process. Intended for non-Higher Education Funding Council for England (HEFCE) funded institutions.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
@@ -77,7 +82,8 @@
     <updated>2012-12-11T16:30:18+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/new-website-helping-students-pick-the-right-university-courses"/>
     <title>New website helping students pick the right university courses</title>
-    <category>News Article</category>
+    <category>News article</category>
+    <summary>Comparison website Unistats will provide students applying to university with the information they need to help them decide what and where to study.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;27 Sep 2012&lt;/p&gt;
 
 &lt;hr&gt;&lt;hr&gt;&lt;p&gt;Business Secretary Vince Cable has launched the &lt;a rel="external" href="http://unistats.direct.gov.uk/"&gt;Unistats website&lt;/a&gt;, which provides comparison information on over 31,000 university and college courses in the UK. &lt;/p&gt;
@@ -118,7 +124,8 @@
     <updated>2012-12-11T16:30:28+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/speeches/uuk-conference-a-world-without-boundaries"/>
     <title>UUK conference: "A world without boundaries"</title>
-    <category>Speech</category>
+    <category>Statement to parliament</category>
+    <summary>David Willetts sets out the future for UK higher education and what the government is doing to improve access, funding and collaboration.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;It’s great to join you all at Keele as our hosts celebrate their 50th anniversary. Recalling the creation of universities back in the 1960s reminds us of an optimistic sector in one of its most ambitious periods. Today, even during this era of inevitable austerity, I believe that we can still be ambitious and optimistic. &lt;/p&gt;
 
 &lt;h2 id="the-place-of-he-in-the-nation"&gt;The place of HE in the nation&lt;/h2&gt;
@@ -249,7 +256,8 @@
     <updated>2012-12-11T16:30:15+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/london-metropolitan-universitys-licence-revoked"/>
     <title>London Metropolitan University's licence revoked</title>
-    <category>News Article</category>
+    <category>News article</category>
+    <summary>David Willetts announces new taskforce to help students following the University's licence to sponsor overseas students was withdrawn.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;30 Aug 2012&lt;/p&gt;
 
 &lt;hr&gt;&lt;hr&gt;&lt;p&gt;On 29 August 2012, the Tier 4 sponsor licence of &lt;a rel="external" href="http://www.ukba.homeoffice.gov.uk/sitecontent/newsarticles/2012/august/28-LMU-revoked1"&gt;London Metropolitan University (London Met) was revoked&lt;/a&gt; due to non-compliance with its sponsorship duties. &lt;/p&gt;
@@ -291,6 +299,7 @@
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/purpose-of-the-simplified-student-loan-repayment-model-beta-version-august-2012"/>
     <title>Purpose of the simplified student loan repayment model (beta version, August 2012)</title>
     <category>Publication</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Guide that explains how the simplified student loan repayment model (URN 12/1133) works. Also covers the principles it uses to arrive at an estimate for the long-term cost of student loans issued from 2012.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
@@ -300,6 +309,7 @@
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/simplified-student-loan-repayment-model"/>
     <title>Simplified student loan repayment model</title>
     <category>Publication</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Spreadsheet model to show the calculation of repayments of student loans for graduates with different lifetime income profiles. See also the explanatory note (URN 12/1126).&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
 </feed>

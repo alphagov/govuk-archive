@@ -8,13 +8,15 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-09-27T01:00:00+01:00</updated>
+  <updated>2012-12-11T16:30:18+00:00</updated>
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/47138</id>
     <published>2012-09-27T01:00:00+01:00</published>
-    <updated>2012-09-27T01:00:00+01:00</updated>
+    <updated>2012-12-11T16:30:18+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/new-website-helping-students-pick-the-right-university-courses"/>
     <title>New website helping students pick the right university courses</title>
+    <category>News article</category>
+    <summary>Comparison website Unistats will provide students applying to university with the information they need to help them decide what and where to study.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;27 Sep 2012&lt;/p&gt;
 
 &lt;hr&gt;&lt;hr&gt;&lt;p&gt;Business Secretary Vince Cable has launched the &lt;a rel="external" href="http://unistats.direct.gov.uk/"&gt;Unistats website&lt;/a&gt;, which provides comparison information on over 31,000 university and college courses in the UK. &lt;/p&gt;
@@ -51,10 +53,12 @@
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/55454</id>
-    <published>2012-09-13T00:00:00+01:00</published>
-    <updated>2012-09-13T00:00:00+01:00</updated>
+    <published>2012-09-13T01:00:00+01:00</published>
+    <updated>2012-12-11T16:30:28+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/speeches/uuk-conference-a-world-without-boundaries"/>
     <title>UUK conference: "A world without boundaries"</title>
+    <category>Statement to parliament</category>
+    <summary>David Willetts sets out the future for UK higher education and what the government is doing to improve access, funding and collaboration.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;It’s great to join you all at Keele as our hosts celebrate their 50th anniversary. Recalling the creation of universities back in the 1960s reminds us of an optimistic sector in one of its most ambitious periods. Today, even during this era of inevitable austerity, I believe that we can still be ambitious and optimistic. &lt;/p&gt;
 
 &lt;h2 id="the-place-of-he-in-the-nation"&gt;The place of HE in the nation&lt;/h2&gt;
@@ -182,9 +186,11 @@
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/47126</id>
     <published>2012-08-30T01:00:00+01:00</published>
-    <updated>2012-08-30T01:00:00+01:00</updated>
+    <updated>2012-12-11T16:30:15+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/london-metropolitan-universitys-licence-revoked"/>
     <title>London Metropolitan University's licence revoked</title>
+    <category>News article</category>
+    <summary>David Willetts announces new taskforce to help students following the University's licence to sponsor overseas students was withdrawn.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;30 Aug 2012&lt;/p&gt;
 
 &lt;hr&gt;&lt;hr&gt;&lt;p&gt;On 29 August 2012, the Tier 4 sponsor licence of &lt;a rel="external" href="http://www.ukba.homeoffice.gov.uk/sitecontent/newsarticles/2012/august/28-LMU-revoked1"&gt;London Metropolitan University (London Met) was revoked&lt;/a&gt; due to non-compliance with its sponsorship duties. &lt;/p&gt;
@@ -222,9 +228,11 @@
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/47107</id>
     <published>2012-07-02T01:00:00+01:00</published>
-    <updated>2012-07-02T01:00:00+01:00</updated>
+    <updated>2012-12-11T16:30:13+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/inspiring-the-future-launches"/>
     <title>Inspiring the Future launches</title>
+    <category>News article</category>
+    <summary>A new scheme to send  volunteers into state schools to give inspirational talks about their careers launches today.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;2 Jul 2012&lt;/p&gt;
 
 &lt;hr&gt;&lt;hr&gt;&lt;p&gt;A new scheme to send an army of volunteers into state schools to give inspirational talks about their careers has been launched by Deputy Prime Minister Nick Clegg today.   &lt;/p&gt;
@@ -244,9 +252,11 @@
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/47103</id>
     <published>2012-06-26T01:00:00+01:00</published>
-    <updated>2012-06-26T01:00:00+01:00</updated>
+    <updated>2012-12-11T16:30:12+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/england-to-be-best-in-world-for-university-business-collaboration"/>
     <title>England to be best in world for university business collaboration</title>
+    <category>News article</category>
+    <summary>David Willetts Minister for Universities and Science sets out plans to meet the challenge of making England the best place in the world for business-university collaboration.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;26 Jun 2012&lt;/p&gt;
 
 &lt;hr&gt;&lt;hr&gt;&lt;p&gt;In response to the review of university-business collaboration by Professor Tim Wilson, David Willetts has announced new plans to strengthen that collaboration.  This will include improvements to the regime for sandwich courses, promotion of a new framework for business and universities to work together, and ensuring a better fit between graduates and jobs. &lt;/p&gt;
@@ -270,9 +280,11 @@
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/47105</id>
     <published>2012-06-11T01:00:00+01:00</published>
-    <updated>2012-06-11T01:00:00+01:00</updated>
+    <updated>2012-12-11T16:30:12+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/reforms-to-higher-education-sector-announced"/>
     <title>Reforms to Higher Education sector announced</title>
+    <category>News article</category>
+    <summary>The response to the Higher Education White Paper is published today.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;11 Jun 2012&lt;/p&gt;
 
 &lt;hr&gt;&lt;hr&gt;&lt;p&gt;Plans to put students at the heart of the system were announced by Ministers today, as they set out their response to the Higher Education White Paper.&lt;/p&gt;
@@ -291,10 +303,12 @@
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/18638</id>
-    <published>2012-04-18T00:00:00+01:00</published>
-    <updated>2012-04-18T00:00:00+01:00</updated>
+    <published>2012-04-18T01:00:00+01:00</published>
+    <updated>2012-12-11T16:26:14+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/speeches/hefce-annual-conference-2012"/>
     <title>HEFCE annual conference 2012</title>
+    <category>Statement to parliament</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;I’m delighted that HEFCE has chosen this wonderful venue for its annual conference. This great college has trained, amongst others, Gustav Holst, Ralph Vaughan Williams, Benjamin Britten, Joan Sutherland, and - rather more recently - Gareth Malone of The Choir. Today, students from more than 50 countries have passed the sternest test of musicianship in order to develop their exceptional talents here. &lt;/p&gt;
 
 &lt;p&gt;We are very fortunate that our higher education system includes specialist institutions like this one. And the conservatoire is a fascinating type of educational institution, with training at its heart. It is a good example of what we mean when we talk about the diversity of our higher education system. Diversity of mission, diversity of pursuit are among our greatest strengths, and this Government will do all it can to protect both. &lt;/p&gt;
@@ -380,9 +394,11 @@
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/18340</id>
     <published>2012-01-25T00:00:00+00:00</published>
-    <updated>2012-01-25T00:00:00+00:00</updated>
+    <updated>2012-12-11T16:25:33+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/university-funding-confirmed-for-2012-13--2"/>
     <title>University funding confirmed for 2012-13</title>
+    <category>News article</category>
+    <summary>The Government has published its annual grant letter to the Higher Education Funding Council for England (HEFCE).</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The letter sets out the priorities &lt;a rel="external" href="http://www.hefce.ac.uk/"&gt;HEFCE&lt;/a&gt; should have regard to when distributing funding to institutions and the efficiencies the government is asking the sector to make. It covers 2012-13, the first academic year of the new higher education funding arrangements.&lt;/p&gt;
 
 &lt;p&gt;&lt;a rel="external" href="http://www.bis.gov.uk/assets/biscore/higher-education/docs/L/letter-he-funding-25-jan-2012"&gt;Download the letter&lt;/a&gt;   &lt;/p&gt;
@@ -411,9 +427,11 @@
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/18323</id>
     <published>2011-11-03T00:00:00+00:00</published>
-    <updated>2011-11-03T00:00:00+00:00</updated>
+    <updated>2012-12-11T16:25:30+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/uk-and-china-embark-on-education-partnership--2"/>
     <title>UK and China embark on education partnership</title>
+    <category>News article</category>
+    <summary>The UK and China have agreed an action plan to strengthen their relationship on education cooperation.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;David Willetts and John Hayes along with Michael Gove and Chinese Minister for Education Yuan Guiren took part in the 6th UK-China Education Summit in London on Thursday 27 October. &lt;/p&gt;
 
 &lt;p&gt;Ahead of the summit David Willetts and Yuan Guiren opened a higher education roundtable involving 19 UK Vice Chancellors and 12 Chinese University Presidents. The three themes for the roundtable were: &lt;/p&gt;
@@ -441,10 +459,12 @@
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/18612</id>
-    <published>2011-09-08T00:00:00+01:00</published>
-    <updated>2011-09-08T00:00:00+01:00</updated>
+    <published>2011-09-08T01:00:00+01:00</published>
+    <updated>2012-12-11T16:26:07+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/speeches/universities-uk-annual-conference--2"/>
     <title>Universities UK Annual Conference</title>
+    <category>Statement to parliament</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Good morning - and thank you, Eric Thomas, for that introduction.   &lt;/p&gt;
 
 &lt;p&gt;I’d like to wish you every success in your new role - and to record my thanks to your predecessor, Steve Smith, who unfailingly offered good advice while representing the interests of a diverse sector. I know David Willetts would also want to record his appreciation. UUK will certainly remain the pre-eminent voice for universities as we begin to implement the big changes to our higher education system.   &lt;/p&gt;
@@ -533,9 +553,11 @@ also because this time last year, Lord Browne had yet to issue his report on HE 
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/18290</id>
     <published>2011-08-10T01:00:00+01:00</published>
-    <updated>2011-08-10T01:00:00+01:00</updated>
+    <updated>2012-12-11T16:25:24+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/widening-participation-statistics-released"/>
     <title>Widening participation statistics released</title>
+    <category>News article</category>
+    <summary>New statistical release from ONS</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;&lt;a rel="external" href="http://www.bis.gov.uk//analysis/statistics/higher-education/official-statistics-releases/widening-participation-in-higher-education/analysis-of-progression-rates-for-young-people-in-england-by-free-school-meal-receipt"&gt;Widening Participation in Higher Education: Analysis of progression rates for young people in England by free school meal receipt and school type&lt;/a&gt; &lt;/p&gt;
 
 &lt;p&gt;New statistics show that a greater proportion of students receiving free school meal went on to university between 2005/06 and 2008/09. &lt;/p&gt;
@@ -557,9 +579,11 @@ also because this time last year, Lord Browne had yet to issue his report on HE 
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/18284</id>
     <published>2011-08-04T01:00:00+01:00</published>
-    <updated>2011-08-04T01:00:00+01:00</updated>
+    <updated>2012-12-11T16:25:23+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/next-stage-of-the-he-consultation-opens"/>
     <title>Next stage of the HE consultation opens</title>
+    <category>News article</category>
+    <summary>New consultation on details of the regulatory system for the future of higher education now open.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;BIS has launched a consultation on details of the regulatory system for the future of higher education today, following publication of the higher education white paper.  &lt;/p&gt;
 
 &lt;p&gt;The recent White Paper Higher Education: Students at the Heart of the System (June 2011) set out a commitment to introduce a new, fit-for-purpose regulatory framework to establish the Higher Education Funding Council for England (HEFCE) as lead regulator. &lt;/p&gt;
@@ -571,9 +595,11 @@ also because this time last year, Lord Browne had yet to issue his report on HE 
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/18275</id>
     <published>2011-07-12T01:00:00+01:00</published>
-    <updated>2011-07-12T01:00:00+01:00</updated>
+    <updated>2012-12-11T16:25:22+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/access-agreements-for-universities"/>
     <title>Access agreements for universities</title>
+    <category>News article</category>
+    <summary>Final details of the fees universities will charge next year are released today by the Office for Fair Access.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Office for Fair Access (OFFA) has today announced it has approved 2012-13 Access Agreements for 139 institutions - 123 higher education institutions and 16 further education colleges.&lt;/p&gt;
 
 &lt;p&gt;It also announced that English universities and colleges charging above £6,000 for their courses plan to boost their spending on access measures to £602 million a year by 2015-16, up from £407 million in 2011-12. &lt;/p&gt;
@@ -609,9 +635,11 @@ also because this time last year, Lord Browne had yet to issue his report on HE 
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/18259</id>
     <published>2011-06-28T01:00:00+01:00</published>
-    <updated>2011-06-28T01:00:00+01:00</updated>
+    <updated>2012-12-11T16:25:19+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/putting-students-at-the-heart-of-higher-education"/>
     <title>Putting students at the heart of higher education</title>
+    <category>News article</category>
+    <summary>Government releases a Higher Education White Paper - Students at the Heart of the System.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;In future, graduates will pay more towards the cost of their degrees, but - in return - the Government’s proposals will improve their experience as students, expand their choices and make universities more accountable to students than ever before.&lt;/p&gt;
 
 &lt;p&gt;The proposals contained in ‘Students at the Heart of the System’ cover four broad areas: reforming funding; delivering a better student experience; enabling universities to increase social mobility; and reducing regulation and removing barriers for new providers.&lt;/p&gt;
@@ -655,9 +683,11 @@ also because this time last year, Lord Browne had yet to issue his report on HE 
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/18265</id>
     <published>2011-06-17T01:00:00+01:00</published>
-    <updated>2011-06-17T01:00:00+01:00</updated>
+    <updated>2012-12-11T16:25:20+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/new-student-finance-taskforce-launched"/>
     <title>New student finance taskforce launched</title>
+    <category>News article</category>
+    <summary>David Willetts backs the new taskforce on student finance, headed by Martin Lewis of MoneySavingExpert.com and former NUS President Wes Streeting.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;&lt;a rel="external" href="http://www.moneysavingexpert.com/news/loans/2011/06/martin-lewis-to-head-student-finance-taskforce-"&gt;The independent taskforce&lt;/a&gt; will work to combat the myths around the changes to English student finance in 2012 and will seek to reassure potential students about what they can expect when applying for university and beyond. &lt;/p&gt;
 
 &lt;p&gt;It is to be independent of government and set its own agenda - membership is of university, student groups, experts and others. &lt;/p&gt;
@@ -703,9 +733,11 @@ also because this time last year, Lord Browne had yet to issue his report on HE 
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/18258</id>
     <published>2011-06-09T01:00:00+01:00</published>
-    <updated>2011-06-09T01:00:00+01:00</updated>
+    <updated>2012-12-11T16:25:19+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/government-launches-next-phase-of-growth-review"/>
     <title>Government launches next phase of Growth Review</title>
+    <category>News article</category>
+    <summary>Skills, the rural economy and medium sized businesses will be the focus as the Government concentrates on restoring the economy.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Building on the radical programme of reforms set out in the first Plan for Growth, published at the Budget, the next stage of the review will focus on:&lt;/p&gt;
 
 &lt;ul&gt;
@@ -760,9 +792,11 @@ also because this time last year, Lord Browne had yet to issue his report on HE 
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/18260</id>
     <published>2011-06-07T01:00:00+01:00</published>
-    <updated>2011-06-07T01:00:00+01:00</updated>
+    <updated>2012-12-11T16:25:19+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/the-benefits-of-higher-education"/>
     <title>The benefits of higher education</title>
+    <category>News article</category>
+    <summary>Find out the latest information and advice on student finance, university fees and tuition fees.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;&lt;img src="http://www.bis.gov.uk//assets/biscore/corporate/images/h/myfh%20banner%20500.jpg?w=500&amp;amp;h=128&amp;amp;as=1" alt="Make your future happen"&gt;&lt;/p&gt;
 
 &lt;p&gt;Are you looking to go to university in 2012, or a parent of a potential student, and want to find out the details on how the tuition loan system will operate and how to get a student loan?&lt;/p&gt;
@@ -793,9 +827,11 @@ also because this time last year, Lord Browne had yet to issue his report on HE 
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/18254</id>
     <published>2011-05-09T01:00:00+01:00</published>
-    <updated>2011-05-09T01:00:00+01:00</updated>
+    <updated>2012-12-11T16:25:18+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/make-your-future-happen"/>
     <title>Make your future happen</title>
+    <category>News article</category>
+    <summary>A new campaign for prospective students and their parents about changes to the student finance system in 2012 is launched today.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The press, radio, media partnership and social media campaign links students and parents to a new &lt;a rel="external" href="http://yourfuture.direct.gov.uk/"&gt;dedicated website for future students.&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;It describes how the tuition loan system will operate, how to get a student loan, help with living costs and what support is available from government. &lt;/p&gt;
@@ -821,9 +857,11 @@ also because this time last year, Lord Browne had yet to issue his report on HE 
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/18237</id>
     <published>2011-04-06T01:00:00+01:00</published>
-    <updated>2011-04-06T01:00:00+01:00</updated>
+    <updated>2012-12-11T16:25:15+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/reforming-higher-education"/>
     <title>Reforming higher education</title>
+    <category>News article</category>
+    <summary>Vince Cable addresses the HEFCE conference on the need for universities to provide students with value for money.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Business Secretary Vince Cable &lt;a rel="external" href="http://www.bis.gov.uk//news/speeches/vince-cable-hefce-conference-2011"&gt;today spoke to the Higher Education Funding Council &lt;/a&gt;(HEFCE) Annual Conference.&lt;/p&gt;
 
 &lt;p&gt;He discussed some of the challenges ahead of the incoming funding system and of making higher education more responsive to students.   &lt;/p&gt;
@@ -860,10 +898,12 @@ also because this time last year, Lord Browne had yet to issue his report on HE 
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/18586</id>
-    <published>2011-03-31T00:00:00+01:00</published>
-    <updated>2011-03-31T00:00:00+01:00</updated>
+    <published>2011-03-31T01:00:00+01:00</published>
+    <updated>2012-12-11T16:26:01+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/speeches/he-in-fe-conference"/>
     <title>HE in FE Conference</title>
+    <category>Statement to parliament</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;It is great to be back at an AoC conference. I got to know the AoC and many FE colleges very well during the long years of opposition. It is good to be back with you in Government. &lt;br&gt;
 Vince Cable, John Hayes and I all recognise that AoC members have achieved too much in recent times: adapting provision to support communities through the recession; listening carefully to employers’ specific needs; being professional and relentless in your drive to improve people’s prospects - which, as we know, improves their health and makes them better parents and citizens. &lt;/p&gt;
 

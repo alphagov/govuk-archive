@@ -8,13 +8,15 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-12-14T17:47:00+00:00</updated>
+  <updated>2012-12-14T17:47:04+00:00</updated>
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/60131</id>
     <published>2012-12-14T17:47:00+00:00</published>
-    <updated>2012-12-14T17:47:00+00:00</updated>
+    <updated>2012-12-14T17:47:04+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/small-businesses-to-benefit-from-1-1-million-innovation-boost"/>
     <title>Small businesses to benefit from £1.1 million innovation boost</title>
+    <category>News article</category>
+    <summary>New Innovation Vouchers for businesses who want to use public open data to develop new ideas, improve processes and target new markets.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Innovation is vital for business growth. The aim is simple – to accelerate economic growth by stimulating and supporting business-led innovation.&lt;/p&gt;
 
 &lt;p&gt;A £2 million fund has been created for the Innovation Vouchers scheme, running over the next 3 years. The vouchers provide £5000 for a UK start-up, micro, small or medium-sized businesses to work with external experts and gain new knowledge to help their business.&lt;/p&gt;
@@ -63,9 +65,11 @@
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/59910</id>
     <published>2012-12-14T16:45:00+00:00</published>
-    <updated>2012-12-14T16:45:00+00:00</updated>
+    <updated>2012-12-14T16:45:41+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/support-for-innovation-workshop"/>
     <title>Support for Innovation Workshop</title>
+    <category>News article</category>
+    <summary>A series of one day workshops about government support for business R&amp;D and innovation.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;A series of one day workshops about government support for business &lt;abbr title="research and development"&gt;R&amp;amp;D&lt;/abbr&gt; and innovation are being organised over the next few months for small and medium sized enterprises and their professional advisers.&lt;/p&gt;
 
 &lt;p&gt;Areas covered include:&lt;/p&gt;
@@ -238,9 +242,11 @@ This workshop is being organised by BIS and &lt;abbr title="HM Revenue &amp;amp;
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/47148</id>
     <published>2012-11-08T00:00:00+00:00</published>
-    <updated>2012-11-08T00:00:00+00:00</updated>
+    <updated>2012-12-11T16:30:20+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/vince-cable-promotes-uk-advanced-manufacturing"/>
     <title>Vince Cable promotes UK advanced manufacturing</title>
+    <category>News article</category>
+    <summary>On 5 November Vince Cable officially opened MIRA Technology Park's new control centre. He also visited Toyota in Burnaston to celebrate the first new Auris model to roll off the production line.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;8 Nov 2012&lt;/p&gt;
 
 &lt;hr&gt;&lt;hr&gt;&lt;h2 id="mira-technology-park"&gt;MIRA Technology Park&lt;/h2&gt;
@@ -294,9 +300,11 @@ This workshop is being organised by BIS and &lt;abbr title="HM Revenue &amp;amp;
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/47153</id>
     <published>2012-11-01T00:00:00+00:00</published>
-    <updated>2012-11-01T00:00:00+00:00</updated>
+    <updated>2012-12-11T16:30:20+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/1-billion-investment-for-uk-science-and-research"/>
     <title>£1 billion investment for UK Science and Research</title>
+    <category>News article</category>
+    <summary>Seven new university and business research partnerships in sectors including life sciences, energy efficiency and advanced manufacturing were announced today by David Willetts, Minister for Universities and Science.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;1 Nov 2012&lt;/p&gt;
 
 &lt;hr&gt;&lt;hr&gt;&lt;p&gt;The cash boost comes from the UK Research Partnership Investment Fund (UK RPIF), which will deliver over £1 billion to support the development of new facilities and projects in areas including life sciences, energy and advanced manufacturing. The projects announced today are:   &lt;/p&gt;
@@ -339,10 +347,12 @@ This workshop is being organised by BIS and &lt;abbr title="HM Revenue &amp;amp;
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/47565</id>
-    <published>2012-07-12T00:00:00+01:00</published>
-    <updated>2012-07-12T00:00:00+01:00</updated>
+    <published>2012-07-12T01:00:00+01:00</published>
+    <updated>2012-12-11T16:30:27+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/speeches/vince-cable-delivers-speech-on-uk-science-openness-and-internationalisation"/>
     <title>Vince Cable delivers speech on UK science, openness and internationalisation</title>
+    <category>Statement to parliament</category>
+    <summary>Vince Cable explains why it's good for growth for scientists to operate in a range of countries.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Good evening. &lt;/p&gt;
 
 &lt;p&gt;This is the second time I’ve had the opportunity as Secretary of State to talk about science to a distinguished scientific audience. The first time I spoke as a boring economist and argued that resources were finite, which earned me a sharp rebuke from Brian Cox the next day. But I think we reached a reasonable place on financial resources for science, given the budget difficulties facing the Government. &lt;/p&gt;
@@ -429,10 +439,12 @@ This workshop is being organised by BIS and &lt;abbr title="HM Revenue &amp;amp;
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/55452</id>
-    <published>2012-07-10T00:00:00+01:00</published>
-    <updated>2012-07-10T00:00:00+01:00</updated>
+    <published>2012-07-10T01:00:00+01:00</published>
+    <updated>2012-12-11T16:30:26+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/speeches/space-a-new-direction"/>
     <title>Space - A new direction</title>
+    <category>Statement to parliament</category>
+    <summary>David Willetts celebrates 50 years of the UK and the space industry and highlights the progress made since the launch of the Space Leadership Council.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Good morning, everyone - and let me add a personal welcome to our distinguished guests today: Francesco Profumo, Enrico Saggesse, Vladimir Popovkin and of course Jean Jacques Dordain. &lt;/p&gt;
 
 &lt;p&gt;I’m delighted to be back at Farnborough as we celebrate 50 years of the UK in space. It was back in 1962 that the UKs first satellite, Ariel 1 was launched third after the USA and the then USSR. It was the start of a major home-grown industry and a true British success story. And I was delighted that, 50 years to the day, on April 26th 2012, the UK signed a £300 million contract to build the Solar Orbiter - a pioneering project to better understand how the Sun affects the Earth. It was the largest single contract placed by ESA with the UK space industry in two decades, and a great way to mark a half century of scientific and technological advancement. &lt;/p&gt;
@@ -481,9 +493,11 @@ This workshop is being organised by BIS and &lt;abbr title="HM Revenue &amp;amp;
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/47103</id>
     <published>2012-06-26T01:00:00+01:00</published>
-    <updated>2012-06-26T01:00:00+01:00</updated>
+    <updated>2012-12-11T16:30:12+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/england-to-be-best-in-world-for-university-business-collaboration"/>
     <title>England to be best in world for university business collaboration</title>
+    <category>News article</category>
+    <summary>David Willetts Minister for Universities and Science sets out plans to meet the challenge of making England the best place in the world for business-university collaboration.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;26 Jun 2012&lt;/p&gt;
 
 &lt;hr&gt;&lt;hr&gt;&lt;p&gt;In response to the review of university-business collaboration by Professor Tim Wilson, David Willetts has announced new plans to strengthen that collaboration.  This will include improvements to the regime for sandwich courses, promotion of a new framework for business and universities to work together, and ensuring a better fit between graduates and jobs. &lt;/p&gt;
@@ -506,10 +520,12 @@ This workshop is being organised by BIS and &lt;abbr title="HM Revenue &amp;amp;
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/18640</id>
-    <published>2012-05-02T00:00:00+01:00</published>
-    <updated>2012-05-02T00:00:00+01:00</updated>
+    <published>2012-05-02T01:00:00+01:00</published>
+    <updated>2012-12-11T16:26:14+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/speeches/public-access-to-publicly-funded-research"/>
     <title>Public access to publicly-funded research</title>
+    <category>Statement to parliament</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;I am very grateful for this opportunity to set out the Government’s approach to accessing and publishing research findings.&lt;/p&gt;
 
 &lt;p&gt;We are very fortunate to have such outstanding science and research capacity in this country. It is second in its range and volume only to the US. When it comes to the output generated from the funding that goes in, it is quite simply the most productive in the world. And no other country produces such a high proportion of work that is excellent. The recent review by Reed Elsevier, amongst others, provides the rigorous evidence behind these statements. With 1% of the world’s population and 4% of its researchers, we produce 6% of the world’s academic articles and 14% of those which are most highly cited. There are about 1.7 million academic articles published around the world, of which about 120,000 come from UK research. Thanks to the quality and success of our publishing industry, meanwhile, 400,000 of the world’s academic papers are published in the UK. If the rest of Britain performed like our research and publishing community, we would have rather fewer economic problems to tackle.&lt;/p&gt;
@@ -572,10 +588,12 @@ This workshop is being organised by BIS and &lt;abbr title="HM Revenue &amp;amp;
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/18637</id>
-    <published>2012-03-26T00:00:00+01:00</published>
-    <updated>2012-03-26T00:00:00+01:00</updated>
+    <published>2012-03-26T01:00:00+01:00</published>
+    <updated>2012-12-11T16:26:14+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/speeches/massachusetts-innovation-economies-conference"/>
     <title>Massachusetts Innovation Economies Conference</title>
+    <category>Statement to parliament</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="introduction"&gt;Introduction&lt;/h2&gt;
 
 &lt;p&gt;Good morning. May I start by thanking Governor Patrick, and Media Lab’s director, Joi Ito for hosting today’s event. &lt;/p&gt;
@@ -663,9 +681,11 @@ This workshop is being organised by BIS and &lt;abbr title="HM Revenue &amp;amp;
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/18360</id>
     <published>2012-03-09T00:00:00+00:00</published>
-    <updated>2012-03-09T00:00:00+00:00</updated>
+    <updated>2012-12-11T16:25:36+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/national-science-and-engineering-week-2012"/>
     <title>National Science and Engineering Week 2012</title>
+    <category>News article</category>
+    <summary>Vince Cable launches National Science and Engineering Week in Newcastle.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Today sees the launch of &lt;a rel="external" href="http://www.britishscienceassociation.org/web/nsew/"&gt;National Science and Engineering Week, &lt;/a&gt;a chance for the public to see science, technology and engineering up close at over 1000 events across the UK between 9 and 18 March. &lt;/p&gt;
 
 &lt;p&gt;Vince Cable kicked off the week during a visit to Newcastle’s Centre for Life to launch &lt;a rel="external" href="http://www.newcastlesciencefest.com/"&gt;Newcastle Science Fest &lt;/a&gt;2012. &lt;/p&gt;
@@ -690,9 +710,11 @@ This workshop is being organised by BIS and &lt;abbr title="HM Revenue &amp;amp;
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/18633</id>
     <published>2012-03-08T00:00:00+00:00</published>
-    <updated>2012-03-08T00:00:00+00:00</updated>
+    <updated>2012-12-11T16:26:13+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/speeches/science-and-the-city--2"/>
     <title>Science and the City</title>
+    <category>Statement to parliament</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;It’s great to be here to celebrate the launch of WillPLACE. For me, it’s a welcome opportunity to recognise one of Britain’s great business success stories: insurance. It also provides a chance for me to carry forward the case for high-tech growth that I initially set out in a speech a couple of months ago.   &lt;/p&gt;
 
 &lt;p&gt;Today represents an exciting investment by Willis - an important broker in the insurance sector. The comments made by your CEO Joe Plumeri in a speech last month - about the role of the insurance industry in supporting commercial sustainability, its resilience through recent times and its reliance on knowledge and expertise - frame much of what I have to say this evening.   &lt;/p&gt;
@@ -792,9 +814,11 @@ This workshop is being organised by BIS and &lt;abbr title="HM Revenue &amp;amp;
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/18362</id>
     <published>2012-03-02T00:00:00+00:00</published>
-    <updated>2012-03-02T00:00:00+00:00</updated>
+    <updated>2012-12-11T16:25:36+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/the-science-of-antarctica"/>
     <title>The science of Antarctica</title>
+    <category>News article</category>
+    <summary>Universities and Science Minister David Willetts saw how British scientists are contributing to the truly international effort to help adapt to climate change when he visited the British Antarctic Survey's base at Rothera in Antarctica.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This visit was a unique opportunity for the Minister to see for himself how British scientists are contributing to the truly international effort to help adapt to climate change, and to see its impacts first hand. &lt;/p&gt;
 
 &lt;p&gt;100 years after Scott’s return from the South Pole, British scientists remain part of a unique global laboratory for science, with the British Antarctic Survey delivering a £40 million per year world class science programme. &lt;/p&gt;
@@ -808,9 +832,11 @@ This workshop is being organised by BIS and &lt;abbr title="HM Revenue &amp;amp;
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/18336</id>
     <published>2012-01-18T00:00:00+00:00</published>
-    <updated>2012-01-18T00:00:00+00:00</updated>
+    <updated>2012-12-11T16:25:32+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/hydrogen-fuels-lower-emissions"/>
     <title>Hydrogen fuels lower emissions</title>
+    <category>News article</category>
+    <summary>Government and industry launch a new project to ensure UK is well positioned for the future rollout of cleaner cars.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Business Minister Mark Prisk has launched a new ground-breaking programme, UKH2Mobility, to position the UK for the commercial rollout of Hydrogen fuel cell vehicles.   &lt;/p&gt;
 
 &lt;p&gt;UKH2Mobility is a partnership of Government and industry. A broad mix of industrial sectors is involved, including:&lt;/p&gt;
@@ -841,9 +867,11 @@ This workshop is being organised by BIS and &lt;abbr title="HM Revenue &amp;amp;
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/18339</id>
     <published>2012-01-04T00:00:00+00:00</published>
-    <updated>2012-01-04T00:00:00+00:00</updated>
+    <updated>2012-12-11T16:25:32+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/our-high-tech-future"/>
     <title>Our high tech future</title>
+    <category>News article</category>
+    <summary>David Willetts has today set out an ambition to make Britain the best place in the world to do science.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;In a speech at Policy Exchange, Universities and Science Minister David Willetts argued that that our greatest national assets - our universities, our science facilities and researchers - are the best single hope for making our way in the high-tech world of the future, creating jobs and opportunities and boosting high tech economic growth. &lt;br&gt;
 David Willetts said:&lt;/p&gt;
 
@@ -871,9 +899,11 @@ David Willetts said:&lt;/p&gt;
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/18626</id>
     <published>2012-01-04T00:00:00+00:00</published>
-    <updated>2012-01-04T00:00:00+00:00</updated>
+    <updated>2012-12-11T16:26:11+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/speeches/our-hi-tech-future--2"/>
     <title>Our Hi-Tech Future</title>
+    <category>Statement to parliament</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="economic-growth"&gt;Economic Growth&lt;/h2&gt;
 
 &lt;p&gt;Growth is the Coalition’s highest priority for 2012. It is going to be a year of serious economic challenges. We are better prepared for them than most because we took tough decisions on the deficit early on. We have set out our plans for getting a grip on public spending and we are sticking to them. That will enable us to bring down the enormous deficit we inherited.&lt;/p&gt;
@@ -1045,9 +1075,11 @@ David Willetts said:&lt;/p&gt;
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/18328</id>
     <published>2011-12-08T00:00:00+00:00</published>
-    <updated>2011-12-08T00:00:00+00:00</updated>
+    <updated>2012-12-11T16:25:31+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/multi-million-package-announced-to-boost-innovation-and-research-in-the-uk"/>
     <title>Multi million package announced to boost innovation and research in the UK</title>
+    <category>News article</category>
+    <summary>A £75 million boost for high tech small and medium sized businesses is part of a package of measures announced today in the Government's new Innovation and Research Strategy for Growth.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;&lt;a rel="external" href="http://www.bis.gov.uk//assets/biscore/innovation/docs/i/11-1387-innovation-and-research-strategy-for-growth.pdf"&gt;Innovation and Research Strategy for Growth (PDF, 1.1 Mb) &lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;The strategy, launched by Business Secretary Vince Cable and Minister for Universities and Science David Willetts, sets out the Government’s plans to boost economic growth through investment in research and innovation across the UK. &lt;/p&gt;
@@ -1086,9 +1118,11 @@ David Willetts said:&lt;/p&gt;
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/18329</id>
     <published>2011-12-06T00:00:00+00:00</published>
-    <updated>2011-12-06T00:00:00+00:00</updated>
+    <updated>2012-12-11T16:25:31+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/new-125-million-fund-to-boost-uk-advanced-manufacturing-supply-chains"/>
     <title>New £125 million fund to boost UK advanced manufacturing supply chains</title>
+    <category>News article</category>
+    <summary>A new initiative of up to £125 million is being set up to improve the global competitiveness of UK advanced manufacturing supply chains, Business Secretary Vince Cable announced today.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Advanced Manufacturing Supply Chain Initiative aims to help existing UK supply chains grow and achieve world class standards while encouraging major new suppliers to come and manufacture here. &lt;/p&gt;
 
 &lt;p&gt;The new fund will support innovative projects in established UK advanced manufacturing sectors such as aerospace, automotive and chemicals. It will also target newer growth areas where the UK is well placed to take a global lead, such as energy renewables and other low carbon sectors. &lt;/p&gt;
@@ -1114,9 +1148,11 @@ David Willetts said:&lt;/p&gt;
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/18325</id>
     <published>2011-12-05T00:00:00+00:00</published>
-    <updated>2011-12-05T00:00:00+00:00</updated>
+    <updated>2012-12-11T16:25:30+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/government-boost-to-uk-life-science-industry"/>
     <title>Government boost to UK life science industry</title>
+    <category>News article</category>
+    <summary>A multi million pound package of support has been announced to support the UK's life sciences industry.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The UK life science industry is one of the world leaders with more than 4,000 companies, employing around 160,000 people and with a total annual turnover of over £50 billion. In fact, between 2000 and 2010 the UK pharmaceuticals industry (a major part of life sciences) grew faster than any sector of the economy except the finance and insurance sector. &lt;/p&gt;
 
 &lt;p&gt;Globally the industry is changing with more focus on collaboration, out-sourcing of research and earlier clinical trials with patients.&lt;/p&gt;
@@ -1155,9 +1191,11 @@ David Willetts said:&lt;/p&gt;
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/18309</id>
     <published>2011-10-19T01:00:00+01:00</published>
-    <updated>2011-10-19T01:00:00+01:00</updated>
+    <updated>2012-12-11T16:25:28+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/uk-research-base-most-productive-in-the-world"/>
     <title>UK research base most productive in the world</title>
+    <category>News article</category>
+    <summary>The UK is a world-leader in science and research according to a new report from BIS.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The &lt;a rel="external" href="http://www.bis.gov.uk//policies/science/science-innovation-analysis/uk-research-base"&gt;‘International Comparative Performance of the UK Research Base 2011’&lt;/a&gt; report was compiled by Elsevier and published by the Department for Business, Innovation and Skills. &lt;/p&gt;
 
 &lt;p&gt;It shows that UK research attracts more citations per pound spent in overall research and development than any other country. It has also found that the UK research base is highly mobile, internationally competitive and diverse.&lt;/p&gt;
@@ -1199,9 +1237,11 @@ David Willetts said:&lt;/p&gt;
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/18300</id>
     <published>2011-10-11T01:00:00+01:00</published>
-    <updated>2011-10-11T01:00:00+01:00</updated>
+    <updated>2012-12-11T16:25:26+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/170-million-boost-for-uk-manufacturing-research"/>
     <title>£170 million boost for UK manufacturing research</title>
+    <category>News article</category>
+    <summary>New Government funding to help ensure the UK stay at the forefront of world-class manufacturing and to drive future growth.</summary>
     <content type="html">&lt;div class="govspeak"&gt;
 &lt;ul&gt;
 &lt;li&gt;

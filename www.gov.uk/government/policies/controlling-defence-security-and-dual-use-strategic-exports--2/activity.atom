@@ -8,14 +8,56 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-12-17T00:00:00+00:00</updated>
+  <updated>2012-12-21T12:45:44+00:00</updated>
+  <entry>
+    <id>tag:www.gov.uk,2005:NewsArticle/60322</id>
+    <published>2012-12-21T12:45:44+00:00</published>
+    <updated>2012-12-21T12:45:44+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/typhoon-for-oman"/>
+    <title>Typhoon for Oman</title>
+    <category>News article</category>
+    <summary>BAE Systems has signed a contract with the Sultanate of Oman for the supply of 12 Typhoon aircraft, associated support and 8 Hawk 128 aircraft. </summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;&lt;a rel="external" href="http://www.baesystems.com/home" title="BAE Systems website"&gt;BAE Systems&lt;/a&gt; released a statement confirming that the deal is worth some £2.5 billion and equips the &lt;a rel="external" href="http://www.omanet.om/english/government/defence.asp?cat=gov" title="Oman Defence web pages"&gt;Sultan’s Armed Forces&lt;/a&gt; with the most sophisticated aircraft on the market today.&lt;/p&gt;
+
+&lt;p&gt;Commenting on the deal the British Prime Minister, David Cameron, said:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;This represents a further chapter in the historical and deep relationship between Oman and the United Kingdom.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Oman’s choice of &lt;a rel="external" href="http://www.raf.mod.uk/equipment/typhooneurofighter.cfm" title="Typhoon aircraft"&gt;Typhoon&lt;/a&gt; recognises the capabilities of this versatile aircraft and its long term potential to stay at the forefront of military capability for many years. Oman will be a valued member of the growing Typhoon family.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;This sale is an important contribution to our race for growth providing significant revenue and protecting high value jobs.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;figure class="image embedded"&gt;&lt;div class="img"&gt;&lt;img alt="RAF Typhoon aircraft in flight (stock image) [Picture: Senior Aircraftman Ash Reynolds, Crown Copyright/MOD 2012]" src="https://assets.digital.cabinet-office.gov.uk/government/uploads/system/uploads/image_data/file/5809/LEU-Unclass-20120912-0850-181.jpg"&gt;&lt;/div&gt;
+  &lt;figcaption&gt;1(F) Squadron and 6 Squadron, based at RAF Leuchars, fly Typhoon aircraft over RAF Leuchars station and St Andrews town (stock image)&lt;/figcaption&gt;&lt;/figure&gt;&lt;p&gt;The Defence Secretary, Philip Hammond, said:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The relationship between the Sultan’s Armed Forces and those of the United Kingdom is enduring. This purchase of Typhoon will serve to strengthen further the bond.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;As with the existing Jaguar and Hawk aircraft I am confident that Typhoon will provide many years of first class service to the Royal Air Force of Oman and maintain its long and fruitful relationship with the Royal Air Force.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The Business Secretary Vince Cable welcomed the deal and said:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;This is obviously a very good day for BAE Systems, its suppliers and the broader Eurofighter supply chain.&lt;/p&gt;
+&lt;/blockquote&gt;&lt;/div&gt;</content>
+  </entry>
   <entry>
     <id>tag:www.gov.uk,2005:Speech/56873</id>
     <published>2012-12-17T00:00:00+00:00</published>
     <updated>2012-12-17T11:23:44+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/speeches/private-security-companies"/>
     <title>Private Security Companies</title>
-    <category>Speech</category>
+    <category>Statement to parliament</category>
+    <summary>Foreign Office Minister Mark Simmonds has updated parliament on the development of a regulatory system for private security companies.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Foreign Office Minister Mark Simmonds said:&lt;/p&gt;
 
 &lt;p&gt;The Government aims to raise the global standards of private security companies (&lt;abbr title="private security companies"&gt;PSCs&lt;/abbr&gt;) working in complex and high risk environments overseas. To this end, we have been working closely with interested partners, including industry and civil society, to establish a voluntary, independently audited and internationally recognised regulatory system that is practicable, effective and affordable.  &lt;/p&gt;
@@ -41,6 +83,7 @@
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/list-of-certified-companies"/>
     <title>List of certified companies </title>
     <category>Publication</category>
+    <summary>Exporters need to always consult this listing if they intend to register for the OGEL (certified companies) published by the Export Control Organisation </summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This list is published by the Export Control Organisation (ECO) in conjunction with the &lt;a href="https://www.gov.uk/military-goods-ogels#ogel-certified-companies"&gt;Open general export licence (certified companies)&lt;/a&gt;. &lt;/p&gt;
 
 &lt;p&gt;This particular OGEL permits, subject to certain conditions, the export or transfer of items specified in Schedule 1 of the licence to those companies referred to in Schedule 2. &lt;/p&gt;
@@ -56,6 +99,7 @@
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/exchange-of-notes-uk-note-concerning-itar-rule-change-dated-11-august-2011"/>
     <title>Exchange of notes (UK Note) concerning ITAR rule change dated 11 August 2011</title>
     <category>Publication</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Document issued in conjunction with the International Trade in Arms Regulations (ITAR) rule change dated 11 August 2011. &lt;/p&gt;
 
 &lt;p&gt;This note was issued in conjunction with an equivalent US Note. &lt;/p&gt;
@@ -69,6 +113,7 @@
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/exchange-of-notes-us-note-concerning-itar-rule-change-dated-11-august-2011"/>
     <title>Exchange of notes (US Note) concerning ITAR rule change dated 11 August 2011</title>
     <category>Publication</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Document issued in conjunction with the International Trade in Arms Regulations (ITAR) rule change dated 11 August 2011. &lt;/p&gt;
 
 &lt;p&gt;This note was issued in conjunction with an equivalent UK Note. &lt;/p&gt;
@@ -82,6 +127,7 @@
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/strategic-export-controls"/>
     <title>Strategic export controls</title>
     <category>Publication</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Foreign &amp;amp; Commonwealth Office’s Strategic Export Controls Reports demonstrate the Government’s 
 commitment to transparent and responsible controls on British arms 
 exports.The quarterly and annual reports give details by destination, of physical exports and equipment licensed for export.&lt;/p&gt;&lt;/div&gt;</content>

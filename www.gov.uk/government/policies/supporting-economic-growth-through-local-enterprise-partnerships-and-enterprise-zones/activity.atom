@@ -8,14 +8,15 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-12-06T10:22:00+00:00</updated>
+  <updated>2012-12-06T10:22:27+00:00</updated>
   <entry>
     <id>tag:www.gov.uk,2005:NewsArticle/18802</id>
     <published>2012-12-06T10:22:00+00:00</published>
     <updated>2012-12-06T10:22:27+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/government-investment-in-local-growth-to-continue"/>
     <title>Government investment in local growth to continue</title>
-    <category>News Article</category>
+    <category>News article</category>
+    <summary>The Chancellor has announced a package of measures in his Autumn Statement that will help the department continue to boost local growth.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The measures will enable the country to build new homes, deliver key infrastructure and support vital jobs.&lt;/p&gt;
 
 &lt;p&gt;A new £474 million Local Infrastructure Fund that will support investment in key local projects will open up new development, including locally supported large housing sites and bring surplus public land back into use, delivering much needed new homes, businesses, infrastructure and local transport schemes. Plus a further £100 million to bring forward public sector sites for development.&lt;/p&gt;
@@ -52,7 +53,8 @@
     <updated>2012-12-12T16:12:29+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/autumn-statement-2012--2"/>
     <title>Autumn Statement 2012</title>
-    <category>News Article</category>
+    <category>News article</category>
+    <summary>What the Autumn Statement means for Business, Innovation and Skills.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Autumn Statement is one of two major statements the Treasury has to give to Parliament every year.&lt;/p&gt;
 
 &lt;p&gt;The Statement provides an update on the government’s plans for the economy based on the latest forecasts from the Office for Budget Responsibility. These forecasts are published alongside the Autumn Statement on 5 December. &lt;/p&gt;
@@ -104,7 +106,8 @@
     <updated>2012-11-20T16:16:21+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/eric-pickles-sees-west-midlands-newest-business-growth-projects"/>
     <title>Eric Pickles sees West Midlands' newest business growth projects</title>
-    <category>News Article</category>
+    <category>News article</category>
+    <summary>Communities Secretary Eric Pickles saw first hand today how local growth is flourishing in Aston and Wolverhampton.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Local growth is flourishing in Aston and Wolverhampton as a result of locally directed government funding to create high-tech manufacturing jobs.&lt;/p&gt;
 
 &lt;p&gt;Mr Pickles began his tour at the Sertec Group Holdings in Aston where he signed a contract for £2 million of Growing Places funding from the Greater Birmingham and Solihull local enterprise partnership. This will allow them to purchase new ground at the Aston Regional Investment site and improve its infrastructure connections.&lt;/p&gt;
@@ -129,7 +132,9 @@
     <updated>2012-11-09T11:45:36+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/government-plans-helping-local-people-to-get-jobs-and-boosting-growth"/>
     <title>Government plans helping local people to get jobs and boosting growth</title>
-    <category>News Article</category>
+    <category>News article</category>
+    <summary>Eric Pickles visited Cambridgeshire and Suffolk to see how local businesses are using government funding to help boost local development.
+</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Communities Secretary Eric Pickles visited Cambridgeshire and Suffolk and saw how local businesses and civic leaders are using government funding to help boost local development and deliver the government’s drive for growth.&lt;/p&gt;
 
 &lt;p&gt;While on the tour of the local area, Mr Pickles visited an enterprise zone, a previously stalled housing site and a high-tech research park to see the effects of government investment delivered with a localist approach.&lt;/p&gt;
@@ -155,7 +160,8 @@ Uniquely, the zone will be rolled out alongside a wider residential development 
     <updated>2012-11-14T12:41:14+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/government-plans-helping-local-people-get-jobs-and-growth-going"/>
     <title>Government plans helping local people get jobs and growth going</title>
-    <category>News Article</category>
+    <category>News article</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Communities Secretary Eric Pickles visited Cambridgeshire and Suffolk today to see how local businesses and civic leaders are using Government funding to help boost local development and deliver the Government’s drive for growth.&lt;/p&gt;
 
 &lt;p&gt;Whilst on the tour of the local area, Mr Pickles visited an Enterprise Zone, a previously stalled housing site and a high-tech research park to see the effects of Government investment delivered with a localist approach.&lt;/p&gt;
@@ -184,7 +190,8 @@ Uniquely, the zone will be rolled out alongside a wider residential development 
     <updated>2012-11-14T12:41:07+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/local-enterprise-partnerships-receive-boost"/>
     <title>Local enterprise partnerships receive boost</title>
-    <category>News Article</category>
+    <category>News article</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Government is today announcing core funding for Local Enterprise Partnerships (LEPs) to allow them to drive forward their growth priorities.&lt;/p&gt;
 
 &lt;p&gt;Local Enterprise Partnerships are central to the Government’s approach to driving local economic growth and for ensuring that every community is able to fulfil its potential. This offer of over £24million from Government could unlock up to £20million locally and will enable Local Enterprise Partnerships to deliver their local plans for growth.&lt;/p&gt;
@@ -229,7 +236,8 @@ Uniquely, the zone will be rolled out alongside a wider residential development 
     <updated>2012-11-14T12:41:00+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/eric-pickles-opens-new-manufacturing-institute-with-3-5-million-boost"/>
     <title>Eric Pickles opens new manufacturing institute with £3.5 million boost</title>
-    <category>News Article</category>
+    <category>News article</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Communities Secretary Eric Pickles today announced a £3.5million Government investment for manufacturing innovation at the opening of a new High Speed Sustainable Manufacturing Institute in Essex.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src="http://www.communities.gov.uk/images/newsroom/2189195.jpg" alt="Eric Pickles visiting the new manufacturing institute"&gt;The institute is close to the legendary Dagenham factory&lt;/p&gt;
@@ -300,7 +308,8 @@ Uniquely, the zone will be rolled out alongside a wider residential development 
     <updated>2012-11-14T12:40:58+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/enterprise-zones-website-will-help-businesses-grow"/>
     <title>Enterprise zones website will help businesses grow</title>
-    <category>News Article</category>
+    <category>News article</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;New Government micro site will showcase the many business benefits of locating in one of England’s 24 Enterprise Zones&lt;/p&gt;
 
 &lt;p&gt;The Department for Communities and Local Government has launched a brand new micro site to promote Enterprise Zones across England. The site is designed as the first point of call for all budding entrepreneurs and businesses looking to grow and expand.&lt;/p&gt;
@@ -324,7 +333,8 @@ Uniquely, the zone will be rolled out alongside a wider residential development 
     <updated>2012-11-14T12:40:57+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/lift-off-for-jobs-in-herefordshire"/>
     <title>Lift off for jobs in Herefordshire</title>
-    <category>News Article</category>
+    <category>News article</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Innovative Enterprise Zone brings new investment to local area&lt;/p&gt;
 
 &lt;p&gt;Communities Secretary Eric Pickles has praised the innovation and ‘can-do’ attitude of Hereford Enterprise Zone for teaming up with global aerospace companies to create local jobs and stimulate growth.&lt;/p&gt;
@@ -359,7 +369,8 @@ Uniquely, the zone will be rolled out alongside a wider residential development 
     <updated>2012-11-14T12:28:04+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/10-million-investment-to-connect-northampton-enterprise-zone"/>
     <title>£10 million investment to connect Northampton enterprise zone</title>
-    <category>News Article</category>
+    <category>News article</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Today Communities Secretary Eric Pickles and Transport Secretary Justine Greening announced a £10 million boost for transport infrastructure in Northampton’s Enterprise Zone.&lt;/p&gt;
 
 &lt;p&gt;The money is being invested in the development of the Castle Railway Station at the heart of Northampton Enterprise Zone. The new station will provide vital infrastructure capacity to support local plans for sustainable economic growth.&lt;/p&gt;

@@ -8,29 +8,35 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-12-20T00:00:00+00:00</updated>
+  <updated>2012-12-20T16:08:25+00:00</updated>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60242</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60286</id>
     <published>2012-12-20T00:00:00+00:00</published>
-    <updated>2012-12-20T00:00:00+00:00</updated>
+    <updated>2012-12-20T16:08:25+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/law-officers-departments-digital-strategy"/>
     <title>Law Officers' Departments - Digital Strategy</title>
+    <category>Publication</category>
+    <summary>This strategy sets out how the Law Officers’ Departments will become digital by default</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This strategy sets out how the Law Officers’ Departments will become digital by default. It fulfils the commitment made in the Civil Service Reform Plan.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/56596</id>
     <published>2012-12-14T00:00:00+00:00</published>
-    <updated>2012-12-14T00:00:00+00:00</updated>
+    <updated>2012-12-14T12:15:34+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/ago-civil-service-people-survey-results-2012"/>
     <title>AGO civil service people survey results 2012</title>
+    <category>Publication</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Attorney General’s Office (AGO) results for the civil service people survey 2012 &lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/55814</id>
     <published>2012-11-30T00:00:00+00:00</published>
-    <updated>2012-11-30T00:00:00+00:00</updated>
+    <updated>2012-12-12T20:27:59+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/ago-frequently-asked-questions"/>
     <title>AGO: frequently asked questions </title>
+    <category>Publication</category>
+    <summary>Questions we are often asked about what the Attorney General's Office can and can't do</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;h3 id="i-have-a-legal-problem-can-you-help"&gt;I have a legal problem, can you help?&lt;/h3&gt;
 
 &lt;p&gt;The Attorney and Solicitor General (Law Officers) provide legal advice to Government and Government departments and cannot advise individual members of the public. To help find legal advice and more information on crime and justice, please visit
@@ -83,9 +89,11 @@
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/16894</id>
     <published>2012-11-23T00:00:00+00:00</published>
-    <updated>2012-11-23T00:00:00+00:00</updated>
+    <updated>2012-12-04T12:21:30+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/ago-business-plan-2012-to-2013"/>
     <title>AGO business plan 2012 to 2013</title>
+    <category>Publication</category>
+    <summary>Work and priorities for the Attorney General's Office.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;In keeping with all other government departments, the Law Officers’ departments are required to publish a departmental report annually.&lt;/p&gt;
 
 &lt;p&gt;Our financial information is published in the &lt;a rel="external" href="http://www.tsol.gov.uk"&gt;Treasury Solicitor’s&lt;/a&gt; annual report &lt;/p&gt;&lt;/div&gt;</content>
@@ -93,9 +101,11 @@
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/16888</id>
     <published>2012-11-23T00:00:00+00:00</published>
-    <updated>2012-11-23T00:00:00+00:00</updated>
+    <updated>2012-12-12T20:27:46+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/protocol-between-the-attorney-general-and-prosecuting-departments"/>
     <title>Protocol between the Attorney General and prosecuting departments</title>
+    <category>Publication</category>
+    <summary>Document defining the relationship between the Attorney General and prosecutors in England and Wales.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Published in 2009, this protocol sets out how the Attorney General and the directors of the prosecuting departments, (which are the Crown Prosecution Service (CPS), and the Serious Fraud Office (SFO) work with each other. It covers: &lt;/p&gt;
 
 &lt;ul&gt;
@@ -110,18 +120,22 @@
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/56101</id>
-    <published>2012-10-20T00:00:00+01:00</published>
-    <updated>2012-10-20T00:00:00+01:00</updated>
+    <published>2012-10-20T01:00:00+01:00</published>
+    <updated>2012-12-12T15:23:13+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/ministerial-overseas-travel-april-to-june-2012"/>
     <title>Ministerial overseas travel: April to June 2012 </title>
+    <category>Publication</category>
+    <summary>Attorney General's Office (AGO) ministers must publish details of overseas travel that’s part of their official duties.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Attorney General’s Office (AGO) ministers must publish details of overseas travel that’s part of their official duties.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/56097</id>
-    <published>2012-10-20T00:00:00+01:00</published>
-    <updated>2012-10-20T00:00:00+01:00</updated>
+    <published>2012-10-20T01:00:00+01:00</published>
+    <updated>2012-12-12T15:21:45+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/ministerial-hospitality-april-to-june-2012"/>
     <title>Ministerial hospitality: April to June 2012 </title>
+    <category>Publication</category>
+    <summary>Attorney General's Office (AGO) details of hospitality received by ministers. </summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Hospitality does not normally include attendance at:&lt;/p&gt;
 
 &lt;ul&gt;
@@ -133,28 +147,34 @@
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/55860</id>
-    <published>2012-10-20T00:00:00+01:00</published>
-    <updated>2012-10-20T00:00:00+01:00</updated>
+    <published>2012-10-20T01:00:00+01:00</published>
+    <updated>2012-12-12T15:19:04+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/ministerial-gifts-given-and-received-april-to-june-2012"/>
     <title>Ministerial gifts given and received: April to June 2012 </title>
+    <category>Publication</category>
+    <summary>Attorney General's Office (AGO) ministers must publish details of gifts they give or receive over £140. </summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Attorney General’s Office (AGO) ministers must publish details of gifts they give or receive over £140. &lt;/p&gt;
 
 &lt;p&gt;The entry for this quarter is a nil return.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/56146</id>
-    <published>2012-10-20T00:00:00+01:00</published>
-    <updated>2012-10-20T00:00:00+01:00</updated>
+    <published>2012-10-20T01:00:00+01:00</published>
+    <updated>2012-12-12T20:28:12+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/agos-ministerial-meetings-april-to-june-2012"/>
     <title>Ministerial meetings April to June 2012</title>
+    <category>Publication</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Attorney General’s Office (AGO) details of ministers’ meetings with external organisations (including meetings with newspaper and media owners, editors and senior executives).&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/55672</id>
-    <published>2012-10-16T00:00:00+01:00</published>
-    <updated>2012-10-16T00:00:00+01:00</updated>
+    <published>2012-10-16T01:00:00+01:00</published>
+    <updated>2012-12-12T20:28:28+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/evans-v-1-information-commissioner-2-seven-government-departments-2012-ukut-313-aac"/>
     <title>Evans v (1) Information Commissioner (2) seven Government Departments [2012] UKUT 313 (AAC)</title>
+    <category>Publication</category>
+    <summary>Exercise of the executive override under Section 53 of the Freedom of Information Act 2000: statement of reasons</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;h3 id="in-respect-of-a-judgment-if-the-upper-tribunal-dated-18-september-2012-evans-v-1-information-commissioner-2-seven-government-departments-2012-ukut-313-aac"&gt;In respect of a Judgment if the Upper Tribunal dated 18 September 2012 (Evans v (1) Information Commissioner (2) seven Government Departments [2012] UKUT 313 (AAC))&lt;/h3&gt;
 
 &lt;h3 id="statement-of-reasons-under-section-536-of-the-freedom-of-information-act"&gt;Statement of reasons (under section 53(6) of the Freedom of Information Act)&lt;/h3&gt;
@@ -284,10 +304,12 @@ ATTORNEY GENERAL
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/12840</id>
-    <published>2012-10-16T00:00:00+01:00</published>
-    <updated>2012-10-16T00:00:00+01:00</updated>
+    <published>2012-10-16T01:00:00+01:00</published>
+    <updated>2012-12-12T20:30:34+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/written-ministerial-statement-freedom-of-information-act-veto-of-release-of-prince-charles-letters"/>
     <title>Written ministerial statement: Freedom of Information Act veto of release of Prince Charles letters </title>
+    <category>Publication</category>
+    <summary>Attorney General Written Minsiterial statement: (Evans v (1) Information Commissioner (2) Seven Government Departments [2012] UKUT 313 (AAC)</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;I have today given the Information Commissioner  a certificate under section 53 of the Freedom of Information Act 2000 (“the Act”) both as it applies for the purposes of the Act itself, and as it applies to the Environmental Information Regulations 2004 (“the Regulations”) by reason of regulation 18(6).  This certificate relates to the Upper Tribunal’s judgment dated 18 September 2012 (Evans v (1) Information Commissioner (2) Seven Government Departments [2012] UKUT 313 (AAC). It is my view, as an accountable person under the Act, that there was no failure by the seven departments  joined as Additional Parties to this appeal at the Tribunal to comply with section 1(1)(b) of the Act, or to comply any obligation under the Regulations,  as a result of those Departments  withholding the correspondence between The Prince of Wales and Ministers in the previous Administration.  &lt;/p&gt;
 
 &lt;p&gt;The consequence of my giving the Information Commissioner this certificate is that the Tribunal’s judgment, which ordered that the Information Commissioner’s Decision Notices be amended so that the documents identified in the Tribunal’s judgment be disclosed, ceases to have effect.   &lt;/p&gt;
@@ -306,10 +328,12 @@ ATTORNEY GENERAL
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/56155</id>
-    <published>2012-07-20T00:00:00+01:00</published>
-    <updated>2012-07-20T00:00:00+01:00</updated>
+    <published>2012-07-20T01:00:00+01:00</published>
+    <updated>2012-12-12T14:45:10+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/ministerial-hospitality-january-to-march-2012"/>
     <title>Ministerial hospitality: January to March 2012</title>
+    <category>Publication</category>
+    <summary>Attorney General's Office (AGO) details of hospitality received by ministers. </summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Attorney General’s Office (AGO) details of hospitality received by ministers. &lt;/p&gt;
 
 &lt;p&gt;Hospitality does not normally include attendance at:&lt;/p&gt;
@@ -323,34 +347,42 @@ ATTORNEY GENERAL
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/56148</id>
-    <published>2012-07-20T00:00:00+01:00</published>
-    <updated>2012-07-20T00:00:00+01:00</updated>
+    <published>2012-07-20T01:00:00+01:00</published>
+    <updated>2012-12-12T15:07:23+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/ministerial-overseas-travel-january-to-march-2012"/>
     <title>Ministerial overseas travel: January to March 2012</title>
+    <category>Publication</category>
+    <summary>Attorney General's Office (AGO) ministers must publish details of overseas travel that’s part of their official duties.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Attorney General’s Office (AGO) ministers must publish details of overseas travel that’s part of their official duties.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/56153</id>
-    <published>2012-07-20T00:00:00+01:00</published>
-    <updated>2012-07-20T00:00:00+01:00</updated>
+    <published>2012-07-20T01:00:00+01:00</published>
+    <updated>2012-12-12T14:57:52+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/ministerial-meetings-january-to-march-2012"/>
     <title>Ministerial meetings: January to March 2012</title>
+    <category>Publication</category>
+    <summary>Attorney General's Office (AGO) details of ministers’ meetings with external organisations.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Attorney General’s Office (AGO) details of ministers’ meetings with external organisations (including meetings with newspaper and media owners, editors and senior executives).&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/56140</id>
-    <published>2012-07-20T00:00:00+01:00</published>
-    <updated>2012-07-20T00:00:00+01:00</updated>
+    <published>2012-07-20T01:00:00+01:00</published>
+    <updated>2012-12-12T13:43:36+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/ministerial-gifts-given-and-received-january-to-march-2012"/>
     <title>Ministerial gifts given and received: January to March 2012</title>
+    <category>Publication</category>
+    <summary>Attorney General's Office (AGO) ministers must publish details of gifts they give or receive over £140.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Attorney General’s Office (AGO) ministers must publish details of gifts they give or receive over £140.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/15333</id>
-    <published>2012-07-05T00:00:00+01:00</published>
-    <updated>2012-07-05T00:00:00+01:00</updated>
+    <published>2012-07-05T01:00:00+01:00</published>
+    <updated>2012-12-12T20:27:31+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/unduly-lenient-sentence-statistics--3"/>
     <title>Unduly lenient sentence statistics</title>
+    <category>Publication</category>
+    <summary>The number of sentences examined by the Attorney General each year as unduly lenient, including the outcome and details of the cases. </summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;If a sentence given in a Crown Court appears to be very low, or unduly lenient, anyone can ask the Attorney General to examine the sentence, within 28 days of sentencing.&lt;/p&gt;
 
 &lt;p&gt;The Attorney or Solicitor General may then ask the Court of Appeal to look at the sentence. The court may decide to keep the sentence the same, increase it, or issue guidance for future cases.&lt;/p&gt;
@@ -361,36 +393,44 @@ ATTORNEY GENERAL
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/56160</id>
-    <published>2012-05-03T00:00:00+01:00</published>
-    <updated>2012-05-03T00:00:00+01:00</updated>
+    <published>2012-05-03T01:00:00+01:00</published>
+    <updated>2012-12-12T13:41:26+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/ministerial-gifts-given-and-received-october-to-december-2011"/>
     <title>Ministerial gifts given and received: October to December 2011</title>
+    <category>Publication</category>
+    <summary>Attorney General's Office (AGO) ministers must publish details of gifts they give or receive over £140.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Attorney General’s Office (AGO) ministers must publish details of gifts they give or receive over £140.&lt;/p&gt;
 
 &lt;p&gt;The entry for this quarter is a nil return.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/56164</id>
-    <published>2012-05-03T00:00:00+01:00</published>
-    <updated>2012-05-03T00:00:00+01:00</updated>
+    <published>2012-05-03T01:00:00+01:00</published>
+    <updated>2012-12-12T15:05:59+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/ministerial-overseas-travel-october-to-december-2011"/>
     <title>Ministerial overseas travel: October to December 2011</title>
+    <category>Publication</category>
+    <summary>Attorney General's Office (AGO) ministers must publish details of overseas travel that’s part of their official duties.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Attorney General’s Office (AGO) ministers must publish details of overseas travel that’s part of their official duties.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/56168</id>
-    <published>2012-05-03T00:00:00+01:00</published>
-    <updated>2012-05-03T00:00:00+01:00</updated>
+    <published>2012-05-03T01:00:00+01:00</published>
+    <updated>2012-12-12T15:00:11+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/ministerial-meetings-october-to-december-2011"/>
     <title>Ministerial meetings: October to December 2011</title>
+    <category>Publication</category>
+    <summary>Attorney General's Office (AGO) details of ministers’ meetings with external organisations.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Attorney General’s Office (AGO) details of ministers’ meetings with external organisations (including meetings with newspaper and media owners, editors and senior executives).&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/56172</id>
-    <published>2012-05-03T00:00:00+01:00</published>
-    <updated>2012-05-03T00:00:00+01:00</updated>
+    <published>2012-05-03T01:00:00+01:00</published>
+    <updated>2012-12-12T14:50:43+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/ministerial-hospitality-october-to-december-2011"/>
     <title>Ministerial hospitality: October to December 2011</title>
+    <category>Publication</category>
+    <summary>Attorney General's Office (AGO) details of hospitality received by ministers. </summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Attorney General’s Office (AGO) details of hospitality received by ministers. &lt;/p&gt;
 
 &lt;p&gt;Hospitality does not normally include attendance at:&lt;/p&gt;

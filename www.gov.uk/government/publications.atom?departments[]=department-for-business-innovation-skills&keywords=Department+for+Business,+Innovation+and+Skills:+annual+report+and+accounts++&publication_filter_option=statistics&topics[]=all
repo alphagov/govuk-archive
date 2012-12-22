@@ -8,45 +8,55 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-12-18T00:00:00+00:00</updated>
+  <updated>2012-12-20T13:08:06+00:00</updated>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/60156</id>
     <published>2012-12-18T00:00:00+00:00</published>
-    <updated>2012-12-18T00:00:00+00:00</updated>
+    <updated>2012-12-20T13:08:06+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/number-of-enterprise-finance-guarantee-efg-scheme-loans-drawn"/>
     <title>Number and value of Enterprise Finance Guarantee (EFG) scheme loans drawn.</title>
+    <category>Publication</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Number and value of EFG loans drawn, by bank.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/56768</id>
     <published>2012-12-17T00:00:00+00:00</published>
-    <updated>2012-12-17T00:00:00+00:00</updated>
+    <updated>2012-12-17T09:18:51+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/construction-resource-cost-indices-notes-and-definitions"/>
     <title>Construction resource cost indices notes and definitions</title>
+    <category>Publication</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Resource Cost Indices give a measure of the notional trend of input costs to a contractor in terms of increases in the cost of labour, materials and plant by application of the Price Adjustment Formulae for Building (Series 3), Specialist Engineering (Series 3) and Civil Engineering (1990 Series) to cost models.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/56761</id>
     <published>2012-12-17T00:00:00+00:00</published>
-    <updated>2012-12-17T00:00:00+00:00</updated>
+    <updated>2012-12-17T09:59:25+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/quarterly-price-and-cost-indices-commentary-3q-2012"/>
     <title>Quarterly price and cost indices: commentary 3Q 2012</title>
+    <category>Publication</category>
+    <summary>Commentary</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Explains the data published in the three quarterly BIS construction price and cost indices (PCIs): tender price indices (12/P147C), construction resource cost indices (12/P148C), and output price indices (URN 12/P149C).&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/56767</id>
     <published>2012-12-17T00:00:00+00:00</published>
-    <updated>2012-12-17T00:00:00+00:00</updated>
+    <updated>2012-12-17T09:21:22+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/construction-tender-price-indices-tpis-notes-and-definitions"/>
     <title>Construction tender price indices (TPIs) notes and definitions</title>
+    <category>Publication</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Tender Price Index of Public Sector Building Non Housing (PUBSEC) measures the movement of prices in tenders for building contracts in the public sector in Great Britain. It does not include contracts for housing, civil engineering, mechanical engineering, electrical engineering, minor alterations projects or for repair and maintenance work.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/57009</id>
     <published>2012-12-17T00:00:00+00:00</published>
-    <updated>2012-12-17T00:00:00+00:00</updated>
+    <updated>2012-12-17T19:00:32+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/bis-quarterly-constuction-price-and-cost-indices-3rd-quarter-2012"/>
     <title>BIS quarterly constuction price and cost indices 3rd quarter 2012</title>
+    <category>Publication</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="headline-results"&gt;Headline results&lt;/h2&gt;
 
 &lt;p&gt;The BIS Output Price Index for New Construction (2010): All New Construction (COPI) for 3rd Quarter 2012 rose 0.7% on the previous quarter and by 3.5% on the same quarter a year earlier.&lt;/p&gt;
@@ -71,6 +81,8 @@
     <updated>2012-12-12T18:02:52+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/statistical-data-sets/building-materials-and-components-statistics-september-2012"/>
     <title>Building materials and components statistics: September 2012</title>
+    <category>Statistical data set</category>
+    <summary>Statistics and analysis on the construction sector</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This edition presents information on selected building materials, including monthly data on price indices, bricks, cement and concrete blocks. It also presents quarterly data on sand and gravel, slate, concrete roofing tiles, ready-mixed concrete and imports and exports of construction products.&lt;/p&gt;
 
 &lt;section class="attachment embedded" id="attachment_51455"&gt;&lt;div class="attachment-thumb"&gt;
@@ -149,6 +161,8 @@
     <updated>2012-12-12T18:02:46+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/statistical-data-sets/building-materials-and-components-statistics-august-2012"/>
     <title>Building materials and components statistics: August 2012</title>
+    <category>Statistical data set</category>
+    <summary>Statistics and analysis on the construction sector</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This edition presents information on selected building materials, including monthly data on price indices, bricks, cement and concrete blocks. It also presents quarterly data on sand and gravel, slate, concrete roofing tiles, ready-mixed concrete and imports and exports of construction products.&lt;/p&gt;
 
 &lt;section class="attachment embedded" id="attachment_51464"&gt;&lt;div class="attachment-thumb"&gt;
@@ -227,6 +241,8 @@
     <updated>2012-12-12T18:02:39+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/statistical-data-sets/building-materials-and-components-statistics-july-2012"/>
     <title>Building materials and components statistics: July 2012</title>
+    <category>Statistical data set</category>
+    <summary>Statistics and analysis on the construction sector</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This edition presents information on selected building materials, including monthly data on price indices, bricks, cement and concrete blocks. It also presents quarterly data on sand and gravel, slate, concrete roofing tiles, ready-mixed concrete and imports and exports of construction products.&lt;/p&gt;
 
 &lt;section class="attachment embedded" id="attachment_51683"&gt;&lt;div class="attachment-thumb"&gt;
@@ -305,6 +321,8 @@
     <updated>2012-12-12T18:02:31+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/statistical-data-sets/building-materials-and-components-statistics-june-2012"/>
     <title>Building materials and components statistics: June 2012</title>
+    <category>Statistical data set</category>
+    <summary>Statistics and analysis on the construction sector</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This edition presents information on selected building materials, including monthly data on price indices, bricks, cement and concrete blocks. It also presents quarterly data on sand and gravel, slate, concrete roofing tiles, ready-mixed concrete and imports and exports of construction products.&lt;/p&gt;
 
 &lt;section class="attachment embedded" id="attachment_51467"&gt;&lt;div class="attachment-thumb"&gt;
@@ -383,6 +401,8 @@
     <updated>2012-12-12T18:01:45+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/statistical-data-sets/building-materials-and-components-statistics-may-2012"/>
     <title>Building materials and components statistics: May 2012</title>
+    <category>Statistical data set</category>
+    <summary>Statistics and analysis on the construction sector</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This edition presents information on selected building materials, including monthly data on price indices, bricks, cement and concrete blocks. It also presents quarterly data on sand and gravel, slate, concrete roofing tiles, ready-mixed concrete and imports and exports of construction products.&lt;/p&gt;
 
 &lt;section class="attachment embedded" id="attachment_51470"&gt;&lt;div class="attachment-thumb"&gt;
@@ -461,6 +481,8 @@
     <updated>2012-12-12T18:01:35+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/statistical-data-sets/building-materials-and-components-statistics-april-2012"/>
     <title>Building materials and components statistics: April 2012</title>
+    <category>Statistical data set</category>
+    <summary>Statistics and analysis on the construction sector</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This edition presents information on selected building materials, including monthly data on price indices, bricks, cement and concrete blocks. It also presents quarterly data on sand and gravel, slate, concrete roofing tiles, ready-mixed concrete and imports and exports of construction products.&lt;/p&gt;
 
 &lt;p&gt;The April 2012 commentary has been corrected following the discovery of an error in the text relating to Chart 2. The corrected version, published on 11 June 2012, is available below. Page 2 of the document has further information on the correction. We apologise for any inconvenience caused.&lt;/p&gt;
@@ -541,6 +563,8 @@
     <updated>2012-12-12T18:01:04+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/statistical-data-sets/building-materials-and-components-statistics-march-2012"/>
     <title>Building materials and components statistics: March 2012</title>
+    <category>Statistical data set</category>
+    <summary>Statistics and analysis on the construction sector.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This edition presents information on selected building materials, including monthly data on price indices, bricks, cement and concrete blocks. It also presents quarterly data on sand and gravel, slate, concrete roofing tiles, ready-mixed concrete and imports and exports of construction products.&lt;/p&gt;
 
 &lt;section class="attachment embedded" id="attachment_51477"&gt;&lt;div class="attachment-thumb"&gt;
@@ -619,6 +643,8 @@
     <updated>2012-12-12T18:00:55+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/statistical-data-sets/building-materials-and-components-statistics-february-2012"/>
     <title>Building materials and components statistics: February 2012</title>
+    <category>Statistical data set</category>
+    <summary>Statistics and analysis on the construction sector</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This edition presents information on selected building materials, including monthly data on price indices, bricks, cement and concrete blocks. It also presents quarterly data on sand and gravel, slate, concrete roofing tiles, ready-mixed concrete and imports and exports of construction products.&lt;/p&gt;
 
 &lt;section class="attachment embedded" id="attachment_51480"&gt;&lt;div class="attachment-thumb"&gt;
@@ -697,6 +723,8 @@
     <updated>2012-12-12T18:00:33+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/statistical-data-sets/building-materials-and-components-statistics-january-2012"/>
     <title>Building materials and components statistics: January 2012</title>
+    <category>Statistical data set</category>
+    <summary>Statistics and analysis on the construction sector.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This edition presents information on selected building materials, including monthly data on price indices, bricks, cement and concrete blocks. It also presents quarterly data on sand and gravel, slate, concrete roofing tiles, ready-mixed concrete and imports and exports of construction products.&lt;/p&gt;
 
 &lt;section class="attachment embedded" id="attachment_51458"&gt;&lt;div class="attachment-thumb"&gt;
@@ -775,6 +803,8 @@
     <updated>2012-12-12T17:59:39+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/statistical-data-sets/2011-skills-for-life-survey-small-area-estimation-data"/>
     <title>2011 skills for life survey: small area estimation data</title>
+    <category>Statistical data set</category>
+    <summary>Underlying data tables from the 2011 skills for life survey</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Small area estimation modelling methods have been applied to the 2011 Skills for Life survey data in order to generate local level area estimates of the number and proportion of adults (aged 16-64 years old) in England living in households with defined skill levels in:&lt;/p&gt;
 
 &lt;ul&gt;
@@ -1553,9 +1583,11 @@
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/54857</id>
     <published>2012-12-12T00:00:00+00:00</published>
-    <updated>2012-12-12T00:00:00+00:00</updated>
+    <updated>2012-12-12T13:17:46+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/code-of-practice-for-statistics-statement-of-compliance"/>
     <title>Code of practice for statistics: statement of compliance</title>
+    <category>Publication</category>
+    <summary>The Department for Business, Innovation and Skills must state it has followed official guidelines on how it determines and presents statistics.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Official National Statistics published by the Department for Business, Innovation and Skills must follow the UK Statistics Authority’s &lt;a rel="external" href="http://www.statisticsauthority.gov.uk/assessment/code-of-practice/index.html"&gt;Code of Practice for Statistics&lt;/a&gt;. &lt;/p&gt;
 
 &lt;p&gt;&lt;abbr title="The Department for Business, Innovation and Skills"&gt;BIS&lt;/abbr&gt; has prepared a number of documents related to compliance with the Code:&lt;/p&gt;
@@ -1572,9 +1604,11 @@
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/59919</id>
     <published>2012-12-05T00:00:00+00:00</published>
-    <updated>2012-12-05T00:00:00+00:00</updated>
+    <updated>2012-12-12T19:41:06+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/repi-live-tables"/>
     <title>Regional Economic Performance Indicators (REPI) live tables</title>
+    <category>Publication</category>
+    <summary>Full set of Regional Economic Performance Indicators (REPI) published as a table.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The full set of Regional Economic Performance Indicators (&lt;abbr title="Regional Economic Performance Indicators"&gt;REPI&lt;/abbr&gt;) and accompanying information is only published once a year. The current edition can be found below.&lt;/p&gt;
 
 &lt;p&gt;A number of the indicators are updated more frequently or published some months before the scheduled release of &lt;abbr title="Regional Economic Performance Indicators"&gt;REPI&lt;/abbr&gt;. The tables accessible from this page are updated more regularly in order to provide access to more up to date information. &lt;/p&gt;
@@ -1605,9 +1639,11 @@
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/55666</id>
     <published>2012-12-05T00:00:00+00:00</published>
-    <updated>2012-12-05T00:00:00+00:00</updated>
+    <updated>2012-12-12T20:00:43+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/user-engagement-and-the-business-population-estimates"/>
     <title>User engagement and the business population estimates</title>
+    <category>Publication</category>
+    <summary>BIS: User engagement and the business population estimates (BPEs)</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Department for Business, Innovation &amp;amp; Skills (&lt;abbr title="Department for Business, Innovation &amp;amp; Skills"&gt;BIS&lt;/abbr&gt;) recognises the importance of effective engagement with users of the Business Population Estimates (&lt;abbr title="Business Population Estimates"&gt;BPE&lt;/abbr&gt;) publication, to ensure that they are well informed about the statistics they are using and that their views are taken into account during developments to the statistics. For further information about this, please see below: &lt;/p&gt;
 
 &lt;h3 id="bpe-user-engagement-strategy"&gt;1. &lt;abbr title="Business Population Estimates"&gt;BPE&lt;/abbr&gt; User Engagement Strategy&lt;/h3&gt;
@@ -1775,11 +1811,25 @@
 &lt;/section&gt;&lt;p&gt;GSS BRG Meeting Agenda July 2012 (PDF, 18 Kb)&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/17690</id>
+    <published>2012-12-04T00:00:00+00:00</published>
+    <updated>2012-12-12T19:46:43+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/repi-contacts"/>
+    <title>REPI contacts</title>
+    <category>Publication</category>
+    <summary>Regional Economic Performance Indicator: contacts</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;h3 id="contact-information"&gt;Contact information&lt;/h3&gt;
+
+&lt;p&gt;General &amp;amp; Statistical enquiries &lt;a href="mailto:repi@bis.gsi.gov.uk"&gt;repi@bis.gsi.gov.uk&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/17713</id>
     <published>2012-12-04T00:00:00+00:00</published>
-    <updated>2012-12-04T00:00:00+00:00</updated>
+    <updated>2012-12-12T19:51:06+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/job-estimates"/>
     <title>Job estimates</title>
+    <category>Publication</category>
+    <summary>Regional and sub-regional job estimates</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This section provides sub-national estimates of employee jobs by two factors: industry sector and ownership (Public/ Private). Estimates are of employee jobs, rather than workforce jobs. Self-employed, HM Forces and Government Assisted trainees are therefore excluded. It is also a count of jobs rather than people i.e. one person would be counted once in an employment figure even if they had numerous jobs, where as in a jobs measure each job they had would be counted separately.&lt;/p&gt;
 
 &lt;h3 id="proportion-of-employee-jobs-in-selected-industrial-sectors"&gt;Proportion of employee jobs in selected industrial sectors&lt;/h3&gt;
@@ -1795,20 +1845,5 @@
 &lt;p&gt;This data provides estimates of the level of public and private sector employee jobs by Local Authority and Travel to Work Area from 2003 to 2008 from the ONS Annual Business Inquiry.&lt;/p&gt;
 
 &lt;p&gt;The limitations and caveats which accompany this data are available alongside the data tables and should be understood before using these estimates&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/17646</id>
-    <published>2012-12-04T00:00:00+00:00</published>
-    <updated>2012-12-04T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/about-higher-education-statistics"/>
-    <title>About higher education statistics</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Higher education statistical publications, produced by BIS and &lt;a rel="external" href="http://www.bis.gov.uk/analysis/statistics/higher-education/about-higher-education-statistics/higher-education-statistics-producers"&gt;partner organisations&lt;/a&gt;, cover a range of areas including enrolments, qualifications obtained and destinations of qualifiers from higher education institutions, student finance take-up and expenditure, and participation rates in higher education. Users can find further information about the higher education student timeline and the uses of higher education statistics as follows:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;
-&lt;a rel="external" href="http://www.bis.gov.uk/analysis/statistics/higher-education/about-higher-education-statistics/higher-education-student-timeline"&gt;the higher education student timeline&lt;/a&gt; &lt;/li&gt;
-  &lt;li&gt;
-&lt;a rel="external" href="http://www.bis.gov.uk/analysis/statistics/higher-education/about-higher-education-statistics/how-higher-education-statistics-are-used"&gt;how higher education statistics are used&lt;/a&gt; &lt;/li&gt;
-&lt;/ul&gt;&lt;p&gt;If you have any comments, questions or feedback on any of the higher education statistical releases, or the contents of this web page, please contact the &lt;a href="mailto:hestatistics@bis.gsi.gov.uk"&gt;higher education statistics team&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
 </feed>

@@ -8,14 +8,25 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-12-19T16:59:13+00:00</updated>
+  <updated>2012-12-21T14:38:46+00:00</updated>
   <entry>
-    <id>tag:www.gov.uk,2005:NewsArticle/60063</id>
+    <id>tag:www.gov.uk,2005:Publication/60592</id>
+    <published>2012-12-21T00:00:00+00:00</published>
+    <updated>2012-12-21T14:38:46+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/reducing-statutory-burdens-equality-impact-assessments"/>
+    <title>Reducing statutory burdens: equality impact assessments</title>
+    <category>Publication</category>
+    <summary>Letter from Brandon Lewis to all leaders and chief executives of local authorities.</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Guidance on the production of equality impact assessments.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:NewsArticle/60751</id>
     <published>2012-12-19T16:59:13+00:00</published>
     <updated>2012-12-19T16:59:13+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/fair-funding-sensible-savings-and-bill-freeze-right-is-the-right-road-for-councils-says-eric-pickles"/>
     <title>"Fair funding, sensible savings and bill freeze is the right road for councils" says Eric Pickles</title>
-    <category>News Article</category>
+    <category>News article</category>
+    <summary>New style local settlement to reward striving councils with more income.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Local Government Secretary Eric Pickles spelled out 50 sensible savings, a Council Tax freeze and a fair funding deal as the “right road” for councils to protect residents and local services, as a major shake up of local finance was initiated today.&lt;/p&gt;
 
 &lt;p&gt;The minister signalled the watershed moment for councils as he unveiled a new look local government finance settlement that will reward councils that strive to improve their communities.&lt;/p&gt;
@@ -88,10 +99,10 @@
 &lt;/ul&gt;&lt;p&gt;Spending power:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/39394/Local_Authority_briefing_table_201314.xls"&gt;Spending power data by local authority for 2013 to 2014&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.gov.uk/government/statistical-data-sets/spending-power-by-local-authority"&gt;Spending power data by local authority for 2013 to 2014&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;p&gt;No authority will see a spending power reduction of more than 8.8% because of decisions taken by ministers to make an efficiency support grant available. The ‘per household’ figures are calculated using total spending power a combination of the new start up funding assessment and Council Tax, and the number of dwellings by Council Tax band for each administrative area in England. The counts are calculated from data for England extracted from the Valuation Office Agency’s database on 12 September 2011.&lt;/p&gt;
 
-&lt;p&gt;A &lt;a rel="external" href="http://www.local.odpm.gov.uk/finance/1314/plainenglishguide.pdf"&gt;plain English guide&lt;/a&gt; to cut through Whitehall jargon and explain the new settlement system is also available.&lt;/p&gt;
+&lt;p&gt;A &lt;a href="https://www.gov.uk/government/publications/business-rates-retention-and-the-local-government-finance-settlement-a-plain-english-guide"&gt;plain English guide&lt;/a&gt; to cut through Whitehall jargon and explain the new settlement system is also available.&lt;/p&gt;
 
 &lt;p&gt;There will now be a period of statutory consultation on the settlement which runs to 15 January 2013. Ministers will then finalise their proposals and the settlement for 2013 to 2014 will be debated in Parliament in February in time for councils to set their budgets for next year.&lt;/p&gt;
 
@@ -113,6 +124,7 @@
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/50-ways-to-save-examples-of-sensible-savings-in-local-government"/>
     <title>50 ways to save: examples of sensible savings in local government</title>
     <category>Publication</category>
+    <summary>Practical tips and guidance for councils.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This document sets out 50 examples of sensible savings that councils could make and contains practical tips and guidance, highlighting ways that councillors can challenge officers to deliver savings, and ways that taxpayers can challenge councillors.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
@@ -121,7 +133,8 @@
     <updated>2012-12-19T18:33:05+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/speeches/local-government-finance-settlement-oral-statement"/>
     <title>Local government finance settlement oral statement</title>
-    <category>Speech</category>
+    <category>Statement to parliament</category>
+    <summary>This oral statement is about finance for English local authorities for 2013 to 2014 and 2014 to 2015.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;With permission Mr Speaker, I should like to make a statement on finance for English local authorities for 2013 to 2014 and 2014 to 2015.&lt;/p&gt;
 
 &lt;p&gt;The Autumn Statement sets out how the coalition government is putting our public finances back on track [political content removed].&lt;/p&gt;
@@ -276,6 +289,7 @@ If you deny the deficit, taxes on everyday families will rise.&lt;/p&gt;
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/consultations/local-government-finance-settlement-2013-to-2014-and-related-matters"/>
     <title>Local government finance settlement 2013 to 2014 and related matters</title>
     <category>Consultation</category>
+    <summary>This consultation is on the local government finance settlement 2013 to 2014.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This consultation is about the local government finance settlement 2013 to 2014 and related matters.&lt;/p&gt;
 
 &lt;p&gt;For more information relating to this consultation and the local government finance settlement, view the &lt;a href="https://www.gov.uk/government/news/fair-funding-sensible-savings-and-bill-freeze-right-is-the-right-road-for-councils-says-eric-pickles" title='Fair funding, sensible savings and bill freeze is the right road for councils" says Eric Pickles'&gt;press release&lt;/a&gt; from 19 December 2012 and the &lt;a rel="external" href="http://www.local.communities.gov.uk/finance/1314/settle.htm" title="Local government finance settlement 2013 to 2014"&gt;Local government finance settlement 2013 to 2014&lt;/a&gt; website.&lt;/p&gt;&lt;/div&gt;</content>
@@ -287,6 +301,7 @@ If you deny the deficit, taxes on everyday families will rise.&lt;/p&gt;
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/business-rates-retention-and-the-local-government-finance-settlement-a-plain-english-guide"/>
     <title>Business rates retention and the local government finance settlement: a plain English guide</title>
     <category>Publication</category>
+    <summary>An overview of the local government finance settlement for 2013 to 2014.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;A guide explaining the changes to business rates and what the proposals mean for councils, local residents, businesses, charities, developers, and the police and fire and rescue authorities.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
@@ -295,7 +310,8 @@ If you deny the deficit, taxes on everyday families will rise.&lt;/p&gt;
     <updated>2012-12-07T15:58:50+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/minister-praises-local-government-efforts-to-tackle-fraud"/>
     <title>Minister praises local government efforts to tackle fraud </title>
-    <category>News Article</category>
+    <category>News article</category>
+    <summary>Local Government Minister Baroness Hanham welcomes the ‘Fighting Fraud Locally’ end of year review.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;It is essential for local government to take action to tackle fraud in every possible way and therefore help prevent the current loss of £2 billion of taxpayers’ money, Baroness Hanham said in a keynote address on 6 December 2012.&lt;/p&gt;
 
 &lt;p&gt;The remarks came as the review on the local government’s ‘Fighting Fraud locally’ report was launched at the annual Fighting Fraud Locally conference, which highlighted the progress made by councils in 2012 in reducing the risks they face. Fraud costs every adult in the country about £1,140 a year.&lt;/p&gt;
@@ -331,6 +347,7 @@ If you deny the deficit, taxes on everyday families will rise.&lt;/p&gt;
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/consultations/localising-support-for-council-tax-council-tax-base"/>
     <title>Localising support for Council Tax: Council Tax base</title>
     <category>Consultation</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Localising Council Tax support is part of a wider set of reforms to the welfare system.&lt;/p&gt;
 
 &lt;p&gt;This consultation sets out the government’s proposals to provide certainty to local precepting authorities by allowing the Council Tax base for those areas to be calculated excluding localised Council Tax support reductions.&lt;/p&gt;
@@ -350,6 +367,7 @@ If you deny the deficit, taxes on everyday families will rise.&lt;/p&gt;
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/consultations/technical-reforms-to-council-tax-caluclating-the-council-tax-base-with-the-empty-homes-premium"/>
     <title>Technical reforms to Council Tax: calculating the Council Tax base with the empty homes premium</title>
     <category>Consultation</category>
+    <summary>Consultation about how the Council Tax empty homes premium is to be included in the calculation of the Council Tax base.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This consultation sets out the government’s proposals on how the Council Tax empty homes premium is to be included in the calculation of the Council Tax base.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
@@ -358,7 +376,8 @@ If you deny the deficit, taxes on everyday families will rise.&lt;/p&gt;
     <updated>2012-11-22T14:26:07+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/weekly-collection-saved-as-government-scheme-delivers-for-6-million-families"/>
     <title>‘Weekly collection saved’ as government scheme delivers for 6 million families </title>
-    <category>News Article</category>
+    <category>News article</category>
+    <summary>Local Government Secretary Eric Pickles announced that over 6 million families will keep getting a weekly bin service. </summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This is thanks to the government’s £250 million &lt;a href="https://www.gov.uk/government/policies/making-sure-council-tax-payers-get-good-value-for-money/supporting-pages/bins-and-waste-collection"&gt;Weekly Collection Support Scheme&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;The best 90 projects, from 85 councils, have today been selected from an over-subscribed scheme to share in the funding. Ministers are concerned that without the fund weekly bin collections could have all but disappeared by 2015, as is happening in other parts of the United Kingdom, such as Northern Ireland.&lt;/p&gt;
@@ -392,23 +411,5 @@ If you deny the deficit, taxes on everyday families will rise.&lt;/p&gt;
   &lt;li&gt;The Sauce-Icaro attitudes to waste and recycling in Great Britain, December 2011 found that two-thirds (67%) agreed with the statement the government should mandate weekly collections. Weekly collections had higher satisfaction levels than fortnightly (83% compared to 74%). Reports of problems with flies and smells for fortnightly collections were more than double that for weekly (14% compared to 6%).&lt;/li&gt;
   &lt;li&gt;What next: in the weeks to come the department will begin working with councils, the Local Government Association and Defra to support them to work together to procure the best deals as consortiums or groups to ensure value for money for the taxpayer. This means the department has provided a synopsis of each successful bid, but will not be disclosing further specific bid details as this would have an adverse effect on competition between prospective companies and potentially put local authorities in a disadvantageous position.&lt;/li&gt;
 &lt;/ol&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:Consultation/16636</id>
-    <published>2012-11-21T13:00:41+00:00</published>
-    <updated>2012-11-21T13:00:41+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/consultations/technical-reforms-to-council-tax-when-dwellings-should-not-be-liable-to-the-empty-homes-premium"/>
-    <title>Technical reforms to Council Tax: when dwellings should not be liable to the empty homes premium</title>
-    <category>Consultation</category>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The &lt;a rel="external" href="http://www.legislation.gov.uk/ukpga/2012/17/introduction/enacted"&gt;Local Government Finance Act 2012&lt;/a&gt; allows a billing authority to charge an empty homes premium to provide a stronger incentive to get homes back into productive use and remove the blight of such properties on local neighbourhoods.&lt;/p&gt;
-
-&lt;p&gt;The premium was subject to a consultation, ‘&lt;a href="https://www.gov.uk/government/consultations/technical-reforms-of-council-tax"&gt;Technical Reforms to Council Tax&lt;/a&gt;’, which ended on 29 December 2011. The government published its response on 28 May 2012, which confirmed its intention to proceed with the premium and stated that:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;it will not be payable until a dwelling has been empty and unfurnished for 2 years&lt;/li&gt;
-  &lt;li&gt;the maximum premium that an authority will be able to charge will be 50%&lt;/li&gt;
-&lt;/ul&gt;&lt;p&gt;This consultation invited views on the government’s proposals on exceptions to the premium: dwellings which may otherwise be liable for the premium, but which are subject to circumstances that mean that it would not be appropriate for it to apply.&lt;/p&gt;
-
-&lt;p&gt;The summary of responses was published on 21 November 2012.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
 </feed>

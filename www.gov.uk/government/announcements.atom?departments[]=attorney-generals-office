@@ -8,13 +8,15 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-12-12T12:18:00+00:00</updated>
+  <updated>2012-12-12T17:38:59+00:00</updated>
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/54845</id>
     <published>2012-12-12T12:18:00+00:00</published>
-    <updated>2012-12-12T12:18:00+00:00</updated>
+    <updated>2012-12-12T17:38:59+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/the-new-home-on-the-web-for-fco-mod-bis-and-ago"/>
     <title>The new home on the web for FCO, MOD, BIS and AGO</title>
+    <category>News article</category>
+    <summary>GOV.UK is the new place for corporate and policy information from the Foreign Office, Ministry of Defence, Department for Business and the Attorney General's Office. </summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Four central government departments and several of their public bodies have today (13 December, 2012) become the latest central government organisations to move their corporate and policy content onto the new GOV.UK website - the new single home for all government services and information.&lt;/p&gt;
 
 &lt;p&gt;The Foreign and Commonwealth Office (&lt;abbr title="Foreign and Commonwealth Office"&gt;FCO&lt;/abbr&gt;), Ministry of Defence (&lt;abbr title="Ministry of Defence"&gt;MOD&lt;/abbr&gt;), Department for Business, Innovation and Skills (&lt;abbr title="Department for Business, Innovation and Skills"&gt;BIS&lt;/abbr&gt;) and Attorney General’s Office (&lt;abbr title="Attorney General's Office"&gt;AGO&lt;/abbr&gt;) have moved their content to the new website, joining the Department for Transport (&lt;abbr title="Department for Transport"&gt;DFT&lt;/abbr&gt;) and Communities and Local Government (&lt;abbr title="Department for Communities and Local Government"&gt;DCLG&lt;/abbr&gt;) whose content moved to GOV.UK last month.&lt;/p&gt;
@@ -67,9 +69,11 @@
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/48345</id>
     <published>2012-12-10T00:00:00+00:00</published>
-    <updated>2012-12-10T00:00:00+00:00</updated>
+    <updated>2012-12-12T14:17:09+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/attorney-general-applies-for-fresh-inquests-for-victims-of-hillsborough-disaster"/>
     <title>Attorney General applies for fresh inquests for victims of Hillsborough disaster</title>
+    <category>News article</category>
+    <summary>An application has been made to the High Court for new inquests into the deaths of the 96 victims.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Attorney General, Dominic Grieve &lt;abbr title="Queen's Counsel"&gt;QC&lt;/abbr&gt; &lt;abbr title="Member of Parliament"&gt;MP&lt;/abbr&gt;, today (10 December 2012) made an application to the High Court for new inquests into the deaths of the 96 victims of the Hillsborough tragedy. &lt;/p&gt;
 
 &lt;p&gt;The Attorney General said:&lt;/p&gt;
@@ -109,9 +113,11 @@
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/56028</id>
     <published>2012-12-04T12:07:00+00:00</published>
-    <updated>2012-12-04T12:07:00+00:00</updated>
+    <updated>2012-12-04T12:07:18+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/juror-jailed-for-discussing-trial-with-defendants"/>
     <title>Juror jailed for discussing trial with defendants</title>
+    <category>News article</category>
+    <summary>A juror who discussed the trial he was involved in with 2 of the defendants has been jailed for 4 months</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Judges at the High Court today jailed a juror for 4 months for contempt of court, after he admitted discussing an ongoing trial with 2 of the defendants.&lt;/p&gt;
 
 &lt;p&gt;Stephen Pardon was a juror on a 13-week trial of 6 men at Wolverhampton Crown Court in December 2011. He admitted that before the jury had finished deciding all of its verdicts he approached one of the defendants and discussed the jury’s deliberations with him. At that stage 3 defendants had been convicted on one count, and one acquitted.&lt;/p&gt;
@@ -133,9 +139,13 @@
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/56831</id>
     <published>2012-11-26T13:16:00+00:00</published>
-    <updated>2012-11-26T13:16:00+00:00</updated>
+    <updated>2012-11-26T13:16:53+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/serious-fraud-office-inspection-report-published"/>
     <title>Serious Fraud Office inspection report published </title>
+    <category>News article</category>
+    <summary>Independent inspection makes 8 recommendations for improvement.
+
+</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Attorney General has today published HM Crown Prosecution Service Inspectorate’s report on the Serious Fraud Office (&lt;abbr title="Serious Fraud Office"&gt;SFO&lt;/abbr&gt;). &lt;/p&gt;
 
 &lt;p&gt;The inspection found significant process failures and other weaknesses, which the agency needs to address to improve performance. The Inspectorate also identifies strengths, for example in analysis and presentation of evidence.&lt;/p&gt;
@@ -184,10 +194,12 @@
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/12400</id>
-    <published>2012-10-25T00:00:00+01:00</published>
-    <updated>2012-10-25T00:00:00+01:00</updated>
+    <published>2012-10-25T01:00:00+01:00</published>
+    <updated>2012-12-04T11:34:06+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/speeches/parliament-and-the-judiciary"/>
     <title>Parliament and the judiciary</title>
+    <category>Speech</category>
+    <summary>Speech by Dominic Grieve QC MP to BPP Law School</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="introduction"&gt;Introduction&lt;/h2&gt;
 
 &lt;p&gt;“I am very grateful to BPP Law School for giving me a forum to look at some current issue of political and legal interest. For this afternoon I have chosen the relationship between Parliament and the judiciary.&lt;/p&gt;
@@ -394,10 +406,12 @@
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/12394</id>
-    <published>2012-10-23T00:00:00+01:00</published>
-    <updated>2012-10-23T00:00:00+01:00</updated>
+    <published>2012-10-23T01:00:00+01:00</published>
+    <updated>2012-12-04T10:34:46+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/speeches/keynote-speech-to-the-world-bribery-and-corruption-compliance-forum"/>
     <title>Keynote speech to the World Bribery and Corruption Compliance Forum </title>
+    <category>Speech</category>
+    <summary>Speech by Solicitor General Oliver Heald QC MP </summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;“Thank you Mr Chairman. It gives me great pleasure to open this conference on this hugely important topic. It is also a great honour to speak alongside so many distinguished speakers to so many eminent delegates. &lt;/p&gt;
 
 &lt;p&gt;“The importance of tackling bribery and corruption, at all levels, cannot be overstated. Corruption is corrosive. Like rust, rot and other decay, corruption, once set in, begins to spread, and which, like rust, rot and other decay, must be stopped before lasting and irreversible damage is done. &lt;/p&gt;
@@ -511,10 +525,12 @@
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/12397</id>
-    <published>2012-10-18T00:00:00+01:00</published>
-    <updated>2012-10-18T00:00:00+01:00</updated>
+    <published>2012-10-18T01:00:00+01:00</published>
+    <updated>2012-12-04T10:26:29+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/speeches/the-role-of-the-law-officers"/>
     <title>The role of the Law Officers </title>
+    <category>Speech</category>
+    <summary>Speech by Solicitor General Oliver Heald QC MP to Kent Law School</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;“It is a pleasure to be speaking here tonight at Kent Law School. May I first thank Professor John Fitzpatrick for inviting me to do so?&lt;/p&gt;
 
 &lt;p&gt;“Before discussing the role of the Law Officers, can I start by saying how delighted I was that Kent Law Clinic was joint winner of ‘Best New Student Pro Bono Activity’ in this year’s Attorney General’s pro bono awards for its Public Access to Land Project. Both the Attorney General and I are strong supporters of Pro Bono by students and the professions.&lt;/p&gt;
@@ -619,9 +635,11 @@ There is no better way for young lawyers to engage with the profession. I was in
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/8446</id>
     <published>2012-10-16T00:00:00+01:00</published>
-    <updated>2012-10-16T00:00:00+01:00</updated>
+    <updated>2012-12-04T13:49:12+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/attorney-general-vetoes-release-of-prince-of-wales-correspondence"/>
     <title>Attorney General vetoes release of Prince of Wales' correspondence</title>
+    <category>News article</category>
+    <summary>Letters from Prince Charles to government departments will not be made public.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Attorney General today issued a certificate under the Freedom of Information Act, both as it applies for the purposes of the Act and as it applies to the Environmental Information Regulations 2004, vetoing the disclosure of correspondence between HRH Prince of Wales and ministers in 7 government departments.&lt;/p&gt;
 
 &lt;p&gt;The Attorney General is the only minister to have access to papers from previous administrations. Having carefully considered all the relevant arguments, and having sought the views of his Cabinet colleagues, as well as the Information Commissioner, the Leader of the Opposition and relevant former ministers he has decided to exercise the veto. &lt;/p&gt;
@@ -633,9 +651,11 @@ There is no better way for young lawyers to engage with the profession. I was in
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/8447</id>
     <published>2012-10-16T00:00:00+01:00</published>
-    <updated>2012-10-16T00:00:00+01:00</updated>
+    <updated>2012-12-04T12:01:24+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/attorney-general-to-apply-for-fresh-inquests-for-victims-of-hillsborough-disaster-16-october-2012"/>
     <title>Attorney General to apply for fresh inquests for victims of Hillsborough disaster 16 October 2012</title>
+    <category>News article</category>
+    <summary>Attorney will apply to the High Court to quash the inquest verdicts of the 96 victims and order fresh inquests.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Attorney General, Dominic Grieve QC MP, has today announced that although his consideration of the evidence is not complete, he has made the decision to apply to the High Court to quash the inquest verdicts of the 96 victims and order fresh inquests.&lt;/p&gt;
 
 &lt;p&gt;He will now write to the families of the victims to give them the opportunity to make representations, and continue the detailed work of preparing an application. This process will take time.&lt;/p&gt;
@@ -698,10 +718,12 @@ There is no better way for young lawyers to engage with the profession. I was in
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/17661</id>
-    <published>2012-10-12T00:00:00+01:00</published>
-    <updated>2012-10-12T00:00:00+01:00</updated>
+    <published>2012-10-12T01:00:00+01:00</published>
+    <updated>2012-12-04T10:57:52+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/speeches/prosecuting-human-trafficking-and-slavery-the-law-and-the-uk-response"/>
     <title>Prosecuting human trafficking and slavery: the law and the UK response</title>
+    <category>Speech</category>
+    <summary>Speech by Solicitor General, Oliver Heald QC MP to students of Peace Studies at Bradford University</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="introduction"&gt;Introduction&lt;/h2&gt;
 
 &lt;p&gt;“It is a great pleasure to be able to speak to you today. I would like to thank Professor Neil Cooper and Dr Julia Buxton for inviting me to speak about human trafficking. It is an opportune time to debate this topic as the UK’s Anti Slavery Day was on the 18 October. You have provided me with an excellent opportunity to mark this day and I am delighted to do so at this department which has such an excellent international reputation in the area of peace studies.&lt;/p&gt;
@@ -860,9 +882,11 @@ We cannot operate in a vacuum, either domestically (which is why we have the &lt
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/6875</id>
     <published>2012-09-12T00:00:00+01:00</published>
-    <updated>2012-09-12T00:00:00+01:00</updated>
+    <updated>2012-12-04T11:53:56+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/hillsborough-independent-panel-report-statement-from-attorney-general"/>
     <title>Hillsborough Independent Panel Report: statement from Attorney General </title>
+    <category>News article</category>
+    <summary>Statement from the Attorney General on the Hillsborough Independent Panel report</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Speaking about the report published today by the Hillsborough Independent Panel, Attorney General Dominic Grieve said:&lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -888,9 +912,11 @@ We cannot operate in a vacuum, either domestically (which is why we have the &lt
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/8445</id>
     <published>2012-09-12T00:00:00+01:00</published>
-    <updated>2012-09-12T00:00:00+01:00</updated>
+    <updated>2012-12-04T13:42:54+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/attorney-general-pledges-swift-consideration-of-hillsborough-independent-panel-report"/>
     <title>Attorney General pledges swift consideration of Hillsborough Independent Panel Report</title>
+    <category>News article</category>
+    <summary>The question of whether to apply for fresh inquests will now be looked at.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Speaking about the report published today by the Hillsborough Independent Panel, the Attorney General Dominic Grieve said&lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -914,9 +940,11 @@ We cannot operate in a vacuum, either domestically (which is why we have the &lt
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/8444</id>
     <published>2012-09-04T00:00:00+01:00</published>
-    <updated>2012-09-04T00:00:00+01:00</updated>
+    <updated>2012-12-04T13:42:14+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/oliver-heald-mp-appointed-solicitor-general-for-england-and-wales"/>
     <title>Oliver Heald MP appointed Solicitor General for England and Wales </title>
+    <category>News article</category>
+    <summary>New Solicitor General announced.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Prime Minister, the Rt Hon David Cameron MP, has appointed Mr Oliver Heald, MP for North East Hertfordshire, to be Solicitor General. Mr Heald takes up his post with immediate effect.&lt;/p&gt;
 
 &lt;p&gt;The Solicitor General supports the Attorney General across the range of his responsibilities and can lawfully exercise any of his functions. &lt;/p&gt;
@@ -940,9 +968,11 @@ We cannot operate in a vacuum, either domestically (which is why we have the &lt
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/7188</id>
     <published>2012-07-31T00:00:00+01:00</published>
-    <updated>2012-07-31T00:00:00+01:00</updated>
+    <updated>2012-12-03T11:00:41+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/attorney-general-vetoes-release-of-cabinet-meeting-minutes-discussing-iraq-war--3"/>
     <title>Attorney General vetoes release of Cabinet meeting minutes discussing Iraq war</title>
+    <category>News article</category>
+    <summary>Minutes from the Iraq war discussions by the Cabinet, made in 2003, will not be released to the public</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Attorney General, Dominic Grieve QC MP, today issued a certificate under the Freedom of Information Act, vetoing the disclosure ordered by the Information Commissioner of extracts of Cabinet meeting minutes from 2003 at which military action against Iraq was discussed. The disclosure of these extracts of the minutes was previously vetoed in 2009 by the then Justice Secretary, Jack Straw.&lt;/p&gt;
 
 &lt;p&gt;The Attorney General is the only minister to have access to papers of the previous administration and so the decision on whether to exercise the veto fell to him. He made the decision after having carefully considered all the relevant arguments and having sought the views of his Cabinet colleagues, as well as the Information Commissioner, the Leader of the Opposition and relevant former ministers.&lt;/p&gt;
@@ -954,9 +984,11 @@ We cannot operate in a vacuum, either domestically (which is why we have the &lt
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/8442</id>
     <published>2012-07-31T00:00:00+01:00</published>
-    <updated>2012-07-31T00:00:00+01:00</updated>
+    <updated>2012-12-04T13:37:40+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/attorney-general-vetoes-release-of-cabinet-meeting-minutes-discussing-iraq-war--4"/>
     <title>Attorney General vetoes release of Cabinet meeting minutes discussing Iraq war</title>
+    <category>News article</category>
+    <summary>Notes from meetings of the previous government will not be made public.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Attorney General, Dominic Grieve QC MP, today issued a certificate under the Freedom of Information Act, vetoing the disclosure, ordered by the Information Commissioner, of extracts of Cabinet meeting minutes from 2003 at which military action against Iraq was discussed. The disclosure of these extracts of the minutes was previously vetoed in 2009 by the then Justice Secretary, Jack Straw.&lt;/p&gt;
 
 &lt;p&gt;The Attorney General is the only minister to have access to papers of the previous administration and so the decision on whether to exercise the veto fell to him. He made the decision after having carefully considered all the relevant arguments and having sought the views of his Cabinet colleagues, as well as the Information Commissioner, the Leader of the Opposition and relevant former ministers.&lt;/p&gt;
@@ -968,9 +1000,11 @@ We cannot operate in a vacuum, either domestically (which is why we have the &lt
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/8443</id>
     <published>2012-07-18T00:00:00+01:00</published>
-    <updated>2012-07-18T00:00:00+01:00</updated>
+    <updated>2012-12-04T13:39:44+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/two-newspapers-fined-for-contempt-of-court-over-levi-bellfield-trial"/>
     <title>Two newspapers fined for contempt of court over Levi Bellfield trial</title>
+    <category>News article</category>
+    <summary>High Court decides articles could have affected a linked trial.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Mirror Group Newspapers Ltd and Associated Newspapers Ltd have been found guilty of contempt of court for publishing potentially prejudicial material whilst the jury was considering its verdict in relation to Rachel Cowles’ alleged abduction by Levi Bellfield.&lt;/p&gt;
 
 &lt;p&gt;After a prosecution brought by the Attorney General, Dominic Grieve QC MP, Sir John Thomas and Mr Justice Tugendhat, at the High Court have today ruled that the allegations published by the Daily Mirror and Daily Mail that Levi Bellfield had a sexual interest in young girls was highly prejudicial to the his continuing trial on a charge of the attempted abduction of Rachel Cowles. The coverage went ‘way beyond’ what the jury had been told or what had been broadcast by the television networks following the conviction of Levi Bellfield for the murder of Milly Dowler. If the jury had not been discharged there would have been a seriously arguable point that any conviction was unsafe, the judges ruled.&lt;/p&gt;
@@ -997,9 +1031,11 @@ We cannot operate in a vacuum, either domestically (which is why we have the &lt
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/8441</id>
     <published>2012-07-05T00:00:00+01:00</published>
-    <updated>2012-07-05T00:00:00+01:00</updated>
+    <updated>2012-12-04T13:51:35+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/unduly-lenient-sentence-cases-referred-to-the-court-of-appeal-latest-figures"/>
     <title>Unduly lenient sentence cases referred to the Court of Appeal – latest figures</title>
+    <category>News article</category>
+    <summary>In 2011, 117 sentences, from 78 cases, were referred to the Court of Appeal as possibly too low.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Attorney General’s Office has released statistics for 2011 sentences which were considered too low - or unduly lenient - and referred to the Court of Appeal, which can quash a sentence and impose a higher one.&lt;/p&gt;
 
 &lt;p&gt;Last year, 117 sentences, from 78 cases, were referred to the Court of Appeal by the Law Officers. The Court considered 97 of them were unduly lenient (83%) and 94 sentences were increased (80% of the 117 referred).&lt;/p&gt;
@@ -1026,10 +1062,12 @@ We cannot operate in a vacuum, either domestically (which is why we have the &lt
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/12376</id>
-    <published>2012-06-30T00:00:00+01:00</published>
-    <updated>2012-06-30T00:00:00+01:00</updated>
+    <published>2012-06-30T01:00:00+01:00</published>
+    <updated>2012-12-03T17:26:46+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/speeches/advocacy-past-present-and-future-constant-values-for-a-modern-bar"/>
     <title>Advocacy, past, present and future - constant values for a modern Bar</title>
+    <category>Speech</category>
+    <summary>Speech by Dominic Grieve QC MP at the World Bar conference </summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;“It is fitting that the World Bar Conference should have as its theme this year - advocacy, past present and future - constant values for a modern Bar. I say that because although the members of the International Council of Advocates and Barristers cover a range of jurisdictions which place differing responsibilities on its lawyers, there is one thing that is common to all - the importance of advocacy skills.&lt;/p&gt;
 
 &lt;p&gt;“Advocacy, of course, is not simply the ability to stand up in front of a court and speak fluently. Nor is it confined to oral advocacy. A well-constructed written skeleton argument may win the case without an advocate having to open their mouth. &lt;/p&gt;
@@ -1083,9 +1121,11 @@ We cannot operate in a vacuum, either domestically (which is why we have the &lt
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/8440</id>
     <published>2012-05-17T00:00:00+01:00</published>
-    <updated>2012-05-17T00:00:00+01:00</updated>
+    <updated>2012-12-04T13:31:37+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/new-tool-to-tackle-economic-crime"/>
     <title>New tool to tackle economic crime </title>
+    <category>News article</category>
+    <summary>Plans published for a new way of dealing with economic crime.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Plans for a new tool to tackle economic crime have been published for consultation by Solicitor General Edward Garnier QC and Justice Minister Crispin Blunt.&lt;/p&gt;
 
 &lt;p&gt;Under Deferred Prosecution Agreements (&lt;abbr title="Deferred Prosecution Agreements"&gt;DPA&lt;/abbr&gt;), companies would agree to publically admit wrongdoing, and meet tough conditions such as payment of substantial penalties, undertaking internal reform and submitting to regular review and monitoring. &lt;/p&gt;
@@ -1125,9 +1165,11 @@ We cannot operate in a vacuum, either domestically (which is why we have the &lt
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/8437</id>
     <published>2012-04-25T00:00:00+01:00</published>
-    <updated>2012-04-25T00:00:00+01:00</updated>
+    <updated>2012-12-04T13:29:18+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/london-rioter-has-sentence-increased-after-reference-by-the-attorney-general"/>
     <title>London rioter has sentence increased after reference by the Attorney General</title>
+    <category>News article</category>
+    <summary>Adam Khan Ahmadzai was said to be at the very heart of the looting and rioting in the August 2011 disturbances.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Court of Appeal has increased the sentence of Adam Khan Ahmadzai, who, in the summer of last year, led a gang of looters along a street in Croydon during the London riots.&lt;/p&gt;
 
 &lt;p&gt;He pleaded guilty in January this year to crimes of violent disorder, robbery, burglary and criminal damage and was sentenced to 4 years’ detention.&lt;/p&gt;

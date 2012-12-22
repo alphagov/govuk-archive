@@ -8,25 +8,39 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-12-14T00:00:00+00:00</updated>
+  <updated>2012-12-21T09:30:00+00:00</updated>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56643</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60195</id>
+    <published>2012-12-21T00:00:00+00:00</published>
+    <updated>2012-12-21T09:30:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/evaluation-of-the-deepened-co-location-trials"/>
+    <title>Evaluation of the deepened co-location trials</title>
+    <category>Publication</category>
+    <summary>Presents findings from case study visits to 8 of the 22 jobcentres that took part in joint location trials with Next Steps.</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;BIS research paper no. 98. Presents findings from case study visits to 8 of the 22 Jobcentres that took part in the joint location trials with Next Step (now known as the National Careers Service).&lt;/p&gt;
+
+&lt;p&gt;It highlights key issues arising from the research with a view to contributing to the success of the wider roll out of joint location in Jobcentres in England.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56755</id>
     <published>2012-12-14T00:00:00+00:00</published>
-    <updated>2012-12-14T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/assessment-of-the-business-link-helpline"/>
-    <title>Assessment of the Business Link helpline</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This study provides the Department for Business, Innovation and Skills (BIS) with an early understanding of whether the Business Link helpline is performing effectively against its strategic objective of ‘digital transformation’, in which more businesses are assisted online rather than through other higher cost provision (for example face-to-face contact). &lt;/p&gt;
+    <updated>2012-12-17T10:13:21+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/assessment-of-the-online-business-support-offer-growth-and-improvement-service-my-new-business"/>
+    <title>Assessment of the online business support offer: Growth and Improvement Service, My New Business</title>
+    <category>Publication</category>
+    <summary>Assesses whether the new Business Link website services were performing effectively in their strategic role of digital transformation.</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This study provides the Department for Business, Innovation and Skills (BIS) with an early understanding of whether online business support services provided by Business Link have performed effectively against the strategic objective of ‘digital transformation’.  That is to successfully assist businesses through a website rather than through higher cost services (for example face to face contact). &lt;/p&gt;
 
-&lt;p&gt;In addition, the research has assessed the value of the service being provided to callers and how far actual demand has matched expectations. The findings are being used to help inform plans for continual improvement of the service. &lt;/p&gt;
-
-&lt;p&gt;The review is based on interviews with helpline staff, analysis of monitoring data, call case studies and a customer survey that consisted of 657 telephone interviews that were completed with customers of the helpline.&lt;/p&gt;&lt;/div&gt;</content>
+&lt;p&gt;The study also makes an early assessment of the value of the services provided to new users, with a focus on cost effectiveness and effective referral to other appropriate business support services in the public, private and third sectors. The support services include the comprehensive start-up service provided by My New Business, and online tools provided by the Growth Improvement Service, enabling businesses to identify and solve problems.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/60019</id>
     <published>2012-12-14T00:00:00+00:00</published>
-    <updated>2012-12-14T00:00:00+00:00</updated>
+    <updated>2012-12-14T15:13:26+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/science-and-innovation-network-annual-report-2011-12"/>
     <title>Science and Innovation Network: Annual Report 2011 to 2012</title>
+    <category>Publication</category>
+    <summary>The Science and Innovation Network supports UK economic and social goals through international collaboration in science research and innovation.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This report shows the scope of the work carried out by the Science and Innovation Network, a joint &lt;abbr title="Department for Business, Innovation and Skills"&gt;BIS&lt;/abbr&gt;-&lt;abbr title="Foreign and Commonwealth Office"&gt;FCO&lt;/abbr&gt; network operating in around 28 countries and territories around the world. &lt;/p&gt;
 
 &lt;p&gt;&lt;abbr title="Science and Innovation Network"&gt;SIN&lt;/abbr&gt; officers are scientifically literate staff in &lt;abbr title="Foreign and Commonwealth Office"&gt;FCO&lt;/abbr&gt; posts who work to benefit the UK through influencing the science and innovation policies of governments, businesses and academia, informing UK policy, and promoting ‘best with best’ collaboration between the UK and other nations. &lt;/p&gt;
@@ -36,21 +50,27 @@
 &lt;p&gt;The &lt;abbr title="Science and Innovation Network"&gt;SIN&lt;/abbr&gt;’s 90+ staff are managed by a team based in &lt;abbr title="Department for Business, Innovation and Skills"&gt;BIS&lt;/abbr&gt;’s International Knowledge and Innovation Unit.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56755</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56643</id>
     <published>2012-12-14T00:00:00+00:00</published>
-    <updated>2012-12-14T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/assessment-of-the-online-business-support-offer-growth-and-improvement-service-my-new-business"/>
-    <title>Assessment of the online business support offer: Growth and Improvement Service, My New Business</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This study provides the Department for Business, Innovation and Skills (BIS) with an early understanding of whether online business support services provided by Business Link have performed effectively against the strategic objective of ‘digital transformation’.  That is to successfully assist businesses through a website rather than through higher cost services (for example face to face contact). &lt;/p&gt;
+    <updated>2012-12-14T17:05:28+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/assessment-of-the-business-link-helpline"/>
+    <title>Assessment of the Business Link helpline</title>
+    <category>Publication</category>
+    <summary>Provides an early understanding of how effectively the Business Link helpline is performing. </summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This study provides the Department for Business, Innovation and Skills (BIS) with an early understanding of whether the Business Link helpline is performing effectively against its strategic objective of ‘digital transformation’, in which more businesses are assisted online rather than through other higher cost provision (for example face-to-face contact). &lt;/p&gt;
 
-&lt;p&gt;The study also makes an early assessment of the value of the services provided to new users, with a focus on cost effectiveness and effective referral to other appropriate business support services in the public, private and third sectors. The support services include the comprehensive start-up service provided by My New Business, and online tools provided by the Growth Improvement Service, enabling businesses to identify and solve problems.&lt;/p&gt;&lt;/div&gt;</content>
+&lt;p&gt;In addition, the research has assessed the value of the service being provided to callers and how far actual demand has matched expectations. The findings are being used to help inform plans for continual improvement of the service. &lt;/p&gt;
+
+&lt;p&gt;The review is based on interviews with helpline staff, analysis of monitoring data, call case studies and a customer survey that consisted of 657 telephone interviews that were completed with customers of the helpline.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/56453</id>
     <published>2012-12-13T00:00:00+00:00</published>
-    <updated>2012-12-13T00:00:00+00:00</updated>
+    <updated>2012-12-12T16:40:36+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/2011-skills-for-life-survey"/>
     <title>2011 skills for life survey</title>
+    <category>Publication</category>
+    <summary>National profile of adult literacy, numeracy, and ICT skills. Assesses the impact of different skills levels on people’s lives</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The 2011 skills for life survey provides a national profile of adult literacy, numeracy, and Information and Communication Technology (ICT) skills, and assesses the impact that different levels of skills had on people’s lives. BIS commissioned this follow-up survey in 2010 to: &lt;/p&gt;
 
 &lt;ul&gt;
@@ -62,129 +82,151 @@
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/56637</id>
     <published>2012-12-10T00:00:00+00:00</published>
-    <updated>2012-12-10T00:00:00+00:00</updated>
+    <updated>2012-12-14T13:40:45+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/strength-opportunity-2012-the-landscape-of-the-medical-biotechnology-industrial-biotechnology-and-pharmaceutical-sectors-in-the-uk-annual-update-december-2012--2"/>
     <title>Strength &amp; opportunity 2012: the landscape of the medical biotechnology, industrial biotechnology and pharmaceutical sectors in the UK. Annual update - December 2012</title>
+    <category>Publication</category>
+    <summary>Fourth annual report analysing the updated 2012 dataset from the bioscience and health technology database.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Fourth annual report analysing the updated 2012 dataset from the bioscience and health technology database. The data relates to companies that are active in the UK in three of the life sciences sectors: medical technology, medical biotechnology and industrial biotechnology. Enables comparisons against last year’s information to see how these sectors are changing. Overview of this highly innovative industry with over 4,500 companies, employing over 167,000 people and generating a turnover of over £50 billion.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/56392</id>
     <published>2012-12-06T00:00:00+00:00</published>
-    <updated>2012-12-06T00:00:00+00:00</updated>
+    <updated>2012-12-13T17:19:46+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/further-education-fe-college-capital-investment-strategy"/>
     <title>Further education (FE) college capital investment strategy</title>
+    <category>Publication</category>
+    <summary>Outlines the government’s priorities for capital funding plans for the remainder of this Parliament in further education colleges</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Outlines the government’s priorities for capital funding plans for the remainder of this Parliament and aspirations for future capital investment in further education (FE) colleges. Sets out key priorities, and it encourages colleges to develop coherent property strategies capable of a phased implementation to maximise the impact of capital grant availability. Also includes some FE college capital project case studies. &lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/56315</id>
     <published>2012-12-06T00:00:00+00:00</published>
-    <updated>2012-12-06T00:00:00+00:00</updated>
+    <updated>2012-12-13T14:59:09+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/evaluation-of-the-impact-of-capital-expenditure-in-further-education-fe-colleges"/>
     <title>Evaluation of the impact of capital expenditure in further education (FE) colleges</title>
+    <category>Publication</category>
+    <summary>Report commissioned by BIS evaluate the impact of capital spending on key policy goals.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;BIS research paper no.99. Report commissioned by BIS evaluate the impact of capital spending on key policy goals. Combines quantitative and qualitative research and builds on a previous study undertaken in 2008. Focuses on completed capital spending projects by FE colleges within England (total per college) between April 2001 and September 2011. Underlying data for tables and figure in this publication is available in a machine processable format: &lt;a rel="external" href="http://data.gov.uk/dataset/impact-of-capital-expenditure-in-further-education-colleges-evaluation"&gt;underlying data on the impact of capital expenditure in FE colleges&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/48220</id>
-    <published>2012-11-28T00:00:00+00:00</published>
-    <updated>2012-11-28T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/implementing-the-recommendations-from-the-breedon-review-a-progress-report-november-2012"/>
-    <title>Implementing the recommendations from the Breedon Review: a progress report (November 2012)</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Provides an update for each recommendation made by the industry taskforce on non-bank lending led by Tim Breedon. See also See 12/668 for the taskforce report, and 12/669 for the government response.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/56624</id>
     <published>2012-11-28T00:00:00+00:00</published>
-    <updated>2012-11-28T00:00:00+00:00</updated>
+    <updated>2012-12-11T16:31:01+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/strengthening-uk-based-supply-chains-construction-and-infrastructure"/>
     <title>Strengthening UK-based supply chains: construction and infrastructure</title>
+    <category>Publication</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Explains the links between the industrial strategy and a number of ongoing initiatives with the construction sector, including infrastructure construction. Focuses on how the publication of pipelines of future opportunities can help build supply chain capability. The approach set out is also relevant to other industry sectors.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56621</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/48220</id>
     <published>2012-11-28T00:00:00+00:00</published>
-    <updated>2012-11-28T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/building-information-modelling"/>
-    <title>Building information modelling</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Capability assessment setting out the actions that government and industry will take to create opportunities for the UK construction sector by becoming a world leader in building information modelling (BIM). This will build on progress already made in embedding BIM into the domestic sector. Capability assessment that demonstrates progress on procurement growth review commitments announced by Government. Also shows how procurement supports industrial strategy.&lt;/p&gt;&lt;/div&gt;</content>
+    <updated>2012-12-11T16:31:01+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/implementing-the-recommendations-from-the-breedon-review-a-progress-report-november-2012"/>
+    <title>Implementing the recommendations from the Breedon Review: a progress report (November 2012)</title>
+    <category>Publication</category>
+    <summary/>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Provides an update for each recommendation made by the industry taskforce on non-bank lending led by Tim Breedon. See also See 12/668 for the taskforce report, and 12/669 for the government response.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/56623</id>
     <published>2012-11-28T00:00:00+00:00</published>
-    <updated>2012-11-28T00:00:00+00:00</updated>
+    <updated>2012-12-11T16:31:00+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/renal-market-a-capability-assessment"/>
     <title>Renal market: a capability assessment</title>
+    <category>Publication</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Capability analysis of the renal market that demonstrates how a strategic relationship between government and industry can help both parties to respond to the UK’s health needs and build the UK supply base. Provides context on the scope of kidney disease, and the challenges the NHS subsequently faces. Reviews renal and the associated market to understand the wider supply chain issues, and examines the capabilities of the supply chain to meet future demand, exploring potential benefits for UK based firms.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56616</id>
-    <published>2012-11-27T00:00:00+00:00</published>
-    <updated>2012-11-27T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/report-on-the-consultation-on-extending-access-to-careers-guidance-summary-of-responses"/>
-    <title>Report on the consultation on extending access to careers guidance: summary of responses</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Summarises responses to the Department for Education consultation on extending access to careers guidance, carried out in 2012. Also explains the government’s response, and its commitment to extend access to independent and impartial careers guidance to year 8 pupils and to 16-18 year olds in schools and colleges.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56952</id>
-    <published>2012-11-27T00:00:00+00:00</published>
-    <updated>2012-11-27T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/prior-qualifications-of-adult-apprentices-2010-to-2011"/>
-    <title>Prior qualifications of adult apprentices 2010 to 2011</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;BIS research paper no. 83. Presents the findings of research into the prior skills and qualification levels of adults undertaking apprenticeships in 2010 / 2011. Aims to better understand how investment in apprenticeship provision is being directed towards up-skilling individuals with lower skill levels, especially those without attainment at full level 2. Also explores the profile of apprentices in demographics, employment status and income, and to investigate why people take up apprenticeships. See also reports on prior qualifications of adults in classroom based learning (URN 12/P170) and in Train to Gain learning (12/P171).&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56984</id>
-    <published>2012-11-27T00:00:00+00:00</published>
-    <updated>2012-11-27T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/prior-qualifications-of-learners-on-train-to-gain-provision-at-level-2-and-level-3-in-2010-to-2011"/>
-    <title>Prior qualifications of learners on train to gain provision at level 2 and level 3 in 2010 to 2011</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;BIS research paper no. 84. Presents the findings of research into the highest prior qualifications levels of adult learners (aged 19 and over) who undertook full level 2 or full level 3 Train to Gain learning in November 2010. Covers some of the last groups of learners to be funded under Train to Gain. Aims to better understand the extent to which investment in Train to Gain has been directed towards up-skilling individuals with lower skill levels. Also explores the profile of learners undertaking learning under Train to Gain and those undertaking their first Level 2 learning, in demographics, employment status and income, and investigates why they take up Train to Gain learning. See also reports on prior qualifications of adults in classroom based learning (URN 12/P170) and in classroom based learning (12/P170).&lt;/p&gt;&lt;/div&gt;</content>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56621</id>
+    <published>2012-11-28T00:00:00+00:00</published>
+    <updated>2012-12-11T16:31:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/building-information-modelling"/>
+    <title>Building information modelling</title>
+    <category>Publication</category>
+    <summary/>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Capability assessment setting out the actions that government and industry will take to create opportunities for the UK construction sector by becoming a world leader in building information modelling (BIM). This will build on progress already made in embedding BIM into the domestic sector. Capability assessment that demonstrates progress on procurement growth review commitments announced by Government. Also shows how procurement supports industrial strategy.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/56980</id>
     <published>2012-11-27T00:00:00+00:00</published>
-    <updated>2012-11-27T00:00:00+00:00</updated>
+    <updated>2012-12-11T16:31:20+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/prior-qualifications-of-adults-undertaking-classroom-based-courses-in-further-education-2010-to-2011"/>
     <title>Prior qualifications of adults undertaking classroom-based courses in further education 2010 to 2011</title>
+    <category>Publication</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;BIS research paper no. 82. Presents the findings of research into the prior skills and qualification levels of adults aged 19 and over on adult learner responsive (ALR) learning provision in 2010 / 2011. The research aimed to understand the extent to which investment in ALR learning provision is being directed toward up-skilling individuals with lower skill levels. Also explores the profile of learners undertaking such courses and those undertaking their first Level 2 learning, in demographics, employment status and income, and to investigate why learners take up these courses. See also reports on prior qualifications of adults in apprenticeships (URN 12/P169) and in Train to Gain learning (12/P171).&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56952</id>
+    <published>2012-11-27T00:00:00+00:00</published>
+    <updated>2012-12-11T16:31:20+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/prior-qualifications-of-adult-apprentices-2010-to-2011"/>
+    <title>Prior qualifications of adult apprentices 2010 to 2011</title>
+    <category>Publication</category>
+    <summary/>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;BIS research paper no. 83. Presents the findings of research into the prior skills and qualification levels of adults undertaking apprenticeships in 2010 / 2011. Aims to better understand how investment in apprenticeship provision is being directed towards up-skilling individuals with lower skill levels, especially those without attainment at full level 2. Also explores the profile of apprentices in demographics, employment status and income, and to investigate why people take up apprenticeships. See also reports on prior qualifications of adults in classroom based learning (URN 12/P170) and in Train to Gain learning (12/P171).&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56616</id>
+    <published>2012-11-27T00:00:00+00:00</published>
+    <updated>2012-12-11T16:31:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/report-on-the-consultation-on-extending-access-to-careers-guidance-summary-of-responses"/>
+    <title>Report on the consultation on extending access to careers guidance: summary of responses</title>
+    <category>Publication</category>
+    <summary/>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Summarises responses to the Department for Education consultation on extending access to careers guidance, carried out in 2012. Also explains the government’s response, and its commitment to extend access to independent and impartial careers guidance to year 8 pupils and to 16-18 year olds in schools and colleges.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56984</id>
+    <published>2012-11-27T00:00:00+00:00</published>
+    <updated>2012-12-11T16:31:20+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/prior-qualifications-of-learners-on-train-to-gain-provision-at-level-2-and-level-3-in-2010-to-2011"/>
+    <title>Prior qualifications of learners on train to gain provision at level 2 and level 3 in 2010 to 2011</title>
+    <category>Publication</category>
+    <summary/>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;BIS research paper no. 84. Presents the findings of research into the highest prior qualifications levels of adult learners (aged 19 and over) who undertook full level 2 or full level 3 Train to Gain learning in November 2010. Covers some of the last groups of learners to be funded under Train to Gain. Aims to better understand the extent to which investment in Train to Gain has been directed towards up-skilling individuals with lower skill levels. Also explores the profile of learners undertaking learning under Train to Gain and those undertaking their first Level 2 learning, in demographics, employment status and income, and investigates why they take up Train to Gain learning. See also reports on prior qualifications of adults in classroom based learning (URN 12/P170) and in classroom based learning (12/P170).&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/56389</id>
     <published>2012-11-22T00:00:00+00:00</published>
-    <updated>2012-11-22T00:00:00+00:00</updated>
+    <updated>2012-12-11T16:30:59+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/business-school-mid-sized-business-msb-collaboration-supporting-growth-in-the-uks-mid-sized-businesses"/>
     <title>Business school/mid-sized business (MSB) collaboration: supporting growth in the UK's mid-sized businesses</title>
+    <category>Publication</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Summarises findings and recommendations from the business school mid-sized business (MSB) task force set up by BIS in November 2011. While the Task Force has uncovered many examples of effective business school engagement with MSBs, there is much more that both sides can do to foster stronger, more sustainable relationships. The report is a call to action for business schools to proactively engage with MSBs, and for MSBs to improve their own management capability.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/56987</id>
     <published>2012-11-21T00:00:00+00:00</published>
-    <updated>2012-11-21T00:00:00+00:00</updated>
+    <updated>2012-12-11T16:31:21+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/annual-innovation-report-2012-innovation-research-and-growth"/>
     <title>Annual innovation report 2012: innovation, research and growth</title>
+    <category>Publication</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Fourth annual innovation report that gives the latest available evidence on UK innovation performance and the contribution of business, government, higher education and research organisations to UK innovation activities. Presents key measures of innovation and research performance, and provides a benchmark to track performance measures for the Innovation and research strategy for growth (URN 11/1387). Also records the practical progress made implementing the strategy. Underlying data for this publication is available in a machine processable format on the Transparency/Report Data webpage.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/56270</id>
     <published>2012-11-15T00:00:00+00:00</published>
-    <updated>2012-11-15T00:00:00+00:00</updated>
+    <updated>2012-12-11T16:30:52+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/tracking-the-decision-making-of-high-achieving-higher-education-applicants"/>
     <title>Tracking the decision-making of high achieving higher education applicants</title>
+    <category>Publication</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;BIS research paper no. 86. Presents findings from research into the decision-making process of high achieving A level students. Analyses the attributes of high achieving applicants to higher education (HE) in comparison to the attributes of the wider applicant population. Examines the factors that contribute to the decision-making process of high achievers, and uses these to frame the admissions experiences of those who applied to the most selective HE and those who did not.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/56379</id>
     <published>2012-11-14T00:00:00+00:00</published>
-    <updated>2012-11-14T00:00:00+00:00</updated>
+    <updated>2012-12-11T16:30:58+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/an-exploratory-evaluation-of-the-next-step-service"/>
     <title>An exploratory evaluation of the Next Step service</title>
+    <category>Publication</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;BIS research report no. 97. Report of a study to evaluate outcomes associated with the Next Step careers and skills advice service. Explored the potential for exploiting the new Next Step customer data to analyse employment and learning outcomes for Next Step customers using a matched dataset. Underlying data for tables and figures in this publication is available in a machine processable format on the Transparency/Report Data webpage.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/55983</id>
-    <published>2012-11-12T00:00:00+00:00</published>
-    <updated>2012-11-12T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/valuing-adult-learning-comparing-wellbeing-valuation-and-contingent-valuation"/>
-    <title>Valuing adult learning: comparing wellbeing valuation and contingent valuation</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;BIS research paper no.85. Report that uses data from the British Household Panel Survey to assess how the benefits of adult learning for society and for those who receive it. Economists think about individual benefits in terms of changes in utility and money, to compare the costs of adult learning with its benefits. Explores both experienced utility, where adult learning makes people think and feel better about life, and decision utility, adult learning is something people desire, and compares the results generated by each.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
 </feed>

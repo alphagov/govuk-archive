@@ -8,7 +8,7 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-11-27T00:00:00+00:00</updated>
+  <updated>2012-12-11T16:31:01+00:00</updated>
   <entry>
     <id>tag:www.gov.uk,2005:Publication/48221</id>
     <published>2012-11-27T00:00:00+00:00</published>
@@ -16,6 +16,7 @@
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/jo-swinsons-response-to-non-governmental-organisation-campaigns-on-transparency-in-the-extractives-industry-ministerial-statement"/>
     <title>Jo Swinson's response to non-governmental organisation campaigns on transparency in the extractives industry: ministerial statement</title>
     <category>Publication</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Statement by Minister Jo Swinson given in response to letters and emails received regarding the new corporate transparency measures included in the European Union Accounting Directive relating to the oil, gas and mining industries.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
@@ -24,7 +25,8 @@
     <updated>2012-12-11T16:30:20+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/government-responds-to-the-kay-review"/>
     <title>Government responds to the Kay Review</title>
-    <category>News Article</category>
+    <category>News article</category>
+    <summary>Government sets out steps to change the culture in the UK's equity markets.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;22 Nov 2012&lt;/p&gt;
 
 &lt;hr&gt;&lt;hr&gt;&lt;p&gt;The need for a fundamental change in the culture of investment was endorsed by Business Secretary Vince Cable today, in his response to the Kay Review of UK Equity Markets.&lt;/p&gt;
@@ -74,6 +76,7 @@
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/ensuring-equity-markets-support-long-term-growth-government-response-to-the-kay-review"/>
     <title>Ensuring equity markets support long-term growth: government response to the Kay review</title>
     <category>Publication</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Government’s response to Professor John Kay’s report into the effect of UK equity markets on the competitiveness of UK business (URN 12/917). Explains why the Government accepts Professor Kay’s analysis and his suggested principles for UK equity markets, and the directions from these principles for market participants and regulatory policy makers. Also provides detailed responses to the 17 more specific review recommendations, explaining what steps the Government is taking to deliver these, and where they are engaging with business and investment industry stakeholders to encourage them to take the lead.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
@@ -83,6 +86,7 @@
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/enterprise-regulatory-reform-bill-directors-pay"/>
     <title>Enterprise &amp; Regulatory Reform Bill: directors' pay</title>
     <category>Publication</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Overview of measures in  the Enterprise and Regulatory Reform Bill relating to directors’ pay and shareholder voting on this issue. Explains the main purpose and benefits, and provides context.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
@@ -92,6 +96,7 @@
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/enterprise-regulatory-reform-bill-equalities-equality-act-2010"/>
     <title>Enterprise &amp; Regulatory Reform Bill: equalities (Equality Act 2010)</title>
     <category>Publication</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Overview of measures in the Enterprise and Regulatory Reform Bill relating to removing obstacles preventing the government from achieving a fair society, and introducing stronger steps towards addressing the gender pay gap. Explains the main purpose and benefits, and provides context.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
@@ -101,6 +106,7 @@
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/consultations/employee-ownership-and-share-buy-backs-consultation-on-implementation-of-nuttall-review-recommendations"/>
     <title>Employee Ownership and Share Buy Backs - Consultation on implementation of Nuttall Review recommendations</title>
     <category>Consultation</category>
+    <summary>The Nuttall Review on Employee Ownership recommended (Recommendation V) that the Government should review and consult on changes to deregulate the conditions under which companies can: authorise share buy backs; finance share buy backs; and hold shares ‘in treasury’.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;hr&gt;&lt;p&gt;This consultation seeks views on deregulatory changes to the conditions under which companies can authorise and finance the repurchase of its own shares, and hold these shares once repurchased. The regulation of share buy backs is governed by the Companies Act 2006. Changes to these regulations, such as those proposed in this consultation would require changes via secondary legislation. The draft regulations attached below indicate how the government would implement these changes. Through this consultation we would also like to understand the implications for companies, employees, and other shareholders. In particular we wish to ensure there are no unintended consequences.&lt;/p&gt;
 
 &lt;h2 id="download-the-consultation"&gt;Download the consultation&lt;/h2&gt;
@@ -119,6 +125,7 @@
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/the-future-of-narrative-reporting-a-new-structure-for-narrative-reporting-in-the-uk"/>
     <title>The future of narrative reporting: a new structure for narrative reporting in the UK</title>
     <category>Publication</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Respond by 15 November 2012. Seeks views on a package of draft regulations to reform narrative reporting in the UK. Aims to create a new structure to help shareholders, investors and other stakeholders find relevant information quickly and easily. Accompanies an impact assessment (URN 12/978) and Regulatory Policy Committee opinion (12/1227). See also 11/945 for the related consultation and 12/588 for the government response.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
@@ -128,6 +135,7 @@
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/consultations/consultation-on-implementing-employee-owner-status--2"/>
     <title>Consultation on implementing employee owner status</title>
     <category>Consultation</category>
+    <summary>The Government is creating a new employment status: “employee owner”.  This will give businesses greater choice about the contracts they can offer to individuals, whilst ensuring appropriate levels of protection are maintained.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;hr&gt;&lt;p&gt;Under this new status, employee owners will receive shares between £2,000 and £50,000 which will be exempt from capital gains tax. Employee owners will have the same rights as current employees excluding unfair dismissal (except where this is automatically unfair or relates to anti-discrimination law), certain rights to request flexible working and training, and statutory redundancy pay. Individuals will also need to give longer notice to return from maternity leave or adoption leave. &lt;/p&gt;
 
 &lt;p&gt;This consultation seeks views on how the government will implement the employee owner status in practical terms. Through this consultation we would also like to understand the implications for employers, individuals, and the labour market in general. In particular we wish to ensure there are no unintended consequences. &lt;/p&gt;
@@ -147,6 +155,7 @@
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/initial-assessment-by-the-uk-national-contact-point-for-the-oecd-guidelines-for-multinational-enterprises-complaint-from-an-individual-in-india-against-a-uk-registered-company"/>
     <title>Initial assessment by the UK national contact point for the OECD guidelines for multinational enterprises: complaint from an individual in India against a UK registered company</title>
     <category>Publication</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Records the decision of the UK national contact point on whether to accept for further consideration a complaint from an individual against a UK company, for a breach of the OECD guidelines for multinational enterprises. See URN 12/1230 for a request for a review of the decision.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
@@ -156,6 +165,7 @@
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/specific-instance-under-the-oecd-guidelines-for-multi-national-enterprises-application-for-review-of-the-initial-assessment"/>
     <title>Specific instance under the OECD guidelines for multi-national enterprises: application for review of the initial assessment</title>
     <category>Publication</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Records the recommendation of the Steering Board on a request for review of the decision of the UK national contact point on a complaint from an individual against a UK company, for a breach of the OECD guidelines for multinational enterprises. See URN 12/1229 for the initial assessment decision.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
 </feed>

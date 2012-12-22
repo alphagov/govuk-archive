@@ -8,14 +8,15 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-12-12T16:30:00+00:00</updated>
+  <updated>2012-12-13T08:59:53+00:00</updated>
   <entry>
     <id>tag:www.gov.uk,2005:NewsArticle/55324</id>
     <published>2012-12-12T16:30:00+00:00</published>
     <updated>2012-12-13T08:59:53+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/north-korean-ambassador-summoned-to-foreign-and-commonwealth-office"/>
     <title>North Korean Ambassador summoned to Foreign and Commonwealth Office </title>
-    <category>News Article</category>
+    <category>News article</category>
+    <summary>The North Korean Ambassador was summoned by the PUS at the FCO following news of the launch of a satellite by North Korea earlier today. </summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Permanent Under Secretary, Simon Fraser, today summoned the Democratic People’s Republic of Korea Ambassador in London, Mr Hyon Hak Bong, to the Foreign and Commonwealth Office. &lt;/p&gt;
 
 &lt;p&gt;Simon Fraser made clear to the Ambassador the UK’s condemnation of the DPRK’s actions. He stressed that the international community was united in their assessment that this launch, using ballistic missile technology, was a breach of UN Security Council Resolution 1874 and that it threatened regional stability. &lt;/p&gt;
@@ -30,7 +31,8 @@
     <updated>2012-12-10T15:02:43+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/foreign-secretary-condemns-north-koreas-proposed-satellite-launch"/>
     <title>Foreign Secretary condemns North Korea's proposed satellite launch </title>
-    <category>News Article</category>
+    <category>News article</category>
+    <summary>Foreign Secretary William Hague has said that any attempts by North Korea to launch a satellite using ballistic missile technology would be a serious violation of  UN Security Council resolution 1874.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Commenting on North Korea’s plans to launch a satellite, the Foreign Secretary, William Hague said:&lt;/p&gt;
 
 &lt;p&gt;“We condemn the announcement by North Korea’s Central News Agency that North Korea intends to launch a satellite between 10-22 December. The United Nations Security Council made clear in April that any attempts by North Korea to launch a satellite using ballistic missile technology would be a serious violation of UN Security Council resolution 1874. We therefore call on the North Korean authorities to abandon this plan. Failure to do so must lead to a further response by the international community, and will damage the prospects for peace and stability on the Korean Peninsula.”&lt;/p&gt;&lt;/div&gt;</content>
@@ -41,7 +43,8 @@
     <updated>2012-12-11T16:23:20+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/support-for-a-global-arms-trade-treaty"/>
     <title>Support for a global Arms Trade Treaty</title>
-    <category>News Article</category>
+    <category>News article</category>
+    <summary>Foreign Office Minister Alistair Burt has welcomed yesterday's vote at the UN, he said: "Agreement on an Arms Trade Treaty is closer than ever, and the UK will be at the forefront of efforts to finally secure this."</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Yesterday UN Member States voted overwhelmingly in support of a UN General Assembly Resolution that secured a resumption of negotiations on the Arms Trade Treaty. The Resolution convened a further UN conference from 18 to 28 March 2013 in New York. Speaking today, Minister responsible for the Arms Trade Treaty, Alistair Burt said:            &lt;/p&gt;
 
 &lt;p&gt;“Yesterday in New York, 157 countries pledged their support for a global Arms Trade Treaty. An overwhelming majority of states, including the US, China and India, voted for a return to UN negotiations in 2013 to finalise work on a Treaty that will save lives, reduce human suffering and bring consistency to the global trade in conventional arms. The UK has led the international efforts towards an Arms Trade Treaty since 2006 and, with the majority of the world alongside us, will redouble our efforts to secure a Treaty that will make a difference to millions of lives around the world. Agreement on an Arms Trade Treaty is closer than ever, and the UK will be at the forefront of efforts to finally secure this. I appreciate the public support which has underlined our approach and helped to secure this positive outcome.”  &lt;/p&gt;&lt;/div&gt;</content>
@@ -52,7 +55,8 @@
     <updated>2012-12-11T16:23:01+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/this-week-at-the-foreign-office--96"/>
     <title>This week at the Foreign Office</title>
-    <category>News Article</category>
+    <category>News article</category>
+    <summary>A look at the work of the Foreign Office and its embassies overseas this week.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;&lt;strong&gt;Indonesia State Visit&lt;/strong&gt;   &lt;/p&gt;
 
 &lt;p&gt;The Foreign Secretary William Hague met Indonesian President Yudhoyono this week during his state visit to the UK. The Foreign Secretary said: “This visit will be an opportunity for us to build on the strong partnership established over the last decade.” President Yudhoyono also met with the Queen, members of the royal family and &lt;a rel="external" href="http://www.number10.gov.uk/news/president-yudhoyono-of-indonesia/"&gt;Prime Minister David Cameron&lt;/a&gt;. He also attended the UK High Level Panel meeting and gave a Wilton Park address on Indonesia’s role as a regional and global actor. The Indonesian Foreign Minister Marty Natalegawa wrote a guest post about the visit for &lt;a rel="external" href="http://www.facebook.com/williamjhague"&gt;The Foreign Secretary’s facebook page&lt;/a&gt;   &lt;/p&gt;
@@ -94,6 +98,7 @@ Nasrin Sotoudeh**   &lt;/p&gt;
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/speeches/global-initiative-to-combat-nuclear-terrorism"/>
     <title>Global Initiative to Combat Nuclear Terrorism</title>
     <category>Speech</category>
+    <summary>Foreign Office Minister Alistair Burt gave a speech at the (GICNT) symposium on the detection of nuclear material.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Thank you Professor Clary for your kind introduction. And my thanks to the co-chairs of the Global Initiative and our partners in this event, notably Atomic Weapons Establishment, the Ministry of Defence and our colleagues from the Defence Threat Reduction Agency (DTRA) in the United States.&lt;/p&gt;
 
 &lt;p&gt;I would first like to extend my appreciation to everyone here for taking the time from your busy schedules join us at Lancaster House to discuss one of the most important issues of our time: nuclear terrorism.&lt;/p&gt;
@@ -147,7 +152,8 @@ The more I have read about the fight against nuclear material trafficking, the m
     <updated>2012-12-11T16:23:32+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/nuclear-terrorism-remains-one-of-the-greatest-threats-to-our-global-peace-and-security"/>
     <title>“Nuclear  terrorism remains one of the greatest threats to our global peace and security”</title>
-    <category>News Article</category>
+    <category>News article</category>
+    <summary>UK Statement by Baroness Warsi at the UN High Level Meeting on Countering Nuclear Terrorism – 28 September 2012</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Nuclear  terrorism remains one of the greatest threats to our global peace and security.  &lt;/p&gt;
 
 &lt;p&gt;A successful attack, no matter where in the world it came, would be catastrophic.  &lt;/p&gt;
@@ -188,7 +194,8 @@ The more I have read about the fight against nuclear material trafficking, the m
     <updated>2012-12-11T16:21:09+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/foreign-office-minister-welcomes-declaration-on-mongolias-nuclear-weapon-free-status"/>
     <title>Foreign Office Minister welcomes declaration on Mongolia's Nuclear-Weapon-Free Status</title>
-    <category>News Article</category>
+    <category>News article</category>
+    <summary>In New York today, the five Permanent Members of the UN Security Council (UK, US, France, Russia and China) and Mongolia adopted a declaration on Mongolia’s Nuclear-Weapon-Free Status.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Speaking following the adoption, Foreign Office Minister Alistair Burt said:&lt;/p&gt;
 
 &lt;p&gt;“I welcome today’s declaration by the P5 and by Mongolia as a further contribution to global and regional peace and security. I congratulate Mongolia on this achievement. By endorsing this declaration, the P5 agree to respect the nuclear weapon free status of Mongolia and not to contribute to any act that would violate it.  &lt;/p&gt;
@@ -201,7 +208,8 @@ The more I have read about the fight against nuclear material trafficking, the m
     <updated>2012-12-11T16:21:08+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/foreign-office-minister-iaea-board-resolution-sends-clear-message-to-iran"/>
     <title>Foreign Office Minister: "IAEA board resolution sends clear message to Iran"</title>
-    <category>News Article</category>
+    <category>News article</category>
+    <summary>The International Atomic Energy Agency (IAEA) yesterday passed a resolution calling on Iran to cooperate urgently with the IAEA on its disputed nuclear programme.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The resolution was sponsored by the five permanent members of the UN Security Council, plus Germany, (P5+1) and received overwhelming backing from the countries on the IAEA Board.  &lt;/p&gt;
 
 &lt;p&gt;Welcoming the resolution Minister for the Middle East Alistair Burt, said:&lt;/p&gt;
@@ -218,7 +226,8 @@ The more I have read about the fight against nuclear material trafficking, the m
     <updated>2012-12-11T16:22:10+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/arms-trade-treaty"/>
     <title>Arms Trade Treaty</title>
-    <category>News Article</category>
+    <category>News article</category>
+    <summary>Foreign Office Minister Alistair Burt said that the UK is absolutely committed to securing a robust and effective Treaty when he updated Parliament on the July negotiations.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;I would like to update the House on the outcome of the UN Conference on the Arms Trade Treaty (ATT) which took place in New York from 2 to 27 July 2012.  &lt;/p&gt;
 
 &lt;p&gt;The Conference followed six years of work in the UN to secure a legally binding Treaty to regulate the international trade in conventional arms. The illegal, or poorly regulated, trade in conventional arms costs lives and blights futures.  More than 740,000 men, women and children die each year as a result of armed violence.   &lt;/p&gt;
@@ -237,7 +246,8 @@ The more I have read about the fight against nuclear material trafficking, the m
     <updated>2012-12-11T16:20:50+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/uk-ministers-fully-committed-to-taking-work-on-arms-trade-treaty-forward-urgently"/>
     <title>UK Ministers "fully committed to taking work on Arms Trade Treaty forward urgently"</title>
-    <category>News Article</category>
+    <category>News article</category>
+    <summary>In an open letter on the Arms Trade Treaty, UK Ministers Alistair Burt and Alan Duncan wrote to Oxfam, Amnesty International, Article 36, Saferworld, Transparency International and Action on Armed Violence.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;They wrote:  &lt;/p&gt;
 
 &lt;p&gt;“As the dust settles after four tough weeks of negotiations in New York on an Arms Trade Treaty, we thought we should write to you with our reactions to what happened and thoughts on where we go from here. Firstly, we would like to thank you for your commitment to securing a robust ATT and for the close working relationship we have established, which was very evident in New York.&lt;/p&gt;

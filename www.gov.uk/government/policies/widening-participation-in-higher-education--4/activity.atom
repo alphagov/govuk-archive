@@ -8,7 +8,7 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-12-06T00:00:00+00:00</updated>
+  <updated>2012-12-13T17:19:46+00:00</updated>
   <entry>
     <id>tag:www.gov.uk,2005:Publication/56392</id>
     <published>2012-12-06T00:00:00+00:00</published>
@@ -16,6 +16,7 @@
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/further-education-fe-college-capital-investment-strategy"/>
     <title>Further education (FE) college capital investment strategy</title>
     <category>Publication</category>
+    <summary>Outlines the government’s priorities for capital funding plans for the remainder of this Parliament in further education colleges</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Outlines the government’s priorities for capital funding plans for the remainder of this Parliament and aspirations for future capital investment in further education (FE) colleges. Sets out key priorities, and it encourages colleges to develop coherent property strategies capable of a phased implementation to maximise the impact of capital grant availability. Also includes some FE college capital project case studies. &lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
@@ -25,6 +26,7 @@
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/tracking-the-decision-making-of-high-achieving-higher-education-applicants"/>
     <title>Tracking the decision-making of high achieving higher education applicants</title>
     <category>Publication</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;BIS research paper no. 86. Presents findings from research into the decision-making process of high achieving A level students. Analyses the attributes of high achieving applicants to higher education (HE) in comparison to the attributes of the wider applicant population. Examines the factors that contribute to the decision-making process of high achievers, and uses these to frame the admissions experiences of those who applied to the most selective HE and those who did not.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
@@ -34,6 +36,7 @@
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/methodological-review-of-the-student-income-and-expenditure-survey"/>
     <title>Methodological review of the student income and expenditure survey</title>
     <category>Publication</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;BIS research paper no. 29. Report of a review commissioned by BIS. Examines the methods used for the last two student income and expenditure surveys (SIESs) and the feasibility of alternative approaches. Looks at current thinking, knowledge and experience of relevant student finance surveys, makes recommendations for the next planned round of SIES (expected in 2011/12). Focused on sampling and contacting students, response rates, data collection, data linking, and likely implications of any methodological changes on the ability to measure trends over time.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
@@ -43,6 +46,7 @@
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/widening-participation-in-higher-education-august-2012"/>
     <title>Widening participation in higher education: August 2012</title>
     <category>Publication</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Provides information on the estimated number of 15 year olds in receipt of free school meals who progress to higher education (HE) by age 19 by 2008/09. Gives data on the number of young people taking A levels or equivalent qualifications who progress to&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
@@ -51,7 +55,8 @@
     <updated>2012-12-11T16:30:13+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/inspiring-the-future-launches"/>
     <title>Inspiring the Future launches</title>
-    <category>News Article</category>
+    <category>News article</category>
+    <summary>A new scheme to send  volunteers into state schools to give inspirational talks about their careers launches today.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;2 Jul 2012&lt;/p&gt;
 
 &lt;hr&gt;&lt;hr&gt;&lt;p&gt;A new scheme to send an army of volunteers into state schools to give inspirational talks about their careers has been launched by Deputy Prime Minister Nick Clegg today.   &lt;/p&gt;
@@ -74,7 +79,8 @@
     <updated>2012-12-11T16:30:12+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/reforms-to-higher-education-sector-announced"/>
     <title>Reforms to Higher Education sector announced</title>
-    <category>News Article</category>
+    <category>News article</category>
+    <summary>The response to the Higher Education White Paper is published today.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;11 Jun 2012&lt;/p&gt;
 
 &lt;hr&gt;&lt;hr&gt;&lt;p&gt;Plans to put students at the heart of the system were announced by Ministers today, as they set out their response to the Higher Education White Paper.&lt;/p&gt;
@@ -97,7 +103,8 @@
     <updated>2012-12-11T16:25:24+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/widening-participation-statistics-released"/>
     <title>Widening participation statistics released</title>
-    <category>News Article</category>
+    <category>News article</category>
+    <summary>New statistical release from ONS</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;&lt;a rel="external" href="http://www.bis.gov.uk//analysis/statistics/higher-education/official-statistics-releases/widening-participation-in-higher-education/analysis-of-progression-rates-for-young-people-in-england-by-free-school-meal-receipt"&gt;Widening Participation in Higher Education: Analysis of progression rates for young people in England by free school meal receipt and school type&lt;/a&gt; &lt;/p&gt;
 
 &lt;p&gt;New statistics show that a greater proportion of students receiving free school meal went on to university between 2005/06 and 2008/09. &lt;/p&gt;
@@ -122,7 +129,8 @@
     <updated>2012-12-11T16:25:23+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/next-stage-of-the-he-consultation-opens"/>
     <title>Next stage of the HE consultation opens</title>
-    <category>News Article</category>
+    <category>News article</category>
+    <summary>New consultation on details of the regulatory system for the future of higher education now open.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;BIS has launched a consultation on details of the regulatory system for the future of higher education today, following publication of the higher education white paper.  &lt;/p&gt;
 
 &lt;p&gt;The recent White Paper Higher Education: Students at the Heart of the System (June 2011) set out a commitment to introduce a new, fit-for-purpose regulatory framework to establish the Higher Education Funding Council for England (HEFCE) as lead regulator. &lt;/p&gt;
@@ -138,6 +146,7 @@
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/new-regulatory-framework-for-higher-education-technical-consultation"/>
     <title>New regulatory framework for higher education: technical consultation</title>
     <category>Publication</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Closed consultation that sought views on technical aspects of regulatory reform of higher education, building on the proposals set out in the white paper ‘Higher education: students at the heart of the system’ (URN 11/944). Aims to inform what changes in procedures, powers and duties will need to be considered, particularly in forthcoming legislation, to protect the student interest and provide a high quality experience. Responses were due by 27 October 2011. See 12/890 for the government response.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
@@ -146,7 +155,8 @@
     <updated>2012-12-11T16:25:22+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/access-agreements-for-universities"/>
     <title>Access agreements for universities</title>
-    <category>News Article</category>
+    <category>News article</category>
+    <summary>Final details of the fees universities will charge next year are released today by the Office for Fair Access.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Office for Fair Access (OFFA) has today announced it has approved 2012-13 Access Agreements for 139 institutions - 123 higher education institutions and 16 further education colleges.&lt;/p&gt;
 
 &lt;p&gt;It also announced that English universities and colleges charging above £6,000 for their courses plan to boost their spending on access measures to £602 million a year by 2015-16, up from £407 million in 2011-12. &lt;/p&gt;

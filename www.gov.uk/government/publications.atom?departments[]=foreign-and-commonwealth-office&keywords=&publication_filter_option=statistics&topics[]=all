@@ -8,13 +8,61 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-12-20T09:30:01+00:00</updated>
+  <updated>2012-12-21T14:38:12+00:00</updated>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60747</id>
+    <published>2012-12-21T14:38:12+00:00</published>
+    <updated>2012-12-21T14:38:12+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/statistical-data-sets/spending-power-by-local-authority"/>
+    <title>Spending power by local authority</title>
+    <category>Statistical data set</category>
+    <summary/>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="to-2014"&gt;2013 to 2014&lt;/h2&gt;
+
+&lt;p&gt;No authority will see a spending power reduction of more than 8.8% because of decisions taken by ministers to make an efficiency support grant available. The ‘per household’ figures are calculated using total spending power a combination of the new start up funding assessment and Council Tax, and the number of dwellings by Council Tax band for each administrative area in England. The counts are calculated from data for England extracted from the Valuation Office Agency’s database on 12 September 2011.&lt;/p&gt;
+
+&lt;section class="attachment embedded" id="attachment_60995"&gt;&lt;div class="attachment-thumb"&gt;
+    &lt;a href="/government/uploads/system/uploads/attachment_data/file/43310/121221_SP_Web_table__2_.xls" aria-describedby="attachment-60995-accessibility-help" class="thumbnail"&gt;
+      &lt;img alt="" src="https://assets.digital.cabinet-office.gov.uk/government/assets/pub-cover-f3684e2880956dff7bb138bfb0c2bebf.png"&gt;&lt;/a&gt;  &lt;/div&gt;
+  &lt;div class="attachment-details"&gt;
+    &lt;h3 class="title"&gt;&lt;a href="/government/uploads/system/uploads/attachment_data/file/43310/121221_SP_Web_table__2_.xls" aria-describedby="attachment-60995-accessibility-help"&gt;Spending power data by local authority for 2013 to 2014&lt;/a&gt;&lt;/h3&gt;
+    &lt;p class="metadata"&gt;
+      &lt;span class="type"&gt;MS Excel Spreadsheet&lt;/span&gt;,
+      &lt;span class="file-size"&gt;178 KB&lt;/span&gt;
+    &lt;/p&gt;
+      &lt;div class="accessibility-warning js-toggle-accessibility-warning" id="attachment-60995-accessibility-help"&gt;
+        &lt;h3&gt;This file may not be accessible.
+          &lt;span class="toggler"&gt;Request a different format.&lt;/span&gt;
+        &lt;/h3&gt;
+        &lt;p class="help-block"&gt;
+          To request this document in an alternative format such as braille, audio
+          or a different file type please email
+          &lt;a href="mailto:alternativeformats@communities.gsi.gov.uk?body=%0A%0ADetails%20of%20document%20required%3A%0A%0ATitle%3A%20Spending%20power%20data%20by%20local%20authority%20for%202013%20to%202014%0AISBN%3A%20%0AUnique%20reference%3A%20%0ACommand%20paper%20number%3A%20%0A%20%20%20%20%20%20&amp;amp;subject=Request%20for%20%27Spending%20power%20data%20by%20local%20authority%20for%202013%20to%202014%27%20in%20an%20alternative%20format"&gt;alternativeformats@communities.gsi.gov.uk&lt;/a&gt;
+          quoting your address, telephone number along with the title of the
+          publication ("Spending power data by local authority for 2013 to 2014").
+        &lt;/p&gt;
+      &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/section&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60294</id>
+    <published>2012-12-21T00:00:00+00:00</published>
+    <updated>2012-12-21T10:35:37+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/english-business-survey-october-2012"/>
+    <title>English Business Survey October 2012</title>
+    <category>Publication</category>
+    <summary/>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The English business survey will provide Ministers and officials with information about the current economic and business conditions across England.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/59993</id>
     <published>2012-12-20T09:30:01+00:00</published>
     <updated>2012-12-20T09:30:01+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/statistical-data-sets/local-authority-housing-statistics-data-returns-for-2011-to-2012"/>
     <title>Local Authority Housing Statistics data returns for 2011 to 2012</title>
+    <category>Statistical data set</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Local Authority Housing Statistics (LAHS) data returns and form for 2011 to 2012.&lt;/p&gt;
 
 &lt;section class="attachment embedded" id="attachment_56371"&gt;&lt;div class="attachment-thumb"&gt;
@@ -65,10 +113,12 @@
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/59976</id>
-    <published>2012-11-10T09:36:56+00:00</published>
-    <updated>2012-11-10T09:36:56+00:00</updated>
+    <published>2012-12-20T09:30:01+00:00</published>
+    <updated>2012-12-20T09:30:01+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/statistical-data-sets/live-tables-on-dwelling-stock-including-vacants"/>
     <title>Live tables on dwelling stock (including vacants)</title>
+    <category>Statistical data set</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;
 &lt;section class="attachment embedded" id="attachment_56286"&gt;&lt;div class="attachment-thumb"&gt;
     &lt;a href="/government/uploads/system/uploads/attachment_data/file/10584/20401801.xls" aria-describedby="attachment-56286-accessibility-help" class="thumbnail"&gt;
@@ -558,10 +608,12 @@
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/59958</id>
-    <published>2012-11-10T09:35:56+00:00</published>
-    <updated>2012-11-10T09:35:56+00:00</updated>
+    <published>2012-12-20T09:30:00+00:00</published>
+    <updated>2012-12-20T09:30:00+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/statistical-data-sets/live-tables-on-rents-lettings-and-tenancies"/>
     <title>Live tables on rents, lettings and tenancies</title>
+    <category>Statistical data set</category>
+    <summary>The live tables provide the latest, most useful or most popular data, presented by type and other variables, including by geographical area or on a temporal basis. </summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Details about the different data sources used to generate tables and a list of discontinued tables can be found in &lt;a href="https://www.gov.uk/rents-lettings-and-tenancies-data-notes-and-definitions-for-local-authorities-and-data-analysts"&gt;Rents, lettings and tenancies: notes and definitions for local authorities and data analysts.&lt;/a&gt;&lt;/p&gt;
 
 &lt;section class="attachment embedded" id="attachment_56242"&gt;&lt;div class="attachment-thumb"&gt;
@@ -854,10 +906,12 @@
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/57131</id>
-    <published>2012-11-14T18:38:59+00:00</published>
-    <updated>2012-11-14T18:38:59+00:00</updated>
+    <published>2012-12-20T09:30:00+00:00</published>
+    <updated>2012-12-20T09:30:00+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/statistical-data-sets/live-tables-on-local-government-finance"/>
     <title>Live tables on local government finance</title>
+    <category>Statistical data set</category>
+    <summary>The live tables provide the latest, most useful or most popular data, presented by type and other variables, including by geographical area or as a time series.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;h3 id="capital-forecast-and-capital-payments-and-receipts"&gt;Capital forecast and capital payments and receipts&lt;/h3&gt;
 
 &lt;p&gt;These live tables contain data derived from quarterly returns and the first annual forecast figures from local authorities. The tables present the latest available summary or detailed data relating to these inquiries.&lt;/p&gt;
@@ -1157,9 +1211,11 @@
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/60100</id>
     <published>2012-12-20T00:00:00+00:00</published>
-    <updated>2012-12-20T00:00:00+00:00</updated>
+    <updated>2012-12-20T09:30:02+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/local-authority-housing-statistics-for-england-2011-to-2012"/>
     <title>Local authority housing statistics for England: 2011 to 2012</title>
+    <category>Publication</category>
+    <summary>This statistical release provides summary information from the Local Authority Housing Statistics return.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The latest statistics provided by local authorities in England on their Local Authority Housing Statistics form for 2011 to 2012 were released on Thursday 20 December 2012.&lt;/p&gt;
 
 &lt;p&gt;Following assessment by the United Kingdom Statistics Authority, this release has been accredited as National Statistics.&lt;/p&gt;
@@ -1180,9 +1236,11 @@
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/60098</id>
     <published>2012-12-20T00:00:00+00:00</published>
-    <updated>2012-12-20T00:00:00+00:00</updated>
+    <updated>2012-12-20T09:30:02+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/social-lettings-tables-2011-to-2012"/>
     <title>Social lettings tables: 2011 to 2012 </title>
+    <category>Publication</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;These tables give information about the characteristics of households receiving general needs social lettings.&lt;/p&gt;
 
 &lt;p&gt;Estimates cover the whole social housing sector, including both Private Registered Providers (housing associations) and local authorities. The figures are based on lettings information reported through the Continuous Recording of Lettings (CORE) system for 2011 to 2012 and the Local Authority Housing Statistics. More information on CORE can be found on the &lt;a rel="external" href="https://core.communities.gov.uk/"&gt;CORE website&lt;/a&gt;.&lt;/p&gt;
@@ -1203,6 +1261,8 @@
     <updated>2012-12-19T14:15:05+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/statistical-data-sets/housing-stock-summary"/>
     <title>Housing stock summary</title>
+    <category>Statistical data set</category>
+    <summary>Summary information about the English housing survey statistical tables.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The English housing survey tables supplement information provided in the reports. Tables may also contain data from the former survey of English housing and the English house condition survey, providing information on change over time.&lt;/p&gt;
 
 &lt;p&gt;In some instances cells in the tables are based on a small number of cases and should be approached with caution. It may be necessary to add cells across categories before certain data can be used in a meaningful way. Full details of the way in which the survey was conducted, including details of the sample structure, and survey error and its calculation for specific sub-groups, are provided in &lt;a href="https://www.gov.uk/government/publications/english-housing-survey-technical-advice"&gt;English housing survey: technical advice&lt;/a&gt;.&lt;/p&gt;
@@ -1269,35 +1329,63 @@
 &lt;/section&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/57027</id>
+    <published>2012-12-18T00:00:00+00:00</published>
+    <updated>2012-12-18T09:44:29+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/op-herrick-casualty-and-fatality-tables"/>
+    <title>Op Herrick casualty and fatality tables</title>
+    <category>Publication</category>
+    <summary>Casualty and fatality tables up to 30 November 2012</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Casualty and fatality tables up to 30 November 2012. Report includes historical data (pre Jan 06) on Very Seriously Injured and Seriously Injured personnel for Op HERRICK. These figures are updated monthly, two weeks in arrears.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/60156</id>
     <published>2012-12-18T00:00:00+00:00</published>
-    <updated>2012-12-18T00:00:00+00:00</updated>
+    <updated>2012-12-20T13:08:06+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/number-of-enterprise-finance-guarantee-efg-scheme-loans-drawn"/>
     <title>Number and value of Enterprise Finance Guarantee (EFG) scheme loans drawn.</title>
+    <category>Publication</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Number and value of EFG loans drawn, by bank.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/57027</id>
-    <published>2012-12-18T00:00:00+00:00</published>
-    <updated>2012-12-18T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/op-herrick-casualty-and-fatality-tables"/>
-    <title>Op Herrick casualty and fatality tables</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Casualty and fatality tables up to 30 November 2012. Report includes historical data (pre Jan 06) on Very Seriously Injured and Seriously Injured personnel for Op HERRICK. These figures are updated monthly, two weeks in arrears.&lt;/p&gt;&lt;/div&gt;</content>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56767</id>
+    <published>2012-12-17T00:00:00+00:00</published>
+    <updated>2012-12-17T09:21:22+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/construction-tender-price-indices-tpis-notes-and-definitions"/>
+    <title>Construction tender price indices (TPIs) notes and definitions</title>
+    <category>Publication</category>
+    <summary/>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Tender Price Index of Public Sector Building Non Housing (PUBSEC) measures the movement of prices in tenders for building contracts in the public sector in Great Britain. It does not include contracts for housing, civil engineering, mechanical engineering, electrical engineering, minor alterations projects or for repair and maintenance work.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/56769</id>
     <published>2012-12-17T00:00:00+00:00</published>
-    <updated>2012-12-17T00:00:00+00:00</updated>
+    <updated>2012-12-17T09:17:01+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/construction-resource-cost-indices-december-2012"/>
     <title>Construction resource cost indices - December 2012</title>
+    <category>Publication</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;A small number of the indices in this release have been revised due to inconsistencies between the indices published on the BIS website and those published on BCIS Online.  Mostly this affects older indices with a few more recent exceptions. BIS apologises for any inconvenience this may have caused.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56768</id>
+    <published>2012-12-17T00:00:00+00:00</published>
+    <updated>2012-12-17T09:18:51+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/construction-resource-cost-indices-notes-and-definitions"/>
+    <title>Construction resource cost indices notes and definitions</title>
+    <category>Publication</category>
+    <summary/>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Resource Cost Indices give a measure of the notional trend of input costs to a contractor in terms of increases in the cost of labour, materials and plant by application of the Price Adjustment Formulae for Building (Series 3), Specialist Engineering (Series 3) and Civil Engineering (1990 Series) to cost models.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/57009</id>
     <published>2012-12-17T00:00:00+00:00</published>
-    <updated>2012-12-17T00:00:00+00:00</updated>
+    <updated>2012-12-17T19:00:32+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/bis-quarterly-constuction-price-and-cost-indices-3rd-quarter-2012"/>
     <title>BIS quarterly constuction price and cost indices 3rd quarter 2012</title>
+    <category>Publication</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="headline-results"&gt;Headline results&lt;/h2&gt;
 
 &lt;p&gt;The BIS Output Price Index for New Construction (2010): All New Construction (COPI) for 3rd Quarter 2012 rose 0.7% on the previous quarter and by 3.5% on the same quarter a year earlier.&lt;/p&gt;
@@ -1317,44 +1405,34 @@
 &lt;p&gt;This release was published around 40 minutes after 9.30am, in breach of the Code of Practice for Official Statistics. We are currently investigating why this happened, and a report will be submitted to the National Statistician’s Office and published on the UK Statistics Authority’s website in due course.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56768</id>
-    <published>2012-12-17T00:00:00+00:00</published>
-    <updated>2012-12-17T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/construction-resource-cost-indices-notes-and-definitions"/>
-    <title>Construction resource cost indices notes and definitions</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Resource Cost Indices give a measure of the notional trend of input costs to a contractor in terms of increases in the cost of labour, materials and plant by application of the Price Adjustment Formulae for Building (Series 3), Specialist Engineering (Series 3) and Civil Engineering (1990 Series) to cost models.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56767</id>
-    <published>2012-12-17T00:00:00+00:00</published>
-    <updated>2012-12-17T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/construction-tender-price-indices-tpis-notes-and-definitions"/>
-    <title>Construction tender price indices (TPIs) notes and definitions</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Tender Price Index of Public Sector Building Non Housing (PUBSEC) measures the movement of prices in tenders for building contracts in the public sector in Great Britain. It does not include contracts for housing, civil engineering, mechanical engineering, electrical engineering, minor alterations projects or for repair and maintenance work.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56765</id>
-    <published>2012-12-17T00:00:00+00:00</published>
-    <updated>2012-12-17T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/construction-output-price-indices-december-2012"/>
-    <title>Construction output price indices - December 2012</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;One of three quarterly BIS construction price and cost indices (PCIs), providing output price indices (OPIs) for construction sectors.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/56761</id>
     <published>2012-12-17T00:00:00+00:00</published>
-    <updated>2012-12-17T00:00:00+00:00</updated>
+    <updated>2012-12-17T09:59:25+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/quarterly-price-and-cost-indices-commentary-3q-2012"/>
     <title>Quarterly price and cost indices: commentary 3Q 2012</title>
+    <category>Publication</category>
+    <summary>Commentary</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Explains the data published in the three quarterly BIS construction price and cost indices (PCIs): tender price indices (12/P147C), construction resource cost indices (12/P148C), and output price indices (URN 12/P149C).&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/56763</id>
     <published>2012-12-17T00:00:00+00:00</published>
-    <updated>2012-12-17T00:00:00+00:00</updated>
+    <updated>2012-12-17T09:51:18+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/construction-tender-prices-indices-december-2012"/>
     <title>Construction tender prices indices December 2012</title>
+    <category>Publication</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;A small number of the indices in this release have been revised due to inconsistencies between the indices published on the BIS website and those published on BCIS Online.  Mostly this affects older indices with a few more recent exceptions. BIS apologises for any inconvenience this may have caused.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56765</id>
+    <published>2012-12-17T00:00:00+00:00</published>
+    <updated>2012-12-17T09:47:39+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/construction-output-price-indices-december-2012"/>
+    <title>Construction output price indices - December 2012</title>
+    <category>Publication</category>
+    <summary/>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;One of three quarterly BIS construction price and cost indices (PCIs), providing output price indices (OPIs) for construction sectors.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/55840</id>
@@ -1362,6 +1440,8 @@
     <updated>2012-12-13T09:30:08+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/statistical-data-sets/tsgb10"/>
     <title>TSGB10 - Olympics</title>
+    <category>Statistical data set</category>
+    <summary>The statistics featured in this chapter focus on transport data relating to the 2012 Olympic and Paralympic period compared to the same period in the previous year. This is not intended to be a comprehensive review of transport performance in London or Great Britain during the Games, but supplements evidence from other sources.</summary>
     <content type="html">&lt;div class="govspeak"&gt;
 &lt;section class="attachment embedded" id="attachment_51520"&gt;&lt;div class="attachment-thumb"&gt;
     &lt;a href="/government/uploads/system/uploads/attachment_data/file/35761/tsgb_2012_-_olympics_summary.pdf" aria-describedby="attachment-51520-accessibility-help" class="thumbnail"&gt;
@@ -1503,30 +1583,16 @@
 &lt;/section&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60113</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60305</id>
     <published>2012-12-13T00:00:00+00:00</published>
-    <updated>2012-12-13T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/analysis-of-fires-in-buildings-of-timber-framed-construction-england-2009-10-to-2011-12"/>
-    <title>Analysis of fires in buildings of timber framed construction, England, 2009 to 2010 and 2011 to 2012</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This analysis focuses on the amount of heat and flame damage in building fires identified as being timber framed, compared with fires in buildings recorded as not being of special construction.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56822</id>
-    <published>2012-12-13T00:00:00+00:00</published>
-    <updated>2012-12-13T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/fire-statistics-user-survey-2012-summary-of-responses"/>
-    <title>Fire statistics user survey 2012: summary of responses</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;In summer 2012, the Department for Communities and Local Government issued a survey inviting views on its publication &lt;a href="https://www.gov.uk/government/organisations/department-for-communities-and-local-government/series/fire-statistics-great-britain"&gt;Fire statistics Great Britain&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;This document summarises the views expressed by respondents and it explains the decisions taken in light of the responses.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56455</id>
-    <published>2012-12-13T00:00:00+00:00</published>
-    <updated>2012-12-13T00:00:00+00:00</updated>
+    <updated>2012-12-13T09:30:08+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/national-travel-survey-2011"/>
     <title>National Travel Survey: 2011</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This statistical release presents information on personal travel in Great Britain during 2011. It contains the latest results and trends on how and why people travel with breakdowns by age, gender and income. It also contains trends in driving licence holding; school travel; and concessionary travel. &lt;/p&gt;
+    <category>Publication</category>
+    <summary>This statistical release presents information on personal travel in Great Britain during 2011 from the National Travel Survey. </summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This statistical release presents information on personal travel in Great Britain during 2011. It contains the latest results and trends on how and why people travel with breakdowns by age, gender and income. It also contains trends in driving licence holding; school travel; and concessionary travel.&lt;/p&gt;
+
+&lt;p&gt;On 13 December 2012, 2011 NTS results were published in 45 tables. The remaining tables contain data up to 2010 only. The 2012 NTS results will be published in July 2013 and will contain an update of all 100+ tables with both 2011 and 2012 data. &lt;/p&gt;
 
 &lt;h2 id="key-points"&gt;Key points&lt;/h2&gt;
 

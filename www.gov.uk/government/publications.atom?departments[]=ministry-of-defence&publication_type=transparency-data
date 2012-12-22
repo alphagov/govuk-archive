@@ -8,69 +8,85 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-12-11T00:00:00+00:00</updated>
+  <updated>2012-12-14T14:33:39+00:00</updated>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/50179</id>
     <published>2012-12-11T00:00:00+00:00</published>
-    <updated>2012-12-11T00:00:00+00:00</updated>
+    <updated>2012-12-14T14:33:39+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/senior-staff-hospitality-received"/>
     <title>Senior staff: hospitality received</title>
+    <category>Publication</category>
+    <summary>Details of hospitality received by Ministry of Defence senior staff.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Ministry of Defence publishes the hospitality received of its most senior Civil Servants on a quarterly basis.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/50180</id>
     <published>2012-12-11T00:00:00+00:00</published>
-    <updated>2012-12-11T00:00:00+00:00</updated>
+    <updated>2012-12-14T14:36:28+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/senior-staff-business-expenses"/>
     <title>Senior staff: business expenses</title>
+    <category>Publication</category>
+    <summary>Details of business expenses of Ministry of Defence senior staff.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The &lt;abbr title="Ministry of Defence"&gt;MOD&lt;/abbr&gt; publishes the expenses of its most senior Civil Servants on a quarterly basis.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/60148</id>
     <published>2012-12-11T00:00:00+00:00</published>
-    <updated>2012-12-11T00:00:00+00:00</updated>
+    <updated>2012-12-20T12:33:33+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/non-consolidated-performance-awards--2"/>
     <title>Non-consolidated performance awards</title>
+    <category>Publication</category>
+    <summary>Non-consolidated performance awards</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;In line with other government departments the &lt;abbr title="Ministry of Defence"&gt;MOD&lt;/abbr&gt; is publishing details of the non-consolidated performance awards paid to Senior Civil Service staff, Senior Fixed term Appointees and staff below the &lt;abbr title="Senior Civil Service"&gt;SCS&lt;/abbr&gt;.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/50171</id>
     <published>2012-12-11T00:00:00+00:00</published>
-    <updated>2012-12-11T00:00:00+00:00</updated>
+    <updated>2012-12-12T20:38:23+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/senior-officers-of-the-armed-forces-hospitality-received"/>
     <title>Senior Officers of the Armed Forces: hospitality received</title>
+    <category>Publication</category>
+    <summary>Senior Officers of the Armed Forces: hospitality received</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;In addition to publishing the hospitality received of our most senior Civil Servants, the Ministry of Defence will now be publishing the hospitality received of the most senior Officers of the Armed Forces on a quarterly basis.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/50174</id>
     <published>2012-12-11T00:00:00+00:00</published>
-    <updated>2012-12-11T00:00:00+00:00</updated>
+    <updated>2012-12-12T20:38:14+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/senior-officers-of-the-armed-forces-business-expenses"/>
     <title>Senior Officers of the Armed Forces: business expenses</title>
+    <category>Publication</category>
+    <summary>Senior Officers of the Armed Forces: business expenses</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;In addition to publishing the business expenses incurred by the most senior Civil Servants on official duty, the Ministry of Defence will now be publishing the business expenses of the most senior Officers of the Armed Forces on a quarterly basis.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/55722</id>
-    <published>2012-07-01T00:00:00+01:00</published>
-    <updated>2012-07-01T00:00:00+01:00</updated>
+    <published>2012-07-01T01:00:00+01:00</published>
+    <updated>2012-12-11T15:24:21+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/special-advisers-meetings"/>
     <title>Special advisers: meetings</title>
+    <category>Publication</category>
+    <summary>Details of MOD special advisers' meetings with newspaper and other media proprietors, editors and senior executives.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;A quarterly-updated list of meetings between special advisers and other media proprietor, editors and senior executives.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/34248</id>
-    <published>2012-06-01T00:00:00+01:00</published>
-    <updated>2012-06-01T00:00:00+01:00</updated>
+    <published>2012-06-01T01:00:00+01:00</published>
+    <updated>2012-12-12T14:00:59+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/jsu-carbon-emissions-and-water-use"/>
     <title>JSU Carbon Emissions and Water Use</title>
+    <category>Publication</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This dataset records the total monthly equivalent carbon emissions for the JSU Northwood site and the water usage&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/55654</id>
-    <published>2012-05-01T00:00:00+01:00</published>
-    <updated>2012-05-01T00:00:00+01:00</updated>
+    <published>2012-05-01T01:00:00+01:00</published>
+    <updated>2012-12-11T16:02:38+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/tax-arrangements"/>
     <title>Public sector appointees: tax arrangements </title>
+    <category>Publication</category>
+    <summary>Review of tax arrangements of public sector appointees of MOD.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;On 23 May 2012, the government published a review of the tax arrangements of public sector appointees. The review identified the number of off payroll engagements worth more than £58,200 per annum across government and made recommendations to improve the tax transparency of these kind of arrangements. &lt;/p&gt;
 
 &lt;p&gt;The following document constitutes the &lt;abbr title="Ministry of Defence"&gt;MOD&lt;/abbr&gt;’s submission to this review.&lt;/p&gt;&lt;/div&gt;</content>
@@ -78,9 +94,11 @@
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/50182</id>
     <published>2011-11-15T00:00:00+00:00</published>
-    <updated>2011-11-15T00:00:00+00:00</updated>
+    <updated>2012-12-11T17:23:24+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/business-plan-2011-2015"/>
     <title>Business plan: 2011 to 2015</title>
+    <category>Publication</category>
+    <summary>Business plan for the Ministry of Defence, 2011 to 2015.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The &lt;abbr title="Ministry of Defence"&gt;MOD&lt;/abbr&gt;’s 2012 to 2015 business plan sets out the programme of work we plan to carry out over the next 3 years to support the coalition government’s objectives. It also contains information on our structure and budget, and the way we measure our performance.&lt;/p&gt;
 
 &lt;p&gt;The Structural Reform Plan section can be viewed on &lt;a rel="external" href="http://www.number10.gov.uk/transparency"&gt;Number 10 transparency&lt;/a&gt;, with information on the current status of each action, and explanations for any deadlines missed, updated monthly. &lt;/p&gt;
@@ -94,9 +112,11 @@
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/47575</id>
     <published>2011-11-11T00:00:00+00:00</published>
-    <updated>2011-11-11T00:00:00+00:00</updated>
+    <updated>2012-12-12T14:07:17+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/dio-projects-directorate-senior-management-structure-chart"/>
     <title>DIO Projects Directorate Senior Management Structure Chart</title>
+    <category>Publication</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The DIO Project Structure chart shows the members of the Project Executive Committee (PEC), their individual contact details and areas of responsibility.   &lt;/p&gt;
 
 &lt;p&gt;As part of the Operations area, DIO Projects is responsible for delivery of all infrastructure projects, the departments estate rationalisation business, including disposals and acquisitions, all capital construction projects, Project SLAM (Single Living Accommodation Modernisation), the Defence Technical Training Change Programme, Volunteer Estate modernisation, basing and all infrastructure business associated with the department’s equipment projects. &lt;/p&gt;
@@ -105,82 +125,102 @@
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/34249</id>
-    <published>2011-06-14T00:00:00+01:00</published>
-    <updated>2011-06-14T00:00:00+01:00</updated>
+    <published>2011-06-14T01:00:00+01:00</published>
+    <updated>2012-12-12T14:01:00+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/jsu-total-visitors"/>
     <title>JSU Total Visitors</title>
+    <category>Publication</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This dataset records the total number of visitors to Joint Support Unit‚ (JSU) Northwood and whether they were MOD visitors or contractors and whether they required car passes.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/34250</id>
-    <published>2011-06-01T00:00:00+01:00</published>
-    <updated>2011-06-01T00:00:00+01:00</updated>
+    <published>2011-06-01T01:00:00+01:00</published>
+    <updated>2012-12-12T14:01:00+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/jsu-mechanical-transport-tasks"/>
     <title>JSU Mechanical Transport Tasks</title>
+    <category>Publication</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This dataset records the total number of Mechanical Transport tasks requested and carried out by Joint Support Unit (JSU) Northwood.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/47588</id>
-    <published>2011-04-04T00:00:00+01:00</published>
-    <updated>2011-04-04T00:00:00+01:00</updated>
+    <published>2011-04-04T01:00:00+01:00</published>
+    <updated>2012-12-12T14:07:19+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/dartmoor-guaranteed-public-access"/>
     <title>Dartmoor Guaranteed Public Access</title>
+    <category>Publication</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Dartmoor’s guaranteed public access non live firing periods&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/34153</id>
-    <published>2011-04-01T00:00:00+01:00</published>
-    <updated>2011-04-01T00:00:00+01:00</updated>
+    <published>2011-04-01T01:00:00+01:00</published>
+    <updated>2012-12-11T16:00:56+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/workforce-management"/>
     <title>Workforce management</title>
+    <category>Publication</category>
+    <summary>Monthly workforce management information on staff numbers and pay bill costs in the MOD.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Details of the workforce management data for MOD. These figures are not official statistics. They are internal workforce management information published in the interests of transparency.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/55724</id>
     <published>2011-03-11T00:00:00+00:00</published>
-    <updated>2011-03-11T00:00:00+00:00</updated>
+    <updated>2012-12-11T15:23:33+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/senior-staff-meetings"/>
     <title>Senior staff: meetings</title>
+    <category>Publication</category>
+    <summary>Details of MOD senior staff meetings with external organisations.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;MOD senior staff are required to publish details of their meetings with external organisations.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/43562</id>
     <published>2011-03-01T00:00:00+00:00</published>
-    <updated>2011-03-01T00:00:00+00:00</updated>
+    <updated>2012-12-11T15:31:41+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/departmental-organisation-charts"/>
     <title>Departmental organisation charts</title>
+    <category>Publication</category>
+    <summary>Details of junior and senior posts at the MOD, their salary information and organisational charts</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;These show all Military 1*/Senior Civil Service (Pay Band 1) and above posts and junior staff posts below Senior Civil Service level who report to them including their payscales. &lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/43564</id>
     <published>2011-03-01T00:00:00+00:00</published>
-    <updated>2011-03-01T00:00:00+00:00</updated>
+    <updated>2012-12-11T15:30:41+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/organisation-charts-march-2011-to-september-2011"/>
     <title>Organisation charts: March 2011 to September 2011</title>
+    <category>Publication</category>
+    <summary>Details of junior and senior posts at the MOD, their salary information and organisational charts.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;These datasets and organisation charts shows posts and salary information for staff at the MOD from March 2011 to September 2011. They’re shared here as part of the effort to make government operations and spending more transparent to the public.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/55581</id>
     <published>2011-01-19T00:00:00+00:00</published>
-    <updated>2011-01-19T00:00:00+00:00</updated>
+    <updated>2012-12-11T15:20:49+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/changes-to-allowances"/>
     <title>Changes to allowances</title>
+    <category>Publication</category>
+    <summary>Summary of changes to MOD allowances.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Effective from 1 April 2011.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/34156</id>
     <published>2010-11-01T00:00:00+00:00</published>
-    <updated>2010-11-01T00:00:00+00:00</updated>
+    <updated>2012-12-12T14:00:45+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/organisation-charts-supporting-datasets"/>
     <title>Organisation Charts: supporting datasets</title>
+    <category>Publication</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Below is supporting data for the MOD Organisation Charts June 2010 -Â  February 2011 in MS Excel and CSV format. You can re-use this data.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/55676</id>
-    <published>2010-10-01T00:00:00+01:00</published>
-    <updated>2010-10-01T00:00:00+01:00</updated>
+    <published>2010-10-01T01:00:00+01:00</published>
+    <updated>2012-12-12T14:00:45+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/senior-staff-salaries"/>
     <title>Senior staff salaries</title>
+    <category>Publication</category>
+    <summary>Senior staff salaries of the Ministry of Defence.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Senior staff salaries dataset gives information on &lt;abbr title="Ministry of Defence"&gt;MOD&lt;/abbr&gt; civilian salaries of those working at Director level and above.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
 </feed>

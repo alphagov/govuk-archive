@@ -8,7 +8,7 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-12-11T00:00:00+00:00</updated>
+  <updated>2012-12-12T19:39:08+00:00</updated>
   <entry>
     <id>tag:www.gov.uk,2005:Publication/50166</id>
     <published>2012-12-11T00:00:00+00:00</published>
@@ -16,6 +16,7 @@
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/the-shareholder-executive-publications"/>
     <title>The Shareholder Executive: publications</title>
     <category>Publication</category>
+    <summary>Working with shareholder departments in government to improve fundamentally the government’s capabilities and performance as a shareholder.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="senior-team"&gt;Senior team&lt;/h2&gt;
 
 &lt;section class="attachment embedded" id="attachment_49071"&gt;&lt;div class="attachment-thumb"&gt;
@@ -74,7 +75,8 @@
     <updated>2012-12-11T16:30:25+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/speeches/post-office-mutualisation"/>
     <title>Post Office Mutualisation</title>
-    <category>Speech</category>
+    <category>Statement to parliament</category>
+    <summary>Norman Lamb provides an update on government progress in implementing its postal services policy.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;It is a great honour to be invited to address your annual conference today. I also welcome the opportunity this has provided for me to meet many of you on an individual face to face basis - last night at the President’s dinner, this morning over breakfast and I hope during the course of the day until I leave after lunch.   &lt;/p&gt;
 
 &lt;p&gt;I am still a relative newcomer to my role as Postal Services Minister - having been in post just over three months. Though I feel I am now well up the post office network learning curve, I hope you will bear with me if one or two gaps do emerge during the course of the day.   &lt;/p&gt;

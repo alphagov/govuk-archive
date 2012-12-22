@@ -8,13 +8,15 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-11-19T00:00:00+00:00</updated>
+  <updated>2012-12-11T16:30:21+00:00</updated>
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/47154</id>
     <published>2012-11-19T00:00:00+00:00</published>
-    <updated>2012-11-19T00:00:00+00:00</updated>
+    <updated>2012-12-11T16:30:21+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/new-power-to-boost-consumers-access-to-data"/>
     <title>New power to boost consumers access to data</title>
+    <category>News article</category>
+    <summary>Jo Swinson announces new powers for consumers to request their personal customer data from business, under the midata programme.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;19 Nov 2012&lt;/p&gt;
 
 &lt;hr&gt;&lt;hr&gt;&lt;p&gt;Consumers will be given new powers to request their personal customer data from business, helping them manage their money better and make better lifestyle choices.&lt;/p&gt;

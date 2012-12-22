@@ -8,7 +8,7 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-12-19T00:00:00+00:00</updated>
+  <updated>2012-12-19T09:00:00+00:00</updated>
   <entry>
     <id>tag:www.gov.uk,2005:Publication/60016</id>
     <published>2012-12-19T00:00:00+00:00</published>
@@ -16,6 +16,7 @@
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/triennial-review-of-the-industrial-development-advisory-board-idab"/>
     <title>Triennial review of the Industrial Development Advisory Board (IDAB)</title>
     <category>Publication</category>
+    <summary>Sets out the findings of the 2012 triennial review of the function, form and governance of the Industrial Development Advisory Board (IDAB).</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Cabinet Office requires Non-Departmental Public Bodies (NDPBs) to be reviewed every 3 years by their parent department.&lt;/p&gt;
 
 &lt;p&gt;This review looks at the function of the Industrial Development Advisory Board (IDAB), the appropriateness of the body’s delivery mechanisms and its governance arrangements. &lt;/p&gt;
@@ -28,7 +29,8 @@
     <updated>2012-11-14T12:41:14+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/successful-graduate-support-scheme-secures-future-with-additional-4-million-funding"/>
     <title>Successful graduate support scheme secures future with additional £4 million funding</title>
-    <category>News Article</category>
+    <category>News article</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;West Midlands European Regional Development Fund Programme&lt;/p&gt;
 
 &lt;p&gt;Business entrepreneurs emerging from West Midlands universities will continue to be able to access vital support to get a new business venture off the ground, with the announcement of an additional £4million investment to support the programme over the next 3 years.&lt;/p&gt;
@@ -94,7 +96,8 @@
     <updated>2012-11-14T12:41:12+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/eric-pickles-visits-regional-growth-fund-success-story--2"/>
     <title>Eric Pickles visits Regional Growth Fund success story</title>
-    <category>News Article</category>
+    <category>News article</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Communities Secretary Eric Pickles has visited e2v, a high-tech manufacturing company in Essex, to see first hand how Regional Growth fund money is creating jobs and boosting the local economy.&lt;/p&gt;
 
 &lt;p&gt;e2v were awarded £3.8 million pounds in the third round of Regional Growth Fund grants and the money will help create 130 new jobs at e2v and a further 30 jobs through their supply chain.&lt;/p&gt;
@@ -141,7 +144,8 @@
     <updated>2012-11-14T12:41:11+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/west-midlands-businesses-boost-profits-with-a-little-help-from-the-virtual-world"/>
     <title>West Midlands businesses boost profits with a little help from the virtual world</title>
-    <category>News Article</category>
+    <category>News article</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;West Midlands European Regional Development Fund Programme&lt;/p&gt;
 
 &lt;p&gt;Manufacturing businesses in the West Midlands now have the chance to try out and test new product prototypes and ideas through virtual simulation technology.&lt;/p&gt;
@@ -215,7 +219,8 @@
     <updated>2012-11-14T12:41:10+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/future-of-vital-innovation-scheme-secured-with-new-funding-boost"/>
     <title>Future of vital innovation scheme secured with new funding boost</title>
-    <category>News Article</category>
+    <category>News article</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;West Midlands European Regional Development Fund Programme&lt;/p&gt;
 
 &lt;p&gt;A successful and established scheme helping West Midlands businesses boost their innovation and research and development activities is set to continue for another three years after receiving a huge funding boost.&lt;/p&gt;
@@ -274,7 +279,8 @@
     <updated>2012-11-14T12:41:07+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/government-welcomes-select-committee-acknowledgement-of-improvements-to-management-of-the-european-regional-development-fund"/>
     <title>Government welcomes Select Committee acknowledgement of improvements to management of the European Regional Development Fund</title>
-    <category>News Article</category>
+    <category>News article</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Government has issued its response to the Communities and Local Government Select Committee’s report into the European Regional Development Fund.&lt;/p&gt;
 
 &lt;p&gt;It welcomed the Committee’s acknowledgement that this Government has done a good job of managing the European Regional Development Fund (ERDF) in England, including, in particular, the transfer of programme administration from the Regional Development Agencies to the Department for Communities and Local Government.&lt;/p&gt;
@@ -319,7 +325,8 @@
     <updated>2012-11-14T12:41:00+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/minister-visits-national-football-museum"/>
     <title>Minister visits National Football Museum</title>
-    <category>News Article</category>
+    <category>News article</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Bob Neill, Olympics Legacy and Growth Minister, visited Manchester last week as the Olympic action kicked off in the city at Old Trafford.&lt;/p&gt;
 
 &lt;p&gt;But while a key reason for his visit was to attend the Olympic Football matches at Old Trafford, he also found time to visit some key projects within the Manchester area, including the landmark and internationally acclaimed National Football Museum in the city centre.&lt;/p&gt;
@@ -377,7 +384,8 @@
     <updated>2012-10-22T14:48:02+01:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/speeches/eu-transport-council--19"/>
     <title>EU Transport Council</title>
-    <category>Speech</category>
+    <category>Statement to parliament</category>
+    <summary>Written statement by the Rt Hon Theresa Villiers MP, Minister of State for Transport.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;I attended the first Transport Council under the Danish Presidency (the Presidency) in Brussels on Thursday 22 March.&lt;/p&gt;
 
 &lt;p&gt;The Presidency sought agreement to a general approach on a proposal for a regulation which defines the Trans-European Transport Network (&lt;abbr title="Trans-European Transport Network"&gt;TEN-T&lt;/abbr&gt;). This sets out the actions to be undertaken at &lt;abbr title="European Union"&gt;EU&lt;/abbr&gt; and member state level to develop the network. I was able to support the general approach after securing a UK amendment that will ensure that progress on the projects required by the regulation would be subject to the availability of financial resources. This amendment received support from Germany, Latvia, Finland, Romania, Ireland, Bulgaria, Slovenia and France. In my contribution to the debate I also argued that governance structures on corridors should be less burdensome, more flexible and focus on contentious cross-border projects. Most member states supported the compromise text which was viewed as a balance between the commission’s initial proposals and what they could accept.&lt;/p&gt;
@@ -404,7 +412,8 @@
     <updated>2012-11-14T12:29:46+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/hundreds-of-north-east-businesses-to-be-created"/>
     <title>Hundreds of north east businesses to be created</title>
-    <category>News Article</category>
+    <category>News article</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;A £2Million business support programme for the North East has been unveiled which will help over 1,700 people gain vital business skills and create 431 new businesses.&lt;/p&gt;
 
 &lt;p&gt;Support will also be given to 164 existing Small and Medium Enterprises (SMEs) over the next two years.&lt;/p&gt;
@@ -467,7 +476,8 @@
     <updated>2012-11-14T12:29:43+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/helping-local-building-businesses-aim-high-and-get-innovative"/>
     <title>Helping local building businesses aim high and get innovative</title>
-    <category>News Article</category>
+    <category>News article</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;A new £4.3 million pound low carbon project has been launched in the West Midlands set to help over 120 local building businesses learn about and take forward business opportunities using innovative technologies.&lt;/p&gt;
 
 &lt;p&gt;Over 345 pre-war and Victorian houses will be refurbished to demonstrate the benefits of installing environmental technologies, and put to the test by local residents who will live and benefit from the energy efficient housing driving up demand and creating further opportunities for local businesses.&lt;/p&gt;

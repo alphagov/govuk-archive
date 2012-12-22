@@ -8,13 +8,15 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2011-06-01T01:00:00+01:00</updated>
+  <updated>2012-12-11T16:25:20+00:00</updated>
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/18263</id>
     <published>2011-06-01T01:00:00+01:00</published>
-    <updated>2011-06-01T01:00:00+01:00</updated>
+    <updated>2012-12-11T16:25:20+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/peer-to-patent-launches-in-the-uk"/>
     <title>Peer to Patent launches in the UK</title>
+    <category>News article</category>
+    <summary>New website launched to help improve the patent application process for inventions.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Minister for Intellectual Property Baroness Wilcox today launched the &lt;a rel="external" href="http://www.ipo.gov.uk/peertopatent.htm"&gt;Peer to Patent website&lt;/a&gt;, an innovative new tool which allows experts from the scientific and technology community to view and comment on patent applications.&lt;/p&gt;
 
 &lt;p&gt;During the six month pilot up to 200 applications in the computing field will be gradually uploaded for review on the website. &lt;/p&gt;
@@ -51,9 +53,11 @@
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/18192</id>
     <published>2010-12-31T00:00:00+00:00</published>
-    <updated>2010-12-31T00:00:00+00:00</updated>
+    <updated>2012-12-11T16:25:08+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/new-patent-application-arrangements-will-save-businesses-money"/>
     <title>New patent application arrangements will save businesses money</title>
+    <category>News article</category>
+    <summary>Intellectual Property Minister Baroness Wilcox has welcomed new arrangements for filing patents in Europe which will cut costs for UK businesses.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;From tomorrow applicants will supply the European Patent Office (EPO) with fewer documents than before, which will save companies money on the fees they pay agents for making the application.&lt;/p&gt;
 
 &lt;p&gt;Baroness Wilcox said:&lt;/p&gt;
@@ -79,9 +83,11 @@
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/18124</id>
     <published>2010-07-07T01:00:00+01:00</published>
-    <updated>2010-07-07T01:00:00+01:00</updated>
+    <updated>2012-12-11T16:24:56+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/cracking-ideas"/>
     <title>Cracking ideas</title>
+    <category>News article</category>
+    <summary>The winners of a national competition to encourage young people's innovation have been named.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;&lt;a rel="external" href="http://www.bis.gov.uk//ministers/baroness-wilcox"&gt;Baroness Wilcox&lt;/a&gt; announced the three winners of the &lt;a rel="external" href="http://www.ipo.gov.uk/"&gt;Intellectual Property Office’s&lt;/a&gt; Wallace &amp;amp; Gromit’s World of Cracking Ideas campaign. They are:&lt;/p&gt;
 
 &lt;ul&gt;
@@ -118,10 +124,12 @@
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/18514</id>
-    <published>2010-06-02T00:00:00+01:00</published>
-    <updated>2010-06-02T00:00:00+01:00</updated>
+    <published>2010-06-02T01:00:00+01:00</published>
+    <updated>2012-12-11T16:25:40+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/speeches/opening-speech-queens-speech-debate"/>
     <title>Opening Speech, Queen's Speech Debate</title>
+    <category>Statement to parliament</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;[The &lt;a rel="external" href="http://www.publications.parliament.uk/pa/ld201011/ldhansrd/text/100602-0004.htm#1006023000304"&gt;full debate&lt;/a&gt; is available at the Parliament website]&lt;/p&gt;
 
 &lt;h2 id="introductionformalities"&gt;Introduction/Formalities&lt;/h2&gt;

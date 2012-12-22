@@ -8,7 +8,7 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-12-19T00:00:00+00:00</updated>
+  <updated>2012-12-19T10:04:10+00:00</updated>
   <entry>
     <id>tag:www.gov.uk,2005:Publication/59911</id>
     <published>2012-12-19T00:00:00+00:00</published>
@@ -16,6 +16,7 @@
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/the-united-kingdom-s-future-nuclear-deterrent-2012-update-to-parliament"/>
     <title>The United Kingdom’s future nuclear deterrent: 2012 update to Parliament</title>
     <category>Publication</category>
+    <summary>This report explains the progress the MOD has made on this programme and set out what is expected to be achieved over the coming year.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;On 18 May 2011, the Ministry of Defence (MOD) announced that the first milestone (known as Initial Gate) for the Successor deterrent submarine programme had been passed and that a five year-long, £3 billion Assessment Phase had been approved. The main purpose of the Assessment Phase is to refine the design of the successor submarine prior to the main investment decision (known as Main Gate), which will be taken in 2016. &lt;/p&gt;
 
 &lt;p&gt;This is the first of a series of annual reports that will explain the progress the MOD has made on this programme and set out what is expected to be achieved over the coming year.&lt;/p&gt;&lt;/div&gt;</content>
@@ -26,7 +27,8 @@
     <updated>2012-12-10T16:18:36+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/1-2-billion-contract-awarded-for-new-attack-submarine"/>
     <title>£1.2 billion contract awarded for new attack submarine</title>
-    <category>News Article</category>
+    <category>News article</category>
+    <summary>The MOD has awarded a £1.2 billion contract for Audacious, the latest Astute Class attack submarine to be built for the Royal Navy.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;&lt;a rel="external" href="http://www.royalnavy.mod.uk/The-Fleet/Submarines/Fleet-Submarines/Astute-Class/Audacious" title="Audacious"&gt;Audacious&lt;/a&gt; is the fourth of 7 &lt;a rel="external" href="http://www.royalnavy.mod.uk/The-Fleet/Submarines/Fleet-Submarines/Astute-Class" title="Astute Class"&gt;Astute Class&lt;/a&gt;  submarines being built for the &lt;a rel="external" href="http://www.royalnavy.mod.uk/" title="Royal Navy"&gt;Royal Navy&lt;/a&gt;. They are the most technologically-advanced the Royal Navy has ever sent to sea and offer a step-change in capability.&lt;/p&gt;
 
 &lt;p&gt;The contract with &lt;a rel="external" href="http://www.www.baesystems.com/" title="BAE Systems"&gt;BAE Systems&lt;/a&gt; will safeguard 3,000 skilled jobs at Barrow-in-Furness in Cumbria and represents a significant step forward in the Astute submarine programme.&lt;/p&gt;
@@ -72,7 +74,8 @@
     <updated>2012-12-12T14:02:47+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/mod-signs-trident-support-contract"/>
     <title>MOD signs Trident support contract</title>
-    <category>News Article</category>
+    <category>News article</category>
+    <summary>The Ministry of Defence has today signed a 15-year contract with ABL Alliance to provide support of the Trident Strategic Weapon System at the Royal Naval Armament Depot (RNAD) Coulport and the Strategic Weapon Support Building (SWSB) Faslane, both of which are part of Her Majesty's (HM) Naval Base Clyde.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;RNAD Coulport has provided support to the UK’s nuclear deterrent for over 40 years, delivering safe and secure support to both the Polaris and Trident Strategic Weapon Systems. In 2008 the MOD started looking at a range of options to ensure that the work of Coulport, and associated work at the SWSB, can continue to be carried out effectively in the long term, and in May 2011 we decided that the most effective way to sustain the workforce in the future was to use an experienced supplier within the private sector. &lt;/p&gt;
 
 &lt;p&gt;Following the conclusion of our commercial negotiations, we have signed a 15-year contract to outsource elements of support at Coulport and the SWSB. The contract is with an industrial alliance of contractors: AWE plc, Babcock and Lockheed Martin UK Strategic Systems (LMUKSS), known collectively as the ABL Alliance, under a prime and strategic sub-contractor arrangement, with AWE plc in the role of prime contractor. This will ensure that the highly skilled workforce at Coulport and in the SWSB can be maintained in the long term, delivering vital support to the Trident system.&lt;/p&gt;
@@ -89,7 +92,9 @@
     <updated>2012-12-12T14:02:03+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/080-2012-hammond-announces-1billion-contract-to-power-future-submarines"/>
     <title>080/2012 - Hammond announces £1billion contract to power future submarines</title>
-    <category>News Article</category>
+    <category>News article</category>
+    <summary>The MoD has awarded Rolls Royce a £1.1 billion contract to produce new reactor cores for the Royal Navy’s nuclear submarines and upgrade the plant where they will be built.
+The nuclear reactor cores will be used to power the seventh and final Astute Class submarine and the first of the Royal Navy’s next generation of nuclear deterrent submarines, known as the Successor Class.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The investment – which secures 300 jobs at Rolls Royce - will also fund an eleven-year refurbishment of Rolls Royce’s plant at Raynesway in Derby, extending its operating lifetime by more than 40 years.&lt;/p&gt;
 
 &lt;p&gt;The contract will see construction of new buildings that will replace existing facilities that have reached the end of their useful life.
@@ -151,6 +156,7 @@ Password: WhiteBoard&lt;/p&gt;&lt;/div&gt;</content>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/speeches/2012-02-09-royal-navy-club-founders-day-dinner"/>
     <title>2012/02/09 - Royal Navy Club Founder's Day Dinner</title>
     <category>Speech</category>
+    <summary>Speech delivered by Minister for the Armed Forces at Trinity House, London on Thursday 9 February 2012.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="introduction"&gt;Introduction&lt;/h2&gt;
 
 &lt;p&gt;Mr Chairman, First Sea Lord, Gentlemen, it is an honour to be invited to address this year’s Founders’ Day dinner. &lt;/p&gt;
@@ -325,7 +331,8 @@ Password: WhiteBoard&lt;/p&gt;&lt;/div&gt;</content>
     <updated>2012-12-12T14:05:05+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/navy-sub-fires-first-tomahawk-missile"/>
     <title>Navy sub fires first Tomahawk missile</title>
-    <category>News Article</category>
+    <category>News article</category>
+    <summary>The first of the Royal Navy's new attack submarines, HMS Astute, has blasted Tomahawk missiles far across the North American skies as part of her first test firing mission.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The 5.5-metre-long cruise missile weighs 1,300kg and has a range of more than 1,000 miles (1,600km). In the firing tests this month the Tomahawk weapons rocketed from HMS Astute at up to 550 miles per hour (885km/h) across the Gulf of Mexico. &lt;/p&gt;
 
 &lt;p&gt;HMS Astute’s Commanding Officer, Commander Iain Breckenridge, said: &lt;/p&gt;
@@ -367,6 +374,7 @@ Password: WhiteBoard&lt;/p&gt;&lt;/div&gt;</content>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/speeches/2011-10-13-hms-anson-keel-laying-ceremony"/>
     <title>2011/10/13 - HMS ANSON Keel Laying Ceremony</title>
     <category>Speech</category>
+    <summary>Speech delivered by Minister for International Security Strategy at Barrow-in-Furness, Cumbria on Thursday 13 October 2011.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Ladies and Gentlemen, it is a great pleasure to be here today to lay the keel of the fifth Astute Class submarine - ANSON. &lt;/p&gt;
 
 &lt;p&gt;The submarine is the seventh British warship and the first submarine to bear this title, and is being named after the Admiral of the Fleet George Anson, who was one of our greatest First Lords of the Admiralty and noted for his circumnavigation of the globe, as well as his role overseeing the Royal Navy during the Seven Years War.  During Anson’s time in the Admiralty, his reforms reached into every aspect of the Navy, from shipbuilding and technological developments, to training and discipline, and command and control.  His work transformed our naval power into a global asset, and it laid the foundations for the naval victories of his era and the generation that followed.    &lt;/p&gt;
@@ -400,6 +408,7 @@ Password: WhiteBoard&lt;/p&gt;&lt;/div&gt;</content>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/nuclear-liabilities-management-strategy"/>
     <title>Nuclear Liabilities Management Strategy</title>
     <category>Publication</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The strategy sets out the MOD’s high level approaches for managing the nuclear materials, fuel, sites, facilities, submarines and radioactive waste resulting from the Defence Nuclear Programme.  It provides the basis for a coherent approach to decommissioning and disposal activities relating to the UK’s nuclear weapon and nuclear submarine programmes.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
@@ -408,7 +417,8 @@ Password: WhiteBoard&lt;/p&gt;&lt;/div&gt;</content>
     <updated>2012-12-12T14:06:12+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/plans-for-successor-nuclear-deterrent-submarine-announced"/>
     <title>Plans for successor nuclear deterrent submarine announced</title>
-    <category>News Article</category>
+    <category>News article</category>
+    <summary>Defence Secretary Dr Liam Fox has today announced that approval has been given for the early phase of design of the submarine that will deliver the UK's nuclear deterrent well into the 2060s.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The submarines that will replace the existing Vanguard Class will be powered by a new nuclear propulsion system known as the Pressurised Water Reactor 3. This will deliver a longer lasting and more cost effective capability.&lt;/p&gt;
 
 &lt;p&gt;Dr Fox said:&lt;/p&gt;
@@ -448,6 +458,7 @@ Password: WhiteBoard&lt;/p&gt;&lt;/div&gt;</content>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/the-united-kingdom-s-future-nuclear-deterrent-the-submarine-initial-gate-parliamentary-report"/>
     <title>The United Kingdom’s Future Nuclear Deterrent: The Submarine Initial Gate Parliamentary Report</title>
     <category>Publication</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The aim of this report is to outline the work that has taken place since the Parliamentary vote of March 2007; the decisions taken at Initial Gate; and the next steps that will be taken in the coming months and years to ensure the successful delivery of a successor nuclear deterrent.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
 </feed>

@@ -8,13 +8,15 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-12-14T17:47:00+00:00</updated>
+  <updated>2012-12-14T17:47:04+00:00</updated>
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/60131</id>
     <published>2012-12-14T17:47:00+00:00</published>
-    <updated>2012-12-14T17:47:00+00:00</updated>
+    <updated>2012-12-14T17:47:04+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/small-businesses-to-benefit-from-1-1-million-innovation-boost"/>
     <title>Small businesses to benefit from £1.1 million innovation boost</title>
+    <category>News article</category>
+    <summary>New Innovation Vouchers for businesses who want to use public open data to develop new ideas, improve processes and target new markets.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Innovation is vital for business growth. The aim is simple – to accelerate economic growth by stimulating and supporting business-led innovation.&lt;/p&gt;
 
 &lt;p&gt;A £2 million fund has been created for the Innovation Vouchers scheme, running over the next 3 years. The vouchers provide £5000 for a UK start-up, micro, small or medium-sized businesses to work with external experts and gain new knowledge to help their business.&lt;/p&gt;
@@ -63,9 +65,11 @@
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/56056</id>
     <published>2012-12-13T00:00:00+00:00</published>
-    <updated>2012-12-13T00:00:00+00:00</updated>
+    <updated>2012-12-13T12:21:41+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/speeches/strategy-for-uk-life-sciences-one-year-on"/>
     <title>Strategy for UK Life Sciences – One Year On</title>
+    <category>Speech</category>
+    <summary>David Willetts speech on the strategy for UK Life Sciences – One Year On.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;h3 id="check-against-delivery"&gt;Check against delivery&lt;/h3&gt;
 
 &lt;p&gt;This really is an exciting time to be discussing the prospects for life sciences in the UK. We have a positive story to tell – right up to the announcements of the past week, with more than £100 million of dedicated funding for life sciences capital in the Autumn Statement and the pioneering genomics programme confirmed by the Prime Minister in Cambridge on Monday, which comes with up to £100 million more.&lt;/p&gt;
@@ -106,10 +110,12 @@
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/56230</id>
-    <published>2012-12-10T15:00:00+00:00</published>
-    <updated>2012-12-10T15:00:00+00:00</updated>
+    <published>2012-12-13T13:59:26+00:00</published>
+    <updated>2012-12-13T13:59:26+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/life-sciences-strategy-one-year-on"/>
     <title>  Life Sciences Strategy: one year on</title>
+    <category>News article</category>
+    <summary>Prime Minister David Cameron and Science Minister David Willetts have launched a report on the Strategy for UK Life Sciences.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="progress"&gt;Progress&lt;/h2&gt;
 
 &lt;p&gt;The report shows that the UK has generated more than £1 billion on industry and private sector investment within 12 months.  This includes:&lt;/p&gt;
@@ -164,9 +170,11 @@
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/47153</id>
     <published>2012-11-01T00:00:00+00:00</published>
-    <updated>2012-11-01T00:00:00+00:00</updated>
+    <updated>2012-12-11T16:30:20+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/1-billion-investment-for-uk-science-and-research"/>
     <title>£1 billion investment for UK Science and Research</title>
+    <category>News article</category>
+    <summary>Seven new university and business research partnerships in sectors including life sciences, energy efficiency and advanced manufacturing were announced today by David Willetts, Minister for Universities and Science.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;1 Nov 2012&lt;/p&gt;
 
 &lt;hr&gt;&lt;hr&gt;&lt;p&gt;The cash boost comes from the UK Research Partnership Investment Fund (UK RPIF), which will deliver over £1 billion to support the development of new facilities and projects in areas including life sciences, energy and advanced manufacturing. The projects announced today are:   &lt;/p&gt;
@@ -209,10 +217,12 @@
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/55454</id>
-    <published>2012-09-13T00:00:00+01:00</published>
-    <updated>2012-09-13T00:00:00+01:00</updated>
+    <published>2012-09-13T01:00:00+01:00</published>
+    <updated>2012-12-11T16:30:28+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/speeches/uuk-conference-a-world-without-boundaries"/>
     <title>UUK conference: "A world without boundaries"</title>
+    <category>Statement to parliament</category>
+    <summary>David Willetts sets out the future for UK higher education and what the government is doing to improve access, funding and collaboration.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;It’s great to join you all at Keele as our hosts celebrate their 50th anniversary. Recalling the creation of universities back in the 1960s reminds us of an optimistic sector in one of its most ambitious periods. Today, even during this era of inevitable austerity, I believe that we can still be ambitious and optimistic. &lt;/p&gt;
 
 &lt;h2 id="the-place-of-he-in-the-nation"&gt;The place of HE in the nation&lt;/h2&gt;
@@ -340,9 +350,11 @@
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/47126</id>
     <published>2012-08-30T01:00:00+01:00</published>
-    <updated>2012-08-30T01:00:00+01:00</updated>
+    <updated>2012-12-11T16:30:15+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/london-metropolitan-universitys-licence-revoked"/>
     <title>London Metropolitan University's licence revoked</title>
+    <category>News article</category>
+    <summary>David Willetts announces new taskforce to help students following the University's licence to sponsor overseas students was withdrawn.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;30 Aug 2012&lt;/p&gt;
 
 &lt;hr&gt;&lt;hr&gt;&lt;p&gt;On 29 August 2012, the Tier 4 sponsor licence of &lt;a rel="external" href="http://www.ukba.homeoffice.gov.uk/sitecontent/newsarticles/2012/august/28-LMU-revoked1"&gt;London Metropolitan University (London Met) was revoked&lt;/a&gt; due to non-compliance with its sponsorship duties. &lt;/p&gt;
@@ -380,9 +392,11 @@
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/47122</id>
     <published>2012-08-16T01:00:00+01:00</published>
-    <updated>2012-08-16T01:00:00+01:00</updated>
+    <updated>2012-12-11T16:30:15+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/a-level-results-and-the-start-of-clearing"/>
     <title>A-Level results and the start of Clearing</title>
+    <category>News article</category>
+    <summary>David Willetts congratulates A-Level students</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;16 Aug 2012&lt;/p&gt;
 
 &lt;hr&gt;&lt;hr&gt;&lt;p&gt;&lt;img src="http://www.bis.gov.uk/assets/biscore/corporate/images/ministers/willetts-100x140.jpg?w=100&amp;amp;h=140&amp;amp;as=1" alt="David Willetts"&gt;“Congratulations to all those receiving their A-Level results today. I know how hard students have worked to achieve these results.&lt;/p&gt;
@@ -405,9 +419,11 @@
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/47116</id>
     <published>2012-07-16T01:00:00+01:00</published>
-    <updated>2012-07-16T01:00:00+01:00</updated>
+    <updated>2012-12-11T16:30:14+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/government-to-open-up-publicly-funded-research"/>
     <title>Government to open up publicly funded research</title>
+    <category>News article</category>
+    <summary>Universities, businesses and the public to have better access to British scientific research and academic papers by 2014.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;16 Jul 2012&lt;/p&gt;
 
 &lt;hr&gt;&lt;hr&gt;&lt;p&gt;The government has announced that it will make publicly funded scientific research available for anyone to read for free, accepting recommendations in a report on open access by Dame Janet Finch.&lt;/p&gt;
@@ -453,10 +469,12 @@
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/55452</id>
-    <published>2012-07-10T00:00:00+01:00</published>
-    <updated>2012-07-10T00:00:00+01:00</updated>
+    <published>2012-07-10T01:00:00+01:00</published>
+    <updated>2012-12-11T16:30:26+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/speeches/space-a-new-direction"/>
     <title>Space - A new direction</title>
+    <category>Statement to parliament</category>
+    <summary>David Willetts celebrates 50 years of the UK and the space industry and highlights the progress made since the launch of the Space Leadership Council.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Good morning, everyone - and let me add a personal welcome to our distinguished guests today: Francesco Profumo, Enrico Saggesse, Vladimir Popovkin and of course Jean Jacques Dordain. &lt;/p&gt;
 
 &lt;p&gt;I’m delighted to be back at Farnborough as we celebrate 50 years of the UK in space. It was back in 1962 that the UKs first satellite, Ariel 1 was launched third after the USA and the then USSR. It was the start of a major home-grown industry and a true British success story. And I was delighted that, 50 years to the day, on April 26th 2012, the UK signed a £300 million contract to build the Solar Orbiter - a pioneering project to better understand how the Sun affects the Earth. It was the largest single contract placed by ESA with the UK space industry in two decades, and a great way to mark a half century of scientific and technological advancement. &lt;/p&gt;
@@ -505,9 +523,11 @@
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/47103</id>
     <published>2012-06-26T01:00:00+01:00</published>
-    <updated>2012-06-26T01:00:00+01:00</updated>
+    <updated>2012-12-11T16:30:12+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/england-to-be-best-in-world-for-university-business-collaboration"/>
     <title>England to be best in world for university business collaboration</title>
+    <category>News article</category>
+    <summary>David Willetts Minister for Universities and Science sets out plans to meet the challenge of making England the best place in the world for business-university collaboration.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;26 Jun 2012&lt;/p&gt;
 
 &lt;hr&gt;&lt;hr&gt;&lt;p&gt;In response to the review of university-business collaboration by Professor Tim Wilson, David Willetts has announced new plans to strengthen that collaboration.  This will include improvements to the regime for sandwich courses, promotion of a new framework for business and universities to work together, and ensuring a better fit between graduates and jobs. &lt;/p&gt;

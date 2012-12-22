@@ -8,14 +8,175 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-12-13T11:36:09+00:00</updated>
+  <updated>2012-11-10T14:50:15+00:00</updated>
+  <entry>
+    <id>tag:www.gov.uk,2005:Publication/60775</id>
+    <published>2012-12-20T00:00:00+00:00</published>
+    <updated>2012-11-10T14:50:15+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/bus-passenger-journeys"/>
+    <title>Bus passenger journeys</title>
+    <category>Publication</category>
+    <summary>Latest quarterly data on bus passenger journeys in England.</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="dft-business-plan-other-key-data"&gt;DfT Business Plan other key data&lt;/h2&gt;
+
+&lt;p&gt;Geographical coverage: England&lt;/p&gt;
+
+&lt;p&gt;Information broken down by: Region - data are available for London, English metropolitan areas (as a group), and English non-metropolitan areas (as a group)&lt;/p&gt;
+
+&lt;h2 id="latest-data"&gt;Latest data&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;In Quarter 3 (July – September) 2012, there were 1.16 billion passenger journeys on local buses in England.&lt;/li&gt;
+&lt;/ul&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Most recent data&lt;/th&gt;
+      &lt;th&gt; &lt;/th&gt;
+    &lt;/tr&gt;
+&lt;tr&gt;
+&lt;th&gt;Quarter&lt;/th&gt;
+      &lt;th&gt;Passenger journey (billions)&lt;/th&gt;
+    &lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;2011/12 Jul - Sep&lt;/td&gt;
+      &lt;td&gt;1.163&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2012/13 Jul - Sep&lt;/td&gt;
+      &lt;td&gt;1.162&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Percentage change&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;&lt;p&gt;The complete set of data is available at &lt;a href="https://www.gov.uk/government/statistical-data-sets/bus01-local-bus-passenger-journeys"&gt;https://www.gov.uk/government/statistical-data-sets/bus01-local-bus-passenger-journeys&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a rel="external" href="http://charts.dft.gov.uk/dft-business-plan/indicators/#10"&gt;Click here to view this data in an interactive chart&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Bus passenger journeys in England increased by around 15 per cent between 2004/05 and 2008/09, a period in which the English National Concessionary Travel Scheme was introduced.  Growth was greater in London, with a smaller increase in the metropolitan areas outside London over this period.&lt;/li&gt;
+  &lt;li&gt;Since 2008/09, passenger journeys have remained broadly flat, with continued growth in London offsetting a gradual decline in passenger numbers outside London.  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Though figures for individual quarters should be interpreted with caution, they show a slight increase of 0.3 per cent in seasonally adjusted journeys for England compared with the previous quarter, with falls in each area type except London which had an increase of 1.3 per cent.
+## Background information&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Quarterly estimates are based on a panel of the 18 largest non-metropolitan operators, Passenger Transport Executives (for metropolitan areas) and Transport for London (TfL).  The panel covers over 90 per cent of the journeys made in Great Britain. Data from the quarterly panel is scaled to annual figures from the Department’s main annual survey of 700 PSV operators, and figures are then seasonally adjusted. More information is in the Guidance Notes (see link in Related Information below).&lt;/li&gt;
+  &lt;li&gt;The quarterly figures are less precise than the annual statistics which aim to report on all journeys, including those covered by smaller operators.  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Quarterly figures are subject to revision due to the nature of the seasonal adjustment, and scaling to annual figures.  However, these will typically be minor and not affect overall patterns shown.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+&lt;strong&gt;Publishing schedule:&lt;/strong&gt; Quarterly&lt;/li&gt;
+  &lt;li&gt;
+&lt;strong&gt;Last updated:&lt;/strong&gt; 20 December 2012&lt;/li&gt;
+  &lt;li&gt;
+&lt;strong&gt;Next update:&lt;/strong&gt; March 2013&lt;/li&gt;
+&lt;/ul&gt;&lt;h2 id="other-related-data-and-information"&gt;Other related data and information&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.gov.uk/technical-guidance-for-transport-stats#bus-statistics"&gt;The full guidance notes on DfT bus statistics&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://www.gov.uk/government/organisations/department-for-transport/series/bus-statistics"&gt;Related bus statistics&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://www.gov.uk/government/organisations/department-for-transport/series/statistics-on-public-attitudes-to-transport"&gt;Research on attitudes to bus travel&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;h2 id="further-information"&gt;Further information&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.gov.uk/government/publications/department-for-transport-business-plan"&gt;Business Plan 2012-2015&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://www.gov.uk/government/publications/input-and-impact-indicators"&gt;Input and impact indicators&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Analyst contact: Matthew Tranter, &lt;a href="mailto:bus.statistics@dft.gsi.gov.uk"&gt;Bus statistics&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:Publication/60769</id>
+    <published>2012-12-20T00:00:00+00:00</published>
+    <updated>2012-11-05T21:19:02+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/bus-subsidy-per-passenger-journey"/>
+    <title>Bus subsidy per passenger journey</title>
+    <category>Publication</category>
+    <summary>Bus subsidy per passenger journey input indicator.</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="dft-business-plan-input-indicator"&gt;DfT Business Plan input indicator&lt;/h2&gt;
+
+&lt;h3 id="geographical-coverage-england"&gt;Geographical coverage: England&lt;/h3&gt;
+
+&lt;h3 id="information-broken-down-by-region---data-are-available-for-london-english-metropolitan-areas-as-a-group-and-english-non-metropolitan-areas-as-a-group"&gt;Information broken down by: Region - data are available for London, English metropolitan areas (as a group), and English non-metropolitan areas (as a group)&lt;/h3&gt;
+
+&lt;h2 id="latest-data"&gt;Latest data&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;In 2011/12, the average level of subsidy (direct from central government) per passenger journey was 9.2 pence.&lt;/li&gt;
+&lt;/ul&gt;&lt;h2 id="table-for-net-government-support-for-local-bus-services-and-concessionary-travel-per-passenger-journey-by-metropolitan-area-status-england-annual-from-200405"&gt;Table for Net government support for local bus services and concessionary travel per passenger journey by metropolitan area status: England, annual from 2004/05&lt;/h2&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Most recent data&lt;/th&gt;
+      &lt;th&gt; &lt;/th&gt;
+    &lt;/tr&gt;
+&lt;tr&gt;
+&lt;th&gt;Year&lt;/th&gt;
+      &lt;th&gt;Subsidy per Journey (2010/11 prices)&lt;/th&gt;
+    &lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;2010/11&lt;/td&gt;
+      &lt;td&gt;9.2p&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2011/12&lt;/td&gt;
+      &lt;td&gt;9.2p&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Percentage change&lt;/td&gt;
+      &lt;td&gt;-0.5 %&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;&lt;p&gt;The complete set of data is available at: &lt;a href="https://www.gov.uk/government/statistical-data-sets/bus05-subsidies-and-concessions"&gt;https://www.gov.uk/government/statistical-data-sets/bus05-subsidies-and-concessions&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a rel="external" href="http://charts.dft.gov.uk/dft-business-plan/indicators/#10"&gt;Click here to view this data in an interactive chart&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;In 2011/12 the average level of subsidy (direct from central government) per passenger journey was 9.2 pence. This decreased (adjusted for inflation) from 10.1 pence in 2004/05. &lt;/li&gt;
+  &lt;li&gt;English non-Metropolitan areas had the highest level of subsidy per passenger journey (15.8 pence in 2011/12), London had the lowest level of subsidy per passenger journey (4.8 pence in 2011/12) while English Metropolitan areas were in-between (10.7 pence in 2011/12). Comparisons between London and the rest of the country should be made with care – see note in Background Information below.&lt;/li&gt;
+&lt;/ul&gt;&lt;h2 id="background-information"&gt;Background information&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Lower subsidy per passenger journey will indicate better value for the public purse. However, this could arise as a result of reductions in the most heavily subsidised services – many of which are routes in rural areas which would be unprofitable without public subsidy. Reductions to these services would improve the ‘headline’ measure but would risk making rural communities more isolated. &lt;/li&gt;
+  &lt;li&gt;The figures exclude expenditure on capital projects (e.g. bus lane priority schemes) which benefit the bus industry directly or indirectly. Outside London, the local bus industry is deregulated, but London runs an entirely tendered bus market under the oversight of Transport for London. Given the different market structures, comparisons between London and the rest of country should be made with considerable care.&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;The indicator is calculated by dividing the total Bus Service Operators’ Grant by the total passenger journeys on buses (this will include concessionary journeys). Further information is available in the measurement template (above). &lt;/p&gt;
+
+    &lt;ul&gt;
+&lt;li&gt;publishing schedule: annual&lt;/li&gt;
+      &lt;li&gt;last updated: 20 December 2012&lt;/li&gt;
+      &lt;li&gt;next update: December 2013&lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;&lt;h2 id="other-related-data-and-information"&gt;Other related data and information&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.gov.uk/technical-guidance-for-transport-stats#bus-statistics"&gt;The full guidance notes on DfT bus statistics&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://www.gov.uk/government/organisations/department-for-transport/series/bus-statistics"&gt;Related bus statistics&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://www.gov.uk/government/organisations/department-for-transport/series/statistics-on-public-attitudes-to-transport"&gt;Research on attitudes to bus travel&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;h2 id="further-information"&gt;Further information&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.gov.uk/government/publications/department-for-transport-business-plan"&gt;Business Plan 2011-2015&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://www.gov.uk/government/publications/input-and-impact-indicators"&gt;Input and impact indicators&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Analyst contact: Matthew Tranter, &lt;a href="mailto:bus.statistics@dft.gsi.gov.uk"&gt;Bus statistics&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
+  </entry>
   <entry>
     <id>tag:www.gov.uk,2005:NewsArticle/55970</id>
     <published>2012-12-13T11:36:09+00:00</published>
     <updated>2012-12-13T11:36:09+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/transport-for-everyone"/>
     <title>Transport for everyone </title>
-    <category>News Article</category>
+    <category>News article</category>
+    <summary>Putting accessibility and equality front and centre when delivering services for the travelling public.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Transport Minister Norman Baker is calling on operators and local authorities to work with government to put accessibility and equality front and centre when delivering services for the travelling public.&lt;/p&gt;
 
 &lt;p&gt;To help them to do this, the Department for Transport has published 2 action plans which set out priorities, as well as highlighting areas where action is in the pipeline or already underway. &lt;/p&gt;
@@ -94,7 +255,8 @@ Public enquiries: 0300 330 3000  &lt;/p&gt;&lt;/div&gt;</content>
     <updated>2012-12-13T09:34:12+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/transport-statistics-13-december-2012"/>
     <title>Transport statistics 13 December 2012</title>
-    <category>News Article</category>
+    <category>News article</category>
+    <summary>Several sets of figures including quarterly bus usage, port freight and vehicle licensing.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Department for Transport (&lt;abbr title="Department for Transport"&gt;DfT&lt;/abbr&gt;) has published the following transport statistics: &lt;/p&gt;
 
 &lt;ul&gt;
@@ -113,29 +275,13 @@ Out of hours: 020 7944 4292&lt;br&gt;
 Public enquiries: 0300 330 3000   &lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:Speech/55866</id>
-    <published>2012-12-13T00:00:00+00:00</published>
-    <updated>2012-12-13T11:40:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/speeches/accessibility-action-plan-and-equality-action-plan"/>
-    <title>Accessibility action plan and equality action plan</title>
-    <category>Speech</category>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;I am today pleased to be publishing the department’s accessibility action plan &lt;a href="/government/publications/accessibility-action-plan"&gt;‘Transport for Everyone: an action plan to improve accessibility for all’&lt;/a&gt;, and, for comment, a draft &lt;a href="/government/publications/equality-action-plan"&gt;equality action plan&lt;/a&gt;. &lt;/p&gt;
-
-&lt;p&gt;Much has already been achieved in making transport more accessible, and the accessibility action plan seeks to address the challenges that remain. In doing so, we also want to draw on the success of the Olympic and Paralympic Games which demonstrated what can be done to provide those using our public transport system with a positive experience. &lt;/p&gt;
-
-&lt;p&gt;The accessibility action plan focuses not only on improving physical accessibility, but also on providing better information for the traveller, and on improving attitudes and behaviour, especially towards disabled passengers. &lt;/p&gt;
-
-&lt;p&gt;In identifying our priorities in the action plan, we have worked with a large number of representative organisations, individuals, transport operators and local authorities. I am grateful for the support and input that they have provided.  We want transport to be accessible by all and the plan moves us further towards that goal.&lt;/p&gt;
-
-&lt;p&gt;The equality action plan presents some of the activities we are undertaking to meet our duties under the equalities legislation, and provides an initial set of priorities for promoting equality and well-being, based on the evidence we have gathered and the engagement we have already had with transport organisations and other interested parties. We are seeking comments on this initial draft and will publish a final version following further engagement.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
     <id>tag:www.gov.uk,2005:Publication/56454</id>
     <published>2012-12-13T00:00:00+00:00</published>
     <updated>2012-11-03T22:04:30+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/proportion-of-urban-trips-under-5-miles-taken-by-i-walking-or-cycling-ii-public-transport"/>
     <title>Proportion of urban trips under 5 miles taken by (i) walking or cycling (ii) public transport</title>
     <category>Publication</category>
+    <summary>Impact indicator, disaggregated by region, published annually from May 2011.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="type-of-indicator-impact-indicator"&gt;Type of indicator: Impact indicator&lt;/h2&gt;
 
 &lt;h3 id="geographical-coverage-england-data-are-also-available-for-great-britain"&gt;Geographical coverage: England (data are also available for Great Britain)&lt;/h3&gt;
@@ -205,12 +351,31 @@ Public enquiries: 0300 330 3000   &lt;/p&gt;&lt;/div&gt;</content>
 &lt;/ul&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
+    <id>tag:www.gov.uk,2005:Speech/55866</id>
+    <published>2012-12-13T00:00:00+00:00</published>
+    <updated>2012-12-13T11:40:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/speeches/accessibility-action-plan-and-equality-action-plan"/>
+    <title>Accessibility action plan and equality action plan</title>
+    <category>Statement to parliament</category>
+    <summary>Release of the accessibility action plan and equality action plan.</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;I am today pleased to be publishing the department’s accessibility action plan &lt;a href="/government/publications/accessibility-action-plan"&gt;‘Transport for Everyone: an action plan to improve accessibility for all’&lt;/a&gt;, and, for comment, a draft &lt;a href="/government/publications/equality-action-plan"&gt;equality action plan&lt;/a&gt;. &lt;/p&gt;
+
+&lt;p&gt;Much has already been achieved in making transport more accessible, and the accessibility action plan seeks to address the challenges that remain. In doing so, we also want to draw on the success of the Olympic and Paralympic Games which demonstrated what can be done to provide those using our public transport system with a positive experience. &lt;/p&gt;
+
+&lt;p&gt;The accessibility action plan focuses not only on improving physical accessibility, but also on providing better information for the traveller, and on improving attitudes and behaviour, especially towards disabled passengers. &lt;/p&gt;
+
+&lt;p&gt;In identifying our priorities in the action plan, we have worked with a large number of representative organisations, individuals, transport operators and local authorities. I am grateful for the support and input that they have provided.  We want transport to be accessible by all and the plan moves us further towards that goal.&lt;/p&gt;
+
+&lt;p&gt;The equality action plan presents some of the activities we are undertaking to meet our duties under the equalities legislation, and provides an initial set of priorities for promoting equality and well-being, based on the evidence we have gathered and the engagement we have already had with transport organisations and other interested parties. We are seeking comments on this initial draft and will publish a final version following further engagement.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
     <id>tag:www.gov.uk,2005:NewsArticle/50194</id>
     <published>2012-12-12T11:49:08+00:00</published>
     <updated>2012-12-12T11:49:08+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/19-5-million-to-kick-start-regeneration-in-portsmouth"/>
     <title>£19.5 million to kick start regeneration in Portsmouth</title>
-    <category>News Article</category>
+    <category>News article</category>
+    <summary>Opening up access to the Tipner site for businesses and visitors.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Work to kick-start the regeneration of the 22 hectare Tipner site in Portsmouth can now start after receiving final approval from Local Transport Minister Norman Baker today. &lt;/p&gt;
 
 &lt;p&gt;The scheme will see Portsmouth City Council deliver extensive improvements including a new access road to the site from the M275 and a new Park &amp;amp; Ride scheme. As well as improving access to the regeneration site at Tipner, the scheme will relieve traffic and congestion on local residential roads around the site.&lt;/p&gt;
@@ -252,6 +417,7 @@ Public enquiries: 0300 330 3000&lt;/p&gt;&lt;/div&gt;</content>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/local-sustainable-transport-fund-monitoring-and-evaluation-framework"/>
     <title>Local Sustainable Transport Fund monitoring and evaluation framework</title>
     <category>Publication</category>
+    <summary>Expectations for the monitoring and evaluation of projects funded through the Local Sustainable Transport Fund.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This framework sets out the department’s requirements from the monitoring and evaluation activity of Local Sustainable Transport Fund (&lt;abbr title="Local Sustainable Transport fund"&gt;LSTF&lt;/abbr&gt;) projects and the roles of the department and project teams in delivering these. &lt;/p&gt;
 
 &lt;p&gt;The framework articulates which &lt;abbr title="Local Sustainable Transport fund"&gt;LSTF&lt;/abbr&gt; projects are expected to fulfil which elements of monitoring and evaluation and provides project teams with the flexibility to collect evidence in a way that reflects the local variation of projects and data availability.&lt;/p&gt;&lt;/div&gt;</content>
@@ -263,6 +429,7 @@ Public enquiries: 0300 330 3000&lt;/p&gt;&lt;/div&gt;</content>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/green-bus-fund-round-4"/>
     <title>Green Bus Fund round 4</title>
     <category>Publication</category>
+    <summary>Guidance and bidding documents for bus operators and local authorities to submit bids for the 4th round of the Green Bus Fund.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Green Bus Fund supports bus companies and local authorities in England to help them buy new low carbon buses. Its main purpose is to support and speed up the introduction of hundreds of low carbon buses across England.&lt;/p&gt;
 
 &lt;p&gt;This bidding guidance and documents are intended for bus operators and local authorities who want to submit bids for grant under the 4th round of the government’s Green Bus Fund. The bidding guidance explains the eligibility terms, the bidding process and how bids should be submitted.&lt;/p&gt;&lt;/div&gt;</content>
@@ -273,7 +440,8 @@ Public enquiries: 0300 330 3000&lt;/p&gt;&lt;/div&gt;</content>
     <updated>2012-11-28T10:08:57+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/cash-boost-to-get-england-cycling--2"/>
     <title>Cash boost to get England cycling</title>
-    <category>News Article</category>
+    <category>News article</category>
+    <summary>An extra £20 million for cycle infrastructure</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Cities, towns and villages across England are set to benefit from an extra £20 million for cycle infrastructure.  The new funding was announced today by Transport Minister Norman Baker, at a conference in Leicester.&lt;/p&gt;
 
 &lt;p&gt;This new funding will help people take to two wheels.  Projects could include better cycle facilities at railway stations, improved cycle links, or projects to improve the layout of road junctions to make them more cycle-friendly. Previous investment has seen some great projects making a real difference in communities, including better cycle routes from residential areas to schools to encourage the next generation of cyclists to cycle more regularly.&lt;/p&gt;
@@ -315,73 +483,5 @@ Public enquiries: 0300 330 3000&lt;/p&gt;&lt;/div&gt;</content>
 &lt;/ol&gt;&lt;p&gt;Press Enquiries: 020 7944 3066&lt;br&gt;
 Out of Hours: 020 7944 4292&lt;br&gt;
 Public Enquiries: 0300 330 3000  &lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:Speech/17109</id>
-    <published>2012-11-28T00:00:00+00:00</published>
-    <updated>2012-11-28T09:50:20+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/speeches/additional-funding-for-cycling-infrastructure"/>
-    <title>Additional funding for cycling infrastructure</title>
-    <category>Speech</category>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Coalition Government has today made available an additional £20m for our existing infrastructure projects to support cycling. &lt;/p&gt;
-
-&lt;p&gt;The funding will increase the total available for:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;The Community Linking Places Fund (in addition to the £15m announced on 7 February 2012)&lt;/li&gt;
-  &lt;li&gt;Improving cycle safety at junctions (in addition to the £15m announced on 26 June 2012)&lt;/li&gt;
-&lt;/ol&gt;&lt;p&gt;This Community Linking Places Fund is primarily for improvements to cycling and walking infrastructure, facilities and links. This includes improving access to the rail network by bicycle. In addition the fund aims to support jobs, enhance access to employment and encourage greater use of more environmentally friendly transport.   Projects currently being supported were announced on 6 March 2012. &lt;/p&gt;
-
-&lt;p&gt;The investment in junctions - for use by English local authorities outside London - will help to tackle accident hotspots where cyclists have been killed or seriously injured, or are deemed to be at greater risk.  Local authorities are currently submitting bids for funding. &lt;/p&gt;
-
-&lt;p&gt;Demand from local authorities, Sustrans and train operating companies, who are delivering the infrastructure, has been high.  An increase of £20m to the total funding available will allow the Government to support more high quality proposals. &lt;/p&gt;
-
-&lt;p&gt;Details of the projects to be supported under the additional funding will be published early next year.&lt;/p&gt;
-
-&lt;h2 id="related-documents"&gt;Related documents&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="/government/news/cash-boost-to-get-england-cycling--2"&gt;Cash boost to get England cycling&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:NewsArticle/16957</id>
-    <published>2012-11-26T11:31:27+00:00</published>
-    <updated>2012-11-26T11:31:27+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/green-light-for-weston-transport-improvements"/>
-    <title>Green light for Weston transport improvements</title>
-    <category>News Article</category>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Work on a new package of public transport and road improvement measures in Weston-super-Mare can now start after receiving final approval from Local Transport Minister Norman Baker today. &lt;/p&gt;
-
-&lt;p&gt;The scheme will support economic growth in Weston-super-Mare and reduce congestion in the town centre. The work will also improve links between local roads and the M5 motorway.&lt;/p&gt;
-
-&lt;p&gt;The scheme includes:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;improvements to increase capacity of the M5 Junction 21&lt;/li&gt;
-  &lt;li&gt;a new link road for buses to access Worle railway station&lt;/li&gt;
-  &lt;li&gt;bus priority measures at junctions and bus only sections to improve bus access to the south of Worle Station, linking it with regeneration areas at Weston Airfield and Locking Parklands&lt;/li&gt;
-  &lt;li&gt;a new 320 space car park with a bus interchange, drop-off and cycle facilities together with improvements to the north-side car park at Worle Station&lt;/li&gt;
-  &lt;li&gt;increased capacity between the town centre and the regeneration areas through road widening and new routes for pedestrians and cyclists as well as bus priority measures&lt;/li&gt;
-&lt;/ul&gt;&lt;p&gt;Norman Baker said:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;This is a great scheme that will support employment, reduce congestion and make it easier for people using public transport in and around Weston-super-Mare.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;The £10.4 million we are putting into this scheme shows that the coalition government is serious about investing in the infrastructure the country and the region needs to drive economic growth.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;The Weston package scheme was one of the schemes given funding approval last year as part of the Spending Review process.  Work is currently planned to start in March 2013 with the package scheduled to open in April 2014.&lt;/p&gt;
-
-&lt;h2 id="notes-to-editors"&gt;Notes to editors&lt;/h2&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Today’s announcement grants full (final) approval to the Weston package scheme enabling work to begin.&lt;/li&gt;
-  &lt;li&gt;The package of measures, promoted by North Somerset Council, is scheduled to open in April 2014.&lt;/li&gt;
-&lt;/ol&gt;&lt;p&gt;Press enquiries: 020 7944 3066&lt;br&gt;
-Out of hours: 020 7944 4292&lt;br&gt;
-Public enquiries: 0300 330 3000&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
 </feed>

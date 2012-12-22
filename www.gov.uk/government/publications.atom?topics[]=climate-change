@@ -8,13 +8,15 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-12-19T00:00:00+00:00</updated>
+  <updated>2012-12-19T16:34:27+00:00</updated>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/60040</id>
     <published>2012-12-19T00:00:00+00:00</published>
-    <updated>2012-12-19T00:00:00+00:00</updated>
+    <updated>2012-12-19T16:34:27+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/improving-the-energy-efficiency-of-our-buildings"/>
     <title>Recast of the Energy Performance of Buildings Directive</title>
+    <category>Publication</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Energy Performance of Buildings Directive is an EU measure designed to tackle climate change by reducing the amount of carbon produced by buildings. The requirements of the Directive were implemented on a phased basis by the Energy Performance of Buildings (Certificates and Inspections) (England and Wales) Regulations 2007.&lt;/p&gt;
 
 &lt;p&gt;Key requirements were:&lt;/p&gt;
@@ -35,11 +37,29 @@
 &lt;p&gt;The new regulations consolidate all existing regulations which have been revoked. They are available at &lt;a rel="external" href="http://www.legislation.gov.uk/" title="legislation.gov.uk"&gt;legislation.gov.uk&lt;/a&gt;. &lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/57520</id>
+    <published>2012-12-18T00:00:00+00:00</published>
+    <updated>2012-12-21T11:59:20+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/department-for-communities-and-local-government-approved-software-for-the-production-of-non-domestic-energy-performance-certificates-epc"/>
+    <title>Department for Communities and Local Government approved software for the production of Non Domestic Energy Performance Certificates (EPC) </title>
+    <category>Publication</category>
+    <summary/>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Energy Performance of Buildings Directive (EPBD) became part of EU law in December 2002. The EPBD has been implemented into law via the Energy Performance of Buildings (Certificates and Inspections) (England and Wales) Regulations 2007 (S.I. 2007/991 as amended) (“the 2007 regulations”) in respect of sales and lettings, and in regulation 29 to 33 of the Building Regulations 2010 (S.I. 2010/2214 as amended or superseded) (the Building Regulations) in respect of the duty on construction.&lt;/p&gt;
+
+&lt;p&gt;Regulation 24 of the Building Regulations 2010 (the Building Regulations) requires the Secretary of State for Communities and Local Government (the Secretary of State) to approve a National Calculation Methodology (NCM) for calculating the energy performance of buildings.&lt;/p&gt;
+
+&lt;p&gt;All software that is used to assess the energy performance of buildings must be validated to ensure that it operates in a manner, and to a standard, consistent with the NCM before it can be approved by the Secretary of State.&lt;/p&gt;
+
+&lt;p&gt;Please see the attached latest list of approved software for the production of non domestic Energy Performance Certificates (EPCs), Domestic Energy Performance Certificates (DECs) and Air Conditioning Inspection Reports (ACIRs).&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/57041</id>
     <published>2012-12-18T00:00:00+00:00</published>
-    <updated>2012-12-18T00:00:00+00:00</updated>
+    <updated>2012-12-18T11:45:06+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/guidance-for-local-planning-authorities-on-implementing-planning-requirements-of-the-eu-waste-framework-directive-2008-98-ec"/>
     <title>Guidance for local planning authorities on implementing planning requirements of the EU Waste Framework Directive (2008/98/EC)</title>
+    <category>Publication</category>
+    <summary>A guidance note to ensure compliance with the EU Waste Framework Directive (2008/98/EC).</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Waste Framework Directive (2008/98/EC) (‘the Directive’) provides an overarching legislative framework for the management of waste across Europe. This guidance note provides advice on the measures required by local planning authorities to ensure compliance with the directive. &lt;/p&gt;
 
 &lt;p&gt;This guidance is aimed primarily at waste planning authorities, but it highlights the main legal and policy provisions of relevance to all planning authorities, and the action we expect them to take to assist them in ensuring compliance with the directive. &lt;/p&gt;
@@ -47,11 +67,29 @@
 &lt;p&gt;It should be read alongside the government’s planning policy for waste management, currently set out in &lt;a href="https://www.gov.uk/government/publications/planning-for-sustainable-waste-management-planning-policy-statement-10"&gt;Planning Policy Statement 10&lt;/a&gt; and its &lt;a href="https://www.gov.uk/government/publications/planning-for-sustainable-waste-management-a-companion-guide-to-planning-policy-statement-10"&gt;companion guide&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56725</id>
+    <published>2012-12-17T00:00:00+00:00</published>
+    <updated>2012-12-17T09:32:10+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/consultations/renewable-transport-fuel-obligation-guidance-for-suppliers"/>
+    <title>Renewable Transport Fuel Obligation guidance for suppliers</title>
+    <category>Consultation</category>
+    <summary>Seeking views on revised guidance about complying with the Renewable Transport Fuel Obligation which take latest legislation into account.</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Renewable Transport Fuel Obligation (&lt;abbr title="Renewable Transport Fuel Obligation"&gt;RTFO&lt;/abbr&gt;) scheme requires suppliers of road transport fuel to ensure that a certain proportion of it comes from sustainable renewable sources. Guidance has been in place to assist suppliers with compliance since the &lt;abbr title="Renewable Transport Fuel Obligation"&gt;RTFO&lt;/abbr&gt; was first introduced. Obligated suppliers are consulted each year on revisions to the guidance. These have taken into account the latest European and domestic legislative developments and experience in operating the obligation. &lt;/p&gt;
+
+&lt;h2 id="related-documents"&gt;Related documents&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.gov.uk/government/publications/tallow-review-a-report-on-the-current-animal-fat-market"&gt;Tallow review: a report on the current animal fat market&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/56834</id>
     <published>2012-12-17T00:00:00+00:00</published>
-    <updated>2012-12-17T00:00:00+00:00</updated>
+    <updated>2012-12-17T14:47:48+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/consultations/strategic-environmental-assessment-about-revoking-the-north-west-regional-strategy-environmental-report"/>
     <title>Strategic environmental assessment about revoking the North West regional strategy: environmental report</title>
+    <category>Consultation</category>
+    <summary>Consultation document on the likely significant environmental effects of revoking the north west plan and the regional economic strategy.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This environmental report is a consultation document on the likely significant environmental effects of revocation of the north west plan and the regional economic strategy (which together form the regional strategy).&lt;/p&gt;
 
 &lt;p&gt;This report succeeds the &lt;a rel="external" href="http://webarchive.nationalarchives.gov.uk/20120919154703/http://www.communities.gov.uk/publications/planningandbuilding/revocationnwrss"&gt;previous environmental report&lt;/a&gt; on the revocation of the north west regional strategy which was consulted on between October 2011 and January 2012. It is a stand alone document the intention of which is to provide the reader with an up-to-date comprehensive assessment of the environmental effects of the revocation of the north west plan and the regional economic strategy without the need to refer back to the previous environmental report.&lt;/p&gt;
@@ -67,25 +105,13 @@
 &lt;/ul&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56725</id>
-    <published>2012-12-17T00:00:00+00:00</published>
-    <updated>2012-12-17T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/consultations/renewable-transport-fuel-obligation-guidance-for-suppliers"/>
-    <title>Renewable Transport Fuel Obligation guidance for suppliers</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Renewable Transport Fuel Obligation (&lt;abbr title="Renewable Transport Fuel Obligation"&gt;RTFO&lt;/abbr&gt;) scheme requires suppliers of road transport fuel to ensure that a certain proportion of it comes from sustainable renewable sources. Guidance has been in place to assist suppliers with compliance since the &lt;abbr title="Renewable Transport Fuel Obligation"&gt;RTFO&lt;/abbr&gt; was first introduced. Obligated suppliers are consulted each year on revisions to the guidance. These have taken into account the latest European and domestic legislative developments and experience in operating the obligation. &lt;/p&gt;
-
-&lt;h2 id="related-documents"&gt;Related documents&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.gov.uk/government/publications/tallow-review-a-report-on-the-current-animal-fat-market"&gt;Tallow review: a report on the current animal fat market&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/57003</id>
     <published>2012-12-14T00:00:00+00:00</published>
-    <updated>2012-12-14T00:00:00+00:00</updated>
+    <updated>2012-12-17T09:29:57+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/tallow-review-a-report-on-the-current-animal-fat-market"/>
     <title>Tallow review: a report on the current animal fat market</title>
+    <category>Publication</category>
+    <summary>An assessment of the tallow market and impacts caused by changes to the way renewable energy targets are counted by EU member states.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Department for Transport asked Ecofys to produce a report on the current animal fat (tallow) market to assess whether there has been any impact from allowing double counting of biodiesel produced from category 1 tallow. &lt;/p&gt;
 
 &lt;p&gt;This paper is intended to explain the issue, the risks, and the available data relating to the tallow market to enable the department to set out its approach to monitoring impacts and also seek stakeholder feedback.&lt;/p&gt;
@@ -102,6 +128,8 @@
     <updated>2012-12-11T12:22:00+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/consultations/strategic-environmental-assessment-of-revoking-the-east-of-england-regional-strategy"/>
     <title>Strategic environmental assessment about revoking the East of England regional strategy: environmental report</title>
+    <category>Consultation</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This environmental report is a consultation document on the likely significant environmental effects of revocation of the East of England Plan and the regional economic strategy (which together form the regional strategy in force for the East of England).&lt;/p&gt;
 
 &lt;p&gt;This report succeeds the previous environmental report for the revocation of the East of England regional strategy which was consulted on between October 2011 and January 2012. It is a stand alone document the intention of which is to provide the reader with an up-to-date comprehensive assessment of the environmental effects of the revocation of the East of England Plan and the regional economic strategy without the need to refer back to the previous environmental report.&lt;/p&gt;
@@ -111,9 +139,11 @@
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/39671</id>
     <published>2012-12-07T00:00:00+00:00</published>
-    <updated>2012-12-07T00:00:00+00:00</updated>
+    <updated>2012-12-07T17:19:15+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/energy-performance-of-buildings-directive-article-8-equivalence-uk-biennial-reports"/>
     <title>Energy Performance of Buildings Directive article 8 equivalence - UK biennial reports</title>
+    <category>Publication</category>
+    <summary>Equivalence reports produced by the Building Research Establishment.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Energy Performance of Buildings Directive, published in January 2003, is designed to improve the energy efficiency of buildings across Europe. Article 8 of the Directive is specifically aimed at improving the performance of heating systems. The directive offers two alternatives for implementing article 8: option (a) which involves the implementation of an inspection regime; or option (b) which involves the provision of advice, but this option can also include ‘alternative solutions’.&lt;/p&gt;
 
 &lt;p&gt;The UK has chosen to adopt option (b) and has prepared biennial Article 8 equivalence reports to demonstrate that this approach has an impact that is ‘broadly equivalent’ to that produced through the provisions of option (a).&lt;/p&gt;
@@ -123,9 +153,11 @@
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/17618</id>
     <published>2012-12-03T00:00:00+00:00</published>
-    <updated>2012-12-03T00:00:00+00:00</updated>
+    <updated>2012-12-03T09:42:03+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/green-bus-fund-round-4"/>
     <title>Green Bus Fund round 4</title>
+    <category>Publication</category>
+    <summary>Guidance and bidding documents for bus operators and local authorities to submit bids for the 4th round of the Green Bus Fund.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Green Bus Fund supports bus companies and local authorities in England to help them buy new low carbon buses. Its main purpose is to support and speed up the introduction of hundreds of low carbon buses across England.&lt;/p&gt;
 
 &lt;p&gt;This bidding guidance and documents are intended for bus operators and local authorities who want to submit bids for grant under the 4th round of the government’s Green Bus Fund. The bidding guidance explains the eligibility terms, the bidding process and how bids should be submitted.&lt;/p&gt;&lt;/div&gt;</content>
@@ -136,28 +168,18 @@
     <updated>2012-12-02T14:46:17+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/consultations/zero-carbon-for-new-non-domestic-buildings"/>
     <title>Zero carbon for new non-domestic buildings</title>
+    <category>Consultation</category>
+    <summary>Consultation about working towards the government's ambition for all new non-domestic buildings to be zero carbon from 2019.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This consultation sets out proposals for working towards the government’s ambition that all new non-domestic buildings should be zero carbon from 2019, with the public sector leading the way from 2018.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/32963</id>
-    <published>2012-11-30T00:00:00+00:00</published>
-    <updated>2012-11-30T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/local-authority-green-belt-statistics-for-england-2011-to-2012"/>
-    <title>Local authority green belt statistics for England: 2011 to 2012</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The latest national statistics on the extent of the green belt in England were released under the auspices of the UK Statistics Authority on 30 November 2012.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;The extent of the designated green belt land in England in 2011/12 was estimated at 1,639,410 hectares, about 13% of the land area of England. &lt;/li&gt;
-  &lt;li&gt;Overall there has been a decrease of 130 hectares from the revised 2010-11 green belt. This is due to three authorities who have adopted new plans in which they have changed the boundaries of the green belt. This represents a decrease of less than 0.01% per cent in the total green belt area.&lt;/li&gt;
-  &lt;li&gt;Since these statistics were first compiled for 1997, there has been an increase in the area of green belt after taking account of the redesignation of some green belt as part of the New Forest National Park in 2005.&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/17341</id>
     <published>2012-11-30T00:00:00+00:00</published>
-    <updated>2012-11-30T00:00:00+00:00</updated>
+    <updated>2012-11-30T13:09:02+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/consultations/strategic-environmental-assessment-about-revoking-the-south-west-regional-strategy-environmental-report"/>
     <title>Strategic environmental assessment about revoking the South West regional strategy: environmental report</title>
+    <category>Consultation</category>
+    <summary>Consultation document on the likely environmental effects of revoking the South West Plan and the regional economic strategy.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This environmental report is a consultation document on the likely significant environmental effects of revocation of the South West regional planning guidance and the regional economic strategy (which together form the regional strategy).&lt;/p&gt;
 
 &lt;p&gt;This report succeeds the &lt;a rel="external" href="http://webarchive.nationalarchives.gov.uk/20120919194318/http://www.communities.gov.uk/publications/planningandbuilding/revocationswrss"&gt;previous environmental report&lt;/a&gt; on the revocation of the South West regional strategy which was consulted on between October 2011 and January 2012. It is a stand alone document the intention of which is to provide the reader with an up-to-date comprehensive assessment of the environmental effects of the revocation of the South West regional planning guidance and the regional economic strategy without the need to refer back to the previous environmental report.&lt;/p&gt;
@@ -175,11 +197,29 @@
 &lt;/ul&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/32963</id>
+    <published>2012-11-30T00:00:00+00:00</published>
+    <updated>2012-11-30T09:30:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/local-authority-green-belt-statistics-for-england-2011-to-2012"/>
+    <title>Local authority green belt statistics for England: 2011 to 2012</title>
+    <category>Publication</category>
+    <summary>Statistics on designated green belt land.</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The latest national statistics on the extent of the green belt in England were released under the auspices of the UK Statistics Authority on 30 November 2012.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The extent of the designated green belt land in England in 2011/12 was estimated at 1,639,410 hectares, about 13% of the land area of England. &lt;/li&gt;
+  &lt;li&gt;Overall there has been a decrease of 130 hectares from the revised 2010-11 green belt. This is due to three authorities who have adopted new plans in which they have changed the boundaries of the green belt. This represents a decrease of less than 0.01% per cent in the total green belt area.&lt;/li&gt;
+  &lt;li&gt;Since these statistics were first compiled for 1997, there has been an increase in the area of green belt after taking account of the redesignation of some green belt as part of the New Forest National Park in 2005.&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/16388</id>
     <published>2012-11-21T00:00:00+00:00</published>
-    <updated>2012-11-21T00:00:00+00:00</updated>
+    <updated>2012-11-21T12:28:41+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/consultations/strategic-environmental-assessment-about-revoking-the-west-midlands-regional-strategy-environmental-report"/>
     <title>Strategic environmental assessment about revoking the West Midlands regional strategy: environmental report</title>
+    <category>Consultation</category>
+    <summary>Consultation document on the likely environmental effects of revoking the West Midlands Plan and the regional economic strategy.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This environmental report is a consultation document on the likely significant environmental effects of revocation of the West Midlands Plan and the regional economic strategy (which together form the regional strategy).&lt;/p&gt;
 
 &lt;p&gt;This report succeeds the &lt;a rel="external" href="http://webarchive.nationalarchives.gov.uk/20120919194311/http://www.communities.gov.uk/publications/planningandbuilding/revocationwmrss"&gt;previous environmental report&lt;/a&gt; on the revocation of the West Midlands regional strategy which was consulted on between October 2011 and January 2012. It is a stand alone document the intention of which is to provide the reader with an up-to-date comprehensive assessment of the environmental effects of the revocation of the West Midlands Plan and the regional economic strategy without the need to refer back to the previous environmental report.&lt;/p&gt;
@@ -191,9 +231,11 @@
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/15105</id>
     <published>2012-11-13T00:00:00+00:00</published>
-    <updated>2012-11-13T00:00:00+00:00</updated>
+    <updated>2012-11-06T12:52:58+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/low-carbon-bus-calculator"/>
     <title>Low carbon bus calculator</title>
+    <category>Publication</category>
+    <summary>This toolkit can be used to calculate the likely benefits on investing in a low carbon emission bus (LCEB).</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;We recognise that the benefits of purchasing a low carbon bus will be different for each operator and will depend on the way in which the bus in service is used. So, Department for Transport economists have produced a transparent, user-friendly toolkit to be used by bus operators and local authorities to calculate the likely benefits on investing in a low carbon emission bus (&lt;abbr title="low carbon emission bus"&gt;LCEB&lt;/abbr&gt;). Your assessment should always compare the &lt;abbr title="low carbon emission bus"&gt;LCEB&lt;/abbr&gt; to an equivalent diesel bus.&lt;/p&gt;
 
 &lt;p&gt;This toolkit allows you flexibility in changing the input assumptions to those most relevant to you. You will be able to assess the financial implications of purchasing a &lt;abbr title="low carbon emission bus"&gt;LCEB&lt;/abbr&gt;, based on the fuel savings on offer (as advised by &lt;abbr title="low carbon emission bus"&gt;LCEB&lt;/abbr&gt; manufacturers or experienced in trials).&lt;/p&gt;
@@ -208,6 +250,8 @@
     <updated>2012-11-07T00:00:00+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/consultations/strategic-environmental-assessment-about-revoking-the-north-east-regional-strategy-environmental-report"/>
     <title>Strategic environmental assessment about revoking the North East regional strategy: environmental report</title>
+    <category>Consultation</category>
+    <summary>Consultation document on the likely environmental effects of revoking the North East of England Plan and the regional economic strategy. </summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This environmental report is a consultation document on the likely significant environmental effects of revocation of the North East of England Plan and the regional economic strategy (which together form the regional strategy).&lt;/p&gt;
 
 &lt;p&gt;This report succeeds the previous environmental report on the revocation of the North East of England regional strategy which was consulted on between October 2011 and January 2012. It is a stand alone document the intention of which is to provide the reader with an up-to-date comprehensive assessment of the environmental effects of the revocation of the North East of England Plan and the regional economic strategy without the need to refer back to the previous environmental report.&lt;/p&gt;
@@ -221,9 +265,11 @@
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/16178</id>
     <published>2012-11-01T00:00:00+00:00</published>
-    <updated>2012-11-01T00:00:00+00:00</updated>
+    <updated>2012-11-12T19:43:16+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/biofuel-statistics-year-4-2011-12-report-5"/>
     <title>Biofuel statistics: Year 4 (2011/12), report 5</title>
+    <category>Publication</category>
+    <summary>This publication presents statistics on the Renewable Transport Fuel Obligation (RTFO) for the obligation year 15 April 2011 to 14 April 2012 (Year 4).</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This publication presents statistics on the Renewable Transport Fuel Obligation (RTFO) for the obligation year 15 April 2011 to 14 April 2012 (Year 4).&lt;/p&gt;
 
 &lt;p&gt;It includes information on:&lt;/p&gt;
@@ -269,9 +315,11 @@
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/17469</id>
     <published>2012-11-01T00:00:00+00:00</published>
-    <updated>2012-11-01T00:00:00+00:00</updated>
+    <updated>2012-11-12T19:48:53+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/biofuel-statistics-year-5-2012-13-report-1"/>
     <title>Biofuel statistics: Year 5 (2012/13), report 1</title>
+    <category>Publication</category>
+    <summary>This publication presents statistics on the Renewable Transport Fuel Obligation (RTFO) for the obligation year 15 April 2012 to 14 July 2012 (Year 5).</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This publication presents statistics on the Renewable Transport Fuel Obligation (RTFO) for the obligation year 15 April 2012 to 14 July 2012 (Year 5).&lt;/p&gt;
 
 &lt;p&gt;It includes information on:&lt;/p&gt;
@@ -314,9 +362,11 @@
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/47201</id>
     <published>2012-10-30T00:00:00+00:00</published>
-    <updated>2012-10-30T00:00:00+00:00</updated>
+    <updated>2012-12-10T17:34:46+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/biofuels-events-calendar"/>
     <title>Biofuels events calendar</title>
+    <category>Publication</category>
+    <summary>Programme of events for biofuel stakeholders.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="november-2012"&gt;28 November 2012&lt;/h2&gt;
 &lt;p&gt;2nd meeting of the NUTS2 expert steering group, regarding updates to the UK report on ‘Regional emissions from biofuel cultivation’ (NUTS2 report) &lt;br&gt;
 Great Minster House, London &lt;br&gt;
@@ -526,10 +576,12 @@ Great Minster House, London
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/56820</id>
-    <published>2012-10-26T00:00:00+01:00</published>
-    <updated>2012-10-26T00:00:00+01:00</updated>
+    <published>2012-10-26T01:00:00+01:00</published>
+    <updated>2012-11-05T19:22:02+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/local-sustainable-transport-fund"/>
     <title>Local Sustainable Transport Fund</title>
+    <category>Publication</category>
+    <summary>Guidance for local authorities wishing to bid for the Local Sustainable Transport Fund.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="lstf-workshops"&gt;LSTF workshops&lt;/h2&gt;
 
 &lt;p&gt;Materials from the department’s programme of workshops with local authorities.&lt;/p&gt;
@@ -558,25 +610,13 @@ Great Minster House, London
     <updated>2012-10-23T01:00:00+01:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/consultations/strategic-environmental-assessment-about-revoking-the-east-midlands-regional-strategy-environmental-report"/>
     <title>Strategic environmental assessment about revoking the East Midlands regional strategy: environmental report</title>
+    <category>Consultation</category>
+    <summary>Consultation document on the likely significant environmental effects of revoking  the East Midlands Plan and the regional economic strategy.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This environmental report is a consultation document on the likely significant environmental effects of revoking the East Midlands Plan and the regional economic strategy (which together form the regional strategy).&lt;/p&gt;
 
 &lt;p&gt;This report succeeds the previous environmental report for the revocation of the East Midlands Plan which was consulted on between October 2011 and January 2012. It is a standalone document that is intended to give reader an up-to-date comprehensive assessment of the environmental effects of the revocation of the East Midlands Regional Plan and the Regional Economic Strategy without the need to refer back to the previous environmental report.&lt;/p&gt;
 
 &lt;p&gt;At the end of the period all consultation responses will be considered, including those already submitted during the earlier response period. Responses are invited on all aspects of the report and proposal including the supporting appendices.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Please note&lt;/strong&gt;: Due to the size of the documents this publication can also be supplied on a compact disc. Please email requests to the &lt;a href="mailto:SEAConsultation@communities.gsi.gov.uk"&gt;Environmental Assessment Team&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/13408</id>
-    <published>2012-10-11T01:00:00+01:00</published>
-    <updated>2012-10-11T01:00:00+01:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/consultations/strategic-environmental-assessment-about-revoking-the-south-east-regional-strategy-environmental-report"/>
-    <title>Strategic environmental assessment about revoking the South East regional strategy: environmental report</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This environmental report is a consultation document on the likely significant environmental effects of revoking the South East Plan and the regional economic strategy (which together form the regional strategy).&lt;/p&gt;
-
-&lt;p&gt;This report succeeds the previous environmental report for the revocation of the South East Plan which was consulted on between October 2011 and January 2012. It is a standalone document that is intended to give reader an up-to-date comprehensive assessment of the environmental effects of the revocation of the South East Plan and the Regional Economic Strategy without the need to refer back to the previous environmental report.&lt;/p&gt;
-
-&lt;p&gt;At the end of the period all consultation responses will be considered, including those already submitted during the earlier response period. Responses are invited on all aspects of the report and proposal including the supporting appendices. This includes whether or not to retain the Oxfordshire structure plan policy H2, covering development at Upper Heyford, until a revised plan is adopted by the relevant local planning authority (Cherwell District Council).&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Please note&lt;/strong&gt;: Due to the size of the documents this publication can also be supplied on a compact disc. Please email requests to the &lt;a href="mailto:SEAConsultation@communities.gsi.gov.uk"&gt;Environmental Assessment Team&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>

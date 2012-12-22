@@ -8,13 +8,15 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-09-10T01:00:00+01:00</updated>
+  <updated>2012-12-12T14:02:04+00:00</updated>
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/56112</id>
     <published>2012-09-10T01:00:00+01:00</published>
-    <updated>2012-09-10T01:00:00+01:00</updated>
+    <updated>2012-12-12T14:02:04+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/new-mod-ministerial-team-announced"/>
     <title>New MOD ministerial team announced</title>
+    <category>News article</category>
+    <summary>Following the recent government reshuffle the Prime Minister's Office has announced a change to the ministerial team at the Ministry of Defence.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The new ministerial team is as follows:&lt;/p&gt;
 
 &lt;p&gt;• Secretary of State for Defence - The Rt Hon Philip Hammond MP&lt;/p&gt;
@@ -32,9 +34,11 @@
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/34774</id>
     <published>2012-08-31T01:00:00+01:00</published>
-    <updated>2012-08-31T01:00:00+01:00</updated>
+    <updated>2012-12-12T14:01:57+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/118-2012-70th-anniversary-of-the-battle-of-el-alamein-to-be-commemorated"/>
     <title>118/2012 - 70th Anniversary of the battle of El Alamein to be commemorated</title>
+    <category>News article</category>
+    <summary>The courage and contribution of those who fought bravely in the Battle of El Alamein will be formally marked by the Ministry of Defence with a special Service of Thanksgiving, held in Westminster Abbey at 3pm on Saturday 27 October 2012. The Reverend Jonathan Woodhouse QHC Chaplain-General (Army) will give the address at the Evensong service.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Winston Churchill famously described the battle, which began on 23 October 1942 and ended on 4 November 1942, as the end of the beginning of the war. Led by General Montgomery, the Battle of El Alamein was the climax of months of struggle in the Western Desert as the Allies fought to keep open vital supply lines from the Mediterranean to the East.&lt;/p&gt;
 
 &lt;p&gt;Minister for Defence, Personnel, Welfare and Veterans, Andrew Robathan said:&lt;/p&gt;
@@ -62,9 +66,11 @@
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/34783</id>
     <published>2012-07-31T01:00:00+01:00</published>
-    <updated>2012-07-31T01:00:00+01:00</updated>
+    <updated>2012-12-12T14:01:59+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/106-2012-new-armed-forces-pension-proposed"/>
     <title>106/2012 - New Armed Forces pension proposed</title>
+    <category>News article</category>
+    <summary>Armed Forces personnel will continue to receive one of the best and most valuable public service pensions, under a new scheme proposed today by the Ministry of Defence.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The scheme will also deliver on the approach set out in Lord Hutton’s Independent Public Service Pensions Commission to reform pensions and ensure that they are more affordable and sustainable for the long-term. Changes will not affect accrued rights of those currently serving or the age at which their accrued benefits can be drawn.&lt;/p&gt;
 
 &lt;p&gt;Unlike other public service pension schemes, Service personnel will still not have to make personal contributions, and will still receive a lump sum if they leave the Armed Forces at 40 if they have served the required number of years, again unlike any other public service pension. The Normal Pension Age will be 60, whereas for other public service pensions the Normal Pension Age will be linked to the State Pension Age, which is considerably higher.&lt;/p&gt;
@@ -118,9 +124,11 @@
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/55907</id>
     <published>2012-05-15T01:00:00+01:00</published>
-    <updated>2012-05-15T01:00:00+01:00</updated>
+    <updated>2012-12-12T14:05:12+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/extra-funding-for-armed-forces-online-mental-health-network"/>
     <title>Extra funding for Armed Forces online mental health network</title>
+    <category>News article</category>
+    <summary>Extra funding of £400,000 will be provided for the Big White Wall online mental wellbeing service which provides support for UK Service personnel, veterans and their families.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The award-winning Big White Wall (&lt;abbr title="Big White Wall"&gt;BWW&lt;/abbr&gt;) is an online forum specifically for serving personnel, veterans and their families which provides information on mental health issues and is staffed by professional counsellors who can be contacted 24-hours-a-day, seven-days-a-week.&lt;/p&gt;
 
 &lt;p&gt;It was launched in 2009 as a pilot scheme and yesterday’s extra funding announcement represents a long-term commitment by the government to address the mental wellbeing of the Armed Forces community and ensure a smooth transition into civilian life.&lt;/p&gt;
@@ -176,9 +184,11 @@
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/41207</id>
     <published>2012-04-25T01:00:00+01:00</published>
-    <updated>2012-04-25T01:00:00+01:00</updated>
+    <updated>2012-12-12T14:05:47+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/mod-and-sepa-agree-dalgety-bay-plan"/>
     <title>MOD and SEPA agree Dalgety Bay plan</title>
+    <category>News article</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The MOD has been working with SEPA to develop the plan with a view to undertaking the work necessary to support the newly established Expert Group advising on the risks and inform the work to determine the scope of any remediation. &lt;/p&gt;
 
 &lt;p&gt;Andrew Robathan, Minister for Defence Personnel, Welfare and Veterans, said:&lt;/p&gt;
@@ -202,9 +212,11 @@
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/54969</id>
     <published>2012-04-04T01:00:00+01:00</published>
-    <updated>2012-04-04T01:00:00+01:00</updated>
+    <updated>2012-12-12T14:06:26+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/services-for-personnel-and-veterans-with-mental-health-problems--2"/>
     <title>Services for personnel and veterans with mental health problems</title>
+    <category>News article</category>
+    <summary>Further funding for the Combat Stress helpline and changes to the Defence Medical Assessment Programme have recently been announced.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;These measures, announced in the past month, are part of the concerted effort to destigmatise issues around mental health and promote awareness of the professional medical care and support available for troops.&lt;/p&gt;
 
 &lt;p&gt;The vast majority of Service personnel make the transition to civilian life successfully, but a small number suffer problems as a result of their service.&lt;/p&gt;
@@ -272,9 +284,12 @@
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/18746</id>
     <published>2011-12-01T00:00:00+00:00</published>
-    <updated>2011-12-01T00:00:00+00:00</updated>
+    <updated>2012-12-08T12:10:22+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/speeches/2011-12-01-mod-civilian-apprentice-awards"/>
     <title>2011/12/01 - MoD Civilian Apprentice Awards</title>
+    <category>Speech</category>
+    <summary>Speech delivered by Minister for Defence Personnel, Welfare and Veterans at MoD Main Building, London on 
+Thursday 1 December 2011.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Good afternoon, Ladies and Gentlemen. &lt;/p&gt;
 
 &lt;p&gt;Thank you Bernard [Gray - Chief of Defence Materiel] for that introduction, and for inviting me to say a few words before presenting this year’s MoD civilian apprentice awards.&lt;/p&gt;
@@ -384,9 +399,11 @@
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/18739</id>
     <published>2011-11-01T00:00:00+00:00</published>
-    <updated>2011-11-01T00:00:00+00:00</updated>
+    <updated>2012-12-08T12:02:26+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/speeches/2011-11-01-local-government-association-conference"/>
     <title>2011/11/01 - Local Government Association Conference</title>
+    <category>Speech</category>
+    <summary>Speech delivered by Minister for Defence Personnel, Welfare and Veterans at the Smith Square Conference Centre, London on Tuesday 1 November 2011.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Thank you Sir Merrick for that introduction.&lt;/p&gt;
 
 &lt;p&gt;My congratulations on organising a fascinating day with some excellent speakers - they’re still to come..! -and workshops. &lt;/p&gt;
@@ -545,10 +562,12 @@
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/18738</id>
-    <published>2011-10-27T00:00:00+01:00</published>
-    <updated>2011-10-27T00:00:00+01:00</updated>
+    <published>2011-10-27T01:00:00+01:00</published>
+    <updated>2012-12-08T11:59:04+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/speeches/2011-10-27-the-confederation-of-service-charities-cobseo-agm"/>
     <title>2011/10/27 - The Confederation of Service Charities (COBSEO) AGM</title>
+    <category>Speech</category>
+    <summary>Speech delivered by Minister for Defence Personnel, Welfare and Veterans at St James’s Palace, London on Thursday 27 October 2011.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Thank you Tony [Air Vice-Marshal Tony Stables, Royal Air Force (ret’d), Chairman, COBSEO] for that introduction. &lt;/p&gt;
 
 &lt;p&gt;Ladies and Gentlemen, good morning. &lt;/p&gt;
@@ -677,10 +696,12 @@
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/18731</id>
-    <published>2011-09-19T00:00:00+01:00</published>
-    <updated>2011-09-19T00:00:00+01:00</updated>
+    <published>2011-09-19T01:00:00+01:00</published>
+    <updated>2012-12-08T12:31:17+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/speeches/2011-09-19-sir-oswald-stoll-foundation-agm"/>
     <title>2011/09/19 - Sir Oswald Stoll Foundation AGM</title>
+    <category>Speech</category>
+    <summary>Speech delivered by Minister for Defence Personnel, Welfare and Veterans at 446 Fulham Road, London on Monday 19 September 2011.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Thank you Sir John [Field Marshal Sir John Chapple, President, Sir Oswald Stoll Foundation] for that introduction, and for inviting me to join your AGM. &lt;/p&gt;
 
 &lt;p&gt;Good morning Ladies and Gentlemen. &lt;/p&gt;

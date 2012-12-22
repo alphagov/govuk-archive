@@ -8,7 +8,7 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-12-20T00:00:00+00:00</updated>
+  <updated>2012-12-20T11:05:21+00:00</updated>
   <entry>
     <id>tag:www.gov.uk,2005:Publication/56832</id>
     <published>2012-12-20T00:00:00+00:00</published>
@@ -16,6 +16,7 @@
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/fire-and-rescue-protective-security-strategy-2012"/>
     <title>Fire and rescue protective security strategy 2012</title>
     <category>Publication</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This strategy is a refresh of the 2009 protective security strategy for fire and rescue authorities. It outlines 6 key deliverables to enhance protective security for fire and rescue authorities.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
@@ -25,6 +26,7 @@
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/policy-on-protecting-personal-and-other-sensitive-information-in-fire-and-rescue-incident-and-casualty-data"/>
     <title>Policy on protecting personal and other sensitive information in fire and rescue incident and casualty data</title>
     <category>Publication</category>
+    <summary>This document summarises issues relating to data protection of fire and rescue incident records.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Fire and rescue services across Great Britain record details of all incidents attended and of casualties. A national database is populated from these and this contains details as described in the &lt;a href="https://www.gov.uk/government/publications/incident-recording-system-for-fire-and-rescue-authorities"&gt;Incident recording system for fire and rescue authorities&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;This document summarises issues relating to data protection of fire and rescue incident records, and how these are managed in the context of the production of statistical outputs and access to record-level data sets.&lt;/p&gt;&lt;/div&gt;</content>
@@ -35,7 +37,8 @@
     <updated>2012-12-14T10:56:10+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/government-fire-chief-to-lead-efficiency-review-of-fire-and-rescue"/>
     <title>Government fire chief to lead efficiency review of fire and rescue</title>
-    <category>News Article</category>
+    <category>News article</category>
+    <summary>An expert led review into the operational efficiency of the services delivered by fire and rescue authorities in England was announced today.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Despite the public sector deficit, the government has protected fire and rescue authority funding. Some reduction was unavoidable but it was back-loaded so sensible savings could be made without impacting the service the public gets. Overall, fire and rescue authority spending power reductions - which takes into account grants from central government and council tax, was limited to 2.2% in 2011-12 and 0.5% in 2012-13.&lt;/p&gt;
 
 &lt;p&gt;The review is to be conducted by former firefighter and out-going government Chief Fire and Rescue Adviser, Sir Ken Knight, in the new year. The review will seek to identify ways fire and rescue authorities can pinpoint savings and improvements without reducing the quality life-saving services that the country’s fire firefighters are known for.&lt;/p&gt;
@@ -114,7 +117,8 @@
     <updated>2012-12-13T13:26:28+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/preferred-bidder-for-the-fire-service-college-confirmed"/>
     <title>Preferred bidder for the Fire Service College confirmed</title>
-    <category>News Article</category>
+    <category>News article</category>
+    <summary>Fire minister Brandon Lewis has announced Capita as the preferred bidder for the purchase of the Fire Service College.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The fire minister said he was happy that the proposed sale of the college to Capita would achieve value for money for the public purse and secure the future of the college.   &lt;/p&gt;
 
 &lt;p&gt;Mr Lewis said:&lt;/p&gt;
@@ -167,6 +171,7 @@
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/fire-and-rescue-bulletin-10-2012-immediate"/>
     <title>Fire and rescue bulletin: 10/2012 immediate</title>
     <category>Publication</category>
+    <summary>Fire and rescue bulletins cover issues of interest and relevance to fire and rescue authorities.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The fire and rescue bulletin for December 2012 is issued for the immediate attention of fire and rescue authorities.&lt;/p&gt;
 
 &lt;p&gt;It covers:&lt;/p&gt;
@@ -182,6 +187,7 @@
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/fire-and-rescue-bulletin-28-2012"/>
     <title>Fire and rescue bulletin: 28/2012</title>
     <category>Publication</category>
+    <summary>Fire and rescue bulletins cover issues of interest and relevance to fire and rescue authorities.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The fire and rescue bulletin for December 2012 covers:&lt;/p&gt;
 
 &lt;ul&gt;
@@ -199,6 +205,7 @@
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/generic-risk-assessment-2-3-rescues-from-lifts-and-escalators"/>
     <title>Generic risk assessment 2.3: rescues from lifts and escalators</title>
     <category>Publication</category>
+    <summary>Generic risk assessment about rescues from lifts and escalators to help fire and rescue authorities to draw up their own risk assessments.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Generic risk assessment 2.3 examines the hazards, risks and control measures relating to fire service personnel, the personnel of other agencies and members of the public when attending incidents involving lifts, escalators and moving walkways.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
@@ -208,6 +215,7 @@
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/generic-risk-assessment-5-7-incidents-involving-explosives"/>
     <title>Generic risk assessment 5.7: incidents involving explosives</title>
     <category>Publication</category>
+    <summary>Generic risk assessment about incidents involving explosives to help fire and rescue authorities to draw up their own risk assessments.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Generic risk assessment 5.7 examines the hazards, risks and control measures relating to incidents involving ‘commercial’ explosives, while in manufacture, storage or transportation. It does not cover improvised explosive devices.&lt;/p&gt;
 
 &lt;p&gt;This replaces the guidance published in November 2008.&lt;/p&gt;&lt;/div&gt;</content>
@@ -219,6 +227,7 @@
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/firefighters-pension-scheme-reforms"/>
     <title>Firefighters’ pension scheme reforms</title>
     <category>Publication</category>
+    <summary>Details of the firefighters' pension scheme from 2015.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This document provides details of the firefighters’ pension scheme from 2015. It relates to the &lt;a href="https://www.gov.uk/government/publications/firefighters-pension-scheme-heads-of-agreement"&gt;heads
 of agreement&lt;/a&gt; on the core parameters for reforms to the firefighters’ pension scheme that was published by the Department for Communities and Local Government on 9 February 2012.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
@@ -229,6 +238,7 @@ of agreement&lt;/a&gt; on the core parameters for reforms to the firefighters’
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/hazardous-materials-operational-guidance-for-the-fire-and-rescue-service"/>
     <title>Hazardous materials: operational guidance for the fire and rescue service</title>
     <category>Publication</category>
+    <summary>Best practice guidance to help fire and rescue authorities to resolve incidents involving hazardous materials safely and efficiently.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This document provides comprehensive yet flexible guidance that can be adapted to the nature, scale and requirements of the incident. It consolidates the content of over 500 items of previously published subject related documents.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
 </feed>

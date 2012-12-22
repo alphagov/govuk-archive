@@ -8,14 +8,60 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-12-19T15:11:00+00:00</updated>
+  <updated>2012-12-21T12:50:38+00:00</updated>
+  <entry>
+    <id>tag:www.gov.uk,2005:NewsArticle/60310</id>
+    <published>2012-12-21T12:50:38+00:00</published>
+    <updated>2012-12-21T12:50:38+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/david-cameron-visits-troops-in-afghanistan--2"/>
+    <title>David Cameron visits troops in Afghanistan</title>
+    <category>News article</category>
+    <summary>The UK Prime Minister praised armed forces success during visit to Camp Bastion.</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Prime Minister flew into Afghanistan yesterday morning, 20 December. He visited Camp Bastion, where he met with military commanders before joining troops for an early Christmas dinner and a carol service.&lt;/p&gt;
+
+&lt;p&gt;The Prime Minister’s visit came a day after he told &lt;abbr title="Members of Parliament"&gt;MPs&lt;/abbr&gt; in Parliament that troop numbers will almost halve to around 5,200 by the end of 2013.&lt;/p&gt;
+
+&lt;figure class="image embedded"&gt;&lt;div class="img"&gt;&lt;img alt="David Cameron meets troops" src="https://assets.digital.cabinet-office.gov.uk/government/uploads/system/uploads/image_data/file/5805/PMmeetstroops.jpg"&gt;&lt;/div&gt;
+  &lt;figcaption&gt;David Cameron visits Camp Bastion [Picture: Corporal Jamie Peters, Crown Copyright/MOD 2012]&lt;/figcaption&gt;&lt;/figure&gt;&lt;p&gt;The Prime Minister told journalists on the trip:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;It is still a difficult and dangerous place but we’ve made real progress. It is tough, it is difficult, and we’ve paid a high price but their efforts have been a success.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Brigadier Bob Bruce, Commander Task Force Helmand, reiterated confidence in the growing capability of the Afghan National Security Forces (&lt;abbr title="Afghan National Security Forces"&gt;ANSF&lt;/abbr&gt;).&lt;/p&gt;
+
+&lt;p&gt;He said: &lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;It is now absolutely appropriate we hand more and more control over to the Afghans.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;During his visit, Mr Cameron met troops who he praised for their service in Afghanistan and thanked them for making the country “prouder than ever.”&lt;/p&gt;
+
+&lt;p&gt;In a message to the armed forces, the Prime Minister said: &lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Well it is a good time to come to Afghanistan and say a really big thank you to our troops for everything they do, and particularly at Christmas time when they’re away from loved ones.  But I think it’s an opportunity to say to all our forces all over the world…&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;You make us incredibly proud; we’re always proud of you, and this year perhaps prouder than ever for your extraordinary work in Afghanistan, for the amazing things you do over the whole of Africa to keep us safe from terrorism and piracy, for the extraordinary things you did at the Olympics where the military stepped up, put a smiling face on the greatest show on earth, won a lot of medals too and made the country very proud.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Mr Cameron added: &lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Our military really are the best of the best and we can’t thank them enough for what they do.&lt;/p&gt;
+&lt;/blockquote&gt;&lt;/div&gt;</content>
+  </entry>
   <entry>
     <id>tag:www.gov.uk,2005:NewsArticle/60044</id>
     <published>2012-12-19T15:11:00+00:00</published>
     <updated>2012-12-19T15:11:07+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/prime-minister-announces-reduction-in-uk-troop-numbers-in-afghanistan"/>
     <title>Prime Minister announces reduction in UK troop numbers in Afghanistan</title>
-    <category>News Article</category>
+    <category>News article</category>
+    <summary>UK force levels in Afghanistan are to reduce to around 5,200 by the end of 2013, the Prime Minister announced today.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The &lt;a rel="external" href="http://www.number10.gov.uk/" title="Number 10"&gt;Prime Minister&lt;/a&gt; told &lt;a rel="external" href="http://www.parliament.uk/" title="UK Parliament"&gt;Parliament&lt;/a&gt; that UK forces would shift from mentoring Afghan troops at battalion level to brigade level next year. This reflects the progress made in Helmand and the increasing ability and confidence of the Afghan National Security Forces (&lt;abbr title="Afghan National Security Forces"&gt;ANSF&lt;/abbr&gt;) to lead security operations.&lt;/p&gt;
 
 &lt;p&gt;The drawdown, agreed by the &lt;a rel="external" href="http://www.cabinetoffice.gov.uk/content/national-security-council" title="National Security Council"&gt;National Security Council&lt;/a&gt; this week, is in line and consistent with both UK military advice and the &lt;a rel="external" href="http://www.nato.int/" title="North Atlantic Treaty Organization"&gt;North Atlantic Treaty Organization&lt;/a&gt; strategy agreed at the &lt;a rel="external" href="http://www.nato.int/cps/en/natolive/events_66529.htm" title="North Atlantic Treaty Organization Summit, Lisbon 2010"&gt;Lisbon Summit in 2010&lt;/a&gt;, under which &lt;a rel="external" href="http://www.isaf.nato.int/" title="International Security Assistance Force"&gt;International Security Assistance Force&lt;/a&gt; (&lt;abbr title="International Security Assistance Force"&gt;ISAF&lt;/abbr&gt;) forces continue to operate across the country.&lt;/p&gt;
@@ -83,7 +129,8 @@
     <updated>2012-12-14T10:53:03+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/liam-fox-nato-support-crucial-to-building-afghan-forces"/>
     <title>Liam Fox: NATO support crucial to building Afghan forces</title>
-    <category>News Article</category>
+    <category>News article</category>
+    <summary>Secretary of State for Defence, Dr Liam Fox, has welcomed the rapid progress in training the Afghan National Security Forces, and the role of the NATO Training Mission in Afghanistan, but insisted that NATO allies still need to up their game.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;He confirmed Afghanistan as the highest foreign policy priority of the new British Coalition Government, and the top priority for the Ministry of Defence. &lt;/p&gt;
 
 &lt;p&gt;Speaking on the last day of his first NATO meeting in Brussels, Dr Fox said:&lt;/p&gt;
@@ -165,7 +212,8 @@
     <updated>2012-12-14T11:33:52+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/scots-guards-home-after-handover-to-afghan-forces"/>
     <title>Scots Guards home after handover to Afghan forces</title>
-    <category>News Article</category>
+    <category>News article</category>
+    <summary>Soldiers from the Scots Guards have returned home from Afghanistan after handing security in their area of Helmand over to Afghan forces.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Over 50 Guardsmen from the Right Flank of the &lt;a rel="external" href="http://www.army.mod.uk/infantry/regiments/23989.aspx" title="1st Battalion Scots Guards"&gt;1st Battalion Scots Guards&lt;/a&gt; have returned to their barracks in Catterick, North Yorkshire, as the checkpoints they manned have been closed and the Afghan National Civil Order Police (&lt;abbr title="Afghan National Civil Order Police"&gt;ANCOP&lt;/abbr&gt;) are now taking responsibility for security in Helmand’s Upper Gereshk Valley.&lt;/p&gt;
 
 &lt;p&gt;The Scots Guards are serving with Task Force Helmand, currently led by the British Army’s &lt;a rel="external" href="https://www.army.mod.uk/structure/29027.aspx" title="4th Mechanized Brigade"&gt;4th Mechanized Brigade&lt;/a&gt;, known as ‘The Black Rats’, and the Right Flank form part of the first 500 British troops to be sent home from Afghanistan as announced by the Prime Minister last year.&lt;/p&gt;
@@ -211,7 +259,8 @@
     <updated>2012-12-13T16:19:51+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/soldiers-offer-ground-expertise-to-aerial-assets-in-afghanistan"/>
     <title>Soldiers offer ground expertise to aerial assets in Afghanistan </title>
-    <category>News Article</category>
+    <category>News article</category>
+    <summary>When ground troops find themselves in trouble on the front line they have the reassurance of knowing that help is invariably close at hand.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;While Army &lt;a rel="external" href="http://www.army.mod.uk/equipment/aircraft/1531.aspx" title="Apache"&gt;Apache&lt;/a&gt; helicopters are often called upon to neutralise enemy threats, the &lt;a rel="external" href="http://www.raf.mod.uk/" title="Royal Air Force"&gt;Royal Air Force&lt;/a&gt; plays an equally important role with their impressive fleet of fast jets.&lt;/p&gt;
 
 &lt;p&gt;These fearsome aerial assets fly out of Kandahar and, although the pilots and support crew are based well outside &lt;a rel="external" href="http://www.army.mod.uk/" title="British Army"&gt;Army&lt;/a&gt; circles, they have direct access to all things green courtesy of skilled ground liaison officers (GLOs) who are embedded within their squadrons.&lt;/p&gt;
@@ -306,7 +355,8 @@
     <updated>2012-12-12T20:23:45+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/meet-the-millies-heroes"/>
     <title>Meet the Millies heroes</title>
-    <category>News Article</category>
+    <category>News article</category>
+    <summary>Last week, The Sun newspaper honoured courageous servicemen and women at its fifth annual Military Awards ceremony.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Over the rest of this week we’ll be bringing you interviews with some of the winners and their celebrity presenters. &lt;/p&gt;
 
 &lt;h3 id="true-grit-award"&gt;True Grit Award&lt;/h3&gt;
@@ -372,7 +422,8 @@
     <updated>2012-12-12T20:22:03+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/royal-marines-help-train-latest-batch-of-afghan-police-officers"/>
     <title>Royal Marines help train Afghan police</title>
-    <category>News Article</category>
+    <category>News article</category>
+    <summary>Royal Marines have helped the latest batch of Afghan police officers complete their training in Helmand.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The trainees spent their final week of instruction receiving expert tuition on 40 Commando’s ranges at ‘HMS Price’, the hub of the Marines’ operation in Helmand.&lt;/p&gt;
 
 &lt;p&gt;A dozen policemen graduated from the three-week course at a ceremony at District Police Headquarters in Gereshk attended by both their Afghan Uniform Police instructors and their International Security Assistance Force mentors.&lt;/p&gt;
@@ -407,6 +458,7 @@
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/afghanistan-ministry-of-counter-narcotics-national-drug-control-strategy"/>
     <title>Afghanistan Ministry of Counter-Narcotics' National Drug Control Strategy </title>
     <category>Publication</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The UK supports the Afghan Government in implementing its National Drug Control Strategy. It is a comprehensive approach which covers a range of activities to counter the drugs trade. These include building government institutions and law enforcement capacity, targeted eradication programmes and the development of alternative livelihoods, information and education campaigns and engagement with countries in the region. &lt;/p&gt;
 
 &lt;p&gt;Read the attached updated five-year strategy for tackling the illicit drug problem in Afghanistan.&lt;/p&gt;&lt;/div&gt;</content>
@@ -417,7 +469,8 @@
     <updated>2012-12-12T16:52:47+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/speeches/government-publishes-afghanistan-progress-report"/>
     <title>Government publishes Afghanistan progress report </title>
-    <category>Speech</category>
+    <category>Statement to parliament</category>
+    <summary>The Foreign Secretary William Hague has updated parliament on progress in Afghanistan during October 2012 </summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;In a written statement to parliament the Foreign Secretary William Hague said:&lt;/p&gt;
 
 &lt;p&gt;I wish to inform the House that the Foreign and Commonwealth Office, together with the Ministry of Defence and the Department for International Development, is today publishing the twenty second progress report on developments in Afghanistan since November 2010.&lt;/p&gt;
@@ -450,51 +503,7 @@ I am placing the report in the Library of the House. It will also be published o
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/afghanistan-progress-reports"/>
     <title>Afghanistan: Progress reports</title>
     <category>Publication</category>
+    <summary>The Foreign Secretary's monthly updates to Parliament on developments in Afghanistan.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Foreign Secretary updates Parliament with a progress report every month as part of his commitment to keep Parliament regularly informed on developments in Afghanistan.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:NewsArticle/48782</id>
-    <published>2012-12-11T22:40:37+00:00</published>
-    <updated>2012-12-11T22:40:37+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/light-dragoons-receive-afghanistan-medals"/>
-    <title>Light Dragoons receive Afghanistan medals</title>
-    <category>News Article</category>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The medal parade was the last in a series of events marking the end off the Regiment’s deployment to Afghanistan.&lt;/p&gt;
-
-&lt;p&gt;The Colonel of the Regiment, Major General Andrew Stewart, presented the campaign medals to the soldiers who have conducted homecoming parades in recent weeks in Barnsley, Newcastle and Dereham.&lt;/p&gt;
-
-&lt;p&gt;Nicknamed ‘England’s Northern Cavalry’ this was the Regiment’s fourth tour of Afghanistan, having had Squadrons deployed in 2006, 2007 and 2009. Although a very successful tour, it was not without sacrifice and The Light Dragoons will always remember all those who died including Sergeant Lee Davidson who was Killed in Action on 9 September.&lt;/p&gt;
-
-&lt;p&gt;&lt;a rel="external" href="http://www.army.mod.uk/armoured/regiments/26876.aspx" title="The Light Dragoons"&gt;The Light Dragoons&lt;/a&gt; have undertaken a number of different roles in Afghanistan. The soldiers from A Squadron acted as the eyes and ears of the Brigade. They also provided route security for convoys.&lt;/p&gt;
-
-&lt;p&gt;D Squadron delivered training and mentoring support to the Afghan National Police Force and were later augmented by members of A Squadron. &lt;/p&gt;
-
-&lt;figure class="image embedded"&gt;&lt;div class="img"&gt;&lt;img alt="The Light Dragoons march through Dereham" src="https://assets.digital.cabinet-office.gov.uk/government/uploads/system/uploads/image_data/file/2654/16x-2012-119-0070g.jpg"&gt;&lt;/div&gt;
-  &lt;figcaption&gt;The streets of Dereham came to a standstill on Wednesday 5 December as residents and businesses welcomed members of The Light Dragoons home from Afghanistan [Picture: Corporal Obi Igbo, Crown Copyright/MOD 2012]&lt;/figcaption&gt;&lt;/figure&gt;&lt;p&gt;Their fellow Light Dragoons sister unit, B Squadron, were The Brigade Reconnaissance Force (&lt;abbr title="Brigade Reconnaissance Force"&gt;BRF&lt;/abbr&gt;) who acted on military intelligence to remove key insurgency equipment and personnel from the area of operations.&lt;/p&gt;
-
-&lt;p&gt;Trooper Phil Burt and Sergeant Richardson who were part of the &lt;abbr title="Brigade Reconnaissance Force"&gt;BRF&lt;/abbr&gt; discovered a 50 calibre machine gun during one of their operations. Sgt Richardson said:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;We were preparing to clear a series of compounds when we saw a disturbance on the ground. The machine gun, nicknamed a Sushka, was covered with a sheet in a trench. It had been well maintained and had a box of ammo with it, so for us it was a great find.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;During their six-month tour The Light Dragoons carried out some 248 operations, searched 1,700 Afghan compounds and discovered over three tonnes of Homemade Explosives and significant quantities of other bomb making equipment.&lt;/p&gt;
-
-&lt;p&gt;Here in the UK, C Squadron was the Rear Operations Group, ensuring that the families remaining behind were given the very best welfare support and ensuring that individual soldiers were fully prepared to deploy if needed.&lt;/p&gt;
-
-&lt;figure class="image embedded"&gt;&lt;div class="img"&gt;&lt;img alt="Large crowds in Derehm welcome The Light Dragoons " src="https://assets.digital.cabinet-office.gov.uk/government/uploads/system/uploads/image_data/file/2655/16x-2012-119-0013g.jpg"&gt;&lt;/div&gt;
-  &lt;figcaption&gt;Large crowds, including family and friends of many of those marching, lined the route [Picture: Corporal Obi Igbo, Crown Copyright/MOD 2012]&lt;/figcaption&gt;&lt;/figure&gt;&lt;p&gt;Earlier in the week the Regiment brought Central Norfolk to a standstill when thousands of people gathered on the streets of Dereham to welcome them home.&lt;/p&gt;
-
-&lt;p&gt;Shops closed and business came to a stand still as crowds, six people deep in places, waved flags and cheered as the proud soldiers marched through the streets. The Light Dragoons have been based in Swanton Morley near Dereham for the past 12 years.&lt;/p&gt;
-
-&lt;p&gt;Following the parade the Regiment attended a thanksgiving service at St Nicholas Church. Trooper Craig Hoe from Hull said:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;We have had wonderful support at all of our homecoming parades. It’s great to know we have such support from the local community here where we are based and also back home in our recruiting areas.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;The medal parade was also great; it has to the next best thing after my Pass Off Parade. I’m now looking forward to having some time off and enjoying some of my mam’s cooking. I’ve really missed that.&lt;/p&gt;
-&lt;/blockquote&gt;&lt;/div&gt;</content>
   </entry>
 </feed>

@@ -8,13 +8,15 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-12-19T00:00:00+00:00</updated>
+  <updated>2012-12-19T16:21:17+00:00</updated>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/59988</id>
     <published>2012-12-19T00:00:00+00:00</published>
-    <updated>2012-12-19T00:00:00+00:00</updated>
+    <updated>2012-12-19T16:21:17+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/despatch-ezine-issue-06-2012"/>
     <title>Despatch ezine: issue 06/2012</title>
+    <category>Publication</category>
+    <summary>Despatch is the ezine for road safety professionals from the Driving Standards Agency (DSA). You can download issue 06/2012.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This issue has articles about:&lt;/p&gt;
 
 &lt;ul&gt;
@@ -29,10 +31,12 @@
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:NewsArticlePresenter/56299</id>
-    <published>2012-12-13T09:50:02+00:00</published>
+    <published>2012-12-13T09:50:00+00:00</published>
     <updated>2012-12-13T09:50:02+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/improving-motoring-services"/>
     <title>Improving motoring services</title>
+    <category>News article</category>
+    <summary>Consultation to suggest improvements about how motoring services are delivered.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Road users, businesses and other stakeholders were today invited to suggest improvements to the way motoring services such as driving tests and vehicle licensing are delivered.&lt;/p&gt;
 
 &lt;p&gt;The government is putting customers firmly at the heart of the way motoring services are delivered so that they best serve the consumer while getting the best possible deal for the taxpayer.&lt;/p&gt;
@@ -85,9 +89,11 @@ Public enquiries: 0300 330 3000  &lt;/p&gt;&lt;/div&gt;</content>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/55873</id>
     <published>2012-12-13T00:00:00+00:00</published>
-    <updated>2012-12-13T00:00:00+00:00</updated>
+    <updated>2012-12-13T09:48:57+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/consultations/motoring-services-strategy"/>
     <title>Motoring services strategy</title>
+    <category>Consultation</category>
+    <summary>Seeking views on reforms which will put customers and businesses closer to the heart of the 4 motoring services agencies.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This consultation seeks views on reforms which will put customers and businesses closer to the heart of the 4 motoring services agencies:&lt;/p&gt;
 
 &lt;ul&gt;
@@ -112,6 +118,8 @@ Public enquiries: 0300 330 3000  &lt;/p&gt;&lt;/div&gt;</content>
     <updated>2012-12-05T11:42:24+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/dsa-opening-hours-christmas-and-new-year--2"/>
     <title>DSA opening hours: Christmas and New Year</title>
+    <category>News article</category>
+    <summary>The Driving Standards Agency (DSA) will close at times over Christmas and New Year, but its online services will be available as normal.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;&lt;abbr title="Driving Standards Agency"&gt;DSA&lt;/abbr&gt;’s online services will be available throughout Christmas and the New Year. You’ll be able to: &lt;/p&gt;
 
 &lt;ul&gt;
@@ -310,9 +318,11 @@ Public enquiries: 0300 330 3000  &lt;/p&gt;&lt;/div&gt;</content>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/17200</id>
     <published>2012-11-28T00:00:00+00:00</published>
-    <updated>2012-11-28T00:00:00+00:00</updated>
+    <updated>2012-11-28T16:11:15+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/relocation-of-falkirk-driving-test-centre-to-grangemouth"/>
     <title>Relocation of Falkirk driving test centre to Grangemouth</title>
+    <category>Publication</category>
+    <summary>This initial screening was carried out to find out the impact of relocating the driving test centre at Falkirk to Grangemouth.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Driving Standards Agency (&lt;abbr title="Driving Standards Agency"&gt;DSA&lt;/abbr&gt;) has closed the driving test centre at Falkirk and opened a new one in Grangemouth. This is to improve facilities for driving examiners and candidates. &lt;/p&gt;
 
 &lt;p&gt;The new test centre opened on 9 November 2012.&lt;/p&gt;
@@ -327,6 +337,8 @@ Public enquiries: 0300 330 3000  &lt;/p&gt;&lt;/div&gt;</content>
     <updated>2012-11-27T13:23:13+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/consultations/approving-drink-drive-rehabilitation-courses"/>
     <title>Approving drink-drive rehabilitation courses</title>
+    <category>Consultation</category>
+    <summary>This consultation is about updating how drink-drive rehabilitation scheme courses are provided so more people take training.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="summary"&gt;Summary&lt;/h2&gt;
 
 &lt;p&gt;This consultation is about updating the arrangements for providing training courses under the drink-drive rehabilitation scheme, including how they’re funded.&lt;/p&gt;
@@ -383,10 +395,12 @@ Public enquiries: 0300 330 3000  &lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:NewsArticlePresenter/16524</id>
-    <published>2012-11-20T16:28:42+00:00</published>
+    <published>2012-11-20T16:28:00+00:00</published>
     <updated>2012-11-20T16:28:42+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/driving-examiner-strike-on-30-november-candidates-urged-to-attend-tests"/>
     <title>Driving examiner strike on 30 November: candidates urged to attend tests</title>
+    <category>News article</category>
+    <summary>Driving test candidates with a test on Friday 30 November should still come for their test despite the threat of strike action by examiners.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Driving examiners who are members of the Public and Commercial Services (&lt;abbr title="Public and Commercial Services"&gt;PCS&lt;/abbr&gt;) union could take strike action on Friday 30 November 2012.&lt;/p&gt;
 
 &lt;p&gt;The Driving Standards Agency (&lt;abbr title="Driving Standards Agency"&gt;DSA&lt;/abbr&gt;) Chief Executive Rosemary Thew said:&lt;/p&gt;
@@ -418,9 +432,11 @@ Public enquiries: 0300 330 3000  &lt;/p&gt;&lt;/div&gt;</content>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/55663</id>
     <published>2012-11-15T00:00:00+00:00</published>
-    <updated>2012-11-15T00:00:00+00:00</updated>
+    <updated>2012-12-12T19:54:42+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/driver-certificate-of-professional-competence-cpc-statistics"/>
     <title>Driver Certificate of Professional Competence (CPC) statistics</title>
+    <category>Publication</category>
+    <summary>Driver CPC statistics, including modules conducted, periodic training, driver qualification cards and centres and courses approved.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="about-these-statistics"&gt;About these statistics&lt;/h2&gt;
 &lt;p&gt;These operational statistics about Driver Certificate of Professional (&lt;abbr title="Certificate of Professional Competence"&gt;CPC&lt;/abbr&gt;) modules and training have not been designated as an official statistic.&lt;/p&gt;
 
@@ -453,10 +469,12 @@ Public enquiries: 0300 330 3000  &lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:DetailedGuidePresenter/56830</id>
-    <published>2012-10-26T13:41:40+01:00</published>
-    <updated>2012-10-26T13:41:40+01:00</updated>
+    <published>2012-11-14T23:14:22+00:00</published>
+    <updated>2012-11-14T23:14:22+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/licensed-use-of-dsas-theory-test-learning-materials"/>
     <title>Licensed use of DSA's theory test learning materials</title>
+    <category>Detailed guidance</category>
+    <summary>The Driving Standards Agency (DSA) encourages the reuse of its official learning materials with a licence agreement.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="introduction"&gt;Introduction&lt;/h2&gt;
 
 &lt;p&gt;You must have a Crown copyright licence agreement with &lt;abbr title="Driving Standards Agency"&gt;DSA&lt;/abbr&gt; to reuse its official theory test revision banks and simulated hazard perception test video clips.&lt;/p&gt;
@@ -780,10 +798,12 @@ Monday to Friday, 10am to 5pm&lt;/p&gt;
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:NewsArticlePresenter/16047</id>
-    <published>2012-11-14T13:51:59+00:00</published>
+    <published>2012-11-14T13:51:00+00:00</published>
     <updated>2012-11-14T13:51:59+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/the-new-home-on-the-web-for-dft-and-dclg"/>
     <title>The new home on the web for DFT and DCLG</title>
+    <category>News article</category>
+    <summary>GOV.UK is the new place for corporate and policy information from the Department for Transport and Department for Communities and Local Government</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Department for Transport (&lt;abbr title="Department for Transport"&gt;DFT&lt;/abbr&gt;) and the Department for Communities and Local Government (&lt;abbr title="Department for Communities and Local Government"&gt;DCLG&lt;/abbr&gt;), along with 3 of their public bodies, have today (15 November, 2012) become the first central government organisations to move their corporate and policy content onto the new GOV.UK website - the new single home for all government services and information.&lt;/p&gt;
 
 &lt;p&gt;The Inside Government section on GOV.UK makes it simpler, clearer and faster to find out:&lt;/p&gt;

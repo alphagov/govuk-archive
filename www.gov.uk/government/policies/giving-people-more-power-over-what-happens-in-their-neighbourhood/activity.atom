@@ -8,7 +8,7 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-12-06T00:00:00+00:00</updated>
+  <updated>2012-12-06T16:19:47+00:00</updated>
   <entry>
     <id>tag:www.gov.uk,2005:Publication/17148</id>
     <published>2012-12-06T00:00:00+00:00</published>
@@ -16,6 +16,7 @@
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/decentralisation-an-assessment-of-progress"/>
     <title>Decentralisation: an assessment of progress</title>
     <category>Publication</category>
+    <summary>A report setting out the progress the government is making to 'decentralise' power from Whitehall across the country.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The report by the Rt Hon Greg Clark MP provides an assessment of how 12 government departments are decentralising power and puts forward personal recommendations for next steps. It shows strong progress across all of the domestic policy agenda, but also calls for continued reform.&lt;/p&gt;
 
 &lt;p&gt;The report makes the case for decentralisation (sustainable growth, better public services, a stronger society), setting out the gold standard for decentralisation, based on the &lt;a href="https://www.gov.uk/government/publications/decentralisation-and-the-localism-bill-an-essential-guide--2"&gt;guide to decentralisation and the Localism Bill&lt;/a&gt;, which was published in December 2010.&lt;/p&gt;&lt;/div&gt;</content>
@@ -26,7 +27,8 @@
     <updated>2012-12-05T17:28:45+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/minister-announces-150-000-to-boost-great-british-pubs"/>
     <title>Minister announces £150,000 to boost Great British pubs</title>
-    <category>News Article</category>
+    <category>News article</category>
+    <summary>Community Pubs Minister Brandon Lewis has announced £150,000 funding for the Pub in The Hub community services project.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The announcement followed the &lt;a rel="external" href="http://www.pubisthehub.org.uk/"&gt;Pub is The Hub&lt;/a&gt; ‘10 Years On’ event on 5 December 2012 where the minister was a keynote speaker.&lt;/p&gt;
 
 &lt;p&gt;The minister spoke about the key role pubs play in the social and economic life of many communities, often as community hubs, local service providers and a place where community relationships are formed and strengthened.&lt;/p&gt;
@@ -54,7 +56,8 @@
     <updated>2012-11-09T11:33:48+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/don-foster-hails-localism-progress"/>
     <title>Don Foster hails localism progress</title>
-    <category>News Article</category>
+    <category>News article</category>
+    <summary>Don Foster welcomed a huge response from neighbourhood groups interested in using new powers to save local assets or take over services.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Communities Minister Don Foster told delegates at a conference on Tuesday that in just 3 months over 1,600 enquiries have been received by the Community Rights support website from groups interested in exercising the new powers and over £80,000 in grants have already been awarded. &lt;/p&gt;
 
 &lt;p&gt;The minister was speaking at a gathering of over 500 community enterprise and social action practitioners held in Bristol by &lt;a rel="external" href="http://locality.org.uk/" title="Locality"&gt;Locality&lt;/a&gt;, the UK’s leading network of community and social enterprises. &lt;/p&gt;
@@ -79,7 +82,8 @@
     <updated>2012-11-14T12:41:14+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/don-foster-hails-localism-progress--2"/>
     <title>Don Foster hails localism progress</title>
-    <category>News Article</category>
+    <category>News article</category>
+    <summary>Communities Minister Don Foster has welcomed a huge response from neighbourhood groups interested in using new powers to save much-loved local assets or take over services.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;He told delegates at a conference on Tuesday that in just 3 months over 1,600 enquiries have been received by the Community Rights support website from groups interested in exercising the new powers and over £80,000 in grants have already been awarded.&lt;/p&gt;
 
 &lt;p&gt;The minister was speaking at a gathering of over 500 community enterprise and social action practitioners held in Bristol by Locality, the UK’s leading network of community and social enterprises.&lt;/p&gt;
@@ -118,7 +122,10 @@
     <updated>2012-11-06T16:59:59+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/brandon-lewis-celebrates-with-locals-at-essexs-resident-run-pub"/>
     <title>Brandon Lewis celebrates with locals at Essex's 'resident run pub'</title>
-    <category>News Article</category>
+    <category>News article</category>
+    <summary>Brandon Lewis had a pint with residents at The Norton in Essex to celebrate them taking it over as an entirely community run pub.
+
+</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;In 2009 the local community deprived of their much loved local decided to take action and set about running it for themselves. They set up an action group and a team of enthusiastic local volunteers to restore the pub, staff the bar and get The Norton back in business.&lt;/p&gt;
 
 &lt;p&gt;Meeting the dedicated team of volunteers, the minister toasted the innovative community who have now set their ambitions higher with plans to buy the freehold so the community can claim a real stake in the pub by buying shares in the business. The Norton has already raised enough money for the deposit.&lt;/p&gt;
@@ -152,6 +159,7 @@
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/consultations/making-it-easier-to-set-up-new-town-and-parish-councils-discussion-paper"/>
     <title>Making it easier to set up new town and parish councils: discussion paper</title>
     <category>Consultation</category>
+    <summary>Consultation about a range of measures to make it easier to set up new town and parish councils.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The government wants to make it easier to set up new town and parish councils. This discussion paper presents a range of proposals that would help achieve this. We would like your views on these, as well as any other comments or ideas.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
@@ -160,7 +168,8 @@
     <updated>2012-11-14T12:41:09+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/new-community-shares-to-boost-local-services"/>
     <title>New 'Community Shares' to boost local services</title>
-    <category>News Article</category>
+    <category>News article</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Communities Minister Don Foster today launched a new Community Shares Unit to help local people claim a stake and become part owners of much loved local assets and services such as their community pub, football club or even in the generation of renewable energy.&lt;/p&gt;
 
 &lt;p&gt;Community shares let local people to take a more active in role in their communities by giving members - as part-owners - a direct say in their success, encouraging them to play an active part in their future. Most investors buy shares to help achieve a social good, however if the enterprise is successful they may also benefit from dividend payments.&lt;/p&gt;
@@ -225,7 +234,8 @@
     <updated>2012-11-14T12:41:09+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/handing-power-back-to-the-people-of-milton-keynes"/>
     <title>Handing power back to the people of Milton Keynes</title>
-    <category>News Article</category>
+    <category>News article</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Milton Keynes residents will be given a much greater say over the future development of their town under new proposals published today by Housing Minister Mark Prisk.&lt;/p&gt;
 
 &lt;p&gt;Since its designation as a new town in 1967 Milton Keynes has been subject to central Government involvement either through the establishment of Development Corporations or, more recently, through the Milton Keynes Partnership Committee.&lt;/p&gt;
@@ -268,7 +278,8 @@
     <updated>2012-11-14T12:41:08+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/minister-launches-new-stop-the-clock-power-to-save-local-treasures"/>
     <title>Minister launches new 'stop-the-clock' power to save local treasures</title>
-    <category>News Article</category>
+    <category>News article</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Communities Minister Don Foster today legally authorised new powers for communities to help prevent the rapid sell off of treasured community assets and buildings so they can be protected.&lt;/p&gt;
 
 &lt;p&gt;The Community Right to Bid, created in the historic Localism Act, comes in force tomorrow across the country so communities can ‘stop-the clock’ on the sale of valuable local assets and amenities like post offices, village shops or community pubs, giving them time to put in a takeover bid of their own and protect it for the wider community’s benefit.&lt;/p&gt;
@@ -313,6 +324,7 @@
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/tenant-panels-and-empowerment-training-and-support-programme-prospectus"/>
     <title>Tenant panels and empowerment: training and support programme prospectus</title>
     <category>Publication</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This prospectus invites applications from eligible organisations for grant funding to deliver a national programme for social tenants living in social housing that will:&lt;/p&gt;
 
 &lt;p&gt;encourage more tenant panels to challenge landlords, shape services and get involved in local decision making; and

@@ -8,21 +8,25 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-12-20T00:00:00+00:00</updated>
+  <updated>2012-12-20T11:05:07+00:00</updated>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/56832</id>
     <published>2012-12-20T00:00:00+00:00</published>
-    <updated>2012-12-20T00:00:00+00:00</updated>
+    <updated>2012-12-20T11:05:07+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/fire-and-rescue-protective-security-strategy-2012"/>
     <title>Fire and rescue protective security strategy 2012</title>
+    <category>Publication</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This strategy is a refresh of the 2009 protective security strategy for fire and rescue authorities. It outlines 6 key deliverables to enhance protective security for fire and rescue authorities.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/57434</id>
     <published>2012-12-20T00:00:00+00:00</published>
-    <updated>2012-12-20T00:00:00+00:00</updated>
+    <updated>2012-12-20T11:05:21+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/policy-on-protecting-personal-and-other-sensitive-information-in-fire-and-rescue-incident-and-casualty-data"/>
     <title>Policy on protecting personal and other sensitive information in fire and rescue incident and casualty data</title>
+    <category>Publication</category>
+    <summary>This document summarises issues relating to data protection of fire and rescue incident records.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Fire and rescue services across Great Britain record details of all incidents attended and of casualties. A national database is populated from these and this contains details as described in the &lt;a href="https://www.gov.uk/government/publications/incident-recording-system-for-fire-and-rescue-authorities"&gt;Incident recording system for fire and rescue authorities&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;This document summarises issues relating to data protection of fire and rescue incident records, and how these are managed in the context of the production of statistical outputs and access to record-level data sets.&lt;/p&gt;&lt;/div&gt;</content>
@@ -30,9 +34,11 @@
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/56085</id>
     <published>2012-12-13T00:00:00+00:00</published>
-    <updated>2012-12-13T00:00:00+00:00</updated>
+    <updated>2012-12-13T13:34:10+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/fire-and-rescue-bulletin-10-2012-immediate"/>
     <title>Fire and rescue bulletin: 10/2012 immediate</title>
+    <category>Publication</category>
+    <summary>Fire and rescue bulletins cover issues of interest and relevance to fire and rescue authorities.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The fire and rescue bulletin for December 2012 is issued for the immediate attention of fire and rescue authorities.&lt;/p&gt;
 
 &lt;p&gt;It covers:&lt;/p&gt;
@@ -44,9 +50,11 @@
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/17621</id>
     <published>2012-12-03T00:00:00+00:00</published>
-    <updated>2012-12-03T00:00:00+00:00</updated>
+    <updated>2012-12-04T10:24:10+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/fire-and-rescue-bulletin-28-2012"/>
     <title>Fire and rescue bulletin: 28/2012</title>
+    <category>Publication</category>
+    <summary>Fire and rescue bulletins cover issues of interest and relevance to fire and rescue authorities.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The fire and rescue bulletin for December 2012 covers:&lt;/p&gt;
 
 &lt;ul&gt;
@@ -60,17 +68,21 @@
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/17107</id>
     <published>2012-11-29T00:00:00+00:00</published>
-    <updated>2012-11-29T00:00:00+00:00</updated>
+    <updated>2012-11-29T15:39:37+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/generic-risk-assessment-2-3-rescues-from-lifts-and-escalators"/>
     <title>Generic risk assessment 2.3: rescues from lifts and escalators</title>
+    <category>Publication</category>
+    <summary>Generic risk assessment about rescues from lifts and escalators to help fire and rescue authorities to draw up their own risk assessments.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Generic risk assessment 2.3 examines the hazards, risks and control measures relating to fire service personnel, the personnel of other agencies and members of the public when attending incidents involving lifts, escalators and moving walkways.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/17112</id>
     <published>2012-11-29T00:00:00+00:00</published>
-    <updated>2012-11-29T00:00:00+00:00</updated>
+    <updated>2012-11-29T15:39:16+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/generic-risk-assessment-5-7-incidents-involving-explosives"/>
     <title>Generic risk assessment 5.7: incidents involving explosives</title>
+    <category>Publication</category>
+    <summary>Generic risk assessment about incidents involving explosives to help fire and rescue authorities to draw up their own risk assessments.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Generic risk assessment 5.7 examines the hazards, risks and control measures relating to incidents involving ‘commercial’ explosives, while in manufacture, storage or transportation. It does not cover improvised explosive devices.&lt;/p&gt;
 
 &lt;p&gt;This replaces the guidance published in November 2008.&lt;/p&gt;&lt;/div&gt;</content>
@@ -78,26 +90,32 @@
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/16920</id>
     <published>2012-11-25T00:00:00+00:00</published>
-    <updated>2012-11-25T00:00:00+00:00</updated>
+    <updated>2012-11-25T12:36:08+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/firefighters-pension-scheme-reforms"/>
     <title>Firefighters’ pension scheme reforms</title>
+    <category>Publication</category>
+    <summary>Details of the firefighters' pension scheme from 2015.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This document provides details of the firefighters’ pension scheme from 2015. It relates to the &lt;a href="https://www.gov.uk/government/publications/firefighters-pension-scheme-heads-of-agreement"&gt;heads
 of agreement&lt;/a&gt; on the core parameters for reforms to the firefighters’ pension scheme that was published by the Department for Communities and Local Government on 9 February 2012.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/16737</id>
     <published>2012-11-22T00:00:00+00:00</published>
-    <updated>2012-11-22T00:00:00+00:00</updated>
+    <updated>2012-11-22T16:26:28+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/hazardous-materials-operational-guidance-for-the-fire-and-rescue-service"/>
     <title>Hazardous materials: operational guidance for the fire and rescue service</title>
+    <category>Publication</category>
+    <summary>Best practice guidance to help fire and rescue authorities to resolve incidents involving hazardous materials safely and efficiently.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This document provides comprehensive yet flexible guidance that can be adapted to the nature, scale and requirements of the incident. It consolidates the content of over 500 items of previously published subject related documents.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/17643</id>
     <published>2012-11-05T00:00:00+00:00</published>
-    <updated>2012-11-05T00:00:00+00:00</updated>
+    <updated>2012-12-04T10:23:33+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/fire-and-rescue-bulletin-27-2012"/>
     <title>Fire and rescue bulletin: 27/2012</title>
+    <category>Publication</category>
+    <summary>Fire and rescue bulletins cover issues of interest and relevance to fire and rescue authorities.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The fire and rescue bulletin for November 2012 covers:&lt;/p&gt;
 
 &lt;ul&gt;
@@ -110,10 +128,12 @@ of agreement&lt;/a&gt; on the core parameters for reforms to the firefighters’
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/16762</id>
-    <published>2012-10-02T00:00:00+01:00</published>
-    <updated>2012-10-02T00:00:00+01:00</updated>
+    <published>2012-10-02T01:00:00+01:00</published>
+    <updated>2012-11-14T12:39:20+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/fire-and-rescue-bulletin-26-2012"/>
     <title>Fire and rescue bulletin: 26/2012</title>
+    <category>Publication</category>
+    <summary>Fire and rescue bulletins cover issues of interest and relevance to fire and rescue authorities. </summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The fire and rescue bulletin for October 2012 covers:&lt;/p&gt;
 
 &lt;ul&gt;
@@ -125,11 +145,13 @@ of agreement&lt;/a&gt; on the core parameters for reforms to the firefighters’
 &lt;/ul&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/16926</id>
-    <published>2012-09-25T00:00:00+01:00</published>
-    <updated>2012-09-25T00:00:00+01:00</updated>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60300</id>
+    <published>2012-09-25T01:00:00+01:00</published>
+    <updated>2012-12-21T10:22:57+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/fire-and-rescue-authorities-in-england-operational-statistics-bulletin-for-2011-to-2012"/>
     <title>Fire and rescue authorities in England: operational statistics bulletin for 2011 to 2012</title>
+    <category>Publication</category>
+    <summary>Annual statistics about fire and rescue authorities’ staff, numbers of injuries to firefighters, fire safety audits of buildings and community fire safety.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This publication and accompanying appendix data tables were released on Tuesday 25 September 2012 by the Department for Communities and Local Government. The publication focuses on personnel, health and safety and fire safety for the period 1 April 2011 to 31 March 2012.&lt;/p&gt;
 
 &lt;p&gt;The key points are as follows:&lt;/p&gt;
@@ -168,6 +190,8 @@ of agreement&lt;/a&gt; on the core parameters for reforms to the firefighters’
     <updated>2012-09-20T01:00:00+01:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/consultations/guidance-on-statements-of-assurance-for-fire-and-rescue-authorities-in-england"/>
     <title>Guidance on statements of assurance for fire and rescue authorities in England</title>
+    <category>Consultation</category>
+    <summary>Consultation on guidance on statements of assurance for fire and rescue authorities in England.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Consultation on guidance on statements of assurance for fire and rescue authorities in England.&lt;/p&gt;
 
 &lt;p&gt;The consultation seeks views on ‘light-touch’ guidance on statements of assurance for fire and rescue authorities in England&lt;/p&gt;&lt;/div&gt;</content>
@@ -178,34 +202,42 @@ of agreement&lt;/a&gt; on the core parameters for reforms to the firefighters’
     <updated>2012-09-20T01:00:00+01:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/consultations/protocol-on-government-intervention-action-on-fire-and-rescue-authorities-in-england"/>
     <title>Protocol on government intervention action on fire and rescue authorities in England</title>
+    <category>Consultation</category>
+    <summary>Consultation about revising the protocol on government intervention action for fire and rescue authorities in England.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Consultation on guidance on statements of assurance for fire and rescue authorities in England and Protocol on Government intervention action for fire and rescue authorities in England.&lt;/p&gt;
 
 &lt;p&gt;The consultation seeks views on the revision of the protocol on Government intervention action and applies to fire and rescue authorities in England only.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/11791</id>
-    <published>2012-09-13T00:00:00+01:00</published>
-    <updated>2012-09-13T00:00:00+01:00</updated>
+    <published>2012-09-13T01:00:00+01:00</published>
+    <updated>2012-11-14T12:35:47+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/firefighters-pension-scheme-2015-equality-statement"/>
     <title>Firefighters' pension scheme 2015: equality statement</title>
+    <category>Publication</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This equality statement considers the impact of the proposed firefighters’ pension scheme design from April 2015. This assessment has been carried out in pursuance of the public sector equality duty.&lt;/p&gt;
 
 &lt;p&gt;The equality statement is a living document and, given the need to ensure that the assessment is robust, the assessment process will continue beyond the publication of this statement. The Department for Communities and Local Government will continue to consider whether the firefighters’ pension scheme design might be adjusted, or any mitigating actions necessary, to ensure that due regard has been given to the public sector equality duty, prior to the introduction of legislation on the detailed scheme design.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/16070</id>
-    <published>2012-09-10T00:00:00+01:00</published>
-    <updated>2012-09-10T00:00:00+01:00</updated>
+    <published>2012-09-10T01:00:00+01:00</published>
+    <updated>2012-11-14T12:35:48+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/fire-kills-campaign-annual-report-2011-to-2012"/>
     <title>Fire Kills campaign: annual report 2011 to 2012</title>
+    <category>Publication</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This annual report details the work undertaken by the Fire Kills campaign in 2011 to 2012. The Department for Communities and Local Government Fire Kills campaign aims to raise awareness of key fire safety messages to the general public.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/16759</id>
-    <published>2012-09-04T00:00:00+01:00</published>
-    <updated>2012-09-04T00:00:00+01:00</updated>
+    <published>2012-09-04T01:00:00+01:00</published>
+    <updated>2012-11-14T12:39:19+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/fire-and-rescue-bulletin-25-2012"/>
     <title>Fire and rescue bulletin: 25/2012</title>
+    <category>Publication</category>
+    <summary>Fire and rescue bulletins cover issues of interest and relevance to fire and rescue authorities. </summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The fire and rescue bulletin for September 2012 covers:&lt;/p&gt;
 
 &lt;ul&gt;
@@ -220,14 +252,18 @@ of agreement&lt;/a&gt; on the core parameters for reforms to the firefighters’
     <updated>2012-08-28T01:00:00+01:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/consultations/changing-the-name-of-bedfordshire-and-luton-combined-fire-authority"/>
     <title>Changing the name of Bedfordshire and Luton combined fire authority</title>
+    <category>Consultation</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This consultation seeks views from selected bodies on the proposal of Bedfordshire and Luton Combined Fire Authority to change their name to Bedfordshire Fire and Rescue Authority.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/11428</id>
-    <published>2012-08-06T00:00:00+01:00</published>
-    <updated>2012-08-06T00:00:00+01:00</updated>
+    <published>2012-08-06T01:00:00+01:00</published>
+    <updated>2012-11-14T12:32:41+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/fire-and-rescue-bulletin-24-2012"/>
     <title>Fire and rescue bulletin: 24/2012</title>
+    <category>Publication</category>
+    <summary>Fire and rescue bulletins cover issues of interest and relevance to fire and rescue authorities.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The fire and rescue bulletin for August 2012 covers:&lt;/p&gt;
 
 &lt;ul&gt;
@@ -240,18 +276,22 @@ of agreement&lt;/a&gt; on the core parameters for reforms to the firefighters’
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/17068</id>
-    <published>2012-07-12T00:00:00+01:00</published>
-    <updated>2012-07-12T00:00:00+01:00</updated>
+    <published>2012-07-12T01:00:00+01:00</published>
+    <updated>2012-11-14T18:55:45+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/incident-recording-system-for-fire-and-rescue-authorities"/>
     <title>Incident recording system for fire and rescue authorities</title>
+    <category>Publication</category>
+    <summary>The questions and options recorded within the incident recording system by fire and rescue authorities across Great Britain</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This document describes the questions and options that are recorded for each type of incident within the incident recording system by fire and rescue authorities across Great Britain. The document is for users of the data both in the fire and rescue authorities and elsewhere.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/11442</id>
-    <published>2012-07-11T00:00:00+01:00</published>
-    <updated>2012-07-11T00:00:00+01:00</updated>
+    <published>2012-07-11T01:00:00+01:00</published>
+    <updated>2012-11-14T12:32:47+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/fire-and-rescue-bulletin-9-2012-immediate"/>
     <title>Fire and rescue bulletin: 9/2012 immediate</title>
+    <category>Publication</category>
+    <summary>Fire and rescue bulletins cover issues of interest and relevance to fire and rescue authorities.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The fire and rescue bulletin for July 2012 is issued for the immediate attention of fire and rescue authorities.&lt;/p&gt;
 
 &lt;p&gt;It covers:&lt;/p&gt;

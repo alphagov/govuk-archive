@@ -8,13 +8,15 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-07-26T00:00:00+01:00</updated>
+  <updated>2012-10-14T20:36:02+01:00</updated>
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/14204</id>
     <published>2012-07-26T00:00:00+01:00</published>
-    <updated>2012-07-26T00:00:00+01:00</updated>
+    <updated>2012-10-14T20:36:02+01:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/alan-cook-reappointed-non-executive-chairman-of-highways-agency"/>
     <title>Alan Cook reappointed non-executive chairman of Highways Agency</title>
+    <category>News article</category>
+    <summary>Alan Cook has been reappointed as non-executive chairman of the Highways Agency Board for another 12 months.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Alan Cook has been reappointed by Transport Secretary Justine Greening as non-executive chairman of the Highways Agency Board for a further 12 months.&lt;/p&gt;
 
 &lt;p&gt;Mr Cook, who was first appointed in January 2011, will focus on supporting the Transport Secretary’s ambitious programme for reforming the strategic road network while ensuring that the Agency continues to deliver its business against tough efficiency targets.&lt;/p&gt;
@@ -59,9 +61,11 @@ Public Enquiries: 0300 330 3000&lt;/p&gt;&lt;/div&gt;</content>
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/14207</id>
     <published>2012-07-25T00:00:00+01:00</published>
-    <updated>2012-07-25T00:00:00+01:00</updated>
+    <updated>2012-10-17T10:59:50+01:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/4-5-billion-investment-in-new-trains-creates-new-jobs"/>
     <title>£4.5 billion investment in new trains creates new jobs</title>
+    <category>News article</category>
+    <summary>596 railway carriages will be built at a brand new train factory in the north east of England.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;More than 900 jobs will be created and thousands more secured after Transport Secretary Justine Greening approved a £4.5bn contract to supply Britain with the next generation of intercity trains.&lt;/p&gt;
 
 &lt;p&gt;In a major boost to the UK’s manufacturing industry, 596 railway carriages will be built at a brand new train factory in the north east of England.&lt;/p&gt;
@@ -133,9 +137,11 @@ Public Enquiries: 0300 330 3000&lt;/p&gt;
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/14826</id>
     <published>2012-07-18T00:00:00+01:00</published>
-    <updated>2012-07-18T00:00:00+01:00</updated>
+    <updated>2012-10-14T20:18:26+01:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/innovative-new-proposals-for-a14-corridor"/>
     <title>Innovative new proposals for A14 corridor</title>
+    <category>News article</category>
+    <summary>The government today announced proposals for major investment along the A14 corridor in Cambridgeshire.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The government today announced proposals for major investment along the A14 corridor in Cambridgeshire.&lt;/p&gt;
 
 &lt;p&gt;A major new road scheme involving tolling will be added to the Department for Transport’s programme of major projects. Subject to agreement with interested local authorities on a funding package and decisions at the next spending review construction work could begin by 2018.&lt;/p&gt;
@@ -189,10 +195,12 @@ Public Enquiries: 0300 330 3000&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/13796</id>
-    <published>2012-07-17T00:00:00+01:00</published>
-    <updated>2012-07-17T00:00:00+01:00</updated>
+    <published>2012-07-17T01:00:00+01:00</published>
+    <updated>2012-10-24T11:08:47+01:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/speeches/high-speed-rail-phase-1-consultation-update"/>
     <title>High Speed Rail: phase 1 consultation update</title>
+    <category>Statement to parliament</category>
+    <summary>Written statement by the Rt Hon Justine Greening MP, Secretary of State for Transport.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;On 10 January this year, I made a statement to the House announcing my decision to take forward proposals for a national high speed rail network following the completion of a major public consultation exercise.&lt;/p&gt;
 
 &lt;p&gt;On 29 May, the consultation responses were made available online. Subsequently, when it became clear that a small number of responses had not been published, my department and HS2 Ltd reviewed how the consultation responses had been processed.&lt;/p&gt;
@@ -214,10 +222,12 @@ Public Enquiries: 0300 330 3000&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/13792</id>
-    <published>2012-07-16T00:00:00+01:00</published>
-    <updated>2012-07-16T00:00:00+01:00</updated>
+    <published>2012-07-16T01:00:00+01:00</published>
+    <updated>2012-10-24T10:43:52+01:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/speeches/implementation-of-the-penfold-review"/>
     <title>Implementation of the Penfold Review</title>
+    <category>Statement to parliament</category>
+    <summary>Written statement by the Rt Hon Justine Greening MP, Secretary of State for Transport.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Today I am publishing a consultation document detailing proposals to simplify the process of applying for the stopping up or diversion of a highway, where this is required for the purpose of property development.&lt;/p&gt;
 
 &lt;p&gt;The Penfold Review examined various development consents, additional to planning permission, which developers must apply for. It identified measures the government could take to minimise the burden of complying with and administering these consents, while maintaining the essential benefits that they protect.&lt;/p&gt;
@@ -239,9 +249,11 @@ Public Enquiries: 0300 330 3000&lt;/p&gt;&lt;/div&gt;</content>
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/14830</id>
     <published>2012-07-16T00:00:00+01:00</published>
-    <updated>2012-07-16T00:00:00+01:00</updated>
+    <updated>2012-10-16T18:58:39+01:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/investing-in-rail-investing-in-jobs-and-growth"/>
     <title>Investing in rail, investing in jobs and growth</title>
+    <category>News article</category>
+    <summary>More than £9 billion of growth-boosting railway upgrades across England and Wales.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;More than £9 billion of growth-boosting railway upgrades across England and Wales - representing faster journey times, more reliable services and capacity for 140,000 extra daily commutes by train - have been announced by Transport Secretary Justine Greening.&lt;/p&gt;
 
 &lt;p&gt;The full £9.4bn programme of improvements to the rail network published today will meet the needs of intercity passengers, commuters and freight up to the end of this decade while the government continues to work on High Speed 2 to deliver rail capacity for the British economy in the decades to come.&lt;/p&gt;
@@ -342,10 +354,12 @@ Public Enquiries: 0300 330 3000&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/15544</id>
-    <published>2012-07-15T00:00:00+01:00</published>
-    <updated>2012-07-15T00:00:00+01:00</updated>
+    <published>2012-07-15T01:00:00+01:00</published>
+    <updated>2012-10-29T10:33:21+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/speeches/rail-investment--7"/>
     <title>Rail investment: High Level Output Specification announcement 15 July 2012</title>
+    <category>Statement to parliament</category>
+    <summary>Written statement by the Rt Hon Justine Greening MP, Secretary of State for Transport.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Today I am announcing my High Level Output Specification (&lt;abbr title="High Level Output Specification"&gt;HLOS&lt;/abbr&gt;) for the railway, as required by the Railways Act 2005. Covering the period from 2014 to 2019, it describes my vision for a railway which is more financially and environmentally sustainable, which supports economic growth and which delivers for its passengers and freight customers.&lt;/p&gt;
 
 &lt;p&gt;I am confirming £16 billion of public support for rail in this period, which will support £9.4 billion of infrastructure enhancement. £5.2 billion of this has previously been committed, including Thameslink, Crossrail and electrification of the Great Western Main Line and in the north west and Yorkshire. The additional £4.2 billion includes:&lt;/p&gt;
@@ -379,10 +393,12 @@ Public Enquiries: 0300 330 3000&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/14210</id>
-    <published>2012-07-12T00:00:00+01:00</published>
-    <updated>2012-07-12T00:00:00+01:00</updated>
+    <published>2012-07-12T01:00:00+01:00</published>
+    <updated>2012-10-25T10:54:44+01:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/speeches/aviation-policy-framework"/>
     <title>Aviation Policy Framework</title>
+    <category>Statement to parliament</category>
+    <summary>Written statement by the Rt Hon Justine Greening MP, Secretary of State for Transport.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;In March 2011, the government launched a scoping exercise towards developing a new sustainable policy framework for UK aviation. I am grateful to the more than 600 organisations and individuals who responded. We have given careful consideration to their responses in preparing the &lt;a rel="external" href="http://www.dft.gov.uk/consultations/dft-2012-35"&gt;draft Aviation Policy Framework consultation document&lt;/a&gt;, which I am publishing today.&lt;/p&gt;
 
 &lt;p&gt;The responses to the scoping exercise reflected a wide degree of consensus on aviation’s significant economic contribution and its other benefits, that its global and local environmental impacts are real and need to be tackled effectively and that maintaining the UK’s excellent international connectivity is critical. The consultation document sets out the government’s high level policy in each of these areas and seeks views on some of the measures we propose in support of our approach.&lt;/p&gt;
@@ -430,10 +446,12 @@ Public Enquiries: 0300 330 3000&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/12807</id>
-    <published>2012-07-12T00:00:00+01:00</published>
-    <updated>2012-07-12T00:00:00+01:00</updated>
+    <published>2012-07-12T01:00:00+01:00</published>
+    <updated>2012-10-25T10:42:24+01:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/speeches/hs2-london-to-west-midlands-property-compensation"/>
     <title>HS2 London to West Midlands Property Compensation</title>
+    <category>Statement to parliament</category>
+    <summary>Written statement by the Rt Hon Justine Greening MP, Secretary of State for Transport.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;In January I announced the government would proceed with plans to build a high speed rail network linking London with Birmingham, Leeds and Manchester. This is a vital project that will create jobs, drive economic growth and provide a solution to the capacity crunch facing our existing rail network. Work on the project continues apace and I will be publishing my preferred routes for the second phase of the project in the autumn.&lt;/p&gt;
 
 &lt;p&gt;Alongside January’s decision I confirmed my intention to deliver a generous compensation package for those affected by the route which goes over and above the minimum required by law.&lt;/p&gt;
@@ -447,9 +465,11 @@ Public Enquiries: 0300 330 3000&lt;/p&gt;&lt;/div&gt;</content>
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/14450</id>
     <published>2012-07-12T00:00:00+01:00</published>
-    <updated>2012-07-12T00:00:00+01:00</updated>
+    <updated>2012-10-16T12:42:12+01:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/foundations-laid-for-future-growth-of-aviation-as-government-unveils-long-term-strategy"/>
     <title>Foundations laid for future growth of aviation as government unveils long-term strategy</title>
+    <category>News article</category>
+    <summary>Transport Secretary Justine Greening has published the draft aviation policy framework.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;More frequent flights to emerging markets, improved access to airports - including £500m towards a new rail link to Heathrow - and a reduction in the impact of airports on local communities is to be put at the heart of UK aviation strategy Transport Secretary Justine Greening has said, as she published the government’s long-term vision for the sector today.&lt;/p&gt;
 
 &lt;p&gt;The &lt;a rel="external" href="http://www.dft.gov.uk/consultations/dft-2012-35"&gt;draft policy framework&lt;/a&gt;, which will form the basis of future sustainable aviation growth in the UK, has been developed following discussions with the industry. The framework also includes a package of measures which will quickly deliver operational improvements and boost economic growth within existing airport capacity constraints.&lt;/p&gt;

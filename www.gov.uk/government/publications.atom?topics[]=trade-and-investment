@@ -8,13 +8,15 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-12-14T00:00:00+00:00</updated>
+  <updated>2012-12-17T17:06:46+00:00</updated>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/56617</id>
     <published>2012-12-14T00:00:00+00:00</published>
-    <updated>2012-12-14T00:00:00+00:00</updated>
+    <updated>2012-12-17T17:06:46+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/list-of-certified-companies"/>
     <title>List of certified companies </title>
+    <category>Publication</category>
+    <summary>Exporters need to always consult this listing if they intend to register for the OGEL (certified companies) published by the Export Control Organisation </summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This list is published by the Export Control Organisation (ECO) in conjunction with the &lt;a href="https://www.gov.uk/military-goods-ogels#ogel-certified-companies"&gt;Open general export licence (certified companies)&lt;/a&gt;. &lt;/p&gt;
 
 &lt;p&gt;This particular OGEL permits, subject to certain conditions, the export or transfer of items specified in Schedule 1 of the licence to those companies referred to in Schedule 2. &lt;/p&gt;
@@ -26,9 +28,11 @@
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/52540</id>
     <published>2012-12-12T00:00:00+00:00</published>
-    <updated>2012-12-12T00:00:00+00:00</updated>
+    <updated>2012-12-12T20:40:21+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/exchange-of-notes-uk-note-concerning-itar-rule-change-dated-11-august-2011"/>
     <title>Exchange of notes (UK Note) concerning ITAR rule change dated 11 August 2011</title>
+    <category>Publication</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Document issued in conjunction with the International Trade in Arms Regulations (ITAR) rule change dated 11 August 2011. &lt;/p&gt;
 
 &lt;p&gt;This note was issued in conjunction with an equivalent US Note. &lt;/p&gt;
@@ -38,9 +42,11 @@
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/59936</id>
     <published>2012-12-05T00:00:00+00:00</published>
-    <updated>2012-12-05T00:00:00+00:00</updated>
+    <updated>2012-12-19T14:16:28+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/overseas-territories-joint-ministerial-council-communique"/>
     <title>Overseas Territories Joint Ministerial Council Communiqué</title>
+    <category>Publication</category>
+    <summary>The Joint Ministerial Council closed with the agreement of a joint communiqué which sets out priority issues for the coming year.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This joint communiqué sets out priority issues and a comprehensive action plan for joint work in the coming year. &lt;/p&gt;
 
 &lt;p&gt;The political leaders and representatives of the UK and the Overseas Territories, met in Lancaster House in London on 4-5 December 2012.&lt;/p&gt;
@@ -52,17 +58,21 @@
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/16633</id>
     <published>2012-11-21T00:00:00+00:00</published>
-    <updated>2012-11-21T00:00:00+00:00</updated>
+    <updated>2012-12-12T19:14:04+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/the-overseas-territories-security-success-and-sustainability"/>
     <title>The Overseas Territories: security, success and sustainability</title>
+    <category>Publication</category>
+    <summary>The government published this white paper on the Overseas Territories on the 28 June 2012, setting out its overall approach. </summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The government published this white paper on the Overseas Territories on the 28 June 2012, setting out its overall approach. &lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/51396</id>
-    <published>2012-08-11T00:00:00+01:00</published>
-    <updated>2012-08-11T00:00:00+01:00</updated>
+    <published>2012-08-11T01:00:00+01:00</published>
+    <updated>2012-12-12T20:40:26+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/exchange-of-notes-us-note-concerning-itar-rule-change-dated-11-august-2011"/>
     <title>Exchange of notes (US Note) concerning ITAR rule change dated 11 August 2011</title>
+    <category>Publication</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Document issued in conjunction with the International Trade in Arms Regulations (ITAR) rule change dated 11 August 2011. &lt;/p&gt;
 
 &lt;p&gt;This note was issued in conjunction with an equivalent UK Note. &lt;/p&gt;
@@ -71,20 +81,24 @@
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/47242</id>
-    <published>2012-06-30T00:00:00+01:00</published>
-    <updated>2012-06-30T00:00:00+01:00</updated>
+    <published>2012-06-30T01:00:00+01:00</published>
+    <updated>2012-12-11T16:24:29+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/strategic-export-controls"/>
     <title>Strategic export controls</title>
+    <category>Publication</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Foreign &amp;amp; Commonwealth Office’s Strategic Export Controls Reports demonstrate the Government’s 
 commitment to transparent and responsible controls on British arms 
 exports.The quarterly and annual reports give details by destination, of physical exports and equipment licensed for export.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/47250</id>
-    <published>2012-06-28T00:00:00+01:00</published>
-    <updated>2012-06-28T00:00:00+01:00</updated>
+    <published>2012-06-28T01:00:00+01:00</published>
+    <updated>2012-12-11T16:24:31+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/the-overseas-territories"/>
     <title>The Overseas Territories</title>
+    <category>Publication</category>
+    <summary>The Government published a White Paper on the Overseas Territories on the 28 June 2012, setting out its overall approach to the Overseas Territories.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Overseas Territories are very diverse; with thousands of small 
 islands, vast areas of ocean, but also in Antarctica, land six times the
  size of the United Kingdom.  They include one of the world’s richest 
@@ -98,18 +112,22 @@ document here.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/51394</id>
-    <published>2012-06-14T00:00:00+01:00</published>
-    <updated>2012-06-14T00:00:00+01:00</updated>
+    <published>2012-06-14T01:00:00+01:00</published>
+    <updated>2012-12-11T16:26:35+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/open-general-export-licence-ogel"/>
     <title>Open general export licence (X)</title>
+    <category>Publication</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Open general export licence (X) dated 13 June 2012, which comes into force on 15 June 2012. Granted by the Secretary of State for Business, Innovation and Skills (BIS).&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/56585</id>
     <published>2012-03-23T00:00:00+00:00</published>
-    <updated>2012-03-23T00:00:00+00:00</updated>
+    <updated>2012-12-12T19:01:34+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/national-counter-proliferation-strategy-2012-2015"/>
     <title>National Counter Proliferation Strategy 2012-2015</title>
+    <category>Publication</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The government launched its new National Counter Proliferation Strategy ahead of the Nuclear Security Summit in Seoul on 26-27 March 2012.&lt;/p&gt;
 
 &lt;p&gt;Agreed by the National Security Council, it has 3 main objectives: &lt;/p&gt;
@@ -123,9 +141,11 @@ document here.&lt;/p&gt;&lt;/div&gt;</content>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/47254</id>
     <published>2012-02-02T00:00:00+00:00</published>
-    <updated>2012-02-02T00:00:00+00:00</updated>
+    <updated>2012-12-11T16:24:31+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/counter-proliferation-programme"/>
     <title>Counter Proliferation programme</title>
+    <category>Publication</category>
+    <summary>Programme objectives for 2012-2013</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Foreign &amp;amp; Commonwealth Office (FCO) plays an important role in the UK’s work to stop the spread of chemical, biological, radiological and nuclear (CBRN) weapons. One of the tools used to combat these threats is the Counter-Proliferation Programme. In financial year 2012-13, the value of the Programme is £3 million. This funding is used to support projects around the world which strengthen political will or technical capacity to tackle the threat of weapons proliferation.   &lt;/p&gt;
 
 &lt;p&gt;All projects funded contribute to achieving one or more of the Programme’s objectives.&lt;/p&gt;&lt;/div&gt;</content>
@@ -133,25 +153,41 @@ document here.&lt;/p&gt;&lt;/div&gt;</content>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/56413</id>
     <published>2011-12-01T00:00:00+00:00</published>
-    <updated>2011-12-01T00:00:00+00:00</updated>
+    <updated>2012-12-13T16:19:10+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/arab-partnership-programme-approach-2011-15"/>
     <title>Arab Partnership Programme approach 2011-15</title>
+    <category>Publication</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Arab Partnership Strategy is helping to deliver the UK’s long-term vision of a stable, prosperous Middle East and North Africa region, based on greater social, economic and political participation of its people.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60757</id>
+    <published>2011-02-09T00:00:00+00:00</published>
+    <updated>2012-12-21T14:34:58+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/global-context-how-has-world-trade-and-investment-developed-whats-next-trade-and-investment-analytical-papers-topic-1-of-18"/>
+    <title>Global context - how has world trade and investment developed, what's next? Trade and investment analytical papers topic 1 of 18</title>
+    <category>Publication</category>
+    <summary/>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Analyses trends in world trade and investment, the impact of the global economic crisis and future developments. One of a series of analytical papers supporting the ‘Trade and investment for growth’ white paper (URN 11/717).&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/55365</id>
     <published>2011-02-01T00:00:00+00:00</published>
-    <updated>2011-02-01T00:00:00+00:00</updated>
+    <updated>2012-12-11T16:24:35+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/a-charter-for-business"/>
     <title>A Charter for Business</title>
+    <category>Publication</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The FCO Business Charter, launched in May 2011, outlines the support the FCO will provide to British businesses.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/50037</id>
-    <published>2010-05-04T00:00:00+01:00</published>
-    <updated>2010-05-04T00:00:00+01:00</updated>
+    <published>2010-05-04T01:00:00+01:00</published>
+    <updated>2012-12-11T16:24:34+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/impact-assessment-of-the-cluster-munitions-prohibitions-bill"/>
     <title>Impact Assessment of the Cluster Munitions (Prohibitions) Bill</title>
+    <category>Publication</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The purpose of the Cluster Munitions (Prohibitions) Bill is to implement international obligations to address the humanitarian impact of cluster munitions.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
 </feed>

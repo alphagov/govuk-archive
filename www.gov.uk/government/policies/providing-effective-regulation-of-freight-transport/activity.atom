@@ -8,14 +8,15 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-12-13T00:00:00+00:00</updated>
+  <updated>2012-12-13T09:50:26+00:00</updated>
   <entry>
     <id>tag:www.gov.uk,2005:Speech/55825</id>
     <published>2012-12-13T00:00:00+00:00</published>
     <updated>2012-12-13T09:50:26+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/speeches/consultation-on-motoring-services-strategy"/>
     <title>Consultation on Motoring Services Strategy</title>
-    <category>Speech</category>
+    <category>Statement to parliament</category>
+    <summary>Publication of the Motoring Services Strategy.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;I am today announcing the publication of a &lt;a href="/government/consultations/motoring-services-strategy"&gt;consultation document on the Department for Transport’s Motoring Services Strategy&lt;/a&gt;. In line with the government’s broader vision for public services as set out in the Civil Service Reform Plan, the Open Public Services White Paper and the Government Digital Strategy, the department is outlining broad reform proposals for its four motoring services executive agencies:&lt;/p&gt;
 
 &lt;ul&gt;
@@ -47,7 +48,8 @@
     <updated>2012-12-06T09:51:59+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/transport-statistics-6-december-2012"/>
     <title>Transport statistics 6 December 2012</title>
-    <category>News Article</category>
+    <category>News article</category>
+    <summary>Domestic waterborne freight in the UK statistics.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Department for Transport has published transport statistics on:&lt;/p&gt;
 
 &lt;ul&gt;
@@ -66,7 +68,8 @@ Public Enquiries: 0300 330 3000&lt;/p&gt;&lt;/div&gt;</content>
     <updated>2012-11-29T10:47:16+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/transport-statistics-29-november-2012"/>
     <title>Transport statistics 29 November 2012</title>
-    <category>News Article</category>
+    <category>News article</category>
+    <summary>The latest statistics on road freight, driver and rider tests and instructors</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Department for Transport has today published the following transport statistics:&lt;/p&gt;
 
 &lt;ul&gt;
@@ -87,6 +90,7 @@ Public enquiries: 0300 330 3000  &lt;/p&gt;&lt;/div&gt;</content>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/cost-of-the-driver-cpc-recording-and-evidencing-database"/>
     <title>Cost of the Driver CPC recording and evidencing database</title>
     <category>Publication</category>
+    <summary>Response to FOI request IA0048512: Cost of the Driver CPC recording and evidencing database.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Information about the cost of the Driver CPC recording and evidencing database.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
@@ -95,7 +99,8 @@ Public enquiries: 0300 330 3000  &lt;/p&gt;&lt;/div&gt;</content>
     <updated>2012-11-09T11:20:53+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/plans-unveiled-to-increase-lorry-speeds-to-boost-growth"/>
     <title>Plans unveiled to increase lorry speeds to boost growth</title>
-    <category>News Article</category>
+    <category>News article</category>
+    <summary>Announcement of plans to increase the speed limit for some heavy goods vehicles in a bid to boost economic growth.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Plans to increase the speed limit for some heavy goods vehicles (&lt;abbr title="heavy goods vehicles"&gt;HGVs&lt;/abbr&gt;) in a bid to boost economic growth have been announced today by Roads Minister Stephen Hammond.&lt;/p&gt;
 
 &lt;p&gt;The current speed limit on single carriageways for &lt;abbr title="heavy goods vehicles"&gt;HGVs&lt;/abbr&gt; over 7.5 tonnes is 40 mph. Under the proposals, this could be increased to 45 mph or 50 mph.&lt;/p&gt;
@@ -143,7 +148,8 @@ Public enquiries: 0300 330 3000&lt;/p&gt;
     <updated>2012-11-09T11:07:20+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/speeches/heavy-goods-vehicles"/>
     <title>Heavy goods vehicles</title>
-    <category>Speech</category>
+    <category>Statement to parliament</category>
+    <summary>Written statement by Stephen Hammond, Parliamentary Under Secretary of State for Transport.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;I am today announcing the publication of a &lt;a rel="external" href="http://www.dft.gov.uk/consultations/dft-2012-34"&gt;consultation document which aims to examine whether the speed limit for heavy goods vehicles (&lt;abbr title="heavy goods vehicles"&gt;HGVs&lt;/abbr&gt;) over 7.5 tonnes on single carriageways, is set at the right level&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;This follows a commitment published in ‘The logistics growth review – connecting people with goods’ document in November 2011.&lt;/p&gt;
@@ -172,6 +178,7 @@ Public enquiries: 0300 330 3000&lt;/p&gt;
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/consultations/examining-the-speed-limit-for-heavy-goods-vehicles-over-7-5-tonnes-on-single-carriageway-roads"/>
     <title>Examining the speed limit for heavy goods vehicles over 7.5 tonnes on single carriageway roads</title>
     <category>Consultation</category>
+    <summary>We are consulting on the issue whether to raise speed limits for heavy goods vehicles over 7.5 tonnes on single carriageway roads.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The maximum speed limit for heavy goods vehicles (&lt;abbr title="Heavy Goods Vehicles"&gt;HGVs&lt;/abbr&gt;) over 7.5 tonnes on single carriageway roads is prescribed in Schedule 6 of the Road Traffic Act 1984. The current speed limit on single carriageways for &lt;abbr title="Heavy Goods Vehicles"&gt;HGVs&lt;/abbr&gt; over 7.5 tonnes is 40 miles per hour. The speed limit for smaller &lt;abbr title="Heavy Goods Vehicles"&gt;HGVs&lt;/abbr&gt; (those between 3.5 tonnes and 7.5 tonnes) is 50 mph. The government made a commitment in ‘The logistics growth review – connecting people with goods’ document published in November 2011, to consult on this issue during 2012.&lt;/p&gt;
 
 &lt;p&gt;Stakeholders have said that the 40 mph speed limit causes unnecessary cost to vehicle operators, congestion, avoidable overtaking accidents and creates an uneven playing field for businesses.&lt;/p&gt;
@@ -195,6 +202,7 @@ Public enquiries: 0300 330 3000&lt;/p&gt;
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/heavy-goods-vehicle-speed-limit-increase-evaluation-final-report"/>
     <title>Heavy goods vehicle speed limit increase evaluation: final report</title>
     <category>Publication</category>
+    <summary>Research report PPR 576 about the risk involved in increasing the speed limit of heavy good vehicles over 7.5 tonnes on single carriageways.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Department for Transport commissioned the Transport Research Laboratory (TRL) to provide an evidence-base, analysis and reasoned opinion on whether or not there is likely to be any road safety risk involved in increasing the speed limit of heavy good vehicles exceeding 7.5 tonnes on single carriageway de-restricted roads from 40mph to 50mph (or possibly 45mph). This report gives detail on the findings of the research.&lt;/p&gt;
 
 &lt;h2 id="related-documents"&gt;Related documents&lt;/h2&gt;
@@ -211,7 +219,8 @@ Public enquiries: 0300 330 3000&lt;/p&gt;
     <updated>2012-11-08T22:31:16+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/speeches/hgv-road-user-levy-bill"/>
     <title>HGV Road User Levy Bill</title>
-    <category>Speech</category>
+    <category>Statement to parliament</category>
+    <summary>Written statement by Stephen Hammond, Parliamentary Under Secretary of State for Transport.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;I am today correcting the answer to a question that I provided during the Ways and Means Resolution debate on the &lt;abbr title="heavy goods vehicle"&gt;HGV&lt;/abbr&gt; Road User Levy Bill, on Tuesday 23 October 2012.&lt;/p&gt;
 
 &lt;p&gt;In response to the question asked by Bob Stewart (Beckenham) (Con) on “whether vehicles leaving a port of entry will have a physical sign on their windows indicating that they have paid” [Official Report, 23 October 2012, Col 881], I should have clearly stated that there will be no physical sign of payment, through the display of a paper disc, sticker or similar item.&lt;/p&gt;
@@ -228,7 +237,8 @@ Public enquiries: 0300 330 3000&lt;/p&gt;
     <updated>2012-11-08T19:02:18+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/speeches/hgv-road-user-levy"/>
     <title>HGV Road User Levy</title>
-    <category>Speech</category>
+    <category>Statement to parliament</category>
+    <summary>Written statement by Stephen Hammond, Parliamentary Under Secretary of State for Transport.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;For the benefit of Members of the House, I am today setting out some details of the &lt;abbr title="heavy good vehicles"&gt;HGV&lt;/abbr&gt; Road User Levy Bill which will be debated in the House of Commons on Tuesday 23rd October. The bill itself will be walked in after the debate on the Ways and Means resolution.&lt;/p&gt;
 
 &lt;p&gt;The &lt;abbr title="heavy good vehicles"&gt;HGV&lt;/abbr&gt; Road User Levy Bill with introduce charges for all HGVs that weigh 12 tonnes and over for using the UK road network.&lt;/p&gt;

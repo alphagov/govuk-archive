@@ -8,29 +8,35 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-12-20T00:00:00+00:00</updated>
+  <updated>2012-12-20T16:08:25+00:00</updated>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60242</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60286</id>
     <published>2012-12-20T00:00:00+00:00</published>
-    <updated>2012-12-20T00:00:00+00:00</updated>
+    <updated>2012-12-20T16:08:25+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/law-officers-departments-digital-strategy"/>
     <title>Law Officers' Departments - Digital Strategy</title>
+    <category>Publication</category>
+    <summary>This strategy sets out how the Law Officers’ Departments will become digital by default</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This strategy sets out how the Law Officers’ Departments will become digital by default. It fulfils the commitment made in the Civil Service Reform Plan.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/56596</id>
     <published>2012-12-14T00:00:00+00:00</published>
-    <updated>2012-12-14T00:00:00+00:00</updated>
+    <updated>2012-12-14T12:15:34+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/ago-civil-service-people-survey-results-2012"/>
     <title>AGO civil service people survey results 2012</title>
+    <category>Publication</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Attorney General’s Office (AGO) results for the civil service people survey 2012 &lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:NewsArticlePresenter/54845</id>
-    <published>2012-12-12T17:38:59+00:00</published>
+    <published>2012-12-12T12:18:00+00:00</published>
     <updated>2012-12-12T17:38:59+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/the-new-home-on-the-web-for-fco-mod-bis-and-ago"/>
     <title>The new home on the web for FCO, MOD, BIS and AGO</title>
+    <category>News article</category>
+    <summary>GOV.UK is the new place for corporate and policy information from the Foreign Office, Ministry of Defence, Department for Business and the Attorney General's Office. </summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Four central government departments and several of their public bodies have today (13 December, 2012) become the latest central government organisations to move their corporate and policy content onto the new GOV.UK website - the new single home for all government services and information.&lt;/p&gt;
 
 &lt;p&gt;The Foreign and Commonwealth Office (&lt;abbr title="Foreign and Commonwealth Office"&gt;FCO&lt;/abbr&gt;), Ministry of Defence (&lt;abbr title="Ministry of Defence"&gt;MOD&lt;/abbr&gt;), Department for Business, Innovation and Skills (&lt;abbr title="Department for Business, Innovation and Skills"&gt;BIS&lt;/abbr&gt;) and Attorney General’s Office (&lt;abbr title="Attorney General's Office"&gt;AGO&lt;/abbr&gt;) have moved their content to the new website, joining the Department for Transport (&lt;abbr title="Department for Transport"&gt;DFT&lt;/abbr&gt;) and Communities and Local Government (&lt;abbr title="Department for Communities and Local Government"&gt;DCLG&lt;/abbr&gt;) whose content moved to GOV.UK last month.&lt;/p&gt;
@@ -82,10 +88,12 @@
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:DetailedGuidePresenter/17487</id>
-    <published>2012-11-29T14:18:00+00:00</published>
-    <updated>2012-11-29T14:18:00+00:00</updated>
+    <published>2012-12-11T16:36:00+00:00</published>
+    <updated>2012-12-11T16:36:00+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/proceeds-of-crime-act-2002-code-of-practice-under-section-377a"/>
     <title>Proceeds of Crime Act 2002: code of practice under Section 377A</title>
+    <category>Detailed guidance</category>
+    <summary>Investigation powers under Proceeds of Crime Act: search and seizure warrants, disclosure, account monitoring and other orders.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Read the code of practice governing investigation powers by prosecutors in England, Wales and Northern Ireland including:&lt;/p&gt;
 
 &lt;ul&gt;
@@ -121,10 +129,12 @@
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:DetailedGuidePresenter/56766</id>
-    <published>2012-12-05T16:09:58+00:00</published>
-    <updated>2012-12-05T16:09:58+00:00</updated>
+    <published>2012-12-11T16:23:45+00:00</published>
+    <updated>2012-12-11T16:23:45+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/types-of-contempt-of-court-dealt-with-by-the-attorney-generals-office"/>
     <title>Types of contempt of court dealt with by the Attorney General's Office</title>
+    <category>Detailed guidance</category>
+    <summary>The Attorney General and Solicitor General (the Law Officers) can be asked to look at some types of contempt of court.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="introduction"&gt;Introduction&lt;/h2&gt;
 
 &lt;p&gt;Contempt of court is where someone does not respect a court or disrupts its work by words or actions.&lt;/p&gt;
@@ -157,6 +167,9 @@
     <updated>2012-12-11T15:56:28+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/attorney-general-s-guidelines-for-prosecutors-section-18-of-the-regulation-of-investigatory-powers-act-2000-england-and-wales"/>
     <title>Attorney General’s Guidelines for Prosecutors: Section 18 of the Regulation of Investigatory Powers Act 2000 (England and Wales)</title>
+    <category>Detailed guidance</category>
+    <summary>Guidelines for prosecutors in applying section 18 of the Regulation of Investigatory Powers Act (RIPA) in England and Wales.
+</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;These guidelines concern the approach to be taken by prosecutors in applying section 18 of the Regulation of Investigatory Powers Act (&lt;abbr title="Regulation of Investigatory Powers Act"&gt;RIPA&lt;/abbr&gt;) in England and Wales.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
@@ -165,6 +178,8 @@
     <updated>2012-12-11T15:52:48+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/the-prosecutors-convention-2009-updated-2012"/>
     <title>The Prosecutors’ Convention 2009 (updated 2012)</title>
+    <category>Detailed guidance</category>
+    <summary>The responsibilities of prosecutors where a suspect’s conduct could be dealt with in different ways and by different organisations.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="the-purpose-of-the-prosecutors-convention"&gt;The purpose of the Prosecutors’ Convention&lt;/h2&gt;
 
 &lt;p&gt;1.1
@@ -283,6 +298,8 @@ The parties to this Convention are those prosecuting authorities who have adopte
     <updated>2012-12-11T15:11:42+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/attorney-general-s-guidelines-on-disclosure-2005-and-2011"/>
     <title>Attorney General’s guidelines on disclosure 2005 and 2011</title>
+    <category>Detailed guidance</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Disclosure in criminal cases is the process to make sure that investigators and prosecutors provide defendants with information obtained during the investigation which may help them to prepare their defence. It is an essential part of all criminal investigations and prosecutions. The Attorney General has issued guidelines for prosecutors, investigators and defence lawyers on the conduct of disclosure in investigations and prosecutions.  &lt;/p&gt;
 
 &lt;p&gt;A first edition was published in 2005 and updated in 2011 with supplementary guidelines on digitally stored material.&lt;/p&gt;
@@ -337,10 +354,12 @@ The parties to this Convention are those prosecuting authorities who have adopte
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:NewsArticlePresenter/48345</id>
-    <published>2012-12-12T14:17:09+00:00</published>
+    <published>2012-12-10T00:00:00+00:00</published>
     <updated>2012-12-12T14:17:09+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/attorney-general-applies-for-fresh-inquests-for-victims-of-hillsborough-disaster"/>
     <title>Attorney General applies for fresh inquests for victims of Hillsborough disaster</title>
+    <category>News article</category>
+    <summary>An application has been made to the High Court for new inquests into the deaths of the 96 victims.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Attorney General, Dominic Grieve &lt;abbr title="Queen's Counsel"&gt;QC&lt;/abbr&gt; &lt;abbr title="Member of Parliament"&gt;MP&lt;/abbr&gt;, today (10 December 2012) made an application to the High Court for new inquests into the deaths of the 96 victims of the Hillsborough tragedy. &lt;/p&gt;
 
 &lt;p&gt;The Attorney General said:&lt;/p&gt;
@@ -379,10 +398,12 @@ The parties to this Convention are those prosecuting authorities who have adopte
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:NewsArticlePresenter/56028</id>
-    <published>2012-12-04T12:07:18+00:00</published>
+    <published>2012-12-04T12:07:00+00:00</published>
     <updated>2012-12-04T12:07:18+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/juror-jailed-for-discussing-trial-with-defendants"/>
     <title>Juror jailed for discussing trial with defendants</title>
+    <category>News article</category>
+    <summary>A juror who discussed the trial he was involved in with 2 of the defendants has been jailed for 4 months</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Judges at the High Court today jailed a juror for 4 months for contempt of court, after he admitted discussing an ongoing trial with 2 of the defendants.&lt;/p&gt;
 
 &lt;p&gt;Stephen Pardon was a juror on a 13-week trial of 6 men at Wolverhampton Crown Court in December 2011. He admitted that before the jury had finished deciding all of its verdicts he approached one of the defendants and discussed the jury’s deliberations with him. At that stage 3 defendants had been convicted on one count, and one acquitted.&lt;/p&gt;

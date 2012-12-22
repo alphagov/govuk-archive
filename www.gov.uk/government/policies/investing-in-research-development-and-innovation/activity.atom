@@ -8,14 +8,15 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-12-14T17:47:00+00:00</updated>
+  <updated>2012-12-14T17:47:04+00:00</updated>
   <entry>
     <id>tag:www.gov.uk,2005:NewsArticle/60131</id>
     <published>2012-12-14T17:47:00+00:00</published>
     <updated>2012-12-14T17:47:04+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/small-businesses-to-benefit-from-1-1-million-innovation-boost"/>
     <title>Small businesses to benefit from £1.1 million innovation boost</title>
-    <category>News Article</category>
+    <category>News article</category>
+    <summary>New Innovation Vouchers for businesses who want to use public open data to develop new ideas, improve processes and target new markets.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Innovation is vital for business growth. The aim is simple – to accelerate economic growth by stimulating and supporting business-led innovation.&lt;/p&gt;
 
 &lt;p&gt;A £2 million fund has been created for the Innovation Vouchers scheme, running over the next 3 years. The vouchers provide £5000 for a UK start-up, micro, small or medium-sized businesses to work with external experts and gain new knowledge to help their business.&lt;/p&gt;
@@ -67,7 +68,8 @@
     <updated>2012-12-14T16:45:41+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/support-for-innovation-workshop"/>
     <title>Support for Innovation Workshop</title>
-    <category>News Article</category>
+    <category>News article</category>
+    <summary>A series of one day workshops about government support for business R&amp;D and innovation.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;A series of one day workshops about government support for business &lt;abbr title="research and development"&gt;R&amp;amp;D&lt;/abbr&gt; and innovation are being organised over the next few months for small and medium sized enterprises and their professional advisers.&lt;/p&gt;
 
 &lt;p&gt;Areas covered include:&lt;/p&gt;
@@ -244,6 +246,7 @@ This workshop is being organised by BIS and &lt;abbr title="HM Revenue &amp;amp;
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/science-and-innovation-network-annual-report-2011-12"/>
     <title>Science and Innovation Network: Annual Report 2011 to 2012</title>
     <category>Publication</category>
+    <summary>The Science and Innovation Network supports UK economic and social goals through international collaboration in science research and innovation.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This report shows the scope of the work carried out by the Science and Innovation Network, a joint &lt;abbr title="Department for Business, Innovation and Skills"&gt;BIS&lt;/abbr&gt;-&lt;abbr title="Foreign and Commonwealth Office"&gt;FCO&lt;/abbr&gt; network operating in around 28 countries and territories around the world. &lt;/p&gt;
 
 &lt;p&gt;&lt;abbr title="Science and Innovation Network"&gt;SIN&lt;/abbr&gt; officers are scientifically literate staff in &lt;abbr title="Foreign and Commonwealth Office"&gt;FCO&lt;/abbr&gt; posts who work to benefit the UK through influencing the science and innovation policies of governments, businesses and academia, informing UK policy, and promoting ‘best with best’ collaboration between the UK and other nations. &lt;/p&gt;
@@ -259,6 +262,7 @@ This workshop is being organised by BIS and &lt;abbr title="HM Revenue &amp;amp;
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/strength-opportunity-2012-the-landscape-of-the-medical-biotechnology-industrial-biotechnology-and-pharmaceutical-sectors-in-the-uk-annual-update-december-2012--2"/>
     <title>Strength &amp; opportunity 2012: the landscape of the medical biotechnology, industrial biotechnology and pharmaceutical sectors in the UK. Annual update - December 2012</title>
     <category>Publication</category>
+    <summary>Fourth annual report analysing the updated 2012 dataset from the bioscience and health technology database.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Fourth annual report analysing the updated 2012 dataset from the bioscience and health technology database. The data relates to companies that are active in the UK in three of the life sciences sectors: medical technology, medical biotechnology and industrial biotechnology. Enables comparisons against last year’s information to see how these sectors are changing. Overview of this highly innovative industry with over 4,500 companies, employing over 167,000 people and generating a turnover of over £50 billion.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
@@ -268,6 +272,7 @@ This workshop is being organised by BIS and &lt;abbr title="HM Revenue &amp;amp;
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/annual-innovation-report-2012-innovation-research-and-growth"/>
     <title>Annual innovation report 2012: innovation, research and growth</title>
     <category>Publication</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Fourth annual innovation report that gives the latest available evidence on UK innovation performance and the contribution of business, government, higher education and research organisations to UK innovation activities. Presents key measures of innovation and research performance, and provides a benchmark to track performance measures for the Innovation and research strategy for growth (URN 11/1387). Also records the practical progress made implementing the strategy. Underlying data for this publication is available in a machine processable format on the Transparency/Report Data webpage.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
@@ -277,6 +282,7 @@ This workshop is being organised by BIS and &lt;abbr title="HM Revenue &amp;amp;
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/uk-innovation-survey-2011-statistical-annex-revised"/>
     <title>UK innovation survey 2011: statistical annex [revised]</title>
     <category>Publication</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Statistical annex for data from the 2011 UK innovation survey (12/P107). It includes an overview of the methodology, details of response rates and weighting, and reference tables with the survey results.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
@@ -286,6 +292,7 @@ This workshop is being organised by BIS and &lt;abbr title="HM Revenue &amp;amp;
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/response-to-a-synthetic-biology-roadmap-for-the-uk-letter-from-david-willetts-mp-to-dr-lionel-clarke"/>
     <title>Response to 'A synthetic biology roadmap for the UK': letter from David Willetts MP to Dr Lionel Clarke</title>
     <category>Publication</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Government’s response to the UK Synthetic Biology Roadmap Coordination Group’s recommendations for the future development of synthetic biology in the UK. Synthetic biology aims to design, engineer or replicate biological systems, for example biosynthetic insulin. This letter explains how the government is working to stimulate innovation, responsible commercial exploitation, economic growth and quality of life.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
@@ -294,7 +301,8 @@ This workshop is being organised by BIS and &lt;abbr title="HM Revenue &amp;amp;
     <updated>2012-12-11T16:30:20+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/vince-cable-promotes-uk-advanced-manufacturing"/>
     <title>Vince Cable promotes UK advanced manufacturing</title>
-    <category>News Article</category>
+    <category>News article</category>
+    <summary>On 5 November Vince Cable officially opened MIRA Technology Park's new control centre. He also visited Toyota in Burnaston to celebrate the first new Auris model to roll off the production line.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;8 Nov 2012&lt;/p&gt;
 
 &lt;hr&gt;&lt;hr&gt;&lt;h2 id="mira-technology-park"&gt;MIRA Technology Park&lt;/h2&gt;
@@ -352,6 +360,7 @@ This workshop is being organised by BIS and &lt;abbr title="HM Revenue &amp;amp;
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/e-science-and-e-infrastructure-needs-of-the-uk-life-sciences-industry"/>
     <title>E-science and e-infrastructure needs of the UK life sciences industry</title>
     <category>Publication</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Report for the E-Infrastructure Leadership Council (ELC) on the e-science and e-infrastructure requirements of the UK life sciences industry. Focuses on several scientific disiplines and makes recommendations for each, including investing in the UK skills base through better training.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
@@ -361,6 +370,7 @@ This workshop is being organised by BIS and &lt;abbr title="HM Revenue &amp;amp;
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/developing-e-infrastructure-in-the-uks-engineering-and-manufacturing-industries"/>
     <title>Developing e-infrastructure in the UK's engineering and manufacturing industries</title>
     <category>Publication</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Assesses the progress made by the UK engineering and manufacturing industries in the adoption, utilisation and exploitation of UK e-infrastructure. Highlights a number of significant barriers to that progress and makes recommendations to enable the removal or neutralisation of those barriers.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
 </feed>

@@ -8,13 +8,15 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-10-27T13:00:00+01:00</updated>
+  <updated>2012-10-15T14:33:04+01:00</updated>
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/14966</id>
     <published>2012-10-27T13:00:00+01:00</published>
-    <updated>2012-10-27T13:00:00+01:00</updated>
+    <updated>2012-10-15T14:33:04+01:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/rail-franchising"/>
     <title>Rail franchising</title>
+    <category>News article</category>
+    <summary>Stock market announcement by the Rt Hon Theresa Villiers MP, Minister of State for Transport.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;In May this year, the then Secretary of State announced that the next InterCity West Coast franchise would start on 9th December 2012. It was further announced that the department intended to enter into negotiations with the incumbent franchisee (West Coast Trains Ltd and Virgin Rail Group) to secure affordable and value for money operations until the start of the new franchise.&lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -32,10 +34,12 @@
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/15793</id>
-    <published>2012-09-03T00:00:00+01:00</published>
-    <updated>2012-09-03T00:00:00+01:00</updated>
+    <published>2012-09-03T01:00:00+01:00</published>
+    <updated>2012-10-22T15:09:28+01:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/speeches/rail-franchising--13"/>
     <title>Rail franchising</title>
+    <category>Statement to parliament</category>
+    <summary>Written statement by the Rt Hon Theresa Villiers MP, Minister of State for Transport.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;On the 15 August 2012 the Department for Transport announced to the London Stock Exchange that it intended to award the InterCity West Coast franchise to First West Coast Limited, a subsidiary of First Group.&lt;/p&gt;
 
 &lt;p&gt;Bids were received from Abellio InterCity West Coast Limited - NV Nederlandse Spoorwegen, First West Coast Limited - FirstGroup plc, Keolis/SNCF West Coast Limited - Keolis SA and SNCF, Virgin Trains Limited - Virgin Group Holdings Limited.&lt;/p&gt;
@@ -57,9 +61,11 @@
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/14873</id>
     <published>2012-08-15T00:00:00+01:00</published>
-    <updated>2012-08-15T00:00:00+01:00</updated>
+    <updated>2012-10-17T11:23:55+01:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/new-operator-for-west-coast-rail-passengers"/>
     <title>New operator for West Coast rail passengers</title>
+    <category>News article</category>
+    <summary>Rail passengers will benefit from improvements including more trains and more seats.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Rail passengers from London to Scotland will benefit from a package of improvements including more trains and more seats, as Rail Minister Theresa Villiers unveiled First West Coast Limited as the new operator for the ‘InterCity West Coast’ franchise.&lt;/p&gt;
 
 &lt;p&gt;As part of the deal First West Coast Limited will introduce 11 new six-car electric trains which will enable more seats to be provided across the franchise, including greater capacity on the Birmingham to Scotland route. New services are planned from Blackpool, Telford, Shrewsbury and Bolton to London. First West Coast Limited has also committed to cut the cost of its ‘Standard Anytime’ fares by an average of 15% within the first two years.&lt;/p&gt;
@@ -115,9 +121,11 @@ Public Enquiries: 0300 330 3000&lt;/p&gt;&lt;/div&gt;</content>
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/14867</id>
     <published>2012-07-27T00:00:00+01:00</published>
-    <updated>2012-07-27T00:00:00+01:00</updated>
+    <updated>2012-10-17T14:25:57+01:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/new-great-western-franchise-to-deliver-new-express-trains"/>
     <title>New Great Western franchise to deliver new express trains</title>
+    <category>News article</category>
+    <summary>The new 15 year Great Western franchise will see passengers benefit from new express trains, additional capacity and more.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The new 15 year Great Western franchise will see passengers benefit from new express trains, additional capacity, smart card ticketing and passenger satisfaction targets as part of proposals being put forward today by Rail Minister Theresa Villiers.&lt;/p&gt;
 
 &lt;p&gt;The number of train services required by the new franchise will be based broadly on the current timetable, rather than the contracted minimum in the existing franchise. The popular sleeper service to Penzance will be retained. An extra early, fast train from London to Plymouth will be introduced. This will achieve aspirations for a ‘there and back in a day’ service to Plymouth from the capital.&lt;/p&gt;
@@ -228,10 +236,12 @@ Public enquiries: 0300 330 3000&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/15532</id>
-    <published>2012-07-17T00:00:00+01:00</published>
-    <updated>2012-07-17T00:00:00+01:00</updated>
+    <published>2012-07-17T01:00:00+01:00</published>
+    <updated>2012-10-24T10:55:49+01:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/speeches/red-tape-challenge"/>
     <title>Red Tape Challenge</title>
+    <category>Statement to parliament</category>
+    <summary>Written statement by the Rt Hon Theresa Villiers MP, Minister of State for Transport.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Last November, the Department for Transport launched the rail transport theme of the Red Tape Challenge - part of the Cabinet Office’s project to review all of the outstanding regulations currently on the statute book. Following a rigorous process of challenge, stakeholder discussion and public consultation, I am now pleased to be able to announce the results.&lt;/p&gt;
 
 &lt;p&gt;The department put forward every secondary regulation relating to rail transportation for public discussion under the rail transport Red Tape Challenge. 198 of these were judged still to be live with a further 23 being identified as already “lapsed or spent”. Of these 221, I propose to scrap, merge, simplify, amend or improve 88 (40 per cent).&lt;/p&gt;
@@ -279,10 +289,12 @@ Public enquiries: 0300 330 3000&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/13685</id>
-    <published>2012-07-10T00:00:00+01:00</published>
-    <updated>2012-07-10T00:00:00+01:00</updated>
+    <published>2012-07-10T01:00:00+01:00</published>
+    <updated>2012-10-25T10:34:18+01:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/speeches/annual-update-on-crossrail"/>
     <title>Annual update on Crossrail</title>
+    <category>Statement to parliament</category>
+    <summary>Written statement by the Rt Hon Theresa Villiers MP, Minister of State for Transport.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Crossrail is now moving firmly into its construction phase. A number of significant milestones have been achieved in the last twelve months. The purpose built Tunneling and Underground Construction Academy was opened in East London last year and welcomed its first students in September 2011. Tunneling began in May, with the first tunnel boring machine launched at the Royal Oak Portal in west London. Construction contracts for Paddington, Farringdon, Whitechapel, Tottenham Court Road and Liverpool Street stations have been awarded. The Canary Wharf station box structure is now complete. The Invitation to Negotiate for the Crossrail Rolling Stock and Depot contract was launched by Crossrail Limited on 28 February, with the first round of tenders due to be returned during late summer.&lt;/p&gt;
 
 &lt;p&gt;To reduce the number of lorry movements, excavated material from Crossrail’s western tunnels has started to be transported directly from Royal Oak to Northfleet in Kent by rail. A former freight line from the North Kent Line has been completely reconstructed to enable freight train movements from London. Two-thirds of excavated material generated by tunnel, station and shafts construction will be taken to Northfleet and transferred by ship to create a new 1,500 acre nature reserve at Wallasea Island in Essex.&lt;/p&gt;
@@ -312,9 +324,11 @@ Public enquiries: 0300 330 3000&lt;/p&gt;&lt;/div&gt;</content>
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/14891</id>
     <published>2012-07-02T00:00:00+01:00</published>
-    <updated>2012-07-02T00:00:00+01:00</updated>
+    <updated>2012-10-15T19:58:11+01:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/new-rail-franchise-to-deliver-smart-card-tickets-and-encourage-investment-in-better-stations"/>
     <title>New rail franchise to deliver smart card tickets and encourage investment in better stations </title>
+    <category>News article</category>
+    <summary>Invitation to Tender (ITT) on the Essex Thameside franchise.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The new 15 year Essex Thameside franchise will see passengers benefit from the introduction of smart card ticketing and provide important opportunities for private sector investment in improving stations, under proposals being put forward by Rail Minister Theresa Villiers today.&lt;/p&gt;
 
 &lt;p&gt;The Government’s &lt;a rel="external" href="http://www.dft.gov.uk/publications/essex-thameside-franchise/"&gt;Invitation to Tender (ITT) published today for the new franchise&lt;/a&gt;, will also give bidders much more flexibility to develop their own train timetable to better suit passenger demand.&lt;/p&gt;
@@ -359,9 +373,11 @@ Public Enquiries: 0300 330 3000&lt;/p&gt;&lt;/div&gt;</content>
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/14961</id>
     <published>2012-06-28T00:00:00+01:00</published>
-    <updated>2012-06-28T00:00:00+01:00</updated>
+    <updated>2012-10-16T12:21:19+01:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/putting-aviation-red-tape-under-the-spotlight"/>
     <title>Putting aviation red tape under the spotlight</title>
+    <category>News article</category>
+    <summary>Passengers and the aviation industry are being given the chance to cut red tape to make life easier for passengers and boost business.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Passengers and the aviation industry are being given the &lt;a rel="external" href="http://www.redtapechallenge.cabinetoffice.gov.uk/home/index/"&gt;chance to cut red tape to make life easier for passengers and boost business.&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Aviation Minister Theresa Villiers is putting the spotlight on around 90 aviation regulations that have been placed on the Red Tape Challenge website today. The exercise gives people the opportunity to say whether they think that a regulation is well designed and provides vital protection or is badly designed, badly implemented or simply a bad idea.&lt;/p&gt;
@@ -438,9 +454,11 @@ Public Enquiries: 0300 330 3000&lt;/p&gt;&lt;/div&gt;</content>
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/14828</id>
     <published>2012-06-26T00:00:00+01:00</published>
-    <updated>2012-06-26T00:00:00+01:00</updated>
+    <updated>2012-10-16T18:47:18+01:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/intercity-east-coast-franchise-consultation-launched"/>
     <title>Intercity East Coast franchise consultation launched</title>
+    <category>News article</category>
+    <summary>Passengers who travel between London and Scotland via the North East and Yorkshire are on track to get a host of improvements to their services.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Rail passengers who travel between London and Scotland via the North East and Yorkshire are on track to get a host of improvements to their services, including a fleet of brand new trains and better stations.&lt;/p&gt;
 
 &lt;p&gt;Launching the InterCity East Coast franchise consultation today, Rail Minister Theresa Villiers invited passengers, local councils and anyone with an interest in improved services on the East Coast Main Line to send in their views on what they want from the next franchise.&lt;/p&gt;
@@ -482,9 +500,11 @@ Public Enquiries: 0300 330 3000&lt;/p&gt;&lt;/div&gt;</content>
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/14372</id>
     <published>2012-06-25T00:00:00+01:00</published>
-    <updated>2012-06-25T00:00:00+01:00</updated>
+    <updated>2012-10-16T18:54:29+01:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/warwick-parkway-extension-given-go-ahead"/>
     <title>Warwick Parkway extension given go ahead</title>
+    <category>News article</category>
+    <summary>Commuters are to benefit from extra car parking spaces at Warwick Parkway station thanks to a £1m government contribution. </summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Commuters are to benefit from extra car parking spaces at Warwick Parkway station thanks to a £1m government contribution to the investment to build a new multi-storey car park, Rail Minister Theresa Villiers announced today.&lt;/p&gt;
 
 &lt;p&gt;The substantial car park extension will boost capacity for passengers, increasing the current number of spaces to 959, from its current capacity of 737 spaces.&lt;/p&gt;

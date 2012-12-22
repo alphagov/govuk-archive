@@ -8,14 +8,15 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2011-11-10T00:00:00+00:00</updated>
+  <updated>2012-12-11T16:25:30+00:00</updated>
   <entry>
     <id>tag:www.gov.uk,2005:NewsArticle/18321</id>
     <published>2011-11-10T00:00:00+00:00</published>
     <updated>2012-12-11T16:25:30+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/regional-growth-fund-to-help-small-businesses"/>
     <title>Regional Growth Fund to help small businesses</title>
-    <category>News Article</category>
+    <category>News article</category>
+    <summary>Hundreds of small businesses will benefit from government investment of £95 million to help boost growth and rebalance the economy.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The funding is expected to create at least 4,000 jobs and unlock around £500 million of new investment by small and medium businesses (SMEs).   &lt;/p&gt;
 
 &lt;p&gt;RBS, NatWest and HSBC have agreed to facilitate the distribution of the £95 million - which is part of the government’s Regional Growth Fund. RBS and NatWest will facilitate £70 million and HSBC will facilitate £25 million. The banks will not profit financially from the administration of these schemes.   &lt;/p&gt;
@@ -57,7 +58,8 @@ The banks will not earn any fees to administer the scheme. Interest earned on an
     <updated>2012-12-11T16:25:30+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/new-measures-announced-to-boost-british-business"/>
     <title>New measures announced to boost British business</title>
-    <category>News Article</category>
+    <category>News article</category>
+    <summary>Government announces new measures to help small businesses grow and create jobs, export to new markets, secure finance and cut red tape.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Prime Minister David Cameron announced the the business growth package at the ‘Exporting for Growth’ and Fitness Finance conference that will benefit hundreds of small businesses. They include:&lt;/p&gt;
 
 &lt;ul&gt;
@@ -108,7 +110,8 @@ The banks will not earn any fees to administer the scheme. Interest earned on an
     <updated>2012-12-11T16:25:26+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/950-million-investment-to-boost-local-economies-and-jobs"/>
     <title>£950 million investment to boost local economies and jobs</title>
-    <category>News Article</category>
+    <category>News article</category>
+    <summary>The second round of the Government's Regional Growth Fund will help create and safeguard more than 200,000 jobs across England.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;On 31 October Deputy Prime Minister Nick Clegg announced &lt;a rel="external" href="http://www.bis.gov.uk//policies/economic-development/regional-growth-fund"&gt;the successful bids for the second round of the Government’s £1.4 billion Regional Growth Fund (RGF).&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;It will support 119 bids from businesses and local partnerships with projects to expand their operations, create new jobs and attract private investment. Discussions are ongoing with a further 10 bidders about their projects. &lt;/p&gt;
@@ -155,7 +158,8 @@ The banks will not earn any fees to administer the scheme. Interest earned on an
     <updated>2012-12-11T16:25:27+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/huddersfield-factory-gears-up-for-green-growth"/>
     <title>Huddersfield factory gears up for green growth</title>
-    <category>News Article</category>
+    <category>News article</category>
+    <summary>Nick Clegg and Vince Cable announce £4.8 million of Regional Growth Funding for local businesses.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Huddersfield business David Brown Gear Systems has successfully secured £4.8 million of private sector and government funding from the &lt;a rel="external" href="http://www.bis.gov.uk//policies/economic-development/regional-growth-fund"&gt;Regional Growth Fund,&lt;/a&gt; Deputy Prime Minister Nick Clegg and Business Secretary Vince Cable announced during a visit to the business today. &lt;/p&gt;
 
 &lt;p&gt;The funding will help create around 80 new jobs at the David Brown factory thanks to the funding programme which sees government and the private sector working together to boost regional growth.&lt;/p&gt;
@@ -200,7 +204,8 @@ The banks will not earn any fees to administer the scheme. Interest earned on an
     <updated>2012-12-11T16:25:22+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/judging-starts-on-regional-growth-fund-bids"/>
     <title>Judging starts on Regional Growth Fund bids</title>
-    <category>News Article</category>
+    <category>News article</category>
+    <summary>BIS has received more than 490 bids competing for a share of £950 million from round 2 of the Regional Growth Fund.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;These bids were received in response to the second round of the &lt;a rel="external" href="http://www.bis.gov.uk/policies/economic-development/regional-growth-fund"&gt;£1.4 billion fund,&lt;/a&gt; which is designed to encourage enterprise, growth and jobs in the private sector and support regions that are dependent on the public sector. The bids will compete for a share of £950 million. &lt;/p&gt;
 
 &lt;p&gt;&lt;a rel="external" href="http://www.bis.gov.uk//policies/economic-development/regional-growth-fund/successful-projects-list"&gt;Further details on regional spread and total value of the bids&lt;/a&gt;.   &lt;/p&gt;
@@ -235,7 +240,8 @@ The banks will not earn any fees to administer the scheme. Interest earned on an
     <updated>2012-12-11T16:25:17+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/local-growth-moves-up-a-gear"/>
     <title>Local growth moves up a gear</title>
-    <category>News Article</category>
+    <category>News article</category>
+    <summary>New measures to help local enterprise partnerships and further roadshows for the Regional Growth Fund.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Business Minister Mark Prisk has stepped up the drive to stimulate local economic growth, announcing a package with three measures to help &lt;a rel="external" href="http://www.bis.gov.uk//policies/economic-development/leps"&gt;local enterprise partnerships&lt;/a&gt; get up and running. He also met for the first time the South East Midlands local enterprise partnership.&lt;/p&gt;
 
 &lt;p&gt;Lord Heseltine also kicked off a series of road shows on Thursday 12 March to promote the second round of the Regional Growth Fund and encourage bidders to compete for a share of £950m.  &lt;/p&gt;
@@ -314,7 +320,8 @@ Mark Prisk met with the &lt;a rel="external" href="http://www.southeastmidlands.
     <updated>2012-12-11T16:25:16+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/450m-investment-for-regional-jobs-and-growth"/>
     <title>£450M investment for regional jobs and growth</title>
-    <category>News Article</category>
+    <category>News article</category>
+    <summary>The first round of the Regional Growth Fund (RGF) sees £450 million invested in businesses across Britain.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The first round of the &lt;a rel="external" href="http://www.bis.gov.uk//policies/economic-development/regional-growth-fund"&gt;Regional Growth Fund (RGF) &lt;/a&gt;will see more public investment support 50 bids by companies and partnerships across Britain.&lt;/p&gt;
 
 &lt;p&gt;They demonstrated how they would create jobs and a high level of economic growth in their local communities over the coming years.&lt;/p&gt;
@@ -358,7 +365,8 @@ Mark Prisk met with the &lt;a rel="external" href="http://www.southeastmidlands.
     <updated>2012-12-11T16:25:03+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/new-plan-for-local-growth"/>
     <title>New plan for local growth</title>
-    <category>News Article</category>
+    <category>News article</category>
+    <summary>Government has announced new plans to kick start local growth</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Please note that there are now 39 Local Enterprise partnerships. See &lt;a rel="external" href="http://www.bis.gov.uk//policies/economic-development/leps/statistics"&gt;LEPs: Coverage and statistics&lt;/a&gt; for details&lt;/p&gt;
 
 &lt;hr&gt;&lt;p&gt;The White Paper published today sets out the Government’s role in empowering locally driven growth, encouraging business investment and promoting economic development. For local communities this means ensuring that everyone has access to opportunities that growth brings and everyone is able to fulfil their potential. &lt;/p&gt;
@@ -422,7 +430,8 @@ Mark Prisk met with the &lt;a rel="external" href="http://www.southeastmidlands.
     <updated>2012-12-11T16:24:54+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/budget-creates-conditions-for-enterprise-and-growth"/>
     <title>Budget creates conditions for enterprise and growth</title>
-    <category>News Article</category>
+    <category>News article</category>
+    <summary>The Chancellor of the Exchequer has set out his Budget with a comprehensive five-year plan to rebuild the British economy.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The plan sets out action to tackle the unprecedented budget deficit, introduce a fairer tax system, encourage enterprise and support long-term growth across the economy.   &lt;/p&gt;
 
 &lt;p&gt;The Chancellor wants to support business and make the UK more competitive. This means giving businesses more freedom by reducing regulation and providing targeted tax breaks, while ensuring that the economic opportunities for businesses are shared more evenly throughout the UK’s regions.   &lt;/p&gt;

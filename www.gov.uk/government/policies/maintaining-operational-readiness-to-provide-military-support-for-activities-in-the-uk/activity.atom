@@ -8,14 +8,16 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-12-20T12:25:00+00:00</updated>
+  <updated>2012-12-20T12:25:01+00:00</updated>
   <entry>
     <id>tag:www.gov.uk,2005:NewsArticle/60241</id>
     <published>2012-12-20T12:25:00+00:00</published>
     <updated>2012-12-20T12:25:01+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/mod-awards-258-million-sea-king-helicopter-support-contract"/>
     <title>MOD awards £258 million Sea King helicopter support contract</title>
-    <category>News Article</category>
+    <category>News article</category>
+    <summary>The MOD has agreed a £258 million contract to support Sea King helicopters, which will sustain 500 jobs across the UK.
+</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The &lt;a rel="external" href="http://www.royalnavy.mod.uk/" title="Royal Navy"&gt;Royal Navy&lt;/a&gt; and &lt;a rel="external" href="http://www.raf.mod.uk/" title="Royal Air Force"&gt;Royal Air Force&lt;/a&gt; fleets of &lt;a rel="external" href="http://www.royalnavy.mod.uk/The-Fleet/Aircraft/Helicopters/Sea-King-Mk5" title="Sea King Mk5"&gt;Sea Kings&lt;/a&gt; are best known for providing &lt;a rel="external" href="http://www.royalnavy.mod.uk/Operations/Enduring-Operations/UK/Search-and-Rescue" title="Search and Rescue"&gt;Search and Rescue&lt;/a&gt; (&lt;abbr title="Search and Rescue"&gt;SAR&lt;/abbr&gt;) services in the UK and Falkland Islands. They can also be used to carry troops and provide airborne surveillance. &lt;/p&gt;
 
 &lt;p&gt;This extension to the Sea King Integrated Operational Support (&lt;abbr title="Sea King Integrated Operational Support"&gt;SKIOS&lt;/abbr&gt;) contract will ensure continued technical and maintenance support for the 90-strong helicopter fleet for the next 3 years.&lt;/p&gt;
@@ -43,7 +45,8 @@
     <updated>2012-12-18T15:49:18+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/christmas-joy-for-old-soldier-who-finally-got-his-medal"/>
     <title>Christmas joy for old soldier who finally got his medal</title>
-    <category>News Article</category>
+    <category>News article</category>
+    <summary>A former soldier from Lancashire has received the only service medal he was ever entitled to… 42 years late</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Army veteran Joe McKenna, 72, who volunteers at the &lt;a rel="external" href="http://www.lancashireinfantrymuseum.org.uk/" title="Duke of Lancaster's Regiment Lancashire Infantry Museum"&gt;Duke of Lancaster’s Regiment Lancashire Infantry Museum&lt;/a&gt; in Preston, left the military in 1970 just months before his Northern Ireland service medal was minted and eventually decided to track down his medal after years of attending parades where he was the only veteran not wearing one.&lt;/p&gt;
 
 &lt;p&gt;Sergeant Major Bob Dixon, from 2 Medical Regiment and a fellow volunteer at the museum, offered to help Joe claim his honour. Sergeant Major Dixon said: &lt;/p&gt;
@@ -85,7 +88,8 @@
     <updated>2012-12-17T16:30:33+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/raf-brize-norton-counting-down-to-christmas"/>
     <title>RAF Brize Norton counting down to Christmas</title>
-    <category>News Article</category>
+    <category>News article</category>
+    <summary>As people tuck into Christmas dinner, it will be business as usual for RAF personnel deployed overseas or at RAF stations across the UK.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Here we take a closer look at how &lt;a rel="external" href="http://www.raf.mod.uk/rafbrizenorton/" title="RAF Brize Norton"&gt;RAF Brize Norton&lt;/a&gt; in Oxfordshire prepares for the festive season.&lt;/p&gt;
 
 &lt;h3 id="the-boss"&gt;The boss&lt;/h3&gt;
@@ -210,7 +214,8 @@
     <updated>2012-12-17T11:14:32+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/hms-portland-sets-sail-after-27-million-refit"/>
     <title>HMS Portland sets sail after £27 million refit</title>
-    <category>News Article</category>
+    <category>News article</category>
+    <summary>HMS Portland is on her way to Plymouth after a £27 million 50-week refit at Rosyth dockyard in Fife, Scotland.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;With more than 260,000 man-hours invested in the almost year-long project, the 133-metre &lt;a rel="external" href="http://www.royalnavy.mod.uk/The-Fleet/Ships/Frigates/HMS-Portland" title="HMS Portland"&gt;HMS Portland&lt;/a&gt; has returned to sea bristling with the latest high-tech equipment, maintaining its role at the cutting-edge of the &lt;a rel="external" href="http://www.royalnavy.mod.uk/" title="Royal Navy"&gt;Royal Navy&lt;/a&gt; fleet.&lt;/p&gt;
 
 &lt;p&gt;A total of 19 major system and capability upgrades have been undertaken on the &lt;a rel="external" href="http://www.royalnavy.mod.uk/The-Fleet/Ships/Frigates" title="Type 23 frigates"&gt;Type 23 frigate&lt;/a&gt;, including the installation of new anti-submarine warfare sonar, full upgrade of the ship’s computer systems, an overhaul of the &lt;a rel="external" href="http://www.royalnavy.mod.uk/The-Fleet/Ships/Weapons-Systems/Seawolf" title="Seawolf"&gt;Seawolf&lt;/a&gt; missile system, replacement of guns, refurbishment of the galley and upgrades of accommodation.&lt;/p&gt;
@@ -248,7 +253,8 @@
     <updated>2012-12-14T12:31:42+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/19th-regiment-royal-artillery-becomes-the-scottish-gunners"/>
     <title>19th Regiment Royal Artillery becomes The Scottish Gunners</title>
-    <category>News Article</category>
+    <category>News article</category>
+    <summary>19th Regiment Royal Artillery (The Highland Gunners) has marked its change of name to The Scottish Gunners with a parade.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;&lt;a rel="external" href="http://www.army.mod.uk/artillery/regiments/24667.aspx" title="The Highland Gunners"&gt;19th Regiment Royal Artillery&lt;/a&gt; (&lt;abbr title="19th Regiment Royal Artillery"&gt;19 Regt RA&lt;/abbr&gt;) has become The Scottish Gunners as a result of 40th Regiment Royal Artillery (The Lowland Gunners) being put into suspended animation as part of the Army 2020 restructuring process. In addition, 38 (Seringapatam) Battery has been subordinated to &lt;abbr title="19th Regiment Royal Artillery"&gt;19 Regt RA&lt;/abbr&gt;. &lt;/p&gt;
 
 &lt;p&gt;As the only Scottish Artillery Regiment remaining, &lt;abbr title="19th Regiment Royal Artillery"&gt;19 Regt RA&lt;/abbr&gt; becomes The Scottish Gunners in order to continue the proud heritage of both the Highland and Lowland Gunners and retain its links with Scotland. &lt;/p&gt;
@@ -319,7 +325,8 @@
     <updated>2012-12-12T20:18:16+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/65m-contract-to-refit-royal-navys-largest-warship-secures-hundreds-of-uk-jobs"/>
     <title>£65 million contract to refit HMS Ocean</title>
-    <category>News Article</category>
+    <category>News article</category>
+    <summary>HMS Ocean, the Royal Navy's largest warship, will receive a £65 million upgrade, securing more than 600 UK jobs.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The warship was moored on the Thames during the London 2012 Olympic Games and provided essential security support and a home for hundreds of military personnel responsible for venue security.&lt;/p&gt;
 
 &lt;p&gt;Her upgrade will be carried out at Devonport Royal Dockyard in Plymouth and will be the largest upkeep programme of its kind to be carried out at the docks in more than 20 years.&lt;/p&gt;
@@ -357,7 +364,8 @@
     <updated>2012-12-08T12:16:58+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/royal-marines-storm-former-cold-war-base"/>
     <title>Royal Marines storm former Cold War base</title>
-    <category>News Article</category>
+    <category>News article</category>
+    <summary>Royal Marines and Albanian forces recently joined together for an assault on an abandoned Soviet submarine base as part of Exercise Albanian Lion.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Using a scenario based around a hostile occupying force, the Royal Marines from the Lead Commando Group (&lt;abbr title="Lead Commando Group"&gt;LCG&lt;/abbr&gt;) joined up with their Albanian counterparts to practise their training for contingent operations as part of Royal Navy exercise Cougar 12.&lt;/p&gt;
 
 &lt;p&gt;Under the cover of smoke grenades, the combined forces quickly pounced on the ‘enemy’ lurking in the old submarine base on Sazan Island, taking them by surprise and then fighting their way through a complex labyrinth of bunkers and buildings.&lt;/p&gt;
@@ -401,7 +409,8 @@
     <updated>2012-12-10T09:28:58+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/new-fleet-of-rfa-tankers-named"/>
     <title>New fleet of RFA tankers named</title>
-    <category>News Article</category>
+    <category>News article</category>
+    <summary>Four new Royal Fleet Auxiliary (RFA) tankers, which will be bought as part of the Military Afloat Reach and Sustainability (MARS) programme, will be called the Tide Class.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The 37,000-tonne ships will come into service from 2016 to replace the RFA’s single-hulled tankers, and will maintain the Royal Navy’s dedicated bulk fuel replenishment at sea capabilities.&lt;/p&gt;
 
 &lt;p&gt;The 200-metre long tankers will also be able to carry helicopters and will support Royal Navy warships deployed around the world.&lt;/p&gt;
@@ -450,6 +459,7 @@
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/speeches/2012-11-01-air-power-partnership-in-the-21st-century"/>
     <title>2012/11/01 - Air Power: Partnership in the 21st Century</title>
     <category>Speech</category>
+    <summary>Speech delivered by Secretary of State for Defence at the Royal United Services Institute Air Power Conference, Church House, Dean's Yard, Westminster on Thursday 1 November 2012.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="introduction"&gt;Introduction&lt;/h2&gt;
 
 &lt;p&gt;101 years ago today, on the first of November 1911, an Italian pilot threw four hand-held bombs out of a plane, from all of 600 feet, on Ottoman positions in what is now part of modern day Libya.&lt;/p&gt;
@@ -746,7 +756,8 @@
     <updated>2012-12-10T09:26:38+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/mod-fuel-depot-emergency-exercise-declared-success"/>
     <title>MOD fuel depot emergency exercise declared success</title>
-    <category>News Article</category>
+    <category>News article</category>
+    <summary>The River Tamar in Cornwall was busier than normal recently, with tugs, barges and other vessels simulating an oil spill from a fuel depot.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The activity was all part of the MOD-led exercise to rehearse its emergency plans in the event of a spill from the Thanckes oil depot at Torpoint opposite HM Naval Base Devonport.&lt;/p&gt;
 
 &lt;p&gt;The exercise scenario involves a simulated fuel release from a split hose at the depot (run by the Oil and Pipelines Agency) that refuels Royal Navy, Royal Fleet Auxiliary and other vessels.&lt;/p&gt;

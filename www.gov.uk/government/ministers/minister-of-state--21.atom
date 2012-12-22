@@ -8,13 +8,15 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-09-26T01:00:00+01:00</updated>
+  <updated>2012-12-11T16:19:47+00:00</updated>
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/27432</id>
     <published>2012-09-26T01:00:00+01:00</published>
-    <updated>2012-09-26T01:00:00+01:00</updated>
+    <updated>2012-12-11T16:19:47+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/foreign-office-minister-visits-colombia"/>
     <title>Foreign Office Minister visits Colombia</title>
+    <category>News article</category>
+    <summary>Minister for Latin America Jeremy Browne discussed trade, security, prosperity and improved bilateral relations when he met the President of Colombia Juan Manuel Santos in Bogotá.</summary>
     <content type="html">&lt;div class="govspeak"&gt;
 &lt;h3 id="fco-on-flickr"&gt;FCO on Flickr&lt;/h3&gt;
 
@@ -33,9 +35,11 @@
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/26867</id>
     <published>2012-09-25T01:00:00+01:00</published>
-    <updated>2012-09-25T01:00:00+01:00</updated>
+    <updated>2012-12-11T16:18:25+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/closer-ties-between-uk-and-new-zealand-on-science-and-innovation"/>
     <title>Closer ties between UK and New Zealand on science and innovation</title>
+    <category>News article</category>
+    <summary>Foreign Office Minister Jeremy Browne and Science and Innovation Minister Dr Mapp have given support for a New Zealand-United Kingdom Science and Innovation Working Group to be set up.</summary>
     <content type="html">&lt;div class="govspeak"&gt;
 &lt;h3 id="fco-on-flickr"&gt;FCO on Flickr&lt;/h3&gt;
 

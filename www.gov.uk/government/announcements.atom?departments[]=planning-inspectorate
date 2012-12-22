@@ -8,13 +8,15 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-11-14T13:51:00+00:00</updated>
+  <updated>2012-11-14T13:51:59+00:00</updated>
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/16047</id>
     <published>2012-11-14T13:51:00+00:00</published>
-    <updated>2012-11-14T13:51:00+00:00</updated>
+    <updated>2012-11-14T13:51:59+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/the-new-home-on-the-web-for-dft-and-dclg"/>
     <title>The new home on the web for DFT and DCLG</title>
+    <category>News article</category>
+    <summary>GOV.UK is the new place for corporate and policy information from the Department for Transport and Department for Communities and Local Government</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Department for Transport (&lt;abbr title="Department for Transport"&gt;DFT&lt;/abbr&gt;) and the Department for Communities and Local Government (&lt;abbr title="Department for Communities and Local Government"&gt;DCLG&lt;/abbr&gt;), along with 3 of their public bodies, have today (15 November, 2012) become the first central government organisations to move their corporate and policy content onto the new GOV.UK website - the new single home for all government services and information.&lt;/p&gt;
 
 &lt;p&gt;The Inside Government section on GOV.UK makes it simpler, clearer and faster to find out:&lt;/p&gt;
@@ -67,9 +69,11 @@
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/16040</id>
     <published>2012-10-26T01:00:00+01:00</published>
-    <updated>2012-10-26T01:00:00+01:00</updated>
+    <updated>2012-11-14T12:41:13+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/planning-inspectorate-essential-to-new-planning-measures"/>
     <title>Planning Inspectorate essential to new planning measures</title>
+    <category>News article</category>
+    <summary>Planning minister sees first hand how the Planning Inspectorate is playing a vital role in new reforms and improvements of the planning system.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The government recently announced a number of new measures in the &lt;a rel="external" href="http://services.parliament.uk/bills/2012-13/growthandinfrastructure.html"&gt;Growth and Infrastructure Bill&lt;/a&gt; to reduce confusing and overlapping red tape that delays and discourages business investment, new infrastructure and job creation.&lt;/p&gt;
 
 &lt;p&gt;Mr Boles said:&lt;/p&gt;
@@ -83,9 +87,11 @@
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/16038</id>
     <published>2011-09-06T00:00:00+01:00</published>
-    <updated>2011-09-06T00:00:00+01:00</updated>
+    <updated>2012-11-14T12:30:26+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/response-to-daily-telegraph-article-about-guidance-issued-by-the-planning-inspectorate-on-our-draft-planning-reforms"/>
     <title>Response to Daily Telegraph article about guidance issued by the Planning Inspectorate on draft planning reforms</title>
+    <category>News article</category>
+    <summary>Statements from DCLG and the Planning Inspectorate.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;A spokesperson for the Department for Communities and Local Government said:&lt;/p&gt;
 
 &lt;p&gt;“The Department did not instruct the Planning Inspectorate to issue guidance about the draft National Planning Policy Framework.&lt;/p&gt;

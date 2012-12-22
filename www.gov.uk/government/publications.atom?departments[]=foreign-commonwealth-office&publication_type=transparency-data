@@ -8,29 +8,35 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-12-20T00:00:00+00:00</updated>
+  <updated>2012-12-20T14:34:51+00:00</updated>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/60184</id>
     <published>2012-12-20T00:00:00+00:00</published>
-    <updated>2012-12-20T00:00:00+00:00</updated>
+    <updated>2012-12-20T14:34:51+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/government-procurement-card-data"/>
     <title>Government procurement card data</title>
+    <category>Publication</category>
+    <summary>Foreign &amp; Commonwealth Office information on government procurement cards</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Details of the Foreign &amp;amp; Commonwealth Office’s (FCO’s) information on government procurement cards are attached.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60065</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60292</id>
     <published>2012-12-20T00:00:00+00:00</published>
-    <updated>2012-12-20T00:00:00+00:00</updated>
+    <updated>2012-12-20T10:00:52+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/ncpprp-bonus-data-for-the-reporting-year-2011-12"/>
-    <title>NCPPRP (bonus) data for the reporting year 2011/12</title>
+    <title>NCPRP data for the reporting year 2011/12</title>
+    <category>Publication</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Non-consolidated performance related pay for the Foreign &amp;amp; Commonwealth Office and FCO Services for performance year 2011/2012&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/60264</id>
     <published>2012-12-20T00:00:00+00:00</published>
-    <updated>2012-12-20T00:00:00+00:00</updated>
+    <updated>2012-12-20T17:03:48+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/foreign-office-spend-over-25-000-for-september-2012"/>
     <title>Foreign Office Spend over £25,000 for September 2012</title>
+    <category>Publication</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Coalition Government is committed to publishing departmental spend over £25,000 as part of its commitment to transparency and open government.&lt;/p&gt;
 
 &lt;p&gt;This is the Foreign Office spend in the UK for transactions totalling over £25,000 published by month. We have published our spend in line with Cabinet Office guidelines which allow for data protection of individuals and security constraints.&lt;/p&gt;&lt;/div&gt;</content>
@@ -38,19 +44,23 @@
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/60262</id>
     <published>2012-11-20T00:00:00+00:00</published>
-    <updated>2012-11-20T00:00:00+00:00</updated>
+    <updated>2012-12-20T16:57:38+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/foreign-office-spend-over-25-000-for-august-2012"/>
     <title>Foreign Office Spend over £25,000 for August 2012</title>
+    <category>Publication</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Coalition Government is committed to publishing departmental spend over £25,000 as part of its commitment to transparency and open government.&lt;/p&gt;
 
 &lt;p&gt;This is the Foreign Office spend in the UK for transactions totalling over £25,000 published by month. We have published our spend in line with Cabinet Office guidelines which allow for data protection of individuals and security constraints.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/55263</id>
-    <published>2012-10-01T00:00:00+01:00</published>
-    <updated>2012-10-01T00:00:00+01:00</updated>
+    <published>2012-10-01T01:00:00+01:00</published>
+    <updated>2012-12-11T16:24:40+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/exceptions-data"/>
     <title>Exceptions data</title>
+    <category>Publication</category>
+    <summary>Spending that is exempt from public sector moratoria set out in the spending review.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The coalition government has put in place measures to constrain spending. Government departments have been asked to limit their expenditure in five areas. These are:&lt;/p&gt;
 
 &lt;ul&gt;
@@ -63,20 +73,25 @@
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/55685</id>
-    <published>2012-09-08T00:00:00+01:00</published>
-    <updated>2012-09-08T00:00:00+01:00</updated>
+    <published>2012-09-08T01:00:00+01:00</published>
+    <updated>2012-12-12T19:06:53+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/spending-data"/>
     <title>Spending data</title>
+    <category>Publication</category>
+    <summary>Foreign &amp; Commonwealth Office (FCO) spend in the UK for transactions 
+totalling over £25,000 published by month</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Coalition Government is committed to publishing departmental spend over £25,000 as part of its commitment to transparency and open government.&lt;/p&gt;
 
 &lt;p&gt;Attached are details of the Foreign Office spend in the UK for transactions totalling over £25,000 published by month. This information is published in line with Cabinet Office guidelines which allow for data protection of individuals and security constraints.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/55682</id>
-    <published>2012-07-23T00:00:00+01:00</published>
-    <updated>2012-07-23T00:00:00+01:00</updated>
+    <published>2012-07-23T01:00:00+01:00</published>
+    <updated>2012-12-12T19:26:47+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/ministerial-quarterly-returns-hospitality-gifts-overseas-travel-and-meetings-with-external-organisations"/>
     <title>Ministerial quarterly returns: hospitality, gifts, overseas travel and meetings with external organisations</title>
+    <category>Publication</category>
+    <summary>Foreign &amp; Commonwealth Office (FCO) ministers' details of gifts given and received, meetings with suppliers and overseas travel that's part of their official duties.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;These documents summarise:&lt;/p&gt;
 
 &lt;ul&gt;
@@ -88,30 +103,36 @@
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/55683</id>
-    <published>2012-07-12T00:00:00+01:00</published>
-    <updated>2012-07-12T00:00:00+01:00</updated>
+    <published>2012-07-12T01:00:00+01:00</published>
+    <updated>2012-12-12T19:30:05+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/special-advisors-quarterly-returns-hospitality-and-gifts"/>
     <title>Special advisors' quarterly returns: hospitality and gifts</title>
+    <category>Publication</category>
+    <summary>Foreign &amp; Commonwealth Office (FCO) special advisors' details of hospitality and gifts given and received.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;As part of our commitment to openness, we have published information on ministers’  hospitality, gifts, meetings and overseas travel. We have also published information on hospitality and gifts received by special advisers and the FCO’s Permanent Under Secretary.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href="https://www.gov.uk/government/publications/data-set-of-quarterly-returns-by-ministers-special-advisers-and-the-permanent-under-secretary"&gt;You can access this data in spreadsheet format (CSV files)&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/55684</id>
-    <published>2012-07-12T00:00:00+01:00</published>
-    <updated>2012-07-12T00:00:00+01:00</updated>
+    <published>2012-07-12T01:00:00+01:00</published>
+    <updated>2012-12-12T19:33:47+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/permanent-under-secretary-quarterly-returns-hospitality-and-gifts"/>
     <title>Permanent Under Secretary quarterly returns: hospitality and gifts</title>
+    <category>Publication</category>
+    <summary>Foreign &amp; Commonwealth Office (FCO) Permanent Under Secretary of State's details of hospitality and gifts given and received.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;As part of our commitment to openness, we have published information on ministers’ hospitality, gifts, meetings and overseas travel. We have also published information on hospitality and gifts received by special advisers and the FCO’s Permanent Under Secretary.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href="https://www.gov.uk/government/publications/data-set-of-quarterly-returns-by-ministers-special-advisers-and-the-permanent-under-secretary"&gt;You can access this data in spreadsheet format (CSV files)&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/54875</id>
-    <published>2012-06-30T00:00:00+01:00</published>
-    <updated>2012-06-30T00:00:00+01:00</updated>
+    <published>2012-06-30T01:00:00+01:00</published>
+    <updated>2012-12-12T19:14:22+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/data-set-of-quarterly-returns-by-ministers-special-advisers-and-the-permanent-under-secretary"/>
     <title>Data set of quarterly returns by ministers, special advisers and the Permanent Under Secretary</title>
+    <category>Publication</category>
+    <summary>CSV files of quarterly returns by ministers, special advisers and the Permanent Under Secretary for hospitality, gifts, meetings and overseas travel. </summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;As part of the Foreign &amp;amp; Commonwealth Office’s (&lt;abbr title="Foreign &amp;amp; Commonwealth Office"&gt;FCO&lt;/abbr&gt;) commitment to openness, we have published information on 
 ministers’  hospitality, gifts, meetings and overseas travel. We have also published information on hospitality and gifts received by special advisers and the &lt;abbr title="Foreign &amp;amp; Commonwealth Office"&gt;FCO&lt;/abbr&gt;’s Permanent Under Secretary. &lt;/p&gt;
 
@@ -119,18 +140,32 @@ ministers’  hospitality, gifts, meetings and overseas travel. We have also pub
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/55470</id>
-    <published>2012-03-31T00:00:00+01:00</published>
-    <updated>2012-03-31T00:00:00+01:00</updated>
+    <published>2012-03-31T01:00:00+01:00</published>
+    <updated>2012-12-11T16:24:29+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/fco-senior-staff-expenses-and-hospitality"/>
     <title>Senior staff quarterly returns: business and travel expenses </title>
+    <category>Publication</category>
+    <summary>Business and travel expenses for FCO's senior London-based staff</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;As part of its commitment to openness, the Foreign &amp;amp; Commonwealth Office has published the business expenses and hospitality of its senior London-based staff. The expenses and hospitality listed result from their official activities and are subject to detailed Cabinet Office and internal guidance and regular audit.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/59967</id>
+    <published>2012-02-10T00:00:00+00:00</published>
+    <updated>2012-12-11T16:24:29+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/equality-report-2012"/>
+    <title>Equality Report 2012</title>
+    <category>Publication</category>
+    <summary>The Equality Report is part of the Foreign &amp; Commonwealth Office’s (FCO) response to the Equality Act and offers available data on the equality impact of the FCO’s employment practices and activities.</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Equality Report is part of the Foreign &amp;amp; Commonwealth Office’s (FCO) response to the Equality Act and offers available data on the equality impact of the FCO’s employment practices and activities.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/55671</id>
     <published>2012-01-31T00:00:00+00:00</published>
-    <updated>2012-01-31T00:00:00+00:00</updated>
+    <updated>2012-12-11T16:24:40+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/tax-arrangements-of-public-sector-appointees"/>
     <title>Tax arrangements of public sector appointees</title>
+    <category>Publication</category>
+    <summary>Tax arrangements disclosed for transparency in government.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Coalition Government has committed to making clear to the public how it uses taxpayers’ money. All government departments have been asked to publish a wide range of information about how it meets and measures its objectives and the use of resources.&lt;/p&gt;
 
 &lt;p&gt;The FCO already publishes some data on its people, buildings and money, including in our annual public accounts and in response to Freedom of Information (FOI) requests.&lt;/p&gt;&lt;/div&gt;</content>
@@ -138,9 +173,11 @@ ministers’  hospitality, gifts, meetings and overseas travel. We have also pub
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/55639</id>
     <published>2012-01-01T00:00:00+00:00</published>
-    <updated>2012-01-01T00:00:00+00:00</updated>
+    <updated>2012-12-11T16:34:18+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/consular-services"/>
     <title>Consular services</title>
+    <category>Publication</category>
+    <summary>The FCO's Customer Charter sets out it's commitment to providing a high level of service and details what it needs from you in return.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Helping British nationals in difficulty overseas is a vital part of 
 the work of the Foreign &amp;amp; Commonwealth Office (&lt;abbr title="Foreign &amp;amp; Commonwealth Office"&gt;FCO&lt;/abbr&gt;). We provide 
 advice and assistance and support to British nationals travelling 
@@ -155,35 +192,43 @@ Our Customer Charter sets out our commitment to providing a high level of servic
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/55353</id>
     <published>2012-01-01T00:00:00+00:00</published>
-    <updated>2012-01-01T00:00:00+00:00</updated>
+    <updated>2012-12-11T16:24:28+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/the-foreign-commonwealth-office"/>
     <title>The Foreign &amp; Commonwealth Office: who we are, what we do and how we're organised</title>
+    <category>Publication</category>
+    <summary>Details of what the FCO aims to achieve: FCO properties in the UK and overseas; consular work; information technology; protocol and human resources.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Details of what the FCO aims to achieve: FCO properties in the UK and overseas; consular work; information technology; protocol and human resources.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/55661</id>
     <published>2011-11-01T00:00:00+00:00</published>
-    <updated>2011-11-01T00:00:00+00:00</updated>
+    <updated>2012-12-12T19:33:21+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/foreign-office-staff-and-salary-data"/>
     <title>FCO staff and salary data</title>
+    <category>Publication</category>
+    <summary>Salary information and data for senior and junior Foreign &amp; Commonwealth Office staff in London.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The coalition government has committed to making clear to the public how it uses taxpayers’ money. All government departments have been asked to publish a wide range of information about how it meets and measures its objectives and the use of resources. The Foreign &amp;amp; Commonwealth Office already publishes some data on its people, buildings and money, including in our annual public accounts and in response to Freedom of Information (FOI) requests. &lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/54878</id>
     <published>2011-11-01T00:00:00+00:00</published>
-    <updated>2011-11-01T00:00:00+00:00</updated>
+    <updated>2012-12-12T19:14:46+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/non-consolidated-performance-related-pay-2010-to-2011"/>
     <title>Non consolidated performance related pay, 2010 to 2011</title>
+    <category>Publication</category>
+    <summary>Non consolidated performance related pay for the Foreign &amp; Commonwealth Office and FCO Services, fitting to prescribed template.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The coalition government has committed to making clear to the public how it uses taxpayers’ money. All government departments have been asked to publish a wide range of information about how it meets and measures its objectives and the use of resources. &lt;/p&gt;
 
 &lt;p&gt;The Foreign &amp;amp; Commonwealth Office (FCO) already publishes some data on its people, buildings and money, including in our annual public accounts and in response to Freedom of Information (FOI) requests.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/55668</id>
-    <published>2011-07-01T00:00:00+01:00</published>
-    <updated>2011-07-01T00:00:00+01:00</updated>
+    <published>2011-07-01T01:00:00+01:00</published>
+    <updated>2012-12-12T19:30:34+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/cabinet-ministers-meetings-with-media-organisations"/>
     <title>Cabinet ministers' meetings with media organisations</title>
+    <category>Publication</category>
+    <summary>First Secretary of State and Secretary of State for Foreign and Commonwealth Affairs, Rt Hon William Hague MP’s meetings with proprietors, editors and media executives, May 2010 to July 2011.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This list sets out the Secretary of State’s meetings with senior media executives for the period May 2010-July 2011.  &lt;/p&gt;
 
 &lt;p&gt;This includes all meetings with proprietors, senior executives and editors of media organisations for both newspapers and broadcast media.  It does not include those meetings with journalists that ended up in interviews that appeared in the public domain, either in newspapers and magazines.  &lt;/p&gt;
@@ -195,9 +240,11 @@ Our Customer Charter sets out our commitment to providing a high level of servic
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/55632</id>
     <published>2011-03-01T00:00:00+00:00</published>
-    <updated>2011-03-01T00:00:00+00:00</updated>
+    <updated>2012-12-12T11:07:29+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/consular-assistance-provided-to-british-nationals"/>
     <title>Consular data</title>
+    <category>Publication</category>
+    <summary>Overview of total worldwide figures of assistance provided to British nationals over 12 month periods. Data includes: deaths, hospitalisations and lost or stolen passports. Summary of findings is listed at the base of this page.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;h3 id="consular-assistance-data-april-2010-to-march-2011"&gt;Consular assistance data, April 2010 to March 2011&lt;/h3&gt;
 
 &lt;p&gt;Consular assistance cases 

@@ -8,13 +8,15 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-12-20T16:02:00+00:00</updated>
+  <updated>2012-12-20T16:02:15+00:00</updated>
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/60282</id>
     <published>2012-12-20T16:02:00+00:00</published>
-    <updated>2012-12-20T16:02:00+00:00</updated>
+    <updated>2012-12-20T16:02:15+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/mod-launches-new-skynet-satellite"/>
     <title>MOD launches new Skynet satellite</title>
+    <category>News article</category>
+    <summary>A new satellite which will provide secure military communications for UK Armed Forces has been successfully launched into space.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The extra lines of communication will benefit personnel deployed in Afghanistan and other parts of the world, including the Falklands, Cyprus and on ships at sea.&lt;/p&gt;
 
 &lt;p&gt;&lt;abbr title="Ministry of Defence"&gt;MOD&lt;/abbr&gt; pictures show the moment that Skynet 5D was launched from French Guiana, South America. It is the fourth satellite of the Skynet 5 project to be put into space since 2007 under a £4bn Private Finance Initiative (&lt;abbr title="Private Finance Initiative"&gt;PFI&lt;/abbr&gt;) programme with &lt;a rel="external" href="http://www.astrium.eads.net/" title="Astrium website"&gt;Astrium&lt;/a&gt;, who built the satellite and service providers &lt;a rel="external" href="http://www.astriumservices.com/" title="Astrium Services"&gt;Astrium Services&lt;/a&gt;. &lt;/p&gt;
@@ -41,9 +43,12 @@
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/60241</id>
     <published>2012-12-20T12:25:00+00:00</published>
-    <updated>2012-12-20T12:25:00+00:00</updated>
+    <updated>2012-12-20T12:25:01+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/mod-awards-258-million-sea-king-helicopter-support-contract"/>
     <title>MOD awards £258 million Sea King helicopter support contract</title>
+    <category>News article</category>
+    <summary>The MOD has agreed a £258 million contract to support Sea King helicopters, which will sustain 500 jobs across the UK.
+</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The &lt;a rel="external" href="http://www.royalnavy.mod.uk/" title="Royal Navy"&gt;Royal Navy&lt;/a&gt; and &lt;a rel="external" href="http://www.raf.mod.uk/" title="Royal Air Force"&gt;Royal Air Force&lt;/a&gt; fleets of &lt;a rel="external" href="http://www.royalnavy.mod.uk/The-Fleet/Aircraft/Helicopters/Sea-King-Mk5" title="Sea King Mk5"&gt;Sea Kings&lt;/a&gt; are best known for providing &lt;a rel="external" href="http://www.royalnavy.mod.uk/Operations/Enduring-Operations/UK/Search-and-Rescue" title="Search and Rescue"&gt;Search and Rescue&lt;/a&gt; (&lt;abbr title="Search and Rescue"&gt;SAR&lt;/abbr&gt;) services in the UK and Falkland Islands. They can also be used to carry troops and provide airborne surveillance. &lt;/p&gt;
 
 &lt;p&gt;This extension to the Sea King Integrated Operational Support (&lt;abbr title="Sea King Integrated Operational Support"&gt;SKIOS&lt;/abbr&gt;) contract will ensure continued technical and maintenance support for the 90-strong helicopter fleet for the next 3 years.&lt;/p&gt;
@@ -68,9 +73,11 @@
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/54845</id>
     <published>2012-12-12T12:18:00+00:00</published>
-    <updated>2012-12-12T12:18:00+00:00</updated>
+    <updated>2012-12-12T17:38:59+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/the-new-home-on-the-web-for-fco-mod-bis-and-ago"/>
     <title>The new home on the web for FCO, MOD, BIS and AGO</title>
+    <category>News article</category>
+    <summary>GOV.UK is the new place for corporate and policy information from the Foreign Office, Ministry of Defence, Department for Business and the Attorney General's Office. </summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Four central government departments and several of their public bodies have today (13 December, 2012) become the latest central government organisations to move their corporate and policy content onto the new GOV.UK website - the new single home for all government services and information.&lt;/p&gt;
 
 &lt;p&gt;The Foreign and Commonwealth Office (&lt;abbr title="Foreign and Commonwealth Office"&gt;FCO&lt;/abbr&gt;), Ministry of Defence (&lt;abbr title="Ministry of Defence"&gt;MOD&lt;/abbr&gt;), Department for Business, Innovation and Skills (&lt;abbr title="Department for Business, Innovation and Skills"&gt;BIS&lt;/abbr&gt;) and Attorney General’s Office (&lt;abbr title="Attorney General's Office"&gt;AGO&lt;/abbr&gt;) have moved their content to the new website, joining the Department for Transport (&lt;abbr title="Department for Transport"&gt;DFT&lt;/abbr&gt;) and Communities and Local Government (&lt;abbr title="Department for Communities and Local Government"&gt;DCLG&lt;/abbr&gt;) whose content moved to GOV.UK last month.&lt;/p&gt;
@@ -123,9 +130,11 @@
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/45348</id>
     <published>2012-11-20T00:00:00+00:00</published>
-    <updated>2012-11-20T00:00:00+00:00</updated>
+    <updated>2012-12-11T18:18:18+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/speeches/2012-11-20-science-and-technology-in-optimising-security-defence-and-security"/>
     <title>2012/11/20 - Science and Technology in Optimising Security, Defence and Security</title>
+    <category>Speech</category>
+    <summary>Speech delivered by Minister for Defence Equipment, Support and Technology at the CityForum Event, St Ermin’s Hotel, London on Tuesday 20 November 2012.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="introduction"&gt;Introduction&lt;/h2&gt;
 
 &lt;p&gt;Thank you Professor Bernard Silverman and City Forum for that introduction and for inviting me to join you here to open today’s Round Table event with many of the country’s leading defence and security scientists.&lt;/p&gt;
@@ -361,10 +370,12 @@ surface energy of a material, so that when liquids come into contact with it the
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/45367</id>
-    <published>2012-10-16T00:00:00+01:00</published>
-    <updated>2012-10-16T00:00:00+01:00</updated>
+    <published>2012-10-16T01:00:00+01:00</published>
+    <updated>2012-12-11T17:11:28+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/speeches/2012-10-16-odgers-berndtson"/>
     <title>2012/10/16 - Odgers Berndtson</title>
+    <category>Speech</category>
+    <summary>Speech delivered by Minister for Defence Equipment, Support and Technology at Berwin Leighton Paisner, London on Tuesday 16 October 2012.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;I would like to thank Odgers Berndtson and Berwin Leighton Paisner for providing this opportunity to talk to you.&lt;/p&gt;
 
 &lt;p&gt;This is my first formal speech to a defence industry forum since taking over my responsibilities.&lt;/p&gt;
@@ -627,10 +638,12 @@ surface energy of a material, so that when liquids come into contact with it the
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/45364</id>
-    <published>2012-07-12T00:00:00+01:00</published>
-    <updated>2012-07-12T00:00:00+01:00</updated>
+    <published>2012-07-12T01:00:00+01:00</published>
+    <updated>2012-12-11T18:14:58+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/speeches/2012-07-12-ssafa-fund-raising-dinner-ads-event-as-part-of-farnborough-2012"/>
     <title>2012/07/12 - SSAFA Fund Raising Dinner (ADS event as part of Farnborough 2012)</title>
+    <category>Speech</category>
+    <summary>Speech delivered by Minister for Defence Equipment, Support and Technology at the Institute of Directors, London on Thursday 12 July 2012.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Introduction&lt;/p&gt;
 
 &lt;p&gt;Thank you, Sir Stephen [CAS].&lt;/p&gt;
@@ -839,10 +852,12 @@ surface energy of a material, so that when liquids come into contact with it the
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/45370</id>
-    <published>2012-07-02T00:00:00+01:00</published>
-    <updated>2012-07-02T00:00:00+01:00</updated>
+    <published>2012-07-02T01:00:00+01:00</published>
+    <updated>2012-12-11T17:00:22+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/speeches/2012-07-02-motorsport-industry-association"/>
     <title>2012/07/02 - Motorsport Industry Association</title>
+    <category>Speech</category>
+    <summary>Speech delivered by Minister for Defence Equipment, Support and Technology at the Parliamentary Summer Reception, House of Lords, London on Monday 2 July 12.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Thank you Alistair [Fergusson, Managing Director of Alcon Components] for that introduction. It is a pleasure to see you all here this evening and I am grateful to Chris [Aylett, Chief Executive Officer of the Motorsport Industry Association] for inviting me to say a few words. &lt;/p&gt;
 
 &lt;p&gt;Motorsport is one of the few, perhaps the only, high tech industry where the UK is comprehensively world beating. &lt;/p&gt;
@@ -929,10 +944,12 @@ surface energy of a material, so that when liquids come into contact with it the
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/45368</id>
-    <published>2012-06-28T00:00:00+01:00</published>
-    <updated>2012-06-28T00:00:00+01:00</updated>
+    <published>2012-06-28T01:00:00+01:00</published>
+    <updated>2012-12-11T17:15:00+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/speeches/2012-06-28-the-defence-industrial-base-a-critical-component-of-military-capability"/>
     <title>2012/06/28 - The Defence Industrial Base - A Critical Component of Military Capability</title>
+    <category>Speech</category>
+    <summary>Speech delivered by Minister for Defence Equipment, Support and Technology at the Royal United Services Institute (RUSI), London on Thursday 28 June 2012.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;It really is a pleasure to be at RUSI once again and to have the opportunity of discussing such an important issue and at such an appropriate moment.   &lt;/p&gt;
 
 &lt;p&gt;And, to those from industry, I’m very glad that this event is focusing on you, and your businesses. &lt;/p&gt;
@@ -1409,10 +1426,12 @@ So - you are a vital part, all of you, of our defence effort. You make defence h
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/45357</id>
-    <published>2012-06-21T00:00:00+01:00</published>
-    <updated>2012-06-21T00:00:00+01:00</updated>
+    <published>2012-06-21T01:00:00+01:00</published>
+    <updated>2012-12-11T17:41:25+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/speeches/2012-06-21-defence-vehicles-dynamics-dvd"/>
     <title>2012/06/21 - Defence Vehicles Dynamics (DVD)</title>
+    <category>Speech</category>
+    <summary>Speech delivered by Minister for Defence Equipment, Support and Technology at the Millbrook vehicle testing ground, Bedfordshire on Thursday 21 June 2012.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="introduction"&gt;Introduction&lt;/h2&gt;
 
 &lt;p&gt;Ladies and gentlemen.&lt;/p&gt;
@@ -1536,10 +1555,12 @@ So - you are a vital part, all of you, of our defence effort. You make defence h
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/45351</id>
-    <published>2012-05-24T00:00:00+01:00</published>
-    <updated>2012-05-24T00:00:00+01:00</updated>
+    <published>2012-05-24T01:00:00+01:00</published>
+    <updated>2012-12-11T18:35:46+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/speeches/2012-05-24-qinetiq-70th-anniversary-dinner"/>
     <title>2012/05/24 - Qinetiq 70th Anniversary Dinner</title>
+    <category>Speech</category>
+    <summary>Speech delivered by Minister for Defence Equipment, Support and Technology at Malvern College, on Thursday 24 May 2012.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="introduction"&gt;Introduction&lt;/h2&gt;
 
 &lt;p&gt;Good evening &lt;/p&gt;
@@ -1721,9 +1742,11 @@ So - you are a vital part, all of you, of our defence effort. You make defence h
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/18706</id>
     <published>2011-03-15T00:00:00+00:00</published>
-    <updated>2011-03-15T00:00:00+00:00</updated>
+    <updated>2012-12-12T14:00:43+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/speeches/2011-03-15-rusi-cranfield-university-acquisition-reform-conference"/>
     <title>2011/03/15 - RUSI/Cranfield University Acquisition Reform Conference</title>
+    <category>Speech</category>
+    <summary>Speech delivered by Chief of Defence Materiel at the Royal United Services Institute/Cranfield University Acquisition Reform Conference, Defence Academy, Shrivenham on Tuesday 15 March 2011.  Minister for Defence Equipment, Support and Technology - Peter Luff MP also gave a speech at the same event.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;I would like to add my own appreciation to that of others, and say that it is a great privilege and a pleasure to work with you on the vital task of acquisition reform.   &lt;/p&gt;
 
 &lt;p&gt;You approach this difficult issue with insight, courtesy and determination: a great combination when change is needed. Your support for the MoD, for DE&amp;amp;S, for our industry, and in support of our exports has been remarked on by many, and is admired by all.   &lt;/p&gt;

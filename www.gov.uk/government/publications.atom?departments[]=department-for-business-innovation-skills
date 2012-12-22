@@ -8,13 +8,37 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-12-20T16:48:16+00:00</updated>
+  <updated>2012-12-21T09:30:00+00:00</updated>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60195</id>
+    <published>2012-12-21T00:00:00+00:00</published>
+    <updated>2012-12-21T09:30:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/evaluation-of-the-deepened-co-location-trials"/>
+    <title>Evaluation of the deepened co-location trials</title>
+    <category>Publication</category>
+    <summary>Presents findings from case study visits to 8 of the 22 jobcentres that took part in joint location trials with Next Steps.</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;BIS research paper no. 98. Presents findings from case study visits to 8 of the 22 Jobcentres that took part in the joint location trials with Next Step (now known as the National Careers Service).&lt;/p&gt;
+
+&lt;p&gt;It highlights key issues arising from the research with a view to contributing to the success of the wider roll out of joint location in Jobcentres in England.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60294</id>
+    <published>2012-12-21T00:00:00+00:00</published>
+    <updated>2012-12-21T10:35:37+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/english-business-survey-october-2012"/>
+    <title>English Business Survey October 2012</title>
+    <category>Publication</category>
+    <summary/>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The English business survey will provide Ministers and officials with information about the current economic and business conditions across England.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/60119</id>
     <published>2012-12-20T16:48:16+00:00</published>
     <updated>2012-12-20T16:48:16+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/consultations/uk-government-oil-and-gas-sector-strategy-call-for-industrys-views"/>
     <title>UK government oil and gas sector strategy: call for industry's views</title>
+    <category>Consultation</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;As part of its industrial strategy, the Secretary of State for Business, Innovation and Skills (&lt;abbr title="The DEpartment for Business, Innovation and Skills"&gt;BIS&lt;/abbr&gt;) announced that there will be, initially, 10 sector strategies, of which oil and gas would be one.&lt;/p&gt;
 
 &lt;p&gt;The industry’s input is essential as &lt;abbr title="The DEpartment for Business, Innovation and Skills"&gt;BIS&lt;/abbr&gt; and the Department of Energy and Climate Change (&lt;abbr title="The Department of Energy and Climate Change"&gt;DECC&lt;/abbr&gt;) develop this work in partnership with Oil &amp;amp; Gas UK.&lt;/p&gt;
@@ -35,81 +59,98 @@
 &lt;p&gt;&lt;abbr title="The Department of Energy and Climate Change"&gt;DECC&lt;/abbr&gt; – Audrey Banner – &lt;a href="Audrey.banner@decc.gsi.gov.uk"&gt;Audrey.banner@decc.gsi.gov.uk&lt;/a&gt; – 01224 254104&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60051</id>
-    <published>2012-12-20T00:00:00+00:00</published>
-    <updated>2012-12-20T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/better-choices-better-deals-report-on-progress-on-the-consumer-empowerment-strategy"/>
-    <title>Better choices: better deals. Report on progress on the consumer empowerment strategy</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The consumer empowerment strategy Better Choices: Better Deals was published in April 2011. This progress report describes how the wide range of commitments made then have been taken forward. Many of these have involved two or more of government, businesses, economic regulators, consumer groups and individual consumers coming together to develop practical ways to help empower people to make better choices and get better deals.&lt;/p&gt;
-
-&lt;p&gt;The empowerment strategy established midata, a programme of work involving government, consumer groups and leading businesses to give consumers more control and access to the data that companies hold about them. The aim of the midata programme is to give consumers access to their transaction data in a way that is electronic, portable and safe.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/60239</id>
     <published>2012-12-20T00:00:00+00:00</published>
-    <updated>2012-12-20T00:00:00+00:00</updated>
+    <updated>2012-12-20T16:01:51+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/bis-government-procurement-card-spend-over-500-october-2012"/>
     <title>BIS Government Procurement Card spend over £500: October 2012</title>
+    <category>Publication</category>
+    <summary>BIS Government Procurement Card expenditure over £500 in October 2012. 
+</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Financial data on BIS items of Government Procurement Card expenditure over £500, in October 2012.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60238</id>
+    <published>2012-12-20T00:00:00+00:00</published>
+    <updated>2012-12-20T16:02:55+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/bis-government-procurement-card-spend-over-500-september-2012"/>
+    <title>BIS Government Procurement Card spend over £500: September 2012 </title>
+    <category>Publication</category>
+    <summary>BIS Government Procurement Card expenditure over £500 in September 2012. </summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Financial data on BIS items of Government Procurement Card expenditure over £500, in September 2012.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/60247</id>
     <published>2012-12-20T00:00:00+00:00</published>
-    <updated>2012-12-20T00:00:00+00:00</updated>
+    <updated>2012-12-20T16:46:23+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/bis-monthly-spend-october-2012"/>
     <title>BIS monthly spend October 2012</title>
+    <category>Publication</category>
+    <summary>BIS spending data for October 2012.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The government is committed to setting new standards for transparency so the public can more easily see how and where taxpayers’ money is being spent and hold politicians, government departments and public bodies to account. &lt;/p&gt;
 
 &lt;p&gt;All central government departments must publish details of their spending over £25,000, and publish monthly information by the last day of each month.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60238</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60051</id>
     <published>2012-12-20T00:00:00+00:00</published>
-    <updated>2012-12-20T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/bis-government-procurement-card-spend-over-500-september-2012"/>
-    <title>BIS Government Procurement Card spend over £500: September 2012 </title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Financial data on BIS items of Government Procurement Card expenditure over £500, in September 2012.&lt;/p&gt;&lt;/div&gt;</content>
+    <updated>2012-12-20T13:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/better-choices-better-deals-report-on-progress-on-the-consumer-empowerment-strategy"/>
+    <title>Better choices: better deals. Report on progress on the consumer empowerment strategy</title>
+    <category>Publication</category>
+    <summary>This report covers the progress that has been made in the 18 months since the consumer enpowerment strategy was launched. </summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The consumer empowerment strategy Better Choices: Better Deals was published in April 2011. This progress report describes how the wide range of commitments made then have been taken forward. Many of these have involved two or more of government, businesses, economic regulators, consumer groups and individual consumers coming together to develop practical ways to help empower people to make better choices and get better deals.&lt;/p&gt;
+
+&lt;p&gt;The empowerment strategy established midata, a programme of work involving government, consumer groups and leading businesses to give consumers more control and access to the data that companies hold about them. The aim of the midata programme is to give consumers access to their transaction data in a way that is electronic, portable and safe.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/59916</id>
     <published>2012-12-19T00:00:00+00:00</published>
-    <updated>2012-12-19T00:00:00+00:00</updated>
+    <updated>2012-12-19T13:58:54+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/permanent-secretary-individual-performance-objectives-2012-to-2013"/>
     <title>Permanent Secretary individual performance objectives 2012 to 2013</title>
+    <category>Publication</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Defines the role and objectives of Martin Donnelly, the Permanent Secretary, for the 2012 to 2013 period.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/60007</id>
     <published>2012-12-19T00:00:00+00:00</published>
-    <updated>2012-12-19T00:00:00+00:00</updated>
+    <updated>2012-12-20T10:16:05+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/bis-non-consolidated-performance-related-pay-2011-to-2012"/>
     <title>BIS non-consolidated performance related pay 2011 to 2012</title>
+    <category>Publication</category>
+    <summary>Details of consolidated performance related pay at BIS for performance year 2011 to 2012.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Non-consolidated performance related pay for performance year 2011 to 2012.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60015</id>
-    <published>2012-12-19T00:00:00+00:00</published>
-    <updated>2012-12-19T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/one-in-one-out-third-statement-of-new-regulation"/>
-    <title>One-in, one-out: third statement of new regulation</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;A forward look of all regulations in scope of government’s ‘one-in, one-out’ regime that are scheduled to come into force between 1 January 2012 and 30 June 2012.&lt;/p&gt;
-
-&lt;p&gt;This is published every 6 months to give businesses an indication of when regulations affecting them will be coming into effect. It provides an overview of the net costs and benefits to business and civil society organisations, and forecasts a further reduction in new burdens on businesses by an estimated £4.17 million.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/60156</id>
     <published>2012-12-18T00:00:00+00:00</published>
-    <updated>2012-12-18T00:00:00+00:00</updated>
+    <updated>2012-12-20T13:08:06+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/number-of-enterprise-finance-guarantee-efg-scheme-loans-drawn"/>
     <title>Number and value of Enterprise Finance Guarantee (EFG) scheme loans drawn.</title>
+    <category>Publication</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Number and value of EFG loans drawn, by bank.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56833</id>
+    <published>2012-12-17T00:00:00+00:00</published>
+    <updated>2012-12-17T13:02:03+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/tax-arrangements-for-public-sector-appointees-in-bis-as-of-31-january-2012"/>
+    <title>Tax arrangements for public sector appointees in BIS as of 31 January 2012 </title>
+    <category>Publication</category>
+    <summary/>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Coalition Government has committed to making clear to the public how it uses taxpayers’ money. All government departments have been asked to publish a wide range of information about how it meets and measures its objectives and the use of resources.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/57009</id>
     <published>2012-12-17T00:00:00+00:00</published>
-    <updated>2012-12-17T00:00:00+00:00</updated>
+    <updated>2012-12-17T19:00:32+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/bis-quarterly-constuction-price-and-cost-indices-3rd-quarter-2012"/>
     <title>BIS quarterly constuction price and cost indices 3rd quarter 2012</title>
+    <category>Publication</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="headline-results"&gt;Headline results&lt;/h2&gt;
 
 &lt;p&gt;The BIS Output Price Index for New Construction (2010): All New Construction (COPI) for 3rd Quarter 2012 rose 0.7% on the previous quarter and by 3.5% on the same quarter a year earlier.&lt;/p&gt;
@@ -129,91 +170,85 @@
 &lt;p&gt;This release was published around 40 minutes after 9.30am, in breach of the Code of Practice for Official Statistics. We are currently investigating why this happened, and a report will be submitted to the National Statistician’s Office and published on the UK Statistics Authority’s website in due course.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56833</id>
-    <published>2012-12-17T00:00:00+00:00</published>
-    <updated>2012-12-17T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/tax-arrangements-for-public-sector-appointees-in-bis-as-of-31-january-2012"/>
-    <title>Tax arrangements for public sector appointees in BIS as of 31 January 2012 </title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Coalition Government has committed to making clear to the public how it uses taxpayers’ money. All government departments have been asked to publish a wide range of information about how it meets and measures its objectives and the use of resources.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/56761</id>
     <published>2012-12-17T00:00:00+00:00</published>
-    <updated>2012-12-17T00:00:00+00:00</updated>
+    <updated>2012-12-17T09:59:25+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/quarterly-price-and-cost-indices-commentary-3q-2012"/>
     <title>Quarterly price and cost indices: commentary 3Q 2012</title>
+    <category>Publication</category>
+    <summary>Commentary</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Explains the data published in the three quarterly BIS construction price and cost indices (PCIs): tender price indices (12/P147C), construction resource cost indices (12/P148C), and output price indices (URN 12/P149C).&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/56763</id>
     <published>2012-12-17T00:00:00+00:00</published>
-    <updated>2012-12-17T00:00:00+00:00</updated>
+    <updated>2012-12-17T09:51:18+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/construction-tender-prices-indices-december-2012"/>
     <title>Construction tender prices indices December 2012</title>
+    <category>Publication</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;A small number of the indices in this release have been revised due to inconsistencies between the indices published on the BIS website and those published on BCIS Online.  Mostly this affects older indices with a few more recent exceptions. BIS apologises for any inconvenience this may have caused.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/56765</id>
     <published>2012-12-17T00:00:00+00:00</published>
-    <updated>2012-12-17T00:00:00+00:00</updated>
+    <updated>2012-12-17T09:47:39+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/construction-output-price-indices-december-2012"/>
     <title>Construction output price indices - December 2012</title>
+    <category>Publication</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;One of three quarterly BIS construction price and cost indices (PCIs), providing output price indices (OPIs) for construction sectors.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/56767</id>
     <published>2012-12-17T00:00:00+00:00</published>
-    <updated>2012-12-17T00:00:00+00:00</updated>
+    <updated>2012-12-17T09:21:22+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/construction-tender-price-indices-tpis-notes-and-definitions"/>
     <title>Construction tender price indices (TPIs) notes and definitions</title>
+    <category>Publication</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Tender Price Index of Public Sector Building Non Housing (PUBSEC) measures the movement of prices in tenders for building contracts in the public sector in Great Britain. It does not include contracts for housing, civil engineering, mechanical engineering, electrical engineering, minor alterations projects or for repair and maintenance work.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/56768</id>
     <published>2012-12-17T00:00:00+00:00</published>
-    <updated>2012-12-17T00:00:00+00:00</updated>
+    <updated>2012-12-17T09:18:51+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/construction-resource-cost-indices-notes-and-definitions"/>
     <title>Construction resource cost indices notes and definitions</title>
+    <category>Publication</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Resource Cost Indices give a measure of the notional trend of input costs to a contractor in terms of increases in the cost of labour, materials and plant by application of the Price Adjustment Formulae for Building (Series 3), Specialist Engineering (Series 3) and Civil Engineering (1990 Series) to cost models.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/56769</id>
     <published>2012-12-17T00:00:00+00:00</published>
-    <updated>2012-12-17T00:00:00+00:00</updated>
+    <updated>2012-12-17T09:17:01+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/construction-resource-cost-indices-december-2012"/>
     <title>Construction resource cost indices - December 2012</title>
+    <category>Publication</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;A small number of the indices in this release have been revised due to inconsistencies between the indices published on the BIS website and those published on BCIS Online.  Mostly this affects older indices with a few more recent exceptions. BIS apologises for any inconvenience this may have caused.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/60126</id>
     <published>2012-12-17T00:00:00+00:00</published>
-    <updated>2012-12-17T00:00:00+00:00</updated>
+    <updated>2012-12-17T09:15:02+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/bis-fifth-statement-of-new-regulation-regulations-covering-january-to-june-2013"/>
     <title>BIS fifth statement of new regulation: regulations covering January to June 2013</title>
+    <category>Publication</category>
+    <summary>Informs businesses and interested stakeholders of Department for Business domestic regulations that come into force between January and June 2013.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Lists Department for Business, Innovation &amp;amp; Skills (&lt;abbr title="Department for Business, Innovation and Skills"&gt;BIS&lt;/abbr&gt;) measures in scope of ‘One in, two out’ regulations to come into force from January to June 2013, to show how &lt;abbr title="Department for Business, Innovation and Skills"&gt;BIS&lt;/abbr&gt; is removing burdens on business.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/60128</id>
     <published>2012-12-17T00:00:00+00:00</published>
-    <updated>2012-12-17T00:00:00+00:00</updated>
+    <updated>2012-12-17T09:15:00+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/fifth-statement-of-new-regulation-sonr"/>
     <title>Fifth statement of new regulation (SONR)</title>
+    <category>Publication</category>
+    <summary>An overview of regulations planned to be implemented or removed by government departments between 1 January and 30 June 2013.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Provides a forward look of all regulations in scope of government’s ‘One-in, two-out’ regime that are scheduled to come into force between 1 January and 30 June 2013.&lt;/p&gt;
 
 &lt;p&gt;This is published every 6 months to give businesses an indication of when regulations affecting them will be coming into effect. The headline figures show that the sum total of government deregulation by July 2013 is expected to reduce the annual cost to business by around £919 million.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60019</id>
-    <published>2012-12-14T00:00:00+00:00</published>
-    <updated>2012-12-14T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/science-and-innovation-network-annual-report-2011-12"/>
-    <title>Science and Innovation Network: Annual Report 2011 to 2012</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This report shows the scope of the work carried out by the Science and Innovation Network, a joint &lt;abbr title="Department for Business, Innovation and Skills"&gt;BIS&lt;/abbr&gt;-&lt;abbr title="Foreign and Commonwealth Office"&gt;FCO&lt;/abbr&gt; network operating in around 28 countries and territories around the world. &lt;/p&gt;
-
-&lt;p&gt;&lt;abbr title="Science and Innovation Network"&gt;SIN&lt;/abbr&gt; officers are scientifically literate staff in &lt;abbr title="Foreign and Commonwealth Office"&gt;FCO&lt;/abbr&gt; posts who work to benefit the UK through influencing the science and innovation policies of governments, businesses and academia, informing UK policy, and promoting ‘best with best’ collaboration between the UK and other nations. &lt;/p&gt;
-
-&lt;p&gt;The report, launched by &lt;abbr title="Department for Business, Innovation and Skills"&gt;BIS&lt;/abbr&gt; Permanent Secretary, Martin Donnelly, and &lt;abbr title="Foreign and Commonwealth Office"&gt;FCO&lt;/abbr&gt; Chief Scientific Advisor, David Clary, at the &lt;abbr title="Foreign and Commonwealth Office"&gt;FCO&lt;/abbr&gt; on 12 December 2012, gives an overview of the &lt;abbr title="Science and Innovation Network"&gt;SIN&lt;/abbr&gt; and highlights some of its achievements over the past year.&lt;/p&gt;
-
-&lt;p&gt;The &lt;abbr title="Science and Innovation Network"&gt;SIN&lt;/abbr&gt;’s 90+ staff are managed by a team based in &lt;abbr title="Department for Business, Innovation and Skills"&gt;BIS&lt;/abbr&gt;’s International Knowledge and Innovation Unit.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
 </feed>

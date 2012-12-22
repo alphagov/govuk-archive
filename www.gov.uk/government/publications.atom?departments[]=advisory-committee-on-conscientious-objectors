@@ -8,29 +8,35 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2011-03-30T00:00:00+01:00</updated>
+  <updated>2012-12-12T14:00:44+00:00</updated>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/28499</id>
-    <published>2011-03-30T00:00:00+01:00</published>
-    <updated>2011-03-30T00:00:00+01:00</updated>
+    <published>2011-03-30T01:00:00+01:00</published>
+    <updated>2012-12-12T14:00:44+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/conscientious-objectors-1970-2011"/>
     <title>Conscientious Objectors 1970-2011</title>
+    <category>Publication</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Response to FOI 21-03-2011-114944-007&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/28471</id>
     <published>2010-12-15T00:00:00+00:00</published>
-    <updated>2010-12-15T00:00:00+00:00</updated>
+    <updated>2012-12-12T14:00:44+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/conscientious-objectors-1990-2000"/>
     <title>Conscientious Objectors 1990-2000</title>
+    <category>Publication</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Response to FOI 04-03-2010-120005-003&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/28472</id>
     <published>2010-11-03T00:00:00+00:00</published>
-    <updated>2010-11-03T00:00:00+00:00</updated>
+    <updated>2012-12-12T14:00:44+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/conscientious-objectors"/>
     <title>Conscientious Objectors</title>
+    <category>Publication</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Response to FOI 16-04-2010-123806-002&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
 </feed>

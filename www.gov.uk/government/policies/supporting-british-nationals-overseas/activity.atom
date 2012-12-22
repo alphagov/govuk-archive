@@ -8,14 +8,15 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-12-19T11:34:00+00:00</updated>
+  <updated>2012-12-19T11:34:59+00:00</updated>
   <entry>
     <id>tag:www.gov.uk,2005:NewsArticle/60279</id>
     <published>2012-12-19T11:34:00+00:00</published>
     <updated>2012-12-19T11:34:59+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/christmas-holiday-travel-advice"/>
     <title>Christmas holiday travel advice</title>
-    <category>News Article</category>
+    <category>News article</category>
+    <summary>A few simple preparations before and during your holiday can help to make your Christmas trip safe and trouble free.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;If you do get into problems while abroad then we are here to help, but you can avoid a lot of difficulties in the first place by following these basic tips:&lt;/p&gt;
 
 &lt;ul&gt;
@@ -44,7 +45,8 @@
     <updated>2012-12-14T16:28:10+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/this-week-at-the-foreign-office--104"/>
     <title>This week at the Foreign Office </title>
-    <category>News Article</category>
+    <category>News article</category>
+    <summary>A look at the work of the Foreign Office and its embassies overseas this week. </summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;h4 id="syria"&gt;Syria&lt;/h4&gt;
 
 &lt;p&gt;The Foreign Secretary outlined the &lt;a href="https://www.gov.uk/government/speeches/foreign-secretary-remarks-at-the-friends-of-syria-meeting" title="Foreign Secretary remarks at Friends of the Syrian People meeting"&gt;immediate priorities for the Friends of the Syrian People&lt;/a&gt; at the meeting in Marrakesh this week. He said “Syria needs a political transition leading to an inclusive new government, with full executive authority. This is the course most likely to achieve stability in the country.” &lt;/p&gt;
@@ -88,7 +90,8 @@
     <updated>2012-12-12T15:34:19+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/parental-child-abduction-is-a-worldwide-problem"/>
     <title>Parental Child Abduction is a worldwide problem</title>
-    <category>News Article</category>
+    <category>News article</category>
+    <summary>New figures reveal that the number of parental child abduction cases dealt with by the Foreign Office has risen by 88% in under a decade.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;In the last year alone the Foreign Office’s &lt;a rel="external" href="http://www.fco.gov.uk/en/travel-and-living-abroad/when-things-go-wrong/child-abduction/" title="International parental child abduction"&gt;Child Abduction Section&lt;/a&gt; fielded an average of four calls per day to its specialist advice line, more than half of which were new cases .&lt;/p&gt;
 
 &lt;h3 id="a-worldwide-problem"&gt;A worldwide problem&lt;/h3&gt;
@@ -161,6 +164,7 @@
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/travel-safe-know-before-you-go"/>
     <title>Travel safe: know before you go</title>
     <category>Publication</category>
+    <summary>A 50-page free book of travel guidance, particularly useful for adventure, long-haul and gap year travel, but helpful for any overseas holiday.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Planning the trip of a lifetime, a gap year abroad, or just a relaxing break? Lonely Planet have teamed up with the Foreign &amp;amp; Commonwealth Office to produce this guide to safe travel. It’s full of information, tips, and stories from travellers themselves to help you choose your destination, plan your trip and have a safe and above all enjoyable time while you’re there.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
@@ -169,7 +173,8 @@
     <updated>2012-12-10T15:33:45+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/skiiers-avoid-injury-and-expensive-medical-bills"/>
     <title>Skiers: avoid injury and expensive medical bills</title>
-    <category>News Article</category>
+    <category>News article</category>
+    <summary>We urge winter sports holidaymakers to know their limits before hitting the slopes.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;We are launching a campaign aimed at Britons visiting European winter sports resorts this winter to explain the dangers of attempting slopes beyond your level of ability, or going off piste without the correct safety equipment.&lt;/p&gt;
 
 &lt;p&gt;If you’re heading off a ski or snowboarding holiday this winter, please don’t put yourself at risk by trying to keep up with more experienced members of your party. The number of reported accidents on French slopes in 2012 was high, including seven deaths out of 12 serious incidents*. &lt;/p&gt;
@@ -236,6 +241,7 @@
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/checklist-for-travellers"/>
     <title>Staying safe and healthy</title>
     <category>Publication</category>
+    <summary>Leaflet that gives advice on staying safe while abroad; additional leaflet with advice on personal safety from ABTA, the Travel Association.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Leaflet that gives advice on staying safe while abroad; additional leaflet with advice on personal safety from ABTA, the Travel Association.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
@@ -244,7 +250,8 @@
     <updated>2012-12-11T16:23:20+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/minister-for-africa-highlights-risk-of-kidnap-to-british-nationals-in-sahel-region"/>
     <title>Minister for Africa highlights risk of kidnap to British nationals in Sahel region</title>
-    <category>News Article</category>
+    <category>News article</category>
+    <summary>Minister for Africa, Mark Simmonds, met members of the travel industry today to explain and emphasise the FCO’s travel advice on the Sahel region to British nationals, including the high risk of kidnap in certain areas of the Sahel and North Africa.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Mr Simmonds detailed how the kidnap threat to western travellers in Mali and some neighbouring areas had grown as a result of instability in the region.  He reinforced how seriously the British Government takes the threat to British nationals overseas. Foreign Office officials asked the industry to highlight the risks and consider alternative options where travellers can still find adventure, but be safe too.  &lt;/p&gt;
 
 &lt;p&gt;Mr Simmonds said:  &lt;/p&gt;
@@ -261,12 +268,33 @@
     <updated>2012-12-11T16:23:13+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/travel-advice-for-lebanon-updated"/>
     <title>Travel advice for Lebanon updated</title>
-    <category>News Article</category>
+    <category>News article</category>
+    <summary>Travel advice for Lebanon has been reviewed and reissued with a change to the overall level of advice. We advise against all but essential travel to the whole of Lebanon.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;On 19 October 2012 a car bomb exploded in the Achrafieh district of Beirut resulting in eight fatalities and a large number of casualties. British Nationals in Beirut are advised to exercise extreme caution and stay indoors. You should keep yourself informed of developments by keeping abreast of local security advice, media reports and &lt;a rel="external" href="http://www.fco.gov.uk/en/travel-and-living-abroad/travel-advice-by-country/middle-east-north-africa/lebanon/"&gt;travel advice for Lebanon&lt;/a&gt;.   &lt;/p&gt;
 
 &lt;p&gt;Numerous roads throughout Lebanon, including the airport highway, are currently subject to closure with groups of protesters burning tyres.?  There have also been reports of gunfire and sporadic violence breaking out across the country and there is potential for an upsurge in violence.?  &lt;/p&gt;
 
 &lt;p&gt;We advise against all travel to Palestinian refugee camps in Lebanon due to the risks of insecurity, and we advise against all travel to the city of Tripoli. During the week of 20 August 2012, 15 people were reported killed in fighting. Further clashes are possible.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:NewsArticle/35502</id>
+    <published>2012-10-16T01:00:00+01:00</published>
+    <updated>2012-12-11T16:23:09+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/foreign-secretary-launches-new-fco-crisis-centre"/>
+    <title>Foreign Secretary launches new FCO Crisis Centre</title>
+    <category>News article</category>
+    <summary>The new Crisis Centre has been created to ensure the Foreign Office continues to provide one of the most complete and advanced consular services in the world.</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;During early 2011, the Foreign Office experienced a series of international incidents that required a crisis response, including the earthquake in New Zealand, tsunami in Japan and the events of the Arab Spring.  &lt;/p&gt;
+
+&lt;p&gt;After the evacuation of British Nationals from Libya last year, the Foreign Secretary launched a review to learn lessons from this period and refine the approach to crisis management. Following the launch of the new Crisis Centre, the Foreign Office is now better equipped to cope with the significant demands that such events place on it, and offer the best possible service to British nationals in trouble overseas. Read the &lt;a rel="external" href="http://www.fco.gov.uk/en/news/latest-news/?view=Speech&amp;amp;id=823028282"&gt;Foreign Secretary’s speech at the launch of the Crisis Centre&lt;/a&gt;.  &lt;/p&gt;
+
+&lt;p&gt;Speaking at the launch, the Foreign Secretary said:&lt;/p&gt;
+
+&lt;p&gt;“With this new Crisis Centre, for the first time we will be able handle two large scale events simultaneously; operating a centralised command structure, bringing different departments from across Government into a single place, with the right technology available, so that we can help those in trouble overseas.&lt;/p&gt;
+
+&lt;p&gt;“The launch of the Crisis Centre today is another step in a cycle of continuous improvement in the way that we deliver our services to the British public. With increasing numbers of British nationals living, working and travelling abroad, and to a more and more diverse range of places, we need to ensure that we are innovative and make the most of emerging tools of communication, such as Twitter and Facebook, so that we can reach and help as many people as possible in a crisis.&lt;/p&gt;
+
+&lt;p&gt;“In the last year alone, these new approaches and our new capacity has been tested no fewer than thirteen times, including evacuating our diplomats and their families from Tehran, helping those involved in the sinking of the Costa Concordia and dealing with the coach crash in France earlier this year. They are proving to be flexible and resilient. I hope that we can continue to improve the services and support that we provide, supporting the public when they need us and moving towards our objective of becoming the best diplomatic service in the world.”&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:Speech/35429</id>
@@ -275,6 +303,7 @@
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/speeches/foreign-secretary-speaks-at-launch-of-new-crisis-centre"/>
     <title>Foreign Secretary speaks at launch of new Crisis Centre</title>
     <category>Speech</category>
+    <summary>Foreign Secretary William Hague has spoken at the opening of the of the new Foreign Office Crisis Centre in London.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;It gives me great pleasure to be able to join you here today for the opening of our new Crisis Centre here at the Foreign and Commonwealth Office.&lt;/p&gt;
 
 &lt;p&gt;I would like to start by paying tribute to the work of the Crisis Management Department and our whole Consular Team. They work tirelessly, day in and day out, in the evening and at weekends, to make sure that when Britons are in trouble overseas, their safety and security remains our central priority.&lt;/p&gt;
@@ -322,24 +351,5 @@
 &lt;p&gt;In the last year alone, these new approaches and our new capacity has been tested no fewer than thirteen times, including evacuating our diplomats and their families from Tehran, helping those involved in the sinking of the Costa Concordia and dealing with the coach crash in France earlier this year. They are proving to be flexible and resilient procedures so far. I hope that we can continue to improve the services and support that we provide, supporting the public when they need us and moving towards our objective of becoming the best diplomatic service in the world.  &lt;/p&gt;
 
 &lt;h2 id="search-the-news-archive"&gt;Search the news archive&lt;/h2&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:NewsArticle/35502</id>
-    <published>2012-10-16T01:00:00+01:00</published>
-    <updated>2012-12-11T16:23:09+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/foreign-secretary-launches-new-fco-crisis-centre"/>
-    <title>Foreign Secretary launches new FCO Crisis Centre</title>
-    <category>News Article</category>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;During early 2011, the Foreign Office experienced a series of international incidents that required a crisis response, including the earthquake in New Zealand, tsunami in Japan and the events of the Arab Spring.  &lt;/p&gt;
-
-&lt;p&gt;After the evacuation of British Nationals from Libya last year, the Foreign Secretary launched a review to learn lessons from this period and refine the approach to crisis management. Following the launch of the new Crisis Centre, the Foreign Office is now better equipped to cope with the significant demands that such events place on it, and offer the best possible service to British nationals in trouble overseas. Read the &lt;a rel="external" href="http://www.fco.gov.uk/en/news/latest-news/?view=Speech&amp;amp;id=823028282"&gt;Foreign Secretary’s speech at the launch of the Crisis Centre&lt;/a&gt;.  &lt;/p&gt;
-
-&lt;p&gt;Speaking at the launch, the Foreign Secretary said:&lt;/p&gt;
-
-&lt;p&gt;“With this new Crisis Centre, for the first time we will be able handle two large scale events simultaneously; operating a centralised command structure, bringing different departments from across Government into a single place, with the right technology available, so that we can help those in trouble overseas.&lt;/p&gt;
-
-&lt;p&gt;“The launch of the Crisis Centre today is another step in a cycle of continuous improvement in the way that we deliver our services to the British public. With increasing numbers of British nationals living, working and travelling abroad, and to a more and more diverse range of places, we need to ensure that we are innovative and make the most of emerging tools of communication, such as Twitter and Facebook, so that we can reach and help as many people as possible in a crisis.&lt;/p&gt;
-
-&lt;p&gt;“In the last year alone, these new approaches and our new capacity has been tested no fewer than thirteen times, including evacuating our diplomats and their families from Tehran, helping those involved in the sinking of the Costa Concordia and dealing with the coach crash in France earlier this year. They are proving to be flexible and resilient. I hope that we can continue to improve the services and support that we provide, supporting the public when they need us and moving towards our objective of becoming the best diplomatic service in the world.”&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
 </feed>

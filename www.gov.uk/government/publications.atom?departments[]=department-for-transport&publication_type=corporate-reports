@@ -8,21 +8,25 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-09-24T00:00:00+01:00</updated>
+  <updated>2012-11-08T14:51:23+00:00</updated>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/17760</id>
-    <published>2012-09-24T00:00:00+01:00</published>
-    <updated>2012-09-24T00:00:00+01:00</updated>
+    <published>2012-09-24T01:00:00+01:00</published>
+    <updated>2012-11-08T14:51:23+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/business-continuity-management-policy"/>
     <title>Business continuity management policy</title>
+    <category>Publication</category>
+    <summary>Part of the department's internal control framework specifically covering business continuity management.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This policy is a key part of the Department for Transport’s internal control framework and specifically covers the department’s approach to business continuity management (BCM). This policy applies to all parts of the Department for Transport and its executive agencies and all of the activities it undertakes. The department’s non-departmental public bodies (NDPBs) and those treated as NDPBs are to decide what BCM arrangements they need to have in place, using this policy as a guide.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/56798</id>
-    <published>2012-07-17T00:00:00+01:00</published>
-    <updated>2012-07-17T00:00:00+01:00</updated>
+    <published>2012-07-17T01:00:00+01:00</published>
+    <updated>2012-12-17T10:34:19+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/department-for-transport-statement-of-new-regulations"/>
     <title>Department for Transport statement of new regulation</title>
+    <category>Publication</category>
+    <summary>An overview of regulations planned to be implemented or removed by Department for Transport between 1 January and 30 June 2013.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="fifth-statement-of-new-regulation"&gt;Fifth statement of new regulation&lt;/h2&gt;
 
 &lt;p&gt;This statement contains a list of all Department for Transport’s regulatory measures that are in scope of one-in, two-out and are due to be introduced between January – June 2013. For the first time this statement also includes all Red Tape Challenge and EU measures requiring UK legislation, expected to come in over the same period.&lt;/p&gt;
@@ -47,10 +51,12 @@
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/10041</id>
-    <published>2012-07-16T00:00:00+01:00</published>
-    <updated>2012-07-16T00:00:00+01:00</updated>
+    <published>2012-07-16T01:00:00+01:00</published>
+    <updated>2012-11-04T18:05:15+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/department-for-transport-annual-report-and-accounts"/>
     <title>Department for Transport annual report and accounts</title>
+    <category>Publication</category>
+    <summary>Department for Transport’s consolidated results for the year ended 31 March 2012.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="department-for-transport-annual-report-and-accounts-2011-12"&gt;Department for Transport annual report and accounts 2011-12&lt;/h2&gt;
 
 &lt;p&gt;The annual report and accounts presents the consolidated results for the year ended 31 March 2012.&lt;/p&gt;
@@ -90,20 +96,24 @@
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/15908</id>
-    <published>2012-07-11T00:00:00+01:00</published>
-    <updated>2012-07-11T00:00:00+01:00</updated>
+    <published>2012-07-11T01:00:00+01:00</published>
+    <updated>2012-11-02T15:03:32+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/department-for-transport-reducing-regulation-annual-report-2012"/>
     <title>Department for Transport reducing regulation annual report 2012</title>
+    <category>Publication</category>
+    <summary>The Department's first report detailing its regulatory performance over the previous year in the context of reducing regulation policy.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This is the Department for Transport’s first report detailing its regulatory performance over the previous year in the context of the government’s reducing regulation policy. If there is demand for it, this will become an annual report reviewing the previous year’s performance.&lt;/p&gt;
 
 &lt;p&gt;This report lists the regulations made in the course of the year, along with links to the impact assessments and opinions of the Regulatory Policy Committee relating to them.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/13347</id>
-    <published>2012-06-29T00:00:00+01:00</published>
-    <updated>2012-06-29T00:00:00+01:00</updated>
+    <published>2012-06-29T01:00:00+01:00</published>
+    <updated>2012-11-03T22:19:59+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/department-for-transport-business-plan"/>
     <title>Department for Transport business plan</title>
+    <category>Publication</category>
+    <summary>The DfT business plan 2012 to 2015, including monthly progress updates against the actions set out in the structural reform plan.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This 2012-15 business plan sets out the programme of work we plan to carry out over the next three years to support the coalition government’s objectives. It also contains information on our structure and budget, and the way we measure our performance.&lt;/p&gt;
 
 &lt;p&gt;The full plan is available to download along with annexes. This year’s business plan is an update of the business plan published in May 2011. The full list of actions and indicators in the 2011 plan, with details of any changes made in this revision, is available to view in the &lt;abbr title="Department for Transport"&gt;DfT&lt;/abbr&gt; 2011 business plan revisions table.&lt;/p&gt;
@@ -162,17 +172,21 @@
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/15630</id>
     <published>2012-03-19T00:00:00+00:00</published>
-    <updated>2012-03-19T00:00:00+00:00</updated>
+    <updated>2012-11-01T19:32:02+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/department-for-transport-capability-action-plan"/>
     <title>Department for Transport capability action plan</title>
+    <category>Publication</category>
+    <summary>Capability review of the Department for Transport for 2011-2012.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Capability review of the Department for Transport for 2011-2012. Capability reviews are an important tool to help us improve our performance and help make &lt;abbr title="Department for Transport"&gt;DfT&lt;/abbr&gt; a more rewarding place to work.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/14074</id>
     <published>2012-02-15T00:00:00+00:00</published>
-    <updated>2012-02-15T00:00:00+00:00</updated>
+    <updated>2012-11-10T12:10:35+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/department-for-transport-equality-monitoring"/>
     <title>Department for Transport equality monitoring</title>
+    <category>Publication</category>
+    <summary>Summary of findings from the staff survey into equality and diversity.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="full-equality-monitoring-reports"&gt;2011 full equality monitoring reports&lt;/h2&gt;
 
 &lt;p&gt;An analysis of staff diversity, for staff in post between 1 April 2010 and 31 March 2011. The analysis looks at staff in post, cessations, grievances and discipline, training, sickness absence, performance markings and recruitment, and considers whether there were significant differences with respect to sex, race, disability, pay band, age, sexual orientation, religion and belief and working pattern.&lt;/p&gt;
@@ -202,10 +216,12 @@
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/15955</id>
-    <published>2010-10-20T00:00:00+01:00</published>
-    <updated>2010-10-20T00:00:00+01:00</updated>
+    <published>2010-10-20T01:00:00+01:00</published>
+    <updated>2012-11-01T16:05:49+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/spending-review"/>
     <title>Department for Transport spending review</title>
+    <category>Publication</category>
+    <summary>Securing investment in vital transport infrastructure that will support the national economic recovery.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Transport provides the crucial links that allow people and businesses to prosper. &lt;/p&gt;
 
 &lt;p&gt;The government is committed to reducing the deficit, facilitating long-term, sustainable growth and tackling carbon emissions.&lt;/p&gt;

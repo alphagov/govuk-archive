@@ -8,14 +8,15 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-12-12T17:00:00+00:00</updated>
+  <updated>2012-12-12T17:48:14+00:00</updated>
   <entry>
     <id>tag:www.gov.uk,2005:NewsArticle/55440</id>
     <published>2012-12-12T17:00:00+00:00</published>
     <updated>2012-12-12T17:48:14+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/minister-for-europe-renews-uk-commitment-to-eu-enlargement"/>
     <title>Minister for Europe renews UK commitment to EU enlargement </title>
-    <category>News Article</category>
+    <category>News article</category>
+    <summary>Foreign Office Minister David Lidington has set out the UK’s commitment to EU enlargement to the Western Balkans, Iceland and Turkey.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Minister gave a press briefing for European journalists today following his participation in the General Affairs Council meeting in Brussels on 11 December. &lt;/p&gt;
 
 &lt;p&gt;David Lidington said:&lt;/p&gt;
@@ -44,7 +45,8 @@
     <updated>2012-12-12T18:03:18+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/speeches/foreign-affairs-council-and-general-affairs-council"/>
     <title>Foreign Affairs Council and General Affairs Council </title>
-    <category>Speech</category>
+    <category>Statement to parliament</category>
+    <summary>Foreign Office Minister David Lidington has updated parliament on the Foreign Affairs Council and General Affairs Council in a Written Ministerial Statement.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Foreign Office Minister David Lidington said:&lt;/p&gt;
 
 &lt;p&gt;My Right Honourable Friend the Secretary of State for Foreign and Commonwealth Affairs and I will attend the Foreign Affairs Council (FAC) on 10 December, and I will attend the General Affairs Council (GAC) on 11 December in Brussels. The Foreign Affairs Council will be chaired by the High Representative of the European Union for Foreign Affairs and Security Policy, Baroness Ashton of Upholland, and the General Affairs Council will be chaired by the Cypriot Presidency.  &lt;/p&gt;
@@ -117,7 +119,8 @@ The December European Council agenda item on defence will pave the way for furth
     <updated>2012-12-14T18:04:53+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/uk-single-market-centre"/>
     <title>UK Single Market Centre</title>
-    <category>News Article</category>
+    <category>News article</category>
+    <summary>New UK Single Market Centre launched by Department for Business on 1st December 2012.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Single Market Centre brings together all the Single Market operational tools within a single team, including the Internal Market Scoreboard, SOLVIT (the problem solving mechanism that seeks to resolve the misapplication of rules by public authorities) and the Point of Single Contact (the online licensing service hosted on www.gov.uk for Services Directive Implementation). &lt;/p&gt;
 
 &lt;p&gt;Key benefits of the Single Market Centre are: &lt;/p&gt;
@@ -163,7 +166,8 @@ the deadline &lt;/li&gt;
     <updated>2012-12-11T16:23:33+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/foreign-secretary-written-ministerial-statement-on-the-balance-of-competences-of-the-european-union"/>
     <title>Foreign Secretary Written Ministerial Statement on the Balance of Competences of the European Union</title>
-    <category>News Article</category>
+    <category>News article</category>
+    <summary>Full text of the Foreign Secretary's statement updating Parliament on the Balance of Competences of the European Union.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;I wish to inform the House that, further to my oral statement at the launch of the Balance of Competences Review (Official Report 12 July 2012, Column 468), the Foreign and Commonwealth Office is today publishing the timetable for the review including departmental responsibility for the reports into each individual area of competence.   &lt;/p&gt;
 
 &lt;p&gt;The review will complete its work during 2014 and will look at the scope of the EU’s competences (the power to act in particular areas conferred on it by the EU Treaties) as they affect the UK, how they are used, and what that means for Britain and our national interests.   &lt;/p&gt;
@@ -408,7 +412,8 @@ the deadline &lt;/li&gt;
     <updated>2012-12-11T16:23:42+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/uk-turkey-relations"/>
     <title>UK-Turkey relations</title>
-    <category>News Article</category>
+    <category>News article</category>
+    <summary>Foreign Office Spokesperson responds to publication of FAC report on UK-Turkey relations and Turkey’s regional role.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Foreign Office Spokesperson siad;&lt;/p&gt;
 
 &lt;p&gt;“The House of Commons Foreign Affairs Select Committee (FAC) has published its report on UK-Turkey relations and Turkey’s regional role today. The report reflects the views of the Committee in line with its remit to examine the Government’s foreign policy. The Government will present its official response in June.&lt;/p&gt;
@@ -431,7 +436,8 @@ the deadline &lt;/li&gt;
     <updated>2012-12-11T16:23:35+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/eu-ministers-agree-further-sanctions-on-iran"/>
     <title>EU Ministers agree further sanctions on Iran</title>
-    <category>News Article</category>
+    <category>News article</category>
+    <summary>Foreign Secretary William Hague said that the decision to impose further sanctions on Iran demonstrates the EU's growing concern about the country's nuclear programme.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Speaking today the Foreign Secretary said:  &lt;/p&gt;
 
 &lt;p&gt;“Today’s action demonstrates the EU’s growing concern about Iran’s nuclear programme, and our determination to increase peaceful, legitimate pressure on Iran to return to negotiations.&lt;/p&gt;
@@ -450,7 +456,8 @@ the deadline &lt;/li&gt;
     <updated>2012-12-11T16:23:38+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/statement-on-european-court-judgement-on-taxation-in-gibraltar"/>
     <title>Statement on European Court Judgement on taxation in Gibraltar</title>
-    <category>News Article</category>
+    <category>News article</category>
+    <summary>Foreign Secretary William Hague has made a written statement to Parliament on the European Court Judgement on taxation in Gibraltar.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;“On 15 November 2011 the Court of Justice of the European Union (ECJ) published its judgment in appeal cases brought by the European Commission and Spain against the United Kingdom and the Government of Gibraltar on the issue of whether corporation tax changes proposed by the Government of Gibraltar in 2002 breached EU rules on State aid. In this judgment the ECJ has set aside the earlier judgment of the General Court of the European Union (General Court) dated 18 December 2008 and has found that the proposed tax regime, which was abandoned some time ago and was never implemented in Gibraltar, constituted State aid on grounds of material selectivity.  &lt;/p&gt;
 
 &lt;p&gt;The background to this case is that in August 2002 the UK notified the Commission, pursuant to Article 88(3) of the then EC Treaty (now Article 108(3) TfEU), that Gibraltar proposed to make changes to its tax system that would involve the introduction of a Payroll Tax and a Business Property Occupation Tax (BPOT). The Commission’s Decision of March 2004 found that the Payroll Tax and BPOT were materially selective because they would inherently favour offshore companies that had no physical presence in Gibraltar and which, as a consequence, would not incur corporation tax. The Commission also found that the proposed changes to Gibraltar’s tax system were regionally selective on the grounds that they provided for a system under which companies in Gibraltar would be taxed, in general, at a lower rate than those in the UK.&lt;/p&gt;
@@ -473,7 +480,8 @@ the deadline &lt;/li&gt;
     <updated>2012-12-11T16:23:39+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/written-ministerial-statement-on-the-general-affairs-council-and-foreign-affairs-council"/>
     <title>Written Ministerial Statement on the General Affairs Council and Foreign Affairs Council</title>
-    <category>News Article</category>
+    <category>News article</category>
+    <summary>The Foreign Affairs Council and General Affairs Council were held on 10-11 October in Luxembourg.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;In a written statement the Minister for Europe David Lidington said:&lt;/p&gt;
 
 &lt;p&gt;The Foreign Affairs Council and General Affairs Council were held on 10-11 October in Luxembourg.  My Rt. Hon. Friend the Foreign Secretary and I represented the UK.&lt;/p&gt;
@@ -583,7 +591,8 @@ the deadline &lt;/li&gt;
     <updated>2012-12-11T16:17:37+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/what-the-eu-needs-to-do-to-remain-competitive"/>
     <title>What the EU needs to do to remain competitive</title>
-    <category>News Article</category>
+    <category>News article</category>
+    <summary>Minister for Europe David Lidington has welcomed the publication of a report by British business leaders on priorities for ensuring a strong and competitive EU economy.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Minister for Europe David Lidington today attended the launch of Business for New Europe’s new publication, &lt;a rel="external" href="http://www.bnegroup.org/images/uploads/publications/files/BNE_Competitiveness_Publication_singles.pdf"&gt;Competitiveness: What the EU needs to do&lt;/a&gt; at Aviva plc. The publication includes essays from business leaders and identifies priorities for securing economic growth in the EU: completing the single market, supporting innovation, reducing the burdens of regulation and opening Europe for trade.&lt;/p&gt;
 
 &lt;p&gt;Contributors to the report include Sir Roger Carr, Chairman of Centrica, Roland Rudd, Chairman of BNE, Andrew Moss, CEO of Aviva, Vittorio Colao, CEO of Vodafone, Dr Chris Gibson-Smith, Chairman of the London Stock Exchange, and other leading business figures.&lt;/p&gt;
@@ -602,7 +611,8 @@ the deadline &lt;/li&gt;
     <updated>2012-12-11T16:16:41+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/european-council-unites-over-libya-japan-and-economic-growth"/>
     <title>European Council unites over Libya, Japan and economic growth</title>
-    <category>News Article</category>
+    <category>News article</category>
+    <summary>Prime Minister David Cameron has hailed the "real European unity" shown at the European Council as they discussed the mission to protect people in Libya and sent a "clear message of solidarity to the Japanese people"</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;At the two-day summit, Mr Cameron also said he had made good progress in translating Britain’s budget for growth into a “new agenda for the European economy”.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;European economic growth&lt;/strong&gt;&lt;/p&gt;

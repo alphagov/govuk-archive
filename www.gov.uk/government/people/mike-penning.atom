@@ -8,13 +8,15 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-09-03T00:00:00+01:00</updated>
+  <updated>2012-10-17T11:57:48+01:00</updated>
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/15036</id>
     <published>2012-09-03T00:00:00+01:00</published>
-    <updated>2012-09-03T00:00:00+01:00</updated>
+    <updated>2012-10-17T11:57:48+01:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/red-ensign-flies-for-merchant-navy-day"/>
     <title>Red Ensign flies for Merchant Navy Day</title>
+    <category>News article</category>
+    <summary>The Red Ensign flag will fly over the headquarters of the Department for Transport to mark the UK's thirteenth Merchant Navy Day.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Red Ensign flag will fly over the headquarters of the Department for Transport to mark the UK’s thirteenth Merchant Navy Day on Monday 3 September.&lt;/p&gt;
 
 &lt;p&gt;Since its introduction in 2000, Merchant Navy Day has provided an opportunity to remember the sacrifices of the seafarers of the past, to show appreciation for British shipping today and to look ahead to our future as a maritime nation.&lt;/p&gt;
@@ -43,9 +45,11 @@ Public Enquiries: 0300 330 3000&lt;/p&gt;&lt;/div&gt;</content>
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/14204</id>
     <published>2012-07-26T00:00:00+01:00</published>
-    <updated>2012-07-26T00:00:00+01:00</updated>
+    <updated>2012-10-14T20:36:02+01:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/alan-cook-reappointed-non-executive-chairman-of-highways-agency"/>
     <title>Alan Cook reappointed non-executive chairman of Highways Agency</title>
+    <category>News article</category>
+    <summary>Alan Cook has been reappointed as non-executive chairman of the Highways Agency Board for another 12 months.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Alan Cook has been reappointed by Transport Secretary Justine Greening as non-executive chairman of the Highways Agency Board for a further 12 months.&lt;/p&gt;
 
 &lt;p&gt;Mr Cook, who was first appointed in January 2011, will focus on supporting the Transport Secretary’s ambitious programme for reforming the strategic road network while ensuring that the Agency continues to deliver its business against tough efficiency targets.&lt;/p&gt;
@@ -89,10 +93,12 @@ Public Enquiries: 0300 330 3000&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/14243</id>
-    <published>2012-07-17T00:00:00+01:00</published>
-    <updated>2012-07-17T00:00:00+01:00</updated>
+    <published>2012-07-17T01:00:00+01:00</published>
+    <updated>2012-10-24T10:51:06+01:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/speeches/vehicle-identity-check-vic-scheme"/>
     <title>Vehicle Identity Check (VIC) scheme</title>
+    <category>Statement to parliament</category>
+    <summary>Written statement by Mike Penning MP, Parliamentary Under-Secretary of State for Transport. </summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Department has today published a consultation paper on the future of the Vehicle Identity Check (&lt;abbr title="Vehicle Identity Check"&gt;VIC&lt;/abbr&gt;) scheme.&lt;/p&gt;
 
 &lt;p&gt;The purpose of the &lt;abbr title="Vehicle Identity Check"&gt;VIC&lt;/abbr&gt; scheme is to deter the crime of vehicle ringing. Typically, this involves the theft of a car often of significant value, which is then given the identity of a similar car (make, model, colour etc) which has been the subject of an insurance write-off. The written-off car is obtained cheaply; its identity (VIN and registration numbers) is then transferred to a higher value stolen car which, now apparently genuine, can be sold at market price.&lt;/p&gt;
@@ -113,10 +119,12 @@ Public Enquiries: 0300 330 3000&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/14899</id>
-    <published>2012-07-17T00:00:00+01:00</published>
-    <updated>2012-07-17T00:00:00+01:00</updated>
+    <published>2012-07-17T01:00:00+01:00</published>
+    <updated>2012-10-22T14:55:50+01:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/speeches/driver-and-vehicle-licensing-agency-dvla--4"/>
     <title>Driver and Vehicle Licensing Agency (DVLA)</title>
+    <category>Statement to parliament</category>
+    <summary>Written statement by Mike Penning MP, Parliamentary Under-Secretary of State for Transport.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;There was an inadvertent error in the answer to the Parliamentary Question from Charles Kennedy on 9 July [115811], official report, column 69W. The answer indicated that Bangor, Beverley, Chester, Dundee, Exeter, Inverness, Maidstone, Peterborough, Sidcup, Theale, Truro, and Worcester local offices would close on 30 November 2012. The date should have read 30 November 2013.&lt;/p&gt;
 
 &lt;h2 id="related-links"&gt;Related links&lt;/h2&gt;
@@ -127,10 +135,12 @@ Public Enquiries: 0300 330 3000&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/16357</id>
-    <published>2012-07-14T00:00:00+01:00</published>
-    <updated>2012-07-14T00:00:00+01:00</updated>
+    <published>2012-07-14T01:00:00+01:00</published>
+    <updated>2012-10-25T10:20:12+01:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/speeches/driver-and-vehicle-licensing-agency-dvla--5"/>
     <title>Driver and Vehicle Licensing Agency (DVLA)</title>
+    <category>Statement to parliament</category>
+    <summary>Written statement by Mike Penning MP, Parliamentary Under-Secretary of State for Transport.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;In December 2011, I launched a &lt;a rel="external" href="http://www.dft.gov.uk/dvla/consultations/response_to_transformation.aspx"&gt;full consultation around a programme of work to transform the way that the &lt;abbr title="Driver and Vehicle Licensing Agency"&gt;DVLA&lt;/abbr&gt; delivers&lt;/a&gt; its services to customers. The consultation recognised the need to modernise the way these services are delivered and to respond to the growing demand for more flexible public services.&lt;/p&gt;
 
 &lt;p&gt;Today I am announcing that &lt;abbr title="Driver and Vehicle Licensing Agency"&gt;DVLA&lt;/abbr&gt; will press ahead with its proposals to modernise its services. As a result of this decision the &lt;abbr title="Driver and Vehicle Licensing Agency"&gt;DVLA&lt;/abbr&gt; will centralise its enforcement operations by March 2013 and will close its 39 local offices by the end of 2013. While I recognise that a large number of respondents expressed concerns, I believe that many of these concerns can be mitigated and I am confident that this programme will result in modern, effective services delivering savings of £26 million each year.&lt;/p&gt;
@@ -156,9 +166,11 @@ Public Enquiries: 0300 330 3000&lt;/p&gt;&lt;/div&gt;</content>
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/14831</id>
     <published>2012-07-13T00:00:00+01:00</published>
-    <updated>2012-07-13T00:00:00+01:00</updated>
+    <updated>2012-10-14T20:15:29+01:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/local-authorities-given-further-support-to-make-roads-safer"/>
     <title>Local authorities given further support to make roads safer</title>
+    <category>News article</category>
+    <summary>Updated speed limit guidance to help local authorities improve safety on their roads was published for consultation today by Mike Penning MP.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Updated speed limit guidance to help local authorities improve safety on their roads was published for consultation today by Road Safety Minister Mike Penning.&lt;/p&gt;
 
 &lt;p&gt;The guidance provides up-to-date advice to aid greater consistency of speed limits on local roads across England. It incorporates recent changes that have increased flexibility for local authorities to implement 20mph limits and zones where it can be shown that they benefit road safety and quality of life.&lt;/p&gt;
@@ -218,10 +230,12 @@ Public Enquiries: 0300 330 3000&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/14420</id>
-    <published>2012-07-10T00:00:00+01:00</published>
-    <updated>2012-07-10T00:00:00+01:00</updated>
+    <published>2012-07-10T01:00:00+01:00</published>
+    <updated>2012-10-25T10:39:13+01:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/speeches/taking-testing-to-the-customer"/>
     <title>Taking testing to the customer</title>
+    <category>Statement to parliament</category>
+    <summary>Written statement by Mike Penning MP, Parliamentary Under-Secretary of State for Transport.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Last year I asked the Driving Standards Agency (DSA) to consider arrangements for delivering practical car driving tests from premises other than traditional driving test centres such as local authority buildings or leisure centres to provide a more local service for candidates. On 27 March 2012 I announced to the House the next steps of that programme. I also informed the House that we would be seeking public and private organisations to work in partnership with the DSA to identify and provide locations from which the practical car test could be delivered.&lt;/p&gt;
 
 &lt;p&gt;I am pleased to report that real progress has been made and there are proposals being developed for partnerships with Halfords Group PLC and Mantra Learning Limited. Subject to working agreements being finalised and suitable premises with driving test routes being identified, driving tests should be delivered, in the locations I have already announced, from premises of these organisations in the near future. These will be non exclusive arrangements and DSA may, in future, consider other partnering agreements to provide premises, which meet its criteria. Local agreements with the fire and rescue service, particularly in areas not otherwise covered, are also being explored and there have also been discussions with several universities.&lt;/p&gt;
@@ -239,9 +253,11 @@ Public Enquiries: 0300 330 3000&lt;/p&gt;&lt;/div&gt;</content>
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/13319</id>
     <published>2012-07-10T00:00:00+01:00</published>
-    <updated>2012-07-10T00:00:00+01:00</updated>
+    <updated>2012-10-19T10:37:19+01:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/driving-tests-brought-closer-to-home-with-partnership-deal"/>
     <title>Driving tests brought closer to home with partnership deal</title>
+    <category>News article</category>
+    <summary>Driving tests could soon be available from branches of Halfords under plans announced by Road Safety Minister Mike Penning.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;As well as using traditional driving test centres, the Driving Standards Agency (&lt;abbr title="Driving Standards Agency"&gt;DSA&lt;/abbr&gt;) is looking at working with public and private sector partners to provide driving test premises in selected areas that don’t already have a local test centre. &lt;/p&gt;
 
 &lt;p&gt;&lt;abbr title="Driving Standards Agency"&gt;DSA&lt;/abbr&gt; began exploring a new approach to test delivery last year, offering tests from premises such as local authority buildings and leisure centres. In March this year the agency announced plans to extend the scheme to 21 more locations, and invited proposals from businesses and other organisations.&lt;/p&gt;
@@ -273,9 +289,11 @@ Public Enquiries: 0300 330 3000&lt;/p&gt;&lt;/div&gt;</content>
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/14178</id>
     <published>2012-06-26T00:00:00+01:00</published>
-    <updated>2012-06-26T00:00:00+01:00</updated>
+    <updated>2012-10-14T20:09:59+01:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/15m-boost-to-improve-cycle-accident-hotspots"/>
     <title>£15m boost to improve cycle accident hotspots</title>
+    <category>News article</category>
+    <summary>A further £15m funding to tackle dangerous junctions for cyclists across the country has been allocated by Norman Baker and Mike Penning.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;A further £15m funding to tackle dangerous junctions for cyclists across the country was &lt;a rel="external" href="http://www.dft.gov.uk/news/statements/baker-20120626a"&gt;announced today by Transport Ministers Norman Baker and Mike Penning&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;The investment - for use by English local authorities outside London - is in addition to the £15m awarded to Transport for London in March to tackle accident hotspots where cyclists have been killed or seriously injured. This has already delivered improvements at a number of sites in the capital with other junctions set to benefit over the next few months.&lt;/p&gt;
@@ -317,9 +335,11 @@ Public Enquiries: 0300 330 3000&lt;/p&gt;&lt;/div&gt;</content>
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/13320</id>
     <published>2012-06-21T00:00:00+01:00</published>
-    <updated>2012-06-21T00:00:00+01:00</updated>
+    <updated>2012-10-24T14:39:57+01:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/new-powers-to-protect-learner-drivers"/>
     <title>New powers to protect learner drivers</title>
+    <category>News article</category>
+    <summary>Driving instructors who pose a major threat to public safety face immediate suspension under new legislation put forward in Parliament.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Under the current legislation, it takes a minimum of 45 days to prevent an instructor from continuing to give paid driving instruction. However, from 13 July, the Registrar of Approved Driving Instructors will have the power to immediately suspend the registration or trainee licence of an instructor who presents a significant danger to the safety of the public. &lt;/p&gt;
 
 &lt;p&gt;Road Safety Minister Mike Penning said:&lt;/p&gt;

@@ -8,49 +8,25 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-12-19T00:00:00+00:00</updated>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60015</id>
-    <published>2012-12-19T00:00:00+00:00</published>
-    <updated>2012-12-19T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/one-in-one-out-third-statement-of-new-regulation"/>
-    <title>One-in, one-out: third statement of new regulation</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;A forward look of all regulations in scope of government’s ‘one-in, one-out’ regime that are scheduled to come into force between 1 January 2012 and 30 June 2012.&lt;/p&gt;
-
-&lt;p&gt;This is published every 6 months to give businesses an indication of when regulations affecting them will be coming into effect. It provides an overview of the net costs and benefits to business and civil society organisations, and forecasts a further reduction in new burdens on businesses by an estimated £4.17 million.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
+  <updated>2012-12-20T13:08:06+00:00</updated>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/60156</id>
     <published>2012-12-18T00:00:00+00:00</published>
-    <updated>2012-12-18T00:00:00+00:00</updated>
+    <updated>2012-12-20T13:08:06+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/number-of-enterprise-finance-guarantee-efg-scheme-loans-drawn"/>
     <title>Number and value of Enterprise Finance Guarantee (EFG) scheme loans drawn.</title>
+    <category>Publication</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Number and value of EFG loans drawn, by bank.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60128</id>
-    <published>2012-12-17T00:00:00+00:00</published>
-    <updated>2012-12-17T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/fifth-statement-of-new-regulation-sonr"/>
-    <title>Fifth statement of new regulation (SONR)</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Provides a forward look of all regulations in scope of government’s ‘One-in, two-out’ regime that are scheduled to come into force between 1 January and 30 June 2013.&lt;/p&gt;
-
-&lt;p&gt;This is published every 6 months to give businesses an indication of when regulations affecting them will be coming into effect. The headline figures show that the sum total of government deregulation by July 2013 is expected to reduce the annual cost to business by around £919 million.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60126</id>
-    <published>2012-12-17T00:00:00+00:00</published>
-    <updated>2012-12-17T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/bis-fifth-statement-of-new-regulation-regulations-covering-january-to-june-2013"/>
-    <title>BIS fifth statement of new regulation: regulations covering January to June 2013</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Lists Department for Business, Innovation &amp;amp; Skills (&lt;abbr title="Department for Business, Innovation and Skills"&gt;BIS&lt;/abbr&gt;) measures in scope of ‘One in, two out’ regulations to come into force from January to June 2013, to show how &lt;abbr title="Department for Business, Innovation and Skills"&gt;BIS&lt;/abbr&gt; is removing burdens on business.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/56364</id>
     <published>2012-12-17T00:00:00+00:00</published>
-    <updated>2012-12-17T00:00:00+00:00</updated>
+    <updated>2012-12-17T12:02:21+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/dclg-statement-of-new-regulation-1-january-to-30-june-2013"/>
     <title>DCLG statement of new regulation - 1 January to 30 June 2013</title>
+    <category>Publication</category>
+    <summary>Overview of regulations that are scheduled to be implemented or removed between 1 January and 30 June 2013.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;A forward look of all regulations in scope of government’s ‘one-in, two-out’ regime that are scheduled to come into force between 1 January and 30 June 2013.&lt;/p&gt;
 
 &lt;p&gt;This is published every 6 months to give businesses an indication of when regulations affecting them will be coming into effect.&lt;/p&gt;
@@ -64,23 +40,35 @@
 &lt;/ul&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56643</id>
-    <published>2012-12-14T00:00:00+00:00</published>
-    <updated>2012-12-14T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/assessment-of-the-business-link-helpline"/>
-    <title>Assessment of the Business Link helpline</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This study provides the Department for Business, Innovation and Skills (BIS) with an early understanding of whether the Business Link helpline is performing effectively against its strategic objective of ‘digital transformation’, in which more businesses are assisted online rather than through other higher cost provision (for example face-to-face contact). &lt;/p&gt;
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60126</id>
+    <published>2012-12-17T00:00:00+00:00</published>
+    <updated>2012-12-17T09:15:02+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/bis-fifth-statement-of-new-regulation-regulations-covering-january-to-june-2013"/>
+    <title>BIS fifth statement of new regulation: regulations covering January to June 2013</title>
+    <category>Publication</category>
+    <summary>Informs businesses and interested stakeholders of Department for Business domestic regulations that come into force between January and June 2013.</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Lists Department for Business, Innovation &amp;amp; Skills (&lt;abbr title="Department for Business, Innovation and Skills"&gt;BIS&lt;/abbr&gt;) measures in scope of ‘One in, two out’ regulations to come into force from January to June 2013, to show how &lt;abbr title="Department for Business, Innovation and Skills"&gt;BIS&lt;/abbr&gt; is removing burdens on business.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60128</id>
+    <published>2012-12-17T00:00:00+00:00</published>
+    <updated>2012-12-17T09:15:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/fifth-statement-of-new-regulation-sonr"/>
+    <title>Fifth statement of new regulation (SONR)</title>
+    <category>Publication</category>
+    <summary>An overview of regulations planned to be implemented or removed by government departments between 1 January and 30 June 2013.</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Provides a forward look of all regulations in scope of government’s ‘One-in, two-out’ regime that are scheduled to come into force between 1 January and 30 June 2013.&lt;/p&gt;
 
-&lt;p&gt;In addition, the research has assessed the value of the service being provided to callers and how far actual demand has matched expectations. The findings are being used to help inform plans for continual improvement of the service. &lt;/p&gt;
-
-&lt;p&gt;The review is based on interviews with helpline staff, analysis of monitoring data, call case studies and a customer survey that consisted of 657 telephone interviews that were completed with customers of the helpline.&lt;/p&gt;&lt;/div&gt;</content>
+&lt;p&gt;This is published every 6 months to give businesses an indication of when regulations affecting them will be coming into effect. The headline figures show that the sum total of government deregulation by July 2013 is expected to reduce the annual cost to business by around £919 million.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/56617</id>
     <published>2012-12-14T00:00:00+00:00</published>
-    <updated>2012-12-14T00:00:00+00:00</updated>
+    <updated>2012-12-17T17:06:46+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/list-of-certified-companies"/>
     <title>List of certified companies </title>
+    <category>Publication</category>
+    <summary>Exporters need to always consult this listing if they intend to register for the OGEL (certified companies) published by the Export Control Organisation </summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This list is published by the Export Control Organisation (ECO) in conjunction with the &lt;a href="https://www.gov.uk/military-goods-ogels#ogel-certified-companies"&gt;Open general export licence (certified companies)&lt;/a&gt;. &lt;/p&gt;
 
 &lt;p&gt;This particular OGEL permits, subject to certain conditions, the export or transfer of items specified in Schedule 1 of the licence to those companies referred to in Schedule 2. &lt;/p&gt;
@@ -90,11 +78,27 @@
 &lt;p&gt;You should also be aware that the Euopean Commission also publishes a publically available database called &lt;a rel="external" href="http://ec.europa.eu/enterprise/sectors/defence/certider/"&gt;CERTIDER&lt;/a&gt;. This Euopean database contains more information about the certification of defence-related companies across Europe. Access You can also &lt;a rel="external" href="http://ec.europa.eu/enterprise/sectors/defence/certider/help/CERTIDER_Europa%20Manual_EN.pdf"&gt;download guidance on consulting the CERTIDER database on the Europa website (PDF, 1.81MB)&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56643</id>
+    <published>2012-12-14T00:00:00+00:00</published>
+    <updated>2012-12-14T17:05:28+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/assessment-of-the-business-link-helpline"/>
+    <title>Assessment of the Business Link helpline</title>
+    <category>Publication</category>
+    <summary>Provides an early understanding of how effectively the Business Link helpline is performing. </summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This study provides the Department for Business, Innovation and Skills (BIS) with an early understanding of whether the Business Link helpline is performing effectively against its strategic objective of ‘digital transformation’, in which more businesses are assisted online rather than through other higher cost provision (for example face-to-face contact). &lt;/p&gt;
+
+&lt;p&gt;In addition, the research has assessed the value of the service being provided to callers and how far actual demand has matched expectations. The findings are being used to help inform plans for continual improvement of the service. &lt;/p&gt;
+
+&lt;p&gt;The review is based on interviews with helpline staff, analysis of monitoring data, call case studies and a customer survey that consisted of 657 telephone interviews that were completed with customers of the helpline.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/56755</id>
     <published>2012-12-14T00:00:00+00:00</published>
-    <updated>2012-12-14T00:00:00+00:00</updated>
+    <updated>2012-12-17T10:13:21+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/assessment-of-the-online-business-support-offer-growth-and-improvement-service-my-new-business"/>
     <title>Assessment of the online business support offer: Growth and Improvement Service, My New Business</title>
+    <category>Publication</category>
+    <summary>Assesses whether the new Business Link website services were performing effectively in their strategic role of digital transformation.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This study provides the Department for Business, Innovation and Skills (BIS) with an early understanding of whether online business support services provided by Business Link have performed effectively against the strategic objective of ‘digital transformation’.  That is to successfully assist businesses through a website rather than through higher cost services (for example face to face contact). &lt;/p&gt;
 
 &lt;p&gt;The study also makes an early assessment of the value of the services provided to new users, with a focus on cost effectiveness and effective referral to other appropriate business support services in the public, private and third sectors. The support services include the comprehensive start-up service provided by My New Business, and online tools provided by the Growth Improvement Service, enabling businesses to identify and solve problems.&lt;/p&gt;&lt;/div&gt;</content>
@@ -102,9 +106,11 @@
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/52540</id>
     <published>2012-12-12T00:00:00+00:00</published>
-    <updated>2012-12-12T00:00:00+00:00</updated>
+    <updated>2012-12-12T20:40:21+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/exchange-of-notes-uk-note-concerning-itar-rule-change-dated-11-august-2011"/>
     <title>Exchange of notes (UK Note) concerning ITAR rule change dated 11 August 2011</title>
+    <category>Publication</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Document issued in conjunction with the International Trade in Arms Regulations (ITAR) rule change dated 11 August 2011. &lt;/p&gt;
 
 &lt;p&gt;This note was issued in conjunction with an equivalent US Note. &lt;/p&gt;
@@ -114,17 +120,21 @@
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/54863</id>
     <published>2012-12-12T00:00:00+00:00</published>
-    <updated>2012-12-12T00:00:00+00:00</updated>
+    <updated>2012-12-12T13:31:38+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/analysis-of-the-distribution-of-private-sector-enterprises-by-turnover"/>
     <title>Analysis of the distribution of private sector enterprises by turnover</title>
+    <category>Publication</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Counts of private sector enterprises by turnover from Inter-Departmental Business Register (IDBR) June 2012. Published by the Department for Business, Innovation and Skills.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/50166</id>
     <published>2012-12-11T00:00:00+00:00</published>
-    <updated>2012-12-11T00:00:00+00:00</updated>
+    <updated>2012-12-12T19:39:08+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/the-shareholder-executive-publications"/>
     <title>The Shareholder Executive: publications</title>
+    <category>Publication</category>
+    <summary>Working with shareholder departments in government to improve fundamentally the government’s capabilities and performance as a shareholder.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="senior-team"&gt;Senior team&lt;/h2&gt;
 
 &lt;section class="attachment embedded" id="attachment_49071"&gt;&lt;div class="attachment-thumb"&gt;
@@ -180,57 +190,71 @@
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/56356</id>
     <published>2012-11-30T00:00:00+00:00</published>
-    <updated>2012-11-30T00:00:00+00:00</updated>
+    <updated>2012-12-13T17:33:21+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/red-tape-challenge-retail-and-manufacturing-consultation-second-government-response"/>
     <title>Red tape challenge retail and manufacturing consultation: second government response</title>
+    <category>Publication</category>
+    <summary>Second government response to the retail and manufacturing consultation.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Second government response to the &lt;a href="https://www.gov.uk/government/consultations/red-tape-challenge-retail-and-manufacturing-consultation--2"&gt;red tape challenge retail and manufacturing consultation&lt;/a&gt; covering the government’s amendment of the Pyrotechnic Articles and revocation of the Pencils and Graphic Instruments Regulations. Also summarises public responses to the consultation.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/48220</id>
     <published>2012-11-28T00:00:00+00:00</published>
-    <updated>2012-11-28T00:00:00+00:00</updated>
+    <updated>2012-12-11T16:31:01+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/implementing-the-recommendations-from-the-breedon-review-a-progress-report-november-2012"/>
     <title>Implementing the recommendations from the Breedon Review: a progress report (November 2012)</title>
+    <category>Publication</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Provides an update for each recommendation made by the industry taskforce on non-bank lending led by Tim Breedon. See also See 12/668 for the taskforce report, and 12/669 for the government response.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/56620</id>
     <published>2012-11-27T00:00:00+00:00</published>
-    <updated>2012-11-27T00:00:00+00:00</updated>
+    <updated>2012-12-11T16:31:00+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/10-point-plan-for-eu-smart-regulation"/>
     <title>10 point plan for EU smart regulation</title>
+    <category>Publication</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Secretary of State for Business, along with Ministers from 12 other Member States, jointly signed a ‘10 point plan for EU smart regulation’. Sent to Commission President Barroso on 19 November 2012, in advance of the Commission’s forthcoming Smart Regulation Communication in December 2012. It calls on the Commission to advance the agenda on smart regulation, and to cut red tape at the EU level by reducing the overall EU regulatory burden.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/48221</id>
     <published>2012-11-27T00:00:00+00:00</published>
-    <updated>2012-11-27T00:00:00+00:00</updated>
+    <updated>2012-12-11T16:31:01+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/jo-swinsons-response-to-non-governmental-organisation-campaigns-on-transparency-in-the-extractives-industry-ministerial-statement"/>
     <title>Jo Swinson's response to non-governmental organisation campaigns on transparency in the extractives industry: ministerial statement</title>
+    <category>Publication</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Statement by Minister Jo Swinson given in response to letters and emails received regarding the new corporate transparency measures included in the European Union Accounting Directive relating to the oil, gas and mining industries.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56113</id>
-    <published>2012-11-22T00:00:00+00:00</published>
-    <updated>2012-11-22T00:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/ensuring-equity-markets-support-long-term-growth-government-response-to-the-kay-review"/>
-    <title>Ensuring equity markets support long-term growth: government response to the Kay review</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Government’s response to Professor John Kay’s report into the effect of UK equity markets on the competitiveness of UK business (URN 12/917). Explains why the Government accepts Professor Kay’s analysis and his suggested principles for UK equity markets, and the directions from these principles for market participants and regulatory policy makers. Also provides detailed responses to the 17 more specific review recommendations, explaining what steps the Government is taking to deliver these, and where they are engaging with business and investment industry stakeholders to encourage them to take the lead.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/56389</id>
     <published>2012-11-22T00:00:00+00:00</published>
-    <updated>2012-11-22T00:00:00+00:00</updated>
+    <updated>2012-12-11T16:30:59+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/business-school-mid-sized-business-msb-collaboration-supporting-growth-in-the-uks-mid-sized-businesses"/>
     <title>Business school/mid-sized business (MSB) collaboration: supporting growth in the UK's mid-sized businesses</title>
+    <category>Publication</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Summarises findings and recommendations from the business school mid-sized business (MSB) task force set up by BIS in November 2011. While the Task Force has uncovered many examples of effective business school engagement with MSBs, there is much more that both sides can do to foster stronger, more sustainable relationships. The report is a call to action for business schools to proactively engage with MSBs, and for MSBs to improve their own management capability.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56113</id>
+    <published>2012-11-22T00:00:00+00:00</published>
+    <updated>2012-12-11T16:30:44+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/ensuring-equity-markets-support-long-term-growth-government-response-to-the-kay-review"/>
+    <title>Ensuring equity markets support long-term growth: government response to the Kay review</title>
+    <category>Publication</category>
+    <summary/>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Government’s response to Professor John Kay’s report into the effect of UK equity markets on the competitiveness of UK business (URN 12/917). Explains why the Government accepts Professor Kay’s analysis and his suggested principles for UK equity markets, and the directions from these principles for market participants and regulatory policy makers. Also provides detailed responses to the 17 more specific review recommendations, explaining what steps the Government is taking to deliver these, and where they are engaging with business and investment industry stakeholders to encourage them to take the lead.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/47196</id>
     <published>2012-11-15T00:00:00+00:00</published>
-    <updated>2012-11-15T00:00:00+00:00</updated>
+    <updated>2012-12-11T16:30:24+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/consultations/call-for-evidence-on-the-governments-review-of-the-balance-of-competences-between-the-united-kingdom-and-the-european-union"/>
     <title>Call for evidence on the government's review of the balance of competences between the United Kingdom and the European Union</title>
+    <category>Consultation</category>
+    <summary>This call for evidence is to help inform the government's review of the balance of competences between the EU and the UK.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;hr&gt;&lt;p&gt;&lt;img src="http://www.bis.gov.uk/assets/biscore/corporate/images/logos/balance-of-competencies.JPG?w=200&amp;amp;h=50&amp;amp;as=1" alt="Review of the Balance of Competences"&gt;&lt;/p&gt;
 
 &lt;p&gt;The Government is carrying out a review of the balance of competences between the EU and the UK. This is an audit of what the EU does and how it affects the UK. You can read more about it on the &lt;a rel="external" href="http://www.fco.gov.uk/en/global-issues/european-union/balance-of-competences-review/"&gt;Foreign and Commonwealth Office’s web page on the balance of competences review&lt;/a&gt;. &lt;/p&gt;
@@ -244,17 +268,31 @@
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/48186</id>
     <published>2012-11-01T00:00:00+00:00</published>
-    <updated>2012-11-01T00:00:00+00:00</updated>
+    <updated>2012-12-11T16:30:54+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/enterprise-regulatory-reform-bill-competition-and-markets-authority"/>
     <title>Enterprise &amp; Regulatory Reform Bill: Competition and Markets Authority</title>
+    <category>Publication</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Overview of measures in the Enterprise and Regulatory Reform Bill relating to the competition reform and the Competition and Markets Authority. Explains the main purpose and benefits, and provides context.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/56306</id>
     <published>2012-11-01T00:00:00+00:00</published>
-    <updated>2012-11-01T00:00:00+00:00</updated>
+    <updated>2012-12-11T16:30:55+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/enterprise-regulatory-reform-bill-equalities-equality-act-2010"/>
     <title>Enterprise &amp; Regulatory Reform Bill: equalities (Equality Act 2010)</title>
+    <category>Publication</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Overview of measures in the Enterprise and Regulatory Reform Bill relating to removing obstacles preventing the government from achieving a fair society, and introducing stronger steps towards addressing the gender pay gap. Explains the main purpose and benefits, and provides context.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56311</id>
+    <published>2012-11-01T00:00:00+00:00</published>
+    <updated>2012-12-11T16:30:55+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/enterprise-regulatory-reform-bill-civil-liability-and-health-and-safety-at-work-regulations"/>
+    <title>Enterprise &amp; Regulatory Reform Bill: civil liability and health and safety at work regulations</title>
+    <category>Publication</category>
+    <summary/>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Overview of measures in the Enterprise and Regulatory Reform Bill relating to addressing potential unfairness arising when an employer is found liable to pay compensation to an employee, despite having taken all reasonable steps to protect them. Explains the main purpose and benefits, and provides context.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
 </feed>

@@ -8,13 +8,15 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-08-22T01:00:00+01:00</updated>
+  <updated>2012-12-11T16:30:16+00:00</updated>
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/47128</id>
     <published>2012-08-22T01:00:00+01:00</published>
-    <updated>2012-08-22T01:00:00+01:00</updated>
+    <updated>2012-12-11T16:30:16+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/next-steps-making-midata-a-reality"/>
     <title>Next steps making midata a reality</title>
+    <category>News article</category>
+    <summary>Government highlights latest proposals for the groundbreaking midata programme, which aims to give consumers access to their data.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;22 Aug 2012&lt;/p&gt;
 
 &lt;hr&gt;&lt;hr&gt;&lt;p&gt;midata is a partnership between the UK government, consumer groups and major businesses. It’s aimed at giving consumers access to the data created through their household utility use, banking, internet transactions and high street loyalty cards.&lt;/p&gt;
@@ -53,10 +55,12 @@
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/47563</id>
-    <published>2012-07-03T00:00:00+01:00</published>
-    <updated>2012-07-03T00:00:00+01:00</updated>
+    <published>2012-07-03T01:00:00+01:00</published>
+    <updated>2012-12-11T16:30:27+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/speeches/the-future-of-employment-law"/>
     <title>The Future of Employment Law</title>
+    <category>Statement to parliament</category>
+    <summary>Norman lamb tells the CIPS why the government is changing employment law to benefit both businesses and employees.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Thank you for asking me to speak today. I’m sorry I can’t be with you in person, but the Enterprise and Regulatory Reform Bill is currently passing through Parliament and I have to be at today’s Committee session to debate the Government’s plans for reforming employment law.   &lt;/p&gt;
 
 &lt;p&gt;I’d like to begin by paying tribute to the fantastic work the CIPD does to foster high standards in HR management. In a former life I was an employment lawyer and I spent a lot of time working with excellent HR professionals.   &lt;/p&gt;
@@ -162,9 +166,11 @@
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/47119</id>
     <published>2012-07-02T01:00:00+01:00</published>
-    <updated>2012-07-02T01:00:00+01:00</updated>
+    <updated>2012-12-11T16:30:14+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/modernising-copyright-to-help-strengthen-contribution-to-growth"/>
     <title>Modernising copyright to help strengthen contribution to growth</title>
+    <category>News article</category>
+    <summary>Government has announced new legislative measures to update and strengthen the UK’s copyright licensing system.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;2 Jul 2012&lt;/p&gt;
 
 &lt;hr&gt;&lt;hr&gt;&lt;p&gt;New clauses will be included in the Enterprise and Regulatory Reform (ERR) Bill to: &lt;/p&gt;
@@ -199,9 +205,11 @@
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/47101</id>
     <published>2012-06-21T01:00:00+01:00</published>
-    <updated>2012-06-21T01:00:00+01:00</updated>
+    <updated>2012-12-11T16:30:11+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/collective-redundancy-rules-to-be-changed"/>
     <title>Collective redundancy rules to be changed</title>
+    <category>News article</category>
+    <summary>Employment Relations Minister Norman Lamb has published proposals to reform rules for consulting staff about large scale redundancies.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;21 Jun 2012&lt;/p&gt;
 
 &lt;hr&gt;&lt;hr&gt;&lt;p&gt;The new measures propose a more flexible regime and better consultation with staff. They seek to help companies respond to changing economic conditions. They also improve communication between managers and their staff to reduce uncertainty during the collective redundancy process.&lt;/p&gt;
@@ -236,10 +244,12 @@
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/47555</id>
-    <published>2012-05-21T00:00:00+01:00</published>
-    <updated>2012-05-21T00:00:00+01:00</updated>
+    <published>2012-05-21T01:00:00+01:00</published>
+    <updated>2012-12-11T16:30:25+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/speeches/post-office-mutualisation"/>
     <title>Post Office Mutualisation</title>
+    <category>Statement to parliament</category>
+    <summary>Norman Lamb provides an update on government progress in implementing its postal services policy.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;It is a great honour to be invited to address your annual conference today. I also welcome the opportunity this has provided for me to meet many of you on an individual face to face basis - last night at the President’s dinner, this morning over breakfast and I hope during the course of the day until I leave after lunch.   &lt;/p&gt;
 
 &lt;p&gt;I am still a relative newcomer to my role as Postal Services Minister - having been in post just over three months. Though I feel I am now well up the post office network learning curve, I hope you will bear with me if one or two gaps do emerge during the course of the day.   &lt;/p&gt;
@@ -402,9 +412,11 @@
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/47089</id>
     <published>2012-05-11T01:00:00+01:00</published>
-    <updated>2012-05-11T01:00:00+01:00</updated>
+    <updated>2012-12-11T16:30:09+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/new-groceries-code-adjudicator"/>
     <title>New Groceries Code Adjudicator</title>
+    <category>News article</category>
+    <summary>Bill to protect suppliers from unfair treatment by supermarkets is published in the House of Lords.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;11 May 2012&lt;/p&gt;
 
 &lt;hr&gt;&lt;hr&gt;&lt;p&gt;The creation of a new Adjudicator will beef up protection for farmers and suppliers. It will ensure that large retailers treat them fairly by lawfully adhering to the Groceries Code.&lt;/p&gt;
@@ -451,9 +463,11 @@
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/18374</id>
     <published>2012-04-25T01:00:00+01:00</published>
-    <updated>2012-04-25T01:00:00+01:00</updated>
+    <updated>2012-12-11T16:25:38+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/help-in-hiring-your-first-employee"/>
     <title>Help in hiring your first employee</title>
+    <category>News article</category>
+    <summary>New online toolkit provides first-time employers with a step-by-step guide on hiring staff.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;&lt;a rel="external" href="http://www.improve.businesslink.gov.uk/resources/tools/taking-employee?furlname=employ&amp;amp;furlparam=employ&amp;amp;ref=http%3A//www.bis.gov.uk/common-employment-myths&amp;amp;domain=www.businesslink.gov.uk"&gt;The Taking on a Employee toolkit&lt;/a&gt; on Business Link takes employers through the process of hiring their first member of staff. It also explains their core legal obligations, and guidance on:&lt;/p&gt;
 
 &lt;ul&gt;
@@ -492,9 +506,11 @@
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/18373</id>
     <published>2012-04-11T01:00:00+01:00</published>
-    <updated>2012-04-11T01:00:00+01:00</updated>
+    <updated>2012-12-11T16:25:38+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/new-national-board-will-uncover-scams-and-rogue-traders"/>
     <title>New national board will uncover scams and rogue traders</title>
+    <category>News article</category>
+    <summary>New proposals to create a National Trading Standards Board and make Citizens Advice a champion for consumer information.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;&lt;a rel="external" href="http://www.bis.gov.uk//assets/biscore/consumer-issues/docs/e/12-510-empowering-protecting-consumers-government-response.pdf"&gt;BIS has announced the latest measures (PDF, 310 Kb) &lt;/a&gt; to improve the systems of help, advice and protection available for consumers, with Citizens Advice and Citizens Advice Scotland taking on responsibilities from the Office for Fair Trading (OFT) and Consumer Focus. &lt;/p&gt;
 
 &lt;p&gt;This will mean: &lt;/p&gt;
@@ -539,9 +555,11 @@
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/18364</id>
     <published>2012-03-28T01:00:00+01:00</published>
-    <updated>2012-03-28T01:00:00+01:00</updated>
+    <updated>2012-12-11T16:25:36+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/improving-trading-standards-to-protect-consumers"/>
     <title>Improving Trading Standards to protect consumers</title>
+    <category>News article</category>
+    <summary>Have your say on proposals to make it easier for Trading Standards officers to tackle rogue traders, and reduce the burdens on business.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The consultation seeks to modernise consumer law by consolidating and simplifying officers’ investigatory powers set out in around 60 scattered pieces of consumer law into a single set. This will ensure that powers are transparent for both business and regulators. &lt;/p&gt;
 
 &lt;p&gt;The proposals also aims to reduce burdens on business, by ensuring that officers’ routine visits are pre-arranged unless there are compelling reasons for them to be unannounced. &lt;/p&gt;
@@ -578,9 +596,11 @@
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/18347</id>
     <published>2012-02-21T00:00:00+00:00</published>
-    <updated>2012-02-21T00:00:00+00:00</updated>
+    <updated>2012-12-11T16:25:34+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/purchasing-power-to-the-people--2"/>
     <title>Purchasing power to the people</title>
+    <category>News article</category>
+    <summary>New £60,000 Community Challenge Prize launches.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Co-operatives UK and BIS have joined forces to launch the &lt;a rel="external" href="http://discuss.bis.gov.uk/buying/the-buy-better-together-challenge-feb-2012/"&gt;Buy Better Together Challenge&lt;/a&gt;, an exciting initiative to help inspire new models of community buying, stimulate enterprise and promote shared learning.&lt;/p&gt;
 
 &lt;p&gt;The £60k pot will go towards training and mentoring for stand out projects and includes £15k for the overall winner.&lt;/p&gt;

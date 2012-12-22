@@ -8,13 +8,15 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-12-17T12:03:00+00:00</updated>
+  <updated>2012-12-17T12:03:22+00:00</updated>
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/56972</id>
     <published>2012-12-17T12:03:00+00:00</published>
-    <updated>2012-12-17T12:03:00+00:00</updated>
+    <updated>2012-12-17T12:03:22+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/new-figures-show-government-is-winning-war-on-red-tape"/>
     <title>New figures show government is winning war on red tape</title>
+    <category>News article</category>
+    <summary>Business Minister pledges tougher action to eliminate burdens on enterprise.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Business will benefit from nearly £1 billion in reduced red tape costs thanks to government action, independent figures revealed today.&lt;/p&gt;
 
 &lt;p&gt;The Fifth Statement of New Regulation reports that the overall closing balance for ‘One-in, One-out’, the government rule that dictates that every new cost on business must be balanced by an equivalent saving, is predicted to be around £836 million since January 2011. These figures are independently verified.&lt;/p&gt;
@@ -71,6 +73,8 @@
     <updated>2012-12-14T10:00:37+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/government-tackles-red-tape-head-on-with-package-of-measures"/>
     <title>Government tackles red tape head on with package of measures</title>
+    <category>News article</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;A review of the way that appeals are handled by regulators launched today is the first stage of a new wave of bureaucracy busting measures announced by the government, Business Minister Michael Fallon confirmed today.&lt;/p&gt;
 
 &lt;p&gt;Businesses and other interested parties will have a chance to take part in a review of the effectiveness of appeals mechanisms operated by national and local regulators. The Focus on Enforcement Appeals Review will give those affected the opportunity to talk about their experiences of formal and informal appeals processes, and suggest how they could be made to work more effectively, providing a swifter route to resolution and better industry understanding.   &lt;/p&gt;
@@ -134,9 +138,11 @@
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/39716</id>
     <published>2012-12-05T14:00:00+00:00</published>
-    <updated>2012-12-05T14:00:00+00:00</updated>
+    <updated>2012-12-11T08:23:28+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/autumn-statement-2012"/>
     <title>Autumn Statement 2012</title>
+    <category>News article</category>
+    <summary>The Chancellor of the Exchequer, George Osborne, has delivered his 2012 Autumn Statement to Parliament.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Autumn Statement is one of two major statements the Treasury has to give to parliament every year.&lt;/p&gt;
 
 &lt;p&gt;The Statement provides an update on the Government’s plans for the economy based on the latest forecasts from the Office for Budget Responsibility. These forecasts are published alongside the Autumn Statement on 5 December. &lt;/p&gt;
@@ -188,9 +194,11 @@ Public Enquiries: 0300 330 3000  &lt;/p&gt;
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/47142</id>
     <published>2012-10-10T01:00:00+01:00</published>
-    <updated>2012-10-10T01:00:00+01:00</updated>
+    <updated>2012-12-11T16:30:18+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/paving-the-way-to-business-freedom"/>
     <title>Paving the way to business freedom</title>
+    <category>News article</category>
+    <summary>Latest amendments to the Enterprise and Regulatory Reform Bill have been published.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;10 Oct 2012&lt;/p&gt;
 
 &lt;hr&gt;&lt;hr&gt;&lt;p&gt;The latest package of measures will help cut unnecessary red tape and take steps towards creating the right conditions for businesses to grow.&lt;/p&gt;
@@ -224,9 +232,11 @@ Public Enquiries: 0300 330 3000  &lt;/p&gt;
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/47140</id>
     <published>2012-10-01T01:00:00+01:00</published>
-    <updated>2012-10-01T01:00:00+01:00</updated>
+    <updated>2012-12-11T16:30:18+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/freedom-day-for-business-as-red-tape-stripped-back"/>
     <title>Freedom Day for Business as Red Tape Stripped Back</title>
+    <category>News article</category>
+    <summary>From 1 October 2012, tens of thousands of small businesses and hundreds of venues that host live music events will be freed from the burdens of unnecessary red tape.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;1 Oct 2012&lt;/p&gt;
 
 &lt;hr&gt;&lt;hr&gt;&lt;p&gt;The reforms are part of a wider strategy to cut red tape, including the Red Tape Challenge, which invited the public, business and the voluntary sector to give their views on which regulations should stay, be improved, or be scrapped altogether. Today dozens of regulations will be removed or simplified, giving businesses more freedom to grow. &lt;/p&gt;
@@ -260,9 +270,11 @@ Public Enquiries: 0300 330 3000  &lt;/p&gt;
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/47134</id>
     <published>2012-09-20T01:00:00+01:00</published>
-    <updated>2012-09-20T01:00:00+01:00</updated>
+    <updated>2012-12-11T16:30:17+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/business-minister-unlocks-new-business-potential"/>
     <title>Business minister unlocks new business potential</title>
+    <category>News article</category>
+    <summary>Business minister Michael Fallon announces extra support including less red tape for challenger businesses.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;20 Sep 2012&lt;/p&gt;
 
 &lt;hr&gt;&lt;hr&gt;&lt;ul&gt;
@@ -318,9 +330,11 @@ Public Enquiries: 0300 330 3000  &lt;/p&gt;
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/47136</id>
     <published>2012-09-14T01:00:00+01:00</published>
-    <updated>2012-09-14T01:00:00+01:00</updated>
+    <updated>2012-12-11T16:30:18+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/new-proposals-to-streamline-employment-law"/>
     <title>New proposals to streamline employment law</title>
+    <category>News article</category>
+    <summary>Vince Cable announces measures to give firms more flexibility and confidence in managing their workforce and to reduce employment law red tape.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;14 Sep 2012&lt;/p&gt;
 
 &lt;hr&gt;&lt;hr&gt;&lt;p&gt;Today’s package comes in response to calls from business to simplify and speed up the process of ending the employment relationship when it breaks down, for the benefit of both employers and employees.&lt;/p&gt;
@@ -362,9 +376,11 @@ responses to its call for evidence on the TUPE rules, when staff transfer to a n
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/47132</id>
     <published>2012-09-10T01:00:00+01:00</published>
-    <updated>2012-09-10T01:00:00+01:00</updated>
+    <updated>2012-12-11T16:30:17+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/red-tape-blitz-to-boost-business-growth"/>
     <title>Red tape blitz to boost business growth</title>
+    <category>News article</category>
+    <summary>Shops, offices, pubs and clubs will no longer face burdensome health and safety inspections, and over 3,000 regulations will be scrapped or overhauled.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;10 Sep 2012&lt;/p&gt;
 
 &lt;hr&gt;&lt;hr&gt;&lt;p&gt;From April 2013, the Government intends to introduce binding new rules on both the Health &amp;amp; Safety Executive and on local authorities, that will exempt hundreds of thousands of businesses from burdensome health &amp;amp; safety inspections. &lt;/p&gt;
@@ -402,9 +418,11 @@ responses to its call for evidence on the TUPE rules, when staff transfer to a n
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/47120</id>
     <published>2012-07-04T01:00:00+01:00</published>
-    <updated>2012-07-04T01:00:00+01:00</updated>
+    <updated>2012-12-11T16:30:15+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/focusing-on-enforcement-of-regulation-in-pubs"/>
     <title>Focusing on enforcement of regulation in pubs</title>
+    <category>News article</category>
+    <summary>The Government is encouraging anyone involved in running a pub, particularly a community pub, to feed in their experiences, good and bad, of dealing with local authorities and other regulators as part of the Focus on Enforcement campaign.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;4 Jul 2012&lt;/p&gt;
 
 &lt;hr&gt;&lt;hr&gt;&lt;p&gt;For the next six weeks, we want to hear how the way regulations relating to pubs are enforced can be improved, reduced or done differently. &lt;/p&gt;
@@ -442,9 +460,11 @@ responses to its call for evidence on the TUPE rules, when staff transfer to a n
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/47098</id>
     <published>2012-05-23T01:00:00+01:00</published>
-    <updated>2012-05-23T01:00:00+01:00</updated>
+    <updated>2012-12-11T16:30:10+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/volunteer-to-make-a-difference-to-the-way-regulations-are-enforced"/>
     <title>Volunteer to make a difference to the way regulations are enforced</title>
+    <category>News article</category>
+    <summary>Volunteers all over the country are being asked to share their experiences of local and national authority regulators to help ensure that future events run smoothly.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;23 May 2012&lt;/p&gt;
 
 &lt;hr&gt;&lt;hr&gt;&lt;p&gt;As part of the &lt;a rel="external" href="http://discuss.bis.gov.uk/focusonenforcement"&gt;Focus on Enforcement&lt;/a&gt; campaign, government is encouraging anyone involved in volunteering to arrange events - from arranging a jumble sale, to organising a Jubilee party - to share their experiences of dealing with local authorities and other regulators. For the next six weeks, we want to hear how the way regulations are enforced can be improved, reduced or done differently. &lt;/p&gt;
@@ -479,9 +499,11 @@ responses to its call for evidence on the TUPE rules, when staff transfer to a n
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/47087</id>
     <published>2012-05-09T01:00:00+01:00</published>
-    <updated>2012-05-09T01:00:00+01:00</updated>
+    <updated>2012-12-11T16:30:08+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/focus-on-enforcement-looks-at-chemical-manufacturing"/>
     <title>Focus on Enforcement looks at chemical manufacturing</title>
+    <category>News article</category>
+    <summary>Help the government identify problems and best practice in how regulation is enforced for businesses in chemicals manufacturing and storage.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;9 May 2012&lt;/p&gt;
 
 &lt;hr&gt;&lt;hr&gt;&lt;p&gt;The &lt;a rel="external" href="http://discuss.bis.gov.uk/focusonenforcement/your-experiences-of-dealing-with-regulators/"&gt;second review for the government’s Focus on Enforcement campaign&lt;/a&gt; is now up and running.&lt;/p&gt;
@@ -520,9 +542,11 @@ responses to its call for evidence on the TUPE rules, when staff transfer to a n
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/18378</id>
     <published>2012-05-01T01:00:00+01:00</published>
-    <updated>2012-05-01T01:00:00+01:00</updated>
+    <updated>2012-12-11T16:25:39+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/improving-regulation-in-food-manufacturing"/>
     <title>Improving regulation in food manufacturing</title>
+    <category>News article</category>
+    <summary>Help the government identify what are the problems in how regulation is enforced for small businesses in food manufacture.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The first review theme for the government’s &lt;a rel="external" href="http://discuss.bis.gov.uk/focusonenforcement"&gt;Focus on Enforcement&lt;/a&gt; campaign is now up and running. It focuses on how enforcement of regulation can be improved, reduced or done differently.   &lt;/p&gt;
 
 &lt;p&gt;For the next five weeks, small businesses in food manufacturing are invited to share their experiences of working with national regulators and local authorities. This can include: &lt;/p&gt;
@@ -554,9 +578,11 @@ responses to its call for evidence on the TUPE rules, when staff transfer to a n
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/47086</id>
     <published>2012-05-01T01:00:00+01:00</published>
-    <updated>2012-05-01T01:00:00+01:00</updated>
+    <updated>2012-12-11T16:30:08+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/improving-regulation-in-food-manufacturing--2"/>
     <title>Improving regulation in food manufacturing</title>
+    <category>News article</category>
+    <summary>Help the government identify what are the problems in how regulation is enforced for small businesses in food manufacture.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;1 May 2012&lt;/p&gt;
 
 &lt;hr&gt;&lt;hr&gt;&lt;p&gt;The first review theme for the government’s &lt;a rel="external" href="http://discuss.bis.gov.uk/focusonenforcement"&gt;Focus on Enforcement&lt;/a&gt; campaign is now up and running. It focuses on how enforcement of regulation can be improved, reduced or done differently.   &lt;/p&gt;
@@ -590,9 +616,11 @@ responses to its call for evidence on the TUPE rules, when staff transfer to a n
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/18364</id>
     <published>2012-03-28T01:00:00+01:00</published>
-    <updated>2012-03-28T01:00:00+01:00</updated>
+    <updated>2012-12-11T16:25:36+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/improving-trading-standards-to-protect-consumers"/>
     <title>Improving Trading Standards to protect consumers</title>
+    <category>News article</category>
+    <summary>Have your say on proposals to make it easier for Trading Standards officers to tackle rogue traders, and reduce the burdens on business.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The consultation seeks to modernise consumer law by consolidating and simplifying officers’ investigatory powers set out in around 60 scattered pieces of consumer law into a single set. This will ensure that powers are transparent for both business and regulators. &lt;/p&gt;
 
 &lt;p&gt;The proposals also aims to reduce burdens on business, by ensuring that officers’ routine visits are pre-arranged unless there are compelling reasons for them to be unannounced. &lt;/p&gt;
@@ -629,9 +657,11 @@ responses to its call for evidence on the TUPE rules, when staff transfer to a n
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/18357</id>
     <published>2012-03-23T00:00:00+00:00</published>
-    <updated>2012-03-23T00:00:00+00:00</updated>
+    <updated>2012-12-11T16:25:36+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/focus-on-enforcement"/>
     <title>Focus on Enforcement</title>
+    <category>News article</category>
+    <summary>Government wants your views on how enforcement can be improved or done differently.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Vince Cable has today launched the &lt;a rel="external" href="http://discuss.bis.gov.uk/focusonenforcement"&gt;Focus on Enforcement&lt;/a&gt; campaign. &lt;/p&gt;
 
 &lt;p&gt;It asks business to tell Government where enforcement can be improved, reduced or done differently. It aims to discover and celebrate where enforcement works well, so others can learn from it. &lt;/p&gt;
@@ -680,9 +710,11 @@ responses to its call for evidence on the TUPE rules, when staff transfer to a n
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/18356</id>
     <published>2012-03-23T00:00:00+00:00</published>
-    <updated>2012-03-23T00:00:00+00:00</updated>
+    <updated>2012-12-11T16:25:35+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/backing-small-businesses-to-grow--2"/>
     <title>Backing small businesses to grow</title>
+    <category>News article</category>
+    <summary>New measures to strengthen supply chains and reduce the burden of regulation for businesses.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Vince Cable has set out the practical steps Government is taking to help SMEs by boosting business investment and cutting red tape. This includes:&lt;/p&gt;
 
 &lt;ul&gt;
@@ -717,9 +749,11 @@ responses to its call for evidence on the TUPE rules, when staff transfer to a n
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/18635</id>
     <published>2012-03-15T00:00:00+00:00</published>
-    <updated>2012-03-15T00:00:00+00:00</updated>
+    <updated>2012-12-11T16:26:13+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/speeches/british-chambers-of-commerce-annual-conference-speech-15-march-2012"/>
     <title>British Chambers of Commerce Annual Conference speech 15 March 2012</title>
+    <category>Statement to parliament</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Good afternoon. I’m grateful for this opportunity to speak to the British Chambers of Commerce and its many members. I value the strong and honest relationship that we enjoy: one fully maintained with John Longworth as your CEO. &lt;/p&gt;
 
 &lt;p&gt;It’s fair to say you have played a critical role over the past year, working extensively with the government as we have got on with our core task of implementing a new economic strategy. &lt;/p&gt;
@@ -831,9 +865,11 @@ responses to its call for evidence on the TUPE rules, when staff transfer to a n
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/18629</id>
     <published>2012-02-27T00:00:00+00:00</published>
-    <updated>2012-02-27T00:00:00+00:00</updated>
+    <updated>2012-12-11T16:26:12+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/speeches/cutting-the-burden-and-costs-of-regulation--2"/>
     <title>Cutting the burden and costs of regulation</title>
+    <category>Statement to parliament</category>
+    <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="introduction"&gt;Introduction&lt;/h2&gt;
 
 &lt;p&gt;I’m grateful to Politeia for this opportunity to speak about Government’s approach to deregulation.&lt;/p&gt;
@@ -934,9 +970,11 @@ And won exemption for micro businesses from the European Union’s accounting ru
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/18312</id>
     <published>2011-11-16T00:00:00+00:00</published>
-    <updated>2011-11-16T00:00:00+00:00</updated>
+    <updated>2012-12-11T16:25:28+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/apprenticeships-boost-for-business"/>
     <title>Apprenticeships boost for business</title>
+    <category>News article</category>
+    <summary>Vince Cable guarantees quality, slashes red tape and delivers cash boost for firms taking on apprentices.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Vince Cable has announced new measures to ensure more young people benefit from an apprenticeship, and to help employers gain the skilled workers they need to grow.&lt;/p&gt;
 
 &lt;p&gt;As part of the Government’s &lt;a rel="external" href="http://www.bis.gov.uk//policies/growth"&gt;plan for growth&lt;/a&gt;, Ministers are taking action to make it easier for companies to take on apprentices, and ensure that the quality of apprenticeships is continually improved.&lt;/p&gt;
@@ -969,9 +1007,11 @@ And won exemption for micro businesses from the European Union’s accounting ru
   <entry>
     <id>tag:www.gov.uk,2005:AnnouncementPresenter/18322</id>
     <published>2011-11-10T00:00:00+00:00</published>
-    <updated>2011-11-10T00:00:00+00:00</updated>
+    <updated>2012-12-11T16:25:30+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/new-measures-announced-to-boost-british-business"/>
     <title>New measures announced to boost British business</title>
+    <category>News article</category>
+    <summary>Government announces new measures to help small businesses grow and create jobs, export to new markets, secure finance and cut red tape.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Prime Minister David Cameron announced the the business growth package at the ‘Exporting for Growth’ and Fitness Finance conference that will benefit hundreds of small businesses. They include:&lt;/p&gt;
 
 &lt;ul&gt;

@@ -8,13 +8,15 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-12-19T00:00:00+00:00</updated>
+  <updated>2012-12-19T16:21:17+00:00</updated>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/59988</id>
     <published>2012-12-19T00:00:00+00:00</published>
-    <updated>2012-12-19T00:00:00+00:00</updated>
+    <updated>2012-12-19T16:21:17+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/despatch-ezine-issue-06-2012"/>
     <title>Despatch ezine: issue 06/2012</title>
+    <category>Publication</category>
+    <summary>Despatch is the ezine for road safety professionals from the Driving Standards Agency (DSA). You can download issue 06/2012.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This issue has articles about:&lt;/p&gt;
 
 &lt;ul&gt;
@@ -30,9 +32,11 @@
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/55873</id>
     <published>2012-12-13T00:00:00+00:00</published>
-    <updated>2012-12-13T00:00:00+00:00</updated>
+    <updated>2012-12-13T09:48:57+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/consultations/motoring-services-strategy"/>
     <title>Motoring services strategy</title>
+    <category>Consultation</category>
+    <summary>Seeking views on reforms which will put customers and businesses closer to the heart of the 4 motoring services agencies.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This consultation seeks views on reforms which will put customers and businesses closer to the heart of the 4 motoring services agencies:&lt;/p&gt;
 
 &lt;ul&gt;
@@ -54,9 +58,11 @@
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/17200</id>
     <published>2012-11-28T00:00:00+00:00</published>
-    <updated>2012-11-28T00:00:00+00:00</updated>
+    <updated>2012-11-28T16:11:15+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/relocation-of-falkirk-driving-test-centre-to-grangemouth"/>
     <title>Relocation of Falkirk driving test centre to Grangemouth</title>
+    <category>Publication</category>
+    <summary>This initial screening was carried out to find out the impact of relocating the driving test centre at Falkirk to Grangemouth.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Driving Standards Agency (&lt;abbr title="Driving Standards Agency"&gt;DSA&lt;/abbr&gt;) has closed the driving test centre at Falkirk and opened a new one in Grangemouth. This is to improve facilities for driving examiners and candidates. &lt;/p&gt;
 
 &lt;p&gt;The new test centre opened on 9 November 2012.&lt;/p&gt;
@@ -71,6 +77,8 @@
     <updated>2012-11-27T13:23:13+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/consultations/approving-drink-drive-rehabilitation-courses"/>
     <title>Approving drink-drive rehabilitation courses</title>
+    <category>Consultation</category>
+    <summary>This consultation is about updating how drink-drive rehabilitation scheme courses are provided so more people take training.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="summary"&gt;Summary&lt;/h2&gt;
 
 &lt;p&gt;This consultation is about updating the arrangements for providing training courses under the drink-drive rehabilitation scheme, including how they’re funded.&lt;/p&gt;
@@ -128,9 +136,11 @@
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/55663</id>
     <published>2012-11-15T00:00:00+00:00</published>
-    <updated>2012-11-15T00:00:00+00:00</updated>
+    <updated>2012-12-12T19:54:42+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/driver-certificate-of-professional-competence-cpc-statistics"/>
     <title>Driver Certificate of Professional Competence (CPC) statistics</title>
+    <category>Publication</category>
+    <summary>Driver CPC statistics, including modules conducted, periodic training, driver qualification cards and centres and courses approved.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="about-these-statistics"&gt;About these statistics&lt;/h2&gt;
 &lt;p&gt;These operational statistics about Driver Certificate of Professional (&lt;abbr title="Certificate of Professional Competence"&gt;CPC&lt;/abbr&gt;) modules and training have not been designated as an official statistic.&lt;/p&gt;
 
@@ -164,65 +174,81 @@
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/15338</id>
     <published>2012-11-13T00:00:00+00:00</published>
-    <updated>2012-11-13T00:00:00+00:00</updated>
+    <updated>2012-11-13T15:26:10+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/car-theory-and-practical-driving-tests-taken-in-london"/>
     <title>Car theory and practical driving tests taken in London</title>
+    <category>Publication</category>
+    <summary>Response to FOI request IA0057012: Car theory and practical driving tests taken in London.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Information about car theory and practical driving tests taken in London.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/15331</id>
     <published>2012-11-13T00:00:00+00:00</published>
-    <updated>2012-11-13T00:00:00+00:00</updated>
+    <updated>2012-11-13T15:13:45+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/short-notice-driving-test-cancellations-and-fee-reimbursements"/>
     <title>Short notice driving test cancellations and fee reimbursements </title>
+    <category>Publication</category>
+    <summary>Response to FOI request IA0058512: Short notice driving test cancellations and fee reimbursements.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Information about short notice driving test cancellations and fee reimbursements.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/15323</id>
     <published>2012-11-13T00:00:00+00:00</published>
-    <updated>2012-11-13T00:00:00+00:00</updated>
+    <updated>2012-11-13T15:07:01+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/cost-of-the-driver-cpc-recording-and-evidencing-database"/>
     <title>Cost of the Driver CPC recording and evidencing database</title>
+    <category>Publication</category>
+    <summary>Response to FOI request IA0048512: Cost of the Driver CPC recording and evidencing database.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Information about the cost of the Driver CPC recording and evidencing database.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/15340</id>
     <published>2012-11-13T00:00:00+00:00</published>
-    <updated>2012-11-13T00:00:00+00:00</updated>
+    <updated>2012-11-13T15:29:47+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/car-theory-and-practical-driving-tests-passed-on-6-or-more-attempts-at-stoke-on-trent"/>
     <title>Car theory and practical driving tests passed on 6 or more attempts at Stoke on Trent</title>
+    <category>Publication</category>
+    <summary>Response to FOI request IA0057912: Car theory and practical driving tests passed on 6 or more attempts at Stoke on Trent.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Information about car theory and practical driving tests passed on 6 or more attempts at Stoke on Trent.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/15335</id>
     <published>2012-11-13T00:00:00+00:00</published>
-    <updated>2012-11-13T00:00:00+00:00</updated>
+    <updated>2012-11-13T15:20:05+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/top-10-serious-and-dangerous-faults-made-on-the-car-practical-driving-test"/>
     <title>Top 10 serious and dangerous faults made on the car practical driving test </title>
+    <category>Publication</category>
+    <summary>Response to FOI request IA0057112: Top 10 serious and dangerous faults made on the car practical driving test .</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Information about the top 10 serious and dangerous faults made on the car practical driving test.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/15337</id>
     <published>2012-11-13T00:00:00+00:00</published>
-    <updated>2012-11-13T00:00:00+00:00</updated>
+    <updated>2012-11-13T15:11:16+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/dvla-medical-driver-appraisals-completed-by-dsa"/>
     <title>DVLA medical driver appraisals completed by DSA</title>
+    <category>Publication</category>
+    <summary>Response to FOI request IA0058712: DVLA medical driver appraisals completed by DSA.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Information about DVLA medical driver appraisals completed by DSA.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/15320</id>
     <published>2012-11-13T00:00:00+00:00</published>
-    <updated>2012-11-13T00:00:00+00:00</updated>
+    <updated>2012-11-13T15:04:53+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/occurrences-where-a-candidate-has-failed-to-attend-their-driving-test"/>
     <title>Occurrences where a candidate has failed to attend their driving test</title>
+    <category>Publication</category>
+    <summary>Response to FOI request IA0059212: Occurrences where a candidate has failed to attend their driving test.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Information about occurrences where a candidate has failed to attend their driving test.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/14464</id>
     <published>2012-11-08T00:00:00+00:00</published>
-    <updated>2012-11-08T00:00:00+00:00</updated>
+    <updated>2012-11-12T17:03:04+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/history-of-road-safety-and-the-driving-test"/>
     <title>History of road safety and the driving test</title>
+    <category>Publication</category>
+    <summary>The Highway Code was launched in 1931 and the driving test became compulsory in Great Britain in 1935.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="introduction"&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;Driver licences were first introduced in Britain by the Motor Car Act, 1903, purely as a means of identifying vehicles and their drivers. &lt;/p&gt;
 
@@ -619,59 +645,73 @@ Provisional licences were brought in for heavy goods vehicle (&lt;abbr title="He
 &lt;/ul&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/13057</id>
-    <published>2012-10-19T00:00:00+01:00</published>
-    <updated>2012-10-19T00:00:00+01:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/car-practical-driving-tests-at-trowbridge-westbury-chippenham-and-swindon"/>
-    <title>Car practical driving tests at Trowbridge, Westbury, Chippenham and Swindon</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Information about car practical driving tests at Trowbridge, Westbury, Chippenham and Swindon.&lt;/p&gt;&lt;/div&gt;</content>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/13066</id>
+    <published>2012-10-19T01:00:00+01:00</published>
+    <updated>2012-11-12T11:00:54+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/consecutive-approved-driving-instructor-check-tests-at-grade-6"/>
+    <title>Consecutive approved driving instructor check tests at grade 6</title>
+    <category>Publication</category>
+    <summary>Response to FOI request IA0043812: Consecutive approved driving instructor check tests at grade 6.</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Information about consecutive approved driving instructor check tests at grade 6.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/13059</id>
-    <published>2012-10-19T00:00:00+01:00</published>
-    <updated>2012-10-19T00:00:00+01:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/attempts-to-pass-car-practical-driving-tests"/>
-    <title>Attempts to pass car practical driving tests</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Information about attempts to pass car practical driving tests.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/13060</id>
-    <published>2012-10-19T00:00:00+01:00</published>
-    <updated>2012-10-19T00:00:00+01:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/driving-test-refund-policy"/>
-    <title>Driving test refund policy</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Questions about the driving test refund policy.&lt;/p&gt;&lt;/div&gt;</content>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/13067</id>
+    <published>2012-10-19T01:00:00+01:00</published>
+    <updated>2012-11-12T10:59:35+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/car-theory-and-practical-driving-test-impersonation-cases"/>
+    <title>Car theory and practical driving test impersonation cases</title>
+    <category>Publication</category>
+    <summary>Response to FOI request IA0044812: Car theory and practical driving test impersonation cases.</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Information about car theory and practical driving test impersonation cases.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/15659</id>
-    <published>2012-10-19T00:00:00+01:00</published>
-    <updated>2012-10-19T00:00:00+01:00</updated>
+    <published>2012-10-19T01:00:00+01:00</published>
+    <updated>2012-11-09T15:40:29+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/assaults-on-and-bribes-offered-to-driving-examiners"/>
     <title>Assaults on and bribes offered to driving examiners</title>
+    <category>Publication</category>
+    <summary>Response to FOI request IA0039612: Assaults on and bribes offered to driving examiners.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Questions about assaults on and bribes offered to driving examiners.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/15490</id>
+    <published>2012-10-19T01:00:00+01:00</published>
+    <updated>2012-11-12T16:39:57+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/the-number-of-lgv-category-c-and-c-e-conducted-and-passed-since-2004-05"/>
+    <title>LGV category C and C+E practical driving tests taken and passed from 2004 to 2005</title>
+    <category>Publication</category>
+    <summary>Response to FOI request IA0040112: LGV category C and C+E practical driving tests taken and passed from 2004 to 2005.</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Information about LGV category C and C+E practical driving tests taken and passed from 2004 to 2005.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/13047</id>
+    <published>2012-10-19T01:00:00+01:00</published>
+    <updated>2012-11-12T11:22:45+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/theory-and-practical-driving-test-waiting-times-in-wales-and-the-number-of-examiners"/>
+    <title>Theory and practical driving test waiting times in Wales and the number of examiners</title>
+    <category>Publication</category>
+    <summary>Response to FOI request IA0036912: Theory and practical driving test waiting times in Wales and the number of examiners.</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Information about theory and practical driving test waiting times in Wales and the number of examiners.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/13051</id>
-    <published>2012-10-19T00:00:00+01:00</published>
-    <updated>2012-10-19T00:00:00+01:00</updated>
+    <published>2012-10-19T01:00:00+01:00</published>
+    <updated>2012-11-09T20:54:25+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/youngest-approved-motorcycle-instructor"/>
     <title>Youngest approved motorcycle instructor</title>
+    <category>Publication</category>
+    <summary>Response to FOI request IA0038312: Youngest approved motorcycle instructor.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Information about the youngest approved motorcycle instructor.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/13052</id>
-    <published>2012-10-19T00:00:00+01:00</published>
-    <updated>2012-10-19T00:00:00+01:00</updated>
+    <published>2012-10-19T01:00:00+01:00</published>
+    <updated>2012-11-12T14:46:53+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/car-and-motorcycle-theory-and-practical-driving-test-statistics-for-horsforth-and-leeds"/>
     <title>Car and motorcycle theory and practical driving test statistics for Horsforth and Leeds</title>
+    <category>Publication</category>
+    <summary>Response to FOI request IA0038912: Car and motorcycle theory and practical driving test statistics for Horsforth and Leeds.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Information about car and motorcycle theory and practical driving test statistics for Horsforth and Leeds. &lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/13054</id>
-    <published>2012-10-19T00:00:00+01:00</published>
-    <updated>2012-10-19T00:00:00+01:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/practical-driving-test-fraud-at-bradfords-heaton-and-thornbury-test-centres"/>
-    <title>Practical driving test fraud at Bradford's Heaton and Thornbury test centres</title>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Information about practical driving test fraud at Bradford’s Heaton and Thornbury test centres.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
 </feed>
