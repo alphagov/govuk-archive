@@ -8,27 +8,7 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-12-21T16:02:34+00:00</updated>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60320</id>
-    <published>2012-12-21T00:00:00+00:00</published>
-    <updated>2012-12-21T16:02:34+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/dartmoor-environment-and-socio-economic-surveys"/>
-    <title>Dartmoor: environment and socio-economic surveys</title>
-    <category>Publication</category>
-    <summary>This is the written agreement between the MOD and National Park Authorities.</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Summaries of a number of Dartmoor surveys. &lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60819</id>
-    <published>2012-12-21T00:00:00+00:00</published>
-    <updated>2012-12-21T16:51:37+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/logistics-for-joint-operations"/>
-    <title>Logistics for Joint Operations</title>
-    <category>Publication</category>
-    <summary>Logistics for Joint Operations, Joint Doctrine Publication 4-00</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Logistics for Joint Operations, Joint Doctrine Publication 4-00 (3rd edition).&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
+  <updated>2012-12-21T11:46:57+00:00</updated>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/60307</id>
     <published>2012-12-21T00:00:00+00:00</published>
@@ -38,36 +18,6 @@
     <category>Publication</category>
     <summary>These rules apply to all systems interacting with Ministry of Defence Information and Communication Technology (ICT) systems.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This JSP has been developed to define a set of rules that are to be applied to all systems interacting with the Department’s current and planned Information and Communication Technology (ICT) systems.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60817</id>
-    <published>2012-12-21T00:00:00+00:00</published>
-    <updated>2012-12-21T16:43:15+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/dte-epynt-way-public-information-leaflet"/>
-    <title> DTE Epynt Way Public Information Leaflet</title>
-    <category>Publication</category>
-    <summary> DTE Epynt Way Public Information Leaflet </summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;DTE Epynt Way Public Information Leaflet&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60816</id>
-    <published>2012-12-21T00:00:00+00:00</published>
-    <updated>2012-12-21T16:43:08+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/dte-wales-public-information-leaflet"/>
-    <title>DTE Wales Public Information Leaflet</title>
-    <category>Publication</category>
-    <summary>DTE Wales Public Information Leaflet</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;DTE Wales Public Information Leaflet&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60814</id>
-    <published>2012-12-21T00:00:00+00:00</published>
-    <updated>2012-12-21T16:51:32+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/civil-military-co-operation"/>
-    <title>Civil Military Co-operation</title>
-    <category>Publication</category>
-    <summary>Civil Military Co-operation, Joint Doctrine Publication 3-90.</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Civil Military Co-operation (CIMIC), Joint Doctrine Publication 3-90&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/60813</id>
@@ -120,34 +70,54 @@
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;DTE Pembrokeshire Public Information Leaflet&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60797</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60806</id>
     <published>2012-12-21T00:00:00+00:00</published>
-    <updated>2012-12-21T16:48:53+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/media-operations"/>
-    <title>Media Operations</title>
+    <updated>2012-12-21T16:42:15+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/dte-otterburn-public-information-leaflet"/>
+    <title>DTE Otterburn Public Information Leaflet</title>
     <category>Publication</category>
-    <summary>Media Operations, Joint Doctrine Publication 3-45.1</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Media Operations, Joint Doctrine Publication 3-45.1&lt;/p&gt;&lt;/div&gt;</content>
+    <summary>DTE Otterburn Public Information Leaflet</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;DTE Otterburn Public Information Leaflet&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60796</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60805</id>
     <published>2012-12-21T00:00:00+00:00</published>
-    <updated>2012-12-21T16:40:50+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/dte-north-east-public-information-leaflet"/>
-    <title>DTE North East Public Information Leaflet</title>
+    <updated>2012-12-21T16:41:37+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/dte-home-counties-public-information-leaflet"/>
+    <title>DTE Home Counties Public Information Leaflet</title>
     <category>Publication</category>
-    <summary>DTE North East Public Information Leaflet</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;DTE North East Public Information Leaflet&lt;/p&gt;&lt;/div&gt;</content>
+    <summary>DTE Home Counties Public Information Leaflet</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;DTE Home Counties Public Information Leaflet&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60794</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60804</id>
     <published>2012-12-21T00:00:00+00:00</published>
-    <updated>2012-12-21T16:48:45+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/the-evolution-of-british-coin"/>
-    <title>The evolution of British COIN</title>
+    <updated>2012-12-21T16:51:18+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/disaster-relief-operations"/>
+    <title>Disaster Relief Operations</title>
     <category>Publication</category>
-    <summary>The evolution of British COIN by Colonel (retd) Michael Crawshaw</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The evolution of British COIN, a paper on counter insurgency published by JDP.&lt;/p&gt;&lt;/div&gt;</content>
+    <summary>Disaster Relief Operations, Joint Doctrine Publication 3-52</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Disaster Relief Operations, Joint Doctrine Publication 3-52 (2nd edition)&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60803</id>
+    <published>2012-12-21T00:00:00+00:00</published>
+    <updated>2012-12-21T16:41:23+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/dte-east-public-information-leaflet"/>
+    <title>DTE East Public Information Leaflet </title>
+    <category>Publication</category>
+    <summary>DTE East Public Information Leaflet </summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;DTE East Public Information Leaflet &lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60801</id>
+    <published>2012-12-21T00:00:00+00:00</published>
+    <updated>2012-12-21T16:41:13+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/dte-salisbury-plain-public-information-leaflet"/>
+    <title>DTE Salisbury Plain Public Information Leaflet </title>
+    <category>Publication</category>
+    <summary>DTE Salisbury Plain Public Information Leaflet </summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;DTE Salisbury Plain Public Information Leaflet &lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/60791</id>
@@ -208,5 +178,35 @@
     <category>Publication</category>
     <summary>Operations in the UK: the Defence contribution to resilience.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Joint Doctrine Publication 02 (2nd edition)&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60766</id>
+    <published>2012-12-21T00:00:00+00:00</published>
+    <updated>2012-12-21T16:47:04+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/campaigning-a-joint-doctrine-publication"/>
+    <title>Campaigning - a Joint Doctrine Publication</title>
+    <category>Publication</category>
+    <summary>Campaigning</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Campaigning - Joint Doctrine Publication 01&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60764</id>
+    <published>2012-12-21T00:00:00+00:00</published>
+    <updated>2012-12-21T15:38:04+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/dartmoor-training-area-the-need-for-military-training-on-defence-training-estate-south-west-2007"/>
+    <title>Dartmoor Training Area:  The need for military training on Defence Training Estate South West, 2007</title>
+    <category>Publication</category>
+    <summary>The need for military training on Defence Training Estate South West, 2007</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The need for military training on Defence Training Estate South West, 2007&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60763</id>
+    <published>2012-12-21T00:00:00+00:00</published>
+    <updated>2012-12-21T16:46:55+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/a-guide-to-red-teaming"/>
+    <title>A guide to Red Teaming</title>
+    <category>Publication</category>
+    <summary>A DCDC guidance note.</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;A guide to Red Teaming.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
 </feed>
