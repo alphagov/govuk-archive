@@ -8,7 +8,23 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-12-21T16:52:24+00:00</updated>
+  <updated>2012-12-24T08:30:47+00:00</updated>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60855</id>
+    <published>2012-12-24T08:30:47+00:00</published>
+    <updated>2012-12-24T08:30:47+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/consultations/consultation-on-the-repeal-of-the-property-misdescriptions-act-1991"/>
+    <title>Consultation on the repeal of the Property Misdescriptions Act 1991</title>
+    <category>Consultation</category>
+    <summary/>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;hr&gt;&lt;p&gt;The Department for Business, Innovation and Skills is seeking views on the possible repeal of the Property Misdescriptions Act 1991 (PMA). The PMA makes it an offence to make false or misleading statements in the course of an estate agency or property development business about property offered for sale. The Consumer Protection from Unfair Trading Regulations 2008 (CPRs) provide similar protections for consumers. This duplication may be unnecessary; putting additional burdens on business, without providing additional protection for consumers. The consultation considers whether the Government should repeal the PMA, now that the CPRs are in place.&lt;/p&gt;
+
+&lt;h2 id="download-the-consultation"&gt;Download the consultation&lt;/h2&gt;
+
+&lt;hr&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a rel="external" href="http://www.bis.gov.uk/assets/biscore/consumer-issues/docs/c/11-505-consultation-repeal-property-misdescriptions-act.pdf"&gt;Consultation on the repeal of the Property Misdescriptions Act 1991 (PDF, 304 Kb)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
+  </entry>
   <entry>
     <id>tag:www.gov.uk,2005:DetailedGuidePresenter/60818</id>
     <published>2012-12-21T16:52:24+00:00</published>
@@ -364,6 +380,16 @@ e-mail enquiries: &lt;a href="mailto:enquiries.competitionact@oft.gov.uk"&gt;enq
 &lt;p&gt;The &lt;abbr title="National Industrial Biotechnology Demonstrator"&gt;NIBF&lt;/abbr&gt; will allow biotechnology companies to de-risk product and process development. By exploring and then optimising processes, companies will be are able to calculate the most cost-effective combination of materials; process steps and sequences; and the equipment needed to manufacture profitably. Consequently, they will minimise the risk of investing in the wrong capital equipment, using inefficient processes or facing unexpected costs.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60294</id>
+    <published>2012-12-21T00:00:00+00:00</published>
+    <updated>2012-12-21T10:35:37+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/english-business-survey-october-2012"/>
+    <title>English Business Survey October 2012</title>
+    <category>Publication</category>
+    <summary/>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The English business survey will provide Ministers and officials with information about the current economic and business conditions across England.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/60195</id>
     <published>2012-12-21T00:00:00+00:00</published>
     <updated>2012-12-21T09:30:00+00:00</updated>
@@ -374,16 +400,6 @@ e-mail enquiries: &lt;a href="mailto:enquiries.competitionact@oft.gov.uk"&gt;enq
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;BIS research paper no. 98. Presents findings from case study visits to 8 of the 22 Jobcentres that took part in the joint location trials with Next Step (now known as the National Careers Service).&lt;/p&gt;
 
 &lt;p&gt;It highlights key issues arising from the research with a view to contributing to the success of the wider roll out of joint location in Jobcentres in England.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60294</id>
-    <published>2012-12-21T00:00:00+00:00</published>
-    <updated>2012-12-21T10:35:37+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/english-business-survey-october-2012"/>
-    <title>English Business Survey October 2012</title>
-    <category>Publication</category>
-    <summary/>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The English business survey will provide Ministers and officials with information about the current economic and business conditions across England.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PolicyPresenter/60105</id>
@@ -1085,56 +1101,5 @@ e-mail enquiries: &lt;a href="mailto:enquiries.competitionact@oft.gov.uk"&gt;enq
 &lt;/li&gt;
   &lt;li&gt;Work is underway across government to achieve these ambitions, including progress on more than 250 measures as part of the Growth Review. Developing an Industrial Strategy gives new impetus to this work by providing businesses, investors and the public with more clarity about the long-term direction in which the government wants the economy to travel.&lt;/li&gt;
 &lt;/ol&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PolicyPresenter/59984</id>
-    <published>2012-12-20T12:12:47+00:00</published>
-    <updated>2012-12-20T12:12:47+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/policies/preventing-and-reducing-anti-competitive-activities"/>
-    <title>Preventing and reducing anti-competitive activities</title>
-    <category>Policy</category>
-    <summary>What the government is doing to reduce anti-competitive activities.</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="the-issue"&gt;The issue&lt;/h2&gt;
-&lt;p&gt;Competitive markets are the best way of making sure a country’s resources are put to their best use. They encourage enterprise and widen choice for consumers.&lt;/p&gt;
-
-&lt;p&gt;Anti-competitive activities can develop in any economy. They can harm consumers and stifle innovation and growth. &lt;/p&gt;
-
-&lt;p&gt;An example of an anti-competitive activity would be when two companies agree to charge the same price for a similar product. This protects the companies’ profits but means consumers get less choice.  &lt;/p&gt;
-
-&lt;p&gt;Anti-competitive activities can be very bad for consumers. That’s why they have to be identified and stopped as quickly as possible.&lt;/p&gt;
-
-&lt;p&gt;One of the government’s three growth objectives is that the UK should become the best place to start, finance and grow a business. Reforming and improving the laws on anti-competitive activities is a major part of this work.&lt;/p&gt;
-
-&lt;h2 id="actions"&gt;Actions&lt;/h2&gt;
-
-&lt;h3 id="changing-competition-law"&gt;Changing competition law&lt;/h3&gt;
-&lt;p&gt;The government is reforming the laws that cover competition and anti-competitive activities in business, including those relating to mergers, markets and illegal activities such as price-fixing and cartels. &lt;/p&gt;
-
-&lt;p&gt;We’re also reforming the institutions that police competition and anti-competitive activities, and strengthening their powers. &lt;/p&gt;
-
-&lt;p&gt;These laws, institutions and powers are collectively known as the competition regime.&lt;/p&gt;
-
-&lt;p&gt;We’ve produced a &lt;a href="https://www.gov.uk/processes-for-tackling-anti-competitive-activity--2"&gt;guide to the competition regime&lt;/a&gt; if you’d like to know more.&lt;/p&gt;
-
-&lt;h3 id="competition-landscape"&gt;Competition landscape&lt;/h3&gt;
-&lt;p&gt;We’re making changes to the organisations that deal with competition and anti-competitive activities in business. We’re doing this between now and the end of 2014. This work is part of the &lt;a href="https://www.gov.uk/government/policies/providing-better-information-and-protection-for-consumers/supporting-pages/consumer-and-competition-landscape-reform" title="Consumer and competition landscape reforms."&gt;Consumer and competition landscape reforms&lt;/a&gt;. &lt;/p&gt;
-
-&lt;h3 id="setting-up-a-new-watchdog-for-the-grocery-industry"&gt;Setting up a new watchdog for the grocery industry&lt;/h3&gt;
-&lt;p&gt;We’re creating a new watchdog for the grocery industry. The &lt;a href="https://www.gov.uk/government/policies/preventing-and-reducing-anti-competitive-activities/supporting-pages/groceries-code-adjudicator" title="Groceries Code."&gt;Groceries Code Adjudicator&lt;/a&gt; will give suppliers, including farmers supplying the bigger supermarket chains, more protection against anti-competitive activities. &lt;/p&gt;
-
-&lt;h3 id="making-legal-challenges-easier"&gt;Making legal challenges easier&lt;/h3&gt;
-&lt;p&gt;We’re looking at ways to make it easier for consumers and small businesses to &lt;a href="https://www.gov.uk/government/policies/preventing-and-reducing-anti-competitive-activities/supporting-pages/private-actions-pro-tem" title="Private Action."&gt;challenge anti-competitive behaviour&lt;/a&gt; by bringing a legal challenge (also known as a private action) against anti-competitive activities.    &lt;/p&gt;
-
-&lt;h3 id="state-aid"&gt;State aid&lt;/h3&gt;
-&lt;p&gt;We’re modernising the rules on state aid.&lt;/p&gt;
-
-&lt;p&gt;State aid is when a public body (such as a local authority) or publicly funded body (such as the Big Lottery) provides a business, charity or other organisation with financial help that could give them an advantage over another business. This kind of financial help is generally outlawed by the European treaty, as it’s an anti-competitive practice. State aid regulations set legal ways to give this kind of help.&lt;/p&gt;
-
-&lt;p&gt;We’ve produced a &lt;a href="https://www.gov.uk/state-aid"&gt;detailed guide on state aid&lt;/a&gt; for public authorities.&lt;/p&gt;
-
-&lt;p&gt;Different rules - also covered in the detailed guide - apply to agriculture, aquaculture, fisheries, transport and maritime.&lt;/p&gt;
-
-&lt;h2 id="background"&gt;Background&lt;/h2&gt;
-&lt;p&gt;UK competition law has to comply with EU law. Article 101 of the &lt;a rel="external" href="http://ec.europa.eu/competition/antitrust/overview_en.html"&gt;Treaty on the Functioning of the European Union (TFEU)&lt;/a&gt; bans any agreements between businesses ‘which have as their object… the prevention [or] restriction… of competition within the common market.’&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
 </feed>

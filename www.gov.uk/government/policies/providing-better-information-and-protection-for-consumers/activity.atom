@@ -8,7 +8,23 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-12-20T13:00:00+00:00</updated>
+  <updated>2012-12-24T08:30:47+00:00</updated>
+  <entry>
+    <id>tag:www.gov.uk,2005:Consultation/60855</id>
+    <published>2012-12-24T08:30:47+00:00</published>
+    <updated>2012-12-24T08:30:47+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/consultations/consultation-on-the-repeal-of-the-property-misdescriptions-act-1991"/>
+    <title>Consultation on the repeal of the Property Misdescriptions Act 1991</title>
+    <category>Consultation</category>
+    <summary/>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;hr&gt;&lt;p&gt;The Department for Business, Innovation and Skills is seeking views on the possible repeal of the Property Misdescriptions Act 1991 (PMA). The PMA makes it an offence to make false or misleading statements in the course of an estate agency or property development business about property offered for sale. The Consumer Protection from Unfair Trading Regulations 2008 (CPRs) provide similar protections for consumers. This duplication may be unnecessary; putting additional burdens on business, without providing additional protection for consumers. The consultation considers whether the Government should repeal the PMA, now that the CPRs are in place.&lt;/p&gt;
+
+&lt;h2 id="download-the-consultation"&gt;Download the consultation&lt;/h2&gt;
+
+&lt;hr&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a rel="external" href="http://www.bis.gov.uk/assets/biscore/consumer-issues/docs/c/11-505-consultation-repeal-property-misdescriptions-act.pdf"&gt;Consultation on the repeal of the Property Misdescriptions Act 1991 (PDF, 304 Kb)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
+  </entry>
   <entry>
     <id>tag:www.gov.uk,2005:Publication/60051</id>
     <published>2012-12-20T00:00:00+00:00</published>
@@ -154,15 +170,5 @@
     <category>Publication</category>
     <summary>Consultation on civil enforcement remedies, responses by 31 December 2012</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Respond by 31 December 2012. Consultation seeking views on proposals to make a flexible range of remedies available to enforcers, and possibly the courts. These remedies aim to increase business compliance with the law, improve redress for consumers affected by the breach, and empower consumers to exercise greater consumer choice. See URN 12/1194 for the related impact assessment.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:Publication/56125</id>
-    <published>2012-11-05T00:00:00+00:00</published>
-    <updated>2012-12-11T16:30:45+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/civil-enforcement-remedies-extending-the-range-of-remedies-available-to-public-enforcers-of-consumer-law-impact-assessment"/>
-    <title>Civil enforcement remedies: extending the range of remedies available to public enforcers of consumer law -impact assessment</title>
-    <category>Publication</category>
-    <summary/>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Assesses the impact of proposals to extend the range of remedies available to enforcers of consumer law. Analyses options that aim to increase business compliance with the law, improve redress for consumers affected by the breach of consumer law, and empower consumers to exercise greater consumer choice. See URN 12/1193 for the related consultation document.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
 </feed>
