@@ -40,14 +40,14 @@
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This Freedom of Information response concerns a report about making updates to the Department for Transport’s value of a prevented fatality (VPF) and values of prevented injuries (VPI).&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/17290</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/17573</id>
     <published>2012-12-03T00:00:00+00:00</published>
-    <updated>2012-12-03T09:33:05+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/ministerial-photographs"/>
-    <title>Ministerial photographs</title>
+    <updated>2012-12-03T09:31:08+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/traffic-authorisations"/>
+    <title>Traffic authorisations</title>
     <category>Publication</category>
-    <summary>Freedom of Information response concerning ministerial photographs.</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This Freedom of Information response details photographs of the Department for Transport’s ministers commissioned since May 2010.&lt;/p&gt;&lt;/div&gt;</content>
+    <summary>Freedom of Information response about traffic authorisations given to Westminster City Council between 1 January 2000 and 31 December 2010.</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This Freedom of Information response letter concerns traffic authorisations given to Westminster City Council between 1 January 2000 and 31 December 2010.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/17298</id>
@@ -60,14 +60,14 @@
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Freedom of Information response concerning departmental spend on seeking legal advice.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/17573</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/17290</id>
     <published>2012-12-03T00:00:00+00:00</published>
-    <updated>2012-12-03T09:31:08+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/traffic-authorisations"/>
-    <title>Traffic authorisations</title>
+    <updated>2012-12-03T09:33:05+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/ministerial-photographs"/>
+    <title>Ministerial photographs</title>
     <category>Publication</category>
-    <summary>Freedom of Information response about traffic authorisations given to Westminster City Council between 1 January 2000 and 31 December 2010.</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This Freedom of Information response letter concerns traffic authorisations given to Westminster City Council between 1 January 2000 and 31 December 2010.&lt;/p&gt;&lt;/div&gt;</content>
+    <summary>Freedom of Information response concerning ministerial photographs.</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This Freedom of Information response details photographs of the Department for Transport’s ministers commissioned since May 2010.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/16627</id>
@@ -90,54 +90,14 @@
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Freedom of Information response regarding the switching off of street lighting on sections of some roads.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/15323</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/15338</id>
     <published>2012-11-13T00:00:00+00:00</published>
-    <updated>2012-11-13T15:07:01+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/cost-of-the-driver-cpc-recording-and-evidencing-database"/>
-    <title>Cost of the Driver CPC recording and evidencing database</title>
+    <updated>2012-11-13T15:26:10+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/car-theory-and-practical-driving-tests-taken-in-london"/>
+    <title>Car theory and practical driving tests taken in London</title>
     <category>Publication</category>
-    <summary>Response to FOI request IA0048512: Cost of the Driver CPC recording and evidencing database.</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Information about the cost of the Driver CPC recording and evidencing database.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/15331</id>
-    <published>2012-11-13T00:00:00+00:00</published>
-    <updated>2012-11-13T15:13:45+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/short-notice-driving-test-cancellations-and-fee-reimbursements"/>
-    <title>Short notice driving test cancellations and fee reimbursements </title>
-    <category>Publication</category>
-    <summary>Response to FOI request IA0058512: Short notice driving test cancellations and fee reimbursements.</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Information about short notice driving test cancellations and fee reimbursements.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/15320</id>
-    <published>2012-11-13T00:00:00+00:00</published>
-    <updated>2012-11-13T15:04:53+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/occurrences-where-a-candidate-has-failed-to-attend-their-driving-test"/>
-    <title>Occurrences where a candidate has failed to attend their driving test</title>
-    <category>Publication</category>
-    <summary>Response to FOI request IA0059212: Occurrences where a candidate has failed to attend their driving test.</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Information about occurrences where a candidate has failed to attend their driving test.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/54950</id>
-    <published>2012-11-13T00:00:00+00:00</published>
-    <updated>2012-12-12T14:07:47+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/hms-antrim-op-corporate-report-of-proceedings"/>
-    <title>HMS ANTRIM Op CORPORATE Report of Proceedings</title>
-    <category>Publication</category>
-    <summary/>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;HMS ANTRIM Op CORPORATE Report of Proceedings covering the period from 1 April to 1 July 1982.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/15335</id>
-    <published>2012-11-13T00:00:00+00:00</published>
-    <updated>2012-11-13T15:20:05+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/top-10-serious-and-dangerous-faults-made-on-the-car-practical-driving-test"/>
-    <title>Top 10 serious and dangerous faults made on the car practical driving test </title>
-    <category>Publication</category>
-    <summary>Response to FOI request IA0057112: Top 10 serious and dangerous faults made on the car practical driving test .</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Information about the top 10 serious and dangerous faults made on the car practical driving test.&lt;/p&gt;&lt;/div&gt;</content>
+    <summary>Response to FOI request IA0057012: Car theory and practical driving tests taken in London.</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Information about car theory and practical driving tests taken in London.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/15337</id>
@@ -160,14 +120,54 @@
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Information about car theory and practical driving tests passed on 6 or more attempts at Stoke on Trent.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/15338</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/54950</id>
     <published>2012-11-13T00:00:00+00:00</published>
-    <updated>2012-11-13T15:26:10+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/car-theory-and-practical-driving-tests-taken-in-london"/>
-    <title>Car theory and practical driving tests taken in London</title>
+    <updated>2012-12-12T14:07:47+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/hms-antrim-op-corporate-report-of-proceedings"/>
+    <title>HMS ANTRIM Op CORPORATE Report of Proceedings</title>
     <category>Publication</category>
-    <summary>Response to FOI request IA0057012: Car theory and practical driving tests taken in London.</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Information about car theory and practical driving tests taken in London.&lt;/p&gt;&lt;/div&gt;</content>
+    <summary/>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;HMS ANTRIM Op CORPORATE Report of Proceedings covering the period from 1 April to 1 July 1982.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/15335</id>
+    <published>2012-11-13T00:00:00+00:00</published>
+    <updated>2012-11-13T15:20:05+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/top-10-serious-and-dangerous-faults-made-on-the-car-practical-driving-test"/>
+    <title>Top 10 serious and dangerous faults made on the car practical driving test </title>
+    <category>Publication</category>
+    <summary>Response to FOI request IA0057112: Top 10 serious and dangerous faults made on the car practical driving test .</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Information about the top 10 serious and dangerous faults made on the car practical driving test.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/15331</id>
+    <published>2012-11-13T00:00:00+00:00</published>
+    <updated>2012-11-13T15:13:45+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/short-notice-driving-test-cancellations-and-fee-reimbursements"/>
+    <title>Short notice driving test cancellations and fee reimbursements </title>
+    <category>Publication</category>
+    <summary>Response to FOI request IA0058512: Short notice driving test cancellations and fee reimbursements.</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Information about short notice driving test cancellations and fee reimbursements.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/15320</id>
+    <published>2012-11-13T00:00:00+00:00</published>
+    <updated>2012-11-13T15:04:53+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/occurrences-where-a-candidate-has-failed-to-attend-their-driving-test"/>
+    <title>Occurrences where a candidate has failed to attend their driving test</title>
+    <category>Publication</category>
+    <summary>Response to FOI request IA0059212: Occurrences where a candidate has failed to attend their driving test.</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Information about occurrences where a candidate has failed to attend their driving test.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/15323</id>
+    <published>2012-11-13T00:00:00+00:00</published>
+    <updated>2012-11-13T15:07:01+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/cost-of-the-driver-cpc-recording-and-evidencing-database"/>
+    <title>Cost of the Driver CPC recording and evidencing database</title>
+    <category>Publication</category>
+    <summary>Response to FOI request IA0048512: Cost of the Driver CPC recording and evidencing database.</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Information about the cost of the Driver CPC recording and evidencing database.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/12799</id>
@@ -190,23 +190,23 @@
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Department for Transport’s (&lt;abbr title="The Department for Transport"&gt;DfT&lt;/abbr&gt;’s) response to Freedom of Information (&lt;abbr title="Freedom of Information"&gt;FOI&lt;/abbr&gt;) request F0007151: Passenger ship fires in 2010.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/10526</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/10635</id>
     <published>2012-11-06T00:00:00+00:00</published>
-    <updated>2012-11-06T17:01:07+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/department-hr-selection-appeal-letters"/>
-    <title>Department HR selection appeal letters</title>
+    <updated>2012-11-06T16:26:33+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/blue-badge-scheme-contract"/>
+    <title>Blue badge scheme contract</title>
     <category>Publication</category>
-    <summary>Response to FOI request F0007534: Department HR selection appeal letters</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Department for Transport’s (&lt;abbr title="The Department for Transport"&gt;DfT&lt;/abbr&gt;’s) response to Freedom of Information (&lt;abbr title="Freedom of Information"&gt;FOI&lt;/abbr&gt;) request F0007534: Department HR selection appeal letters&lt;/p&gt;&lt;/div&gt;</content>
+    <summary>Response to FOI request F0007842: Blue Badge Scheme</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Department for Transport’s (DfT’s) response to Freedom of Information (&lt;abbr title="Freedom of Information"&gt;FOI&lt;/abbr&gt;) request F0007842: Blue Badge scheme contract.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/10528</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/10586</id>
     <published>2012-11-06T00:00:00+00:00</published>
-    <updated>2012-11-06T17:03:57+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/departmental-food-procurement-for-its-catering-operations"/>
-    <title>Departmental food procurement for its catering operations</title>
+    <updated>2012-11-06T16:19:40+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/provision-of-road-de-icing-salt"/>
+    <title>Provision of road de-icing salt</title>
     <category>Publication</category>
-    <summary>Response to FOI request F00075520: Departmental food procurement for its catering operations</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Department for Transport’s (&lt;abbr title="The Department for Transport"&gt;DfT&lt;/abbr&gt;’s) response to Freedom of Information (&lt;abbr title="Freedom of Information"&gt;FOI&lt;/abbr&gt;) request F00075520: Departmental food procurement for its catering operations&lt;/p&gt;&lt;/div&gt;</content>
+    <summary>Response to FOI request for Information on the provision of road de-icing salt.</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;&lt;abbr title="Freedom of Information"&gt;FOI&lt;/abbr&gt; Request for as much detail as possible for orders of grit during winter 2010-11, winter 2009-10 and winter 2008-09.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
 </feed>
