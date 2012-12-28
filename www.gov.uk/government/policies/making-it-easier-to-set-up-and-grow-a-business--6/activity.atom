@@ -70,6 +70,16 @@
 &lt;/ol&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
+    <id>tag:www.gov.uk,2005:Publication/59921</id>
+    <published>2012-12-19T00:00:00+00:00</published>
+    <updated>2012-12-27T14:07:36+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/the-home-business-guide"/>
+    <title>The Home Business Guide</title>
+    <category>Publication</category>
+    <summary/>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;A guide to starting and growing a business from home.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
     <id>tag:www.gov.uk,2005:NewsArticle/57424</id>
     <published>2012-12-18T13:18:00+00:00</published>
     <updated>2012-12-18T13:18:11+00:00</updated>
@@ -349,15 +359,5 @@ Public Enquiries: 0300 330 3000  &lt;/p&gt;
 
 &lt;h2 id="related-links"&gt;Related links&lt;/h2&gt;
 &lt;p&gt;&lt;a rel="external" href="http://www.hm-treasury.gov.uk/as2012_index.htm"&gt;HM Treasury - Autumn Statement 2012&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:Publication/48220</id>
-    <published>2012-11-28T00:00:00+00:00</published>
-    <updated>2012-12-11T16:31:01+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/implementing-the-recommendations-from-the-breedon-review-a-progress-report-november-2012"/>
-    <title>Implementing the recommendations from the Breedon Review: a progress report (November 2012)</title>
-    <category>Publication</category>
-    <summary/>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Provides an update for each recommendation made by the industry taskforce on non-bank lending led by Tim Breedon. See also See 12/668 for the taskforce report, and 12/669 for the government response.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
 </feed>

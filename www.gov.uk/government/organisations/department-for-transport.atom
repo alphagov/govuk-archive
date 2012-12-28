@@ -8,7 +8,17 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-12-26T00:15:00+00:00</updated>
+  <updated>2012-12-27T09:12:53+00:00</updated>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60832</id>
+    <published>2012-12-27T00:00:00+00:00</published>
+    <updated>2012-12-27T09:12:53+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/rail-passenger-count-and-loading-data-released-to-to-individuals-and-organisations"/>
+    <title>Rail passenger count and loading data released to to individuals and organisations</title>
+    <category>Publication</category>
+    <summary>Freedom of Information response concerning passenger count and loading data released by the government to individuals and organisations.</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This Freedom of Information response concerns passenger count and loading data originally provided by train operating companies and then released by the Department for Transport to individuals and organisations.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
   <entry>
     <id>tag:www.gov.uk,2005:NewsArticlePresenter/60311</id>
     <published>2012-12-26T00:15:00+00:00</published>
@@ -142,124 +152,16 @@ Out of hours: 020 7944 4292&lt;br&gt;
 Public enquiries: 0300 330 3000 &lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60317</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60789</id>
     <published>2012-12-21T00:00:00+00:00</published>
-    <updated>2012-11-10T14:37:57+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/rail-passenger-miles"/>
-    <title>Rail passenger miles</title>
+    <updated>2012-12-24T09:37:44+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/uk-international-air-services-policy"/>
+    <title>UK international air services policy</title>
     <category>Publication</category>
-    <summary>Latest quarterly data on rail passenger miles.</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="dft-business-plan-other-key-data"&gt;DfT Business plan other key data&lt;/h2&gt;
+    <summary>Setting out the UK's international air services policy and explaining what we are doing to support new international routes and services.</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This document sets out the UK’s international air services policy and what we are doing to support new international routes and services, airports in Northern Ireland, Scotland, Wales and regional airports in England. &lt;/p&gt;
 
-&lt;p&gt;Geographical coverage: Great Britain&lt;/p&gt;
-
-&lt;p&gt;Information broken down by: Rail sector&lt;/p&gt;
-
-&lt;h2 id="latest-data"&gt;Latest data&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;
-    &lt;p&gt;Passengers travelled 9.2 billion miles by rail in the second quarter of 2012-13 (July to September 2012), an increase of 4 per cent when compared to the same quarter in 2011-12.  The second quarter of 2012-13 included the Olympic and Paralympic Games, which will have contributed to this increase in rail travel.  These figures are for franchised operators only, so exclude travel with non-franchised operators, such as Grand Central, Heathrow Express and Hull Trains.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Over the last ten years, other than a slight dip in 2009 during the recession, passenger rail usage has increased significantly, continuing the upward trend that has been seen since the mid-1990s.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;&lt;p&gt;Passenger miles travelled with franchised rail operators&lt;/p&gt;
-
-&lt;table&gt;
-&lt;thead&gt;&lt;tr&gt;
-&lt;th&gt;Quarter&lt;/th&gt;
-      &lt;th&gt;Quarterly total (billions)&lt;/th&gt;
-      &lt;th&gt;Quarterly moving annual average (&lt;abbr title="Moving Annual Average"&gt;MAA&lt;/abbr&gt;) (billions)&lt;/th&gt;
-    &lt;/tr&gt;&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;2010/11 Q1&lt;/td&gt;
-      &lt;td&gt;8.2&lt;/td&gt;
-      &lt;td&gt;8.1&lt;/td&gt;
-    &lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;2010/11 Q2&lt;/td&gt;
-      &lt;td&gt;8.5&lt;/td&gt;
-      &lt;td&gt;8.2&lt;/td&gt;
-    &lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;2010/11 Q3&lt;/td&gt;
-      &lt;td&gt;8.4&lt;/td&gt;
-      &lt;td&gt;8.3&lt;/td&gt;
-    &lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;2010/11 Q4&lt;/td&gt;
-      &lt;td&gt;8.5&lt;/td&gt;
-      &lt;td&gt;8.4&lt;/td&gt;
-    &lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;2011/12 Q1&lt;/td&gt;
-      &lt;td&gt;8.6&lt;/td&gt;
-      &lt;td&gt;8.5&lt;/td&gt;
-    &lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;2011/12 Q2&lt;/td&gt;
-      &lt;td&gt;8.8&lt;/td&gt;
-      &lt;td&gt;8.6&lt;/td&gt;
-    &lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;2011/12 Q3&lt;/td&gt;
-      &lt;td&gt;8.9&lt;/td&gt;
-      &lt;td&gt;8.7&lt;/td&gt;
-    &lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;2011/12 Q4&lt;/td&gt;
-      &lt;td&gt;9.1&lt;/td&gt;
-      &lt;td&gt;8.8&lt;/td&gt;
-    &lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;2012/13 Q1&lt;sup&gt;P&lt;/sup&gt;
-&lt;/td&gt;
-      &lt;td&gt;8.9&lt;/td&gt;
-      &lt;td&gt;8.9&lt;/td&gt;
-    &lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;2012/13 Q2&lt;sup&gt;P&lt;/sup&gt;
-&lt;/td&gt;
-      &lt;td&gt;9.2&lt;/td&gt;
-      &lt;td&gt;9.0&lt;/td&gt;
-    &lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;&lt;p&gt;&lt;sup&gt;P&lt;/sup&gt; Figures are provisional&lt;/p&gt;
-
-&lt;p&gt;Source: Office of Rail Regulation (&lt;abbr title="Office of Rail Regulation"&gt;ORR&lt;/abbr&gt;)&lt;/p&gt;
-
-&lt;p&gt;&lt;a rel="external" href="http://charts.dft.gov.uk/dft-business-plan/indicators/#11"&gt;Click here to view this data in an interactive chart&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id="background-information"&gt;Background information&lt;/h2&gt;
-
-&lt;p&gt;Rail passenger kilometres totals are published quarterly by the Office of Rail Regulation (&lt;abbr title="Office of Rail Regulation"&gt;ORR&lt;/abbr&gt;). The rail industry’s central ticketing system, LENNON, is the basis for passenger kilometres data. LENNON holds information on the vast majority of national rail tickets purchased in Great Britain and is used to allocate the revenue from ticket sales between train operating companies.&lt;/p&gt;
-
-&lt;p&gt;&lt;abbr title="Office of Rail Regulation"&gt;ORR&lt;/abbr&gt; also receives quarterly non-LENNON kilometres data from train operators. Non-LENNON data are information not recorded within the LENNON system such as operator specific tickets and Passenger Transport Executive (&lt;abbr title="Passenger Transport Executive"&gt;PTE&lt;/abbr&gt;) multi-modal tickets.&lt;/p&gt;
-
-&lt;p&gt;The statistics are converted from kilometres to miles by DfT for the purposes of this publication.&lt;/p&gt;
-
-&lt;p&gt;The data supplied in the table and the charts refer to financial rather than calendar years.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;publishing schedule: quarterly&lt;/li&gt;
-  &lt;li&gt;last updated: December 2012&lt;/li&gt;
-  &lt;li&gt;next update: 7 March 2013&lt;/li&gt;
-&lt;/ul&gt;&lt;h2 id="other-related-data-and-information"&gt;Other related data and information&lt;/h2&gt;
-
-&lt;p&gt;&lt;a rel="external" href="http://dataportal.orr.gov.uk/"&gt;Rail passenger kilometres statistics are published on the Office of Rail Regulation Data Portal&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href="https://www.gov.uk/government/publications/tsgb-2011-public-transport"&gt;Annual passenger kilometres data for rail and other modes of public transport are published in Transport Statistics Great Britain (&lt;abbr title="Transport Statistics Great Britain"&gt;TSGB&lt;/abbr&gt;)&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id="further-information"&gt;Further information&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.gov.uk/government/publications/department-for-transport-business-plan"&gt;Business Plan 2012-2015&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="https://www.gov.uk/government/publications/input-and-impact-indicators"&gt;Input and impact indicators&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Analyst contact: &lt;a href="mailto:rail.stats@dft.gsi.gov.uk"&gt;rail.stats@dft.gsi.gov.uk&lt;/a&gt;
-&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</content>
+&lt;p&gt;It explains the UK’s aviation permit requirements and airport slot allocation process. It also provides information on the UK’s main international airports. It will be of particular interest to foreign governments and airlines looking to operate international air services to the UK.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/60319</id>
@@ -435,16 +337,124 @@ Further information about this indicator can be found in the measurement templat
 &lt;/ul&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60789</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60317</id>
     <published>2012-12-21T00:00:00+00:00</published>
-    <updated>2012-12-24T09:37:44+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/uk-international-air-services-policy"/>
-    <title>UK international air services policy</title>
+    <updated>2012-11-10T14:37:57+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/rail-passenger-miles"/>
+    <title>Rail passenger miles</title>
     <category>Publication</category>
-    <summary>Setting out the UK's international air services policy and explaining what we are doing to support new international routes and services.</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This document sets out the UK’s international air services policy and what we are doing to support new international routes and services, airports in Northern Ireland, Scotland, Wales and regional airports in England. &lt;/p&gt;
+    <summary>Latest quarterly data on rail passenger miles.</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="dft-business-plan-other-key-data"&gt;DfT Business plan other key data&lt;/h2&gt;
 
-&lt;p&gt;It explains the UK’s aviation permit requirements and airport slot allocation process. It also provides information on the UK’s main international airports. It will be of particular interest to foreign governments and airlines looking to operate international air services to the UK.&lt;/p&gt;&lt;/div&gt;</content>
+&lt;p&gt;Geographical coverage: Great Britain&lt;/p&gt;
+
+&lt;p&gt;Information broken down by: Rail sector&lt;/p&gt;
+
+&lt;h2 id="latest-data"&gt;Latest data&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;
+    &lt;p&gt;Passengers travelled 9.2 billion miles by rail in the second quarter of 2012-13 (July to September 2012), an increase of 4 per cent when compared to the same quarter in 2011-12.  The second quarter of 2012-13 included the Olympic and Paralympic Games, which will have contributed to this increase in rail travel.  These figures are for franchised operators only, so exclude travel with non-franchised operators, such as Grand Central, Heathrow Express and Hull Trains.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Over the last ten years, other than a slight dip in 2009 during the recession, passenger rail usage has increased significantly, continuing the upward trend that has been seen since the mid-1990s.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Passenger miles travelled with franchised rail operators&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;&lt;tr&gt;
+&lt;th&gt;Quarter&lt;/th&gt;
+      &lt;th&gt;Quarterly total (billions)&lt;/th&gt;
+      &lt;th&gt;Quarterly moving annual average (&lt;abbr title="Moving Annual Average"&gt;MAA&lt;/abbr&gt;) (billions)&lt;/th&gt;
+    &lt;/tr&gt;&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;2010/11 Q1&lt;/td&gt;
+      &lt;td&gt;8.2&lt;/td&gt;
+      &lt;td&gt;8.1&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2010/11 Q2&lt;/td&gt;
+      &lt;td&gt;8.5&lt;/td&gt;
+      &lt;td&gt;8.2&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2010/11 Q3&lt;/td&gt;
+      &lt;td&gt;8.4&lt;/td&gt;
+      &lt;td&gt;8.3&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2010/11 Q4&lt;/td&gt;
+      &lt;td&gt;8.5&lt;/td&gt;
+      &lt;td&gt;8.4&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2011/12 Q1&lt;/td&gt;
+      &lt;td&gt;8.6&lt;/td&gt;
+      &lt;td&gt;8.5&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2011/12 Q2&lt;/td&gt;
+      &lt;td&gt;8.8&lt;/td&gt;
+      &lt;td&gt;8.6&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2011/12 Q3&lt;/td&gt;
+      &lt;td&gt;8.9&lt;/td&gt;
+      &lt;td&gt;8.7&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2011/12 Q4&lt;/td&gt;
+      &lt;td&gt;9.1&lt;/td&gt;
+      &lt;td&gt;8.8&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2012/13 Q1&lt;sup&gt;P&lt;/sup&gt;
+&lt;/td&gt;
+      &lt;td&gt;8.9&lt;/td&gt;
+      &lt;td&gt;8.9&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2012/13 Q2&lt;sup&gt;P&lt;/sup&gt;
+&lt;/td&gt;
+      &lt;td&gt;9.2&lt;/td&gt;
+      &lt;td&gt;9.0&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;&lt;p&gt;&lt;sup&gt;P&lt;/sup&gt; Figures are provisional&lt;/p&gt;
+
+&lt;p&gt;Source: Office of Rail Regulation (&lt;abbr title="Office of Rail Regulation"&gt;ORR&lt;/abbr&gt;)&lt;/p&gt;
+
+&lt;p&gt;&lt;a rel="external" href="http://charts.dft.gov.uk/dft-business-plan/indicators/#11"&gt;Click here to view this data in an interactive chart&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id="background-information"&gt;Background information&lt;/h2&gt;
+
+&lt;p&gt;Rail passenger kilometres totals are published quarterly by the Office of Rail Regulation (&lt;abbr title="Office of Rail Regulation"&gt;ORR&lt;/abbr&gt;). The rail industry’s central ticketing system, LENNON, is the basis for passenger kilometres data. LENNON holds information on the vast majority of national rail tickets purchased in Great Britain and is used to allocate the revenue from ticket sales between train operating companies.&lt;/p&gt;
+
+&lt;p&gt;&lt;abbr title="Office of Rail Regulation"&gt;ORR&lt;/abbr&gt; also receives quarterly non-LENNON kilometres data from train operators. Non-LENNON data are information not recorded within the LENNON system such as operator specific tickets and Passenger Transport Executive (&lt;abbr title="Passenger Transport Executive"&gt;PTE&lt;/abbr&gt;) multi-modal tickets.&lt;/p&gt;
+
+&lt;p&gt;The statistics are converted from kilometres to miles by DfT for the purposes of this publication.&lt;/p&gt;
+
+&lt;p&gt;The data supplied in the table and the charts refer to financial rather than calendar years.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;publishing schedule: quarterly&lt;/li&gt;
+  &lt;li&gt;last updated: December 2012&lt;/li&gt;
+  &lt;li&gt;next update: 7 March 2013&lt;/li&gt;
+&lt;/ul&gt;&lt;h2 id="other-related-data-and-information"&gt;Other related data and information&lt;/h2&gt;
+
+&lt;p&gt;&lt;a rel="external" href="http://dataportal.orr.gov.uk/"&gt;Rail passenger kilometres statistics are published on the Office of Rail Regulation Data Portal&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://www.gov.uk/government/publications/tsgb-2011-public-transport"&gt;Annual passenger kilometres data for rail and other modes of public transport are published in Transport Statistics Great Britain (&lt;abbr title="Transport Statistics Great Britain"&gt;TSGB&lt;/abbr&gt;)&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id="further-information"&gt;Further information&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.gov.uk/government/publications/department-for-transport-business-plan"&gt;Business Plan 2012-2015&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://www.gov.uk/government/publications/input-and-impact-indicators"&gt;Input and impact indicators&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Analyst contact: &lt;a href="mailto:rail.stats@dft.gsi.gov.uk"&gt;rail.stats@dft.gsi.gov.uk&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/60034</id>
@@ -506,76 +516,163 @@ Out of hours: 020 7944 4292&lt;br&gt;
 Public enquiries: 0300 330 3000 &lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60110</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60775</id>
     <published>2012-12-20T00:00:00+00:00</published>
-    <updated>2012-12-20T09:42:57+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/dover-transfer-scheme-decision-letter"/>
-    <title>Dover transfer scheme decision letter</title>
+    <updated>2012-11-10T14:50:15+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/bus-passenger-journeys"/>
+    <title>Bus passenger journeys</title>
     <category>Publication</category>
-    <summary>Announcing the decision on the transfer scheme submitted by Dover Harbour Board in January 2010 and the enhanced scheme of 13 June 2012.</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Secretary of State for Transport has decided not to confirm the transfer scheme from Dover Harbour Board. &lt;/p&gt;
+    <summary>Latest quarterly data on bus passenger journeys in England.</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="dft-business-plan-other-key-data"&gt;DfT Business Plan other key data&lt;/h2&gt;
 
-&lt;p&gt;He concluded that:&lt;/p&gt;
+&lt;p&gt;Geographical coverage: England&lt;/p&gt;
+
+&lt;p&gt;Information broken down by: Region - data are available for London, English metropolitan areas (as a group), and English non-metropolitan areas (as a group)&lt;/p&gt;
+
+&lt;h2 id="latest-data"&gt;Latest data&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;the proposed transfer scheme would not ensure a sufficient level of enduring community participation in the port&lt;/li&gt;
-  &lt;li&gt;there were other options available to secure the redevelopment of the Western Docks&lt;/li&gt;
+&lt;li&gt;In Quarter 3 (July – September) 2012, there were 1.16 billion passenger journeys on local buses in England.&lt;/li&gt;
+&lt;/ul&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Most recent data&lt;/th&gt;
+      &lt;th&gt; &lt;/th&gt;
+    &lt;/tr&gt;
+&lt;tr&gt;
+&lt;th&gt;Quarter&lt;/th&gt;
+      &lt;th&gt;Passenger journey (billions)&lt;/th&gt;
+    &lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;2011/12 Jul - Sep&lt;/td&gt;
+      &lt;td&gt;1.163&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2012/13 Jul - Sep&lt;/td&gt;
+      &lt;td&gt;1.162&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Percentage change&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;&lt;p&gt;The complete set of data is available at &lt;a href="https://www.gov.uk/government/statistical-data-sets/bus01-local-bus-passenger-journeys"&gt;https://www.gov.uk/government/statistical-data-sets/bus01-local-bus-passenger-journeys&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a rel="external" href="http://charts.dft.gov.uk/dft-business-plan/indicators/#10"&gt;Click here to view this data in an interactive chart&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Bus passenger journeys in England increased by around 15 per cent between 2004/05 and 2008/09, a period in which the English National Concessionary Travel Scheme was introduced.  Growth was greater in London, with a smaller increase in the metropolitan areas outside London over this period.&lt;/li&gt;
+  &lt;li&gt;Since 2008/09, passenger journeys have remained broadly flat, with continued growth in London offsetting a gradual decline in passenger numbers outside London.  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Though figures for individual quarters should be interpreted with caution, they show a slight increase of 0.3 per cent in seasonally adjusted journeys for England compared with the previous quarter, with falls in each area type except London which had an increase of 1.3 per cent.
+## Background information&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Quarterly estimates are based on a panel of the 18 largest non-metropolitan operators, Passenger Transport Executives (for metropolitan areas) and Transport for London (TfL).  The panel covers over 90 per cent of the journeys made in Great Britain. Data from the quarterly panel is scaled to annual figures from the Department’s main annual survey of 700 PSV operators, and figures are then seasonally adjusted. More information is in the Guidance Notes (see link in Related Information below).&lt;/li&gt;
+  &lt;li&gt;The quarterly figures are less precise than the annual statistics which aim to report on all journeys, including those covered by smaller operators.  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Quarterly figures are subject to revision due to the nature of the seasonal adjustment, and scaling to annual figures.  However, these will typically be minor and not affect overall patterns shown.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+&lt;strong&gt;Publishing schedule:&lt;/strong&gt; Quarterly&lt;/li&gt;
+  &lt;li&gt;
+&lt;strong&gt;Last updated:&lt;/strong&gt; 20 December 2012&lt;/li&gt;
+  &lt;li&gt;
+&lt;strong&gt;Next update:&lt;/strong&gt; March 2013&lt;/li&gt;
+&lt;/ul&gt;&lt;h2 id="other-related-data-and-information"&gt;Other related data and information&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.gov.uk/technical-guidance-for-transport-stats#bus-statistics"&gt;The full guidance notes on DfT bus statistics&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://www.gov.uk/government/organisations/department-for-transport/series/bus-statistics"&gt;Related bus statistics&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://www.gov.uk/government/organisations/department-for-transport/series/statistics-on-public-attitudes-to-transport"&gt;Research on attitudes to bus travel&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;h2 id="further-information"&gt;Further information&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.gov.uk/government/publications/department-for-transport-business-plan"&gt;Business Plan 2012-2015&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://www.gov.uk/government/publications/input-and-impact-indicators"&gt;Input and impact indicators&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Analyst contact: Matthew Tranter, &lt;a href="mailto:bus.statistics@dft.gsi.gov.uk"&gt;Bus statistics&lt;/a&gt;
+&lt;/li&gt;
 &lt;/ul&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:SpeechPresenter/60121</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60769</id>
     <published>2012-12-20T00:00:00+00:00</published>
-    <updated>2012-12-20T11:48:26+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/speeches/rail-franchising--14"/>
-    <title>Rail franchising</title>
-    <category>Statement to parliament</category>
-    <summary>Compensation package for passengers agreed with London Midland.</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;I would today like to give an update on the situation in relation to franchised train operator London Midland (&lt;abbr title="London Midland"&gt;LM&lt;/abbr&gt;).&lt;/p&gt;
+    <updated>2012-11-05T21:19:02+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/bus-subsidy-per-passenger-journey"/>
+    <title>Bus subsidy per passenger journey</title>
+    <category>Publication</category>
+    <summary>Bus subsidy per passenger journey input indicator.</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="dft-business-plan-input-indicator"&gt;DfT Business Plan input indicator&lt;/h2&gt;
 
-&lt;p&gt;Passengers who use &lt;abbr title="London Midland"&gt;LM&lt;/abbr&gt; trains may be aware that the operator has been experiencing difficulties recently, with a number of services being cancelled due to a shortage of driving staff.&lt;/p&gt;
+&lt;h3 id="geographical-coverage-england"&gt;Geographical coverage: England&lt;/h3&gt;
 
-&lt;p&gt;This situation has caused inconvenience and disruption, particularly to passengers in the West Midlands, many of whom have expressed their dissatisfaction to me. I very much share their disappointment that they have not had the reliable service that they rightly expect.&lt;/p&gt;
+&lt;h3 id="information-broken-down-by-region---data-are-available-for-london-english-metropolitan-areas-as-a-group-and-english-non-metropolitan-areas-as-a-group"&gt;Information broken down by: Region - data are available for London, English metropolitan areas (as a group), and English non-metropolitan areas (as a group)&lt;/h3&gt;
 
-&lt;p&gt;However, although the recent levels of performance have been extremely disappointing, I am pleased to say that the measures that &lt;abbr title="London Midland"&gt;LM&lt;/abbr&gt; have put in place are beginning to work.&lt;/p&gt;
+&lt;h2 id="latest-data"&gt;Latest data&lt;/h2&gt;
 
-&lt;p&gt;&lt;abbr title="London Midland"&gt;LM&lt;/abbr&gt; has implemented increases to driver efficiency to enable drivers to operate an increased number of routes during existing shifts, improved driver training processes, provided additional incentives for drivers to work overtime and put in place new measures that allow for drivers to cover shifts on other parts of the network where there are shortages.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;In 2011/12, the average level of subsidy (direct from central government) per passenger journey was 9.2 pence.&lt;/li&gt;
+&lt;/ul&gt;&lt;h2 id="table-for-net-government-support-for-local-bus-services-and-concessionary-travel-per-passenger-journey-by-metropolitan-area-status-england-annual-from-200405"&gt;Table for Net government support for local bus services and concessionary travel per passenger journey by metropolitan area status: England, annual from 2004/05&lt;/h2&gt;
 
-&lt;p&gt;This is in addition to the ongoing training programme that &lt;abbr title="London Midland"&gt;LM&lt;/abbr&gt; is undertaking to ensure that new drivers enter productive service as quickly as possible.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Most recent data&lt;/th&gt;
+      &lt;th&gt; &lt;/th&gt;
+    &lt;/tr&gt;
+&lt;tr&gt;
+&lt;th&gt;Year&lt;/th&gt;
+      &lt;th&gt;Subsidy per Journey (2010/11 prices)&lt;/th&gt;
+    &lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;2010/11&lt;/td&gt;
+      &lt;td&gt;9.2p&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2011/12&lt;/td&gt;
+      &lt;td&gt;9.2p&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Percentage change&lt;/td&gt;
+      &lt;td&gt;-0.5 %&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;&lt;p&gt;The complete set of data is available at: &lt;a href="https://www.gov.uk/government/statistical-data-sets/bus05-subsidies-and-concessions"&gt;https://www.gov.uk/government/statistical-data-sets/bus05-subsidies-and-concessions&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;However, &lt;abbr title="London Midland"&gt;LM&lt;/abbr&gt;’s performance has been of such a level that they are now in breach of their contractual obligations. We have made London Midland aware that they must now take action to compensate passengers for the disruption caused. We have, therefore, agreed with &lt;abbr title="London Midland"&gt;LM&lt;/abbr&gt; that they will provide a substantial package of passenger benefits by way of compensation for the inconvenience that has been caused.&lt;/p&gt;
+&lt;p&gt;&lt;a rel="external" href="http://charts.dft.gov.uk/dft-business-plan/indicators/#10"&gt;Click here to view this data in an interactive chart&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;abbr title="London Midland"&gt;LM&lt;/abbr&gt; has agreed to spend an additional £4 million over the remainder of the franchise to put in place measures to ensure that these problems do not happen again. In addition, the package of passenger benefits includes the issue of 5 free rail day passes to London Midland season ticket holders, with an expected value of up to £3.5 million. We have also agreed that London Midland will invest a further £2.25 million in infrastructure improvement projects. We have required London Midland to discuss with Centro, the West Midlands Passenger Transport Executive, how the majority of this money will be invested for the benefit of those passengers who have experienced the worst disruption.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;In 2011/12 the average level of subsidy (direct from central government) per passenger journey was 9.2 pence. This decreased (adjusted for inflation) from 10.1 pence in 2004/05. &lt;/li&gt;
+  &lt;li&gt;English non-Metropolitan areas had the highest level of subsidy per passenger journey (15.8 pence in 2011/12), London had the lowest level of subsidy per passenger journey (4.8 pence in 2011/12) while English Metropolitan areas were in-between (10.7 pence in 2011/12). Comparisons between London and the rest of the country should be made with care – see note in Background Information below.&lt;/li&gt;
+&lt;/ul&gt;&lt;h2 id="background-information"&gt;Background information&lt;/h2&gt;
 
-&lt;p&gt;As a result of this consultation, &lt;abbr title="London Midland"&gt;LM&lt;/abbr&gt; has agreed that most of this money should be directed towards measures such as improvements to safety and security at stations and improving the reliability and efficiency of &lt;abbr title="London Midland"&gt;LM&lt;/abbr&gt; trains.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Lower subsidy per passenger journey will indicate better value for the public purse. However, this could arise as a result of reductions in the most heavily subsidised services – many of which are routes in rural areas which would be unprofitable without public subsidy. Reductions to these services would improve the ‘headline’ measure but would risk making rural communities more isolated. &lt;/li&gt;
+  &lt;li&gt;The figures exclude expenditure on capital projects (e.g. bus lane priority schemes) which benefit the bus industry directly or indirectly. Outside London, the local bus industry is deregulated, but London runs an entirely tendered bus market under the oversight of Transport for London. Given the different market structures, comparisons between London and the rest of country should be made with considerable care.&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;The indicator is calculated by dividing the total Bus Service Operators’ Grant by the total passenger journeys on buses (this will include concessionary journeys). Further information is available in the measurement template (above). &lt;/p&gt;
 
-&lt;p&gt;Lastly, we have also agreed with &lt;abbr title="London Midland"&gt;LM&lt;/abbr&gt; that they must make available an additional 500,000 Advance tickets on key routes on the &lt;abbr title="London Midland"&gt;LM&lt;/abbr&gt; network, giving a net benefit of around £1.9 million to passengers who will be able to take advantage of these cheaper fares over the next two years of the franchise.&lt;/p&gt;
+    &lt;ul&gt;
+&lt;li&gt;publishing schedule: annual&lt;/li&gt;
+      &lt;li&gt;last updated: 20 December 2012&lt;/li&gt;
+      &lt;li&gt;next update: December 2013&lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;&lt;h2 id="other-related-data-and-information"&gt;Other related data and information&lt;/h2&gt;
 
-&lt;p&gt;I hope that &lt;abbr title="London Midland"&gt;LM&lt;/abbr&gt; will be able to remain the operator of this franchise for the remainder of its contract - to September 2015. But London Midland will continue to work to challenging performance benchmarks for the remainder of the franchise, and we will take further action (including ending the franchise early and re-tendering it, if appropriate) in the event of any recurrence of performance problems.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.gov.uk/technical-guidance-for-transport-stats#bus-statistics"&gt;The full guidance notes on DfT bus statistics&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://www.gov.uk/government/organisations/department-for-transport/series/bus-statistics"&gt;Related bus statistics&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://www.gov.uk/government/organisations/department-for-transport/series/statistics-on-public-attitudes-to-transport"&gt;Research on attitudes to bus travel&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;h2 id="further-information"&gt;Further information&lt;/h2&gt;
 
-&lt;p&gt;In addition to the package of passenger benefits, we have agreed to revise the profile of performance benchmarks for the next year, to include additional measures that can penalise &lt;abbr title="London Midland"&gt;LM&lt;/abbr&gt; financially in the event of further poor performance. We have also agreed financial measures to ensure that the reduction in revenue as a result of the free and discounted tickets is borne by &lt;abbr title="London Midland"&gt;LM&lt;/abbr&gt;, and not by the taxpayer.&lt;/p&gt;
-
-&lt;p&gt;I am confident that this package, on balance, represents a good deal for passengers and taxpayers, and sends a message to the industry that this level of cancellations is unsatisfactory. I hope that &lt;abbr title="London Midland"&gt;LM&lt;/abbr&gt; can now put this period behind it, and continue to operate a good service for its passengers for the remainder of its franchise.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:SpeechPresenter/60109</id>
-    <published>2012-12-20T00:00:00+00:00</published>
-    <updated>2012-12-20T09:55:18+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/speeches/the-port-of-dover"/>
-    <title>The Port of Dover</title>
-    <category>Statement to parliament</category>
-    <summary>Dover Port transfer scheme decision announced.</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;In January 2010 Dover Harbour Board (DHB) submitted a voluntary transfer scheme in accordance with section 9 of the Ports Act 1991, which allows a relevant port authority to voluntarily submit a transfer scheme, which, if confirmed by the Secretary of State for Transport, would allow the port to be privatised.  This was followed by a statutory consultation period on Dover’s transfer scheme that ended on 25 March 2010.&lt;/p&gt;
-
-&lt;p&gt;On 16 May 2011 the then Secretary of State for Transport, The &lt;abbr title="Right Honourable"&gt;Rt Hon&lt;/abbr&gt; Member for Runnymede and Weybridge (Philip Hammond), launched a consultation on the criteria that the government considers relevant when considering the appropriateness of the sale of a major trust port. The revised criteria - Secretary of State for Transport’s guidance note concerning procedure for the sale of trust ports - was published on 3 August 2011.&lt;/p&gt;
-
-&lt;p&gt;In response to the revised criteria, DHB submitted more information in June 2012, and there was a further 6-week period for representations which ended on 27 July 2012.&lt;/p&gt;
-
-&lt;p&gt;I took over as decision minister from the &lt;abbr title="Right Honourable"&gt;Rt Hon&lt;/abbr&gt; Member for Chipping Barnet (Theresa Villiers) in September 2012 and wish to announce the decision, on behalf of the Secretary of State, to the House today.&lt;/p&gt;
-
-&lt;p&gt;I have decided not to confirm DHB’s transfer scheme. I reached my conclusion taking into account the published policy. I concluded that the transfer scheme proposed would not ensure a sufficient level of enduring community participation in the port. I also concluded that so far as the board made the application in order to be able to obtain the additional finance necessary to undertake the proposed redevelopment of the Western Docks, there were other options available to secure that redevelopment.&lt;/p&gt;
-
-&lt;p&gt;The &lt;a href="/government/publications/dover-transfer-scheme-decision-letter"&gt;full decision letter will be available on the department’s website&lt;/a&gt; shortly after this statement.&lt;/p&gt;
-
-&lt;p&gt;My honourable friend, the Parliamentary under Secretary of State, &lt;abbr title="Honourable"&gt;Hon&lt;/abbr&gt; Member for Wimbledon (Stephen Hammond), as Minister for Maritime will now discuss with DHB, their plans for the future of the port.&lt;/p&gt;&lt;/div&gt;</content>
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.gov.uk/government/publications/department-for-transport-business-plan"&gt;Business Plan 2011-2015&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://www.gov.uk/government/publications/input-and-impact-indicators"&gt;Input and impact indicators&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Analyst contact: Matthew Tranter, &lt;a href="mailto:bus.statistics@dft.gsi.gov.uk"&gt;Bus statistics&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
   </entry>
 </feed>

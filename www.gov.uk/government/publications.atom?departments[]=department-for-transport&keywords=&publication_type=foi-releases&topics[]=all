@@ -8,7 +8,17 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-12-13T11:16:56+00:00</updated>
+  <updated>2012-12-27T09:12:53+00:00</updated>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60832</id>
+    <published>2012-12-27T00:00:00+00:00</published>
+    <updated>2012-12-27T09:12:53+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/rail-passenger-count-and-loading-data-released-to-to-individuals-and-organisations"/>
+    <title>Rail passenger count and loading data released to to individuals and organisations</title>
+    <category>Publication</category>
+    <summary>Freedom of Information response concerning passenger count and loading data released by the government to individuals and organisations.</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This Freedom of Information response concerns passenger count and loading data originally provided by train operating companies and then released by the Department for Transport to individuals and organisations.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/56016</id>
     <published>2012-12-13T00:00:00+00:00</published>
@@ -90,26 +100,6 @@
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This Freedom of Information response letter and supporting material concern additional car parking at Bedwyn station.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/10528</id>
-    <published>2012-11-06T00:00:00+00:00</published>
-    <updated>2012-11-06T17:03:57+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/departmental-food-procurement-for-its-catering-operations"/>
-    <title>Departmental food procurement for its catering operations</title>
-    <category>Publication</category>
-    <summary>Response to FOI request F00075520: Departmental food procurement for its catering operations</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Department for Transport’s (&lt;abbr title="The Department for Transport"&gt;DfT&lt;/abbr&gt;’s) response to Freedom of Information (&lt;abbr title="Freedom of Information"&gt;FOI&lt;/abbr&gt;) request F00075520: Departmental food procurement for its catering operations&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/10529</id>
-    <published>2012-11-06T00:00:00+00:00</published>
-    <updated>2012-11-06T17:06:19+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/grant-funding-paid-to-mobility-centres"/>
-    <title>Grant funding paid to mobility centres</title>
-    <category>Publication</category>
-    <summary>Response to FOI request F0007301: Grant funding paid to mobility centres</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Department for Transport’s (&lt;abbr title="The Department for Transport"&gt;DfT&lt;/abbr&gt;’s) response to Freedom of Information (&lt;abbr title="Freedom of Information"&gt;FOI&lt;/abbr&gt;) request F0007301: Grant funding paid to mobility centres&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/10526</id>
     <published>2012-11-06T00:00:00+00:00</published>
     <updated>2012-11-06T17:01:07+00:00</updated>
@@ -128,6 +118,26 @@
     <category>Publication</category>
     <summary>Response to FOI request F0007151: Passenger ship fires in 2010.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Department for Transport’s (&lt;abbr title="The Department for Transport"&gt;DfT&lt;/abbr&gt;’s) response to Freedom of Information (&lt;abbr title="Freedom of Information"&gt;FOI&lt;/abbr&gt;) request F0007151: Passenger ship fires in 2010.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/10528</id>
+    <published>2012-11-06T00:00:00+00:00</published>
+    <updated>2012-11-06T17:03:57+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/departmental-food-procurement-for-its-catering-operations"/>
+    <title>Departmental food procurement for its catering operations</title>
+    <category>Publication</category>
+    <summary>Response to FOI request F00075520: Departmental food procurement for its catering operations</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Department for Transport’s (&lt;abbr title="The Department for Transport"&gt;DfT&lt;/abbr&gt;’s) response to Freedom of Information (&lt;abbr title="Freedom of Information"&gt;FOI&lt;/abbr&gt;) request F00075520: Departmental food procurement for its catering operations&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/10529</id>
+    <published>2012-11-06T00:00:00+00:00</published>
+    <updated>2012-11-06T17:06:19+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/grant-funding-paid-to-mobility-centres"/>
+    <title>Grant funding paid to mobility centres</title>
+    <category>Publication</category>
+    <summary>Response to FOI request F0007301: Grant funding paid to mobility centres</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Department for Transport’s (&lt;abbr title="The Department for Transport"&gt;DfT&lt;/abbr&gt;’s) response to Freedom of Information (&lt;abbr title="Freedom of Information"&gt;FOI&lt;/abbr&gt;) request F0007301: Grant funding paid to mobility centres&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/10586</id>
@@ -198,15 +208,5 @@
     <category>Publication</category>
     <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Freedom of information response regarding compensation paid by train operating companies operating the delay/repay scheme.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/13021</id>
-    <published>2012-09-12T01:00:00+01:00</published>
-    <updated>2012-11-08T18:22:39+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/ecological-impact-of-bristol-and-portbury-rail-link"/>
-    <title>Ecological impact of Bristol and Portbury rail link</title>
-    <category>Publication</category>
-    <summary/>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Response to ecological impact of Bristol and Portbury rail link question.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
 </feed>

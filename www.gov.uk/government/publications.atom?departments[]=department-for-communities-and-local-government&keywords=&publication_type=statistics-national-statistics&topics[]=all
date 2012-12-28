@@ -8,7 +8,31 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-12-21T14:38:12+00:00</updated>
+  <updated>2012-12-27T12:58:30+00:00</updated>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60871</id>
+    <published>2012-12-27T12:58:30+00:00</published>
+    <updated>2012-12-27T12:58:30+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/consultations/changes-to-temporary-stop-notices-consultation"/>
+    <title>Changes to Temporary Stop Notices consultation</title>
+    <category>Consultation</category>
+    <summary>Consultation on proposals to improve councils' power to tackle unauthorised development.</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The consultation is on the proposal to revoke Statutory Instrument 2005/206 under the &lt;a rel="external" href="http://www.legislation.gov.uk/uksi/2005/206/contents/made"&gt;Town and Country Planning (Temporary Stop Notice)(England) Regulations 2005&lt;/a&gt;. The regulation currently restricts councils use of Temporary Stop Notices on unauthorised sites where a caravan is used as a main residence. This can discourage local councils from serving stop notices where it may be beneficial to do so.&lt;/p&gt;
+
+&lt;p&gt;The proposals in this consultation would give local councils greater freedom to make a decision on the basis of local circumstances and on whether serving Temporary Stop Notices in respect of caravans used as main residences is appropriate. It will remain for local councils to consider the consequences of taking enforcement action and whether the action is necessary and proportionate in the circumstances.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60870</id>
+    <published>2012-12-27T10:54:36+00:00</published>
+    <updated>2012-12-27T10:54:36+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/consultations/streamlining-information-requirements-for-planning-applications"/>
+    <title>Streamlining information requirements for planning applications</title>
+    <category>Consultation</category>
+    <summary>This consultation seeks views on proposed changes to reduce information requirements for planning applications.</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This consultation sets out proposals relating to information requirements for planning applications.&lt;/p&gt;
+
+&lt;p&gt;These proposals include changes to secondary legislation on information requirements for outline planning applications, and a requirement that local authorities update their local lists of information requirements at least every 2 years. It also sets out proposed changes to the standard application form.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/60747</id>
     <published>2012-12-21T14:38:12+00:00</published>
@@ -46,14 +70,16 @@
 &lt;/section&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60592</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60325</id>
     <published>2012-12-21T00:00:00+00:00</published>
-    <updated>2012-12-21T14:38:46+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/reducing-statutory-burdens-equality-impact-assessments"/>
-    <title>Reducing statutory burdens: equality impact assessments</title>
+    <updated>2012-12-21T13:58:10+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/external-review-of-government-planning-practice-guidance"/>
+    <title>External review of government planning practice guidance</title>
     <category>Publication</category>
-    <summary>Letter from Brandon Lewis to all leaders and chief executives of local authorities.</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Guidance on the production of equality impact assessments.&lt;/p&gt;&lt;/div&gt;</content>
+    <summary>Conclusions and recommendations of the review of planning guidance led by Lord Taylor of Goss Moor.</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;On &lt;a href="https://www.gov.uk/government/news/planning-practice-guidance-should-be-simpler"&gt;21 December 2012&lt;/a&gt; the government welcomed the report of the review of planning practice guidance led by Lord Taylor of Goss Moor, and announced a &lt;a href="https://www.gov.uk/government/consultations/review-of-planning-practice-guidance"&gt;short consultation&lt;/a&gt; on the review group’s recommendations.&lt;/p&gt;
+
+&lt;p&gt;The review group’s report makes recommendations as to the scope and form of practice guidance that should be provided in future by government to support effective planning; what new or updated practice guidance should be published, with clear priorities; and what guidance should be cancelled.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/60312</id>
@@ -68,28 +94,14 @@
 &lt;p&gt;A second consultation exercise covering the remainder of the new scheme will follow shortly.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60325</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60592</id>
     <published>2012-12-21T00:00:00+00:00</published>
-    <updated>2012-12-21T13:58:10+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/external-review-of-government-planning-practice-guidance"/>
-    <title>External review of government planning practice guidance</title>
+    <updated>2012-12-21T14:38:46+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/reducing-statutory-burdens-equality-impact-assessments"/>
+    <title>Reducing statutory burdens: equality impact assessments</title>
     <category>Publication</category>
-    <summary>Conclusions and recommendations of the review of planning guidance led by Lord Taylor of Goss Moor.</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;On &lt;a href="https://www.gov.uk/government/news/planning-practice-guidance-should-be-simpler"&gt;21 December 2012&lt;/a&gt; the government welcomed the report of the review of planning practice guidance led by Lord Taylor of Goss Moor, and announced a &lt;a href="https://www.gov.uk/government/consultations/review-of-planning-practice-guidance"&gt;short consultation&lt;/a&gt; on the review group’s recommendations.&lt;/p&gt;
-
-&lt;p&gt;The review group’s report makes recommendations as to the scope and form of practice guidance that should be provided in future by government to support effective planning; what new or updated practice guidance should be published, with clear priorities; and what guidance should be cancelled.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60800</id>
-    <published>2012-12-21T00:00:00+00:00</published>
-    <updated>2012-12-21T17:22:19+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/consultations/changes-to-temporary-stop-notices-consultation"/>
-    <title>Changes to Temporary Stop Notices consultation</title>
-    <category>Consultation</category>
-    <summary>Consultation on proposals to improve councils' power to tackle unauthorised development.</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The consultation is on the proposal to revoke Statutory Instrument 2005/206 under the &lt;a rel="external" href="http://www.legislation.gov.uk/uksi/2005/206/contents/made"&gt;Town and Country Planning (Temporary Stop Notice)(England) Regulations 2005&lt;/a&gt;. The regulation currently restricts councils use of Temporary Stop Notices on unauthorised sites where a caravan is used as a main residence. This can discourage local councils from serving stop notices where it may be beneficial to do so.&lt;/p&gt;
-
-&lt;p&gt;The proposals in this consultation would give local councils greater freedom to make a decision on the basis of local circumstances and on whether serving Temporary Stop Notices in respect of caravans used as main residences is appropriate. It will remain for local councils to consider the consequences of taking enforcement action and whether the action is necessary and proportionate in the circumstances.&lt;/p&gt;&lt;/div&gt;</content>
+    <summary>Letter from Brandon Lewis to all leaders and chief executives of local authorities.</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Guidance on the production of equality impact assessments.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/60403</id>
@@ -655,6 +667,304 @@
 &lt;/section&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/59958</id>
+    <published>2012-12-20T09:30:00+00:00</published>
+    <updated>2012-12-20T09:30:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/statistical-data-sets/live-tables-on-rents-lettings-and-tenancies"/>
+    <title>Live tables on rents, lettings and tenancies</title>
+    <category>Statistical data set</category>
+    <summary>The live tables provide the latest, most useful or most popular data, presented by type and other variables, including by geographical area or on a temporal basis. </summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Details about the different data sources used to generate tables and a list of discontinued tables can be found in &lt;a href="https://www.gov.uk/rents-lettings-and-tenancies-data-notes-and-definitions-for-local-authorities-and-data-analysts"&gt;Rents, lettings and tenancies: notes and definitions for local authorities and data analysts.&lt;/a&gt;&lt;/p&gt;
+
+&lt;section class="attachment embedded" id="attachment_56242"&gt;&lt;div class="attachment-thumb"&gt;
+    &lt;a href="/government/uploads/system/uploads/attachment_data/file/39267/Live_Table_600.xls" aria-describedby="attachment-56242-accessibility-help" class="thumbnail"&gt;
+      &lt;img alt="" src="https://assets.digital.cabinet-office.gov.uk/government/assets/pub-cover-f3684e2880956dff7bb138bfb0c2bebf.png"&gt;&lt;/a&gt;  &lt;/div&gt;
+  &lt;div class="attachment-details"&gt;
+    &lt;h3 class="title"&gt;&lt;a href="/government/uploads/system/uploads/attachment_data/file/39267/Live_Table_600.xls" aria-describedby="attachment-56242-accessibility-help"&gt;Table 600: numbers of households on local authorities' housing waiting lists, by district: England 1997 to 2012&lt;/a&gt;&lt;/h3&gt;
+    &lt;p class="metadata"&gt;
+      &lt;span class="type"&gt;MS Excel Spreadsheet&lt;/span&gt;,
+      &lt;span class="file-size"&gt;124 KB&lt;/span&gt;
+    &lt;/p&gt;
+      &lt;div class="accessibility-warning js-toggle-accessibility-warning" id="attachment-56242-accessibility-help"&gt;
+        &lt;h3&gt;This file may not be accessible.
+          &lt;span class="toggler"&gt;Request a different format.&lt;/span&gt;
+        &lt;/h3&gt;
+        &lt;p class="help-block"&gt;
+          To request this document in an alternative format such as braille, audio
+          or a different file type please email
+          &lt;a href="mailto:alternativeformats@communities.gsi.gov.uk?body=%0A%0ADetails%20of%20document%20required%3A%0A%0ATitle%3A%20Table%20600%3A%20numbers%20of%20households%20on%20local%20authorities%27%20housing%20waiting%20lists%2C%20by%20district%3A%20England%201997%20to%202012%0AISBN%3A%20%0AUnique%20reference%3A%20%0ACommand%20paper%20number%3A%20%0A%20%20%20%20%20%20&amp;amp;subject=Request%20for%20%27Table%20600%3A%20numbers%20of%20households%20on%20local%20authorities%27%20housing%20waiting%20lists%2C%20by%20district%3A%20England%201997%20to%202012%27%20in%20an%20alternative%20format"&gt;alternativeformats@communities.gsi.gov.uk&lt;/a&gt;
+          quoting your address, telephone number along with the title of the
+          publication ("Table 600: numbers of households on local authorities' housing waiting lists, by district: England 1997 to 2012").
+        &lt;/p&gt;
+      &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/section&gt;&lt;section class="attachment embedded" id="attachment_56243"&gt;&lt;div class="attachment-thumb"&gt;
+    &lt;a href="/government/uploads/system/uploads/attachment_data/file/39268/Live_Table_601_FINAL_VERSION.xls" aria-describedby="attachment-56243-accessibility-help" class="thumbnail"&gt;
+      &lt;img alt="" src="https://assets.digital.cabinet-office.gov.uk/government/assets/pub-cover-f3684e2880956dff7bb138bfb0c2bebf.png"&gt;&lt;/a&gt;  &lt;/div&gt;
+  &lt;div class="attachment-details"&gt;
+    &lt;h3 class="title"&gt;&lt;a href="/government/uploads/system/uploads/attachment_data/file/39268/Live_Table_601_FINAL_VERSION.xls" aria-describedby="attachment-56243-accessibility-help"&gt;Table 601: local authority lettings, by region: England 1988 to 1989 - 2010 to 2011 (final version)&lt;/a&gt;&lt;/h3&gt;
+    &lt;p class="metadata"&gt;
+      &lt;span class="type"&gt;MS Excel Spreadsheet&lt;/span&gt;,
+      &lt;span class="file-size"&gt;46 KB&lt;/span&gt;
+    &lt;/p&gt;
+      &lt;div class="accessibility-warning js-toggle-accessibility-warning" id="attachment-56243-accessibility-help"&gt;
+        &lt;h3&gt;This file may not be accessible.
+          &lt;span class="toggler"&gt;Request a different format.&lt;/span&gt;
+        &lt;/h3&gt;
+        &lt;p class="help-block"&gt;
+          To request this document in an alternative format such as braille, audio
+          or a different file type please email
+          &lt;a href="mailto:alternativeformats@communities.gsi.gov.uk?body=%0A%0ADetails%20of%20document%20required%3A%0A%0ATitle%3A%20Table%20601%3A%20local%20authority%20lettings%2C%20by%20region%3A%20England%201988%20to%201989%20-%202010%20to%202011%20%28final%20version%29%0AISBN%3A%20%0AUnique%20reference%3A%20%0ACommand%20paper%20number%3A%20%0A%20%20%20%20%20%20&amp;amp;subject=Request%20for%20%27Table%20601%3A%20local%20authority%20lettings%2C%20by%20region%3A%20England%201988%20to%201989%20-%202010%20to%202011%20%28final%20version%29%27%20in%20an%20alternative%20format"&gt;alternativeformats@communities.gsi.gov.uk&lt;/a&gt;
+          quoting your address, telephone number along with the title of the
+          publication ("Table 601: local authority lettings, by region: England 1988 to 1989 - 2010 to 2011 (final version)").
+        &lt;/p&gt;
+      &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/section&gt;&lt;section class="attachment embedded" id="attachment_56244"&gt;&lt;div class="attachment-thumb"&gt;
+    &lt;a href="/government/uploads/system/uploads/attachment_data/file/39269/Live_Table_602.xls" aria-describedby="attachment-56244-accessibility-help" class="thumbnail"&gt;
+      &lt;img alt="" src="https://assets.digital.cabinet-office.gov.uk/government/assets/pub-cover-f3684e2880956dff7bb138bfb0c2bebf.png"&gt;&lt;/a&gt;  &lt;/div&gt;
+  &lt;div class="attachment-details"&gt;
+    &lt;h3 class="title"&gt;&lt;a href="/government/uploads/system/uploads/attachment_data/file/39269/Live_Table_602.xls" aria-describedby="attachment-56244-accessibility-help"&gt;Table 602: local authority lettings made to local authority owned dwellings, England, 2000 to 2001 - 2011 to 2012&lt;/a&gt;&lt;/h3&gt;
+    &lt;p class="metadata"&gt;
+      &lt;span class="type"&gt;MS Excel Spreadsheet&lt;/span&gt;,
+      &lt;span class="file-size"&gt;23.5 KB&lt;/span&gt;
+    &lt;/p&gt;
+      &lt;div class="accessibility-warning js-toggle-accessibility-warning" id="attachment-56244-accessibility-help"&gt;
+        &lt;h3&gt;This file may not be accessible.
+          &lt;span class="toggler"&gt;Request a different format.&lt;/span&gt;
+        &lt;/h3&gt;
+        &lt;p class="help-block"&gt;
+          To request this document in an alternative format such as braille, audio
+          or a different file type please email
+          &lt;a href="mailto:alternativeformats@communities.gsi.gov.uk?body=%0A%0ADetails%20of%20document%20required%3A%0A%0ATitle%3A%20Table%20602%3A%20local%20authority%20lettings%20made%20to%20local%20authority%20owned%20dwellings%2C%20England%2C%202000%20to%202001%20-%202011%20to%202012%0AISBN%3A%20%0AUnique%20reference%3A%20%0ACommand%20paper%20number%3A%20%0A%20%20%20%20%20%20&amp;amp;subject=Request%20for%20%27Table%20602%3A%20local%20authority%20lettings%20made%20to%20local%20authority%20owned%20dwellings%2C%20England%2C%202000%20to%202001%20-%202011%20to%202012%27%20in%20an%20alternative%20format"&gt;alternativeformats@communities.gsi.gov.uk&lt;/a&gt;
+          quoting your address, telephone number along with the title of the
+          publication ("Table 602: local authority lettings made to local authority owned dwellings, England, 2000 to 2001 - 2011 to 2012").
+        &lt;/p&gt;
+      &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/section&gt;&lt;section class="attachment embedded" id="attachment_56189"&gt;&lt;div class="attachment-thumb"&gt;
+    &lt;a href="/government/uploads/system/uploads/attachment_data/file/10744/2039623.xls" aria-describedby="attachment-56189-accessibility-help" class="thumbnail"&gt;
+      &lt;img alt="" src="https://assets.digital.cabinet-office.gov.uk/government/assets/pub-cover-f3684e2880956dff7bb138bfb0c2bebf.png"&gt;&lt;/a&gt;  &lt;/div&gt;
+  &lt;div class="attachment-details"&gt;
+    &lt;h3 class="title"&gt;&lt;a href="/government/uploads/system/uploads/attachment_data/file/10744/2039623.xls" aria-describedby="attachment-56189-accessibility-help"&gt;Table 701: local authority average weekly rents, by region, United Kingdom&lt;/a&gt;&lt;/h3&gt;
+    &lt;p class="metadata"&gt;
+      &lt;span class="type"&gt;MS Excel Spreadsheet&lt;/span&gt;,
+      &lt;span class="file-size"&gt;27.5 KB&lt;/span&gt;
+    &lt;/p&gt;
+      &lt;div class="accessibility-warning js-toggle-accessibility-warning" id="attachment-56189-accessibility-help"&gt;
+        &lt;h3&gt;This file may not be accessible.
+          &lt;span class="toggler"&gt;Request a different format.&lt;/span&gt;
+        &lt;/h3&gt;
+        &lt;p class="help-block"&gt;
+          To request this document in an alternative format such as braille, audio
+          or a different file type please email
+          &lt;a href="mailto:alternativeformats@communities.gsi.gov.uk?body=%0A%0ADetails%20of%20document%20required%3A%0A%0ATitle%3A%20Table%20701%3A%20local%20authority%20average%20weekly%20rents%2C%20by%20region%2C%20United%20Kingdom%0AISBN%3A%20%0AUnique%20reference%3A%20%0ACommand%20paper%20number%3A%20%0A%20%20%20%20%20%20&amp;amp;subject=Request%20for%20%27Table%20701%3A%20local%20authority%20average%20weekly%20rents%2C%20by%20region%2C%20United%20Kingdom%27%20in%20an%20alternative%20format"&gt;alternativeformats@communities.gsi.gov.uk&lt;/a&gt;
+          quoting your address, telephone number along with the title of the
+          publication ("Table 701: local authority average weekly rents, by region, United Kingdom").
+        &lt;/p&gt;
+      &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/section&gt;&lt;section class="attachment embedded" id="attachment_56245"&gt;&lt;div class="attachment-thumb"&gt;
+    &lt;a href="/government/uploads/system/uploads/attachment_data/file/39270/Live_Table_702.xls" aria-describedby="attachment-56245-accessibility-help" class="thumbnail"&gt;
+      &lt;img alt="" src="https://assets.digital.cabinet-office.gov.uk/government/assets/pub-cover-f3684e2880956dff7bb138bfb0c2bebf.png"&gt;&lt;/a&gt;  &lt;/div&gt;
+  &lt;div class="attachment-details"&gt;
+    &lt;h3 class="title"&gt;&lt;a href="/government/uploads/system/uploads/attachment_data/file/39270/Live_Table_702.xls" aria-describedby="attachment-56245-accessibility-help"&gt;Table 702: local authority average weekly rents, by district, from 1998 to 1999&lt;/a&gt;&lt;/h3&gt;
+    &lt;p class="metadata"&gt;
+      &lt;span class="type"&gt;MS Excel Spreadsheet&lt;/span&gt;,
+      &lt;span class="file-size"&gt;138 KB&lt;/span&gt;
+    &lt;/p&gt;
+      &lt;div class="accessibility-warning js-toggle-accessibility-warning" id="attachment-56245-accessibility-help"&gt;
+        &lt;h3&gt;This file may not be accessible.
+          &lt;span class="toggler"&gt;Request a different format.&lt;/span&gt;
+        &lt;/h3&gt;
+        &lt;p class="help-block"&gt;
+          To request this document in an alternative format such as braille, audio
+          or a different file type please email
+          &lt;a href="mailto:alternativeformats@communities.gsi.gov.uk?body=%0A%0ADetails%20of%20document%20required%3A%0A%0ATitle%3A%20Table%20702%3A%20local%20authority%20average%20weekly%20rents%2C%20by%20district%2C%20from%201998%20to%201999%0AISBN%3A%20%0AUnique%20reference%3A%20%0ACommand%20paper%20number%3A%20%0A%20%20%20%20%20%20&amp;amp;subject=Request%20for%20%27Table%20702%3A%20local%20authority%20average%20weekly%20rents%2C%20by%20district%2C%20from%201998%20to%201999%27%20in%20an%20alternative%20format"&gt;alternativeformats@communities.gsi.gov.uk&lt;/a&gt;
+          quoting your address, telephone number along with the title of the
+          publication ("Table 702: local authority average weekly rents, by district, from 1998 to 1999").
+        &lt;/p&gt;
+      &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/section&gt;&lt;section class="attachment embedded" id="attachment_56246"&gt;&lt;div class="attachment-thumb"&gt;
+    &lt;a href="/government/uploads/system/uploads/attachment_data/file/39271/Live_Table_703_FINAL_VERSION.xls" aria-describedby="attachment-56246-accessibility-help" class="thumbnail"&gt;
+      &lt;img alt="" src="https://assets.digital.cabinet-office.gov.uk/government/assets/pub-cover-f3684e2880956dff7bb138bfb0c2bebf.png"&gt;&lt;/a&gt;  &lt;/div&gt;
+  &lt;div class="attachment-details"&gt;
+    &lt;h3 class="title"&gt;&lt;a href="/government/uploads/system/uploads/attachment_data/file/39271/Live_Table_703_FINAL_VERSION.xls" aria-describedby="attachment-56246-accessibility-help"&gt;Table 703: Private Registered Provider average weekly rents, by region (final version)&lt;/a&gt;&lt;/h3&gt;
+    &lt;p class="metadata"&gt;
+      &lt;span class="type"&gt;MS Excel Spreadsheet&lt;/span&gt;,
+      &lt;span class="file-size"&gt;24 KB&lt;/span&gt;
+    &lt;/p&gt;
+      &lt;div class="accessibility-warning js-toggle-accessibility-warning" id="attachment-56246-accessibility-help"&gt;
+        &lt;h3&gt;This file may not be accessible.
+          &lt;span class="toggler"&gt;Request a different format.&lt;/span&gt;
+        &lt;/h3&gt;
+        &lt;p class="help-block"&gt;
+          To request this document in an alternative format such as braille, audio
+          or a different file type please email
+          &lt;a href="mailto:alternativeformats@communities.gsi.gov.uk?body=%0A%0ADetails%20of%20document%20required%3A%0A%0ATitle%3A%20Table%20703%3A%20Private%20Registered%20Provider%20average%20weekly%20rents%2C%20by%20region%20%28final%20version%29%0AISBN%3A%20%0AUnique%20reference%3A%20%0ACommand%20paper%20number%3A%20%0A%20%20%20%20%20%20&amp;amp;subject=Request%20for%20%27Table%20703%3A%20Private%20Registered%20Provider%20average%20weekly%20rents%2C%20by%20region%20%28final%20version%29%27%20in%20an%20alternative%20format"&gt;alternativeformats@communities.gsi.gov.uk&lt;/a&gt;
+          quoting your address, telephone number along with the title of the
+          publication ("Table 703: Private Registered Provider average weekly rents, by region (final version)").
+        &lt;/p&gt;
+      &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/section&gt;&lt;section class="attachment embedded" id="attachment_56192"&gt;&lt;div class="attachment-thumb"&gt;
+    &lt;a href="/government/uploads/system/uploads/attachment_data/file/10747/2039641.xls" aria-describedby="attachment-56192-accessibility-help" class="thumbnail"&gt;
+      &lt;img alt="" src="https://assets.digital.cabinet-office.gov.uk/government/assets/pub-cover-f3684e2880956dff7bb138bfb0c2bebf.png"&gt;&lt;/a&gt;  &lt;/div&gt;
+  &lt;div class="attachment-details"&gt;
+    &lt;h3 class="title"&gt;&lt;a href="/government/uploads/system/uploads/attachment_data/file/10747/2039641.xls" aria-describedby="attachment-56192-accessibility-help"&gt;Table 704: Private Registered Provider average weekly rents, by district, from 1997&lt;/a&gt;&lt;/h3&gt;
+    &lt;p class="metadata"&gt;
+      &lt;span class="type"&gt;MS Excel Spreadsheet&lt;/span&gt;,
+      &lt;span class="file-size"&gt;167 KB&lt;/span&gt;
+    &lt;/p&gt;
+      &lt;div class="accessibility-warning js-toggle-accessibility-warning" id="attachment-56192-accessibility-help"&gt;
+        &lt;h3&gt;This file may not be accessible.
+          &lt;span class="toggler"&gt;Request a different format.&lt;/span&gt;
+        &lt;/h3&gt;
+        &lt;p class="help-block"&gt;
+          To request this document in an alternative format such as braille, audio
+          or a different file type please email
+          &lt;a href="mailto:alternativeformats@communities.gsi.gov.uk?body=%0A%0ADetails%20of%20document%20required%3A%0A%0ATitle%3A%20Table%20704%3A%20Private%20Registered%20Provider%20average%20weekly%20rents%2C%20by%20district%2C%20from%201997%0AISBN%3A%20%0AUnique%20reference%3A%20%0ACommand%20paper%20number%3A%20%0A%20%20%20%20%20%20&amp;amp;subject=Request%20for%20%27Table%20704%3A%20Private%20Registered%20Provider%20average%20weekly%20rents%2C%20by%20district%2C%20from%201997%27%20in%20an%20alternative%20format"&gt;alternativeformats@communities.gsi.gov.uk&lt;/a&gt;
+          quoting your address, telephone number along with the title of the
+          publication ("Table 704: Private Registered Provider average weekly rents, by district, from 1997").
+        &lt;/p&gt;
+      &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/section&gt;&lt;section class="attachment embedded" id="attachment_56193"&gt;&lt;div class="attachment-thumb"&gt;
+    &lt;a href="/government/uploads/system/uploads/attachment_data/file/10748/2039658.xls" aria-describedby="attachment-56193-accessibility-help" class="thumbnail"&gt;
+      &lt;img alt="" src="https://assets.digital.cabinet-office.gov.uk/government/assets/pub-cover-f3684e2880956dff7bb138bfb0c2bebf.png"&gt;&lt;/a&gt;  &lt;/div&gt;
+  &lt;div class="attachment-details"&gt;
+    &lt;h3 class="title"&gt;&lt;a href="/government/uploads/system/uploads/attachment_data/file/10748/2039658.xls" aria-describedby="attachment-56193-accessibility-help"&gt;Table 705: local authority average weekly rents, United Kingdom, 1999 to 2000 - 2010 to 2011 (chart)&lt;/a&gt;&lt;/h3&gt;
+    &lt;p class="metadata"&gt;
+      &lt;span class="type"&gt;MS Excel Spreadsheet&lt;/span&gt;,
+      &lt;span class="file-size"&gt;39.5 KB&lt;/span&gt;
+    &lt;/p&gt;
+      &lt;div class="accessibility-warning js-toggle-accessibility-warning" id="attachment-56193-accessibility-help"&gt;
+        &lt;h3&gt;This file may not be accessible.
+          &lt;span class="toggler"&gt;Request a different format.&lt;/span&gt;
+        &lt;/h3&gt;
+        &lt;p class="help-block"&gt;
+          To request this document in an alternative format such as braille, audio
+          or a different file type please email
+          &lt;a href="mailto:alternativeformats@communities.gsi.gov.uk?body=%0A%0ADetails%20of%20document%20required%3A%0A%0ATitle%3A%20Table%20705%3A%20local%20authority%20average%20weekly%20rents%2C%20United%20Kingdom%2C%201999%20to%202000%20-%202010%20to%202011%20%28chart%29%0AISBN%3A%20%0AUnique%20reference%3A%20%0ACommand%20paper%20number%3A%20%0A%20%20%20%20%20%20&amp;amp;subject=Request%20for%20%27Table%20705%3A%20local%20authority%20average%20weekly%20rents%2C%20United%20Kingdom%2C%201999%20to%202000%20-%202010%20to%202011%20%28chart%29%27%20in%20an%20alternative%20format"&gt;alternativeformats@communities.gsi.gov.uk&lt;/a&gt;
+          quoting your address, telephone number along with the title of the
+          publication ("Table 705: local authority average weekly rents, United Kingdom, 1999 to 2000 - 2010 to 2011 (chart)").
+        &lt;/p&gt;
+      &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/section&gt;&lt;section class="attachment embedded" id="attachment_56254"&gt;&lt;div class="attachment-thumb"&gt;
+    &lt;a href="/government/uploads/system/uploads/attachment_data/file/39278/Live_Table_750.xls" aria-describedby="attachment-56254-accessibility-help" class="thumbnail"&gt;
+      &lt;img alt="" src="https://assets.digital.cabinet-office.gov.uk/government/assets/pub-cover-f3684e2880956dff7bb138bfb0c2bebf.png"&gt;&lt;/a&gt;  &lt;/div&gt;
+  &lt;div class="attachment-details"&gt;
+    &lt;h3 class="title"&gt;&lt;a href="/government/uploads/system/uploads/attachment_data/file/39278/Live_Table_750.xls" aria-describedby="attachment-56254-accessibility-help"&gt;Table 750: general needs social lettings made by housing association and local authority landlords, 2007 to 2008 - 2010 to 2012, England: household type&lt;/a&gt;&lt;/h3&gt;
+    &lt;p class="metadata"&gt;
+      &lt;span class="type"&gt;MS Excel Spreadsheet&lt;/span&gt;,
+      &lt;span class="file-size"&gt;26.5 KB&lt;/span&gt;
+    &lt;/p&gt;
+      &lt;div class="accessibility-warning js-toggle-accessibility-warning" id="attachment-56254-accessibility-help"&gt;
+        &lt;h3&gt;This file may not be accessible.
+          &lt;span class="toggler"&gt;Request a different format.&lt;/span&gt;
+        &lt;/h3&gt;
+        &lt;p class="help-block"&gt;
+          To request this document in an alternative format such as braille, audio
+          or a different file type please email
+          &lt;a href="mailto:alternativeformats@communities.gsi.gov.uk?body=%0A%0ADetails%20of%20document%20required%3A%0A%0ATitle%3A%20Table%20750%3A%20general%20needs%20social%20lettings%20made%20by%20housing%20association%20and%20local%20authority%20landlords%2C%202007%20to%202008%20-%202010%20to%202012%2C%20England%3A%20household%20type%0AISBN%3A%20%0AUnique%20reference%3A%20%0ACommand%20paper%20number%3A%20%0A%20%20%20%20%20%20&amp;amp;subject=Request%20for%20%27Table%20750%3A%20general%20needs%20social%20lettings%20made%20by%20housing%20association%20and%20local%20authority%20landlords%2C%202007%20to%202008%20-%202010%20to%202012%2C%20England%3A%20household%20type%27%20in%20an%20alternative%20format"&gt;alternativeformats@communities.gsi.gov.uk&lt;/a&gt;
+          quoting your address, telephone number along with the title of the
+          publication ("Table 750: general needs social lettings made by housing association and local authority landlords, 2007 to 2008 - 2010 to 2012, England: household type").
+        &lt;/p&gt;
+      &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/section&gt;&lt;section class="attachment embedded" id="attachment_56255"&gt;&lt;div class="attachment-thumb"&gt;
+    &lt;a href="/government/uploads/system/uploads/attachment_data/file/39279/Live_Table_751.xls" aria-describedby="attachment-56255-accessibility-help" class="thumbnail"&gt;
+      &lt;img alt="" src="https://assets.digital.cabinet-office.gov.uk/government/assets/pub-cover-f3684e2880956dff7bb138bfb0c2bebf.png"&gt;&lt;/a&gt;  &lt;/div&gt;
+  &lt;div class="attachment-details"&gt;
+    &lt;h3 class="title"&gt;&lt;a href="/government/uploads/system/uploads/attachment_data/file/39279/Live_Table_751.xls" aria-describedby="attachment-56255-accessibility-help"&gt;Table 751: general needs social lettings made by housing association and local authority landlords, 2007 to 2008 - 2010 to 2012, England: age by gender of household reference person&lt;/a&gt;&lt;/h3&gt;
+    &lt;p class="metadata"&gt;
+      &lt;span class="type"&gt;MS Excel Spreadsheet&lt;/span&gt;,
+      &lt;span class="file-size"&gt;34.5 KB&lt;/span&gt;
+    &lt;/p&gt;
+      &lt;div class="accessibility-warning js-toggle-accessibility-warning" id="attachment-56255-accessibility-help"&gt;
+        &lt;h3&gt;This file may not be accessible.
+          &lt;span class="toggler"&gt;Request a different format.&lt;/span&gt;
+        &lt;/h3&gt;
+        &lt;p class="help-block"&gt;
+          To request this document in an alternative format such as braille, audio
+          or a different file type please email
+          &lt;a href="mailto:alternativeformats@communities.gsi.gov.uk?body=%0A%0ADetails%20of%20document%20required%3A%0A%0ATitle%3A%20Table%20751%3A%20general%20needs%20social%20lettings%20made%20by%20housing%20association%20and%20local%20authority%20landlords%2C%202007%20to%202008%20-%202010%20to%202012%2C%20England%3A%20age%20by%20gender%20of%20household%20reference%20person%0AISBN%3A%20%0AUnique%20reference%3A%20%0ACommand%20paper%20number%3A%20%0A%20%20%20%20%20%20&amp;amp;subject=Request%20for%20%27Table%20751%3A%20general%20needs%20social%20lettings%20made%20by%20housing%20association%20and%20local%20authority%20landlords%2C%202007%20to%202008%20-%202010%20to%202012%2C%20England%3A%20age%20by%20gender%20of%20household%20reference%20person%27%20in%20an%20alternative%20format"&gt;alternativeformats@communities.gsi.gov.uk&lt;/a&gt;
+          quoting your address, telephone number along with the title of the
+          publication ("Table 751: general needs social lettings made by housing association and local authority landlords, 2007 to 2008 - 2010 to 2012, England: age by gender of household reference person").
+        &lt;/p&gt;
+      &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/section&gt;&lt;section class="attachment embedded" id="attachment_56256"&gt;&lt;div class="attachment-thumb"&gt;
+    &lt;a href="/government/uploads/system/uploads/attachment_data/file/39280/Live_Table_752.xls" aria-describedby="attachment-56256-accessibility-help" class="thumbnail"&gt;
+      &lt;img alt="" src="https://assets.digital.cabinet-office.gov.uk/government/assets/pub-cover-f3684e2880956dff7bb138bfb0c2bebf.png"&gt;&lt;/a&gt;  &lt;/div&gt;
+  &lt;div class="attachment-details"&gt;
+    &lt;h3 class="title"&gt;&lt;a href="/government/uploads/system/uploads/attachment_data/file/39280/Live_Table_752.xls" aria-describedby="attachment-56256-accessibility-help"&gt;Table 752: general needs social lettings made by housing association and local authority landlords, 2007 to 2008 - 2010 to 2012, England: economic status of household reference person&lt;/a&gt;&lt;/h3&gt;
+    &lt;p class="metadata"&gt;
+      &lt;span class="type"&gt;MS Excel Spreadsheet&lt;/span&gt;,
+      &lt;span class="file-size"&gt;30 KB&lt;/span&gt;
+    &lt;/p&gt;
+      &lt;div class="accessibility-warning js-toggle-accessibility-warning" id="attachment-56256-accessibility-help"&gt;
+        &lt;h3&gt;This file may not be accessible.
+          &lt;span class="toggler"&gt;Request a different format.&lt;/span&gt;
+        &lt;/h3&gt;
+        &lt;p class="help-block"&gt;
+          To request this document in an alternative format such as braille, audio
+          or a different file type please email
+          &lt;a href="mailto:alternativeformats@communities.gsi.gov.uk?body=%0A%0ADetails%20of%20document%20required%3A%0A%0ATitle%3A%20Table%20752%3A%20general%20needs%20social%20lettings%20made%20by%20housing%20association%20and%20local%20authority%20landlords%2C%202007%20to%202008%20-%202010%20to%202012%2C%20England%3A%20economic%20status%20of%20household%20reference%20person%0AISBN%3A%20%0AUnique%20reference%3A%20%0ACommand%20paper%20number%3A%20%0A%20%20%20%20%20%20&amp;amp;subject=Request%20for%20%27Table%20752%3A%20general%20needs%20social%20lettings%20made%20by%20housing%20association%20and%20local%20authority%20landlords%2C%202007%20to%202008%20-%202010%20to%202012%2C%20England%3A%20economic%20status%20of%20household%20reference%20person%27%20in%20an%20alternative%20format"&gt;alternativeformats@communities.gsi.gov.uk&lt;/a&gt;
+          quoting your address, telephone number along with the title of the
+          publication ("Table 752: general needs social lettings made by housing association and local authority landlords, 2007 to 2008 - 2010 to 2012, England: economic status of household reference person").
+        &lt;/p&gt;
+      &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/section&gt;&lt;section class="attachment embedded" id="attachment_56257"&gt;&lt;div class="attachment-thumb"&gt;
+    &lt;a href="/government/uploads/system/uploads/attachment_data/file/39281/Live_Table_753.xls" aria-describedby="attachment-56257-accessibility-help" class="thumbnail"&gt;
+      &lt;img alt="" src="https://assets.digital.cabinet-office.gov.uk/government/assets/pub-cover-f3684e2880956dff7bb138bfb0c2bebf.png"&gt;&lt;/a&gt;  &lt;/div&gt;
+  &lt;div class="attachment-details"&gt;
+    &lt;h3 class="title"&gt;&lt;a href="/government/uploads/system/uploads/attachment_data/file/39281/Live_Table_753.xls" aria-describedby="attachment-56257-accessibility-help"&gt;Table 753: general needs social lettings made by housing association and local authority landlords, 2007 to 2008 - 2010 to 2012, England: ethnic origin of household reference person&lt;/a&gt;&lt;/h3&gt;
+    &lt;p class="metadata"&gt;
+      &lt;span class="type"&gt;MS Excel Spreadsheet&lt;/span&gt;,
+      &lt;span class="file-size"&gt;28 KB&lt;/span&gt;
+    &lt;/p&gt;
+      &lt;div class="accessibility-warning js-toggle-accessibility-warning" id="attachment-56257-accessibility-help"&gt;
+        &lt;h3&gt;This file may not be accessible.
+          &lt;span class="toggler"&gt;Request a different format.&lt;/span&gt;
+        &lt;/h3&gt;
+        &lt;p class="help-block"&gt;
+          To request this document in an alternative format such as braille, audio
+          or a different file type please email
+          &lt;a href="mailto:alternativeformats@communities.gsi.gov.uk?body=%0A%0ADetails%20of%20document%20required%3A%0A%0ATitle%3A%20Table%20753%3A%20general%20needs%20social%20lettings%20made%20by%20housing%20association%20and%20local%20authority%20landlords%2C%202007%20to%202008%20-%202010%20to%202012%2C%20England%3A%20ethnic%20origin%20of%20household%20reference%20person%0AISBN%3A%20%0AUnique%20reference%3A%20%0ACommand%20paper%20number%3A%20%0A%20%20%20%20%20%20&amp;amp;subject=Request%20for%20%27Table%20753%3A%20general%20needs%20social%20lettings%20made%20by%20housing%20association%20and%20local%20authority%20landlords%2C%202007%20to%202008%20-%202010%20to%202012%2C%20England%3A%20ethnic%20origin%20of%20household%20reference%20person%27%20in%20an%20alternative%20format"&gt;alternativeformats@communities.gsi.gov.uk&lt;/a&gt;
+          quoting your address, telephone number along with the title of the
+          publication ("Table 753: general needs social lettings made by housing association and local authority landlords, 2007 to 2008 - 2010 to 2012, England: ethnic origin of household reference person").
+        &lt;/p&gt;
+      &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/section&gt;&lt;section class="attachment embedded" id="attachment_56258"&gt;&lt;div class="attachment-thumb"&gt;
+    &lt;a href="/government/uploads/system/uploads/attachment_data/file/39282/Live_Table_754.xls" aria-describedby="attachment-56258-accessibility-help" class="thumbnail"&gt;
+      &lt;img alt="" src="https://assets.digital.cabinet-office.gov.uk/government/assets/pub-cover-f3684e2880956dff7bb138bfb0c2bebf.png"&gt;&lt;/a&gt;  &lt;/div&gt;
+  &lt;div class="attachment-details"&gt;
+    &lt;h3 class="title"&gt;&lt;a href="/government/uploads/system/uploads/attachment_data/file/39282/Live_Table_754.xls" aria-describedby="attachment-56258-accessibility-help"&gt;Table 754: general needs social lettings made by housing association and local authority landlords, 2007 to 2008 - 2010 to 2012, England: nationality of household reference person&lt;/a&gt;&lt;/h3&gt;
+    &lt;p class="metadata"&gt;
+      &lt;span class="type"&gt;MS Excel Spreadsheet&lt;/span&gt;,
+      &lt;span class="file-size"&gt;27 KB&lt;/span&gt;
+    &lt;/p&gt;
+      &lt;div class="accessibility-warning js-toggle-accessibility-warning" id="attachment-56258-accessibility-help"&gt;
+        &lt;h3&gt;This file may not be accessible.
+          &lt;span class="toggler"&gt;Request a different format.&lt;/span&gt;
+        &lt;/h3&gt;
+        &lt;p class="help-block"&gt;
+          To request this document in an alternative format such as braille, audio
+          or a different file type please email
+          &lt;a href="mailto:alternativeformats@communities.gsi.gov.uk?body=%0A%0ADetails%20of%20document%20required%3A%0A%0ATitle%3A%20Table%20754%3A%20general%20needs%20social%20lettings%20made%20by%20housing%20association%20and%20local%20authority%20landlords%2C%202007%20to%202008%20-%202010%20to%202012%2C%20England%3A%20nationality%20of%20household%20reference%20person%0AISBN%3A%20%0AUnique%20reference%3A%20%0ACommand%20paper%20number%3A%20%0A%20%20%20%20%20%20&amp;amp;subject=Request%20for%20%27Table%20754%3A%20general%20needs%20social%20lettings%20made%20by%20housing%20association%20and%20local%20authority%20landlords%2C%202007%20to%202008%20-%202010%20to%202012%2C%20England%3A%20nationality%20of%20household%20reference%20person%27%20in%20an%20alternative%20format"&gt;alternativeformats@communities.gsi.gov.uk&lt;/a&gt;
+          quoting your address, telephone number along with the title of the
+          publication ("Table 754: general needs social lettings made by housing association and local authority landlords, 2007 to 2008 - 2010 to 2012, England: nationality of household reference person").
+        &lt;/p&gt;
+      &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/section&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/57131</id>
     <published>2012-12-20T09:30:00+00:00</published>
     <updated>2012-12-20T09:30:00+00:00</updated>
@@ -959,312 +1269,26 @@
 &lt;/section&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/59958</id>
-    <published>2012-12-20T09:30:00+00:00</published>
-    <updated>2012-12-20T09:30:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/statistical-data-sets/live-tables-on-rents-lettings-and-tenancies"/>
-    <title>Live tables on rents, lettings and tenancies</title>
-    <category>Statistical data set</category>
-    <summary>The live tables provide the latest, most useful or most popular data, presented by type and other variables, including by geographical area or on a temporal basis. </summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Details about the different data sources used to generate tables and a list of discontinued tables can be found in &lt;a href="https://www.gov.uk/rents-lettings-and-tenancies-data-notes-and-definitions-for-local-authorities-and-data-analysts"&gt;Rents, lettings and tenancies: notes and definitions for local authorities and data analysts.&lt;/a&gt;&lt;/p&gt;
-
-&lt;section class="attachment embedded" id="attachment_56242"&gt;&lt;div class="attachment-thumb"&gt;
-    &lt;a href="/government/uploads/system/uploads/attachment_data/file/39267/Live_Table_600.xls" aria-describedby="attachment-56242-accessibility-help" class="thumbnail"&gt;
-      &lt;img alt="" src="https://assets.digital.cabinet-office.gov.uk/government/assets/pub-cover-f3684e2880956dff7bb138bfb0c2bebf.png"&gt;&lt;/a&gt;  &lt;/div&gt;
-  &lt;div class="attachment-details"&gt;
-    &lt;h3 class="title"&gt;&lt;a href="/government/uploads/system/uploads/attachment_data/file/39267/Live_Table_600.xls" aria-describedby="attachment-56242-accessibility-help"&gt;Table 600: numbers of households on local authorities' housing waiting lists, by district: England 1997 to 2012&lt;/a&gt;&lt;/h3&gt;
-    &lt;p class="metadata"&gt;
-      &lt;span class="type"&gt;MS Excel Spreadsheet&lt;/span&gt;,
-      &lt;span class="file-size"&gt;124 KB&lt;/span&gt;
-    &lt;/p&gt;
-      &lt;div class="accessibility-warning js-toggle-accessibility-warning" id="attachment-56242-accessibility-help"&gt;
-        &lt;h3&gt;This file may not be accessible.
-          &lt;span class="toggler"&gt;Request a different format.&lt;/span&gt;
-        &lt;/h3&gt;
-        &lt;p class="help-block"&gt;
-          To request this document in an alternative format such as braille, audio
-          or a different file type please email
-          &lt;a href="mailto:alternativeformats@communities.gsi.gov.uk?body=%0A%0ADetails%20of%20document%20required%3A%0A%0ATitle%3A%20Table%20600%3A%20numbers%20of%20households%20on%20local%20authorities%27%20housing%20waiting%20lists%2C%20by%20district%3A%20England%201997%20to%202012%0AISBN%3A%20%0AUnique%20reference%3A%20%0ACommand%20paper%20number%3A%20%0A%20%20%20%20%20%20&amp;amp;subject=Request%20for%20%27Table%20600%3A%20numbers%20of%20households%20on%20local%20authorities%27%20housing%20waiting%20lists%2C%20by%20district%3A%20England%201997%20to%202012%27%20in%20an%20alternative%20format"&gt;alternativeformats@communities.gsi.gov.uk&lt;/a&gt;
-          quoting your address, telephone number along with the title of the
-          publication ("Table 600: numbers of households on local authorities' housing waiting lists, by district: England 1997 to 2012").
-        &lt;/p&gt;
-      &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/section&gt;&lt;section class="attachment embedded" id="attachment_56243"&gt;&lt;div class="attachment-thumb"&gt;
-    &lt;a href="/government/uploads/system/uploads/attachment_data/file/39268/Live_Table_601_FINAL_VERSION.xls" aria-describedby="attachment-56243-accessibility-help" class="thumbnail"&gt;
-      &lt;img alt="" src="https://assets.digital.cabinet-office.gov.uk/government/assets/pub-cover-f3684e2880956dff7bb138bfb0c2bebf.png"&gt;&lt;/a&gt;  &lt;/div&gt;
-  &lt;div class="attachment-details"&gt;
-    &lt;h3 class="title"&gt;&lt;a href="/government/uploads/system/uploads/attachment_data/file/39268/Live_Table_601_FINAL_VERSION.xls" aria-describedby="attachment-56243-accessibility-help"&gt;Table 601: local authority lettings, by region: England 1988 to 1989 - 2010 to 2011 (final version)&lt;/a&gt;&lt;/h3&gt;
-    &lt;p class="metadata"&gt;
-      &lt;span class="type"&gt;MS Excel Spreadsheet&lt;/span&gt;,
-      &lt;span class="file-size"&gt;46 KB&lt;/span&gt;
-    &lt;/p&gt;
-      &lt;div class="accessibility-warning js-toggle-accessibility-warning" id="attachment-56243-accessibility-help"&gt;
-        &lt;h3&gt;This file may not be accessible.
-          &lt;span class="toggler"&gt;Request a different format.&lt;/span&gt;
-        &lt;/h3&gt;
-        &lt;p class="help-block"&gt;
-          To request this document in an alternative format such as braille, audio
-          or a different file type please email
-          &lt;a href="mailto:alternativeformats@communities.gsi.gov.uk?body=%0A%0ADetails%20of%20document%20required%3A%0A%0ATitle%3A%20Table%20601%3A%20local%20authority%20lettings%2C%20by%20region%3A%20England%201988%20to%201989%20-%202010%20to%202011%20%28final%20version%29%0AISBN%3A%20%0AUnique%20reference%3A%20%0ACommand%20paper%20number%3A%20%0A%20%20%20%20%20%20&amp;amp;subject=Request%20for%20%27Table%20601%3A%20local%20authority%20lettings%2C%20by%20region%3A%20England%201988%20to%201989%20-%202010%20to%202011%20%28final%20version%29%27%20in%20an%20alternative%20format"&gt;alternativeformats@communities.gsi.gov.uk&lt;/a&gt;
-          quoting your address, telephone number along with the title of the
-          publication ("Table 601: local authority lettings, by region: England 1988 to 1989 - 2010 to 2011 (final version)").
-        &lt;/p&gt;
-      &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/section&gt;&lt;section class="attachment embedded" id="attachment_56244"&gt;&lt;div class="attachment-thumb"&gt;
-    &lt;a href="/government/uploads/system/uploads/attachment_data/file/39269/Live_Table_602.xls" aria-describedby="attachment-56244-accessibility-help" class="thumbnail"&gt;
-      &lt;img alt="" src="https://assets.digital.cabinet-office.gov.uk/government/assets/pub-cover-f3684e2880956dff7bb138bfb0c2bebf.png"&gt;&lt;/a&gt;  &lt;/div&gt;
-  &lt;div class="attachment-details"&gt;
-    &lt;h3 class="title"&gt;&lt;a href="/government/uploads/system/uploads/attachment_data/file/39269/Live_Table_602.xls" aria-describedby="attachment-56244-accessibility-help"&gt;Table 602: local authority lettings made to local authority owned dwellings, England, 2000 to 2001 - 2011 to 2012&lt;/a&gt;&lt;/h3&gt;
-    &lt;p class="metadata"&gt;
-      &lt;span class="type"&gt;MS Excel Spreadsheet&lt;/span&gt;,
-      &lt;span class="file-size"&gt;23.5 KB&lt;/span&gt;
-    &lt;/p&gt;
-      &lt;div class="accessibility-warning js-toggle-accessibility-warning" id="attachment-56244-accessibility-help"&gt;
-        &lt;h3&gt;This file may not be accessible.
-          &lt;span class="toggler"&gt;Request a different format.&lt;/span&gt;
-        &lt;/h3&gt;
-        &lt;p class="help-block"&gt;
-          To request this document in an alternative format such as braille, audio
-          or a different file type please email
-          &lt;a href="mailto:alternativeformats@communities.gsi.gov.uk?body=%0A%0ADetails%20of%20document%20required%3A%0A%0ATitle%3A%20Table%20602%3A%20local%20authority%20lettings%20made%20to%20local%20authority%20owned%20dwellings%2C%20England%2C%202000%20to%202001%20-%202011%20to%202012%0AISBN%3A%20%0AUnique%20reference%3A%20%0ACommand%20paper%20number%3A%20%0A%20%20%20%20%20%20&amp;amp;subject=Request%20for%20%27Table%20602%3A%20local%20authority%20lettings%20made%20to%20local%20authority%20owned%20dwellings%2C%20England%2C%202000%20to%202001%20-%202011%20to%202012%27%20in%20an%20alternative%20format"&gt;alternativeformats@communities.gsi.gov.uk&lt;/a&gt;
-          quoting your address, telephone number along with the title of the
-          publication ("Table 602: local authority lettings made to local authority owned dwellings, England, 2000 to 2001 - 2011 to 2012").
-        &lt;/p&gt;
-      &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/section&gt;&lt;section class="attachment embedded" id="attachment_56189"&gt;&lt;div class="attachment-thumb"&gt;
-    &lt;a href="/government/uploads/system/uploads/attachment_data/file/10744/2039623.xls" aria-describedby="attachment-56189-accessibility-help" class="thumbnail"&gt;
-      &lt;img alt="" src="https://assets.digital.cabinet-office.gov.uk/government/assets/pub-cover-f3684e2880956dff7bb138bfb0c2bebf.png"&gt;&lt;/a&gt;  &lt;/div&gt;
-  &lt;div class="attachment-details"&gt;
-    &lt;h3 class="title"&gt;&lt;a href="/government/uploads/system/uploads/attachment_data/file/10744/2039623.xls" aria-describedby="attachment-56189-accessibility-help"&gt;Table 701: local authority average weekly rents, by region, United Kingdom&lt;/a&gt;&lt;/h3&gt;
-    &lt;p class="metadata"&gt;
-      &lt;span class="type"&gt;MS Excel Spreadsheet&lt;/span&gt;,
-      &lt;span class="file-size"&gt;27.5 KB&lt;/span&gt;
-    &lt;/p&gt;
-      &lt;div class="accessibility-warning js-toggle-accessibility-warning" id="attachment-56189-accessibility-help"&gt;
-        &lt;h3&gt;This file may not be accessible.
-          &lt;span class="toggler"&gt;Request a different format.&lt;/span&gt;
-        &lt;/h3&gt;
-        &lt;p class="help-block"&gt;
-          To request this document in an alternative format such as braille, audio
-          or a different file type please email
-          &lt;a href="mailto:alternativeformats@communities.gsi.gov.uk?body=%0A%0ADetails%20of%20document%20required%3A%0A%0ATitle%3A%20Table%20701%3A%20local%20authority%20average%20weekly%20rents%2C%20by%20region%2C%20United%20Kingdom%0AISBN%3A%20%0AUnique%20reference%3A%20%0ACommand%20paper%20number%3A%20%0A%20%20%20%20%20%20&amp;amp;subject=Request%20for%20%27Table%20701%3A%20local%20authority%20average%20weekly%20rents%2C%20by%20region%2C%20United%20Kingdom%27%20in%20an%20alternative%20format"&gt;alternativeformats@communities.gsi.gov.uk&lt;/a&gt;
-          quoting your address, telephone number along with the title of the
-          publication ("Table 701: local authority average weekly rents, by region, United Kingdom").
-        &lt;/p&gt;
-      &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/section&gt;&lt;section class="attachment embedded" id="attachment_56245"&gt;&lt;div class="attachment-thumb"&gt;
-    &lt;a href="/government/uploads/system/uploads/attachment_data/file/39270/Live_Table_702.xls" aria-describedby="attachment-56245-accessibility-help" class="thumbnail"&gt;
-      &lt;img alt="" src="https://assets.digital.cabinet-office.gov.uk/government/assets/pub-cover-f3684e2880956dff7bb138bfb0c2bebf.png"&gt;&lt;/a&gt;  &lt;/div&gt;
-  &lt;div class="attachment-details"&gt;
-    &lt;h3 class="title"&gt;&lt;a href="/government/uploads/system/uploads/attachment_data/file/39270/Live_Table_702.xls" aria-describedby="attachment-56245-accessibility-help"&gt;Table 702: local authority average weekly rents, by district, from 1998 to 1999&lt;/a&gt;&lt;/h3&gt;
-    &lt;p class="metadata"&gt;
-      &lt;span class="type"&gt;MS Excel Spreadsheet&lt;/span&gt;,
-      &lt;span class="file-size"&gt;138 KB&lt;/span&gt;
-    &lt;/p&gt;
-      &lt;div class="accessibility-warning js-toggle-accessibility-warning" id="attachment-56245-accessibility-help"&gt;
-        &lt;h3&gt;This file may not be accessible.
-          &lt;span class="toggler"&gt;Request a different format.&lt;/span&gt;
-        &lt;/h3&gt;
-        &lt;p class="help-block"&gt;
-          To request this document in an alternative format such as braille, audio
-          or a different file type please email
-          &lt;a href="mailto:alternativeformats@communities.gsi.gov.uk?body=%0A%0ADetails%20of%20document%20required%3A%0A%0ATitle%3A%20Table%20702%3A%20local%20authority%20average%20weekly%20rents%2C%20by%20district%2C%20from%201998%20to%201999%0AISBN%3A%20%0AUnique%20reference%3A%20%0ACommand%20paper%20number%3A%20%0A%20%20%20%20%20%20&amp;amp;subject=Request%20for%20%27Table%20702%3A%20local%20authority%20average%20weekly%20rents%2C%20by%20district%2C%20from%201998%20to%201999%27%20in%20an%20alternative%20format"&gt;alternativeformats@communities.gsi.gov.uk&lt;/a&gt;
-          quoting your address, telephone number along with the title of the
-          publication ("Table 702: local authority average weekly rents, by district, from 1998 to 1999").
-        &lt;/p&gt;
-      &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/section&gt;&lt;section class="attachment embedded" id="attachment_56246"&gt;&lt;div class="attachment-thumb"&gt;
-    &lt;a href="/government/uploads/system/uploads/attachment_data/file/39271/Live_Table_703_FINAL_VERSION.xls" aria-describedby="attachment-56246-accessibility-help" class="thumbnail"&gt;
-      &lt;img alt="" src="https://assets.digital.cabinet-office.gov.uk/government/assets/pub-cover-f3684e2880956dff7bb138bfb0c2bebf.png"&gt;&lt;/a&gt;  &lt;/div&gt;
-  &lt;div class="attachment-details"&gt;
-    &lt;h3 class="title"&gt;&lt;a href="/government/uploads/system/uploads/attachment_data/file/39271/Live_Table_703_FINAL_VERSION.xls" aria-describedby="attachment-56246-accessibility-help"&gt;Table 703: Private Registered Provider average weekly rents, by region (final version)&lt;/a&gt;&lt;/h3&gt;
-    &lt;p class="metadata"&gt;
-      &lt;span class="type"&gt;MS Excel Spreadsheet&lt;/span&gt;,
-      &lt;span class="file-size"&gt;24 KB&lt;/span&gt;
-    &lt;/p&gt;
-      &lt;div class="accessibility-warning js-toggle-accessibility-warning" id="attachment-56246-accessibility-help"&gt;
-        &lt;h3&gt;This file may not be accessible.
-          &lt;span class="toggler"&gt;Request a different format.&lt;/span&gt;
-        &lt;/h3&gt;
-        &lt;p class="help-block"&gt;
-          To request this document in an alternative format such as braille, audio
-          or a different file type please email
-          &lt;a href="mailto:alternativeformats@communities.gsi.gov.uk?body=%0A%0ADetails%20of%20document%20required%3A%0A%0ATitle%3A%20Table%20703%3A%20Private%20Registered%20Provider%20average%20weekly%20rents%2C%20by%20region%20%28final%20version%29%0AISBN%3A%20%0AUnique%20reference%3A%20%0ACommand%20paper%20number%3A%20%0A%20%20%20%20%20%20&amp;amp;subject=Request%20for%20%27Table%20703%3A%20Private%20Registered%20Provider%20average%20weekly%20rents%2C%20by%20region%20%28final%20version%29%27%20in%20an%20alternative%20format"&gt;alternativeformats@communities.gsi.gov.uk&lt;/a&gt;
-          quoting your address, telephone number along with the title of the
-          publication ("Table 703: Private Registered Provider average weekly rents, by region (final version)").
-        &lt;/p&gt;
-      &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/section&gt;&lt;section class="attachment embedded" id="attachment_56192"&gt;&lt;div class="attachment-thumb"&gt;
-    &lt;a href="/government/uploads/system/uploads/attachment_data/file/10747/2039641.xls" aria-describedby="attachment-56192-accessibility-help" class="thumbnail"&gt;
-      &lt;img alt="" src="https://assets.digital.cabinet-office.gov.uk/government/assets/pub-cover-f3684e2880956dff7bb138bfb0c2bebf.png"&gt;&lt;/a&gt;  &lt;/div&gt;
-  &lt;div class="attachment-details"&gt;
-    &lt;h3 class="title"&gt;&lt;a href="/government/uploads/system/uploads/attachment_data/file/10747/2039641.xls" aria-describedby="attachment-56192-accessibility-help"&gt;Table 704: Private Registered Provider average weekly rents, by district, from 1997&lt;/a&gt;&lt;/h3&gt;
-    &lt;p class="metadata"&gt;
-      &lt;span class="type"&gt;MS Excel Spreadsheet&lt;/span&gt;,
-      &lt;span class="file-size"&gt;167 KB&lt;/span&gt;
-    &lt;/p&gt;
-      &lt;div class="accessibility-warning js-toggle-accessibility-warning" id="attachment-56192-accessibility-help"&gt;
-        &lt;h3&gt;This file may not be accessible.
-          &lt;span class="toggler"&gt;Request a different format.&lt;/span&gt;
-        &lt;/h3&gt;
-        &lt;p class="help-block"&gt;
-          To request this document in an alternative format such as braille, audio
-          or a different file type please email
-          &lt;a href="mailto:alternativeformats@communities.gsi.gov.uk?body=%0A%0ADetails%20of%20document%20required%3A%0A%0ATitle%3A%20Table%20704%3A%20Private%20Registered%20Provider%20average%20weekly%20rents%2C%20by%20district%2C%20from%201997%0AISBN%3A%20%0AUnique%20reference%3A%20%0ACommand%20paper%20number%3A%20%0A%20%20%20%20%20%20&amp;amp;subject=Request%20for%20%27Table%20704%3A%20Private%20Registered%20Provider%20average%20weekly%20rents%2C%20by%20district%2C%20from%201997%27%20in%20an%20alternative%20format"&gt;alternativeformats@communities.gsi.gov.uk&lt;/a&gt;
-          quoting your address, telephone number along with the title of the
-          publication ("Table 704: Private Registered Provider average weekly rents, by district, from 1997").
-        &lt;/p&gt;
-      &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/section&gt;&lt;section class="attachment embedded" id="attachment_56193"&gt;&lt;div class="attachment-thumb"&gt;
-    &lt;a href="/government/uploads/system/uploads/attachment_data/file/10748/2039658.xls" aria-describedby="attachment-56193-accessibility-help" class="thumbnail"&gt;
-      &lt;img alt="" src="https://assets.digital.cabinet-office.gov.uk/government/assets/pub-cover-f3684e2880956dff7bb138bfb0c2bebf.png"&gt;&lt;/a&gt;  &lt;/div&gt;
-  &lt;div class="attachment-details"&gt;
-    &lt;h3 class="title"&gt;&lt;a href="/government/uploads/system/uploads/attachment_data/file/10748/2039658.xls" aria-describedby="attachment-56193-accessibility-help"&gt;Table 705: local authority average weekly rents, United Kingdom, 1999 to 2000 - 2010 to 2011 (chart)&lt;/a&gt;&lt;/h3&gt;
-    &lt;p class="metadata"&gt;
-      &lt;span class="type"&gt;MS Excel Spreadsheet&lt;/span&gt;,
-      &lt;span class="file-size"&gt;39.5 KB&lt;/span&gt;
-    &lt;/p&gt;
-      &lt;div class="accessibility-warning js-toggle-accessibility-warning" id="attachment-56193-accessibility-help"&gt;
-        &lt;h3&gt;This file may not be accessible.
-          &lt;span class="toggler"&gt;Request a different format.&lt;/span&gt;
-        &lt;/h3&gt;
-        &lt;p class="help-block"&gt;
-          To request this document in an alternative format such as braille, audio
-          or a different file type please email
-          &lt;a href="mailto:alternativeformats@communities.gsi.gov.uk?body=%0A%0ADetails%20of%20document%20required%3A%0A%0ATitle%3A%20Table%20705%3A%20local%20authority%20average%20weekly%20rents%2C%20United%20Kingdom%2C%201999%20to%202000%20-%202010%20to%202011%20%28chart%29%0AISBN%3A%20%0AUnique%20reference%3A%20%0ACommand%20paper%20number%3A%20%0A%20%20%20%20%20%20&amp;amp;subject=Request%20for%20%27Table%20705%3A%20local%20authority%20average%20weekly%20rents%2C%20United%20Kingdom%2C%201999%20to%202000%20-%202010%20to%202011%20%28chart%29%27%20in%20an%20alternative%20format"&gt;alternativeformats@communities.gsi.gov.uk&lt;/a&gt;
-          quoting your address, telephone number along with the title of the
-          publication ("Table 705: local authority average weekly rents, United Kingdom, 1999 to 2000 - 2010 to 2011 (chart)").
-        &lt;/p&gt;
-      &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/section&gt;&lt;section class="attachment embedded" id="attachment_56254"&gt;&lt;div class="attachment-thumb"&gt;
-    &lt;a href="/government/uploads/system/uploads/attachment_data/file/39278/Live_Table_750.xls" aria-describedby="attachment-56254-accessibility-help" class="thumbnail"&gt;
-      &lt;img alt="" src="https://assets.digital.cabinet-office.gov.uk/government/assets/pub-cover-f3684e2880956dff7bb138bfb0c2bebf.png"&gt;&lt;/a&gt;  &lt;/div&gt;
-  &lt;div class="attachment-details"&gt;
-    &lt;h3 class="title"&gt;&lt;a href="/government/uploads/system/uploads/attachment_data/file/39278/Live_Table_750.xls" aria-describedby="attachment-56254-accessibility-help"&gt;Table 750: general needs social lettings made by housing association and local authority landlords, 2007 to 2008 - 2010 to 2012, England: household type&lt;/a&gt;&lt;/h3&gt;
-    &lt;p class="metadata"&gt;
-      &lt;span class="type"&gt;MS Excel Spreadsheet&lt;/span&gt;,
-      &lt;span class="file-size"&gt;26.5 KB&lt;/span&gt;
-    &lt;/p&gt;
-      &lt;div class="accessibility-warning js-toggle-accessibility-warning" id="attachment-56254-accessibility-help"&gt;
-        &lt;h3&gt;This file may not be accessible.
-          &lt;span class="toggler"&gt;Request a different format.&lt;/span&gt;
-        &lt;/h3&gt;
-        &lt;p class="help-block"&gt;
-          To request this document in an alternative format such as braille, audio
-          or a different file type please email
-          &lt;a href="mailto:alternativeformats@communities.gsi.gov.uk?body=%0A%0ADetails%20of%20document%20required%3A%0A%0ATitle%3A%20Table%20750%3A%20general%20needs%20social%20lettings%20made%20by%20housing%20association%20and%20local%20authority%20landlords%2C%202007%20to%202008%20-%202010%20to%202012%2C%20England%3A%20household%20type%0AISBN%3A%20%0AUnique%20reference%3A%20%0ACommand%20paper%20number%3A%20%0A%20%20%20%20%20%20&amp;amp;subject=Request%20for%20%27Table%20750%3A%20general%20needs%20social%20lettings%20made%20by%20housing%20association%20and%20local%20authority%20landlords%2C%202007%20to%202008%20-%202010%20to%202012%2C%20England%3A%20household%20type%27%20in%20an%20alternative%20format"&gt;alternativeformats@communities.gsi.gov.uk&lt;/a&gt;
-          quoting your address, telephone number along with the title of the
-          publication ("Table 750: general needs social lettings made by housing association and local authority landlords, 2007 to 2008 - 2010 to 2012, England: household type").
-        &lt;/p&gt;
-      &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/section&gt;&lt;section class="attachment embedded" id="attachment_56255"&gt;&lt;div class="attachment-thumb"&gt;
-    &lt;a href="/government/uploads/system/uploads/attachment_data/file/39279/Live_Table_751.xls" aria-describedby="attachment-56255-accessibility-help" class="thumbnail"&gt;
-      &lt;img alt="" src="https://assets.digital.cabinet-office.gov.uk/government/assets/pub-cover-f3684e2880956dff7bb138bfb0c2bebf.png"&gt;&lt;/a&gt;  &lt;/div&gt;
-  &lt;div class="attachment-details"&gt;
-    &lt;h3 class="title"&gt;&lt;a href="/government/uploads/system/uploads/attachment_data/file/39279/Live_Table_751.xls" aria-describedby="attachment-56255-accessibility-help"&gt;Table 751: general needs social lettings made by housing association and local authority landlords, 2007 to 2008 - 2010 to 2012, England: age by gender of household reference person&lt;/a&gt;&lt;/h3&gt;
-    &lt;p class="metadata"&gt;
-      &lt;span class="type"&gt;MS Excel Spreadsheet&lt;/span&gt;,
-      &lt;span class="file-size"&gt;34.5 KB&lt;/span&gt;
-    &lt;/p&gt;
-      &lt;div class="accessibility-warning js-toggle-accessibility-warning" id="attachment-56255-accessibility-help"&gt;
-        &lt;h3&gt;This file may not be accessible.
-          &lt;span class="toggler"&gt;Request a different format.&lt;/span&gt;
-        &lt;/h3&gt;
-        &lt;p class="help-block"&gt;
-          To request this document in an alternative format such as braille, audio
-          or a different file type please email
-          &lt;a href="mailto:alternativeformats@communities.gsi.gov.uk?body=%0A%0ADetails%20of%20document%20required%3A%0A%0ATitle%3A%20Table%20751%3A%20general%20needs%20social%20lettings%20made%20by%20housing%20association%20and%20local%20authority%20landlords%2C%202007%20to%202008%20-%202010%20to%202012%2C%20England%3A%20age%20by%20gender%20of%20household%20reference%20person%0AISBN%3A%20%0AUnique%20reference%3A%20%0ACommand%20paper%20number%3A%20%0A%20%20%20%20%20%20&amp;amp;subject=Request%20for%20%27Table%20751%3A%20general%20needs%20social%20lettings%20made%20by%20housing%20association%20and%20local%20authority%20landlords%2C%202007%20to%202008%20-%202010%20to%202012%2C%20England%3A%20age%20by%20gender%20of%20household%20reference%20person%27%20in%20an%20alternative%20format"&gt;alternativeformats@communities.gsi.gov.uk&lt;/a&gt;
-          quoting your address, telephone number along with the title of the
-          publication ("Table 751: general needs social lettings made by housing association and local authority landlords, 2007 to 2008 - 2010 to 2012, England: age by gender of household reference person").
-        &lt;/p&gt;
-      &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/section&gt;&lt;section class="attachment embedded" id="attachment_56256"&gt;&lt;div class="attachment-thumb"&gt;
-    &lt;a href="/government/uploads/system/uploads/attachment_data/file/39280/Live_Table_752.xls" aria-describedby="attachment-56256-accessibility-help" class="thumbnail"&gt;
-      &lt;img alt="" src="https://assets.digital.cabinet-office.gov.uk/government/assets/pub-cover-f3684e2880956dff7bb138bfb0c2bebf.png"&gt;&lt;/a&gt;  &lt;/div&gt;
-  &lt;div class="attachment-details"&gt;
-    &lt;h3 class="title"&gt;&lt;a href="/government/uploads/system/uploads/attachment_data/file/39280/Live_Table_752.xls" aria-describedby="attachment-56256-accessibility-help"&gt;Table 752: general needs social lettings made by housing association and local authority landlords, 2007 to 2008 - 2010 to 2012, England: economic status of household reference person&lt;/a&gt;&lt;/h3&gt;
-    &lt;p class="metadata"&gt;
-      &lt;span class="type"&gt;MS Excel Spreadsheet&lt;/span&gt;,
-      &lt;span class="file-size"&gt;30 KB&lt;/span&gt;
-    &lt;/p&gt;
-      &lt;div class="accessibility-warning js-toggle-accessibility-warning" id="attachment-56256-accessibility-help"&gt;
-        &lt;h3&gt;This file may not be accessible.
-          &lt;span class="toggler"&gt;Request a different format.&lt;/span&gt;
-        &lt;/h3&gt;
-        &lt;p class="help-block"&gt;
-          To request this document in an alternative format such as braille, audio
-          or a different file type please email
-          &lt;a href="mailto:alternativeformats@communities.gsi.gov.uk?body=%0A%0ADetails%20of%20document%20required%3A%0A%0ATitle%3A%20Table%20752%3A%20general%20needs%20social%20lettings%20made%20by%20housing%20association%20and%20local%20authority%20landlords%2C%202007%20to%202008%20-%202010%20to%202012%2C%20England%3A%20economic%20status%20of%20household%20reference%20person%0AISBN%3A%20%0AUnique%20reference%3A%20%0ACommand%20paper%20number%3A%20%0A%20%20%20%20%20%20&amp;amp;subject=Request%20for%20%27Table%20752%3A%20general%20needs%20social%20lettings%20made%20by%20housing%20association%20and%20local%20authority%20landlords%2C%202007%20to%202008%20-%202010%20to%202012%2C%20England%3A%20economic%20status%20of%20household%20reference%20person%27%20in%20an%20alternative%20format"&gt;alternativeformats@communities.gsi.gov.uk&lt;/a&gt;
-          quoting your address, telephone number along with the title of the
-          publication ("Table 752: general needs social lettings made by housing association and local authority landlords, 2007 to 2008 - 2010 to 2012, England: economic status of household reference person").
-        &lt;/p&gt;
-      &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/section&gt;&lt;section class="attachment embedded" id="attachment_56257"&gt;&lt;div class="attachment-thumb"&gt;
-    &lt;a href="/government/uploads/system/uploads/attachment_data/file/39281/Live_Table_753.xls" aria-describedby="attachment-56257-accessibility-help" class="thumbnail"&gt;
-      &lt;img alt="" src="https://assets.digital.cabinet-office.gov.uk/government/assets/pub-cover-f3684e2880956dff7bb138bfb0c2bebf.png"&gt;&lt;/a&gt;  &lt;/div&gt;
-  &lt;div class="attachment-details"&gt;
-    &lt;h3 class="title"&gt;&lt;a href="/government/uploads/system/uploads/attachment_data/file/39281/Live_Table_753.xls" aria-describedby="attachment-56257-accessibility-help"&gt;Table 753: general needs social lettings made by housing association and local authority landlords, 2007 to 2008 - 2010 to 2012, England: ethnic origin of household reference person&lt;/a&gt;&lt;/h3&gt;
-    &lt;p class="metadata"&gt;
-      &lt;span class="type"&gt;MS Excel Spreadsheet&lt;/span&gt;,
-      &lt;span class="file-size"&gt;28 KB&lt;/span&gt;
-    &lt;/p&gt;
-      &lt;div class="accessibility-warning js-toggle-accessibility-warning" id="attachment-56257-accessibility-help"&gt;
-        &lt;h3&gt;This file may not be accessible.
-          &lt;span class="toggler"&gt;Request a different format.&lt;/span&gt;
-        &lt;/h3&gt;
-        &lt;p class="help-block"&gt;
-          To request this document in an alternative format such as braille, audio
-          or a different file type please email
-          &lt;a href="mailto:alternativeformats@communities.gsi.gov.uk?body=%0A%0ADetails%20of%20document%20required%3A%0A%0ATitle%3A%20Table%20753%3A%20general%20needs%20social%20lettings%20made%20by%20housing%20association%20and%20local%20authority%20landlords%2C%202007%20to%202008%20-%202010%20to%202012%2C%20England%3A%20ethnic%20origin%20of%20household%20reference%20person%0AISBN%3A%20%0AUnique%20reference%3A%20%0ACommand%20paper%20number%3A%20%0A%20%20%20%20%20%20&amp;amp;subject=Request%20for%20%27Table%20753%3A%20general%20needs%20social%20lettings%20made%20by%20housing%20association%20and%20local%20authority%20landlords%2C%202007%20to%202008%20-%202010%20to%202012%2C%20England%3A%20ethnic%20origin%20of%20household%20reference%20person%27%20in%20an%20alternative%20format"&gt;alternativeformats@communities.gsi.gov.uk&lt;/a&gt;
-          quoting your address, telephone number along with the title of the
-          publication ("Table 753: general needs social lettings made by housing association and local authority landlords, 2007 to 2008 - 2010 to 2012, England: ethnic origin of household reference person").
-        &lt;/p&gt;
-      &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/section&gt;&lt;section class="attachment embedded" id="attachment_56258"&gt;&lt;div class="attachment-thumb"&gt;
-    &lt;a href="/government/uploads/system/uploads/attachment_data/file/39282/Live_Table_754.xls" aria-describedby="attachment-56258-accessibility-help" class="thumbnail"&gt;
-      &lt;img alt="" src="https://assets.digital.cabinet-office.gov.uk/government/assets/pub-cover-f3684e2880956dff7bb138bfb0c2bebf.png"&gt;&lt;/a&gt;  &lt;/div&gt;
-  &lt;div class="attachment-details"&gt;
-    &lt;h3 class="title"&gt;&lt;a href="/government/uploads/system/uploads/attachment_data/file/39282/Live_Table_754.xls" aria-describedby="attachment-56258-accessibility-help"&gt;Table 754: general needs social lettings made by housing association and local authority landlords, 2007 to 2008 - 2010 to 2012, England: nationality of household reference person&lt;/a&gt;&lt;/h3&gt;
-    &lt;p class="metadata"&gt;
-      &lt;span class="type"&gt;MS Excel Spreadsheet&lt;/span&gt;,
-      &lt;span class="file-size"&gt;27 KB&lt;/span&gt;
-    &lt;/p&gt;
-      &lt;div class="accessibility-warning js-toggle-accessibility-warning" id="attachment-56258-accessibility-help"&gt;
-        &lt;h3&gt;This file may not be accessible.
-          &lt;span class="toggler"&gt;Request a different format.&lt;/span&gt;
-        &lt;/h3&gt;
-        &lt;p class="help-block"&gt;
-          To request this document in an alternative format such as braille, audio
-          or a different file type please email
-          &lt;a href="mailto:alternativeformats@communities.gsi.gov.uk?body=%0A%0ADetails%20of%20document%20required%3A%0A%0ATitle%3A%20Table%20754%3A%20general%20needs%20social%20lettings%20made%20by%20housing%20association%20and%20local%20authority%20landlords%2C%202007%20to%202008%20-%202010%20to%202012%2C%20England%3A%20nationality%20of%20household%20reference%20person%0AISBN%3A%20%0AUnique%20reference%3A%20%0ACommand%20paper%20number%3A%20%0A%20%20%20%20%20%20&amp;amp;subject=Request%20for%20%27Table%20754%3A%20general%20needs%20social%20lettings%20made%20by%20housing%20association%20and%20local%20authority%20landlords%2C%202007%20to%202008%20-%202010%20to%202012%2C%20England%3A%20nationality%20of%20household%20reference%20person%27%20in%20an%20alternative%20format"&gt;alternativeformats@communities.gsi.gov.uk&lt;/a&gt;
-          quoting your address, telephone number along with the title of the
-          publication ("Table 754: general needs social lettings made by housing association and local authority landlords, 2007 to 2008 - 2010 to 2012, England: nationality of household reference person").
-        &lt;/p&gt;
-      &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/section&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56832</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60098</id>
     <published>2012-12-20T00:00:00+00:00</published>
-    <updated>2012-12-20T11:05:07+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/fire-and-rescue-protective-security-strategy-2012"/>
-    <title>Fire and rescue protective security strategy 2012</title>
+    <updated>2012-12-20T09:30:02+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/social-lettings-tables-2011-to-2012"/>
+    <title>Social lettings tables: 2011 to 2012 </title>
     <category>Publication</category>
     <summary/>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This strategy is a refresh of the 2009 protective security strategy for fire and rescue authorities. It outlines 6 key deliverables to enhance protective security for fire and rescue authorities.&lt;/p&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;These tables give information about the characteristics of households receiving general needs social lettings.&lt;/p&gt;
+
+&lt;p&gt;Estimates cover the whole social housing sector, including both Private Registered Providers (housing associations) and local authorities. The figures are based on lettings information reported through the Continuous Recording of Lettings (CORE) system for 2011 to 2012 and the Local Authority Housing Statistics. More information on CORE can be found on the &lt;a rel="external" href="https://core.communities.gov.uk/"&gt;CORE website&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Participation in CORE by local authorities is not yet complete and some local authorities do not yet provide CORE data, so the local authority figures have been adjusted to take account of missing data. This adjustment uses a method developed by the University of Cambridge to impute figures for local authorities that did not fully participate.&lt;/p&gt;
+
+&lt;p&gt;For general needs social housing lettings, key findings include:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;there were 266,000 general needs lettings across social housing in 2011 to 2012 - a 1% decrease from 269,000 in 2010 to 2011; this decrease has been caused by a decrease in the number of local authority lettings from 117,000 to 113,000 households, whilst the number of housing association lettings has increased from 151,000 to 153,000&lt;/li&gt;
+  &lt;li&gt;the distribution of lettings by household type has remained similar over time; in 2011 to 2012 the proportion to older people (a household where either the tenant or their partner is aged 60 or over) was 11% of all general needs lettings, unchanged from 2010 to 2011&lt;/li&gt;
+  &lt;li&gt;in 2011 to 2012, 95% of lettings to existing tenants and 91% of new lettings went to UK nationals&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/57434</id>
@@ -1289,26 +1313,14 @@
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Non-consolidated performance related payments for 2011 to 2012.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60098</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56832</id>
     <published>2012-12-20T00:00:00+00:00</published>
-    <updated>2012-12-20T09:30:02+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/social-lettings-tables-2011-to-2012"/>
-    <title>Social lettings tables: 2011 to 2012 </title>
+    <updated>2012-12-20T11:05:07+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/fire-and-rescue-protective-security-strategy-2012"/>
+    <title>Fire and rescue protective security strategy 2012</title>
     <category>Publication</category>
     <summary/>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;These tables give information about the characteristics of households receiving general needs social lettings.&lt;/p&gt;
-
-&lt;p&gt;Estimates cover the whole social housing sector, including both Private Registered Providers (housing associations) and local authorities. The figures are based on lettings information reported through the Continuous Recording of Lettings (CORE) system for 2011 to 2012 and the Local Authority Housing Statistics. More information on CORE can be found on the &lt;a rel="external" href="https://core.communities.gov.uk/"&gt;CORE website&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Participation in CORE by local authorities is not yet complete and some local authorities do not yet provide CORE data, so the local authority figures have been adjusted to take account of missing data. This adjustment uses a method developed by the University of Cambridge to impute figures for local authorities that did not fully participate.&lt;/p&gt;
-
-&lt;p&gt;For general needs social housing lettings, key findings include:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;there were 266,000 general needs lettings across social housing in 2011 to 2012 - a 1% decrease from 269,000 in 2010 to 2011; this decrease has been caused by a decrease in the number of local authority lettings from 117,000 to 113,000 households, whilst the number of housing association lettings has increased from 151,000 to 153,000&lt;/li&gt;
-  &lt;li&gt;the distribution of lettings by household type has remained similar over time; in 2011 to 2012 the proportion to older people (a household where either the tenant or their partner is aged 60 or over) was 11% of all general needs lettings, unchanged from 2010 to 2011&lt;/li&gt;
-  &lt;li&gt;in 2011 to 2012, 95% of lettings to existing tenants and 91% of new lettings went to UK nationals&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This strategy is a refresh of the 2009 protective security strategy for fire and rescue authorities. It outlines 6 key deliverables to enhance protective security for fire and rescue authorities.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/60100</id>
@@ -1409,53 +1421,43 @@
 &lt;/section&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60048</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/59998</id>
     <published>2012-12-19T00:00:00+00:00</published>
-    <updated>2012-12-19T16:30:58+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/the-building-approved-inspectors-and-charges-amendment-regulations-2012-authorisation-of-new-extended-competent-person-schemes"/>
-    <title>The Building, Approved Inspectors and Charges (Amendment) Regulations 2012: authorisation of new extended competent person schemes</title>
+    <updated>2012-12-19T16:31:55+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/changes-to-the-building-control-system-introduction-of-risk-based-service-plans-for-local-authorities-and-removal-of-the-warranty-link-rule"/>
+    <title>Changes to the building control system: introduction of risk-based service plans for local authorities and removal of the Warranty Link Rule</title>
     <category>Publication</category>
     <summary/>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This final impact assessment sets out the costs to authorise one new competent person scheme operator for an existing type of work, and the extension of scope for 7 existing competent person scheme operators to cover both existing types of work and 3 new types of work. &lt;/p&gt;
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This final impact assessment sets out the proposed changes to the building control system including introduction of risk-based service plans for local authorities and removal of the Warranty Link Rule. &lt;/p&gt;
 
-&lt;p&gt;This impact assessment updates the consultation impact assessment which was a supporting document for Section 4 of the 2012 &lt;a href="https://www.gov.uk/government/consultations/building-regulations-the-building-control-system"&gt;Building Regulations consultation&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;</content>
+&lt;p&gt;This updates the consultation impact assessment version which was a supporting document for section 4 of the 2012 &lt;a href="https://www.gov.uk/government/consultations/building-regulations-the-building-control-system" title="Building regulations: the building control system"&gt;Building Regulations consultation&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60073</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60035</id>
     <published>2012-12-19T00:00:00+00:00</published>
-    <updated>2012-12-19T18:41:08+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/consultations/local-government-finance-settlement-2013-to-2014-and-related-matters"/>
-    <title>Local government finance settlement 2013 to 2014 and related matters</title>
-    <category>Consultation</category>
-    <summary>This consultation is on the local government finance settlement 2013 to 2014.</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This consultation is about the local government finance settlement 2013 to 2014 and related matters.&lt;/p&gt;
-
-&lt;p&gt;For more information relating to this consultation and the local government finance settlement, view the &lt;a href="https://www.gov.uk/government/news/fair-funding-sensible-savings-and-bill-freeze-right-is-the-right-road-for-councils-says-eric-pickles" title='Fair funding, sensible savings and bill freeze is the right road for councils" says Eric Pickles'&gt;press release&lt;/a&gt; from 19 December 2012 and the &lt;a rel="external" href="http://www.local.communities.gov.uk/finance/1314/settle.htm" title="Local government finance settlement 2013 to 2014"&gt;Local government finance settlement 2013 to 2014&lt;/a&gt; website.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60078</id>
-    <published>2012-12-19T00:00:00+00:00</published>
-    <updated>2012-12-19T18:35:45+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/further-economic-and-analytical-support-for-proposals-to-amend-the-building-regulations-in-2013"/>
-    <title>Further economic and analytical support for proposals to amend the building regulations in 2013</title>
+    <updated>2012-12-19T16:33:59+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/consolidation-and-simplification-of-parts-m-k-and-n-of-the-building-regulations"/>
+    <title>Consolidation and simplification of Parts M, K and N of the building regulations   </title>
     <category>Publication</category>
-    <summary>This report provides support to the evaluation work being carried out by the department on changes to the building regulations.</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Department for Communities and Local Government commissioned EC Harris to provide economic and analytical information to support evaluation work being carried out by the department on changes to the building regulations due to come into force in 2013.&lt;/p&gt;
+    <summary/>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This final impact assessment sets out proposed changes to Parts K (protection from collision falling and impact), Part M (access to and use of buildings) and Part N (glazing) of the building regulations and provides analysis of the associated costs and benefits.&lt;/p&gt;
 
-&lt;p&gt;The purpose of this research project was to provide information to help inform impact assessments of potential changes to the building regulations in 2013. It also investigated the impact of other changes to the building regulations that are not currently being taken forward.&lt;/p&gt;&lt;/div&gt;</content>
+&lt;p&gt;The proposals are not intended to make changes to technical requirements but will simplify compliance and reduce confusion and complexity for industry.&lt;/p&gt;
+
+&lt;p&gt;This impact assessment updates the consultation impact assessment which was a supporting document for Section 1 of the 2012 &lt;a href="https://www.gov.uk/government/consultations/building-regulations-access-statements-security-changing-places-toilets-and-regulation-7"&gt;Building Regulations consultation&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60081</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60037</id>
     <published>2012-12-19T00:00:00+00:00</published>
-    <updated>2012-12-19T19:00:07+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/business-rates-retention-and-the-local-government-finance-settlement-a-practitioners-guide"/>
-    <title>Business rates retention and the local government finance settlement: a practitioners guide</title>
+    <updated>2012-12-19T16:33:12+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/building-regulations-part-p-electrical-safety-in-dwellings"/>
+    <title>Building regulations Part P: electrical safety in dwellings</title>
     <category>Publication</category>
-    <summary>An overview of the calculations set out in the local government finance settlement report 2013 to 2014 and the draft report 2014 to 2015.</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This guide provides an overview of the calculations set out in the local government finance settlement report 2013 to 2014 and the draft local government finance settlement report 2014 to 2015. It sets out how the business rates retention scheme has been set up and how it will operate. &lt;/p&gt;
+    <summary/>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This final impact assessment sets out the proposed changes to Part P of the building regulations and provides an analysis of the associated costs and benefits.&lt;/p&gt;
 
-&lt;p&gt;This guide is aimed at local authority practitioners and is intended to be read alongside both local government finance reports and supporting documents which can be found on the &lt;a rel="external" href="http://www.local.communities.gov.uk/finance/1314/settle.htm" title="Local government finance settlement 2013 to 2014"&gt;local government finance settlement 2013 to 2014&lt;/a&gt; website. &lt;/p&gt;
+&lt;p&gt;The proposals aim to reduce the bureaucracy and cost burdens that Part P imposes on installers, building control bodies and consumers, without undermining the improvements to electrical safety, installer competence and the quality of electrical installation work arising from the introduction of Part P in 2005.&lt;/p&gt;
 
-&lt;p&gt;A glossary explaining the terminology used in the reports and in this document can be found at annex A.&lt;/p&gt;&lt;/div&gt;</content>
+&lt;p&gt;This impact assessment updates the consultation impact assessment which was a supporting document for Section 3 of the 2012 &lt;a href="https://www.gov.uk/government/consultations/building-regulations-electrical-safety"&gt;Building Regulations consultation&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
 </feed>
