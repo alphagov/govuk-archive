@@ -151,18 +151,6 @@ Out of hours: 020 7944 4292&lt;br&gt;
 Public enquiries: 0300 330 3000 &lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:Publication/60789</id>
-    <published>2012-12-21T00:00:00+00:00</published>
-    <updated>2012-12-24T09:37:44+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/uk-international-air-services-policy"/>
-    <title>UK international air services policy</title>
-    <category>Publication</category>
-    <summary>Setting out the UK's international air services policy and explaining what we are doing to support new international routes and services.</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This document sets out the UK’s international air services policy and what we are doing to support new international routes and services, airports in Northern Ireland, Scotland, Wales and regional airports in England. &lt;/p&gt;
-
-&lt;p&gt;It explains the UK’s aviation permit requirements and airport slot allocation process. It also provides information on the UK’s main international airports. It will be of particular interest to foreign governments and airlines looking to operate international air services to the UK.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
     <id>tag:www.gov.uk,2005:Publication/60319</id>
     <published>2012-12-21T00:00:00+00:00</published>
     <updated>2012-11-02T14:46:52+00:00</updated>
@@ -334,6 +322,18 @@ Further information about this indicator can be found in the measurement templat
   &lt;li&gt;Analyst contact: &lt;a href="mailto:rail.stats@dft.gsi.gov.uk"&gt;rail.stats@dft.gsi.gov.uk&lt;/a&gt;
 &lt;/li&gt;
 &lt;/ul&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:Publication/60789</id>
+    <published>2012-12-21T00:00:00+00:00</published>
+    <updated>2012-12-24T09:37:44+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/uk-international-air-services-policy"/>
+    <title>UK international air services policy</title>
+    <category>Publication</category>
+    <summary>Setting out the UK's international air services policy and explaining what we are doing to support new international routes and services.</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This document sets out the UK’s international air services policy and what we are doing to support new international routes and services, airports in Northern Ireland, Scotland, Wales and regional airports in England. &lt;/p&gt;
+
+&lt;p&gt;It explains the UK’s aviation permit requirements and airport slot allocation process. It also provides information on the UK’s main international airports. It will be of particular interest to foreign governments and airlines looking to operate international air services to the UK.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:Publication/60317</id>
@@ -515,6 +515,28 @@ Out of hours: 020 7944 4292&lt;br&gt;
 Public enquiries: 0300 330 3000 &lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
+    <id>tag:www.gov.uk,2005:Speech/60109</id>
+    <published>2012-12-20T00:00:00+00:00</published>
+    <updated>2012-12-20T09:55:18+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/speeches/the-port-of-dover"/>
+    <title>The Port of Dover</title>
+    <category>Statement to parliament</category>
+    <summary>Dover Port transfer scheme decision announced.</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;In January 2010 Dover Harbour Board (DHB) submitted a voluntary transfer scheme in accordance with section 9 of the Ports Act 1991, which allows a relevant port authority to voluntarily submit a transfer scheme, which, if confirmed by the Secretary of State for Transport, would allow the port to be privatised.  This was followed by a statutory consultation period on Dover’s transfer scheme that ended on 25 March 2010.&lt;/p&gt;
+
+&lt;p&gt;On 16 May 2011 the then Secretary of State for Transport, The &lt;abbr title="Right Honourable"&gt;Rt Hon&lt;/abbr&gt; Member for Runnymede and Weybridge (Philip Hammond), launched a consultation on the criteria that the government considers relevant when considering the appropriateness of the sale of a major trust port. The revised criteria - Secretary of State for Transport’s guidance note concerning procedure for the sale of trust ports - was published on 3 August 2011.&lt;/p&gt;
+
+&lt;p&gt;In response to the revised criteria, DHB submitted more information in June 2012, and there was a further 6-week period for representations which ended on 27 July 2012.&lt;/p&gt;
+
+&lt;p&gt;I took over as decision minister from the &lt;abbr title="Right Honourable"&gt;Rt Hon&lt;/abbr&gt; Member for Chipping Barnet (Theresa Villiers) in September 2012 and wish to announce the decision, on behalf of the Secretary of State, to the House today.&lt;/p&gt;
+
+&lt;p&gt;I have decided not to confirm DHB’s transfer scheme. I reached my conclusion taking into account the published policy. I concluded that the transfer scheme proposed would not ensure a sufficient level of enduring community participation in the port. I also concluded that so far as the board made the application in order to be able to obtain the additional finance necessary to undertake the proposed redevelopment of the Western Docks, there were other options available to secure that redevelopment.&lt;/p&gt;
+
+&lt;p&gt;The &lt;a href="/government/publications/dover-transfer-scheme-decision-letter"&gt;full decision letter will be available on the department’s website&lt;/a&gt; shortly after this statement.&lt;/p&gt;
+
+&lt;p&gt;My honourable friend, the Parliamentary under Secretary of State, &lt;abbr title="Honourable"&gt;Hon&lt;/abbr&gt; Member for Wimbledon (Stephen Hammond), as Minister for Maritime will now discuss with DHB, their plans for the future of the port.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
     <id>tag:www.gov.uk,2005:Publication/60110</id>
     <published>2012-12-20T00:00:00+00:00</published>
     <updated>2012-12-20T09:42:57+00:00</updated>
@@ -530,39 +552,5 @@ Public enquiries: 0300 330 3000 &lt;/p&gt;&lt;/div&gt;</content>
 &lt;li&gt;the proposed transfer scheme would not ensure a sufficient level of enduring community participation in the port&lt;/li&gt;
   &lt;li&gt;there were other options available to secure the redevelopment of the Western Docks&lt;/li&gt;
 &lt;/ul&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:Speech/60121</id>
-    <published>2012-12-20T00:00:00+00:00</published>
-    <updated>2012-12-20T11:48:26+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/speeches/rail-franchising--14"/>
-    <title>Rail franchising</title>
-    <category>Statement to parliament</category>
-    <summary>Compensation package for passengers agreed with London Midland.</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;I would today like to give an update on the situation in relation to franchised train operator London Midland (&lt;abbr title="London Midland"&gt;LM&lt;/abbr&gt;).&lt;/p&gt;
-
-&lt;p&gt;Passengers who use &lt;abbr title="London Midland"&gt;LM&lt;/abbr&gt; trains may be aware that the operator has been experiencing difficulties recently, with a number of services being cancelled due to a shortage of driving staff.&lt;/p&gt;
-
-&lt;p&gt;This situation has caused inconvenience and disruption, particularly to passengers in the West Midlands, many of whom have expressed their dissatisfaction to me. I very much share their disappointment that they have not had the reliable service that they rightly expect.&lt;/p&gt;
-
-&lt;p&gt;However, although the recent levels of performance have been extremely disappointing, I am pleased to say that the measures that &lt;abbr title="London Midland"&gt;LM&lt;/abbr&gt; have put in place are beginning to work.&lt;/p&gt;
-
-&lt;p&gt;&lt;abbr title="London Midland"&gt;LM&lt;/abbr&gt; has implemented increases to driver efficiency to enable drivers to operate an increased number of routes during existing shifts, improved driver training processes, provided additional incentives for drivers to work overtime and put in place new measures that allow for drivers to cover shifts on other parts of the network where there are shortages.&lt;/p&gt;
-
-&lt;p&gt;This is in addition to the ongoing training programme that &lt;abbr title="London Midland"&gt;LM&lt;/abbr&gt; is undertaking to ensure that new drivers enter productive service as quickly as possible.&lt;/p&gt;
-
-&lt;p&gt;However, &lt;abbr title="London Midland"&gt;LM&lt;/abbr&gt;’s performance has been of such a level that they are now in breach of their contractual obligations. We have made London Midland aware that they must now take action to compensate passengers for the disruption caused. We have, therefore, agreed with &lt;abbr title="London Midland"&gt;LM&lt;/abbr&gt; that they will provide a substantial package of passenger benefits by way of compensation for the inconvenience that has been caused.&lt;/p&gt;
-
-&lt;p&gt;&lt;abbr title="London Midland"&gt;LM&lt;/abbr&gt; has agreed to spend an additional £4 million over the remainder of the franchise to put in place measures to ensure that these problems do not happen again. In addition, the package of passenger benefits includes the issue of 5 free rail day passes to London Midland season ticket holders, with an expected value of up to £3.5 million. We have also agreed that London Midland will invest a further £2.25 million in infrastructure improvement projects. We have required London Midland to discuss with Centro, the West Midlands Passenger Transport Executive, how the majority of this money will be invested for the benefit of those passengers who have experienced the worst disruption.&lt;/p&gt;
-
-&lt;p&gt;As a result of this consultation, &lt;abbr title="London Midland"&gt;LM&lt;/abbr&gt; has agreed that most of this money should be directed towards measures such as improvements to safety and security at stations and improving the reliability and efficiency of &lt;abbr title="London Midland"&gt;LM&lt;/abbr&gt; trains.&lt;/p&gt;
-
-&lt;p&gt;Lastly, we have also agreed with &lt;abbr title="London Midland"&gt;LM&lt;/abbr&gt; that they must make available an additional 500,000 Advance tickets on key routes on the &lt;abbr title="London Midland"&gt;LM&lt;/abbr&gt; network, giving a net benefit of around £1.9 million to passengers who will be able to take advantage of these cheaper fares over the next two years of the franchise.&lt;/p&gt;
-
-&lt;p&gt;I hope that &lt;abbr title="London Midland"&gt;LM&lt;/abbr&gt; will be able to remain the operator of this franchise for the remainder of its contract - to September 2015. But London Midland will continue to work to challenging performance benchmarks for the remainder of the franchise, and we will take further action (including ending the franchise early and re-tendering it, if appropriate) in the event of any recurrence of performance problems.&lt;/p&gt;
-
-&lt;p&gt;In addition to the package of passenger benefits, we have agreed to revise the profile of performance benchmarks for the next year, to include additional measures that can penalise &lt;abbr title="London Midland"&gt;LM&lt;/abbr&gt; financially in the event of further poor performance. We have also agreed financial measures to ensure that the reduction in revenue as a result of the free and discounted tickets is borne by &lt;abbr title="London Midland"&gt;LM&lt;/abbr&gt;, and not by the taxpayer.&lt;/p&gt;
-
-&lt;p&gt;I am confident that this package, on balance, represents a good deal for passengers and taxpayers, and sends a message to the industry that this level of cancellations is unsatisfactory. I hope that &lt;abbr title="London Midland"&gt;LM&lt;/abbr&gt; can now put this period behind it, and continue to operate a good service for its passengers for the remainder of its franchise.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
 </feed>

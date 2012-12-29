@@ -20,26 +20,6 @@
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Summaries of a number of Dartmoor surveys. &lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60820</id>
-    <published>2012-12-21T00:00:00+00:00</published>
-    <updated>2012-12-21T16:43:23+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/dte-west-midlands-public-information-leaflet"/>
-    <title>DTE West Midlands Public Information Leaflet</title>
-    <category>Publication</category>
-    <summary>DTE West Midlands Public Information Leaflet</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;DTE West Midlands Public Information Leaflet&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60819</id>
-    <published>2012-12-21T00:00:00+00:00</published>
-    <updated>2012-12-21T16:51:37+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/logistics-for-joint-operations"/>
-    <title>Logistics for Joint Operations</title>
-    <category>Publication</category>
-    <summary>Logistics for Joint Operations, Joint Doctrine Publication 4-00</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Logistics for Joint Operations, Joint Doctrine Publication 4-00 (3rd edition).&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/60307</id>
     <published>2012-12-21T00:00:00+00:00</published>
     <updated>2012-12-21T11:46:57+00:00</updated>
@@ -120,24 +100,24 @@
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Battlespace Management, Joint Doctrine Publication 3-70&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60798</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60807</id>
     <published>2012-12-21T00:00:00+00:00</published>
-    <updated>2012-12-21T16:41:02+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/dte-north-west-public-information-leaflet"/>
-    <title>DTE North West Public Information Leaflet</title>
+    <updated>2012-12-21T16:42:28+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/dte-pembrokeshire-public-information-leaflet"/>
+    <title>DTE Pembrokeshire Public Information Leaflet</title>
     <category>Publication</category>
-    <summary>DTE North West Public Information Leaflet</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;DTE North West Public Information Leaflet&lt;/p&gt;&lt;/div&gt;</content>
+    <summary>DTE Pembrokeshire Public Information Leaflet</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;DTE Pembrokeshire Public Information Leaflet&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60797</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60806</id>
     <published>2012-12-21T00:00:00+00:00</published>
-    <updated>2012-12-21T16:48:53+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/media-operations"/>
-    <title>Media Operations</title>
+    <updated>2012-12-21T16:42:15+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/dte-otterburn-public-information-leaflet"/>
+    <title>DTE Otterburn Public Information Leaflet</title>
     <category>Publication</category>
-    <summary>Media Operations, Joint Doctrine Publication 3-45.1</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Media Operations, Joint Doctrine Publication 3-45.1&lt;/p&gt;&lt;/div&gt;</content>
+    <summary>DTE Otterburn Public Information Leaflet</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;DTE Otterburn Public Information Leaflet&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/60796</id>
@@ -208,5 +188,25 @@
     <category>Publication</category>
     <summary>Campaign Execution - a Joint Doctrine Publication</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Campaign Execution - a Joint Doctrine Publication 3-00 (3rd edition).&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60774</id>
+    <published>2012-12-21T00:00:00+00:00</published>
+    <updated>2012-12-21T16:47:12+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/operations-in-the-uk-a-joint-doctrine-publication"/>
+    <title>Operations in the UK - a Joint Doctrine Publication</title>
+    <category>Publication</category>
+    <summary>Operations in the UK: the Defence contribution to resilience.</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Joint Doctrine Publication 02 (2nd edition)&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60766</id>
+    <published>2012-12-21T00:00:00+00:00</published>
+    <updated>2012-12-21T16:47:04+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/campaigning-a-joint-doctrine-publication"/>
+    <title>Campaigning - a Joint Doctrine Publication</title>
+    <category>Publication</category>
+    <summary>Campaigning</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Campaigning - Joint Doctrine Publication 01&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
 </feed>
