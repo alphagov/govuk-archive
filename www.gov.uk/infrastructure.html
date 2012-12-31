@@ -1,0 +1,817 @@
+<!DOCTYPE html>
+<!--[if lt IE 9]><html class="lte-ie8 " lang="en"><![endif]--><!--[if gt IE 8]><!--><html lang="en" class="">
+<!--<![endif]--><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<title>Infrastructure - Detailed guidance - GOV.UK</title>
+<!--[if gt IE 8]><!--><link href="https://assets.digital.cabinet-office.gov.uk/static/application-07bda3fe4e56a5e03e7b7cbed3d1eca6.css" media="screen" rel="stylesheet" type="text/css">
+<!--<![endif]--><!--[if IE 6]><link href="https://assets.digital.cabinet-office.gov.uk/static/application-ie6-79313a17813b4c0709b46326dd8084bc.css" media="screen" rel="stylesheet" type="text/css" /><![endif]--><!--[if IE 7]><link href="https://assets.digital.cabinet-office.gov.uk/static/application-ie7-dec122a14a37397d46f9ed45e420e7d6.css" media="screen" rel="stylesheet" type="text/css" /><![endif]--><!--[if IE 8]><link href="https://assets.digital.cabinet-office.gov.uk/static/application-ie8-428b9a9b358acee1fdf011f667514c2e.css" media="screen" rel="stylesheet" type="text/css" /><![endif]--><link href="https://assets.digital.cabinet-office.gov.uk/static/print-9e9ee3f9c14247af1d926867d66e5bed.css" media="print" rel="stylesheet" type="text/css">
+<!--[if IE 8]>
+<script type="text/javascript">
+  (function(){if(window.opera){return;}
+  setTimeout(function(){var a=document,g,b={families:(g=
+  ["nta"]),urls:["https://assets.digital.cabinet-office.gov.uk/static/fonts-ie8-da730b61a068fd36b1fc1c5ac387ea3a.css"]},
+  c="https://assets.digital.cabinet-office.gov.uk/static/libs/goog/webfont-debug-c6bcf1b06367c37979a87bc1ec2c8081.js",d="script",
+  e=a.createElement(d),f=a.getElementsByTagName(d)[0],h=g.length;WebFontConfig
+  ={custom:b},e.src=c,f.parentNode.insertBefore(e,f);for(;h=h-1;a.documentElement
+  .className+=' wf-'+g[h].replace(/\s/g,'').toLowerCase()+'-n4-loading');},0)
+  })()
+</script>
+<![endif]--><!--[if gte IE 9]><!--><link href="https://assets.digital.cabinet-office.gov.uk/static/fonts-92d13f81aa7b6018a3c5350b0f95f1f0.css" media="all" rel="stylesheet" type="text/css">
+<!--<![endif]--><script src="https://assets.digital.cabinet-office.gov.uk/static/libs/jquery/jquery-1.7.2-765cc76e15d62a88cd61468aeaaaeb5d.js" type="text/javascript"></script><script defer src="https://assets.digital.cabinet-office.gov.uk/static/application-9ade210344d307096d0e4c678c0b5428.js" type="text/javascript"></script><!--[if lt IE 9]>
+      <script src="https://assets.digital.cabinet-office.gov.uk/static/ie-5ffa3a966dcbd83a8dab5cb0aa2193d2.js" type="text/javascript"></script>
+    <![endif]--><link rel="shortcut icon" href="https://assets.digital.cabinet-office.gov.uk/static/favicon-17634b2677b373a25c5bb3ef93212a67.ico" type="image/x-icon">
+<!-- For third-generation iPad with high-resolution Retina display: --><link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://assets.digital.cabinet-office.gov.uk/static/apple-touch-icon-144x144-eee4e09bccd7c55b9b8dca2d6715ffa4.png">
+<!-- For iPhone with high-resolution Retina display: --><link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://assets.digital.cabinet-office.gov.uk/static/apple-touch-icon-114x114-460f91576fe9c617d4fdf7df46cfaef5.png">
+<!-- For first- and second-generation iPad: --><link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://assets.digital.cabinet-office.gov.uk/static/apple-touch-icon-72x72-52dfb66accadbd018bd25b13ed7fac68.png">
+<!-- For non-Retina iPhone, iPod Touch, and Android 2.1+ devices: --><link rel="apple-touch-icon-precomposed" href="https://assets.digital.cabinet-office.gov.uk/static/apple-touch-icon-57x57-7ed7919994fcf4a885cb56cc30fbed42.png">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script id="ga-params" type="text/javascript">
+  var GOVUK = GOVUK || {};
+  GOVUK.Analytics = GOVUK.Analytics || {};
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-26179049-1']);
+  if(document.domain=='www.gov.uk') {
+    _gaq.push(['_setDomainName', '.www.gov.uk']);
+  } else {
+    _gaq.push(['_setDomainName', document.domain]);
+  }
+  _gaq.push(['_setAllowLinker', true]);
+_gaq.push(["_setCustomVar",1,"Section","businesses and self-employed",3]);
+GOVUK.Analytics.Section = "businesses and self-employed";
+_gaq.push(["_setCustomVar",2,"Format","detailed_guidance",3]);
+GOVUK.Analytics.Format = "detailed_guidance";</script><script src="https://assets.digital.cabinet-office.gov.uk/static/analytics-790f0fcf4f241858e8ac518d3cc111cf.js" type="text/javascript"></script><script type="text/javascript">
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script><script defer src="https://assets.digital.cabinet-office.gov.uk/government/assets/application-e7c81c2880ea773d31595f0fd817841b.js" type="text/javascript"></script><!--[if gt IE 8]><!--><link href="https://assets.digital.cabinet-office.gov.uk/government/assets/frontend/base-814b1b3c762d95ad41df95106c942268.css" media="screen" rel="stylesheet" type="text/css">
+<!--<![endif]--><link href="https://assets.digital.cabinet-office.gov.uk/government/assets/frontend/print-15354e5cb92fe49eac20fe65f0a3e729.css" media="print" rel="stylesheet" type="text/css">
+<link href="https://www.gov.uk/government/feed" rel="alternate" title="Recent updates" type="application/atom+xml">
+<link href="https://www.gov.uk/api/specialist/infrastructure" rel="alternate" type="application/json">
+<meta content="True" name="HandheldFriendly">
+<meta content="320" name="MobileOptimized">
+<meta content="authenticity_token" name="csrf-param">
+<meta content="pMJKkiqZFUp9AzXiz3iV0Zy2OmdfM4PPzcAHq64XpUw=" name="csrf-token">
+<!--[if IE 6]><link href="https://assets.digital.cabinet-office.gov.uk/government/assets/frontend/base-ie6-daaf46a3ff5d7aa9d4e9ce4faa65d758.css" media="screen" rel="stylesheet" type="text/css" /><![endif]--><!--[if IE 7]><link href="https://assets.digital.cabinet-office.gov.uk/government/assets/frontend/base-ie7-80e815074f43fcc475972f8dc4d9a4fb.css" media="screen" rel="stylesheet" type="text/css" /><![endif]--><!--[if IE 8]><link href="https://assets.digital.cabinet-office.gov.uk/government/assets/frontend/base-ie8-096f7a8ae6eb16e75c891051f67dbde3.css" media="screen" rel="stylesheet" type="text/css" /><![endif]-->
+</head>
+<body class="website government detailed-guidance">
+      <script type="text/javascript">document.body.className = ((document.body.className) ? document.body.className + ' js-enabled' : 'js-enabled');</script><a href="#content" class="visuallyhidden">Skip to main content</a>
+
+    <header role="banner" class="group" id="global-header"><div class="header-wrapper group">
+        <a href="/" title="Go to the gov.uk homepage" id="logo"><img src="https://assets.digital.cabinet-office.gov.uk/static/gov.uk_logotype-aca6b2127968da9ca8d6b7601569e07f.png" alt="GOV.UK"></a>
+
+        <a href="#search" class="button search-toggle">Search</a>
+
+        <form id="search" class="site-search" action="/search" method="get" role="search">
+          <label for="site-search-text" class="visuallyhidden">Search</label>
+          <input type="search" name="q" id="site-search-text" title="Search"><input class="button" type="submit" value="Search"><input type="hidden" name="tab" value="detailed-results">
+</form>
+      </div>
+    </header><!--end header--><div id="global-cookie-message">
+      <p>GOV.UK uses cookies to make the site simpler. <a href="/support/cookies">Find out more about cookies</a></p>
+    </div>
+
+    
+
+      <div id="global-breadcrumb" class="header-context">
+        <nav role="navigation"><ol class="group">
+<li><a href="/">Home</a></li>
+          <li><a href="https://www.gov.uk/browse/business">Businesses and self-employed</a></li>
+<li><a href="https://www.gov.uk/browse/business/licences">Licences and licence applications</a></li>
+<li><strong><a href="/browse/business/licences/chemical-licensing">Chemical licensing</a></strong></li>
+</ol></nav>
+</div>
+
+    <div id="whitehall-wrapper">
+      <div id="whitehall-inner">
+        <div id="content"></div>
+        <div id="page" class="detailed-guides-show">
+          
+<div class="document_page detailedguide">
+  <div class="block-1">
+    <div class="inner-block">
+      <div class="meta">
+            <section class="change-notes"><p>Published <abbr class="published-at date" title="2012-12-30T19:27:38+00:00">30 December 2012</abbr></p>
+    </section>
+</div>
+      <section class="page-header js-hide-extra-logos"><ul class="organisations-icon-list">
+<li class="organisation department-of-energy-climate-change" id="organisation_11">
+              <a href="http://www.decc.gov.uk/" class="organisation-logo organisation-logo-single-identity organisation-logo-single-identity-medium" rel="external" title="Department 
+of Energy &amp;
+Climate Change (external website)">
+                <span>Department 
+of Energy &amp;
+Climate Change</span>
+</a>
+</li>        </ul>
+<h1 class="page_title has_meta">Infrastructure</h1>
+<div class="page-meta">
+    <p class="summary">DECC encourages all parties to follow the voluntary industry code of practice on access to upstream oil and gas infrastructure</p>
+</div>
+
+
+      </section>
+</div>
+  </div>
+  <div class="block-2">
+    <div class="inner-block">
+      <nav class="contextual-info" id="page-navigation"><h1>Contents</h1>
+    <nav class="detailed_guide_parts" role="navigation"><ol id="document_sections">
+<li>
+            <a href="#introduction">Introduction</a>
+          </li>
+          <li>
+            <a href="#pipelines-and-platforms">Pipelines and platforms</a>
+          </li>
+          <li>
+            <a href="#uknorway-framework-agreement-1998">UK/Norway Framework Agreement 1998</a>
+          </li>
+          <li>
+            <a href="#guidelines-for-the-completion-of-pipeline-works-authorisations-pwas">Guidelines for the completion of Pipeline Works Authorisations (PWAs)</a>
+          </li>
+        <li class="more-like-this">
+          <a href="#more-like-this">See more like this</a>
+        </li>
+      </ol></nav></nav>
+</div>
+  </div>
+  <div class="block-3">
+    <div class="inner-block">
+      <article class="document"><div class="body">
+    <div class="govspeak">
+<h2 id="introduction">Introduction</h2>
+
+<p>The Infrastructure Code of Practice sets out principles and procedures for negotiating third party access to oil and gas infrastructure on the UK Continental Shelf (UKCS).</p>
+
+<h3 id="guidance-on-upstream-oil-and-gas-infrastructure-access-dispute-resolution">Guidance on upstream oil and gas infrastructure access dispute resolution</h3>
+
+<p>Access for developers of offshore oil and gas fields to upstream infrastructure for the purpose of transporting and processing hydrocarbons is a key element in the process of extracting the UK’s petroleum resources. Companies seeking access for their hydrocarbons to such infrastructure must apply in the first instance to the relevant owner of the infrastructure in question.</p>
+
+<p>If a third party is unable to agree satisfactory terms of access with the owner of the upstream oil and gas infrastructure, the third party seeking such access can – and under the terms of the Infrastructure Code of Practice may be obliged to – make an application to the Secretary of State to require access to be granted and to determine the terms on which it is to be granted.</p>
+
+<p>DECC’s Guidance on disputes over third-party access to upstream oil and gas infrastructure sets out the requirements and obligations on all parties. It also sets out the approach DECC would take in handling applications and the principles DECC would expect to be guided by in determining terms of access.</p>
+
+<p>The current guidance reflects the third party access provisions of the Energy Act 2011 which came into force on 21 March 2012. DECC will review the guidance in the light of industry comments and the updating of the Infrastructure Code of Practice that is currently in progress. It is expected that DECC’s guidance will be revised if necessary by the end of 2012.</p>
+
+<p>Comments on the guidance are welcomed. It would be helpful if any proposals for changes include, wherever possible, both reasons and suggestions. For all general enquiries, write to:</p>
+
+<p>Robert White<br>
+email: <a href="mailto:robert.a.white@decc.gsi.gov.uk">robert.a.white@decc.gsi.gov.uk</a><br>
+tel: 0300 068 6056  </p>
+
+<h2 id="pipelines-and-platforms">Pipelines and platforms</h2>
+
+<p>From this section you can access all guidance produced to assist pipeline promoters on issues related to: </p>
+
+<ul>
+<li>legislation</li>
+  <li>decommissioning</li>
+  <li>disused pipelines</li>
+  <li>flaring and venting</li>
+  <li>pipelines work authorisations</li>
+</ul>
+<p>You can also download a spreadsheet detailing the length, diameter, operator, starting and ending locations, and commission date for all UK pipelines.</p>
+
+<h3 id="current-uk-pipelines-and-platforms">Current UK pipelines and platforms</h3>
+
+<section class="attachment embedded" id="attachment_26998"><div class="attachment-thumb">
+    <a href="/government/uploads/system/uploads/attachment_data/file/15653/appendix14.xls" aria-describedby="attachment-26998-accessibility-help" class="thumbnail">
+      <img alt="" src="https://assets.digital.cabinet-office.gov.uk/government/assets/pub-cover-f3684e2880956dff7bb138bfb0c2bebf.png"></a>  </div>
+  <div class="attachment-details">
+    <h3 class="title"><a href="/government/uploads/system/uploads/attachment_data/file/15653/appendix14.xls" aria-describedby="attachment-26998-accessibility-help">Table of current pipelines</a></h3>
+    <p class="metadata">
+      <span class="type">MS Excel Spreadsheet</span>,
+      <span class="file-size">103 KB</span>
+    </p>
+      <div class="accessibility-warning js-toggle-accessibility-warning" id="attachment-26998-accessibility-help">
+        <h3>This file may not be accessible.
+          <span class="toggler">Request a different format.</span>
+        </h3>
+        <p class="help-block">
+          To request this document in an alternative format such as braille, audio
+          or a different file type please email
+          <a href="mailto:govuk-feedback@digital.cabinet-office.gov.uk?body=%0A%0ADetails%20of%20document%20required%3A%0A%0ATitle%3A%20Table%20of%20current%20pipelines%0A%20%20%20%20%20%20&amp;subject=Request%20for%20%27Table%20of%20current%20pipelines%27%20in%20an%20alternative%20format">govuk-feedback@digital.cabinet-office.gov.uk</a>
+          quoting your address, telephone number along with the title of the
+          publication ("Table of current pipelines").
+        </p>
+      </div>
+  </div>
+</section><section class="attachment embedded" id="attachment_26999"><div class="attachment-thumb">
+    <a href="/government/uploads/system/uploads/attachment_data/file/15654/appendix13.xls" aria-describedby="attachment-26999-accessibility-help" class="thumbnail">
+      <img alt="" src="https://assets.digital.cabinet-office.gov.uk/government/assets/pub-cover-f3684e2880956dff7bb138bfb0c2bebf.png"></a>  </div>
+  <div class="attachment-details">
+    <h3 class="title"><a href="/government/uploads/system/uploads/attachment_data/file/15654/appendix13.xls" aria-describedby="attachment-26999-accessibility-help">Table of current platforms</a></h3>
+    <p class="metadata">
+      <span class="type">MS Excel Spreadsheet</span>,
+      <span class="file-size">88.5 KB</span>
+    </p>
+      <div class="accessibility-warning js-toggle-accessibility-warning" id="attachment-26999-accessibility-help">
+        <h3>This file may not be accessible.
+          <span class="toggler">Request a different format.</span>
+        </h3>
+        <p class="help-block">
+          To request this document in an alternative format such as braille, audio
+          or a different file type please email
+          <a href="mailto:govuk-feedback@digital.cabinet-office.gov.uk?body=%0A%0ADetails%20of%20document%20required%3A%0A%0ATitle%3A%20Table%20of%20current%20platforms%0A%20%20%20%20%20%20&amp;subject=Request%20for%20%27Table%20of%20current%20platforms%27%20in%20an%20alternative%20format">govuk-feedback@digital.cabinet-office.gov.uk</a>
+          quoting your address, telephone number along with the title of the
+          publication ("Table of current platforms").
+        </p>
+      </div>
+  </div>
+</section><h3 id="guidance-related-to-pipelines">Guidance related to pipelines</h3>
+
+<ul>
+<li>guidelines for the completion of pipeline works authorisations (PWAs)</li>
+  <li>guidance on the 1962 Pipelines Act</li>
+</ul>
+<section class="attachment embedded" id="attachment_27000"><div class="attachment-thumb">
+    <a href="/government/uploads/system/uploads/attachment_data/file/15655/Guidance_notes_on_the_Public_Gas_Transporter_Pipe.pdf" aria-describedby="attachment-27000-accessibility-help" class="thumbnail">
+      <img alt="" src="https://assets.digital.cabinet-office.gov.uk/government/uploads/system/uploads/attachment_data/file/15655/thumbnail_Guidance_notes_on_the_Public_Gas_Transporter_Pipe.pdf.png"></a>  </div>
+  <div class="attachment-details">
+    <h3 class="title"><a href="/government/uploads/system/uploads/attachment_data/file/15655/Guidance_notes_on_the_Public_Gas_Transporter_Pipe.pdf" aria-describedby="attachment-27000-accessibility-help">Guidance notes on the Public Gas Transporter Pipe-line Works (Environmental Impact Assessment) Regulations 1999</a></h3>
+    <p class="metadata">
+      <span class="type"><abbr title="Portable Document Format">PDF</abbr></span>,
+      <span class="file-size">541 KB</span>,
+        <span class="page-length">26 pages</span>
+    </p>
+      <div class="accessibility-warning js-toggle-accessibility-warning" id="attachment-27000-accessibility-help">
+        <h3>This file may not be accessible.
+          <span class="toggler">Request a different format.</span>
+        </h3>
+        <p class="help-block">
+          To request this document in an alternative format such as braille, audio
+          or a different file type please email
+          <a href="mailto:govuk-feedback@digital.cabinet-office.gov.uk?body=%0A%0ADetails%20of%20document%20required%3A%0A%0ATitle%3A%20Guidance%20notes%20on%20the%20Public%20Gas%20Transporter%20Pipe-line%20Works%20%28Environmental%20Impact%20Assessment%29%20Regulations%201999%0A%20%20%20%20%20%20&amp;subject=Request%20for%20%27Guidance%20notes%20on%20the%20Public%20Gas%20Transporter%20Pipe-line%20Works%20%28Environmental%20Impact%20Assessment%29%20Regulations%201999%27%20in%20an%20alternative%20format">govuk-feedback@digital.cabinet-office.gov.uk</a>
+          quoting your address, telephone number along with the title of the
+          publication ("Guidance notes on the Public Gas Transporter Pipe-line Works (Environmental Impact Assessment) Regulations 1999").
+        </p>
+      </div>
+  </div>
+</section><section class="attachment embedded" id="attachment_27001"><div class="attachment-thumb">
+    <a href="/government/uploads/system/uploads/attachment_data/file/15656/eia-supp-note.pdf" aria-describedby="attachment-27001-accessibility-help" class="thumbnail">
+      <img alt="" src="https://assets.digital.cabinet-office.gov.uk/government/uploads/system/uploads/attachment_data/file/15656/thumbnail_eia-supp-note.pdf.png"></a>  </div>
+  <div class="attachment-details">
+    <h3 class="title"><a href="/government/uploads/system/uploads/attachment_data/file/15656/eia-supp-note.pdf" aria-describedby="attachment-27001-accessibility-help">Supplementary guidance note: The Gas Transporter Pipe-lines Works (Environmental Impact Assessment) (Ammendment) Regulations 2007 </a></h3>
+    <p class="metadata">
+      <span class="type"><abbr title="Portable Document Format">PDF</abbr></span>,
+      <span class="file-size">33.6 KB</span>,
+        <span class="page-length">14 pages</span>
+    </p>
+      <div class="accessibility-warning js-toggle-accessibility-warning" id="attachment-27001-accessibility-help">
+        <h3>This file may not be accessible.
+          <span class="toggler">Request a different format.</span>
+        </h3>
+        <p class="help-block">
+          To request this document in an alternative format such as braille, audio
+          or a different file type please email
+          <a href="mailto:govuk-feedback@digital.cabinet-office.gov.uk?body=%0A%0ADetails%20of%20document%20required%3A%0A%0ATitle%3A%20Supplementary%20guidance%20note%3A%20The%20Gas%20Transporter%20Pipe-lines%20Works%20%28Environmental%20Impact%20Assessment%29%20%28Ammendment%29%20Regulations%202007%20%0A%20%20%20%20%20%20&amp;subject=Request%20for%20%27Supplementary%20guidance%20note%3A%20The%20Gas%20Transporter%20Pipe-lines%20Works%20%28Environmental%20Impact%20Assessment%29%20%28Ammendment%29%20Regulations%202007%20%27%20in%20an%20alternative%20format">govuk-feedback@digital.cabinet-office.gov.uk</a>
+          quoting your address, telephone number along with the title of the
+          publication ("Supplementary guidance note: The Gas Transporter Pipe-lines Works (Environmental Impact Assessment) (Ammendment) Regulations 2007 ").
+        </p>
+      </div>
+  </div>
+</section><h2 id="uknorway-framework-agreement-1998">UK/Norway Framework Agreement 1998</h2>
+
+<h3 id="summary-of-the-agreements-main-provisions">Summary of the agreement’s main provisions</h3>
+
+<h4 id="scope">Scope</h4>
+
+<p>The agreement relates to pipelines on the continental shelf that cross the UK/Norway boundary and link infrastructure on one side under the jurisdiction of one government to infrastructure on the other side under the jurisdiction of the other government. Please note: Vesterled was not covered by the agreement because the Heimdal facilities on the Norwegian shelf and the Norwegian Frigg pipeline on the UKCS are both under Norwegian jurisdiction. Similarly, pipelines direct from a Norwegian field, for example, to a UK landing terminal, are outside the scope of the agreement because the landing terminal would be on the UK’s land territory and not on the UKCS. The term ‘petroleum’ refers to all liquid and gaseous hydrocarbons.</p>
+
+<h3 id="licences-authorisations-approvals-and-consents">Licences, authorisations, approvals and consents</h3>
+
+<p>Laying and operation of inter-connecting pipelines is subject to authorisations:</p>
+
+<ul>
+<li>inlet flange connected to infrastructure on Norwegian shelf, outlet flange connected to infrastructure under UK jurisdiction = Norway grants required authorisation from inlet flange to outlet flange. UK grants required authorisation from median line to outlet flange</li>
+  <li>inlet flange connected to infrastructure on UK shelf, outlet flange connected to infrastructure under Norwegian jurisdiction = UK grants required authorisation from inlet flange to median line. Norway grants required authorisation from median line to outlet flange</li>
+  <li>route of all inter-connecting pipelines is subject to consent of both governments</li>
+  <li>governments must seek to agree on terms of authorisations before they are granted – arbitration is available if needed</li>
+  <li>copies of authorisations must be made available to each government and must not be substantially altered or re-assigned without prior consultation between the governments</li>
+  <li>alterations are not to be made that would prevent unified ownership or operation or prevent /impede transport of petroleum</li>
+  <li>owner of inter-connecting pipeline must establish arrangements to regulate use of the pipeline in accordance with the agreement – governments may request a copy of any agreements setting out such arrangements</li>
+</ul>
+<h3 id="operator">Operator</h3>
+
+<p>The owner is to appoint an operator. This must be approved (along with any subsequent change of operator) by both governments.</p>
+
+<p>Each of the governments is to encourage optimal use of inter-connecting pipelines and take whatever measures they can to assist connections or access to such a pipeline for use to be made of spare capacity (without prejudicing efficient operation for the transport of petroleum owned by the owner of the pipeline).</p>
+
+<p>Arrangements made by the owner to regulate use of the pipeline will include provisions on priorities for transport of petroleum (royalty in kind to get same priority as petroleum from field from which royalty is taken).</p>
+
+<h3 id="dispute-settlement-about-third-party-access">Dispute settlement about third party access</h3>
+
+<p>Responsibility for dispute settlement sits with the Norwegian Government where the proposed point of entry of petroleum is on the Norwegian shelf and the UK Government where the proposed point of entry is on the UK shelf.</p>
+
+<p>Governments must consult on dispute settlement, seeking to agree a mutually acceptable response. Arbitration is available if needed. Both governments must apply principles of non-discrimination and fairness for all parties during a dispute, and they must take account of:</p>
+
+<ul>
+<li>spare capacity available (allowing for owner’s contractual obligations and reasonably expected usage)</li>
+  <li>technical compatibility of third party petroleum with already contracted petroleum in the pipeline</li>
+  <li>economic factors, including costs, tariffs and other conditions applied to use of pipeline</li>
+  <li>need not to endanger security of supply or prejudice safety or environmental measures</li>
+  <li>technical capability and financial viability of third-party applicant</li>
+  <li>other matters relevant to either government</li>
+</ul>
+<p>The government responsible for settling the dispute will take into account consultation with the other government and, at least 21 days prior to informing the applicant of the outcome, inform the other government how it intends to respond. Arbitration is available if needed. The other government shall, on request, give effect to an agreed response.</p>
+
+<h3 id="environmental-protection">Environmental protection</h3>
+
+<p>Governments, jointly and severally, after consultation, will exert every effort to ensure the laying and operation of a pipeline shall not cause pollution of the marine environment or damage by pollution to the coastline, shore facilities, vessels or fishing gear of any country. Competent authorities will develop procedures to implement environmental protection measures in the agreement during an emergency.</p>
+
+<h4 id="safety">Safety</h4>
+
+<p>Governments are to consult on common construction and safety standards for inter-connecting pipelines, and to require owners to comply.</p>
+
+<h4 id="security">Security</h4>
+
+<p>Nothing in the agreement is to prejudice special powers in the case of national or international emergencies. Each of the governments are to consult with the other as early as possible for an agreement on measures to reconcile urgency of the situation. </p>
+
+<h4 id="telecommunications">Telecommunications</h4>
+
+<p>Competent authorities are to agree on the establishment of operation and control of radio communications relating to inter-connecting pipelines. Other communication systems to be subject as far as possible to common design standards. If there are no common standards, standards of each government shall be compatible.</p>
+
+<h4 id="exchange-of-information-and-confidentiality">Exchange of information and confidentiality</h4>
+
+<p>Governments may exchange information received from the pipeline owner as long as it does not conflict with any restrictions on disclosure. Such information received by one government from the other is to be treated as confidential with no further disclosure, but information may be used to prepare general reports. Copies of general reports are to be made available to each government by the other.</p>
+
+<h4 id="tax">Tax</h4>
+
+<p>Double taxation convention applies.</p>
+
+<h4 id="metering-system">Metering system</h4>
+
+<p>The quality and quantities of petroleum are to be metered (entry and exit) by the pipeline owner. The metering system must be compatible with the metering system of the infrastructure and be properly installed/maintained. Where governments have a legitimate interest in the metering system for quantities of petroleum entering a pipeline, the system shall be subject to agreement between their competent authorities. Competent authorities must agree on regular calibration of the metering system. </p>
+
+<h4 id="inspection">Inspection</h4>
+
+<p>Each government must appoint inspectors for safe and proper laying of the pipelines. Inspectors must consult and co-operate. Available measures are to be taken to give respective inspectors access to relevant parts of the pipeline. Inspectors may order cessation of operation without consultation in cases of emergency – reasons are to be reported to the governments, which will then consult to consider action necessary for safe and speedy resu
+mption of operations. Competent authorities must consult on inspection matters.</p>
+
+<h4 id="continued-use">Continued use</h4>
+
+<p>If the governments agree, use and operation of a pipeline shall continue after expiration, surrender or revocation of an authorisation. The Government that had granted the authorisation shall grant a new authorisation or conduct for use and operation of the pipeline itself or take other action as agreed by both governments. Any arrangement established by the owner to regulate the use of the pipeline shall continue to apply, but may be subject to supplementary agreements.</p>
+
+<p>If one government considers continued operation of all or part of a pipeline is not practical, the other government must be given the opportunity, in consultation with the owner, to ensure continued operation on fair terms and conditions. Subject to environmental considerations, neither government will prevent the other from securing continued use. Where one government takes over operation, it shall ensure any part of the pipeline no longer in use is removed or isolated if both governments agree on that course of action.</p>
+
+<h4 id="decommissioning">Decommissioning</h4>
+
+<p>Each government shall agree measures to be taken in connection with decommissioning. If the governments agree continued use of all or part of a pipeline is not practical, they shall require the owner to submit a decommissioning plan. The plan will include an estimate of the costs of the measures proposed in it; details of timing of the measures or provisions on how timings are to be determined. The governments, in considering a plan, shall take into account:</p>
+
+<ul>
+<li>best available cost-effective techniques</li>
+  <li>economic factors</li>
+  <li>applicable international standards/guidelines</li>
+  <li>safety hazards</li>
+  <li>safety of navigation</li>
+  <li>environmental impacts</li>
+  <li>impact on other sea users</li>
+  <li>timetable for decommissioning</li>
+  <li>financial implications and other consequences for either government</li>
+  <li>other matters raised by either government</li>
+</ul>
+<p>Governments may approve the plan with or without modifications and conditionally or unconditionally. The owner will be given the opportunity to make representations about any proposed modifications or conditions. The governments will act without unreasonable delay in deciding whether to approve or reject a plan. An approved plan must be implemented. The owner must be informed of the reasons for rejecting a plan and will submit a revised plan with a time limit acceptable to the governments. Arbitration is available if the governments are unable to agree a response to an application.</p>
+
+<h4 id="arbitration">Arbitration</h4>
+
+<p>Any disputes about the interpretation or application of the agreement, or any other matter referred to the governments for settlement under any agreements between a pipeline owner and a user, will be resolved by negotiation between the governments. If a dispute cannot be resolved in that way, or by any other procedure agreed by the governments, either government may request dispute settlement by an arbitration tribunal composed as follows:</p>
+
+<ul>
+<li>each government designates one arbitrator. Both arbitrators elect a third, who will be chairman. They must not be a national of or habitually reside in either country. If either government fails to appoint an arbitrator within three months of a request, either government may request the International Court of Justice appoint an arbitrator. The same procedure applies if, within one month of the designation or appointment of the second arbitrator, the third arbitrator has not been elected. The tribunal will determine its own procedure, except that all decisions must be taken by a majority vote. The tribunal’s decisions are binding on the governments and regarded as agreements between the governments.</li>
+</ul>
+<h4 id="amendment-and-termination">Amendment and termination</h4>
+
+<p>The governments may amend or terminate the agreement at any time by agreement. Either government may request consultations on an amendment to the agreement at any time; such a consultation is to commence within two months of the request and will be conducted expeditiously. During a consultation, the governments will take full account of the proposals for amendment with the aim of reaching a mutually acceptable solution within the shortest possible time.</p>
+
+<h2 id="guidelines-for-the-completion-of-pipeline-works-authorisations-pwas">Guidelines for the completion of Pipeline Works Authorisations (PWAs)</h2>
+
+<p>Since the Guidance Notes for Petroleum and Submarine Pipelines were published in 1992, there have been some legislative changes. The <a rel="external" href="http://www.legislation.gov.uk/uksi/1996/825/contents/made">Pipeline Safety Regulations 1996</a> were introduced by the Health and Safety Executive; as part of a consolidation exercise, the <a rel="external" href="http://www.legislation.gov.uk/ukpga/1998/17/contents">Petroleum Act 1998</a> repealed and replaced the Petroleum and Submarine Pipelines Act 1975 and the <a rel="external" href="http://www.legislation.gov.uk/uksi/1999/360/contents/made">Offshore Petroleum Production and Pipelines (Assessment of Environmental Effects) Regulations</a> came into effect in 1999. All have had an impact in the process of making an application for an offshore Pipeline Works Authorisation (<abbr title="Pipeline Works Authorisation">PWA</abbr>).</p>
+
+<p>Please note that either a Pipeline Works Authorisation (<abbr title="Pipeline Works Authorisation">PWA</abbr>) or <abbr title="Pipeline Works Authorisation">PWA</abbr> Variation should be in place before any construction/modification works of a pipeline or pipeline system begins. It is recommended that, before submitting an application, the prospective owner should informally consult both <a href="mailto:claire.grant@decc.gsi.gov.uk">Pipelines Administration in DECC</a> and the <a rel="external" href="http://www.hse.gov.uk/">Health and Safety Executive</a> at the earliest possible opportunity, to discuss the proposed scheme and the regulatory requirements involved.</p>
+
+<p>Where there are no objections, it takes approximately 4-6 months from receipt of the application to issuing the authorisation. In the case of pipelines in respect of which an environmental statement is required under the Offshore Petroleum Production and Pipelines (Assessment of Environmental Effects) Regulations 1999, the procedure may take longer in order for all the environmental issues to be properly considered. Operators are therefore urged to submit their applications in good time (at least 4-6 months before construction begins), to meet their deadlines.</p>
+
+<h3 id="consent-and-authorisations---processing-deadlines">Consent and authorisations - processing deadlines</h3>
+
+<p>To assist operators when submitting an application please see below table regarding end to end processing times for issuing consents upon receipt of a satisfactory application</p>
+
+<h4 id="consent-processing-time">Consent processing time</h4>
+
+<table><tbody>
+<tr>
+<td><strong>Consent</strong></td>
+      <td><strong>Processing time</strong></td>
+    </tr>
+<tr>
+<td><abbr title="Pipeline Works Authorisation">PWA</abbr></td>
+      <td>4-6 months</td>
+    </tr>
+<tr>
+<td>
+<abbr title="Pipeline Works Authorisation">PWA</abbr> (with Median Line)</td>
+      <td>6+ months</td>
+    </tr>
+<tr>
+<td>
+<abbr title="Pipeline Works Authorisation">PWA</abbr> <abbr title="Pipeline Works Authorisation">PWA</abbr> Variation (Category 1) (less than 500m or totally within a safety zone)</td>
+      <td>6-8 weeks</td>
+    </tr>
+<tr>
+<td>
+<abbr title="Pipeline Works Authorisation">PWA</abbr> Variation (Category 2) (more than 500m or outside a safety zone)</td>
+      <td>4-6 months</td>
+    </tr>
+<tr>
+<td>Deposit consent</td>
+      <td>6-8 weeks</td>
+    </tr>
+</tbody></table>
+<p>Any queries should be directed to the Consents &amp; Authorisations Manager <a href="mailto:claire.grant@decc.gsi.gov.uk">Claire Grant</a> tel: 01224 254052</p>
+
+<h3 id="action-required-by-companies">Action required by companies</h3>
+
+<ul>
+<li>at the design stage, companies should make contact with the Health and Safety Executive Specialised Installations Directorate in Aberdeen for Scottish waters, and the Hazardous Installations Directorate in Norwich for English/Welsh waters (see <a rel="external" href="http://og.decc.gov.uk/en/olgs/cms/explorationpro/infra_guidance/pipelines/gd_pwa/useful_address/useful_address.aspx">list of useful addresses</a>).</li>
+  <li>as soon as the route of the pipeline and basic technical details are known, contact should be made with the Consents and Authorisations Section at DECC EDU-LED in Aberdeen to arrange an informal meeting.</li>
+  <li>when planning is well under way (e.g. to the extent that it is known whether the pipeline is to be trenched or buried and what type of manifolds are to be used), early contact with local fishing organisations is advised (this gives an opportunity for any problems to be highlighted and hopefully ironed out before the official consultation period.)</li>
+  <li>it is important to ensure the application contains all required details (though minor changes may be made at a later stage) and does not contain unnecessary information – particularly in the form of pages of technical drawings.</li>
+  <li>the application should be submitted in good time so the <abbr title="Pipeline Works Authorisation">PWA</abbr> may be issued before construction begins (approximately 4-6 months or longer if the pipeline crosses a median line and there are likely to be treaty issues or where there may be environmental concerns and the possibility of objections is higher).</li>
+  <li>applicants should not hesitate to phone the case officer handling their application if they have any query regarding the content of the application or if they require clarification of the relevant legislation/procedure.</li>
+  <li>the holder of the <abbr title="Pipeline Works Authorisation">PWA</abbr> must ensure the terms of the authorisation are upheld and that DECC is given advance notice of any proposed modifications/variations and of any changes to the names/addresses of the holder/user(s)/operator and owner(s).</li>
+</ul>
+<h3 id="summary-of-process">Summary of process</h3>
+
+<ul>
+<li>a draft application should be submitted to DECC allowing checks and any additional information to be requested from the company prior to full submission and processing of the application.</li>
+  <li>the applicant should discuss ‘consent to locate’ requirements with DECC’s Environmental Management Team (<abbr title="Environmental Management Team">EMT</abbr>) early in the process. <abbr title="Environmental Management Team">EMT</abbr> can be contacted at emt@decc.gsi.gov.uk or on 01224 254045. We are unable to issue a <abbr title="Pipeline Works Authorisation">PWA</abbr> consent unless the ‘consent to locate’ consent has also been approved.</li>
+  <li>the application will be forwarded to consultees for comment (these are generally other government departments, fishing federations and other users of the sea and include other DECC sections). All consults are asked to respond within 28 days.</li>
+  <li>when any queries have been answered, and all consultees are content, DECC will inform the applicant that they are to proceed to public notice. This requires the applicant to publish and make available for inspection details/maps of the project in such publications and at such addresses as may be directed by the Secretary of State for a period of 28 days. The applicant should forward the documents to DECC for review and agreement, prior to publication.</li>
+  <li>schedule 2 to the Petroleum Act 1998 sets out the procedure for considering any objections to the application.</li>
+  <li>once objections have been resolved or if no comments have been received, the Pipeline Works Authorisation may be issued together with additional ‘consent to locate’ as referred to above. The <abbr title="Pipeline Works Authorisation">PWA</abbr> contains the terms under which the pipelines have been approved, which must be adhered to.</li>
+  <li>DECC will inform all consultees of the issue of the <abbr title="Pipeline Works Authorisation">PWA</abbr> and arrange publication of a notice to this effect.</li>
+</ul>
+<h3 id="definitions">Definitions</h3>
+
+<h4 id="offshore-pipelines">Offshore pipelines</h4>
+
+<p>Under Part 3 of the Petroleum Act 1998 an authorisation is required for the construction and/or use of a “pipeline” in “controlled waters”. For these purposes, controlled waters means the territorial sea adjacent to the UK and the sea in any area designated under section 1(7) of the Continental Shelf Act 1964.</p>
+
+<p>The Energy Act 2008 defines pipelines as a “pipe or system of pipes (excluding a drain or sewer) for the conveyance of anything, together with all apparatus, works and services associated with the operation of such a pipe or system”. This includes pipelines used for the conveyance of hydrocarbons, water, chemicals, apparatus for the supply of energy for operations, hydraulic control lines or umbilicals, as well as services (for example the provision of fuel or power).</p>
+
+<p>Additional approvals and consents under The Offshore Petroleum Production and Pipe-lines (Assessment of Environmental Effects) Regulations 1999 (As amended), The Offshore Petroleum Activities (Conservation of Habitats) Regulations 2001 (As amended) and Part 4a of the Energy Act 2008 will also be required for their construction/use.</p>
+
+<p>With the introduction of the Marine and Coastal Access Act 2009 (<abbr title="Marine and Coastal Access Act">MCAA</abbr>) the following should also be noted:</p>
+
+<ul>
+<li>the construction of pipelines in internal waters will require a Marine Licence and operators should seek advice from the consents team or <abbr title="Environmental Management Team">EMT</abbr> as requirements may differ between devolved authorities and dependent on whether the pipeline is associated with oil and gas, carbon capture and storage or gas unloading and storage activities.</li>
+  <li>the <abbr title="Marine and Coastal Access Act">MCAA</abbr> (2009) provides an order-making power by which the Secretary of State may provide that the provisions of Part 3 of the Petroleum Act 1998 do not apply to a specific pipeline or pipelines of a specified description.</li>
+  <li>in addition, the <abbr title="Marine and Coastal Access Act">MCAA</abbr> (2009) provides a second order-making power which allows the Secretary of State to provide that Part 3 of the Petroleum Act applies to specified pipelines or to pipelines of a specified description where the pipeline is used in connection with exploration for, or exploitation of, petroleum, or the importation of petroleum into the UK and that by virtue of the date when construction of the pipeline was begun, section 14(1)(b) of the Petroleum Act 1998 would not apply in relation its use.</li>
+</ul>
+<h4 id="pipeline-works-authorisation">Pipeline Works Authorisation</h4>
+
+<p>Under the Petroleum Act 1998 a “works authorisation” means an authorisation:</p>
+
+<ul>
+<li>for the works for the construction of a pipeline</li>
+  <li>for such works and for the use of the pipeline</li>
+</ul>
+<h4 id="holder-of-the-pwa">Holder of the <abbr title="Pipeline Works Authorisation">PWA</abbr>
+</h4>
+
+<p>The person to whom the authorisation is issued. An authorisation may not be issued to a person other than a body corporate.</p>
+
+<h4 id="users-of-a-pipeline">User(s) of a pipeline</h4>
+
+<p>The person(s) authorised by the <abbr title="Pipeline Works Authorisation">PWA</abbr> to use the pipeline for the purpose of conveying any fluid, or other, so authorised.</p>
+
+<h4 id="operator-of-a-pipeline">Operator of a pipeline</h4>
+
+<p>The person designated by the holder as responsible for organising or supervising the construction or operation of the authorised pipeline in a manner that complies with the authorisation and, inter alia, with any relevant legislation existing at the material time. The works authorisation may name the operator as the holder.</p>
+
+<h4 id="owners-of-the-pipeline">Owner(s) of the pipeline</h4>
+
+<p>The person(s) in whom the pipeline is vested; and a person who has the right to use capacity in the pipeline, where such right has been acquired by that person on terms that – (a) he is entitled to use the capacity for a period of one year or more, and (b) the right is capable of being assigned or otherwise disposed of to another person. The Petroleum Act 1998 allows the Secretary of State to make an order, designating a person as the “owner” of a pipeline, after giving the person concerned an opportunity of being heard on the subject.</p>
+
+<h4 id="deposit-of-materials-on-the-seabed-consent-depcon">Deposit of materials on the seabed consent (DEPCON)</h4>
+
+<p>Required before any material e.g. rocks/mattresses are placed on the seabed for the protection or support of a pipeline during construction or maintenance of a pipeline.</p>
+
+<p>A <abbr title="Pipeline Works Authorisation">PWA</abbr> must be in place before any Deposit Consent can be issued.</p>
+
+<h3 id="checklist-of-application-information">Checklist of application information</h3>
+
+<h4 id="cover-no-ring-binders-please">Cover (no ring binders please)</h4>
+
+<ul>
+<li>name of project</li>
+  <li>company contact with telephone/fax numbers and email address</li>
+</ul>
+<h4 id="administrative-detail">Administrative detail</h4>
+
+<ul>
+<li>copy of executive summary from approved field development plan (if applicable)</li>
+</ul>
+<p>Or</p>
+
+<ul>
+<li>brief description of project</li>
+  <li>licence and block number</li>
+  <li>approximate project location from shore</li>
+  <li>method of transportation to shore (if applicable)</li>
+</ul>
+<p>And</p>
+
+<ul>
+<li>overall project layout diagram (and navigational charts) showing pipeline(s) to be covered by the authorisation, route of the pipeline(s) – give geographical coordinates (degrees, minutes and seconds format using the WGS84 datum, i.e. 00 00 00.00N, 00 00 00.00E) of start and end points; any change in direction and details of T and Y pieces</li>
+  <li>details of any landfall</li>
+  <li>method of pipeline installation</li>
+  <li>statement that applicant has funds available to discharge any liability for damage attributable to the release or escape of anything from the pipeline, e.g. OPOL scheme</li>
+  <li>where applicable, written agreement from other licensees whose blocks are traversed</li>
+  <li>applicants must check the proposed route for the presence of telecom cables against the Kingfisher Information Service Cable Awareness Charts (KISCA) and include a statement with their findings</li>
+  <li>where applicable, written confirmation of crossing agreements – or if this is likely to cause delay, written confirmation from the company which has legal authority to agree the crossing that there are no objections</li>
+  <li>details of person making application or person on whose behalf the application is being made, with partner letters of agreement – names, registered addresses and registered company number of holder, user(s), operator(s) and owner(s)</li>
+  <li>statement indicating whether or not there is likely to be a significant transboundary environmental impact (as described in the ESPOO convention)</li>
+  <li>paragraph stating action taken to satisfy any relevant environmental regulations (i.e. PON 15 / PON 16 submitted or details of other ES that covers application)</li>
+  <li>paragraph describing decommissioning plans and including the statement, “options for the decommissioning of the pipeline will be considered at the end of the field life and will adhere to government policies and regulations in force at the time”.</li>
+</ul>
+<h4 id="technical-details">Technical details</h4>
+
+<ul>
+<li>general statement of pipeline design, i.e. flexible, rigid – carbon steel, duplex etc.</li>
+  <li>statement of design life of pipeline and estimated field life</li>
+  <li>product to be carried detailing fluid composition – breakdown by mol%</li>
+  <li>proposed operating limits</li>
+  <li>temperature, pressure and maximum rate of flow of fluid to be conveyed</li>
+  <li>geographical location of valves for any future tie-ins</li>
+  <li>whether pipeline(s) is to be trenched (+method) and/or buried and/or backfilled and target depth of trench</li>
+  <li>where applicable application, on appropriate form, for a DepCon</li>
+  <li>dates when offshore construction/installation to is to start and when pipeline is planned to be brought into use (this should be followed up with a letter confirming when the pipeline has been brought into use)</li>
+  <li>proposed limits of deviation (recommended +/- 100 m)</li>
+  <li>where available, one copy of bathymetric details of pipeline routes and details of sediments encountered during survey operations</li>
+  <li>where applicable, engineering drawings showing subsea manifolds and wellhead protection</li>
+</ul>
+<p>Plus</p>
+
+<section class="attachment embedded" id="attachment_27051"><div class="attachment-thumb">
+    <a href="/government/uploads/system/uploads/attachment_data/file/15683/5449-pwa-checklist.doc" aria-describedby="attachment-27051-accessibility-help" class="thumbnail">
+      <img alt="" src="https://assets.digital.cabinet-office.gov.uk/government/assets/pub-cover-f3684e2880956dff7bb138bfb0c2bebf.png"></a>  </div>
+  <div class="attachment-details">
+    <h3 class="title"><a href="/government/uploads/system/uploads/attachment_data/file/15683/5449-pwa-checklist.doc" aria-describedby="attachment-27051-accessibility-help"><abbr title="Pipeline Works Authorisation">PWA</abbr> application checklist</a></h3>
+    <p class="metadata">
+      <span class="type">MS Word Document</span>,
+      <span class="file-size">133 KB</span>
+    </p>
+      <div class="accessibility-warning js-toggle-accessibility-warning" id="attachment-27051-accessibility-help">
+        <h3>This file may not be accessible.
+          <span class="toggler">Request a different format.</span>
+        </h3>
+        <p class="help-block">
+          To request this document in an alternative format such as braille, audio
+          or a different file type please email
+          <a href="mailto:govuk-feedback@digital.cabinet-office.gov.uk?body=%0A%0ADetails%20of%20document%20required%3A%0A%0ATitle%3A%20PWA%20application%20checklist%0A%20%20%20%20%20%20&amp;subject=Request%20for%20%27PWA%20application%20checklist%27%20in%20an%20alternative%20format">govuk-feedback@digital.cabinet-office.gov.uk</a>
+          quoting your address, telephone number along with the title of the
+          publication ("<abbr title="Pipeline Works Authorisation">PWA</abbr> application checklist").
+        </p>
+      </div>
+  </div>
+</section><section class="attachment embedded" id="attachment_27052"><div class="attachment-thumb">
+    <a href="/government/uploads/system/uploads/attachment_data/file/15684/tablea.doc" aria-describedby="attachment-27052-accessibility-help" class="thumbnail">
+      <img alt="" src="https://assets.digital.cabinet-office.gov.uk/government/assets/pub-cover-f3684e2880956dff7bb138bfb0c2bebf.png"></a>  </div>
+  <div class="attachment-details">
+    <h3 class="title"><a href="/government/uploads/system/uploads/attachment_data/file/15684/tablea.doc" aria-describedby="attachment-27052-accessibility-help">Completed table A for each pipeline/umbilical</a></h3>
+    <p class="metadata">
+      <span class="type">MS Word Document</span>,
+      <span class="file-size">30 KB</span>
+    </p>
+      <div class="accessibility-warning js-toggle-accessibility-warning" id="attachment-27052-accessibility-help">
+        <h3>This file may not be accessible.
+          <span class="toggler">Request a different format.</span>
+        </h3>
+        <p class="help-block">
+          To request this document in an alternative format such as braille, audio
+          or a different file type please email
+          <a href="mailto:govuk-feedback@digital.cabinet-office.gov.uk?body=%0A%0ADetails%20of%20document%20required%3A%0A%0ATitle%3A%20Completed%20table%20A%20for%20each%20pipeline%2Fumbilical%0A%20%20%20%20%20%20&amp;subject=Request%20for%20%27Completed%20table%20A%20for%20each%20pipeline%2Fumbilical%27%20in%20an%20alternative%20format">govuk-feedback@digital.cabinet-office.gov.uk</a>
+          quoting your address, telephone number along with the title of the
+          publication ("Completed table A for each pipeline/umbilical").
+        </p>
+      </div>
+  </div>
+</section><section class="attachment embedded" id="attachment_27053"><div class="attachment-thumb">
+    <a href="/government/uploads/system/uploads/attachment_data/file/15685/schematic-ex.pdf" aria-describedby="attachment-27053-accessibility-help" class="thumbnail">
+      <img alt="" src="https://assets.digital.cabinet-office.gov.uk/government/uploads/system/uploads/attachment_data/file/15685/thumbnail_schematic-ex.pdf.png"></a>  </div>
+  <div class="attachment-details">
+    <h3 class="title"><a href="/government/uploads/system/uploads/attachment_data/file/15685/schematic-ex.pdf" aria-describedby="attachment-27053-accessibility-help">Simple schematic/isometric</a></h3>
+    <p class="metadata">
+      <span class="type"><abbr title="Portable Document Format">PDF</abbr></span>,
+      <span class="file-size">18.7 KB</span>,
+        <span class="page-length">1 page</span>
+    </p>
+      <div class="accessibility-warning js-toggle-accessibility-warning" id="attachment-27053-accessibility-help">
+        <h3>This file may not be accessible.
+          <span class="toggler">Request a different format.</span>
+        </h3>
+        <p class="help-block">
+          To request this document in an alternative format such as braille, audio
+          or a different file type please email
+          <a href="mailto:govuk-feedback@digital.cabinet-office.gov.uk?body=%0A%0ADetails%20of%20document%20required%3A%0A%0ATitle%3A%20Simple%20schematic%2Fisometric%0A%20%20%20%20%20%20&amp;subject=Request%20for%20%27Simple%20schematic%2Fisometric%27%20in%20an%20alternative%20format">govuk-feedback@digital.cabinet-office.gov.uk</a>
+          quoting your address, telephone number along with the title of the
+          publication ("Simple schematic/isometric").
+        </p>
+      </div>
+  </div>
+</section><ul>
+<li>where one has been prepared, it is useful to have a 3D picture of the layout of the project (not necessarily to scale)</li>
+</ul>
+<p>One draft electronic application of the above is required initially, as one complete pdf. All navigational charts must be in colour.</p>
+
+<h3 id="pipeline-works-authorisation-variations">Pipeline works authorisation variations</h3>
+
+<p>When a <abbr title="Pipeline Works Authorisation">PWA</abbr> is in place, if there are any changes to Table As then this must be done through a Variation. There are two categories:</p>
+
+<p>1.Work takes place are less than 500 meters or totally within a safety zone</p>
+
+<p>The operator is to submit an application in providing the information detailed on ‘Variation Consent Application Checklist’ below</p>
+
+<section class="attachment embedded" id="attachment_27054"><div class="attachment-thumb">
+    <a href="/government/uploads/system/uploads/attachment_data/file/15686/5450-depcon-table.doc" aria-describedby="attachment-27054-accessibility-help" class="thumbnail">
+      <img alt="" src="https://assets.digital.cabinet-office.gov.uk/government/assets/pub-cover-f3684e2880956dff7bb138bfb0c2bebf.png"></a>  </div>
+  <div class="attachment-details">
+    <h3 class="title"><a href="/government/uploads/system/uploads/attachment_data/file/15686/5450-depcon-table.doc" aria-describedby="attachment-27054-accessibility-help">DepCon 1 form</a></h3>
+    <p class="metadata">
+      <span class="type">MS Word Document</span>,
+      <span class="file-size">32.5 KB</span>
+    </p>
+      <div class="accessibility-warning js-toggle-accessibility-warning" id="attachment-27054-accessibility-help">
+        <h3>This file may not be accessible.
+          <span class="toggler">Request a different format.</span>
+        </h3>
+        <p class="help-block">
+          To request this document in an alternative format such as braille, audio
+          or a different file type please email
+          <a href="mailto:govuk-feedback@digital.cabinet-office.gov.uk?body=%0A%0ADetails%20of%20document%20required%3A%0A%0ATitle%3A%20DepCon%201%20form%0A%20%20%20%20%20%20&amp;subject=Request%20for%20%27DepCon%201%20form%27%20in%20an%20alternative%20format">govuk-feedback@digital.cabinet-office.gov.uk</a>
+          quoting your address, telephone number along with the title of the
+          publication ("DepCon 1 form").
+        </p>
+      </div>
+  </div>
+</section><ul>
+<li>on receipt of a satisfactory application; the 28 day consultation period will commence</li>
+  <li>when all approvals are received from the consults and the necessary environmental permits are in place a <abbr title="Pipeline Works Authorisation">PWA</abbr> Variation Consent will be issued</li>
+  <li>end to end process takes approx 6 – 8 weeks</li>
+</ul>
+<p>2.Works are more than 500 meters or outside a safety zone</p>
+
+<p>The Operator is to submit an application in providing the information detailed on ‘<abbr title="Pipeline Works Authorisation">PWA</abbr> Application Checklist’ below</p>
+
+<ul>
+<li>on receipt of a satisfactory application; the 28 day consultation period will commence</li>
+  <li>all approvals are to be received from the consults and the necessary environmental permits are to be in place</li>
+  <li>a Public Notice will be published for 28 days</li>
+  <li>when all objections/issues are resolved, or no objections have been received, a <abbr title="Pipeline Works Authorisation">PWA</abbr> Variation Consent will be issued</li>
+  <li>end to end process takes approx 4 – 6 months</li>
+</ul>
+<p>Please contact <a href="mailto:claire.grant@decc.gsi.gov.uk">claire.grant@decc.gsi.gov.uk</a> tel: 01224 254052 in the first instance to discuss what is to be provided.</p>
+
+<h3 id="consent-to-deposit-materials-on-the-seabed-depcon">Consent to deposit materials on the seabed (DEPCON)</h3>
+
+<p>The permanent placing or deposition of material for the support or protection of a pipeline e.g. gravel, rock, mattresses or protective pipeline covers, on the seabed during the construction of a pipeline is governed by the Pipeline Works Authorisation. Schedule 2 of the authorisation prohibits any further deposition except with the prior written consent of the Secretary of State. In instances where, as part of a project requiring a <abbr title="Pipeline Works Authorisation">PWA</abbr>/<abbr title="Pipeline Works Authorisation">PWA</abbr> variation/deposit consent, materials are to be deposited on a temporary basis, please supply a list of the temporary deposits including the following information:</p>
+
+<ul>
+<li>the type of deposit</li>
+  <li>how long it will be on the seabed</li>
+  <li>whether the deposit will be within or outside a 500m safety zone.</li>
+</ul>
+<p>Please note: this is for our information only and applications for temporary deposits should still be directed to our Environmental Management Team for consideration.</p>
+
+<p>For pipelines that do not have a <abbr title="Pipeline Works Authorisation">PWA</abbr>, e.g. pipelines constructed prior to the coming into force of the Petroleum and Submarine Pipelines Act 1975, any deposition would require a licence under the Marine and Coastal Access Act 2009. However, by virtue of the Petroleum Act 1998 (Specified Pipelines) Order 2011, operators have the option of applying for a <abbr title="Pipeline Works Authorisation">PWA</abbr> for those existing pipelines that were consented before the Petroleum and Submarine Act 1975, therefore precluding the requirement for an <abbr title="Marine and Coastal Access Act">MCAA</abbr> license.</p>
+
+<p>It would be worth noting that there may be other circumstances where the operator may choose to apply for an <abbr title="Marine and Coastal Access Act">MCAA</abbr> License for specific activities in advance of seeking approval under the Petroleum Act (<abbr title="Pipeline Works Authorisation">PWA</abbr>) regime. <abbr title="Marine and Coastal Access Act">MCAA</abbr> licensable activities are likely to be primarily related to decommissioning operations, which are not activities exempt under the <abbr title="Marine and Coastal Access Act">MCAA</abbr> regime. Advice should be sought from the consents team or <abbr title="Environmental Management Team">EMT</abbr>.</p>
+
+<p>Applications for consent to deposit material under a <abbr title="Pipeline Works Authorisation">PWA</abbr> should be made to the Consents and Authorisations Section at DECC on Form Depcon1, together with appropriate (simple) drawing(s) showing where, for example, mattresses are to be placed. Both drawings and Depcon1 form, to show the geographic coordinates (degrees, minutes and seconds format using WGS84 datum, i.e. 00° 00’ 00”.00N, 00° 00’ 00”.00E ) of start and end points.</p>
+
+<section class="attachment embedded" id="attachment_27055"><div class="attachment-thumb">
+    <a href="/government/uploads/system/uploads/attachment_data/file/15687/6929-pwa-deposit-checklist.doc" aria-describedby="attachment-27055-accessibility-help" class="thumbnail">
+      <img alt="" src="https://assets.digital.cabinet-office.gov.uk/government/assets/pub-cover-f3684e2880956dff7bb138bfb0c2bebf.png"></a>  </div>
+  <div class="attachment-details">
+    <h3 class="title"><a href="/government/uploads/system/uploads/attachment_data/file/15687/6929-pwa-deposit-checklist.doc" aria-describedby="attachment-27055-accessibility-help">Deposit consent application checklist</a></h3>
+    <p class="metadata">
+      <span class="type">MS Word Document</span>,
+      <span class="file-size">64 KB</span>
+    </p>
+      <div class="accessibility-warning js-toggle-accessibility-warning" id="attachment-27055-accessibility-help">
+        <h3>This file may not be accessible.
+          <span class="toggler">Request a different format.</span>
+        </h3>
+        <p class="help-block">
+          To request this document in an alternative format such as braille, audio
+          or a different file type please email
+          <a href="mailto:govuk-feedback@digital.cabinet-office.gov.uk?body=%0A%0ADetails%20of%20document%20required%3A%0A%0ATitle%3A%20Deposit%20consent%20application%20checklist%0A%20%20%20%20%20%20&amp;subject=Request%20for%20%27Deposit%20consent%20application%20checklist%27%20in%20an%20alternative%20format">govuk-feedback@digital.cabinet-office.gov.uk</a>
+          quoting your address, telephone number along with the title of the
+          publication ("Deposit consent application checklist").
+        </p>
+      </div>
+  </div>
+</section><ul>
+<li>description of the material to be deposited</li>
+  <li>quantity to be deposited</li>
+  <li>in the case of rocks, the maximum size to be deposited</li>
+  <li>location of the proposed site.</li>
+</ul>
+<p>In addition, the following further details are required:</p>
+
+<ul>
+<li>the length, width and height above seabed level that the material will attain when deposited</li>
+  <li>the approximate date on which deposition is proposed to begin and the approximate duration of the operation.</li>
+</ul>
+<p>When consent for a deposition of materials is given, it usually contains terms reserving to the Secretary of State the right to require removal of any materials deposited should they become a potential or actual hazard or obstruction to other seabed users. Removal may also be required at the end of the useful life of the pipeline.</p>
+
+<p>The pipeline owner should consult relevant fishing organisations and other seabed users before any operation to deposit materials is begun, and keep appropriate government departments advised of agreements reached (this is usually covered in discussion with the fishermen about the pipeline project as a whole).</p>
+
+<p>Please note that if any preparatory work, e.g. pipeline crossings, are to be put in place prior to the construction of the pipeline, the <abbr title="Pipeline Works Authorisation">PWA</abbr> should be requested early enough to undertake this work, otherwise an <abbr title="Marine and Coastal Access Act">MCAA</abbr> licence may be required. As stated above, it is only activities “for the purpose of constructing or maintaining a pipeline as respects any part of which an authorisation is in force” which are exempt from the provisions of the <abbr title="Marine and Coastal Access Act">MCAA</abbr> Licence.</p>
+
+<h3 id="useful-addresses">Useful addresses</h3>
+
+<ul>
+<li><a rel="external" href="http://og.decc.gov.uk/en/olgs/cms/explorationpro/infra_guidance/pipelines/gd_pwa/useful_address/useful_address.aspx">useful addresses</a></li>
+</ul>
+</div>
+  </div>
+</article>
+</div>
+  </div>
+  <div class="block-4">
+    <div class="inner-block">
+      <div class="js-back-to-content back-to-content visuallyhidden">
+        <a href="#page-navigation">Back to contents</a>
+      </div>
+      <aside id="more-like-this" class="aside-more-like-this"><h1>More like this</h1>
+          <section id="guide-categories" class="categories"><div class="inner">
+              <h2>All detailed guidance about</h2>
+              <ul>
+<li class="mainstream_category" id="mainstream_category_30">
+                    <a href="/browse/business/licences/chemical-licensing">Chemical licensing</a>
+</li>              </ul>
+</div>
+          </section></aside>
+</div>
+  </div>
+ </div>
+
+        </div>
+      </div>
+    </div>
+
+    <footer class="group" id="footer" role="contentinfo"><div class="footer-wrapper">
+        <nav class="footer-categories"><div class="footer-explore">
+            <h2>Explore GOV.UK</h2>
+
+            <ul>
+<li><a href="/browse/driving">Driving, transport and travel</a></li>
+              <li><a href="/browse/benefits">Benefits</a></li>
+              <li><a href="/browse/business">Businesses and self-employed</a></li>
+              <li><a href="/browse/employing-people">Employing people</a></li>
+              <li><a href="/browse/education">Education and learning</a></li>
+              <li><a href="/browse/working">Working, jobs and pensions</a></li>
+              <li><a href="/browse/housing">Housing and local services</a></li>
+              <li><a href="/browse/justice">Crime, justice and the law</a></li>
+              <li><a href="/browse/tax">Money and tax</a></li>
+              <li><a href="/browse/births-deaths-marriages">Births, deaths, marriages and care</a></li>
+              <li><a href="/browse/disabilities">Disabled people</a></li>
+              <li><a href="/browse/citizenship">Citizenship and life in the UK</a></li>
+            </ul>
+</div>
+
+          <div class="footer-inside-government">
+            <h2><a href="/government">Inside Government</a></h2>
+
+            <ul>
+<li><a href="/government/how-government-works">How government works</a></li>
+              <li><a href="/government/organisations">Departments</a></li>
+              <li><a href="/government/topics">Topics</a></li>
+              <li><a href="/government/policies">Policies</a></li>
+              <li><a href="/government/publications">Publications</a></li>
+              <li><a href="/government/announcements">Announcements</a></li>
+            </ul>
+</div>
+
+        </nav><div class="footer-meta">
+          <nav><ul>
+<li><a href="/support">Support</a></li>
+              <li><a href="/support/cookies">Cookies</a></li>
+              <li><a href="/feedback">Feedback</a></li>
+              <li><a href="/cymraeg">Cymraeg</a></li>
+              <li>Built by the <a href="http://digital.cabinetoffice.gov.uk/">Government Digital Service</a>
+</li>
+            </ul>
+<p>All content is available under the <a href="http://www.nationalarchives.gov.uk/doc/open-government-licence/">Open Government Licence</a>, except where otherwise stated</p>
+          </nav><div class="copyright">
+            <a href="http://www.nationalarchives.gov.uk/information-management/our-services/crown-copyright.htm">© Crown Copyright</a>
+          </div>
+        </div>
+      </div>
+    </footer><!--end footer--><div id="global-app-error" class="app-error hidden"></div>
+
+  </body>
+</html>
