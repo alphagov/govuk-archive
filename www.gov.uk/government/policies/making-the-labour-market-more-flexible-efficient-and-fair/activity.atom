@@ -8,7 +8,17 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-12-18T11:47:05+00:00</updated>
+  <updated>2012-12-31T12:13:13+00:00</updated>
+  <entry>
+    <id>tag:www.gov.uk,2005:Consultation/60926</id>
+    <published>2012-12-31T12:13:13+00:00</published>
+    <updated>2012-12-31T12:13:13+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/consultations/employee-ownership-and-share-buy-backs-consultation-on-implementation-of-nuttall-review-recommendations"/>
+    <title>Employee Ownership and Share Buy Backs - Consultation on implementation of Nuttall Review recommendations</title>
+    <category>Consultation</category>
+    <summary>The Nuttall Review on Employee Ownership recommended (Recommendation V) that the Government should review and consult on changes to deregulate the conditions under which companies can: authorise share buy backs; finance share buy backs; and hold shares ‘in treasury’.</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;hr&gt;&lt;p&gt;This consultation seeks views on deregulatory changes to the conditions under which companies can authorise and finance the repurchase of its own shares, and hold these shares once repurchased. The regulation of share buy backs is governed by the Companies Act 2006. Changes to these regulations, such as those proposed in this consultation would require changes via secondary legislation. The draft regulations attached below indicate how the government would implement these changes. Through this consultation we would also like to understand the implications for companies, employees, and other shareholders. In particular we wish to ensure there are no unintended consequences.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
   <entry>
     <id>tag:www.gov.uk,2005:NewsArticle/57049</id>
     <published>2012-12-18T11:47:05+00:00</published>
@@ -115,14 +125,16 @@ Work is underway across government to achieve these ambitions, including progres
 &lt;p&gt;Please note, this is general guidance; it should not be taken as a complete or authoritative statement of the law.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:Publication/56419</id>
+    <id>tag:www.gov.uk,2005:Publication/60146</id>
     <published>2012-11-14T00:00:00+00:00</published>
     <updated>2012-12-11T16:30:59+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/regional-growth-fund-confirmatory-due-diligence"/>
     <title>Regional Growth Fund confirmatory due diligence</title>
     <category>Publication</category>
-    <summary/>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Advice for regional growth fund (RGF) round 3 that explains who is eligible to be a due diligence provider to prepare a confirmatory due diligence report for RGF bids. This is required to confirm that their project or programme represents value for money and that it will deliver the benefits set out in their application. The scope of the due diligence report must be agreed by BIS and the bidder, and the Department must approve an applicant’s choice of due diligence provider. This guide also explains how due diligence providers can be engaged as an approved organisation and outlines the scope of the due diligence required.&lt;/p&gt;&lt;/div&gt;</content>
+    <summary>Advice for regional growth fund (RGF) round 3 that explains who is eligible to be a due diligence provider to prepare a confirmatory due diligence report for RGF bids.</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Advice for regional growth fund (RGF) round 3 that explains who is eligible to be a due diligence provider to prepare a confirmatory due diligence report for RGF bids. This is required to confirm that their project or programme represents value for money and that it will deliver the benefits set out in their application. &lt;/p&gt;
+
+&lt;p&gt;The scope of the due diligence report must be agreed by BIS and the bidder, and the Department must approve an applicant’s choice of due diligence provider. This guide also explains how due diligence providers can be engaged as an approved organisation and outlines the scope of the due diligence required.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:Publication/56331</id>
@@ -203,15 +215,5 @@ Work is underway across government to achieve these ambitions, including progres
   &lt;li&gt;&lt;a rel="external" href="http://www.bis.gov.uk/policies/employment-matters/rights"&gt;Employment rights at BIS&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href="https://www.gov.uk/browse/employing-people"&gt;GOV.UK - guidance on employing people&lt;br&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:Publication/56375</id>
-    <published>2012-11-13T00:00:00+00:00</published>
-    <updated>2012-12-11T16:30:57+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/modern-workplaces-consultation-government-response-equality-impact-assessment-eqia-on-flexible-parental-leave-and-flexible-working"/>
-    <title>Modern workplaces consultation: government response. Equality impact assessment (EQIA) on flexible parental leave and flexible working</title>
-    <category>Publication</category>
-    <summary/>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Assesses the equality impacts of proposals to make employment practices in the UK more flexible and family-friendly. See URN 11/699 for the closed consultation and 12/1267-12/1270 for related government response documents and impact assessments. Underlying data for this publication is available in a machine processable format on the Transparency/Report Data webpage.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
 </feed>
