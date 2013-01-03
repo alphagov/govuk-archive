@@ -8,26 +8,36 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-12-21T16:02:34+00:00</updated>
+  <updated>2013-01-02T12:45:22+00:00</updated>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60320</id>
-    <published>2012-12-21T00:00:00+00:00</published>
-    <updated>2012-12-21T16:02:34+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/dartmoor-environment-and-socio-economic-surveys"/>
-    <title>Dartmoor: environment and socio-economic surveys</title>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60995</id>
+    <published>2013-01-02T00:00:00+00:00</published>
+    <updated>2013-01-02T12:45:22+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/gurkha-pension-and-redundancy-calculators"/>
+    <title>Gurkha pension and redundancy calculators</title>
     <category>Publication</category>
-    <summary>This is the written agreement between the MOD and National Park Authorities.</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Summaries of a number of Dartmoor surveys. &lt;/p&gt;&lt;/div&gt;</content>
+    <summary>Find out what benefits you are entitled to under the Gurkha pension and redundancy schemes.</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="gurkha-pension-calculator-gpc"&gt;Gurkha pension calculator (&lt;abbr title="Gurkha pension calculator"&gt;GPC&lt;/abbr&gt;)&lt;/h2&gt;
+
+&lt;p&gt;The Gurkha pension calculator below gives a forecast of benefits for members of Armed Forces Pension Scheme (&lt;abbr title="Armed Forces Pension Scheme"&gt;AFPS&lt;/abbr&gt;) 75 or &lt;abbr title="Armed Forces Pension Scheme"&gt;AFPS&lt;/abbr&gt; 05 who transferred as part of the serving Gurkha Offer To Transfer (&lt;abbr title="Gurkha Offer To Transfer"&gt;GOTT&lt;/abbr&gt;). All officers, and those soldiers who joined as part of the 1993 intake and earlier, were given a service credit. This calculator will adjust the pensionable service to take into account any service credit received.&lt;/p&gt;
+
+&lt;h2 id="gurkha-redundancy-calculator"&gt;Gurkha redundancy calculator&lt;/h2&gt;
+
+&lt;p&gt;This is to be used in conjunction with DSPS(A)’s letter (reference DSPS(A) 4.5.23 dated 15 April 2011). &lt;/p&gt;
+
+&lt;p&gt;Gurkha soldiers and Late Entry officers selected for redundancy are entitled to receive a lump sum in compensation for shortening their career as well as other terminal and retirement benefits. &lt;/p&gt;
+
+&lt;p&gt;However, the entitlement of Gurkha Late Entry officers, who joined the Army before 1 July 1997, and Gurkhas soldiers, who joined the Army before 1 October 1993, to redundancy compensation is affected by the terms and conditions of the &lt;abbr title="Gurkha Offer To Transfer"&gt;GOTT&lt;/abbr&gt;, which means that the Armed Forces Redundancy Calculator (&lt;abbr title="Armed Forces Redundancy Calculator"&gt;AFRC&lt;/abbr&gt;) will not produce an accurate forecast. In these cases, Gurkhas must use the Gurkha pension calculator (&lt;abbr title="Gurkha pension calculator"&gt;GPC&lt;/abbr&gt;) to produce a forecast of the parts of their redundancy package which the &lt;abbr title="Armed Forces Redundancy Calculator"&gt;AFRC&lt;/abbr&gt; cannot calculate correctly and then, in some cases, apply a manual workaround.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60821</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60804</id>
     <published>2012-12-21T00:00:00+00:00</published>
-    <updated>2012-12-21T16:51:47+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/campaign-planning"/>
-    <title>Campaign Planning</title>
+    <updated>2012-12-21T16:51:18+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/disaster-relief-operations"/>
+    <title>Disaster Relief Operations</title>
     <category>Publication</category>
-    <summary>Campaign Planning, Joint Doctrine Publication 5-00.</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Campaign Planning, Joint Doctrine Publication 5-00&lt;/p&gt;&lt;/div&gt;</content>
+    <summary>Disaster Relief Operations, Joint Doctrine Publication 3-52</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Disaster Relief Operations, Joint Doctrine Publication 3-52 (2nd edition)&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/60820</id>
@@ -100,14 +110,14 @@
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;DTE South West Public Information Leafletf&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60804</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60821</id>
     <published>2012-12-21T00:00:00+00:00</published>
-    <updated>2012-12-21T16:51:18+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/disaster-relief-operations"/>
-    <title>Disaster Relief Operations</title>
+    <updated>2012-12-21T16:51:47+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/campaign-planning"/>
+    <title>Campaign Planning</title>
     <category>Publication</category>
-    <summary>Disaster Relief Operations, Joint Doctrine Publication 3-52</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Disaster Relief Operations, Joint Doctrine Publication 3-52 (2nd edition)&lt;/p&gt;&lt;/div&gt;</content>
+    <summary>Campaign Planning, Joint Doctrine Publication 5-00.</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Campaign Planning, Joint Doctrine Publication 5-00&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/60803</id>
@@ -170,16 +180,6 @@
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The evolution of British COIN, a paper on counter insurgency published by JDP.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60791</id>
-    <published>2012-12-21T00:00:00+00:00</published>
-    <updated>2012-12-21T16:47:55+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/stabilisation-and-the-stabilisation-unit"/>
-    <title>Stabilisation and the stabilisation unit</title>
-    <category>Publication</category>
-    <summary>Stabilisation and the stabilisation unit, additional information.</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Stabilisation and the stabilisation unit, published by JDP.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/60786</id>
     <published>2012-12-21T00:00:00+00:00</published>
     <updated>2012-12-21T16:47:42+00:00</updated>
@@ -190,23 +190,33 @@
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Security and stabilisation: the military contribution, a guide to Joint Doctrine Publication 3-40.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60764</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60783</id>
     <published>2012-12-21T00:00:00+00:00</published>
-    <updated>2012-12-21T15:38:04+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/dartmoor-training-area-the-need-for-military-training-on-defence-training-estate-south-west-2007"/>
-    <title>Dartmoor Training Area:  The need for military training on Defence Training Estate South West, 2007</title>
+    <updated>2012-12-21T16:47:34+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/security-and-stabilisation-the-military-contribution--2"/>
+    <title>Security and stabilisation: the military contribution</title>
     <category>Publication</category>
-    <summary>The need for military training on Defence Training Estate South West, 2007</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The need for military training on Defence Training Estate South West, 2007&lt;/p&gt;&lt;/div&gt;</content>
+    <summary>Security and stabilisation: the military contribution.</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Security and stabilisation: the military contribution, Joint Doctrine Publicaiton 3-40&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60763</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60996</id>
     <published>2012-12-21T00:00:00+00:00</published>
-    <updated>2012-12-21T16:46:55+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/a-guide-to-red-teaming"/>
-    <title>A guide to Red Teaming</title>
+    <updated>2012-12-21T16:47:55+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/stabilisation-and-the-stabilisation-unit"/>
+    <title>Stabilisation and the stabilisation unit</title>
     <category>Publication</category>
-    <summary>A DCDC guidance note.</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;A guide to Red Teaming.&lt;/p&gt;&lt;/div&gt;</content>
+    <summary>Additional information provided by the stabilisation unit.</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Stabilisation and the stabilisation unit, a Joint Doctrine Publication (&lt;abbr title="Joint Doctrine Publication"&gt;JDP&lt;/abbr&gt;).&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60320</id>
+    <published>2012-12-21T00:00:00+00:00</published>
+    <updated>2012-12-21T16:02:34+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/dartmoor-environment-and-socio-economic-surveys"/>
+    <title>Dartmoor: environment and socio-economic surveys</title>
+    <category>Publication</category>
+    <summary>This is the written agreement between the MOD and National Park Authorities.</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Summaries of a number of Dartmoor surveys. &lt;/p&gt;&lt;/div&gt;</content>
   </entry>
 </feed>
