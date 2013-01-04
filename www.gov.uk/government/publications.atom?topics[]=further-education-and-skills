@@ -8,7 +8,28 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-12-21T09:30:00+00:00</updated>
+  <updated>2013-01-03T12:31:41+00:00</updated>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60892</id>
+    <published>2012-12-28T00:00:00+00:00</published>
+    <updated>2013-01-03T12:31:41+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/24-advanced-learning-loans-regulatory-impact-assessment-underlying-data"/>
+    <title>24+ Advanced Learning Loans: regulatory impact assessment - underlying data </title>
+    <category>Publication</category>
+    <summary>More information about 24+ Advanced Learning Loans. Includes underlying data.</summary>
+    <content type="html">&lt;div class="govspeak"&gt;
+&lt;p&gt;More information about 24+ Advanced Learning Loans. Includes regulatory impact assessment and underlying data &lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60893</id>
+    <published>2012-12-28T00:00:00+00:00</published>
+    <updated>2013-01-03T12:31:14+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/24-advanced-learning-loans-equality-impact-assessment-underlying-data"/>
+    <title>24+ Advanced Learning Loans – equality impact assessment – underlying data</title>
+    <category>Publication</category>
+    <summary>Contains information about 24+ Advanced Learning Loans, including underlying data.</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;More information about 24+ Advanced Learning Loans. Includes information on equality impact assessment and underlying data&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/60195</id>
     <published>2012-12-21T00:00:00+00:00</published>
@@ -50,6 +71,16 @@
     <category>Publication</category>
     <summary>Report commissioned by BIS evaluate the impact of capital spending on key policy goals.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;BIS research paper no.99. Report commissioned by BIS evaluate the impact of capital spending on key policy goals. Combines quantitative and qualitative research and builds on a previous study undertaken in 2008. Focuses on completed capital spending projects by FE colleges within England (total per college) between April 2001 and September 2011. Underlying data for tables and figure in this publication is available in a machine processable format: &lt;a rel="external" href="http://data.gov.uk/dataset/impact-of-capital-expenditure-in-further-education-colleges-evaluation"&gt;underlying data on the impact of capital expenditure in FE colleges&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60145</id>
+    <published>2012-11-27T00:00:00+00:00</published>
+    <updated>2012-12-11T16:31:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/report-on-the-consultation-on-extending-access-to-careers-guidance-summary-of-responses"/>
+    <title>Report on the consultation on extending access to careers guidance: summary of responses</title>
+    <category>Publication</category>
+    <summary/>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Summarises responses to the Department for Education consultation on extending access to careers guidance, carried out in 2012. Also explains the government’s response, and its commitment to extend access to independent and impartial careers guidance to year 8 pupils and to 16 to18 year olds in schools and colleges.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/56952</id>
@@ -96,16 +127,6 @@
 &lt;p&gt;It also recommends ensuring that all apprentices reach a good level in English and maths before they can complete their apprenticeship, creating the right incentives for apprenticeship training through government funding, and encouraging greater diversity and innovation in training. Follows the call for evidence URN 12/914.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60145</id>
-    <published>2012-11-27T00:00:00+00:00</published>
-    <updated>2012-12-11T16:31:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/report-on-the-consultation-on-extending-access-to-careers-guidance-summary-of-responses"/>
-    <title>Report on the consultation on extending access to careers guidance: summary of responses</title>
-    <category>Publication</category>
-    <summary/>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Summarises responses to the Department for Education consultation on extending access to careers guidance, carried out in 2012. Also explains the government’s response, and its commitment to extend access to independent and impartial careers guidance to year 8 pupils and to 16 to18 year olds in schools and colleges.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/48201</id>
     <published>2012-11-20T00:00:00+00:00</published>
     <updated>2012-12-11T16:30:57+00:00</updated>
@@ -124,6 +145,16 @@
     <category>Publication</category>
     <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Respond by 5:00pm on 16 January 2013. Consultation that seeks views on a proposed chartered status scheme for further education (FE) colleges and training providers. The scheme aims to help FE institutions celebrate their success, build their reputation and status, and gain recognition for what they have achieved within their communities.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/48203</id>
+    <published>2012-11-20T00:00:00+00:00</published>
+    <updated>2012-12-11T16:30:57+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/chartered-status-for-the-further-education-sector-proposals-to-create-a-chartered-status-scheme-for-further-education-institutions-consultation-response-form"/>
+    <title>Chartered status for the further education sector: proposals to create a chartered status scheme for further education institutions. [Consultation] response form</title>
+    <category>Publication</category>
+    <summary/>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Responses by 5:00pm on 16 January 2012. Template for responses to the consulation on creating a chartered status scheme for further education institutions (URN 12/1275).&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/47197</id>
@@ -150,16 +181,6 @@
 &lt;/ul&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/48203</id>
-    <published>2012-11-20T00:00:00+00:00</published>
-    <updated>2012-12-11T16:30:57+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/chartered-status-for-the-further-education-sector-proposals-to-create-a-chartered-status-scheme-for-further-education-institutions-consultation-response-form"/>
-    <title>Chartered status for the further education sector: proposals to create a chartered status scheme for further education institutions. [Consultation] response form</title>
-    <category>Publication</category>
-    <summary/>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Responses by 5:00pm on 16 January 2012. Template for responses to the consulation on creating a chartered status scheme for further education institutions (URN 12/1275).&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/56379</id>
     <published>2012-11-14T00:00:00+00:00</published>
     <updated>2012-12-11T16:30:58+00:00</updated>
@@ -168,16 +189,6 @@
     <category>Publication</category>
     <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;BIS research report no. 97. Report of a study to evaluate outcomes associated with the Next Step careers and skills advice service. Explored the potential for exploiting the new Next Step customer data to analyse employment and learning outcomes for Next Step customers using a matched dataset. Underlying data for tables and figures in this publication is available in a machine processable format on the Transparency/Report Data webpage.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/48177</id>
-    <published>2012-11-12T00:00:00+00:00</published>
-    <updated>2012-12-11T16:30:52+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/learning-and-wellbeing-outcomes-among-older-adults-in-england"/>
-    <title>Learning and wellbeing outcomes among older adults in England</title>
-    <category>Publication</category>
-    <summary/>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;BIS research paper no. 92. Report setting out findings from quantitative analysis of the relationship between participation in learning and wellbeing outcomes among older adults in England. Used data from the English Longitudinal Study of Ageing (ELSA) a&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/48178</id>
@@ -208,16 +219,6 @@
     <category>Publication</category>
     <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;BIS research paper no. 91. Report on a study that used British Cohort Study 1970 (BCS70) data, on adult basic skills (at age 34) and health outcomes (at ages 34 and 38) to estimate the association of adult basic skills to changes in health. Information on highest educational qualifications in adulthood was used to explore the relationship between adult basic skills and changes in health. Also included important childhood factors to look at how these factors related to the formation of basic skills in adulthood and adult health.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/55983</id>
-    <published>2012-11-12T00:00:00+00:00</published>
-    <updated>2012-12-11T16:30:36+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/valuing-adult-learning-comparing-wellbeing-valuation-and-contingent-valuation"/>
-    <title>Valuing adult learning: comparing wellbeing valuation and contingent valuation</title>
-    <category>Publication</category>
-    <summary/>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;BIS research paper no.85. Report that uses data from the British Household Panel Survey to assess how the benefits of adult learning for society and for those who receive it. Economists think about individual benefits in terms of changes in utility and money, to compare the costs of adult learning with its benefits. Explores both experienced utility, where adult learning makes people think and feel better about life, and decision utility, adult learning is something people desire, and compares the results generated by each.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/56272</id>
