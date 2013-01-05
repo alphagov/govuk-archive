@@ -135,13 +135,25 @@ Public enquiries: 0300 330 3000&lt;/p&gt;&lt;/div&gt;</content>
 &lt;/ul&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
+    <id>tag:www.gov.uk,2005:Publication/61037</id>
+    <published>2013-01-02T00:00:00+00:00</published>
+    <updated>2013-01-02T08:52:41+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/reducing-sign-clutter"/>
+    <title>TAL 1/13: Reducing sign clutter</title>
+    <category>Publication</category>
+    <summary>Advice on the removal of unnecessary traffic signs to highway authorities in Great Britain.</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="traffic-advisory-leaflet-tal-113"&gt;Traffic advisory leaflet (&lt;abbr title="Traffic advisory leaflet"&gt;TAL&lt;/abbr&gt;) 1/13&lt;/h2&gt;
+
+&lt;p&gt;Over-provision of traffic signs can have a detrimental impact on the environment and can dilute more important messages if resulting in information overload for drivers. This leaflet, gives practical advice on reducing sign clutter. It emphasises that designers should use their engineering judgement and local knowledge to complement guidance to ensure signing solutions are effective. &lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
     <id>tag:www.gov.uk,2005:Publication/61023</id>
     <published>2013-01-02T00:00:00+00:00</published>
     <updated>2012-11-26T14:08:23+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/proportion-of-trains-running-on-time"/>
     <title>Proportion of trains running on time</title>
     <category>Publication</category>
-    <summary/>
+    <summary></summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="dft-business-plan-input-indicator"&gt;DfT Business Plan input indicator&lt;/h2&gt;
 
 &lt;h3 id="geographical-coverage-dft-franchised-train-operators-great-britain"&gt;Geographical coverage: DfT franchised train operators (Great Britain)&lt;/h3&gt;
@@ -320,18 +332,6 @@ Period 9 2012/13 ran from 11 November 2012 to 8 December 2012. &lt;/p&gt;
   &lt;li&gt;Analyst contact: &lt;a href="mailto:rail.stats@dft.gsi.gov.uk"&gt;rail.stats@dft.gsi.gov.uk&lt;/a&gt;
 &lt;/li&gt;
 &lt;/ul&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:Publication/61037</id>
-    <published>2013-01-02T00:00:00+00:00</published>
-    <updated>2013-01-02T08:52:41+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/reducing-sign-clutter"/>
-    <title>TAL 1/13: Reducing sign clutter</title>
-    <category>Publication</category>
-    <summary>Advice on the removal of unnecessary traffic signs to highway authorities in Great Britain.</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="traffic-advisory-leaflet-tal-113"&gt;Traffic advisory leaflet (&lt;abbr title="Traffic advisory leaflet"&gt;TAL&lt;/abbr&gt;) 1/13&lt;/h2&gt;
-
-&lt;p&gt;Over-provision of traffic signs can have a detrimental impact on the environment and can dilute more important messages if resulting in information overload for drivers. This leaflet, gives practical advice on reducing sign clutter. It emphasises that designers should use their engineering judgement and local knowledge to complement guidance to ensure signing solutions are effective. &lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:NewsArticle/60873</id>
@@ -592,117 +592,170 @@ Out of hours: 020 7944 4292&lt;br&gt;
 Public enquiries: 0300 330 3000 &lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:Publication/60317</id>
+    <id>tag:www.gov.uk,2005:Publication/60319</id>
     <published>2012-12-21T00:00:00+00:00</published>
-    <updated>2012-11-10T14:37:57+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/rail-passenger-miles"/>
-    <title>Rail passenger miles</title>
+    <updated>2012-11-02T14:46:52+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/cost-of-running-the-rail-network"/>
+    <title>Cost of running the rail network</title>
     <category>Publication</category>
-    <summary>Latest quarterly data on rail passenger miles.</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="dft-business-plan-other-key-data"&gt;DfT Business plan other key data&lt;/h2&gt;
+    <summary>The costs of running the passenger rail network by DfT franchised train operating companies.</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="dft-business-plan-input-indicator"&gt;DfT Business Plan input indicator&lt;/h2&gt;
 
-&lt;p&gt;Geographical coverage: Great Britain&lt;/p&gt;
+&lt;h3 id="geographical-coverage-dft-franchised-train-operators-great-britain"&gt;Geographical coverage: DfT franchised train operators (Great Britain)&lt;/h3&gt;
 
-&lt;p&gt;Information broken down by: Rail sector&lt;/p&gt;
+&lt;h3 id="information-broken-down-by-dft-franchised-train-operator"&gt;Information broken down by: DfT franchised train operator&lt;/h3&gt;
 
 &lt;h2 id="latest-data"&gt;Latest data&lt;/h2&gt;
 
+&lt;p&gt;The total cost of operating the rail network for train operators franchised by the Department for Transport (DfT) in 2010/11 was £9.3 billion. This consisted of £6.3 billion of train operator operating costs, and £3.0 billion of Network Grant paid to Network Rail.&lt;/p&gt;
+
+&lt;p&gt;The costs of running the passenger rail network by DfT franchised train operating companies are shown below.&lt;/p&gt;
+
+&lt;p&gt;&lt;a rel="external" href="http://charts.dft.gov.uk/dft-business-plan/indicators/#09"&gt;Click here to view this data in an interactive chart&lt;/a&gt;&lt;/p&gt;
+
+&lt;table&gt;&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Cost by franchise&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Operator&lt;/td&gt;
+      &lt;td&gt;Total Operating Cost (£m)&lt;/td&gt;
+      &lt;td&gt;Allocated Network Grant (£m)&lt;/td&gt;
+      &lt;td&gt;Total (£m)&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;c2c&lt;/td&gt;
+      &lt;td&gt;98.1&lt;/td&gt;
+      &lt;td&gt;42.2&lt;/td&gt;
+      &lt;td&gt;140.3&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Chiltern Railways&lt;/td&gt;
+      &lt;td&gt;125.3&lt;/td&gt;
+      &lt;td&gt;75.0&lt;/td&gt;
+      &lt;td&gt;200.3&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;CrossCountry&lt;/td&gt;
+      &lt;td&gt;407.4&lt;/td&gt;
+      &lt;td&gt;291.2&lt;/td&gt;
+      &lt;td&gt;698.6&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;East Coast&lt;/td&gt;
+      &lt;td&gt;454.0&lt;/td&gt;
+      &lt;td&gt;191.3&lt;/td&gt;
+      &lt;td&gt;645.3&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;East Midlands Trains&lt;/td&gt;
+      &lt;td&gt;292.6&lt;/td&gt;
+      &lt;td&gt;183.9&lt;/td&gt;
+      &lt;td&gt;476.5&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;First Capital Connect&lt;/td&gt;
+      &lt;td&gt;334.6&lt;/td&gt;
+      &lt;td&gt;117.9&lt;/td&gt;
+      &lt;td&gt;452.5&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;First Great Western&lt;/td&gt;
+      &lt;td&gt;629.2&lt;/td&gt;
+      &lt;td&gt;317.0&lt;/td&gt;
+      &lt;td&gt;946.2&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;First TransPennine Express&lt;/td&gt;
+      &lt;td&gt;220.1&lt;/td&gt;
+      &lt;td&gt;116.8&lt;/td&gt;
+      &lt;td&gt;336.9&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;London Midland&lt;/td&gt;
+      &lt;td&gt;322.6&lt;/td&gt;
+      &lt;td&gt;137.2&lt;/td&gt;
+      &lt;td&gt;459.8&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;National Express East Anglia&lt;/td&gt;
+      &lt;td&gt;420.3&lt;/td&gt;
+      &lt;td&gt;211.4&lt;/td&gt;
+      &lt;td&gt;631.7&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Northern Rail&lt;/td&gt;
+      &lt;td&gt;522.9&lt;/td&gt;
+      &lt;td&gt;359.7&lt;/td&gt;
+      &lt;td&gt;882.6&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Southeastern&lt;/td&gt;
+      &lt;td&gt;694.3&lt;/td&gt;
+      &lt;td&gt;244.6&lt;/td&gt;
+      &lt;td&gt;938.9&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Southern&lt;/td&gt;
+      &lt;td&gt;549.4&lt;/td&gt;
+      &lt;td&gt;191.1&lt;/td&gt;
+      &lt;td&gt;740.5&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;South West Trains&lt;/td&gt;
+      &lt;td&gt;559.0&lt;/td&gt;
+      &lt;td&gt;259.6&lt;/td&gt;
+      &lt;td&gt;818.6&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Virgin Trains&lt;/td&gt;
+      &lt;td&gt;639.8&lt;/td&gt;
+      &lt;td&gt;297.2&lt;/td&gt;
+      &lt;td&gt;937.0&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Total DfT franchised operators&lt;/td&gt;
+      &lt;td&gt;6,269.4&lt;/td&gt;
+      &lt;td&gt;3,036.1&lt;/td&gt;
+      &lt;td&gt;9,305.5&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;Source: Train operating companies, DfT&lt;/p&gt;
+
+&lt;p&gt;The operating costs relate to the financial year 2010/11.  &lt;/p&gt;
+
+&lt;h2 id="notes"&gt;Notes&lt;/h2&gt;
+
+&lt;h3 id="change-in-methodology-in-sourcing-cost-of-running-the-rail-network-figures"&gt;Change in Methodology in sourcing Cost of Running the Rail Network figures&lt;/h3&gt;
+
+&lt;p&gt;The publication last year used data from operators’ statutory accounts.  This year the data are based on management accounts; this ensures that the time period to which the data applies is consistent across operators, and allows comparisons to be made over time.&lt;/p&gt;
+
+&lt;h3 id="operating-costs"&gt;Operating costs&lt;/h3&gt;
+
+&lt;p&gt;(a) These data are based on the ORR study “Costs and Revenues of Franchised Passenger Train Operators in the UK”, which in turn sourced data from the operators’ management accounts.  &lt;/p&gt;
+
+&lt;p&gt;Any figures relating to premia or associated payments to the Department for Transport or Passenger Transport Executives are excluded. Within this total are payments made by operators to Network Rail for access to the rail network which contribute towards infrastructure costs.&lt;/p&gt;
+
+&lt;p&gt;(b) Operators may not treat all aspects of operating costs in the same way in their accounts, and so care should be taken when using these figures.&lt;/p&gt;
+
+&lt;h3 id="network-grant"&gt;Network Grant&lt;/h3&gt;
+
+&lt;p&gt;(c) This is calculated by taking the total Network Grant paid to Network Rail by DfT in 2010-11, and allocating it to each franchise based on their share of Fixed Track Access Charges. &lt;/p&gt;
+
+&lt;p&gt;The ‘Allocated Network Grant’ column, allocates, to each operator, the grant paid by the Department for Transport to Network Rail in 2010-11. The grant effectively pays the infrastructure costs incurred by Network Rail that are not covered by operators. In the table above, each operator is allocated a share of the grant in proportion to their Fixed Track Access Charge.&lt;/p&gt;
+
+&lt;h2 id="other-related-data-and-information"&gt;Other related data and information&lt;/h2&gt;
+
+&lt;p&gt;Train operating companies’ costs are taken from ORR publication &lt;a rel="external" href="http://www.rail-reg.gov.uk/upload/pdf/toc-benchmarking-report-2012.pdf"&gt;Costs and Revenues of Franchised Passenger Train Operators in the UK&lt;/a&gt;
+Further information about this indicator can be found in the measurement template.&lt;/p&gt;
+
 &lt;ul&gt;
-&lt;li&gt;
-    &lt;p&gt;Passengers travelled 9.2 billion miles by rail in the second quarter of 2012-13 (July to September 2012), an increase of 4 per cent when compared to the same quarter in 2011-12.  The second quarter of 2012-13 included the Olympic and Paralympic Games, which will have contributed to this increase in rail travel.  These figures are for franchised operators only, so exclude travel with non-franchised operators, such as Grand Central, Heathrow Express and Hull Trains.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Over the last ten years, other than a slight dip in 2009 during the recession, passenger rail usage has increased significantly, continuing the upward trend that has been seen since the mid-1990s.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;&lt;p&gt;Passenger miles travelled with franchised rail operators&lt;/p&gt;
-
-&lt;table&gt;
-&lt;thead&gt;&lt;tr&gt;
-&lt;th&gt;Quarter&lt;/th&gt;
-      &lt;th&gt;Quarterly total (billions)&lt;/th&gt;
-      &lt;th&gt;Quarterly moving annual average (&lt;abbr title="Moving Annual Average"&gt;MAA&lt;/abbr&gt;) (billions)&lt;/th&gt;
-    &lt;/tr&gt;&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;2010/11 Q1&lt;/td&gt;
-      &lt;td&gt;8.2&lt;/td&gt;
-      &lt;td&gt;8.1&lt;/td&gt;
-    &lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;2010/11 Q2&lt;/td&gt;
-      &lt;td&gt;8.5&lt;/td&gt;
-      &lt;td&gt;8.2&lt;/td&gt;
-    &lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;2010/11 Q3&lt;/td&gt;
-      &lt;td&gt;8.4&lt;/td&gt;
-      &lt;td&gt;8.3&lt;/td&gt;
-    &lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;2010/11 Q4&lt;/td&gt;
-      &lt;td&gt;8.5&lt;/td&gt;
-      &lt;td&gt;8.4&lt;/td&gt;
-    &lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;2011/12 Q1&lt;/td&gt;
-      &lt;td&gt;8.6&lt;/td&gt;
-      &lt;td&gt;8.5&lt;/td&gt;
-    &lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;2011/12 Q2&lt;/td&gt;
-      &lt;td&gt;8.8&lt;/td&gt;
-      &lt;td&gt;8.6&lt;/td&gt;
-    &lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;2011/12 Q3&lt;/td&gt;
-      &lt;td&gt;8.9&lt;/td&gt;
-      &lt;td&gt;8.7&lt;/td&gt;
-    &lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;2011/12 Q4&lt;/td&gt;
-      &lt;td&gt;9.1&lt;/td&gt;
-      &lt;td&gt;8.8&lt;/td&gt;
-    &lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;2012/13 Q1&lt;sup&gt;P&lt;/sup&gt;
-&lt;/td&gt;
-      &lt;td&gt;8.9&lt;/td&gt;
-      &lt;td&gt;8.9&lt;/td&gt;
-    &lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;2012/13 Q2&lt;sup&gt;P&lt;/sup&gt;
-&lt;/td&gt;
-      &lt;td&gt;9.2&lt;/td&gt;
-      &lt;td&gt;9.0&lt;/td&gt;
-    &lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;&lt;p&gt;&lt;sup&gt;P&lt;/sup&gt; Figures are provisional&lt;/p&gt;
-
-&lt;p&gt;Source: Office of Rail Regulation (&lt;abbr title="Office of Rail Regulation"&gt;ORR&lt;/abbr&gt;)&lt;/p&gt;
-
-&lt;p&gt;&lt;a rel="external" href="http://charts.dft.gov.uk/dft-business-plan/indicators/#11"&gt;Click here to view this data in an interactive chart&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id="background-information"&gt;Background information&lt;/h2&gt;
-
-&lt;p&gt;Rail passenger kilometres totals are published quarterly by the Office of Rail Regulation (&lt;abbr title="Office of Rail Regulation"&gt;ORR&lt;/abbr&gt;). The rail industry’s central ticketing system, LENNON, is the basis for passenger kilometres data. LENNON holds information on the vast majority of national rail tickets purchased in Great Britain and is used to allocate the revenue from ticket sales between train operating companies.&lt;/p&gt;
-
-&lt;p&gt;&lt;abbr title="Office of Rail Regulation"&gt;ORR&lt;/abbr&gt; also receives quarterly non-LENNON kilometres data from train operators. Non-LENNON data are information not recorded within the LENNON system such as operator specific tickets and Passenger Transport Executive (&lt;abbr title="Passenger Transport Executive"&gt;PTE&lt;/abbr&gt;) multi-modal tickets.&lt;/p&gt;
-
-&lt;p&gt;The statistics are converted from kilometres to miles by DfT for the purposes of this publication.&lt;/p&gt;
-
-&lt;p&gt;The data supplied in the table and the charts refer to financial rather than calendar years.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;publishing schedule: quarterly&lt;/li&gt;
+&lt;li&gt;publishing schedule: annually&lt;/li&gt;
   &lt;li&gt;last updated: December 2012&lt;/li&gt;
-  &lt;li&gt;next update: 7 March 2013&lt;/li&gt;
-&lt;/ul&gt;&lt;h2 id="other-related-data-and-information"&gt;Other related data and information&lt;/h2&gt;
-
-&lt;p&gt;&lt;a rel="external" href="http://dataportal.orr.gov.uk/"&gt;Rail passenger kilometres statistics are published on the Office of Rail Regulation Data Portal&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href="https://www.gov.uk/government/publications/tsgb-2011-public-transport"&gt;Annual passenger kilometres data for rail and other modes of public transport are published in Transport Statistics Great Britain (&lt;abbr title="Transport Statistics Great Britain"&gt;TSGB&lt;/abbr&gt;)&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id="further-information"&gt;Further information&lt;/h2&gt;
+  &lt;li&gt;next update: Spring 2013&lt;/li&gt;
+&lt;/ul&gt;&lt;h2 id="further-information"&gt;Further information&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://www.gov.uk/government/publications/department-for-transport-business-plan"&gt;Business Plan 2012-2015&lt;/a&gt;&lt;/li&gt;

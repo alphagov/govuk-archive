@@ -8,27 +8,28 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-12-20T16:02:55+00:00</updated>
+  <updated>2013-01-04T18:18:05+00:00</updated>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60238</id>
-    <published>2012-12-20T00:00:00+00:00</published>
-    <updated>2012-12-20T16:02:55+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/bis-government-procurement-card-spend-over-500-september-2012"/>
-    <title>BIS Government Procurement Card spend over £500: September 2012 </title>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/64069</id>
+    <published>2013-01-04T00:00:00+00:00</published>
+    <updated>2013-01-04T18:18:05+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/bis-senior-staff-posts-and-pay-30-september-2012"/>
+    <title>BIS senior staff posts and pay: 30 September 2012</title>
     <category>Publication</category>
-    <summary>BIS Government Procurement Card expenditure over £500 in September 2012. </summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Financial data on BIS items of Government Procurement Card expenditure over £500, in September 2012.&lt;/p&gt;&lt;/div&gt;</content>
+    <summary>BIS senior staff posts and pay, as of 30 September 2012. </summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The government is committed to setting new standards for transparency so the public can more easily see how and where taxpayers’ money is being spent and hold politicians, government departments and public bodies to account.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60239</id>
-    <published>2012-12-20T00:00:00+00:00</published>
-    <updated>2012-12-20T16:01:51+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/bis-government-procurement-card-spend-over-500-october-2012"/>
-    <title>BIS Government Procurement Card spend over £500: October 2012</title>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/64070</id>
+    <published>2013-01-04T00:00:00+00:00</published>
+    <updated>2013-01-04T18:18:41+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/bis-junior-staff-numbers-and-payscales-30-september-2012"/>
+    <title>BIS junior staff numbers and payscales: 30 September 2012</title>
     <category>Publication</category>
-    <summary>BIS Government Procurement Card expenditure over £500 in October 2012. 
+    <summary>
+BIS junior staff numbers and pay, as of 30 September 2012 
 </summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Financial data on BIS items of Government Procurement Card expenditure over £500, in October 2012.&lt;/p&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The government is committed to setting new standards for transparency so the public can more easily see how and where taxpayers’ money is being spent and hold politicians, government departments and public bodies to account.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/60247</id>
@@ -43,6 +44,37 @@
 &lt;p&gt;All central government departments must publish details of their spending over £25,000, and publish monthly information by the last day of each month.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60239</id>
+    <published>2012-12-20T00:00:00+00:00</published>
+    <updated>2012-12-20T16:01:51+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/bis-government-procurement-card-spend-over-500-october-2012"/>
+    <title>BIS Government Procurement Card spend over £500: October 2012</title>
+    <category>Publication</category>
+    <summary>BIS Government Procurement Card expenditure over £500 in October 2012. 
+</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Financial data on BIS items of Government Procurement Card expenditure over £500, in October 2012.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60238</id>
+    <published>2012-12-20T00:00:00+00:00</published>
+    <updated>2012-12-20T16:02:55+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/bis-government-procurement-card-spend-over-500-september-2012"/>
+    <title>BIS Government Procurement Card spend over £500: September 2012 </title>
+    <category>Publication</category>
+    <summary>BIS Government Procurement Card expenditure over £500 in September 2012. </summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Financial data on BIS items of Government Procurement Card expenditure over £500, in September 2012.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60895</id>
+    <published>2012-12-19T00:00:00+00:00</published>
+    <updated>2012-12-19T13:58:54+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/permanent-secretary-individual-performance-objectives-2012-to-2013"/>
+    <title>Permanent Secretary individual performance objectives 2012 to 2013</title>
+    <category>Publication</category>
+    <summary></summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Defines the role and objectives of Martin Donnelly, the Permanent Secretary, for the 2012 to 2013 period.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/60007</id>
     <published>2012-12-19T00:00:00+00:00</published>
     <updated>2012-12-20T10:16:05+00:00</updated>
@@ -53,23 +85,13 @@
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Non-consolidated performance related pay for performance year 2011 to 2012.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60895</id>
-    <published>2012-12-19T00:00:00+00:00</published>
-    <updated>2012-12-19T13:58:54+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/permanent-secretary-individual-performance-objectives-2012-to-2013"/>
-    <title>Permanent Secretary individual performance objectives 2012 to 2013</title>
-    <category>Publication</category>
-    <summary/>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Defines the role and objectives of Martin Donnelly, the Permanent Secretary, for the 2012 to 2013 period.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/56833</id>
     <published>2012-12-17T00:00:00+00:00</published>
     <updated>2012-12-17T13:02:03+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/tax-arrangements-for-public-sector-appointees-in-bis-as-of-31-january-2012"/>
     <title>Tax arrangements for public sector appointees in BIS as of 31 January 2012 </title>
     <category>Publication</category>
-    <summary/>
+    <summary></summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Coalition Government has committed to making clear to the public how it uses taxpayers’ money. All government departments have been asked to publish a wide range of information about how it meets and measures its objectives and the use of resources.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
@@ -101,6 +123,26 @@
 &lt;p&gt;Covers April to October of the financial year 2012 to 2013.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/17645</id>
+    <published>2012-12-04T00:00:00+00:00</published>
+    <updated>2012-12-12T19:32:42+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/bis-overall-staff-declaration-rates-2010-to-2011"/>
+    <title>BIS overall staff declaration rates 2010 to 2011</title>
+    <category>Publication</category>
+    <summary>Workforce equality data for the period 1 April 2010 to 31 March 2011. </summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Contains breakdown of staff by grade for core BIS, including UK Trade &amp;amp; Investment. Covers the financial year 2010 to 2011.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/17647</id>
+    <published>2012-12-04T00:00:00+00:00</published>
+    <updated>2012-12-12T19:32:58+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/bis-staff-in-post-2010-to-2011"/>
+    <title>BIS staff in post: 2010 to 2011</title>
+    <category>Publication</category>
+    <summary>BIS workforce equality data for the period 1 April 2010 to 31 March 2011. </summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Contains breakdown of staff by grade for core BIS, including UK Trade &amp;amp; Investment. Covers the financial year 2010 to 2011.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/17648</id>
     <published>2012-12-04T00:00:00+00:00</published>
     <updated>2012-12-12T19:33:03+00:00</updated>
@@ -118,26 +160,6 @@
     <title>BIS equal pay: 2010 to 2011</title>
     <category>Publication</category>
     <summary>BIS workforce equality data for the period 1 April 2010 to 31 March 2011. </summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Contains breakdown of staff by grade for core BIS, including UK Trade &amp;amp; Investment. Covers the financial year 2010 to 2011.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/17647</id>
-    <published>2012-12-04T00:00:00+00:00</published>
-    <updated>2012-12-12T19:32:58+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/bis-staff-in-post-2010-to-2011"/>
-    <title>BIS staff in post: 2010 to 2011</title>
-    <category>Publication</category>
-    <summary>BIS workforce equality data for the period 1 April 2010 to 31 March 2011. </summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Contains breakdown of staff by grade for core BIS, including UK Trade &amp;amp; Investment. Covers the financial year 2010 to 2011.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/17645</id>
-    <published>2012-12-04T00:00:00+00:00</published>
-    <updated>2012-12-12T19:32:42+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/bis-overall-staff-declaration-rates-2010-to-2011"/>
-    <title>BIS overall staff declaration rates 2010 to 2011</title>
-    <category>Publication</category>
-    <summary>Workforce equality data for the period 1 April 2010 to 31 March 2011. </summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Contains breakdown of staff by grade for core BIS, including UK Trade &amp;amp; Investment. Covers the financial year 2010 to 2011.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
@@ -161,11 +183,11 @@
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Contains breakdown of staff by grade for core BIS, including UK Trade &amp;amp; Investment. Covers the financial year 2010 to 2011.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/17655</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/17653</id>
     <published>2012-12-04T00:00:00+00:00</published>
-    <updated>2012-12-12T19:33:24+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/bis-equality-and-diversity-2010-to-2011"/>
-    <title>BIS equality and diversity: 2010 to 2011</title>
+    <updated>2012-12-12T19:33:16+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/bis-learning-and-development-2010-to-2011"/>
+    <title>BIS learning and development: 2010 to 2011</title>
     <category>Publication</category>
     <summary>BIS workforce equality data for the period 1 April 2010 to 31 March 2011. </summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Contains breakdown of staff by grade for core BIS, including UK Trade &amp;amp; Investment. Covers the financial year 2010 to 2011.&lt;/p&gt;&lt;/div&gt;</content>
@@ -181,42 +203,14 @@
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Contains breakdown of staff by grade for core BIS, including UK Trade &amp;amp; Investment. Covers the financial year 2010 to 2011.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/17653</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/17655</id>
     <published>2012-12-04T00:00:00+00:00</published>
-    <updated>2012-12-12T19:33:16+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/bis-learning-and-development-2010-to-2011"/>
-    <title>BIS learning and development: 2010 to 2011</title>
+    <updated>2012-12-12T19:33:24+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/bis-equality-and-diversity-2010-to-2011"/>
+    <title>BIS equality and diversity: 2010 to 2011</title>
     <category>Publication</category>
     <summary>BIS workforce equality data for the period 1 April 2010 to 31 March 2011. </summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Contains breakdown of staff by grade for core BIS, including UK Trade &amp;amp; Investment. Covers the financial year 2010 to 2011.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/17624</id>
-    <published>2012-12-03T00:00:00+00:00</published>
-    <updated>2012-12-12T18:55:03+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/bis-workforce-management-july-2012"/>
-    <title>BIS workforce management: July 2012</title>
-    <category>Publication</category>
-    <summary>Management information on staff numbers and paybill costs in BIS, its agencies and executive non-departmental public bodies.</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;For workforce numbers, both payroll and non-payroll (contingent labour, including consultants) information is provided, split between full-time equivalents (FTE) and headcount, with payroll staff numbers mapped to standard Civil Service grades.&lt;/p&gt;
-
-&lt;p&gt;For costs, payroll paybill information is broken down into its component parts i.e. salaries, allowances, employers pensions contributions etc. For non-payroll costs, these are split between costs for consultancy and those of other non-payroll workers.&lt;/p&gt;
-
-&lt;p&gt;Covers July of the financial year 2012 to 2013.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/17626</id>
-    <published>2012-12-03T00:00:00+00:00</published>
-    <updated>2012-12-12T18:55:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/bis-workforce-management-june-2012"/>
-    <title>BIS workforce management: June 2012</title>
-    <category>Publication</category>
-    <summary>Management information on staff numbers and paybill costs in BIS, its agencies and executive non-departmental public bodies.</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;For workforce numbers, both payroll and non-payroll (contingent labour, including consultants) information is provided, split between full-time equivalents (FTE) and headcount, with payroll staff numbers mapped to standard Civil Service grades.&lt;/p&gt;
-
-&lt;p&gt;For costs, payroll paybill information is broken down into its component parts i.e. salaries, allowances, employers pensions contributions etc. For non-payroll costs, these are split between costs for consultancy and those of other non-payroll workers.&lt;/p&gt;
-
-&lt;p&gt;Covers June of the financial year 2012 to 2013.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/17627</id>

@@ -35,7 +35,7 @@
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/proportion-of-trains-running-on-time"/>
     <title>Proportion of trains running on time</title>
     <category>Publication</category>
-    <summary/>
+    <summary></summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="dft-business-plan-input-indicator"&gt;DfT Business Plan input indicator&lt;/h2&gt;
 
 &lt;h3 id="geographical-coverage-dft-franchised-train-operators-great-britain"&gt;Geographical coverage: DfT franchised train operators (Great Britain)&lt;/h3&gt;
@@ -851,31 +851,81 @@ Further information about this indicator can be found in the measurement templat
 &lt;/ul&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/16746</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/61038</id>
     <published>2012-12-13T00:00:00+00:00</published>
-    <updated>2012-12-13T09:30:04+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/port-freight-statistics-quarter-3-2012"/>
-    <title>Port freight statistics: quarter 3 2012</title>
+    <updated>2012-11-03T22:04:30+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/proportion-of-urban-trips-under-5-miles-taken-by-i-walking-or-cycling-ii-public-transport"/>
+    <title>Proportion of urban trips under 5 miles taken by (i) walking or cycling (ii) public transport</title>
     <category>Publication</category>
-    <summary>This publication presents provisional summary statistics on freight handled by major UK ports, updated quarterly. </summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This publication presents provisional summary statistics on freight handled by major UK ports, updated quarterly. Provisional annual statistics are updated in June and detailed final annual statistics are published in September. &lt;/p&gt;
+    <summary>Impact indicator, disaggregated by region, published annually from May 2011.</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="type-of-indicator-impact-indicator"&gt;Type of indicator: Impact indicator&lt;/h2&gt;
 
-&lt;h2 id="key-points"&gt;Key points&lt;/h2&gt;
+&lt;h3 id="geographical-coverage-england-data-are-also-available-for-great-britain"&gt;Geographical coverage: England (data are also available for Great Britain)&lt;/h3&gt;
 
-&lt;ul&gt;
-&lt;li&gt;Total port traffic (tonnage) in the year ending quarter 3 2012 (497 million tonnes) was down 2% on the year ending quarter 3 2011 (509 million tonnes). &lt;/li&gt;
-  &lt;li&gt;The number of units of all types handled in the year ending quarter 3 2012  (20.8 million units) was down 3% compared with the year ending quarter 3 2011 (21.4 million units).&lt;/li&gt;
-  &lt;li&gt;Tonnage in quarter 3 of 2012 (124 million tonnes) was down 3% compared with quarter 3 2011 (127 million tonnes).&lt;/li&gt;
-  &lt;li&gt;The number of units of all types handled in quarter 3 2012 (5.98 million units) was down 4% compared with quarter 3 2011 (6.21 million units). &lt;/li&gt;
-&lt;/ul&gt;&lt;h2 id="technical-information"&gt;Technical information&lt;/h2&gt;
+&lt;h3 id="information-broken-down-by-region-and-country"&gt;Information broken down by: Region and country&lt;/h3&gt;
 
-&lt;p&gt;Information on port freight statistics, including the pre-release access list, and related technical documentation &lt;a href="https://www.gov.uk/technical-guidance-for-transport-stats#Port-statistics"&gt;can be found here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id="contact-us"&gt;Contact us&lt;/h2&gt;
+&lt;h2 id="latest-data"&gt;Latest data&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="mailto:maritime.stats@dft.gsi.gov.uk"&gt;maritime.stats@dft.gsi.gov.uk&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Phone: 020 7944 4131&lt;/li&gt;
+&lt;li&gt;In 2011, 39% of urban trips under 5 miles in England were taken by walking or cycling and 9% were taken by public transport.  &lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Proportion of urban trips under 5 miles taken by (i) walking or cycling; (ii) public transport: England, 2010 and 2011 &lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;&lt;tr&gt;
+&lt;th&gt;Year&lt;/th&gt;
+      &lt;th&gt;Walking or cycling&lt;/th&gt;
+      &lt;th&gt;Public transport&lt;/th&gt;
+      &lt;th&gt;All modes&lt;/th&gt;
+    &lt;/tr&gt;&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;2010&lt;sup&gt;R&lt;/sup&gt;
+&lt;/td&gt;
+      &lt;td&gt;37%&lt;/td&gt;
+      &lt;td&gt;10%&lt;/td&gt;
+      &lt;td&gt;100%&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2011&lt;/td&gt;
+      &lt;td&gt;39%&lt;/td&gt;
+      &lt;td&gt;9%&lt;/td&gt;
+      &lt;td&gt;100%&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;&lt;p&gt;For urban trips under 5 miles in England:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;39% were taken by walking or cycling in 2011 compared with 37% in 2010.&lt;/li&gt;
+  &lt;li&gt;9% were taken by public transport in 2011, compared with 10% in 2010. &lt;/li&gt;
+  &lt;li&gt;London was the region with the highest proportion of walking or cycling and public transport trips, 43% and 22% respectively.&lt;/li&gt;
+  &lt;li&gt;The region with the lowest proportion of walking or cycling trips was the West Midlands (32%). &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;The South West had the lowest proportion of public transport trips (4%).&lt;/p&gt;
+
+    &lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.gov.uk/government/statistical-data-sets/nts99-triips-and-distance-travelled-per-person-per-year"&gt;Proportion of urban trips under 5 miles by main mode: England, 2007 to 2011&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;a rel="external" href="http://charts.dft.gov.uk/dft-business-plan/indicators/#12"&gt;Click here to view this data in an interactive chart&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id="background-information"&gt;Background information&lt;/h2&gt;
+
+&lt;p&gt;The proportions of walking or cycling and public transport trips are calculated using the number of trips under 5 miles as reported in the National Travel Survey by residents living in urban areas (settlements of over 3,000 population). Data are available by region and county.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;publishing schedule: annual&lt;/li&gt;
+  &lt;li&gt;last updated: 13 December 2012&lt;/li&gt;
+  &lt;li&gt;next update: July 2013&lt;/li&gt;
+&lt;/ul&gt;&lt;h2 id="other-related-data-and-information"&gt;Other related data and information&lt;/h2&gt;
+
+&lt;p&gt;The National Travel Survey (NTS) collects data on personal travel in Great Britain. The NTS reports on trends in personal travel including key questions on how, why and when people travel for all age groups. &lt;a href="https://www.gov.uk/government/organisations/department-for-transport/series/national-travel-survey-statistics"&gt;Further information and statistics from the NTS.&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id="further-information"&gt;Further information&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.gov.uk/government/publications/department-for-transport-business-plan"&gt;Business Plan 2012-2015&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://www.gov.uk/government/publications/input-and-impact-indicators"&gt;Input and impact indicators&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Analyst contact: email &lt;a href="mailto:national.travelsurvey@dft.gsi.gov.uk"&gt;national.travelsurvey@dft.gsi.gov.uk&lt;/a&gt; or telephone 020 7944 3097&lt;/li&gt;
 &lt;/ul&gt;&lt;/div&gt;</content>
   </entry>
 </feed>

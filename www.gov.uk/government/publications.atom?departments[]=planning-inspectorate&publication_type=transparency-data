@@ -8,7 +8,17 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-12-07T12:03:16+00:00</updated>
+  <updated>2013-01-04T10:14:27+00:00</updated>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60974</id>
+    <published>2013-01-04T00:00:00+00:00</published>
+    <updated>2013-01-04T10:14:27+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/planning-inspectorate-spending-over-500-november-2012"/>
+    <title>Planning Inspectorate spending over £500: November 2012</title>
+    <category>Publication</category>
+    <summary>These documents show spending by the Planning Inspectorate over £500 for November 2012.</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;These documents show spending by the Planning Inspectorate over £500 for November 2012.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/28528</id>
     <published>2012-12-07T00:00:00+00:00</published>
@@ -53,34 +63,14 @@
 &lt;/section&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/15976</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/15974</id>
     <published>2012-11-12T00:00:00+00:00</published>
     <updated>2012-11-14T12:40:26+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/planning-inspectorate-spending-over-500-march-2012"/>
-    <title>Planning Inspectorate spending over £500: March 2012</title>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/planning-inspectorate-spending-over-500-february-2012"/>
+    <title>Planning Inspectorate spending over £500: February 2012 </title>
     <category>Publication</category>
-    <summary>These documents show spending by the Planning Inspectorate over £500 for March 2012.</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;These documents show spending by the Planning Inspectorate over £500 for March 2012.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/15972</id>
-    <published>2012-11-12T00:00:00+00:00</published>
-    <updated>2012-11-14T12:40:27+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/planning-inspectorate-spending-over-500-august-2012"/>
-    <title>Planning Inspectorate spending over £500: August 2012</title>
-    <category>Publication</category>
-    <summary>These documents show spending by the Planning Inspectorate over £500 for August 2012.</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;These documents show spending by the Planning Inspectorate over £500 for August 2012.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/15966</id>
-    <published>2012-11-12T00:00:00+00:00</published>
-    <updated>2012-11-14T12:40:27+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/planning-inspectorate-spending-over-500-may-2012"/>
-    <title>Planning Inspectorate spending over £500: May 2012</title>
-    <category>Publication</category>
-    <summary>These documents show spending by the Planning Inspectorate over £500 for May 2012.</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;These documents show spending by the Planning Inspectorate over £500 for May 2012.&lt;/p&gt;&lt;/div&gt;</content>
+    <summary>These documents show spending by the Planning Inspectorate over £500 for February 2012.</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;These documents show spending by the Planning Inspectorate over £500 for February 2012.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/28531</id>
@@ -113,44 +103,14 @@
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;These documents show spending by the Planning Inspectorate over £500 for January 2012.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/15969</id>
-    <published>2012-11-12T00:00:00+00:00</published>
-    <updated>2012-11-14T12:40:27+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/planning-inspectorate-spending-over-500-june-2012"/>
-    <title>Planning Inspectorate spending over £500: June 2012</title>
-    <category>Publication</category>
-    <summary/>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;These documents show spending by the Planning Inspectorate over £500 for June 2012.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/15974</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/15976</id>
     <published>2012-11-12T00:00:00+00:00</published>
     <updated>2012-11-14T12:40:26+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/planning-inspectorate-spending-over-500-february-2012"/>
-    <title>Planning Inspectorate spending over £500: February 2012 </title>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/planning-inspectorate-spending-over-500-march-2012"/>
+    <title>Planning Inspectorate spending over £500: March 2012</title>
     <category>Publication</category>
-    <summary>These documents show spending by the Planning Inspectorate over £500 for February 2012.</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;These documents show spending by the Planning Inspectorate over £500 for February 2012.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/15965</id>
-    <published>2012-11-12T00:00:00+00:00</published>
-    <updated>2012-11-14T12:40:27+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/planning-inspectorate-spending-over-500-april-2012"/>
-    <title>Planning Inspectorate spending over £500: April 2012</title>
-    <category>Publication</category>
-    <summary>These documents show spending by the Planning Inspectorate over £500 for April 2012.</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;These documents show spending by the Planning Inspectorate over £500 for April 2012.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/15971</id>
-    <published>2012-11-12T00:00:00+00:00</published>
-    <updated>2012-11-14T12:40:27+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/planning-inspectorate-spending-over-500-july-2012"/>
-    <title>Planning Inspectorate spending over £500: July 2012</title>
-    <category>Publication</category>
-    <summary>These documents show spending by the Planning Inspectorate over £500 for July 2012.</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;These documents show spending by the Planning Inspectorate over £500 for July 2012.&lt;/p&gt;&lt;/div&gt;</content>
+    <summary>These documents show spending by the Planning Inspectorate over £500 for March 2012.</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;These documents show spending by the Planning Inspectorate over £500 for March 2012.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/15961</id>
@@ -163,24 +123,64 @@
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;These documents show spending by the Planning Inspectorate over £500 for September 2012.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/15972</id>
+    <published>2012-11-12T00:00:00+00:00</published>
+    <updated>2012-11-14T12:40:27+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/planning-inspectorate-spending-over-500-august-2012"/>
+    <title>Planning Inspectorate spending over £500: August 2012</title>
+    <category>Publication</category>
+    <summary>These documents show spending by the Planning Inspectorate over £500 for August 2012.</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;These documents show spending by the Planning Inspectorate over £500 for August 2012.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/15971</id>
+    <published>2012-11-12T00:00:00+00:00</published>
+    <updated>2012-11-14T12:40:27+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/planning-inspectorate-spending-over-500-july-2012"/>
+    <title>Planning Inspectorate spending over £500: July 2012</title>
+    <category>Publication</category>
+    <summary>These documents show spending by the Planning Inspectorate over £500 for July 2012.</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;These documents show spending by the Planning Inspectorate over £500 for July 2012.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/15965</id>
+    <published>2012-11-12T00:00:00+00:00</published>
+    <updated>2012-11-14T12:40:27+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/planning-inspectorate-spending-over-500-april-2012"/>
+    <title>Planning Inspectorate spending over £500: April 2012</title>
+    <category>Publication</category>
+    <summary>These documents show spending by the Planning Inspectorate over £500 for April 2012.</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;These documents show spending by the Planning Inspectorate over £500 for April 2012.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/15966</id>
+    <published>2012-11-12T00:00:00+00:00</published>
+    <updated>2012-11-14T12:40:27+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/planning-inspectorate-spending-over-500-may-2012"/>
+    <title>Planning Inspectorate spending over £500: May 2012</title>
+    <category>Publication</category>
+    <summary>These documents show spending by the Planning Inspectorate over £500 for May 2012.</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;These documents show spending by the Planning Inspectorate over £500 for May 2012.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/15969</id>
+    <published>2012-11-12T00:00:00+00:00</published>
+    <updated>2012-11-14T12:40:27+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/planning-inspectorate-spending-over-500-june-2012"/>
+    <title>Planning Inspectorate spending over £500: June 2012</title>
+    <category>Publication</category>
+    <summary></summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;These documents show spending by the Planning Inspectorate over £500 for June 2012.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/15935</id>
     <published>2012-02-10T00:00:00+00:00</published>
     <updated>2012-11-12T11:47:20+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/planning-inspectorate-spending-over-500-december-2011"/>
     <title>Planning Inspectorate spending over £500: December 2011</title>
     <category>Publication</category>
-    <summary/>
+    <summary></summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;These documents show spending by the Planning Inspectorate over £500 for December 2011.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/15939</id>
-    <published>2012-01-26T00:00:00+00:00</published>
-    <updated>2012-11-12T11:46:59+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/planning-inspectorate-spending-over-500-november-2011"/>
-    <title>Planning Inspectorate spending over £500: November 2011</title>
-    <category>Publication</category>
-    <summary/>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;These documents show spending by the Planning Inspectorate over £500 for November 2011.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/15953</id>
@@ -189,8 +189,18 @@
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/planning-inspectorate-spending-over-500-october-2011"/>
     <title>Planning Inspectorate spending over £500: October 2011</title>
     <category>Publication</category>
-    <summary/>
+    <summary></summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;These documents show spending by the Planning Inspectorate over £500 for October 2011.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/15939</id>
+    <published>2012-01-26T00:00:00+00:00</published>
+    <updated>2012-11-12T11:46:59+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/planning-inspectorate-spending-over-500-november-2011"/>
+    <title>Planning Inspectorate spending over £500: November 2011</title>
+    <category>Publication</category>
+    <summary></summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;These documents show spending by the Planning Inspectorate over £500 for November 2011.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/12090</id>
@@ -199,7 +209,7 @@
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/planning-inspectorate-staff-data-and-organogram"/>
     <title>Planning Inspectorate staff data and organogram</title>
     <category>Publication</category>
-    <summary/>
+    <summary></summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Take a look at the organogram and salary datasets for staff at the Planning Inspectorate.&lt;/p&gt;
 
 &lt;p&gt;&lt;a rel="external" href="http://reference.data.gov.uk/gov-structure/organogram/?pubbod=the-planning-inspectorate&amp;amp;post=PINS01"&gt;PINS organogram&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</content>
@@ -211,17 +221,7 @@
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/planning-inspectorate-spending-over-500-september-2011"/>
     <title>Planning Inspectorate spending over £500: September 2011</title>
     <category>Publication</category>
-    <summary/>
+    <summary></summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;These documents show spending by the Planning Inspectorate over £500 for September 2011.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/15951</id>
-    <published>2011-09-30T01:00:00+01:00</published>
-    <updated>2012-11-12T11:45:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/planning-inspectorate-spending-over-500-august-2011"/>
-    <title>Planning Inspectorate spending over £500: August 2011</title>
-    <category>Publication</category>
-    <summary/>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;These documents show spending by the Planning Inspectorate over £500 for August 2011.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
 </feed>

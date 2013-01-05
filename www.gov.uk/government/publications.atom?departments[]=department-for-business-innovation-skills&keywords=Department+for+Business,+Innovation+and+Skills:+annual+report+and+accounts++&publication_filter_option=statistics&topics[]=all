@@ -110,7 +110,7 @@
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/number-of-enterprise-finance-guarantee-efg-scheme-loans-drawn"/>
     <title>Number and value of Enterprise Finance Guarantee (EFG) scheme loans drawn.</title>
     <category>Publication</category>
-    <summary/>
+    <summary></summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Number and value of EFG loans drawn, by bank.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
@@ -130,7 +130,7 @@
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/bis-quarterly-constuction-price-and-cost-indices-3rd-quarter-2012"/>
     <title>BIS quarterly constuction price and cost indices 3rd quarter 2012</title>
     <category>Publication</category>
-    <summary/>
+    <summary></summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="headline-results"&gt;Headline results&lt;/h2&gt;
 
 &lt;p&gt;The BIS Output Price Index for New Construction (2010): All New Construction (COPI) for 3rd Quarter 2012 rose 0.7% on the previous quarter and by 3.5% on the same quarter a year earlier.&lt;/p&gt;
@@ -156,7 +156,7 @@
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/construction-tender-price-indices-tpis-notes-and-definitions"/>
     <title>Construction tender price indices (TPIs) notes and definitions</title>
     <category>Publication</category>
-    <summary/>
+    <summary></summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Tender Price Index of Public Sector Building Non Housing (PUBSEC) measures the movement of prices in tenders for building contracts in the public sector in Great Britain. It does not include contracts for housing, civil engineering, mechanical engineering, electrical engineering, minor alterations projects or for repair and maintenance work.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
@@ -166,7 +166,7 @@
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/construction-resource-cost-indices-notes-and-definitions"/>
     <title>Construction resource cost indices notes and definitions</title>
     <category>Publication</category>
-    <summary/>
+    <summary></summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Resource Cost Indices give a measure of the notional trend of input costs to a contractor in terms of increases in the cost of labour, materials and plant by application of the Price Adjustment Formulae for Building (Series 3), Specialist Engineering (Series 3) and Civil Engineering (1990 Series) to cost models.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
@@ -892,7 +892,7 @@
 &lt;/section&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/55944</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/61190</id>
     <published>2012-12-12T17:59:39+00:00</published>
     <updated>2012-12-12T17:59:39+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/statistical-data-sets/2011-skills-for-life-survey-small-area-estimation-data"/>
@@ -903,15 +903,15 @@
 
 &lt;ul&gt;
 &lt;li&gt;literacy&lt;/li&gt;
-  &lt;li&gt;mumeracy&lt;/li&gt;
+  &lt;li&gt;numeracy&lt;/li&gt;
   &lt;li&gt;information and communication technology (&lt;abbr title="information and communication technology"&gt;ICT&lt;/abbr&gt;); including emailing, word processing, spreadsheet use and a multiple-choice assessment of &lt;abbr title="information and communication technology"&gt;ICT&lt;/abbr&gt; awareness&lt;/li&gt;
 &lt;/ul&gt;&lt;p&gt;The number and proportion of adults in households who do not speak English as a first language are also included.&lt;/p&gt;
 
-&lt;p&gt;Two sets of small area estimates are provided for seven geographies; middle layer super output areas (MSOAs), standard table wards, 2005 statistical wards, 2011 council wards, 2011 parliamentary constituencies, local authorities, and local enterprise partnership areas. &lt;/p&gt;
+&lt;p&gt;Two sets of small area estimates are provided for 7 geographies; middle layer super output areas (MSOAs), standard table wards, 2005 statistical wards, 2011 council wards, 2011 parliamentary constituencies, local authorities, and local enterprise partnership areas. &lt;/p&gt;
 
 &lt;p&gt;Regional estimates have also been provided, however, unlike the other geographies, these estimates are based on direct survey estimates and not modelled estimates. &lt;/p&gt;
 
-&lt;p&gt;The files are available as both Excel and csv – the user guide explains the estimates and modelling approach in more detail.&lt;/p&gt;
+&lt;p&gt;The files are available as both Excel and csv files – the user guide explains the estimates and modelling approach in more detail.&lt;/p&gt;
 
 &lt;h3 id="how-to-use-the-small-area-estimation-files-an-example"&gt;How to use the small area estimation files, an example&lt;/h3&gt;
 
@@ -924,16 +924,16 @@
   &lt;li&gt;note the proportion listed for Entry Level and below&lt;/li&gt;
 &lt;/ol&gt;&lt;p&gt;It is estimated that 8.1% of adults aged 16-64 in Manchester Central have entry level or below literacy. The Credible Intervals for this estimate are 7.0 and 9.3% at the 95 per cent level. This means that while the estimate is 8.1%, there is a 95% likelihood that the actual value lies between 7.0 and 9.3%.&lt;/p&gt;
 
-&lt;section class="attachment embedded" id="attachment_51641"&gt;&lt;div class="attachment-thumb"&gt;
-    &lt;a href="/government/uploads/system/uploads/attachment_data/file/36215/middle-layer-super-output-areas-2001-all_1_.xlsx" aria-describedby="attachment-51641-accessibility-help" class="thumbnail"&gt;
+&lt;section class="attachment embedded" id="attachment_62907"&gt;&lt;div class="attachment-thumb"&gt;
+    &lt;a href="/government/uploads/system/uploads/attachment_data/file/36215/middle-layer-super-output-areas-2001-all_1_.xlsx" aria-describedby="attachment-62907-accessibility-help" class="thumbnail"&gt;
       &lt;img alt="" src="https://assets.digital.cabinet-office.gov.uk/government/assets/pub-cover-f3684e2880956dff7bb138bfb0c2bebf.png"&gt;&lt;/a&gt;  &lt;/div&gt;
   &lt;div class="attachment-details"&gt;
-    &lt;h3 class="title"&gt;&lt;a href="/government/uploads/system/uploads/attachment_data/file/36215/middle-layer-super-output-areas-2001-all_1_.xlsx" aria-describedby="attachment-51641-accessibility-help"&gt;Middle layer super output areas: 2001 all skill level estimates&lt;/a&gt;&lt;/h3&gt;
+    &lt;h3 class="title"&gt;&lt;a href="/government/uploads/system/uploads/attachment_data/file/36215/middle-layer-super-output-areas-2001-all_1_.xlsx" aria-describedby="attachment-62907-accessibility-help"&gt;Middle layer super output areas: 2001 all skill level estimates&lt;/a&gt;&lt;/h3&gt;
     &lt;p class="metadata"&gt;
       &lt;span class="type"&gt;MS Excel Spreadsheet&lt;/span&gt;,
       &lt;span class="file-size"&gt;14.5 MB&lt;/span&gt;
     &lt;/p&gt;
-      &lt;div class="accessibility-warning js-toggle-accessibility-warning" id="attachment-51641-accessibility-help"&gt;
+      &lt;div class="accessibility-warning js-toggle-accessibility-warning" id="attachment-62907-accessibility-help"&gt;
         &lt;h3&gt;This file may not be accessible.
           &lt;span class="toggler"&gt;Request a different format.&lt;/span&gt;
         &lt;/h3&gt;
@@ -946,16 +946,16 @@
         &lt;/p&gt;
       &lt;/div&gt;
   &lt;/div&gt;
-&lt;/section&gt;&lt;section class="attachment embedded" id="attachment_51642"&gt;&lt;div class="attachment-thumb"&gt;
-    &lt;a href="/government/uploads/system/uploads/attachment_data/file/36222/middle-layer-super-output-areas-2001-all-csv.zip" aria-describedby="attachment-51642-accessibility-help" class="thumbnail"&gt;
+&lt;/section&gt;&lt;section class="attachment embedded" id="attachment_62908"&gt;&lt;div class="attachment-thumb"&gt;
+    &lt;a href="/government/uploads/system/uploads/attachment_data/file/36222/middle-layer-super-output-areas-2001-all-csv.zip" aria-describedby="attachment-62908-accessibility-help" class="thumbnail"&gt;
       &lt;img alt="" src="https://assets.digital.cabinet-office.gov.uk/government/assets/pub-cover-f3684e2880956dff7bb138bfb0c2bebf.png"&gt;&lt;/a&gt;  &lt;/div&gt;
   &lt;div class="attachment-details"&gt;
-    &lt;h3 class="title"&gt;&lt;a href="/government/uploads/system/uploads/attachment_data/file/36222/middle-layer-super-output-areas-2001-all-csv.zip" aria-describedby="attachment-51642-accessibility-help"&gt;Middle layer super output areas: 2001 all skill level estimates csv files&lt;/a&gt;&lt;/h3&gt;
+    &lt;h3 class="title"&gt;&lt;a href="/government/uploads/system/uploads/attachment_data/file/36222/middle-layer-super-output-areas-2001-all-csv.zip" aria-describedby="attachment-62908-accessibility-help"&gt;Middle layer super output areas: 2001 all skill level estimates csv files&lt;/a&gt;&lt;/h3&gt;
     &lt;p class="metadata"&gt;
       &lt;span class="type"&gt;&lt;abbr title="Zip archive"&gt;ZIP&lt;/abbr&gt;&lt;/span&gt;,
       &lt;span class="file-size"&gt;4.53 MB&lt;/span&gt;
     &lt;/p&gt;
-      &lt;div class="accessibility-warning js-toggle-accessibility-warning" id="attachment-51642-accessibility-help"&gt;
+      &lt;div class="accessibility-warning js-toggle-accessibility-warning" id="attachment-62908-accessibility-help"&gt;
         &lt;h3&gt;This file may not be accessible.
           &lt;span class="toggler"&gt;Request a different format.&lt;/span&gt;
         &lt;/h3&gt;
@@ -968,16 +968,16 @@
         &lt;/p&gt;
       &lt;/div&gt;
   &lt;/div&gt;
-&lt;/section&gt;&lt;section class="attachment embedded" id="attachment_51643"&gt;&lt;div class="attachment-thumb"&gt;
-    &lt;a href="/government/uploads/system/uploads/attachment_data/file/36441/middle-layer-super-output-areas-2009-all.xlsx" aria-describedby="attachment-51643-accessibility-help" class="thumbnail"&gt;
+&lt;/section&gt;&lt;section class="attachment embedded" id="attachment_62909"&gt;&lt;div class="attachment-thumb"&gt;
+    &lt;a href="/government/uploads/system/uploads/attachment_data/file/36441/middle-layer-super-output-areas-2009-all.xlsx" aria-describedby="attachment-62909-accessibility-help" class="thumbnail"&gt;
       &lt;img alt="" src="https://assets.digital.cabinet-office.gov.uk/government/assets/pub-cover-f3684e2880956dff7bb138bfb0c2bebf.png"&gt;&lt;/a&gt;  &lt;/div&gt;
   &lt;div class="attachment-details"&gt;
-    &lt;h3 class="title"&gt;&lt;a href="/government/uploads/system/uploads/attachment_data/file/36441/middle-layer-super-output-areas-2009-all.xlsx" aria-describedby="attachment-51643-accessibility-help"&gt;Middle layer super output areas: 2009 all skill level estimates&lt;/a&gt;&lt;/h3&gt;
+    &lt;h3 class="title"&gt;&lt;a href="/government/uploads/system/uploads/attachment_data/file/36441/middle-layer-super-output-areas-2009-all.xlsx" aria-describedby="attachment-62909-accessibility-help"&gt;Middle layer super output areas: 2009 all skill level estimates&lt;/a&gt;&lt;/h3&gt;
     &lt;p class="metadata"&gt;
       &lt;span class="type"&gt;MS Excel Spreadsheet&lt;/span&gt;,
       &lt;span class="file-size"&gt;14.6 MB&lt;/span&gt;
     &lt;/p&gt;
-      &lt;div class="accessibility-warning js-toggle-accessibility-warning" id="attachment-51643-accessibility-help"&gt;
+      &lt;div class="accessibility-warning js-toggle-accessibility-warning" id="attachment-62909-accessibility-help"&gt;
         &lt;h3&gt;This file may not be accessible.
           &lt;span class="toggler"&gt;Request a different format.&lt;/span&gt;
         &lt;/h3&gt;
@@ -990,16 +990,16 @@
         &lt;/p&gt;
       &lt;/div&gt;
   &lt;/div&gt;
-&lt;/section&gt;&lt;section class="attachment embedded" id="attachment_51644"&gt;&lt;div class="attachment-thumb"&gt;
-    &lt;a href="/government/uploads/system/uploads/attachment_data/file/36442/middle-layer-super-output-areas-2009-all-csv.zip" aria-describedby="attachment-51644-accessibility-help" class="thumbnail"&gt;
+&lt;/section&gt;&lt;section class="attachment embedded" id="attachment_62910"&gt;&lt;div class="attachment-thumb"&gt;
+    &lt;a href="/government/uploads/system/uploads/attachment_data/file/36442/middle-layer-super-output-areas-2009-all-csv.zip" aria-describedby="attachment-62910-accessibility-help" class="thumbnail"&gt;
       &lt;img alt="" src="https://assets.digital.cabinet-office.gov.uk/government/assets/pub-cover-f3684e2880956dff7bb138bfb0c2bebf.png"&gt;&lt;/a&gt;  &lt;/div&gt;
   &lt;div class="attachment-details"&gt;
-    &lt;h3 class="title"&gt;&lt;a href="/government/uploads/system/uploads/attachment_data/file/36442/middle-layer-super-output-areas-2009-all-csv.zip" aria-describedby="attachment-51644-accessibility-help"&gt;Middle layer super output areas: 2009 all skill level estimates csv files&lt;/a&gt;&lt;/h3&gt;
+    &lt;h3 class="title"&gt;&lt;a href="/government/uploads/system/uploads/attachment_data/file/36442/middle-layer-super-output-areas-2009-all-csv.zip" aria-describedby="attachment-62910-accessibility-help"&gt;Middle layer super output areas: 2009 all skill level estimates csv files&lt;/a&gt;&lt;/h3&gt;
     &lt;p class="metadata"&gt;
       &lt;span class="type"&gt;&lt;abbr title="Zip archive"&gt;ZIP&lt;/abbr&gt;&lt;/span&gt;,
       &lt;span class="file-size"&gt;4.53 MB&lt;/span&gt;
     &lt;/p&gt;
-      &lt;div class="accessibility-warning js-toggle-accessibility-warning" id="attachment-51644-accessibility-help"&gt;
+      &lt;div class="accessibility-warning js-toggle-accessibility-warning" id="attachment-62910-accessibility-help"&gt;
         &lt;h3&gt;This file may not be accessible.
           &lt;span class="toggler"&gt;Request a different format.&lt;/span&gt;
         &lt;/h3&gt;
@@ -1012,16 +1012,16 @@
         &lt;/p&gt;
       &lt;/div&gt;
   &lt;/div&gt;
-&lt;/section&gt;&lt;section class="attachment embedded" id="attachment_51645"&gt;&lt;div class="attachment-thumb"&gt;
-    &lt;a href="/government/uploads/system/uploads/attachment_data/file/36444/middle-layer-super-output-areas-2009-el-l1_1_.xlsx" aria-describedby="attachment-51645-accessibility-help" class="thumbnail"&gt;
+&lt;/section&gt;&lt;section class="attachment embedded" id="attachment_62911"&gt;&lt;div class="attachment-thumb"&gt;
+    &lt;a href="/government/uploads/system/uploads/attachment_data/file/36444/middle-layer-super-output-areas-2009-el-l1_1_.xlsx" aria-describedby="attachment-62911-accessibility-help" class="thumbnail"&gt;
       &lt;img alt="" src="https://assets.digital.cabinet-office.gov.uk/government/assets/pub-cover-f3684e2880956dff7bb138bfb0c2bebf.png"&gt;&lt;/a&gt;  &lt;/div&gt;
   &lt;div class="attachment-details"&gt;
-    &lt;h3 class="title"&gt;&lt;a href="/government/uploads/system/uploads/attachment_data/file/36444/middle-layer-super-output-areas-2009-el-l1_1_.xlsx" aria-describedby="attachment-51645-accessibility-help"&gt;Middle layer super output areas: 2009 entry level &amp;amp; below and level 1 &amp;amp; above categories&lt;/a&gt;&lt;/h3&gt;
+    &lt;h3 class="title"&gt;&lt;a href="/government/uploads/system/uploads/attachment_data/file/36444/middle-layer-super-output-areas-2009-el-l1_1_.xlsx" aria-describedby="attachment-62911-accessibility-help"&gt;Middle layer super output areas: 2009 entry level &amp;amp; below and level 1 &amp;amp; above categories&lt;/a&gt;&lt;/h3&gt;
     &lt;p class="metadata"&gt;
       &lt;span class="type"&gt;MS Excel Spreadsheet&lt;/span&gt;,
       &lt;span class="file-size"&gt;8.09 MB&lt;/span&gt;
     &lt;/p&gt;
-      &lt;div class="accessibility-warning js-toggle-accessibility-warning" id="attachment-51645-accessibility-help"&gt;
+      &lt;div class="accessibility-warning js-toggle-accessibility-warning" id="attachment-62911-accessibility-help"&gt;
         &lt;h3&gt;This file may not be accessible.
           &lt;span class="toggler"&gt;Request a different format.&lt;/span&gt;
         &lt;/h3&gt;
@@ -1034,16 +1034,16 @@
         &lt;/p&gt;
       &lt;/div&gt;
   &lt;/div&gt;
-&lt;/section&gt;&lt;section class="attachment embedded" id="attachment_51646"&gt;&lt;div class="attachment-thumb"&gt;
-    &lt;a href="/government/uploads/system/uploads/attachment_data/file/36445/middle-layer-super-output-areas-2009-el-l1-csv_1_.zip" aria-describedby="attachment-51646-accessibility-help" class="thumbnail"&gt;
+&lt;/section&gt;&lt;section class="attachment embedded" id="attachment_62912"&gt;&lt;div class="attachment-thumb"&gt;
+    &lt;a href="/government/uploads/system/uploads/attachment_data/file/36445/middle-layer-super-output-areas-2009-el-l1-csv_1_.zip" aria-describedby="attachment-62912-accessibility-help" class="thumbnail"&gt;
       &lt;img alt="" src="https://assets.digital.cabinet-office.gov.uk/government/assets/pub-cover-f3684e2880956dff7bb138bfb0c2bebf.png"&gt;&lt;/a&gt;  &lt;/div&gt;
   &lt;div class="attachment-details"&gt;
-    &lt;h3 class="title"&gt;&lt;a href="/government/uploads/system/uploads/attachment_data/file/36445/middle-layer-super-output-areas-2009-el-l1-csv_1_.zip" aria-describedby="attachment-51646-accessibility-help"&gt;Middle layer super output areas: 2009 entry level &amp;amp; below and level 1 &amp;amp; above categories csv files&lt;/a&gt;&lt;/h3&gt;
+    &lt;h3 class="title"&gt;&lt;a href="/government/uploads/system/uploads/attachment_data/file/36445/middle-layer-super-output-areas-2009-el-l1-csv_1_.zip" aria-describedby="attachment-62912-accessibility-help"&gt;Middle layer super output areas: 2009 entry level &amp;amp; below and level 1 &amp;amp; above categories csv files&lt;/a&gt;&lt;/h3&gt;
     &lt;p class="metadata"&gt;
       &lt;span class="type"&gt;&lt;abbr title="Zip archive"&gt;ZIP&lt;/abbr&gt;&lt;/span&gt;,
       &lt;span class="file-size"&gt;2.49 MB&lt;/span&gt;
     &lt;/p&gt;
-      &lt;div class="accessibility-warning js-toggle-accessibility-warning" id="attachment-51646-accessibility-help"&gt;
+      &lt;div class="accessibility-warning js-toggle-accessibility-warning" id="attachment-62912-accessibility-help"&gt;
         &lt;h3&gt;This file may not be accessible.
           &lt;span class="toggler"&gt;Request a different format.&lt;/span&gt;
         &lt;/h3&gt;
@@ -1056,16 +1056,16 @@
         &lt;/p&gt;
       &lt;/div&gt;
   &lt;/div&gt;
-&lt;/section&gt;&lt;section class="attachment embedded" id="attachment_51647"&gt;&lt;div class="attachment-thumb"&gt;
-    &lt;a href="/government/uploads/system/uploads/attachment_data/file/36450/standard-table-wards-2009-all_1_.xlsx" aria-describedby="attachment-51647-accessibility-help" class="thumbnail"&gt;
+&lt;/section&gt;&lt;section class="attachment embedded" id="attachment_62913"&gt;&lt;div class="attachment-thumb"&gt;
+    &lt;a href="/government/uploads/system/uploads/attachment_data/file/36450/standard-table-wards-2009-all_1_.xlsx" aria-describedby="attachment-62913-accessibility-help" class="thumbnail"&gt;
       &lt;img alt="" src="https://assets.digital.cabinet-office.gov.uk/government/assets/pub-cover-f3684e2880956dff7bb138bfb0c2bebf.png"&gt;&lt;/a&gt;  &lt;/div&gt;
   &lt;div class="attachment-details"&gt;
-    &lt;h3 class="title"&gt;&lt;a href="/government/uploads/system/uploads/attachment_data/file/36450/standard-table-wards-2009-all_1_.xlsx" aria-describedby="attachment-51647-accessibility-help"&gt;Standard table wards: 2009 all skill level estimates&lt;/a&gt;&lt;/h3&gt;
+    &lt;h3 class="title"&gt;&lt;a href="/government/uploads/system/uploads/attachment_data/file/36450/standard-table-wards-2009-all_1_.xlsx" aria-describedby="attachment-62913-accessibility-help"&gt;Standard table wards: 2009 all skill level estimates&lt;/a&gt;&lt;/h3&gt;
     &lt;p class="metadata"&gt;
       &lt;span class="type"&gt;MS Excel Spreadsheet&lt;/span&gt;,
       &lt;span class="file-size"&gt;16.6 MB&lt;/span&gt;
     &lt;/p&gt;
-      &lt;div class="accessibility-warning js-toggle-accessibility-warning" id="attachment-51647-accessibility-help"&gt;
+      &lt;div class="accessibility-warning js-toggle-accessibility-warning" id="attachment-62913-accessibility-help"&gt;
         &lt;h3&gt;This file may not be accessible.
           &lt;span class="toggler"&gt;Request a different format.&lt;/span&gt;
         &lt;/h3&gt;
@@ -1078,16 +1078,16 @@
         &lt;/p&gt;
       &lt;/div&gt;
   &lt;/div&gt;
-&lt;/section&gt;&lt;section class="attachment embedded" id="attachment_51648"&gt;&lt;div class="attachment-thumb"&gt;
-    &lt;a href="/government/uploads/system/uploads/attachment_data/file/36451/standard-table-wards-2009-all-csv_1_.zip" aria-describedby="attachment-51648-accessibility-help" class="thumbnail"&gt;
+&lt;/section&gt;&lt;section class="attachment embedded" id="attachment_62914"&gt;&lt;div class="attachment-thumb"&gt;
+    &lt;a href="/government/uploads/system/uploads/attachment_data/file/36451/standard-table-wards-2009-all-csv_1_.zip" aria-describedby="attachment-62914-accessibility-help" class="thumbnail"&gt;
       &lt;img alt="" src="https://assets.digital.cabinet-office.gov.uk/government/assets/pub-cover-f3684e2880956dff7bb138bfb0c2bebf.png"&gt;&lt;/a&gt;  &lt;/div&gt;
   &lt;div class="attachment-details"&gt;
-    &lt;h3 class="title"&gt;&lt;a href="/government/uploads/system/uploads/attachment_data/file/36451/standard-table-wards-2009-all-csv_1_.zip" aria-describedby="attachment-51648-accessibility-help"&gt;Standard table wards: 2009 all skill level estimates csv files&lt;/a&gt;&lt;/h3&gt;
+    &lt;h3 class="title"&gt;&lt;a href="/government/uploads/system/uploads/attachment_data/file/36451/standard-table-wards-2009-all-csv_1_.zip" aria-describedby="attachment-62914-accessibility-help"&gt;Standard table wards: 2009 all skill level estimates csv files&lt;/a&gt;&lt;/h3&gt;
     &lt;p class="metadata"&gt;
       &lt;span class="type"&gt;&lt;abbr title="Zip archive"&gt;ZIP&lt;/abbr&gt;&lt;/span&gt;,
       &lt;span class="file-size"&gt;5.32 MB&lt;/span&gt;
     &lt;/p&gt;
-      &lt;div class="accessibility-warning js-toggle-accessibility-warning" id="attachment-51648-accessibility-help"&gt;
+      &lt;div class="accessibility-warning js-toggle-accessibility-warning" id="attachment-62914-accessibility-help"&gt;
         &lt;h3&gt;This file may not be accessible.
           &lt;span class="toggler"&gt;Request a different format.&lt;/span&gt;
         &lt;/h3&gt;
@@ -1100,16 +1100,16 @@
         &lt;/p&gt;
       &lt;/div&gt;
   &lt;/div&gt;
-&lt;/section&gt;&lt;section class="attachment embedded" id="attachment_51649"&gt;&lt;div class="attachment-thumb"&gt;
-    &lt;a href="/government/uploads/system/uploads/attachment_data/file/36453/standard-table-wards-2009-el-l1_1_.xlsx" aria-describedby="attachment-51649-accessibility-help" class="thumbnail"&gt;
+&lt;/section&gt;&lt;section class="attachment embedded" id="attachment_62915"&gt;&lt;div class="attachment-thumb"&gt;
+    &lt;a href="/government/uploads/system/uploads/attachment_data/file/36453/standard-table-wards-2009-el-l1_1_.xlsx" aria-describedby="attachment-62915-accessibility-help" class="thumbnail"&gt;
       &lt;img alt="" src="https://assets.digital.cabinet-office.gov.uk/government/assets/pub-cover-f3684e2880956dff7bb138bfb0c2bebf.png"&gt;&lt;/a&gt;  &lt;/div&gt;
   &lt;div class="attachment-details"&gt;
-    &lt;h3 class="title"&gt;&lt;a href="/government/uploads/system/uploads/attachment_data/file/36453/standard-table-wards-2009-el-l1_1_.xlsx" aria-describedby="attachment-51649-accessibility-help"&gt;Standard table wards: 2009 entry level &amp;amp; below and level 1 &amp;amp; above categories&lt;/a&gt;&lt;/h3&gt;
+    &lt;h3 class="title"&gt;&lt;a href="/government/uploads/system/uploads/attachment_data/file/36453/standard-table-wards-2009-el-l1_1_.xlsx" aria-describedby="attachment-62915-accessibility-help"&gt;Standard table wards: 2009 entry level &amp;amp; below and level 1 &amp;amp; above categories&lt;/a&gt;&lt;/h3&gt;
     &lt;p class="metadata"&gt;
       &lt;span class="type"&gt;MS Excel Spreadsheet&lt;/span&gt;,
       &lt;span class="file-size"&gt;9.36 MB&lt;/span&gt;
     &lt;/p&gt;
-      &lt;div class="accessibility-warning js-toggle-accessibility-warning" id="attachment-51649-accessibility-help"&gt;
+      &lt;div class="accessibility-warning js-toggle-accessibility-warning" id="attachment-62915-accessibility-help"&gt;
         &lt;h3&gt;This file may not be accessible.
           &lt;span class="toggler"&gt;Request a different format.&lt;/span&gt;
         &lt;/h3&gt;
@@ -1122,16 +1122,16 @@
         &lt;/p&gt;
       &lt;/div&gt;
   &lt;/div&gt;
-&lt;/section&gt;&lt;section class="attachment embedded" id="attachment_51650"&gt;&lt;div class="attachment-thumb"&gt;
-    &lt;a href="/government/uploads/system/uploads/attachment_data/file/36454/standard-table-wards-2009-el-l1-csv_1_.zip" aria-describedby="attachment-51650-accessibility-help" class="thumbnail"&gt;
+&lt;/section&gt;&lt;section class="attachment embedded" id="attachment_62916"&gt;&lt;div class="attachment-thumb"&gt;
+    &lt;a href="/government/uploads/system/uploads/attachment_data/file/36454/standard-table-wards-2009-el-l1-csv_1_.zip" aria-describedby="attachment-62916-accessibility-help" class="thumbnail"&gt;
       &lt;img alt="" src="https://assets.digital.cabinet-office.gov.uk/government/assets/pub-cover-f3684e2880956dff7bb138bfb0c2bebf.png"&gt;&lt;/a&gt;  &lt;/div&gt;
   &lt;div class="attachment-details"&gt;
-    &lt;h3 class="title"&gt;&lt;a href="/government/uploads/system/uploads/attachment_data/file/36454/standard-table-wards-2009-el-l1-csv_1_.zip" aria-describedby="attachment-51650-accessibility-help"&gt;Standard table wards: 2009 entry level &amp;amp; below and level 1 &amp;amp; above categories csv files&lt;/a&gt;&lt;/h3&gt;
+    &lt;h3 class="title"&gt;&lt;a href="/government/uploads/system/uploads/attachment_data/file/36454/standard-table-wards-2009-el-l1-csv_1_.zip" aria-describedby="attachment-62916-accessibility-help"&gt;Standard table wards: 2009 entry level &amp;amp; below and level 1 &amp;amp; above categories csv files&lt;/a&gt;&lt;/h3&gt;
     &lt;p class="metadata"&gt;
       &lt;span class="type"&gt;&lt;abbr title="Zip archive"&gt;ZIP&lt;/abbr&gt;&lt;/span&gt;,
       &lt;span class="file-size"&gt;3.18 MB&lt;/span&gt;
     &lt;/p&gt;
-      &lt;div class="accessibility-warning js-toggle-accessibility-warning" id="attachment-51650-accessibility-help"&gt;
+      &lt;div class="accessibility-warning js-toggle-accessibility-warning" id="attachment-62916-accessibility-help"&gt;
         &lt;h3&gt;This file may not be accessible.
           &lt;span class="toggler"&gt;Request a different format.&lt;/span&gt;
         &lt;/h3&gt;
@@ -1144,16 +1144,16 @@
         &lt;/p&gt;
       &lt;/div&gt;
   &lt;/div&gt;
-&lt;/section&gt;&lt;section class="attachment embedded" id="attachment_51651"&gt;&lt;div class="attachment-thumb"&gt;
-    &lt;a href="/government/uploads/system/uploads/attachment_data/file/36456/statistical-wards-2009-all.xlsx" aria-describedby="attachment-51651-accessibility-help" class="thumbnail"&gt;
+&lt;/section&gt;&lt;section class="attachment embedded" id="attachment_62917"&gt;&lt;div class="attachment-thumb"&gt;
+    &lt;a href="/government/uploads/system/uploads/attachment_data/file/36456/statistical-wards-2009-all.xlsx" aria-describedby="attachment-62917-accessibility-help" class="thumbnail"&gt;
       &lt;img alt="" src="https://assets.digital.cabinet-office.gov.uk/government/assets/pub-cover-f3684e2880956dff7bb138bfb0c2bebf.png"&gt;&lt;/a&gt;  &lt;/div&gt;
   &lt;div class="attachment-details"&gt;
-    &lt;h3 class="title"&gt;&lt;a href="/government/uploads/system/uploads/attachment_data/file/36456/statistical-wards-2009-all.xlsx" aria-describedby="attachment-51651-accessibility-help"&gt;2005 statistical wards: 2009 all skill level estimates&lt;/a&gt;&lt;/h3&gt;
+    &lt;h3 class="title"&gt;&lt;a href="/government/uploads/system/uploads/attachment_data/file/36456/statistical-wards-2009-all.xlsx" aria-describedby="attachment-62917-accessibility-help"&gt;2005 statistical wards: 2009 all skill level estimates&lt;/a&gt;&lt;/h3&gt;
     &lt;p class="metadata"&gt;
       &lt;span class="type"&gt;MS Excel Spreadsheet&lt;/span&gt;,
       &lt;span class="file-size"&gt;16.7 MB&lt;/span&gt;
     &lt;/p&gt;
-      &lt;div class="accessibility-warning js-toggle-accessibility-warning" id="attachment-51651-accessibility-help"&gt;
+      &lt;div class="accessibility-warning js-toggle-accessibility-warning" id="attachment-62917-accessibility-help"&gt;
         &lt;h3&gt;This file may not be accessible.
           &lt;span class="toggler"&gt;Request a different format.&lt;/span&gt;
         &lt;/h3&gt;
@@ -1166,16 +1166,16 @@
         &lt;/p&gt;
       &lt;/div&gt;
   &lt;/div&gt;
-&lt;/section&gt;&lt;section class="attachment embedded" id="attachment_51652"&gt;&lt;div class="attachment-thumb"&gt;
-    &lt;a href="/government/uploads/system/uploads/attachment_data/file/36457/statistical-wards-2009-all-csv_2_.zip" aria-describedby="attachment-51652-accessibility-help" class="thumbnail"&gt;
+&lt;/section&gt;&lt;section class="attachment embedded" id="attachment_62918"&gt;&lt;div class="attachment-thumb"&gt;
+    &lt;a href="/government/uploads/system/uploads/attachment_data/file/36457/statistical-wards-2009-all-csv_2_.zip" aria-describedby="attachment-62918-accessibility-help" class="thumbnail"&gt;
       &lt;img alt="" src="https://assets.digital.cabinet-office.gov.uk/government/assets/pub-cover-f3684e2880956dff7bb138bfb0c2bebf.png"&gt;&lt;/a&gt;  &lt;/div&gt;
   &lt;div class="attachment-details"&gt;
-    &lt;h3 class="title"&gt;&lt;a href="/government/uploads/system/uploads/attachment_data/file/36457/statistical-wards-2009-all-csv_2_.zip" aria-describedby="attachment-51652-accessibility-help"&gt;2005 statistical wards: 2009 all skill level estimates csv files&lt;/a&gt;&lt;/h3&gt;
+    &lt;h3 class="title"&gt;&lt;a href="/government/uploads/system/uploads/attachment_data/file/36457/statistical-wards-2009-all-csv_2_.zip" aria-describedby="attachment-62918-accessibility-help"&gt;2005 statistical wards: 2009 all skill level estimates csv files&lt;/a&gt;&lt;/h3&gt;
     &lt;p class="metadata"&gt;
       &lt;span class="type"&gt;&lt;abbr title="Zip archive"&gt;ZIP&lt;/abbr&gt;&lt;/span&gt;,
       &lt;span class="file-size"&gt;5.35 MB&lt;/span&gt;
     &lt;/p&gt;
-      &lt;div class="accessibility-warning js-toggle-accessibility-warning" id="attachment-51652-accessibility-help"&gt;
+      &lt;div class="accessibility-warning js-toggle-accessibility-warning" id="attachment-62918-accessibility-help"&gt;
         &lt;h3&gt;This file may not be accessible.
           &lt;span class="toggler"&gt;Request a different format.&lt;/span&gt;
         &lt;/h3&gt;
@@ -1188,16 +1188,16 @@
         &lt;/p&gt;
       &lt;/div&gt;
   &lt;/div&gt;
-&lt;/section&gt;&lt;section class="attachment embedded" id="attachment_51653"&gt;&lt;div class="attachment-thumb"&gt;
-    &lt;a href="/government/uploads/system/uploads/attachment_data/file/36458/statistical-wards-2009-el-l1_1_.xlsx" aria-describedby="attachment-51653-accessibility-help" class="thumbnail"&gt;
+&lt;/section&gt;&lt;section class="attachment embedded" id="attachment_62919"&gt;&lt;div class="attachment-thumb"&gt;
+    &lt;a href="/government/uploads/system/uploads/attachment_data/file/36458/statistical-wards-2009-el-l1_1_.xlsx" aria-describedby="attachment-62919-accessibility-help" class="thumbnail"&gt;
       &lt;img alt="" src="https://assets.digital.cabinet-office.gov.uk/government/assets/pub-cover-f3684e2880956dff7bb138bfb0c2bebf.png"&gt;&lt;/a&gt;  &lt;/div&gt;
   &lt;div class="attachment-details"&gt;
-    &lt;h3 class="title"&gt;&lt;a href="/government/uploads/system/uploads/attachment_data/file/36458/statistical-wards-2009-el-l1_1_.xlsx" aria-describedby="attachment-51653-accessibility-help"&gt;2005 statistical wards: 2009 entry level &amp;amp; below and level 1 &amp;amp; above categories&lt;/a&gt;&lt;/h3&gt;
+    &lt;h3 class="title"&gt;&lt;a href="/government/uploads/system/uploads/attachment_data/file/36458/statistical-wards-2009-el-l1_1_.xlsx" aria-describedby="attachment-62919-accessibility-help"&gt;2005 statistical wards: 2009 entry level &amp;amp; below and level 1 &amp;amp; above categories&lt;/a&gt;&lt;/h3&gt;
     &lt;p class="metadata"&gt;
       &lt;span class="type"&gt;MS Excel Spreadsheet&lt;/span&gt;,
       &lt;span class="file-size"&gt;9.35 MB&lt;/span&gt;
     &lt;/p&gt;
-      &lt;div class="accessibility-warning js-toggle-accessibility-warning" id="attachment-51653-accessibility-help"&gt;
+      &lt;div class="accessibility-warning js-toggle-accessibility-warning" id="attachment-62919-accessibility-help"&gt;
         &lt;h3&gt;This file may not be accessible.
           &lt;span class="toggler"&gt;Request a different format.&lt;/span&gt;
         &lt;/h3&gt;
@@ -1210,16 +1210,16 @@
         &lt;/p&gt;
       &lt;/div&gt;
   &lt;/div&gt;
-&lt;/section&gt;&lt;section class="attachment embedded" id="attachment_51654"&gt;&lt;div class="attachment-thumb"&gt;
-    &lt;a href="/government/uploads/system/uploads/attachment_data/file/36460/statistical-wards-2009-el-l1-csv_1_.zip" aria-describedby="attachment-51654-accessibility-help" class="thumbnail"&gt;
+&lt;/section&gt;&lt;section class="attachment embedded" id="attachment_62920"&gt;&lt;div class="attachment-thumb"&gt;
+    &lt;a href="/government/uploads/system/uploads/attachment_data/file/36460/statistical-wards-2009-el-l1-csv_1_.zip" aria-describedby="attachment-62920-accessibility-help" class="thumbnail"&gt;
       &lt;img alt="" src="https://assets.digital.cabinet-office.gov.uk/government/assets/pub-cover-f3684e2880956dff7bb138bfb0c2bebf.png"&gt;&lt;/a&gt;  &lt;/div&gt;
   &lt;div class="attachment-details"&gt;
-    &lt;h3 class="title"&gt;&lt;a href="/government/uploads/system/uploads/attachment_data/file/36460/statistical-wards-2009-el-l1-csv_1_.zip" aria-describedby="attachment-51654-accessibility-help"&gt;2005 statistical wards: 2009 entry level &amp;amp; below and level 1 &amp;amp; above categories csv files&lt;/a&gt;&lt;/h3&gt;
+    &lt;h3 class="title"&gt;&lt;a href="/government/uploads/system/uploads/attachment_data/file/36460/statistical-wards-2009-el-l1-csv_1_.zip" aria-describedby="attachment-62920-accessibility-help"&gt;2005 statistical wards: 2009 entry level &amp;amp; below and level 1 &amp;amp; above categories csv files&lt;/a&gt;&lt;/h3&gt;
     &lt;p class="metadata"&gt;
       &lt;span class="type"&gt;&lt;abbr title="Zip archive"&gt;ZIP&lt;/abbr&gt;&lt;/span&gt;,
       &lt;span class="file-size"&gt;3.17 MB&lt;/span&gt;
     &lt;/p&gt;
-      &lt;div class="accessibility-warning js-toggle-accessibility-warning" id="attachment-51654-accessibility-help"&gt;
+      &lt;div class="accessibility-warning js-toggle-accessibility-warning" id="attachment-62920-accessibility-help"&gt;
         &lt;h3&gt;This file may not be accessible.
           &lt;span class="toggler"&gt;Request a different format.&lt;/span&gt;
         &lt;/h3&gt;
@@ -1232,16 +1232,16 @@
         &lt;/p&gt;
       &lt;/div&gt;
   &lt;/div&gt;
-&lt;/section&gt;&lt;section class="attachment embedded" id="attachment_51655"&gt;&lt;div class="attachment-thumb"&gt;
-    &lt;a href="/government/uploads/system/uploads/attachment_data/file/36461/council-wards-2009-all_1_.xlsx" aria-describedby="attachment-51655-accessibility-help" class="thumbnail"&gt;
+&lt;/section&gt;&lt;section class="attachment embedded" id="attachment_62921"&gt;&lt;div class="attachment-thumb"&gt;
+    &lt;a href="/government/uploads/system/uploads/attachment_data/file/36461/council-wards-2009-all_1_.xlsx" aria-describedby="attachment-62921-accessibility-help" class="thumbnail"&gt;
       &lt;img alt="" src="https://assets.digital.cabinet-office.gov.uk/government/assets/pub-cover-f3684e2880956dff7bb138bfb0c2bebf.png"&gt;&lt;/a&gt;  &lt;/div&gt;
   &lt;div class="attachment-details"&gt;
-    &lt;h3 class="title"&gt;&lt;a href="/government/uploads/system/uploads/attachment_data/file/36461/council-wards-2009-all_1_.xlsx" aria-describedby="attachment-51655-accessibility-help"&gt;2011 council wards: 2009 all skill level estimates&lt;/a&gt;&lt;/h3&gt;
+    &lt;h3 class="title"&gt;&lt;a href="/government/uploads/system/uploads/attachment_data/file/36461/council-wards-2009-all_1_.xlsx" aria-describedby="attachment-62921-accessibility-help"&gt;2011 council wards: 2009 all skill level estimates&lt;/a&gt;&lt;/h3&gt;
     &lt;p class="metadata"&gt;
       &lt;span class="type"&gt;MS Excel Spreadsheet&lt;/span&gt;,
       &lt;span class="file-size"&gt;16.7 MB&lt;/span&gt;
     &lt;/p&gt;
-      &lt;div class="accessibility-warning js-toggle-accessibility-warning" id="attachment-51655-accessibility-help"&gt;
+      &lt;div class="accessibility-warning js-toggle-accessibility-warning" id="attachment-62921-accessibility-help"&gt;
         &lt;h3&gt;This file may not be accessible.
           &lt;span class="toggler"&gt;Request a different format.&lt;/span&gt;
         &lt;/h3&gt;
@@ -1254,16 +1254,16 @@
         &lt;/p&gt;
       &lt;/div&gt;
   &lt;/div&gt;
-&lt;/section&gt;&lt;section class="attachment embedded" id="attachment_51656"&gt;&lt;div class="attachment-thumb"&gt;
-    &lt;a href="/government/uploads/system/uploads/attachment_data/file/36462/council-wards-2009-all-csv_1_.zip" aria-describedby="attachment-51656-accessibility-help" class="thumbnail"&gt;
+&lt;/section&gt;&lt;section class="attachment embedded" id="attachment_62922"&gt;&lt;div class="attachment-thumb"&gt;
+    &lt;a href="/government/uploads/system/uploads/attachment_data/file/36462/council-wards-2009-all-csv_1_.zip" aria-describedby="attachment-62922-accessibility-help" class="thumbnail"&gt;
       &lt;img alt="" src="https://assets.digital.cabinet-office.gov.uk/government/assets/pub-cover-f3684e2880956dff7bb138bfb0c2bebf.png"&gt;&lt;/a&gt;  &lt;/div&gt;
   &lt;div class="attachment-details"&gt;
-    &lt;h3 class="title"&gt;&lt;a href="/government/uploads/system/uploads/attachment_data/file/36462/council-wards-2009-all-csv_1_.zip" aria-describedby="attachment-51656-accessibility-help"&gt;2011 council wards: 2009 all skill level estimates csv files&lt;/a&gt;&lt;/h3&gt;
+    &lt;h3 class="title"&gt;&lt;a href="/government/uploads/system/uploads/attachment_data/file/36462/council-wards-2009-all-csv_1_.zip" aria-describedby="attachment-62922-accessibility-help"&gt;2011 council wards: 2009 all skill level estimates csv files&lt;/a&gt;&lt;/h3&gt;
     &lt;p class="metadata"&gt;
       &lt;span class="type"&gt;&lt;abbr title="Zip archive"&gt;ZIP&lt;/abbr&gt;&lt;/span&gt;,
       &lt;span class="file-size"&gt;5.54 MB&lt;/span&gt;
     &lt;/p&gt;
-      &lt;div class="accessibility-warning js-toggle-accessibility-warning" id="attachment-51656-accessibility-help"&gt;
+      &lt;div class="accessibility-warning js-toggle-accessibility-warning" id="attachment-62922-accessibility-help"&gt;
         &lt;h3&gt;This file may not be accessible.
           &lt;span class="toggler"&gt;Request a different format.&lt;/span&gt;
         &lt;/h3&gt;
@@ -1276,16 +1276,16 @@
         &lt;/p&gt;
       &lt;/div&gt;
   &lt;/div&gt;
-&lt;/section&gt;&lt;section class="attachment embedded" id="attachment_51657"&gt;&lt;div class="attachment-thumb"&gt;
-    &lt;a href="/government/uploads/system/uploads/attachment_data/file/36463/council-wards-2009-el-l1_1_.xlsx" aria-describedby="attachment-51657-accessibility-help" class="thumbnail"&gt;
+&lt;/section&gt;&lt;section class="attachment embedded" id="attachment_62923"&gt;&lt;div class="attachment-thumb"&gt;
+    &lt;a href="/government/uploads/system/uploads/attachment_data/file/36463/council-wards-2009-el-l1_1_.xlsx" aria-describedby="attachment-62923-accessibility-help" class="thumbnail"&gt;
       &lt;img alt="" src="https://assets.digital.cabinet-office.gov.uk/government/assets/pub-cover-f3684e2880956dff7bb138bfb0c2bebf.png"&gt;&lt;/a&gt;  &lt;/div&gt;
   &lt;div class="attachment-details"&gt;
-    &lt;h3 class="title"&gt;&lt;a href="/government/uploads/system/uploads/attachment_data/file/36463/council-wards-2009-el-l1_1_.xlsx" aria-describedby="attachment-51657-accessibility-help"&gt;2011 council wards: 2009 entry level &amp;amp; below and level 1 &amp;amp; above categories&lt;/a&gt;&lt;/h3&gt;
+    &lt;h3 class="title"&gt;&lt;a href="/government/uploads/system/uploads/attachment_data/file/36463/council-wards-2009-el-l1_1_.xlsx" aria-describedby="attachment-62923-accessibility-help"&gt;2011 council wards: 2009 entry level &amp;amp; below and level 1 &amp;amp; above categories&lt;/a&gt;&lt;/h3&gt;
     &lt;p class="metadata"&gt;
       &lt;span class="type"&gt;MS Excel Spreadsheet&lt;/span&gt;,
       &lt;span class="file-size"&gt;9.87 MB&lt;/span&gt;
     &lt;/p&gt;
-      &lt;div class="accessibility-warning js-toggle-accessibility-warning" id="attachment-51657-accessibility-help"&gt;
+      &lt;div class="accessibility-warning js-toggle-accessibility-warning" id="attachment-62923-accessibility-help"&gt;
         &lt;h3&gt;This file may not be accessible.
           &lt;span class="toggler"&gt;Request a different format.&lt;/span&gt;
         &lt;/h3&gt;
@@ -1298,16 +1298,16 @@
         &lt;/p&gt;
       &lt;/div&gt;
   &lt;/div&gt;
-&lt;/section&gt;&lt;section class="attachment embedded" id="attachment_51658"&gt;&lt;div class="attachment-thumb"&gt;
-    &lt;a href="/government/uploads/system/uploads/attachment_data/file/36464/council-wards-2009-el-l1-csv_1_.zip" aria-describedby="attachment-51658-accessibility-help" class="thumbnail"&gt;
+&lt;/section&gt;&lt;section class="attachment embedded" id="attachment_62924"&gt;&lt;div class="attachment-thumb"&gt;
+    &lt;a href="/government/uploads/system/uploads/attachment_data/file/36464/council-wards-2009-el-l1-csv_1_.zip" aria-describedby="attachment-62924-accessibility-help" class="thumbnail"&gt;
       &lt;img alt="" src="https://assets.digital.cabinet-office.gov.uk/government/assets/pub-cover-f3684e2880956dff7bb138bfb0c2bebf.png"&gt;&lt;/a&gt;  &lt;/div&gt;
   &lt;div class="attachment-details"&gt;
-    &lt;h3 class="title"&gt;&lt;a href="/government/uploads/system/uploads/attachment_data/file/36464/council-wards-2009-el-l1-csv_1_.zip" aria-describedby="attachment-51658-accessibility-help"&gt;2011 council wards: 2009 entry level &amp;amp; below and level 1 &amp;amp; above categories csv files&lt;/a&gt;&lt;/h3&gt;
+    &lt;h3 class="title"&gt;&lt;a href="/government/uploads/system/uploads/attachment_data/file/36464/council-wards-2009-el-l1-csv_1_.zip" aria-describedby="attachment-62924-accessibility-help"&gt;2011 council wards: 2009 entry level &amp;amp; below and level 1 &amp;amp; above categories csv files&lt;/a&gt;&lt;/h3&gt;
     &lt;p class="metadata"&gt;
       &lt;span class="type"&gt;&lt;abbr title="Zip archive"&gt;ZIP&lt;/abbr&gt;&lt;/span&gt;,
       &lt;span class="file-size"&gt;3.4 MB&lt;/span&gt;
     &lt;/p&gt;
-      &lt;div class="accessibility-warning js-toggle-accessibility-warning" id="attachment-51658-accessibility-help"&gt;
+      &lt;div class="accessibility-warning js-toggle-accessibility-warning" id="attachment-62924-accessibility-help"&gt;
         &lt;h3&gt;This file may not be accessible.
           &lt;span class="toggler"&gt;Request a different format.&lt;/span&gt;
         &lt;/h3&gt;
@@ -1320,16 +1320,16 @@
         &lt;/p&gt;
       &lt;/div&gt;
   &lt;/div&gt;
-&lt;/section&gt;&lt;section class="attachment embedded" id="attachment_51659"&gt;&lt;div class="attachment-thumb"&gt;
-    &lt;a href="/government/uploads/system/uploads/attachment_data/file/36465/parliamentary-constituencies-2009-all_1_.xlsx" aria-describedby="attachment-51659-accessibility-help" class="thumbnail"&gt;
+&lt;/section&gt;&lt;section class="attachment embedded" id="attachment_62925"&gt;&lt;div class="attachment-thumb"&gt;
+    &lt;a href="/government/uploads/system/uploads/attachment_data/file/36465/parliamentary-constituencies-2009-all_1_.xlsx" aria-describedby="attachment-62925-accessibility-help" class="thumbnail"&gt;
       &lt;img alt="" src="https://assets.digital.cabinet-office.gov.uk/government/assets/pub-cover-f3684e2880956dff7bb138bfb0c2bebf.png"&gt;&lt;/a&gt;  &lt;/div&gt;
   &lt;div class="attachment-details"&gt;
-    &lt;h3 class="title"&gt;&lt;a href="/government/uploads/system/uploads/attachment_data/file/36465/parliamentary-constituencies-2009-all_1_.xlsx" aria-describedby="attachment-51659-accessibility-help"&gt;2011 parliamentary constituencies: 2009 all skill level estimates&lt;/a&gt;&lt;/h3&gt;
+    &lt;h3 class="title"&gt;&lt;a href="/government/uploads/system/uploads/attachment_data/file/36465/parliamentary-constituencies-2009-all_1_.xlsx" aria-describedby="attachment-62925-accessibility-help"&gt;2011 parliamentary constituencies: 2009 all skill level estimates&lt;/a&gt;&lt;/h3&gt;
     &lt;p class="metadata"&gt;
       &lt;span class="type"&gt;MS Excel Spreadsheet&lt;/span&gt;,
       &lt;span class="file-size"&gt;1.26 MB&lt;/span&gt;
     &lt;/p&gt;
-      &lt;div class="accessibility-warning js-toggle-accessibility-warning" id="attachment-51659-accessibility-help"&gt;
+      &lt;div class="accessibility-warning js-toggle-accessibility-warning" id="attachment-62925-accessibility-help"&gt;
         &lt;h3&gt;This file may not be accessible.
           &lt;span class="toggler"&gt;Request a different format.&lt;/span&gt;
         &lt;/h3&gt;
@@ -1342,16 +1342,16 @@
         &lt;/p&gt;
       &lt;/div&gt;
   &lt;/div&gt;
-&lt;/section&gt;&lt;section class="attachment embedded" id="attachment_51660"&gt;&lt;div class="attachment-thumb"&gt;
-    &lt;a href="/government/uploads/system/uploads/attachment_data/file/36466/parliamentary-constituencies-2009-all-csv_1_.zip" aria-describedby="attachment-51660-accessibility-help" class="thumbnail"&gt;
+&lt;/section&gt;&lt;section class="attachment embedded" id="attachment_62926"&gt;&lt;div class="attachment-thumb"&gt;
+    &lt;a href="/government/uploads/system/uploads/attachment_data/file/36466/parliamentary-constituencies-2009-all-csv_1_.zip" aria-describedby="attachment-62926-accessibility-help" class="thumbnail"&gt;
       &lt;img alt="" src="https://assets.digital.cabinet-office.gov.uk/government/assets/pub-cover-f3684e2880956dff7bb138bfb0c2bebf.png"&gt;&lt;/a&gt;  &lt;/div&gt;
   &lt;div class="attachment-details"&gt;
-    &lt;h3 class="title"&gt;&lt;a href="/government/uploads/system/uploads/attachment_data/file/36466/parliamentary-constituencies-2009-all-csv_1_.zip" aria-describedby="attachment-51660-accessibility-help"&gt;2011 parliamentary constituencies: 2009 all skill level estimates csv files&lt;/a&gt;&lt;/h3&gt;
+    &lt;h3 class="title"&gt;&lt;a href="/government/uploads/system/uploads/attachment_data/file/36466/parliamentary-constituencies-2009-all-csv_1_.zip" aria-describedby="attachment-62926-accessibility-help"&gt;2011 parliamentary constituencies: 2009 all skill level estimates csv files&lt;/a&gt;&lt;/h3&gt;
     &lt;p class="metadata"&gt;
       &lt;span class="type"&gt;&lt;abbr title="Zip archive"&gt;ZIP&lt;/abbr&gt;&lt;/span&gt;,
       &lt;span class="file-size"&gt;475 KB&lt;/span&gt;
     &lt;/p&gt;
-      &lt;div class="accessibility-warning js-toggle-accessibility-warning" id="attachment-51660-accessibility-help"&gt;
+      &lt;div class="accessibility-warning js-toggle-accessibility-warning" id="attachment-62926-accessibility-help"&gt;
         &lt;h3&gt;This file may not be accessible.
           &lt;span class="toggler"&gt;Request a different format.&lt;/span&gt;
         &lt;/h3&gt;
@@ -1364,16 +1364,16 @@
         &lt;/p&gt;
       &lt;/div&gt;
   &lt;/div&gt;
-&lt;/section&gt;&lt;section class="attachment embedded" id="attachment_51661"&gt;&lt;div class="attachment-thumb"&gt;
-    &lt;a href="/government/uploads/system/uploads/attachment_data/file/36468/parliamentary-constituencies-2009-el-l1_1_.xlsx" aria-describedby="attachment-51661-accessibility-help" class="thumbnail"&gt;
+&lt;/section&gt;&lt;section class="attachment embedded" id="attachment_62927"&gt;&lt;div class="attachment-thumb"&gt;
+    &lt;a href="/government/uploads/system/uploads/attachment_data/file/36468/parliamentary-constituencies-2009-el-l1_1_.xlsx" aria-describedby="attachment-62927-accessibility-help" class="thumbnail"&gt;
       &lt;img alt="" src="https://assets.digital.cabinet-office.gov.uk/government/assets/pub-cover-f3684e2880956dff7bb138bfb0c2bebf.png"&gt;&lt;/a&gt;  &lt;/div&gt;
   &lt;div class="attachment-details"&gt;
-    &lt;h3 class="title"&gt;&lt;a href="/government/uploads/system/uploads/attachment_data/file/36468/parliamentary-constituencies-2009-el-l1_1_.xlsx" aria-describedby="attachment-51661-accessibility-help"&gt;2011 parliamentary constituencies: 2009 entry level &amp;amp; below and level 1 &amp;amp; above categories&lt;/a&gt;&lt;/h3&gt;
+    &lt;h3 class="title"&gt;&lt;a href="/government/uploads/system/uploads/attachment_data/file/36468/parliamentary-constituencies-2009-el-l1_1_.xlsx" aria-describedby="attachment-62927-accessibility-help"&gt;2011 parliamentary constituencies: 2009 entry level &amp;amp; below and level 1 &amp;amp; above categories&lt;/a&gt;&lt;/h3&gt;
     &lt;p class="metadata"&gt;
       &lt;span class="type"&gt;MS Excel Spreadsheet&lt;/span&gt;,
       &lt;span class="file-size"&gt;735 KB&lt;/span&gt;
     &lt;/p&gt;
-      &lt;div class="accessibility-warning js-toggle-accessibility-warning" id="attachment-51661-accessibility-help"&gt;
+      &lt;div class="accessibility-warning js-toggle-accessibility-warning" id="attachment-62927-accessibility-help"&gt;
         &lt;h3&gt;This file may not be accessible.
           &lt;span class="toggler"&gt;Request a different format.&lt;/span&gt;
         &lt;/h3&gt;
@@ -1386,16 +1386,16 @@
         &lt;/p&gt;
       &lt;/div&gt;
   &lt;/div&gt;
-&lt;/section&gt;&lt;section class="attachment embedded" id="attachment_51662"&gt;&lt;div class="attachment-thumb"&gt;
-    &lt;a href="/government/uploads/system/uploads/attachment_data/file/36469/parliamentary-constituencies-2009-el-l1-csv_1_.zip" aria-describedby="attachment-51662-accessibility-help" class="thumbnail"&gt;
+&lt;/section&gt;&lt;section class="attachment embedded" id="attachment_62928"&gt;&lt;div class="attachment-thumb"&gt;
+    &lt;a href="/government/uploads/system/uploads/attachment_data/file/36469/parliamentary-constituencies-2009-el-l1-csv_1_.zip" aria-describedby="attachment-62928-accessibility-help" class="thumbnail"&gt;
       &lt;img alt="" src="https://assets.digital.cabinet-office.gov.uk/government/assets/pub-cover-f3684e2880956dff7bb138bfb0c2bebf.png"&gt;&lt;/a&gt;  &lt;/div&gt;
   &lt;div class="attachment-details"&gt;
-    &lt;h3 class="title"&gt;&lt;a href="/government/uploads/system/uploads/attachment_data/file/36469/parliamentary-constituencies-2009-el-l1-csv_1_.zip" aria-describedby="attachment-51662-accessibility-help"&gt;2011 parliamentary constituencies: 2009 entry level &amp;amp; below and level 1 &amp;amp; above categories csv files&lt;/a&gt;&lt;/h3&gt;
+    &lt;h3 class="title"&gt;&lt;a href="/government/uploads/system/uploads/attachment_data/file/36469/parliamentary-constituencies-2009-el-l1-csv_1_.zip" aria-describedby="attachment-62928-accessibility-help"&gt;2011 parliamentary constituencies: 2009 entry level &amp;amp; below and level 1 &amp;amp; above categories csv files&lt;/a&gt;&lt;/h3&gt;
     &lt;p class="metadata"&gt;
       &lt;span class="type"&gt;&lt;abbr title="Zip archive"&gt;ZIP&lt;/abbr&gt;&lt;/span&gt;,
       &lt;span class="file-size"&gt;284 KB&lt;/span&gt;
     &lt;/p&gt;
-      &lt;div class="accessibility-warning js-toggle-accessibility-warning" id="attachment-51662-accessibility-help"&gt;
+      &lt;div class="accessibility-warning js-toggle-accessibility-warning" id="attachment-62928-accessibility-help"&gt;
         &lt;h3&gt;This file may not be accessible.
           &lt;span class="toggler"&gt;Request a different format.&lt;/span&gt;
         &lt;/h3&gt;
@@ -1408,16 +1408,16 @@
         &lt;/p&gt;
       &lt;/div&gt;
   &lt;/div&gt;
-&lt;/section&gt;&lt;section class="attachment embedded" id="attachment_51663"&gt;&lt;div class="attachment-thumb"&gt;
-    &lt;a href="/government/uploads/system/uploads/attachment_data/file/36502/local-authorities-2009-all_1_.xlsx" aria-describedby="attachment-51663-accessibility-help" class="thumbnail"&gt;
+&lt;/section&gt;&lt;section class="attachment embedded" id="attachment_62929"&gt;&lt;div class="attachment-thumb"&gt;
+    &lt;a href="/government/uploads/system/uploads/attachment_data/file/36502/local-authorities-2009-all_1_.xlsx" aria-describedby="attachment-62929-accessibility-help" class="thumbnail"&gt;
       &lt;img alt="" src="https://assets.digital.cabinet-office.gov.uk/government/assets/pub-cover-f3684e2880956dff7bb138bfb0c2bebf.png"&gt;&lt;/a&gt;  &lt;/div&gt;
   &lt;div class="attachment-details"&gt;
-    &lt;h3 class="title"&gt;&lt;a href="/government/uploads/system/uploads/attachment_data/file/36502/local-authorities-2009-all_1_.xlsx" aria-describedby="attachment-51663-accessibility-help"&gt;Local authorities: 2009 all skill level estimates&lt;/a&gt;&lt;/h3&gt;
+    &lt;h3 class="title"&gt;&lt;a href="/government/uploads/system/uploads/attachment_data/file/36502/local-authorities-2009-all_1_.xlsx" aria-describedby="attachment-62929-accessibility-help"&gt;Local authorities: 2009 all skill level estimates&lt;/a&gt;&lt;/h3&gt;
     &lt;p class="metadata"&gt;
       &lt;span class="type"&gt;MS Excel Spreadsheet&lt;/span&gt;,
       &lt;span class="file-size"&gt;799 KB&lt;/span&gt;
     &lt;/p&gt;
-      &lt;div class="accessibility-warning js-toggle-accessibility-warning" id="attachment-51663-accessibility-help"&gt;
+      &lt;div class="accessibility-warning js-toggle-accessibility-warning" id="attachment-62929-accessibility-help"&gt;
         &lt;h3&gt;This file may not be accessible.
           &lt;span class="toggler"&gt;Request a different format.&lt;/span&gt;
         &lt;/h3&gt;
@@ -1430,16 +1430,16 @@
         &lt;/p&gt;
       &lt;/div&gt;
   &lt;/div&gt;
-&lt;/section&gt;&lt;section class="attachment embedded" id="attachment_51664"&gt;&lt;div class="attachment-thumb"&gt;
-    &lt;a href="/government/uploads/system/uploads/attachment_data/file/36511/local-authorities-2009-all-csv_1_.zip" aria-describedby="attachment-51664-accessibility-help" class="thumbnail"&gt;
+&lt;/section&gt;&lt;section class="attachment embedded" id="attachment_62930"&gt;&lt;div class="attachment-thumb"&gt;
+    &lt;a href="/government/uploads/system/uploads/attachment_data/file/36511/local-authorities-2009-all-csv_1_.zip" aria-describedby="attachment-62930-accessibility-help" class="thumbnail"&gt;
       &lt;img alt="" src="https://assets.digital.cabinet-office.gov.uk/government/assets/pub-cover-f3684e2880956dff7bb138bfb0c2bebf.png"&gt;&lt;/a&gt;  &lt;/div&gt;
   &lt;div class="attachment-details"&gt;
-    &lt;h3 class="title"&gt;&lt;a href="/government/uploads/system/uploads/attachment_data/file/36511/local-authorities-2009-all-csv_1_.zip" aria-describedby="attachment-51664-accessibility-help"&gt;Local authorities: 2009 all skill level estimates csv files&lt;/a&gt;&lt;/h3&gt;
+    &lt;h3 class="title"&gt;&lt;a href="/government/uploads/system/uploads/attachment_data/file/36511/local-authorities-2009-all-csv_1_.zip" aria-describedby="attachment-62930-accessibility-help"&gt;Local authorities: 2009 all skill level estimates csv files&lt;/a&gt;&lt;/h3&gt;
     &lt;p class="metadata"&gt;
       &lt;span class="type"&gt;&lt;abbr title="Zip archive"&gt;ZIP&lt;/abbr&gt;&lt;/span&gt;,
       &lt;span class="file-size"&gt;296 KB&lt;/span&gt;
     &lt;/p&gt;
-      &lt;div class="accessibility-warning js-toggle-accessibility-warning" id="attachment-51664-accessibility-help"&gt;
+      &lt;div class="accessibility-warning js-toggle-accessibility-warning" id="attachment-62930-accessibility-help"&gt;
         &lt;h3&gt;This file may not be accessible.
           &lt;span class="toggler"&gt;Request a different format.&lt;/span&gt;
         &lt;/h3&gt;
@@ -1452,16 +1452,16 @@
         &lt;/p&gt;
       &lt;/div&gt;
   &lt;/div&gt;
-&lt;/section&gt;&lt;section class="attachment embedded" id="attachment_51665"&gt;&lt;div class="attachment-thumb"&gt;
-    &lt;a href="/government/uploads/system/uploads/attachment_data/file/36512/local-authorities-2009-el-l1_1_.xlsx" aria-describedby="attachment-51665-accessibility-help" class="thumbnail"&gt;
+&lt;/section&gt;&lt;section class="attachment embedded" id="attachment_62931"&gt;&lt;div class="attachment-thumb"&gt;
+    &lt;a href="/government/uploads/system/uploads/attachment_data/file/36512/local-authorities-2009-el-l1_1_.xlsx" aria-describedby="attachment-62931-accessibility-help" class="thumbnail"&gt;
       &lt;img alt="" src="https://assets.digital.cabinet-office.gov.uk/government/assets/pub-cover-f3684e2880956dff7bb138bfb0c2bebf.png"&gt;&lt;/a&gt;  &lt;/div&gt;
   &lt;div class="attachment-details"&gt;
-    &lt;h3 class="title"&gt;&lt;a href="/government/uploads/system/uploads/attachment_data/file/36512/local-authorities-2009-el-l1_1_.xlsx" aria-describedby="attachment-51665-accessibility-help"&gt;Local authorities: 2009 entry level &amp;amp; below and level 1 &amp;amp; above categories&lt;/a&gt;&lt;/h3&gt;
+    &lt;h3 class="title"&gt;&lt;a href="/government/uploads/system/uploads/attachment_data/file/36512/local-authorities-2009-el-l1_1_.xlsx" aria-describedby="attachment-62931-accessibility-help"&gt;Local authorities: 2009 entry level &amp;amp; below and level 1 &amp;amp; above categories&lt;/a&gt;&lt;/h3&gt;
     &lt;p class="metadata"&gt;
       &lt;span class="type"&gt;MS Excel Spreadsheet&lt;/span&gt;,
       &lt;span class="file-size"&gt;464 KB&lt;/span&gt;
     &lt;/p&gt;
-      &lt;div class="accessibility-warning js-toggle-accessibility-warning" id="attachment-51665-accessibility-help"&gt;
+      &lt;div class="accessibility-warning js-toggle-accessibility-warning" id="attachment-62931-accessibility-help"&gt;
         &lt;h3&gt;This file may not be accessible.
           &lt;span class="toggler"&gt;Request a different format.&lt;/span&gt;
         &lt;/h3&gt;
@@ -1474,16 +1474,16 @@
         &lt;/p&gt;
       &lt;/div&gt;
   &lt;/div&gt;
-&lt;/section&gt;&lt;section class="attachment embedded" id="attachment_51666"&gt;&lt;div class="attachment-thumb"&gt;
-    &lt;a href="/government/uploads/system/uploads/attachment_data/file/36513/local-authorities-2009-el-l1-csv_1_.zip" aria-describedby="attachment-51666-accessibility-help" class="thumbnail"&gt;
+&lt;/section&gt;&lt;section class="attachment embedded" id="attachment_62932"&gt;&lt;div class="attachment-thumb"&gt;
+    &lt;a href="/government/uploads/system/uploads/attachment_data/file/36513/local-authorities-2009-el-l1-csv_1_.zip" aria-describedby="attachment-62932-accessibility-help" class="thumbnail"&gt;
       &lt;img alt="" src="https://assets.digital.cabinet-office.gov.uk/government/assets/pub-cover-f3684e2880956dff7bb138bfb0c2bebf.png"&gt;&lt;/a&gt;  &lt;/div&gt;
   &lt;div class="attachment-details"&gt;
-    &lt;h3 class="title"&gt;&lt;a href="/government/uploads/system/uploads/attachment_data/file/36513/local-authorities-2009-el-l1-csv_1_.zip" aria-describedby="attachment-51666-accessibility-help"&gt;Local authorities: 2009 entry level &amp;amp; below and level 1 &amp;amp; above categories csv files&lt;/a&gt;&lt;/h3&gt;
+    &lt;h3 class="title"&gt;&lt;a href="/government/uploads/system/uploads/attachment_data/file/36513/local-authorities-2009-el-l1-csv_1_.zip" aria-describedby="attachment-62932-accessibility-help"&gt;Local authorities: 2009 entry level &amp;amp; below and level 1 &amp;amp; above categories csv files&lt;/a&gt;&lt;/h3&gt;
     &lt;p class="metadata"&gt;
       &lt;span class="type"&gt;&lt;abbr title="Zip archive"&gt;ZIP&lt;/abbr&gt;&lt;/span&gt;,
       &lt;span class="file-size"&gt;176 KB&lt;/span&gt;
     &lt;/p&gt;
-      &lt;div class="accessibility-warning js-toggle-accessibility-warning" id="attachment-51666-accessibility-help"&gt;
+      &lt;div class="accessibility-warning js-toggle-accessibility-warning" id="attachment-62932-accessibility-help"&gt;
         &lt;h3&gt;This file may not be accessible.
           &lt;span class="toggler"&gt;Request a different format.&lt;/span&gt;
         &lt;/h3&gt;
@@ -1496,16 +1496,16 @@
         &lt;/p&gt;
       &lt;/div&gt;
   &lt;/div&gt;
-&lt;/section&gt;&lt;section class="attachment embedded" id="attachment_51667"&gt;&lt;div class="attachment-thumb"&gt;
-    &lt;a href="/government/uploads/system/uploads/attachment_data/file/36514/local-enterprise-partnership-areas-2009-all_1_.xlsx" aria-describedby="attachment-51667-accessibility-help" class="thumbnail"&gt;
+&lt;/section&gt;&lt;section class="attachment embedded" id="attachment_62933"&gt;&lt;div class="attachment-thumb"&gt;
+    &lt;a href="/government/uploads/system/uploads/attachment_data/file/36514/local-enterprise-partnership-areas-2009-all_1_.xlsx" aria-describedby="attachment-62933-accessibility-help" class="thumbnail"&gt;
       &lt;img alt="" src="https://assets.digital.cabinet-office.gov.uk/government/assets/pub-cover-f3684e2880956dff7bb138bfb0c2bebf.png"&gt;&lt;/a&gt;  &lt;/div&gt;
   &lt;div class="attachment-details"&gt;
-    &lt;h3 class="title"&gt;&lt;a href="/government/uploads/system/uploads/attachment_data/file/36514/local-enterprise-partnership-areas-2009-all_1_.xlsx" aria-describedby="attachment-51667-accessibility-help"&gt;Local enterprise partnership areas: 2009 all skill level estimates&lt;/a&gt;&lt;/h3&gt;
+    &lt;h3 class="title"&gt;&lt;a href="/government/uploads/system/uploads/attachment_data/file/36514/local-enterprise-partnership-areas-2009-all_1_.xlsx" aria-describedby="attachment-62933-accessibility-help"&gt;Local enterprise partnership areas: 2009 all skill level estimates&lt;/a&gt;&lt;/h3&gt;
     &lt;p class="metadata"&gt;
       &lt;span class="type"&gt;MS Excel Spreadsheet&lt;/span&gt;,
       &lt;span class="file-size"&gt;121 KB&lt;/span&gt;
     &lt;/p&gt;
-      &lt;div class="accessibility-warning js-toggle-accessibility-warning" id="attachment-51667-accessibility-help"&gt;
+      &lt;div class="accessibility-warning js-toggle-accessibility-warning" id="attachment-62933-accessibility-help"&gt;
         &lt;h3&gt;This file may not be accessible.
           &lt;span class="toggler"&gt;Request a different format.&lt;/span&gt;
         &lt;/h3&gt;
@@ -1518,16 +1518,16 @@
         &lt;/p&gt;
       &lt;/div&gt;
   &lt;/div&gt;
-&lt;/section&gt;&lt;section class="attachment embedded" id="attachment_51668"&gt;&lt;div class="attachment-thumb"&gt;
-    &lt;a href="/government/uploads/system/uploads/attachment_data/file/36515/local-enterprise-partnership-areas-2009-all-csv_1_.zip" aria-describedby="attachment-51668-accessibility-help" class="thumbnail"&gt;
+&lt;/section&gt;&lt;section class="attachment embedded" id="attachment_62934"&gt;&lt;div class="attachment-thumb"&gt;
+    &lt;a href="/government/uploads/system/uploads/attachment_data/file/36515/local-enterprise-partnership-areas-2009-all-csv_1_.zip" aria-describedby="attachment-62934-accessibility-help" class="thumbnail"&gt;
       &lt;img alt="" src="https://assets.digital.cabinet-office.gov.uk/government/assets/pub-cover-f3684e2880956dff7bb138bfb0c2bebf.png"&gt;&lt;/a&gt;  &lt;/div&gt;
   &lt;div class="attachment-details"&gt;
-    &lt;h3 class="title"&gt;&lt;a href="/government/uploads/system/uploads/attachment_data/file/36515/local-enterprise-partnership-areas-2009-all-csv_1_.zip" aria-describedby="attachment-51668-accessibility-help"&gt;Local enterprise partnership areas: 2009 all skill level estimates csv files&lt;/a&gt;&lt;/h3&gt;
+    &lt;h3 class="title"&gt;&lt;a href="/government/uploads/system/uploads/attachment_data/file/36515/local-enterprise-partnership-areas-2009-all-csv_1_.zip" aria-describedby="attachment-62934-accessibility-help"&gt;Local enterprise partnership areas: 2009 all skill level estimates csv files&lt;/a&gt;&lt;/h3&gt;
     &lt;p class="metadata"&gt;
       &lt;span class="type"&gt;&lt;abbr title="Zip archive"&gt;ZIP&lt;/abbr&gt;&lt;/span&gt;,
       &lt;span class="file-size"&gt;44.7 KB&lt;/span&gt;
     &lt;/p&gt;
-      &lt;div class="accessibility-warning js-toggle-accessibility-warning" id="attachment-51668-accessibility-help"&gt;
+      &lt;div class="accessibility-warning js-toggle-accessibility-warning" id="attachment-62934-accessibility-help"&gt;
         &lt;h3&gt;This file may not be accessible.
           &lt;span class="toggler"&gt;Request a different format.&lt;/span&gt;
         &lt;/h3&gt;
@@ -1540,16 +1540,16 @@
         &lt;/p&gt;
       &lt;/div&gt;
   &lt;/div&gt;
-&lt;/section&gt;&lt;section class="attachment embedded" id="attachment_51669"&gt;&lt;div class="attachment-thumb"&gt;
-    &lt;a href="/government/uploads/system/uploads/attachment_data/file/36516/local-enterprise-partnership-areas-2009-el-l1_1_.xlsx" aria-describedby="attachment-51669-accessibility-help" class="thumbnail"&gt;
+&lt;/section&gt;&lt;section class="attachment embedded" id="attachment_62935"&gt;&lt;div class="attachment-thumb"&gt;
+    &lt;a href="/government/uploads/system/uploads/attachment_data/file/36516/local-enterprise-partnership-areas-2009-el-l1_1_.xlsx" aria-describedby="attachment-62935-accessibility-help" class="thumbnail"&gt;
       &lt;img alt="" src="https://assets.digital.cabinet-office.gov.uk/government/assets/pub-cover-f3684e2880956dff7bb138bfb0c2bebf.png"&gt;&lt;/a&gt;  &lt;/div&gt;
   &lt;div class="attachment-details"&gt;
-    &lt;h3 class="title"&gt;&lt;a href="/government/uploads/system/uploads/attachment_data/file/36516/local-enterprise-partnership-areas-2009-el-l1_1_.xlsx" aria-describedby="attachment-51669-accessibility-help"&gt;Local enterprise partnership areas: 2009 entry level &amp;amp; below and level 1 &amp;amp; above categories&lt;/a&gt;&lt;/h3&gt;
+    &lt;h3 class="title"&gt;&lt;a href="/government/uploads/system/uploads/attachment_data/file/36516/local-enterprise-partnership-areas-2009-el-l1_1_.xlsx" aria-describedby="attachment-62935-accessibility-help"&gt;Local enterprise partnership areas: 2009 entry level &amp;amp; below and level 1 &amp;amp; above categories&lt;/a&gt;&lt;/h3&gt;
     &lt;p class="metadata"&gt;
       &lt;span class="type"&gt;MS Excel Spreadsheet&lt;/span&gt;,
       &lt;span class="file-size"&gt;73.6 KB&lt;/span&gt;
     &lt;/p&gt;
-      &lt;div class="accessibility-warning js-toggle-accessibility-warning" id="attachment-51669-accessibility-help"&gt;
+      &lt;div class="accessibility-warning js-toggle-accessibility-warning" id="attachment-62935-accessibility-help"&gt;
         &lt;h3&gt;This file may not be accessible.
           &lt;span class="toggler"&gt;Request a different format.&lt;/span&gt;
         &lt;/h3&gt;
@@ -1562,16 +1562,16 @@
         &lt;/p&gt;
       &lt;/div&gt;
   &lt;/div&gt;
-&lt;/section&gt;&lt;section class="attachment embedded" id="attachment_51670"&gt;&lt;div class="attachment-thumb"&gt;
-    &lt;a href="/government/uploads/system/uploads/attachment_data/file/36517/local-enterprise-partnership-areas-2009-el-l1-csv_1_.zip" aria-describedby="attachment-51670-accessibility-help" class="thumbnail"&gt;
+&lt;/section&gt;&lt;section class="attachment embedded" id="attachment_62936"&gt;&lt;div class="attachment-thumb"&gt;
+    &lt;a href="/government/uploads/system/uploads/attachment_data/file/36517/local-enterprise-partnership-areas-2009-el-l1-csv_1_.zip" aria-describedby="attachment-62936-accessibility-help" class="thumbnail"&gt;
       &lt;img alt="" src="https://assets.digital.cabinet-office.gov.uk/government/assets/pub-cover-f3684e2880956dff7bb138bfb0c2bebf.png"&gt;&lt;/a&gt;  &lt;/div&gt;
   &lt;div class="attachment-details"&gt;
-    &lt;h3 class="title"&gt;&lt;a href="/government/uploads/system/uploads/attachment_data/file/36517/local-enterprise-partnership-areas-2009-el-l1-csv_1_.zip" aria-describedby="attachment-51670-accessibility-help"&gt;Local enterprise partnership areas: 2009 entry level &amp;amp; below and level 1 &amp;amp; above categories csv files&lt;/a&gt;&lt;/h3&gt;
+    &lt;h3 class="title"&gt;&lt;a href="/government/uploads/system/uploads/attachment_data/file/36517/local-enterprise-partnership-areas-2009-el-l1-csv_1_.zip" aria-describedby="attachment-62936-accessibility-help"&gt;Local enterprise partnership areas: 2009 entry level &amp;amp; below and level 1 &amp;amp; above categories csv files&lt;/a&gt;&lt;/h3&gt;
     &lt;p class="metadata"&gt;
       &lt;span class="type"&gt;&lt;abbr title="Zip archive"&gt;ZIP&lt;/abbr&gt;&lt;/span&gt;,
       &lt;span class="file-size"&gt;28.5 KB&lt;/span&gt;
     &lt;/p&gt;
-      &lt;div class="accessibility-warning js-toggle-accessibility-warning" id="attachment-51670-accessibility-help"&gt;
+      &lt;div class="accessibility-warning js-toggle-accessibility-warning" id="attachment-62936-accessibility-help"&gt;
         &lt;h3&gt;This file may not be accessible.
           &lt;span class="toggler"&gt;Request a different format.&lt;/span&gt;
         &lt;/h3&gt;
@@ -1584,16 +1584,16 @@
         &lt;/p&gt;
       &lt;/div&gt;
   &lt;/div&gt;
-&lt;/section&gt;&lt;section class="attachment embedded" id="attachment_51671"&gt;&lt;div class="attachment-thumb"&gt;
-    &lt;a href="/government/uploads/system/uploads/attachment_data/file/36520/region-2009-all_1_.xlsx" aria-describedby="attachment-51671-accessibility-help" class="thumbnail"&gt;
+&lt;/section&gt;&lt;section class="attachment embedded" id="attachment_62937"&gt;&lt;div class="attachment-thumb"&gt;
+    &lt;a href="/government/uploads/system/uploads/attachment_data/file/36520/region-2009-all_1_.xlsx" aria-describedby="attachment-62937-accessibility-help" class="thumbnail"&gt;
       &lt;img alt="" src="https://assets.digital.cabinet-office.gov.uk/government/assets/pub-cover-f3684e2880956dff7bb138bfb0c2bebf.png"&gt;&lt;/a&gt;  &lt;/div&gt;
   &lt;div class="attachment-details"&gt;
-    &lt;h3 class="title"&gt;&lt;a href="/government/uploads/system/uploads/attachment_data/file/36520/region-2009-all_1_.xlsx" aria-describedby="attachment-51671-accessibility-help"&gt;Region survey estimates all skill level estimates&lt;/a&gt;&lt;/h3&gt;
+    &lt;h3 class="title"&gt;&lt;a href="/government/uploads/system/uploads/attachment_data/file/36520/region-2009-all_1_.xlsx" aria-describedby="attachment-62937-accessibility-help"&gt;Region survey estimates all skill level estimates&lt;/a&gt;&lt;/h3&gt;
     &lt;p class="metadata"&gt;
       &lt;span class="type"&gt;MS Excel Spreadsheet&lt;/span&gt;,
       &lt;span class="file-size"&gt;108 KB&lt;/span&gt;
     &lt;/p&gt;
-      &lt;div class="accessibility-warning js-toggle-accessibility-warning" id="attachment-51671-accessibility-help"&gt;
+      &lt;div class="accessibility-warning js-toggle-accessibility-warning" id="attachment-62937-accessibility-help"&gt;
         &lt;h3&gt;This file may not be accessible.
           &lt;span class="toggler"&gt;Request a different format.&lt;/span&gt;
         &lt;/h3&gt;
@@ -1606,16 +1606,16 @@
         &lt;/p&gt;
       &lt;/div&gt;
   &lt;/div&gt;
-&lt;/section&gt;&lt;section class="attachment embedded" id="attachment_51672"&gt;&lt;div class="attachment-thumb"&gt;
-    &lt;a href="/government/uploads/system/uploads/attachment_data/file/36521/region-2009-all-csv_1_.zip" aria-describedby="attachment-51672-accessibility-help" class="thumbnail"&gt;
+&lt;/section&gt;&lt;section class="attachment embedded" id="attachment_62938"&gt;&lt;div class="attachment-thumb"&gt;
+    &lt;a href="/government/uploads/system/uploads/attachment_data/file/36521/region-2009-all-csv_1_.zip" aria-describedby="attachment-62938-accessibility-help" class="thumbnail"&gt;
       &lt;img alt="" src="https://assets.digital.cabinet-office.gov.uk/government/assets/pub-cover-f3684e2880956dff7bb138bfb0c2bebf.png"&gt;&lt;/a&gt;  &lt;/div&gt;
   &lt;div class="attachment-details"&gt;
-    &lt;h3 class="title"&gt;&lt;a href="/government/uploads/system/uploads/attachment_data/file/36521/region-2009-all-csv_1_.zip" aria-describedby="attachment-51672-accessibility-help"&gt;Region survey estimates all skill level estimates csv files&lt;/a&gt;&lt;/h3&gt;
+    &lt;h3 class="title"&gt;&lt;a href="/government/uploads/system/uploads/attachment_data/file/36521/region-2009-all-csv_1_.zip" aria-describedby="attachment-62938-accessibility-help"&gt;Region survey estimates all skill level estimates csv files&lt;/a&gt;&lt;/h3&gt;
     &lt;p class="metadata"&gt;
       &lt;span class="type"&gt;&lt;abbr title="Zip archive"&gt;ZIP&lt;/abbr&gt;&lt;/span&gt;,
       &lt;span class="file-size"&gt;15.9 KB&lt;/span&gt;
     &lt;/p&gt;
-      &lt;div class="accessibility-warning js-toggle-accessibility-warning" id="attachment-51672-accessibility-help"&gt;
+      &lt;div class="accessibility-warning js-toggle-accessibility-warning" id="attachment-62938-accessibility-help"&gt;
         &lt;h3&gt;This file may not be accessible.
           &lt;span class="toggler"&gt;Request a different format.&lt;/span&gt;
         &lt;/h3&gt;
@@ -1628,16 +1628,16 @@
         &lt;/p&gt;
       &lt;/div&gt;
   &lt;/div&gt;
-&lt;/section&gt;&lt;section class="attachment embedded" id="attachment_51673"&gt;&lt;div class="attachment-thumb"&gt;
-    &lt;a href="/government/uploads/system/uploads/attachment_data/file/36522/region-2009-el-l1_1_.xlsx" aria-describedby="attachment-51673-accessibility-help" class="thumbnail"&gt;
+&lt;/section&gt;&lt;section class="attachment embedded" id="attachment_62939"&gt;&lt;div class="attachment-thumb"&gt;
+    &lt;a href="/government/uploads/system/uploads/attachment_data/file/36522/region-2009-el-l1_1_.xlsx" aria-describedby="attachment-62939-accessibility-help" class="thumbnail"&gt;
       &lt;img alt="" src="https://assets.digital.cabinet-office.gov.uk/government/assets/pub-cover-f3684e2880956dff7bb138bfb0c2bebf.png"&gt;&lt;/a&gt;  &lt;/div&gt;
   &lt;div class="attachment-details"&gt;
-    &lt;h3 class="title"&gt;&lt;a href="/government/uploads/system/uploads/attachment_data/file/36522/region-2009-el-l1_1_.xlsx" aria-describedby="attachment-51673-accessibility-help"&gt;Region survey estimates: 2009 entry level &amp;amp; below and level 1 &amp;amp; above categories&lt;/a&gt;&lt;/h3&gt;
+    &lt;h3 class="title"&gt;&lt;a href="/government/uploads/system/uploads/attachment_data/file/36522/region-2009-el-l1_1_.xlsx" aria-describedby="attachment-62939-accessibility-help"&gt;Region survey estimates: 2009 entry level &amp;amp; below and level 1 &amp;amp; above categories&lt;/a&gt;&lt;/h3&gt;
     &lt;p class="metadata"&gt;
       &lt;span class="type"&gt;MS Excel Spreadsheet&lt;/span&gt;,
       &lt;span class="file-size"&gt;47.8 KB&lt;/span&gt;
     &lt;/p&gt;
-      &lt;div class="accessibility-warning js-toggle-accessibility-warning" id="attachment-51673-accessibility-help"&gt;
+      &lt;div class="accessibility-warning js-toggle-accessibility-warning" id="attachment-62939-accessibility-help"&gt;
         &lt;h3&gt;This file may not be accessible.
           &lt;span class="toggler"&gt;Request a different format.&lt;/span&gt;
         &lt;/h3&gt;
@@ -1650,16 +1650,16 @@
         &lt;/p&gt;
       &lt;/div&gt;
   &lt;/div&gt;
-&lt;/section&gt;&lt;section class="attachment embedded" id="attachment_51674"&gt;&lt;div class="attachment-thumb"&gt;
-    &lt;a href="/government/uploads/system/uploads/attachment_data/file/36523/region-2009-el-l1-csv_1_.zip" aria-describedby="attachment-51674-accessibility-help" class="thumbnail"&gt;
+&lt;/section&gt;&lt;section class="attachment embedded" id="attachment_62940"&gt;&lt;div class="attachment-thumb"&gt;
+    &lt;a href="/government/uploads/system/uploads/attachment_data/file/36523/region-2009-el-l1-csv_1_.zip" aria-describedby="attachment-62940-accessibility-help" class="thumbnail"&gt;
       &lt;img alt="" src="https://assets.digital.cabinet-office.gov.uk/government/assets/pub-cover-f3684e2880956dff7bb138bfb0c2bebf.png"&gt;&lt;/a&gt;  &lt;/div&gt;
   &lt;div class="attachment-details"&gt;
-    &lt;h3 class="title"&gt;&lt;a href="/government/uploads/system/uploads/attachment_data/file/36523/region-2009-el-l1-csv_1_.zip" aria-describedby="attachment-51674-accessibility-help"&gt;Region survey estimates: 2009 entry level &amp;amp; below and level 1 &amp;amp; above categories csv files&lt;/a&gt;&lt;/h3&gt;
+    &lt;h3 class="title"&gt;&lt;a href="/government/uploads/system/uploads/attachment_data/file/36523/region-2009-el-l1-csv_1_.zip" aria-describedby="attachment-62940-accessibility-help"&gt;Region survey estimates: 2009 entry level &amp;amp; below and level 1 &amp;amp; above categories csv files&lt;/a&gt;&lt;/h3&gt;
     &lt;p class="metadata"&gt;
       &lt;span class="type"&gt;&lt;abbr title="Zip archive"&gt;ZIP&lt;/abbr&gt;&lt;/span&gt;,
       &lt;span class="file-size"&gt;11.5 KB&lt;/span&gt;
     &lt;/p&gt;
-      &lt;div class="accessibility-warning js-toggle-accessibility-warning" id="attachment-51674-accessibility-help"&gt;
+      &lt;div class="accessibility-warning js-toggle-accessibility-warning" id="attachment-62940-accessibility-help"&gt;
         &lt;h3&gt;This file may not be accessible.
           &lt;span class="toggler"&gt;Request a different format.&lt;/span&gt;
         &lt;/h3&gt;

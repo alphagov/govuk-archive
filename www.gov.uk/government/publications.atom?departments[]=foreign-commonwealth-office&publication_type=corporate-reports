@@ -8,18 +8,7 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-12-20T16:19:47+00:00</updated>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60198</id>
-    <published>2012-12-20T00:00:00+00:00</published>
-    <updated>2012-12-20T16:19:47+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/the-fco-digital-strategy"/>
-    <title>The FCO Digital Strategy</title>
-    <category>Publication</category>
-    <summary/>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This strategy covers the work of the Foreign and Commonwealth Office. It covers the implications of
-digital for our overall diplomatic work, as well as for our services to the British public.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
+  <updated>2012-12-28T17:30:09+00:00</updated>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/55791</id>
     <published>2012-12-12T00:00:00+00:00</published>
@@ -39,6 +28,17 @@ digital for our overall diplomatic work, as well as for our services to the Brit
     <category>Publication</category>
     <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Details of FCO’s Information and Communication Technology strategy for 2011-2015&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/61516</id>
+    <published>2012-11-06T00:00:00+00:00</published>
+    <updated>2012-12-20T16:19:47+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/the-fco-digital-strategy"/>
+    <title>The FCO Digital Strategy</title>
+    <category>Publication</category>
+    <summary></summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This strategy covers the work of the Foreign and Commonwealth Office. It covers the implications of
+digital for our overall diplomatic work, as well as for our services to the British public.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/47245</id>
@@ -152,7 +152,7 @@ Declaration on the Question of Hong Kong.&lt;/p&gt;&lt;/div&gt;</content>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/strategic-export-controls"/>
     <title>Strategic export controls</title>
     <category>Publication</category>
-    <summary/>
+    <summary></summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Foreign &amp;amp; Commonwealth Office’s Strategic Export Controls Reports demonstrate the Government’s 
 commitment to transparent and responsible controls on British arms 
 exports.The quarterly and annual reports give details by destination, of physical exports and equipment licensed for export.&lt;/p&gt;&lt;/div&gt;</content>
@@ -204,7 +204,7 @@ exports.The quarterly and annual reports give details by destination, of physica
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/fco-legal-directorate"/>
     <title>FCO Legal Directorate Business Plan 2012 to 2013</title>
     <category>Publication</category>
-    <summary/>
+    <summary></summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Foreign &amp;amp; Commonwealth Office’s (FCO) Legal Advisers provide advice to FCO Ministers and officials, including on questions of:&lt;/p&gt;
 
 &lt;ul&gt;

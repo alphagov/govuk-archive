@@ -60,6 +60,23 @@
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;In addition to publishing the business expenses incurred by the most senior Civil Servants on official duty, the Ministry of Defence will now be publishing the business expenses of the most senior Officers of the Armed Forces on a quarterly basis.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/61184</id>
+    <published>2012-11-30T00:00:00+00:00</published>
+    <updated>2012-12-21T16:59:47+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/mod-finance-transparency-dataset"/>
+    <title>MOD finance transparency dataset</title>
+    <category>Publication</category>
+    <summary>MOD and MOD Family payment data published under the government's Transparency agenda.  
+</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This page hosts the MOD and MOD Family payment data published under the government’s Transparency agenda.  &lt;/p&gt;
+
+&lt;p&gt;There is a CSV file covering each month from April 2010, subsequent files will be added by the last working day following each month end. &lt;/p&gt;
+
+&lt;p&gt;All transactions within the files relate to a payment over £25,000. In some instances the payment will appear less than £25,000, this is because some elements of the payment have not been disclosed. Recoverable VAT has been excluded along with transactions which are exempt from publication &lt;/p&gt;
+
+&lt;p&gt;For Government Procurement Card payments, the total value monthly payment to Barclaycard is shown in the monthly £25K file with a supplementary file showing the individual transactions above £500.00&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/55722</id>
     <published>2012-07-01T01:00:00+01:00</published>
     <updated>2012-12-11T15:24:21+00:00</updated>
@@ -154,14 +171,14 @@
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Dartmoor’s guaranteed public access non live firing periods&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/34153</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/61191</id>
     <published>2011-04-01T01:00:00+01:00</published>
-    <updated>2012-12-11T16:00:56+00:00</updated>
+    <updated>2013-01-04T11:01:29+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/workforce-management"/>
     <title>Workforce management</title>
     <category>Publication</category>
-    <summary>Monthly workforce management information on staff numbers and pay bill costs in the MOD.</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Details of the workforce management data for MOD. These figures are not official statistics. They are internal workforce management information published in the interests of transparency.&lt;/p&gt;&lt;/div&gt;</content>
+    <summary>Monthly workforce management information on staff numbers and pay bill costs in the Ministry of Defence.</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Details of the workforce management data for Ministry of Defence.These figures are not official statistics. They are internal workforce management information published in the interests of transparency.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/55724</id>
@@ -212,15 +229,5 @@
     <category>Publication</category>
     <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Below is supporting data for the MOD Organisation Charts June 2010 -Â  February 2011 in MS Excel and CSV format. You can re-use this data.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/55676</id>
-    <published>2010-10-01T01:00:00+01:00</published>
-    <updated>2012-12-12T14:00:45+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/senior-staff-salaries"/>
-    <title>Senior staff salaries</title>
-    <category>Publication</category>
-    <summary>Senior staff salaries of the Ministry of Defence.</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Senior staff salaries dataset gives information on &lt;abbr title="Ministry of Defence"&gt;MOD&lt;/abbr&gt; civilian salaries of those working at Director level and above.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
 </feed>
