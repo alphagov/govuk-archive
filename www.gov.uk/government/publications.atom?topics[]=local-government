@@ -8,7 +8,46 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-12-21T10:57:38+00:00</updated>
+  <updated>2013-01-07T15:51:02+00:00</updated>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/64074</id>
+    <published>2013-01-07T15:51:02+00:00</published>
+    <updated>2013-01-07T15:51:02+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/consultations/dclg-draft-statistics-plan-for-2011-to-2012"/>
+    <title>DCLG draft statistics plan for 2011 to 2012</title>
+    <category>Consultation</category>
+    <summary>Consultation on the Department for Communities and Local Government's proposals for collecting and publishing official statistics in 2011 to 2012.</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The draft statistics plan describes the Department for Communities and Local Government’s proposals for collecting and publishing official statistics over the period April 2011 to March 2012.&lt;/p&gt;
+
+&lt;p&gt;We are seeking:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;users’ reactions to our proposals and their views on whether our planned deployment of resources will meet their needs&lt;/li&gt;
+  &lt;li&gt;suggestions for the development of any new statistics, products or services&lt;/li&gt;
+  &lt;li&gt;suggestions for any further reductions in the amount of data we collect and publish (beyond those already submitted in the context of the &lt;a href="https://www.gov.uk/government/policies/making-local-councils-more-transparent-and-accountable-to-local-people/supporting-pages/single-data-list"&gt;‘single data list’&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;information from users about the particular uses to which they put our statistics&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/61045</id>
+    <published>2013-01-02T00:00:00+00:00</published>
+    <updated>2013-01-07T11:11:06+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/local-sustainable-transport-fund-project-summaries"/>
+    <title>Local Sustainable Transport Fund project summaries</title>
+    <category>Publication</category>
+    <summary>Local Sustainable Transport Fund project summary information.</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Department for Transport has awarded Local Sustainable Transport Fund (&lt;abbr title="Local Sustainable Transport Fund"&gt;LSTF&lt;/abbr&gt;) funding in 3 streams. Tranche 1 and key component projects were awarded in July 2011. This was followed by 2 funding announcements in May and June 2012, for large projects above £5 million and tranche 2 of smaller projects. &lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/61052</id>
+    <published>2013-01-02T00:00:00+00:00</published>
+    <updated>2013-01-07T11:11:48+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/local-sustainable-transport-fund-application-process-and-bidding-guidance"/>
+    <title>Local Sustainable Transport Fund application process and bidding guidance</title>
+    <category>Publication</category>
+    <summary>Guidance on the Local Sustainable Transport Fund application process.</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;These documents were produced to support the Local Sustainable Transport Fund application process. They were published and made available to all project teams.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/60312</id>
     <published>2012-12-21T00:00:00+00:00</published>
@@ -192,6 +231,20 @@
 &lt;/ul&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60885</id>
+    <published>2012-12-19T00:00:00+00:00</published>
+    <updated>2012-12-28T11:16:12+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/business-rates-retention-and-the-local-government-finance-settlement-a-practitioners-guide"/>
+    <title>Business rates retention and the local government finance settlement: a practitioners guide</title>
+    <category>Publication</category>
+    <summary>An overview of the calculations set out in the local government finance settlement report 2013 to 2014 and the draft report 2014 to 2015.</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This guide provides an overview of the calculations set out in the local government finance settlement report 2013 to 2014 and the draft local government finance settlement report 2014 to 2015. It sets out how the business rates retention scheme has been set up and how it will operate. &lt;/p&gt;
+
+&lt;p&gt;This guide is aimed at local authority practitioners and is intended to be read alongside both local government finance reports and supporting documents which can be found on the &lt;a rel="external" href="http://www.local.communities.gov.uk/finance/1314/settle.htm" title="Local government finance settlement 2013 to 2014"&gt;local government finance settlement 2013 to 2014&lt;/a&gt; website. &lt;/p&gt;
+
+&lt;p&gt;A glossary explaining the terminology used in the reports and in this document can be found at annex A.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/59917</id>
     <published>2012-12-19T00:00:00+00:00</published>
     <updated>2012-12-19T11:47:57+00:00</updated>
@@ -222,20 +275,6 @@
     <category>Publication</category>
     <summary>An overview of the local government finance settlement for 2013 to 2014.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;A guide explaining the changes to business rates and what the proposals mean for councils, local residents, businesses, charities, developers, and the police and fire and rescue authorities.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60885</id>
-    <published>2012-12-19T00:00:00+00:00</published>
-    <updated>2012-12-28T11:16:12+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/business-rates-retention-and-the-local-government-finance-settlement-a-practitioners-guide"/>
-    <title>Business rates retention and the local government finance settlement: a practitioners guide</title>
-    <category>Publication</category>
-    <summary>An overview of the calculations set out in the local government finance settlement report 2013 to 2014 and the draft report 2014 to 2015.</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This guide provides an overview of the calculations set out in the local government finance settlement report 2013 to 2014 and the draft local government finance settlement report 2014 to 2015. It sets out how the business rates retention scheme has been set up and how it will operate. &lt;/p&gt;
-
-&lt;p&gt;This guide is aimed at local authority practitioners and is intended to be read alongside both local government finance reports and supporting documents which can be found on the &lt;a rel="external" href="http://www.local.communities.gov.uk/finance/1314/settle.htm" title="Local government finance settlement 2013 to 2014"&gt;local government finance settlement 2013 to 2014&lt;/a&gt; website. &lt;/p&gt;
-
-&lt;p&gt;A glossary explaining the terminology used in the reports and in this document can be found at annex A.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/57070</id>
@@ -350,16 +389,34 @@
 &lt;p&gt;This draft statutory instrument effects these upratings and is being published ahead of the regulations being made, to give authorities early notice of the changes required.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56534</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/64092</id>
     <published>2012-12-12T00:00:00+00:00</published>
     <updated>2012-12-12T11:57:26+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/local-sustainable-transport-fund-monitoring-and-evaluation-framework"/>
     <title>Local Sustainable Transport Fund monitoring and evaluation framework</title>
     <category>Publication</category>
-    <summary>Expectations for the monitoring and evaluation of projects funded through the Local Sustainable Transport Fund.</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This framework sets out the department’s requirements from the monitoring and evaluation activity of Local Sustainable Transport Fund (&lt;abbr title="Local Sustainable Transport fund"&gt;LSTF&lt;/abbr&gt;) projects and the roles of the department and project teams in delivering these. &lt;/p&gt;
+    <summary>Expectations for the monitoring and evaluation of projects supported through the Local Sustainable Transport Fund.</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Department for Transport has published a framework for how &lt;abbr title="Local Sustainable Transport fund"&gt;LSTF&lt;/abbr&gt; projects should be monitored and evaluated by the project teams. Three principles have led to the development of this framework:&lt;/p&gt;
 
-&lt;p&gt;The framework articulates which &lt;abbr title="Local Sustainable Transport fund"&gt;LSTF&lt;/abbr&gt; projects are expected to fulfil which elements of monitoring and evaluation and provides project teams with the flexibility to collect evidence in a way that reflects the local variation of projects and data availability.&lt;/p&gt;&lt;/div&gt;</content>
+&lt;ul&gt;
+&lt;li&gt;proportionality – adopting a light-touch resource efficient approach to monitoring (where possible using existing data sources)&lt;/li&gt;
+  &lt;li&gt;partnership – collaborative working across local authorities, government departments, academics and other organisations&lt;/li&gt;
+  &lt;li&gt;prioritisation – developing the evidence base to inform future local and national decision making (by targeting evidence gaps)&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;To deliver this approach, there are three basic components to the framework; however, not all projects are required to deliver all of them. &lt;/p&gt;
+
+&lt;h2 id="annual-outputs-reporting"&gt;Annual outputs reporting&lt;/h2&gt;
+
+&lt;p&gt;All project teams are expected to deliver this level of monitoring, which reports what the investment has been spent on. First tranche project teams have already undertaken this reporting, and we are now evaluating in readiness for the next round of reports. &lt;/p&gt;
+
+&lt;h2 id="outcomes-monitoring"&gt;Outcomes monitoring&lt;/h2&gt;
+
+&lt;p&gt;Large project teams only will be required to develop and deliver bespoke monitoring schemes. These will examine metrics relevant to the project, such as traffic levels and use of sustainable modes, and the factors which drive economic growth and carbon reduction.&lt;/p&gt;
+
+&lt;p&gt;A detailed technical annex is provided to support large projects in building their monitoring schemes.&lt;/p&gt;
+
+&lt;h2 id="case-studies"&gt;Case studies&lt;/h2&gt;
+
+&lt;p&gt;A few key priority questions, where evidence is weakest, have been identified and these will become case studies. Led by a project team and in partnership with other teams, these will provide a detailed account of how specific sustainable travel measures work and how the impacts vary.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/56701</id>
@@ -408,47 +465,5 @@
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The administrative elements will in future operate under existing Council Tax provisions in the Local Government Finance Act and related regulations.&lt;/p&gt;
 
 &lt;p&gt;This note will provide clarity for local authorities on how some administrative elements will be dealt with under these provisions, where these are not covered in the Default Scheme and Prescribed Requirements Regulations.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/18644</id>
-    <published>2012-11-27T00:00:00+00:00</published>
-    <updated>2012-12-05T12:10:44+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/local-authority-revenue-expenditure-and-financing-england-2010-to-2011-individual-local-authority-data--5"/>
-    <title>Local authority revenue expenditure and financing England: 2010 to 2011 individual local authority data</title>
-    <category>Publication</category>
-    <summary></summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The data in the above spreadsheets have been used to compile the final outturn estimates of local authority revenue expenditure and financing for the financial year April 2010 to March 2011. &lt;/p&gt;
-
-&lt;p&gt;Since the publication of the original final outturn statistical release (4 April 2012), the data in these spreadsheets have been revised on 27 November 2012. The changes over the previously published figures are generally small.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/16973</id>
-    <published>2012-11-26T14:34:38+00:00</published>
-    <updated>2012-11-26T14:34:38+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/consultations/localising-support-for-council-tax-council-tax-base"/>
-    <title>Localising support for Council Tax: Council Tax base</title>
-    <category>Consultation</category>
-    <summary></summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Localising Council Tax support is part of a wider set of reforms to the welfare system.&lt;/p&gt;
-
-&lt;p&gt;This consultation sets out the government’s proposals to provide certainty to local precepting authorities by allowing the Council Tax base for those areas to be calculated excluding localised Council Tax support reductions.&lt;/p&gt;
-
-&lt;p&gt;It seeks views on:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;the government’s proposals for providing certainty for the funding of local precepting authorities&lt;/li&gt;
-  &lt;li&gt;whether proposals for providing certainty to local precepting authorities should also be applied for all special items&lt;/li&gt;
-  &lt;li&gt;the draft amending statutory instrument&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/16974</id>
-    <published>2012-11-26T14:31:50+00:00</published>
-    <updated>2012-11-26T14:31:50+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/consultations/localising-support-for-council-tax-funding-arrangements"/>
-    <title>Localising support for Council Tax: funding arrangements</title>
-    <category>Consultation</category>
-    <summary></summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Local Government Finance Bill includes provisions for local council tax support schemes in England. This document sets out how the Government intends to distribute funding to support local schemes and seeks views on possible adjustments to allocations to avoid potential budgetary pressures in a few authorities. It is published alongside statements of intent for the key sets of regulations which will provide the legal framework for local schemes.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
 </feed>

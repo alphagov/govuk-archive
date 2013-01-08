@@ -181,6 +181,18 @@
 &lt;/ul&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
+    <id>tag:www.gov.uk,2005:Publication/62269</id>
+    <published>2012-12-13T00:00:00+00:00</published>
+    <updated>2012-12-13T09:30:03+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/fire-statistics-great-britain-2011-to-2012"/>
+    <title>Fire statistics Great Britain 2011 to 2012</title>
+    <category>Publication</category>
+    <summary>Data on incidents attended by fire and rescue services across Great Britain.</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Annual bulletin presenting detailed statistics on fires, casualties and false alarms attended by fire and rescue services across Great Britain.&lt;/p&gt;
+
+&lt;p&gt;The bulletin includes analysis of the causes of fires, casualties and smoke alarms ownership and function. Trends over time are shown, together with a breakdown of incidents by type of property and geographical location.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
     <id>tag:www.gov.uk,2005:Publication/17621</id>
     <published>2012-12-03T00:00:00+00:00</published>
     <updated>2012-12-04T10:24:10+00:00</updated>
@@ -197,6 +209,16 @@
   &lt;li&gt;government’s policy statement on business rates retention&lt;/li&gt;
   &lt;li&gt;publication of operational guidance and generic risk assessments&lt;/li&gt;
 &lt;/ul&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:Publication/62735</id>
+    <published>2012-11-29T00:00:00+00:00</published>
+    <updated>2012-11-29T09:43:21+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/firefighters-pension-schemes-membership-data-england-2011-to-2012"/>
+    <title>Firefighters' pension schemes membership data England, 2011 to 2012</title>
+    <category>Publication</category>
+    <summary>Membership information on firefighters’ pension schemes in England.</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This release provides membership information on the firefighters’ pension schemes submitted by all 46 fire authorities in England.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:Publication/17107</id>
@@ -219,26 +241,5 @@
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Generic risk assessment 5.7 examines the hazards, risks and control measures relating to incidents involving ‘commercial’ explosives, while in manufacture, storage or transportation. It does not cover improvised explosive devices.&lt;/p&gt;
 
 &lt;p&gt;This replaces the guidance published in November 2008.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:Publication/16920</id>
-    <published>2012-11-25T00:00:00+00:00</published>
-    <updated>2012-11-25T12:36:08+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/firefighters-pension-scheme-reforms"/>
-    <title>Firefighters’ pension scheme reforms</title>
-    <category>Publication</category>
-    <summary>Details of the firefighters' pension scheme from 2015.</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This document provides details of the firefighters’ pension scheme from 2015. It relates to the &lt;a href="https://www.gov.uk/government/publications/firefighters-pension-scheme-heads-of-agreement"&gt;heads
-of agreement&lt;/a&gt; on the core parameters for reforms to the firefighters’ pension scheme that was published by the Department for Communities and Local Government on 9 February 2012.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:Publication/16737</id>
-    <published>2012-11-22T00:00:00+00:00</published>
-    <updated>2012-11-22T16:26:28+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/hazardous-materials-operational-guidance-for-the-fire-and-rescue-service"/>
-    <title>Hazardous materials: operational guidance for the fire and rescue service</title>
-    <category>Publication</category>
-    <summary>Best practice guidance to help fire and rescue authorities to resolve incidents involving hazardous materials safely and efficiently.</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This document provides comprehensive yet flexible guidance that can be adapted to the nature, scale and requirements of the incident. It consolidates the content of over 500 items of previously published subject related documents.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
 </feed>
