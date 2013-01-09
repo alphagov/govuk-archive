@@ -128,16 +128,6 @@
 &lt;p&gt;We’re supporting the &lt;a rel="external" href="http://data.gov.uk/blog/local-public-data-panel" title="data.gov.uk: Local Public Data Panel"&gt;Local Public Data Panel,&lt;/a&gt; an independent panel of experts on open data and transparency chaired by Professor Nigel Shadbolt. The panel was set up to make local public services better understood and more accessible. Its members include local authorities, community activists and web developers.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:Publication/61045</id>
-    <published>2013-01-02T00:00:00+00:00</published>
-    <updated>2013-01-07T11:11:06+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/local-sustainable-transport-fund-project-summaries"/>
-    <title>Local Sustainable Transport Fund project summaries</title>
-    <category>Publication</category>
-    <summary>Local Sustainable Transport Fund project summary information.</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Department for Transport has awarded Local Sustainable Transport Fund (&lt;abbr title="Local Sustainable Transport Fund"&gt;LSTF&lt;/abbr&gt;) funding in 3 streams. Tranche 1 and key component projects were awarded in July 2011. This was followed by 2 funding announcements in May and June 2012, for large projects above £5 million and tranche 2 of smaller projects. &lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
     <id>tag:www.gov.uk,2005:Publication/61052</id>
     <published>2013-01-02T00:00:00+00:00</published>
     <updated>2013-01-07T11:11:48+00:00</updated>
@@ -146,6 +136,16 @@
     <category>Publication</category>
     <summary>Guidance on the Local Sustainable Transport Fund application process.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;These documents were produced to support the Local Sustainable Transport Fund application process. They were published and made available to all project teams.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:Publication/61045</id>
+    <published>2013-01-02T00:00:00+00:00</published>
+    <updated>2013-01-07T11:11:06+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/local-sustainable-transport-fund-project-summaries"/>
+    <title>Local Sustainable Transport Fund project summaries</title>
+    <category>Publication</category>
+    <summary>Local Sustainable Transport Fund project summary information.</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Department for Transport has awarded Local Sustainable Transport Fund (&lt;abbr title="Local Sustainable Transport Fund"&gt;LSTF&lt;/abbr&gt;) funding in 3 streams. Tranche 1 and key component projects were awarded in July 2011. This was followed by 2 funding announcements in May and June 2012, for large projects above £5 million and tranche 2 of smaller projects. &lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:NewsArticle/64108</id>

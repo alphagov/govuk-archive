@@ -1,0 +1,807 @@
+Annex Data Tables,,,
+Analysis of the data summarised in the tables below can be found in the Equality Monitoring Report for DfT(C) 2011/12.,,,
+Date published: 03/12/2012,,,
+"Data formats: These tables, describing the underlying data used, are available both as an Excel workbook and in this comma-separated values (CSV) file. Data is tabulated, and rows and/or columns may be combined, to protect the identity of individuals.",,,
+
+1.  Demographics,,,
+
+Tables in section 1 summarise diversity data collected on all permanent and fixed term members of staff in post in DfT(C) on 31st March 2012.,,,
+Members of staff on long-term leave (including maternity leave) have been excluded.,,,
+
+Table 1.1: Staff by Location and Sex,,,
+
+Table 1.1(a): Figures,,,
+,Male,Female,Total
+London,892,526,"1,418"
+Hastings ,50,32,82
+Other ,136,60,196
+Total,"1,078",618,"1,696"
+
+Table 1.1(b): Percentages of Location Total,,,
+,Male,Female,
+London,62.90%,37.10%,
+Hastings ,61.00%,39.00%,
+Other ,69.40%,30.60%,
+
+Table 1.1(c): Percentages for Local Population,,,
+,Male,Female,
+London,50.20%,49.80%,
+Hastings ,48.80%,51.20%,
+Other ,50.00%,50.00%,
+
+
+Table 1.2: Staff by Location and Race,,,,
+
+Table 1.2(a): Figures,,,,
+,White,BME,Unknown,Total
+London,918,211,289,"1,418"
+Hastings ,76,0,6,82
+Other ,138,7,51,196
+Total,"1,132",218,346,"1,696"
+
+Table 1.2(b): Percentages of Location Total,,,,
+,White,BME,Unknown,
+London,64.70%,14.90%,20.40%,
+Hastings ,92.70%,0.00%,7.30%,
+Other ,70.40%,3.60%,26.00%,
+
+Table 1.2(c): Percentages for Local Population,,,,
+,White,BME,,
+London,76.30%,23.70%,,
+Hastings ,97.50%,2.50%,,
+Other ,88.40%,11.60%,,
+
+
+Table 1.3: Staff by Location and Disabled Status,,,,
+
+Table 1.3(a): Figures,,,,
+,Non-disabled,Disabled,Unknown,Total
+London,"1,157",64,197,"1,418"
+Hastings ,67,10,5,82
+Other ,147,4,45,196
+Total,"1,371",78,247,"1,696"
+
+Table 1.3(b): Percentages of Location Total,,,,
+,Non-disabled,Disabled,Unknown
+London,81.60%,4.50%,13.90%
+Hastings ,81.70%,12.20%,6.10%
+Other ,75.00%,2.00%,23.00%
+
+Table 1.3(c): Percentages for Local Population,,,
+,Non-disabled,Disabled,
+London,82.30%,17.70%,
+Hastings ,75.70%,24.30%,
+Other ,79.10%,20.90%,
+
+
+Table 1.4: Staff by Pay Band,,,
+
+Table 1.4(a): Total Number of Staff by Pay Band,,,
+,Total Staff,,
+PB1,3
+PB2,114
+PB3,205
+PB4,344
+PB4FS,84
+PB5,241
+PB6,374
+PB7,170
+SCSPB1,132
+SCSPB2,24
+SCSPB3&4,5
+Total,"1,696"
+
+Table 1.4(b): Total Number of FTE by Pay Band,
+,Total Staff by FTE
+PB1,3
+PB2,110
+PB3,197
+PB4,337
+PB4FS,83
+PB5,236
+PB6,365
+PB7,165
+SCSPB1,129
+SCSPB2,22
+SCSPB3&4,5
+Total,"1,653"
+
+
+Table 1.5: Staff by Race,
+
+Table 1.5(a): Staff by Race (high-level),
+,PB1,PB2,PB3,PB4,PB4FS,PB5,PB6,PB7,SCSPB1,SCSPB2,SCSPB3&4,Total
+White,1,64,112,203,55,173,264,127,110,20,3,"1,132"
+BME,0,31,56,58,5,28,28,10,2,0,0,218
+Unknown,2,19,37,83,24,40,82,33,20,4,2,346
+Total,3,114,205,344,84,241,374,170,132,24,5,"1,696"
+
+Table 1.5(b): Staff by Race,,,,,,,,,,,,
+
+"In the table below, 'Mixed' includes those who declared themselves to be White & Black Caribbean, White & Black African, White & Asian or of any other mixed background.",,,,,,,,,,,,
+"'Asian' includes all those who declared themselves to be Asian or Asian British, including Indian, Pakistani, Bangladeshi, Chinese or of any other Asian background.",,,,,,,,,,,,
+"'Black' includes all those who declared themselves to be Black, Black British, African, Caribbean, or of any other Black/African/Caribbean background.",,,,,,,,,,,,
+'Other' includes all those who declared themselves to be Arab or of any other ethnic group.,,,,,,,,,,,,
+
+,Total Staff,,,,,,,,,,,
+White,1132,,,,,,,,,,,
+Mixed,29,,,,,,,,,,,
+Asian,92,,,,,,,,,,,
+Black,85,,,,,,,,,,,
+Other,12,,,,,,,,,,,
+Unknown,346,,,,,,,,,,,
+Total,"1,696",,,,,,,,,,,
+
+
+Table 1.6: Staff by Sex,,,,,,,,,,,,
+
+,PB1,PB2,PB3,PB4,PB4FS,PB5,PB6,PB7,SCSPB1,SCSPB2,SCSPB3&4,Total
+Male,3,36,116,212,46,174,249,125,95,19,3,"1,078"
+Female,0,78,89,132,38,67,125,45,37,5,2,618
+Total,3,114,205,344,84,241,374,170,132,24,5,"1,696"
+
+
+Table 1.7: Staff by Disabled Status,,,,,,,,,,,,
+
+Table 1.7(a): Summary of Staff by Disabled Status,,,,,,,,,,
+Non-disabled,Disabled,Unknown,,,,,,,,
+1371,78,247,,,,,,,,
+
+Table 1.7(b): Staff by Disabled Status and Pay Band,,,,,,,,,,
+,PB1-2,PB3,PB4,PB4FS,PB5,PB6,PB7,SCSPB1,SCSPB2-4,Total
+Non-disabled,99,166,269,56,188,314,147,113,19,"1,371"
+Disabled,6,14,16,10,13,11,3,4,1,78
+Unknown,12,25,59,18,40,49,20,15,9,247
+Total,117,205,344,84,241,374,170,132,29,"1,696"
+
+Table 1.7(c): Staff by Disabled Status and Sex,,,,,,,,,,
+,Male,Female,,,,,,,,
+Non-disabled,878,493,,,,,,,,
+Disabled,48,30,,,,,,,,
+Unknown,152,95,,,,,,,,,,
+Total,"1,078",618,,,,,,,,,,
+
+
+Table 1.8: Staff by Working Pattern,,,,,,,,,,,,
+
+Table 1.8(a): Staff by Pay Band,,,,,,,,,,,,
+,PB1,PB2,PB3,PB4,PB4FS,PB5,PB6,PB7,SCSPB1,SCSPB2,SCSPB3&4,Total
+Full-time,3,100,180,324,80,226,345,151,119,19,5,"1,552"
+Part-time,0,14,25,20,4,15,29,19,13,5,0,144
+Total,3,114,205,344,84,241,374,170,132,24,5,"1,696"
+
+Table 1.8(b): Staff by Pay Band and Working Pattern,,,,,,,,,,,,
+Table 1.8(b)(i): Male Staff by Pay Band and Working Pattern,,,,,,,,,,,,
+,PB1,PB2,PB3,PB4,PB4FS,PB5,PB6,PB7,SCSPB1,SCSPB2,SCSPB3&4,Total
+Full-time,3,35,110,210,45,169,243,121,91,16,3,"1,046"
+Part-time,0,1,6,2,1,5,6,4,4,3,0,32
+Total,3,36,116,212,46,174,249,125,95,19,3,"1,078"
+
+Table 1.8(b)(ii): Female Staff by Pay Band and Working Pattern,,,,,,,,,,,,
+,PB1,PB2,PB3,PB4,PB4FS,PB5,PB6,PB7,SCSPB1,SCSPB2,SCSPB3&4,Total
+Full-time,0,65,70,114,35,57,102,30,28,3,2,506
+Part-time,0,13,19,18,3,10,23,15,9,2,0,112
+Total,0,78,89,132,38,67,125,45,37,5,2,618
+
+Table 1.8(c): Figures as a Percentage of FTE Group,,,,,,,,,,,,
+Table 1.8(c)(i): Male Staff by Pay Band and Working Pattern,,,,,,,,,,,,
+,PB1,PB2,PB3,PB4,PB4FS,PB5,PB6,PB7,SCSPB1,SCSPB2,SCSPB3&4,Total
+Full-time,100.00%,97.20%,94.80%,99.10%,97.80%,97.10%,97.60%,96.80%,95.80%,84.20%,100.00%,"1,046"
+Part-time,0.00%,2.80%,5.20%,0.90%,2.20%,2.90%,2.40%,3.20%,4.20%,15.80%,0.00%,32
+
+Table 1.8(c)(ii): Female Staff by Pay Band and Working Pattern,,,,,,,,,,,,
+,PB1,PB2,PB3,PB4,PB4FS,PB5,PB6,PB7,SCSPB1,SCSPB2,SCSPB3&4,Total
+Full-time,0.00%,83.30%,78.70%,86.40%,92.10%,85.10%,81.60%,66.70%,75.70%,60.00%,100.00%,506
+Part-time,0.00%,16.70%,21.30%,13.60%,7.90%,14.90%,18.40%,33.30%,24.30%,40.00%,0.00%,112
+
+
+Table 1.9: Staff by Job Role,,,,,,,,,,,,
+
+,PB1,PB2,PB3,PB4,PB4FS,PB5,PB6,PB7,SCSPB1,SCSPB2,SCSPB3&4,Total
+Non-Specialist Pay Band,3,114,205,343,84,234,322,152,132,24,5,"1,618"
+Specialist Pay Band,0,0,0,1,0,7,52,18,0,0,0,78
+Total,3,114,205,344,84,241,374,170,132,24,5,"1,696"
+
+
+Table 1.10: Staff by Age Group,,,,,,,,,,,,
+
+,Male,Female,Total,,,,,,,,,
+Under 20,0,0,0
+20-24,12,12,24
+25-29,71,62,133
+30-34,106,109,215
+35-39,145,94,239
+40-44,164,100,264
+45-49,206,93,299
+50-54,181,78,259
+55-59,127,50,177
+60-64,57,19,76
+65 and over,9,1,10
+Total,"1,078",618,"1,696"
+
+
+Table 1.11: Staff by Age Group & Pay Band,,,
+
+,PB1,PB2,PB3,PB4,PB4FS,PB5,PB6,PB7,SCSPB1,SCSPB2,SCSPB3&4,Total
+Under 20,0,0,0,0,0,0,0,0,0,0,0,0
+20-24,0,0,2,4,16,2,0,0,0,0,0,24
+25-29,0,5,21,27,55,5,19,1,0,0,0,133
+30-34,1,13,22,49,9,34,68,12,7,0,0,215
+35-39,0,11,22,54,2,42,65,25,17,1,0,239
+40-44,0,16,38,46,1,36,60,34,31,2,0,264
+45-49,0,16,38,62,0,43,70,33,26,9,2,299
+50-54,2,25,33,46,0,38,53,29,26,4,3,259
+55-59,0,14,20,39,1,23,29,26,19,6,0,177
+60-64,0,13,6,17,0,15,9,9,5,2,0,76
+65 and over,0,1,3,0,0,3,1,1,1,0,0,10
+Total,3,114,205,344,84,241,374,170,132,24,5,"1,696"
+
+
+Table 1.12: Religion and Belief,,,,,,,,,,,,
+
+"Table 1.12 summarises records on the religion and belief of staff in post on 31st March 2012. Staff were grouped into 'Declared a religion', 'No religion declared' and 'Unknown':",
+"'Declared a religion' represents all those who declared themselves to be Buddhist, Christian, Hindu, Jewish, Muslim, Sikh, or of any other religion or belief.",
+"'No religion declared' includes all staff who declared themselves to be Atheist, Agnostic, or of no religion.",
+Please note that there may be years where all staff are listed as having 'Unknown' or 'Unknown/Undeclared' belief; this is due to data not being collected for the purposes of this report in those years.,
+
+Table 1.12(a): Staff in Post by Religion or Belief (High-Level),
+,Total Staff
+Declared a religion,618
+No religion declared,271
+Religion/Belief Unknown/Undeclared,807
+Total,"1,696"
+
+Table 1.12(b): Staff in Post by Religion or Belief,
+,Total Staff
+Atheist,113
+Agnostic,158
+Buddhist,2
+Christian,518
+Hindu,38
+Jewish,7
+Muslim,29
+Sikh,11
+No religion,0
+Any other religion or belief,13
+Undeclared / unknown,807
+Total,"1,696"
+
+
+Table 1.13: Sexual Orientation,
+
+"Table 1.13 summarises records on the Sexual Orientation of staff in post on 31st March 2012. Staff were grouped into 'Heterosexual', 'LGB' and 'Unknown/Undeclared': ",
+"'LGB' includes all staff who declared themselves to be lesbian, a gay man, or bisexual.",
+
+,Total Staff
+Heterosexual,908
+LGB,47
+Sexual Orientation Unknown/Undeclared,741
+Total,"1,696"
+
+
+Table 1.14: Maternity Leave,
+
+"Table 1.14 gives the number of staff on maternity leave on 31st March 2012, and the number of staff returning from maternity leave during 2011/12",
+
+,2011/2012
+Currently on maternity leave,14
+Returned from maternity leave,31
+
+
+
+2.  Recruitment,,,,,,,
+
+Tables in section 2 summarise diversity data collected on all applicants to positions within DfT(C) who applied for campaigns launched between 1st April 2011 and 31st March 2012.,,,,,,,
+The tables below include applicants who did not declare their sex. These applicants were excluded from the statistical analysis.,,,,,,,
+
+Tables 2.1-2.6: All Recruitment (Internal & External Campaigns),,,,,,,
+
+Table 2.1: Recruitment by Pay Band,,,,,,,
+
+,PB2,PB3,PB4,PB5,PB6,PB7,Total
+All applications received,93,90,259,264,647,148,"1,501"
+Successful at sift,9,40,99,91,192,48,479
+Successful at interview,1,17,41,39,54,17,169
+Appointed,1,17,40,38,53,17,166
+
+
+Table 2.2: Recruitment by Sex,,,,,,,
+
+,Male,Female,Unknown,Total,,,
+All applications received,"1,001",468,32,"1,501",,,
+Successful at sift,313,160,6,479,,,
+Successful at interview,102,66,1,169,,,
+Appointed,100,65,1,166,,,
+
+
+Table 2.3: Recruitment by Race,,,,,,,
+
+,White,BME,Unknown,Total,,,
+All applications received,658,327,516,"1,501",,,
+Successful at sift,236,96,147,479
+Successful at interview,92,28,49,169
+Appointed,89,28,49,166
+
+
+Table 2.4: Recruitment by Disabled Status,,,,
+
+,Non-disabled,Disabled,Unknown,Total
+All applications received,"1,333",54,114,"1,501"
+Successful at sift,426,20,33,479
+Successful at interview,152,4,13,169
+Appointed,149,4,13,166
+
+
+Table 2.5: Recruitment by Job Role,,,,
+
+,Non-Specialist Pay Band,Specialist Pay Band,Total,
+All applications received,"1,257",244,"1,501",
+Successful at sift,428,51,479,
+Successful at interview,165,4,169,
+Appointed,162,4,166,
+
+
+Table 2.6: Recruitment by Campaign Type,,,,
+
+,Within DfT family,Within Civil Service,Outside civil service,Total
+All applications received,27,"1,033",441,"1,501"
+Successful at sift,13,385,81,479
+Successful at interview,8,150,11,169
+Appointed,8,147,11,166
+
+
+Tables 2.7-2.11: Recruitment within DfT Family,,,,,,
+
+Table 2.7: DfT Recruitment by Pay Band,,,,,,
+
+,PB3,PB4,PB5,PB6,PB7,Total
+All applications received,4,9,1,11,2,27
+Successful at sift,2,5,1,4,1,13
+Successful at interview,2,2,1,2,1,8
+Appointed,2,2,1,2,1,8
+
+
+Table 2.8: DfT Recruitment by Sex,,,,,,
+
+,Male,Female,Unknown,Total,,
+All applications received,16,9,2,27,,
+Successful at sift,9,3,1,13,,
+Successful at interview,7,1,0,8
+Appointed,7,1,0,8
+
+
+Table 2.9: DfT Recruitment by Race,,,,
+
+,White,BME,Unknown,Total
+All applications received,10,5,12,27
+Successful at sift,5,2,6,13
+Successful at interview,5,0,3,8
+Appointed,5,0,3,8
+
+
+Table 2.10: DfT Recruitment by Disabled Status,,,,
+
+,Non-disabled,Disabled,Unknown,Total
+All applications received,23,1,3,27
+Successful at sift,11,0,2,13
+Successful at interview,7,0,1,8
+Appointed,7,0,1,8
+
+
+Table 2.11: DfT Recruitment by Job Role,,,,
+
+,Non-Specialist Pay Band,Specialist Pay Band,Total,
+All applications received,24,3,27,
+Successful at sift,13,0,13,
+Successful at interview,8,0,8,
+Appointed,8,0,8,
+
+
+Tables 2.12-2.16: Recruitment within the Civil Service,,,,
+
+Table 2.12: Civil Service Recruitment by Pay Band,,,,,,,
+
+,PB2,PB3,PB4,PB5,PB6,PB7,Total
+All applications received,6,86,230,260,377,113,"1,072"
+Successful at sift,1,38,87,89,133,47,395
+Successful at interview,0,15,37,37,47,16,152
+Appointed,0,15,36,36,46,16,149
+
+
+Table 2.13: Civil Service Recruitment by Sex,,,,,,,
+
+,Male,Female,Unknown,Total,,,
+All applications received,664,381,27,"1,072",,,
+Successful at sift,246,144,5,395,,,
+Successful at interview,88,63,1,152,,,
+Appointed,86,62,1,149
+
+
+Table 2.14: Civil Service Recruitment by Race,,,,
+
+,White,BME,Unknown,Total
+All applications received,469,277,326,"1,072"
+Successful at sift,196,86,113,395
+Successful at interview,82,28,42,152
+Appointed,79,28,42,149
+
+
+Table 2.15: Civil Service Recruitment by Disabled Status,,,,
+
+,Non-disabled,Disabled,Unknown,Total
+All applications received,936,40,96,"1,072"
+Successful at sift,347,18,30,395
+Successful at interview,136,4,12,152
+Appointed,133,4,12,149
+
+
+Table 2.16: Civil Service Recruitment by Job Role,,,,
+
+,Non-Specialist Pay Band,Specialist Pay Band,Total,
+All applications received,"1,072",0,"1,072",
+Successful at sift,395,0,395,
+Successful at interview,152,0,152,
+Appointed,149,0,149,
+
+
+Tables 2.17-2.21: Recruitment outside the Civil Service,,,,
+
+Table 2.17: Non Civil Service Recruitment by Pay Band,,,,,,,
+
+,PB2,PB4,PB4FS,PB5,PB6,PB7,Total
+All applications received,87,20,0,3,259,33,402
+Successful at sift,8,7,0,1,55,0,71
+Successful at interview,1,2,0,1,5,0,9
+Appointed,1,2,0,1,5,0,9
+
+
+Table 2.18: Non Civil Service Recruitment by Sex,,,,,,,
+
+,Male,Female,Unknown,Total,,,
+All applications received,321,78,3,402,,,
+Successful at sift,58,13,0,71,,,
+Successful at interview,7,2,0,9,,,
+Appointed,7,2,0,9,,,
+
+
+Table 2.19: Non Civil Service Recruitment by Race,,,,
+
+,White,BME,Unknown,Total
+All applications received,179,45,178,402
+Successful at sift,35,8,28,71
+Successful at interview,5,0,4,9
+Appointed,5,0,4,9
+
+
+Table 2.20: Non Civil Service Recruitment by Disabled Status,,,,
+
+,Non-disabled,Disabled,Unknown,Total
+All applications received,374,13,15,402
+Successful at sift,68,2,1,71
+Successful at interview,9,0,0,9
+Appointed,9,0,0,9
+
+
+Table 2.21: Non Civil Service Recruitment by Job Role,,,,
+
+,Non-Specialist Pay Band,Specialist Pay Band,Total,
+All applications received,161,241,402,
+Successful at sift,20,51,71,
+Successful at interview,5,4,9,
+Appointed,5,4,9,
+
+
+
+3.  Performance Management,,,,
+
+Tables in section 3 summarise data held by DfT(C) Human Resources on the performance management reports (PMRs) of staff that were recorded between 1st April 2011 and 31st March 2012.,,,,,,,,
+These PMRs were matched to records for staff in post so that diversity analysis could be performed.,,,,,,,,
+Please Note: Ten staff were awarded a Not Achieved mark. This row has been removed from tables so individual staff cnnot be identified.,,,,,,,,
+
+Table 3.1: PMR Ratings by Pay Band,,,,,,,,
+
+,PB1-2,PB3,PB4,PB4FS,PB5,PB6,PB7,Total
+Exceeded,21,42,74,40,62,94,48,381
+Achieved,81,139,214,45,135,223,104,941
+Not Achieved,**,**,**,**,**,**,**,10
+Total,102,181,288,85,197,317,152,"1,332"
+
+
+Table 3.2: PMR Ratings by Sex,,,,,,,,
+
+Table 3.2(a): Summary of PMR Ratings by Sex,,,,,,,,
+,Male,Female,Total,,,,,
+Exceeded,226,155,381,,,,,
+Achieved,597,344,941,,,,,
+Not Achieved,**,**,**,,,,,
+Total,823,499,"1,322",,,,,
+
+Table 3.2(b): PMR Ratings by Sex and Pay Band,,,,,,,,
+3.2(b)(i): PMR Ratings by Pay Band (Male),,,,,,,,
+,PB1-2,PB3,PB4,PB4FS,PB5,PB6,PB7,Total
+Exceeded,5,23,45,21,37,60,35,226
+Achieved,28,87,130,27,107,143,75,597
+Not Achieved,**,**,**,**,**,**,**,**
+Total,33,110,175,48,144,203,110,823
+
+3.2(b)(ii): PMR Ratings by Pay Band (Female),,,,,,,,
+,PB1-2,PB3,PB4,PB4FS,PB5,PB6,PB7,Total
+Exceeded,16,19,29,19,25,34,13,155
+Achieved,53,52,84,18,28,80,29,344
+Not Achieved,**,**,**,**,**,**,**,**
+Total,69,71,113,37,53,114,42,499
+
+
+Table 3.3: PMR Ratings by Race,,,,,,,,
+
+Table 3.3(a): Summary of PMR Ratings by Race,,,,,,,,
+,White,BME,Unknown,Total,,,,
+Exceeded,280,43,58,381,,,,
+Achieved,609,146,186,941,,,,
+Not Achieved,**,**,**,**,,,,
+Total,889,189,244,"1,322",,,,
+
+Table 3.3(b): PMR Ratings by Race and Pay Band,,,,,,,,
+3.3(b)(i): PMR Ratings by Pay Band (White),,,,,,,,
+,PB1-2,PB3,PB4,PB4FS,PB5,PB6,PB7,Total
+Exceeded,16,23,51,24,52,77,37,280
+Achieved,42,73,126,34,100,155,79,609
+Not Achieved,**,**,**,**,**,**,**,**
+Total,58,96,177,58,152,232,116,889
+
+3.3(b)(ii): PMR Ratings by Pay Band (BME),,,,,,,,
+,PB1-2,PB3,PB4,PB4FS,PB5,PB6,PB7,Total
+Exceeded,3,12,10,2,6,6,4,43
+Achieved,24,39,42,3,14,20,4,146
+Not Achieved,**,**,**,**,**,**,**,**
+Total,27,51,52,5,20,26,8,189
+
+3.3(b)(iii): PMR Ratings by Pay Band (Unknown),,,,,,,,
+,PB1-2,PB3,PB4,PB4FS,PB5,PB6,PB7,Total
+Exceeded,2,7,13,14,4,11,7,58
+Achieved,15,27,46,8,21,48,21,186
+Not Achieved,**,**,**,**,**,**,**,**
+Total,17,34,59,22,25,59,28,244
+
+
+3.4: PMR Ratings by Disabled Status,,,,,,,,
+
+Table 3.4(a): Summary of PMR Ratings by Disabled Status,,,,,,,,
+,Non-disabled,Disabled,Unknown,Total,,,,
+Exceeded,325,12,44,381,,,,
+Achieved,764,56,121,941,,,,
+Not Achieved,**,**,**,**,,,,
+Total,"1,089",68,165,"1,322",,,,
+
+Table 3.4(b): PMR Ratings by Disabled Status and Pay Band,,,,,,,,
+3.4(b)(i): PMR Ratings by Pay Band (Non-disabled),,,,,,,,
+,PB1-2,PB3,PB4,PB4FS,PB5,PB6,PB7,Total
+Exceeded,20,35,63,26,52,85,44,325
+Achieved,67,114,172,31,108,186,86,764
+Not Achieved,**,**,**,**,**,**,**,**
+Total,87,149,235,57,160,271,130,"1,089"
+
+3.4(b)(ii): PMR Ratings by Pay Band (Disabled),,,,,,,,
+,PB1-2,PB3,PB4,PB4FS,PB5,PB6,PB7,Total
+Exceeded,1,0,1,4,4,2,0,12
+Achieved,5,10,15,6,7,10,3,56
+Not Achieved,**,**,**,**,**,**,**,**
+Total,6,10,16,10,11,12,3,68
+
+3.4(b)(iii): PMR Ratings by Pay Band (Unknown),,,,,,,,
+,PB1-2,PB3,PB4,PB4FS,PB5,PB6,PB7,Total
+Exceeded,0,7,10,10,6,7,4,44
+Achieved,9,15,27,8,20,27,15,121
+Not Achieved,**,**,**,**,**,**,**,**
+Total,9,22,37,18,26,34,19,165
+
+
+Table 3.5: PMR Ratings by Working Pattern,,,,,,,,
+
+,Full-time,Part-time,Total,,,,,
+Exceeded,360,21,381,,,,,
+Achieved,852,89,941,,,,,
+Not Achieved,**,**,**,,,,,
+Total,"1,212",110,"1,322",,,,,
+
+
+Table 3.6: PMR Ratings by Job Role,,,,,,,,
+
+,Non-Specialist Pay Band,Specialist Pay Band,Total,,,,,,,,
+Exceeded,373,8,381,,,,,,,,
+Achieved,913,28,941,,,,,,,,
+Not Achieved,**,**,**,,,,,,,,
+Total,"1,286",36,"1,322",,,,,,,,
+
+
+Table 3.7: PMR Ratings by Age Group,,,,,,,,,,,
+
+,20-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,65 and over,Total
+Exceeded,7,57,79,54,61,57,32,26,8,0,381
+Achieved,9,63,103,134,145,167,156,106,49,9,941
+Not Achieved,**,**,**,**,**,**,**,**,**,**,**
+Total,16,120,182,188,206,224,188,132,57,9,"1,322"
+
+
+
+4.  Learning and Development,,,,,,,,,,
+
+Tables in section 4 summarise data held by DfT(C) on the training centrally recorded by staff in post between 1st April 2011 and 31st March 2012.,,,,,,,,,,
+"These records were matched to those for staff in post, so that analysis by diversity group could be performed.",,,,,,,,,,
+Averages were calculated by dividing the number of training days recorded for a specific group by the number of members of staff in post in the same group.,,,,,,,,,,
+
+Table 4.1: Training Recorded by Pay Band,,,,,,,,,,
+
+,PB1-2,PB3,PB4,PB4FS,PB5,PB6,PB7,SCSPB1,SCSPB2-4,Total
+Total Number of Training Days,99,197,392,79,291,435,194,122,13,1822
+Average Number of Training Days,0.8,1,1.1,0.9,1.2,1.2,1.1,0.9,0.4,1.1
+
+
+Table 4.2: Training Recorded by Sex,,,,,,,,,,
+
+,Male,Female,Total,
+Total Number of Training Days,1113,709,1822,
+Average Number of Training Days,1,1.1,1.1,
+
+
+Table 4.3: Training Recorded by Race,,,,
+
+,White,BME,Unknown,Total
+Total Number of Training Days,1263,237,322,1822
+Average Number of Training Days,1.1,1.1,0.9,1.1
+
+
+Table 4.4: Training Recorded by Disabled Status,,,,
+
+,Non-disabled,Disabled,Unknown,Total
+Total Number of Training Days,1538,87,197,1822
+Average Number of Training Days,1.1,1.1,0.8,1.1
+
+
+Table 4.5: Training Recorded by Working Pattern,,,,
+
+,Full-time,Part-time,Total,
+Total Number of Training Days,1679,143,1822,
+Average Number of Training Days,1.1,1,1.1,
+
+
+Table 4.6: Training Recorded by Job Role,,,,
+
+,Non-Specialist Pay Band,Specialist Pay Band,Total,
+Total Number of Training Days,1814,8,1822,
+Average Number of Training Days,1.1,0.1,1.1,
+
+
+Table 4.7: Training Recorded by Age Group,,,,,,,,,,,
+
+,20-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,65 and over,Total
+Total Number of Training Days,9,121,233,301,283,300,284,179,100,12,1822
+Average Number of Training Days,0.4,0.9,1.1,1.3,1.1,1,1.1,1,1.3,1.2,1.1
+
+
+
+5.  Cessations,,,,,,,,,,,
+
+Tables in section 5 summarise data on staff who left DfT(C) between 1st April 2011 and 31st March 2012. These staff were grouped by their reason for leaving:,,,,,,,,,,,
+"Voluntary cessations can include: resignations, voluntary exit schemes, career breaks, and transfers to other government departments.",,,,,,,,,,,
+"Other cessations can include: cessation due to the ending of a contract (casual/fixed term), retirement (including retirement for medical reasons), terminations ",,,,,,,,,,,
+"of contracts, redundancies, deceased staff, and those who failed to complete a probation period.",,,,,,,,,,,
+
+Table 5.1: Ceased Employment by Pay Band,,,,,,,,,
+
+,PB1-2,PB3,PB4,PB4FS,PB5,PB6,PB7,SCS,Total
+Voluntary,4,7,20,13,16,20,6,16,102
+Other,34,21,23,15,10,42,6,13,164
+Total,38,28,43,28,26,62,12,29,266
+
+
+Table 5.2: Ceased Employment by Sex,,,,,,,,,
+
+,Male,Female,Total,,,,,,
+Voluntary,63,39,102,,,,,,
+Other,103,61,164,,,,,,
+Total,166,100,266,,,,,,
+
+
+Table 5.3: Ceased Employment by Race,,,,
+
+,White,BME,Unknown,Total
+Voluntary,64,12,26,102
+Other,99,24,41,164
+Total,163,36,67,266
+
+
+Table 5.4: Ceased Employment by Disabled Status,,,,
+
+,Non-disabled,Disabled,Unknown,Total
+Voluntary,84,3,15,102
+Other,121,11,32,164
+Total,205,14,47,266
+
+
+Table 5.5: Ceased Employment by Working Pattern,,,
+
+,Full-time,Part-time,Total
+Voluntary,93,9,102
+Other,133,31,164
+Total,226,40,266
+
+
+Table 5.6: Ceased Employment by Job Role,,,
+
+,Non-Specialist Pay Band,Specialist Pay Band,Total
+Voluntary,83,19,102
+Other,159,5,164
+Total,242,24,266
+
+
+Table 5.7: Ceased Employment by Age Group,,,,,,,,,,
+
+,20-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,65 and over,Total
+Voluntary,14,15,22,11,14,18,5,3,0,102
+Other,15,8,15,16,9,15,24,38,24,164
+Total,29,23,37,27,23,33,29,41,24,266
+
+
+
+6. Sickness Absence,,,,,,,,,,
+
+Tables in section 6 summarise data recorded by DfT(C) Human Resources on the incidences of sickness absence taken between 1st April 2011 and 31st March 2012.,,,,,,,,,,
+"These records were matched with those for staff in post (including those on long term sickness, but excluding those on other long term leave), to allow diversity analysis to be performed.",,,,,,,,,,
+
+"Please note that where individual members of staff have taken substantial periods of sick leave, this may have a significant impact upon the average figures for their group.",,,,,,,,,,
+
+Table 6.1: Sickness Absence by Pay Band,,,,,,,,,,
+
+,PB1-2,PB3,PB4,PB4FS,PB5,PB6,PB7,SCSPB1,SCSPB2-4,Total
+Total days taken as sickness absence (days),898,"1,588","1,430",60,"1,013","1,046",285,121,41,"6,481"
+Average days taken as sickness absence (days),7.7,7.7,4.1,0.7,4.2,2.8,1.7,0.9,1.4,3.8
+% of staff who took sickness absence,63.50%,62.80%,51.30%,23.80%,47.90%,36.20%,24.60%,22.00%,20.00%,42.70%
+
+
+Table 6.2: Sickness Absence by Sex,,,,,,,,,,
+
+,Male,Female,Total,,,,,,,
+Total days taken as sickness absence (days),"3,558","2,924","6,481",,,,,,,
+Average days taken as sickness absence (days),3.3,4.7,3.8,,,,,,,
+% of staff who took sickness absence,38.70%,49.60%,42.70%,,,,,,,
+
+
+Table 6.3: Sickness Absence by Race,,,,
+
+,White,BME,Unknown,Total
+Total days taken as sickness absence (days),"4,244","1,133","1,104","6,481"
+Average days taken as sickness absence (days),3.7,5.2,3.2,3.8
+% of staff who took sickness absence,41.80%,54.30%,38.20%,42.70%
+
+
+Table 6.4: Sickness Absence by Disabled Status,,,,
+
+,Non-disabled,Disabled,Unknown,Total
+Total days taken as sickness absence (days),"4,791",981,710,"6,481"
+Average days taken as sickness absence (days),3.5,12.4,2.9,3.8
+% of staff who took sickness absence,42.20%,64.60%,38.70%,42.70%
+
+
+Table 6.5: Sickness Absence by Working Pattern,,,
+
+,Full-time,Part-time,Total
+Total days taken as sickness absence (days),"5,804",677,"6,481"
+Average days taken as sickness absence (days),3.7,4.7,3.8
+% of staff who took sickness absence,42.40%,45.50%,42.70%
+
+
+Table 6.6: Sickness Absence by Job Role,,,
+
+,Non-Specialist Pay Band,Specialist Pay Band,Total
+Total days taken as sickness absence (days),"6,293",189,"6,481"
+Average days taken as sickness absence (days),3.9,2.4,3.8
+% of staff who took sickness absence,43.40%,27.80%,42.70%
+
+
+Table 6.7: Sickness Absence by Age Group,,,,,,,,,,,
+
+,20-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,65 and over,Total
+Total days taken as sickness absence (days),39,295,695,716,"1,262",962,"1,192",822,412,87,"6,481"
+Average days taken as sickness absence (days),1.6,2.2,3.2,3,4.8,3.2,4.6,4.6,5.3,8.7,3.8
+% of staff who took sickness absence,25.00%,38.30%,47.20%,42.10%,46.00%,41.30%,40.80%,41.30%,48.70%,40.00%,42.70%

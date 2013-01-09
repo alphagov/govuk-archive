@@ -97,6 +97,16 @@
 &lt;p&gt;More information about 24+ Advanced Learning Loans. Includes regulatory impact assessment and underlying data &lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
+    <id>tag:www.gov.uk,2005:Publication/60891</id>
+    <published>2012-12-28T00:00:00+00:00</published>
+    <updated>2013-01-08T11:17:47+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/24-advanced-learning-loans-regulatory-impact-assessment-annex-2-table"/>
+    <title>24+ Advanced Learning Loans: regulatory impact assessment - Annex 2 table </title>
+    <category>Publication</category>
+    <summary>Further information on Advanced Learning Loans</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Further information on 24+ Advanced Learning Loans: regulatory impact assessment. Contains Annex 2 table.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
     <id>tag:www.gov.uk,2005:Publication/60893</id>
     <published>2012-12-28T00:00:00+00:00</published>
     <updated>2013-01-03T12:31:14+00:00</updated>
@@ -119,7 +129,7 @@
 &lt;p&gt;It highlights key issues arising from the research with a view to contributing to the success of the wider roll out of joint location in Jobcentres in England.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:Policy/61163</id>
+    <id>tag:www.gov.uk,2005:Policy/64078</id>
     <published>2012-12-16T23:15:38+00:00</published>
     <updated>2012-12-16T23:15:38+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/policies/improving-the-quality-of-further-education-and-skills-training"/>
@@ -134,7 +144,7 @@
 &lt;p&gt;To improve quality and efficiency in &lt;abbr title="Further education"&gt;FE&lt;/abbr&gt; and skills training, the government is:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;introducing a new funding system based on student loans&lt;/li&gt;
+&lt;li&gt;introducing a new funding system based on student loans: it’s for people aged 24+, studying at levels 3 and 4, or for advanced and higher apprenticeships&lt;/li&gt;
   &lt;li&gt;freeing colleges from central government control&lt;/li&gt;
   &lt;li&gt;improving apprenticeships&lt;/li&gt;
   &lt;li&gt;making &lt;abbr title="Further education"&gt;FE&lt;/abbr&gt; teacher training more professional&lt;/li&gt;
@@ -170,7 +180,7 @@
   &lt;li&gt;the report by Lord Lingfield on how the further education sector can best serve its users’ needs, &lt;a href="https://www.gov.uk/government/publications/professionalism-in-further-education-final-report-of-the-independent-review-panel"&gt;Professionalism in Further Education: final report of the Independent Review Panel&lt;/a&gt; &lt;/li&gt;
   &lt;li&gt;advice for further education colleges and training providers on 24+ Advanced Learning Loans, &lt;a rel="external" href="http://www.practitioners.slc.co.uk/further-education.aspx"&gt;24+ Advanced Learning Loans Student Loans Company Learning Provider Services&lt;/a&gt;
 &lt;/li&gt;
-  &lt;li&gt;&lt;a rel="external" href="http://readingroom.skillsfundingagency.bis.gov.uk/sfa/24plusall_updated_guide_and_faqs_may_2012.pdf"&gt;SFA loans FAQs&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a rel="external" href="http://readingroom.skillsfundingagency.bis.gov.uk/sfa/24plusall_updated_guide_and_faqs_may_2012.pdf"&gt;Skills Funding Agency loans - FAQs for further education providers&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;ours and our partners’ plans to ensure that young people and adults get the advice they need on learning and work, &lt;a href="https://www.gov.uk/government/publications/national-careers-service-the-right-advice-at-the-right-time"&gt;National Careers Service: the right advice at the right time&lt;/a&gt;
 &lt;/li&gt;
   &lt;li&gt;our proposals for piloting community learning trusts, &lt;a rel="external" href="https://nationalcareersservice.direct.gov.uk/Pages/Home.aspx"&gt;Community Learning Trust prospectus&lt;/a&gt;
@@ -248,15 +258,5 @@
     <category>Publication</category>
     <summary>Confirms the budget available for the 2013-14 financial year for the further education (FE) sector. </summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Confirms the budget available for the 2013-14 financial year for the further education (FE) sector. Includes information for the Skills Funding Agency to set provider allocations for the 2013/14 academic year. The government is focusing investment on high quality provision that delivers good value for money, and its focus will remain on young adults, the low skilled and those who are unemployed. See also and the FE colleges capital investment strategy (URN 12/1340).&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:Publication/56315</id>
-    <published>2012-12-06T00:00:00+00:00</published>
-    <updated>2012-12-13T14:59:09+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/evaluation-of-the-impact-of-capital-expenditure-in-further-education-fe-colleges"/>
-    <title>Evaluation of the impact of capital expenditure in further education (FE) colleges</title>
-    <category>Publication</category>
-    <summary>Report commissioned by BIS evaluate the impact of capital spending on key policy goals.</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;BIS research paper no.99. Report commissioned by BIS evaluate the impact of capital spending on key policy goals. Combines quantitative and qualitative research and builds on a previous study undertaken in 2008. Focuses on completed capital spending projects by FE colleges within England (total per college) between April 2001 and September 2011. Underlying data for tables and figure in this publication is available in a machine processable format: &lt;a rel="external" href="http://data.gov.uk/dataset/impact-of-capital-expenditure-in-further-education-colleges-evaluation"&gt;underlying data on the impact of capital expenditure in FE colleges&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
 </feed>

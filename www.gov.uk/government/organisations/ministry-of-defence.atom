@@ -8,7 +8,29 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2013-01-04T11:57:02+00:00</updated>
+  <updated>2013-01-08T06:42:34+00:00</updated>
+  <entry>
+    <id>tag:www.gov.uk,2005:FatalityNoticePresenter/64193</id>
+    <published>2013-01-08T06:42:00+00:00</published>
+    <updated>2013-01-08T06:42:34+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/fatalities/soldier-from-28-engineer-regiment-killed-in-afghanistan"/>
+    <title>Soldier from 28 Engineer Regiment killed in Afghanistan</title>
+    <category>Fatality notice</category>
+    <summary>It is with great sadness that the Ministry of Defence must announce that a soldier from 28 Engineer Regiment, attached to 21 Engineer Regiment, was killed in Afghanistan on Monday 7 January 2013.</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The soldier was killed by small arms fire from a suspected member of the Afghan National Army (ANA) who turned his weapon on ANA and ISAF (International Security Assistance Force) soldiers at Patrol Base Hazrat in the Nahr-e Saraj district of Helmand province.&lt;/p&gt;
+
+&lt;p&gt;Spokesman for Task Force Helmand, Major Laurence Roche, said:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;It is my painful duty to report the death of a soldier from 28 Engineer Regiment who was shot and killed by a suspected member of the Afghan National Army at a patrol base in the Nahr-e Saraj district of Helmand province.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;This is an extremely sad day for the Corps of Royal Engineers and everyone serving with Task Force Helmand. Our thoughts are with the soldier’s family and friends at this time.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The soldier’s family have been informed and have asked for a period of grace before further details are released.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
   <entry>
     <id>tag:www.gov.uk,2005:NewsArticlePresenter/64021</id>
     <published>2013-01-04T11:30:00+00:00</published>
@@ -379,25 +401,5 @@
 &lt;p&gt;The &lt;a rel="external" href="http://eeas.europa.eu/cfsp/sanctions/index_en.htm"&gt;&lt;abbr title="European Union"&gt;EU&lt;/abbr&gt; External Action website&lt;/a&gt; provides an overview of restrictive measures adopted in the framework of the &lt;abbr title="Common Foreign and Security Policy"&gt;CFSP&lt;/abbr&gt; that are currently in force.&lt;/p&gt;
 
 &lt;p&gt;The &lt;a rel="external" href="http://www.un.org/sc/committees/list_compend.shtml"&gt;&lt;abbr title="United Nations"&gt;UN&lt;/abbr&gt; Security Council Sanctions Committees website&lt;/a&gt; contains links to the latest versions of all &lt;abbr title="United Nations"&gt;UN&lt;/abbr&gt; Security Council targeted sanctions lists. The individuals and entities included in these lists are subject to the relevant measures imposed by the Security Council, and all member states are obliged to implement these measures. Each separate list is maintained by the relevant Security Council Committee.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60995</id>
-    <published>2013-01-02T00:00:00+00:00</published>
-    <updated>2013-01-02T12:45:22+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/gurkha-pension-and-redundancy-calculators"/>
-    <title>Gurkha pension and redundancy calculators</title>
-    <category>Publication</category>
-    <summary>Find out what benefits you are entitled to under the Gurkha pension and redundancy schemes.</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="gurkha-pension-calculator-gpc"&gt;Gurkha pension calculator (&lt;abbr title="Gurkha pension calculator"&gt;GPC&lt;/abbr&gt;)&lt;/h2&gt;
-
-&lt;p&gt;The Gurkha pension calculator below gives a forecast of benefits for members of Armed Forces Pension Scheme (&lt;abbr title="Armed Forces Pension Scheme"&gt;AFPS&lt;/abbr&gt;) 75 or &lt;abbr title="Armed Forces Pension Scheme"&gt;AFPS&lt;/abbr&gt; 05 who transferred as part of the serving Gurkha Offer To Transfer (&lt;abbr title="Gurkha Offer To Transfer"&gt;GOTT&lt;/abbr&gt;). All officers, and those soldiers who joined as part of the 1993 intake and earlier, were given a service credit. This calculator will adjust the pensionable service to take into account any service credit received.&lt;/p&gt;
-
-&lt;h2 id="gurkha-redundancy-calculator"&gt;Gurkha redundancy calculator&lt;/h2&gt;
-
-&lt;p&gt;This is to be used in conjunction with DSPS(A)’s letter (reference DSPS(A) 4.5.23 dated 15 April 2011). &lt;/p&gt;
-
-&lt;p&gt;Gurkha soldiers and Late Entry officers selected for redundancy are entitled to receive a lump sum in compensation for shortening their career as well as other terminal and retirement benefits. &lt;/p&gt;
-
-&lt;p&gt;However, the entitlement of Gurkha Late Entry officers, who joined the Army before 1 July 1997, and Gurkhas soldiers, who joined the Army before 1 October 1993, to redundancy compensation is affected by the terms and conditions of the &lt;abbr title="Gurkha Offer To Transfer"&gt;GOTT&lt;/abbr&gt;, which means that the Armed Forces Redundancy Calculator (&lt;abbr title="Armed Forces Redundancy Calculator"&gt;AFRC&lt;/abbr&gt;) will not produce an accurate forecast. In these cases, Gurkhas must use the Gurkha pension calculator (&lt;abbr title="Gurkha pension calculator"&gt;GPC&lt;/abbr&gt;) to produce a forecast of the parts of their redundancy package which the &lt;abbr title="Armed Forces Redundancy Calculator"&gt;AFRC&lt;/abbr&gt; cannot calculate correctly and then, in some cases, apply a manual workaround.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
 </feed>

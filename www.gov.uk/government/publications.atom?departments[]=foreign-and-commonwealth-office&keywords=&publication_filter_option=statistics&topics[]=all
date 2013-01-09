@@ -830,6 +830,16 @@
 &lt;/section&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60891</id>
+    <published>2012-12-28T00:00:00+00:00</published>
+    <updated>2013-01-08T11:17:47+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/24-advanced-learning-loans-regulatory-impact-assessment-annex-2-table"/>
+    <title>24+ Advanced Learning Loans: regulatory impact assessment - Annex 2 table </title>
+    <category>Publication</category>
+    <summary>Further information on Advanced Learning Loans</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Further information on 24+ Advanced Learning Loans: regulatory impact assessment. Contains Annex 2 table.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/60747</id>
     <published>2012-12-21T14:38:12+00:00</published>
     <updated>2012-12-21T14:38:12+00:00</updated>
@@ -2029,28 +2039,6 @@
 &lt;/section&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60098</id>
-    <published>2012-12-20T00:00:00+00:00</published>
-    <updated>2012-12-20T09:30:02+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/social-lettings-tables-2011-to-2012"/>
-    <title>Social lettings tables: 2011 to 2012 </title>
-    <category>Publication</category>
-    <summary></summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;These tables give information about the characteristics of households receiving general needs social lettings.&lt;/p&gt;
-
-&lt;p&gt;Estimates cover the whole social housing sector, including both Private Registered Providers (housing associations) and local authorities. The figures are based on lettings information reported through the Continuous Recording of Lettings (CORE) system for 2011 to 2012 and the Local Authority Housing Statistics. More information on CORE can be found on the &lt;a rel="external" href="https://core.communities.gov.uk/"&gt;CORE website&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Participation in CORE by local authorities is not yet complete and some local authorities do not yet provide CORE data, so the local authority figures have been adjusted to take account of missing data. This adjustment uses a method developed by the University of Cambridge to impute figures for local authorities that did not fully participate.&lt;/p&gt;
-
-&lt;p&gt;For general needs social housing lettings, key findings include:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;there were 266,000 general needs lettings across social housing in 2011 to 2012 - a 1% decrease from 269,000 in 2010 to 2011; this decrease has been caused by a decrease in the number of local authority lettings from 117,000 to 113,000 households, whilst the number of housing association lettings has increased from 151,000 to 153,000&lt;/li&gt;
-  &lt;li&gt;the distribution of lettings by household type has remained similar over time; in 2011 to 2012 the proportion to older people (a household where either the tenant or their partner is aged 60 or over) was 11% of all general needs lettings, unchanged from 2010 to 2011&lt;/li&gt;
-  &lt;li&gt;in 2011 to 2012, 95% of lettings to existing tenants and 91% of new lettings went to UK nationals&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/60100</id>
     <published>2012-12-20T00:00:00+00:00</published>
     <updated>2012-12-20T09:30:02+00:00</updated>
@@ -2073,6 +2061,28 @@
   &lt;li&gt;as at 1 April 2012, there were 214,000 non-decent local authority owned dwellings across England, a decrease from 217,000 on 1 April 2011 (Chart 6)&lt;/li&gt;
   &lt;li&gt;there were 1.85 million households on local authority waiting lists on 1 April 2012, an increase of 0.6 per cent on 1.84 million on 1 April 2011 (Chart 4); changes in waiting list numbers can reflect administrative and policy changes as well as changes in the demand for social housing&lt;/li&gt;
   &lt;li&gt;in 2011 to 2012 local authorities reported that 6,140 evictions were carried out by court bailiffs; the majority (84%) of these were for rent arrears (Table 9)&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60098</id>
+    <published>2012-12-20T00:00:00+00:00</published>
+    <updated>2012-12-20T09:30:02+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/social-lettings-tables-2011-to-2012"/>
+    <title>Social lettings tables: 2011 to 2012 </title>
+    <category>Publication</category>
+    <summary></summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;These tables give information about the characteristics of households receiving general needs social lettings.&lt;/p&gt;
+
+&lt;p&gt;Estimates cover the whole social housing sector, including both Private Registered Providers (housing associations) and local authorities. The figures are based on lettings information reported through the Continuous Recording of Lettings (CORE) system for 2011 to 2012 and the Local Authority Housing Statistics. More information on CORE can be found on the &lt;a rel="external" href="https://core.communities.gov.uk/"&gt;CORE website&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Participation in CORE by local authorities is not yet complete and some local authorities do not yet provide CORE data, so the local authority figures have been adjusted to take account of missing data. This adjustment uses a method developed by the University of Cambridge to impute figures for local authorities that did not fully participate.&lt;/p&gt;
+
+&lt;p&gt;For general needs social housing lettings, key findings include:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;there were 266,000 general needs lettings across social housing in 2011 to 2012 - a 1% decrease from 269,000 in 2010 to 2011; this decrease has been caused by a decrease in the number of local authority lettings from 117,000 to 113,000 households, whilst the number of housing association lettings has increased from 151,000 to 153,000&lt;/li&gt;
+  &lt;li&gt;the distribution of lettings by household type has remained similar over time; in 2011 to 2012 the proportion to older people (a household where either the tenant or their partner is aged 60 or over) was 11% of all general needs lettings, unchanged from 2010 to 2011&lt;/li&gt;
+  &lt;li&gt;in 2011 to 2012, 95% of lettings to existing tenants and 91% of new lettings went to UK nationals&lt;/li&gt;
 &lt;/ul&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
@@ -2167,31 +2177,5 @@
     <category>Publication</category>
     <summary>Casualty and fatality tables up to 30 November 2012</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Casualty and fatality tables up to 30 November 2012. Report includes historical data (pre Jan 06) on Very Seriously Injured and Seriously Injured personnel for Op HERRICK. These figures are updated monthly, two weeks in arrears.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/57009</id>
-    <published>2012-12-17T00:00:00+00:00</published>
-    <updated>2012-12-17T19:00:32+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/bis-quarterly-constuction-price-and-cost-indices-3rd-quarter-2012"/>
-    <title>BIS quarterly constuction price and cost indices 3rd quarter 2012</title>
-    <category>Publication</category>
-    <summary></summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="headline-results"&gt;Headline results&lt;/h2&gt;
-
-&lt;p&gt;The BIS Output Price Index for New Construction (2010): All New Construction (COPI) for 3rd Quarter 2012 rose 0.7% on the previous quarter and by 3.5% on the same quarter a year earlier.&lt;/p&gt;
-
-&lt;p&gt;The Tender Price Index for Public Sector Non-Housing (PUBSEC) for 3rd Quarter 2012 fell 1.1% on the previous quarter and 0.6% on the year from 3rd Quarter 2011.&lt;/p&gt;
-
-&lt;p&gt;The Tender Price Index of Social Housing (TPISH) shows a fall of 0.5% compared with the previous quarter and a rise of 1.1% compared with the same quarter a year earlier.&lt;/p&gt;
-
-&lt;p&gt;The BIS Tender Price Index of Road Construction (ROADCON) is not available for 3rd Quarter 2012 but the index for the 2nd Quarter 2012 shows prices falling 1.7% compared to the previous quarter and rising 4% in the year from 2nd Quarter 2011.&lt;/p&gt;
-
-&lt;p&gt;The resource costs indices in 3rd Quarter 2012 show fairly stable prices in the building sectors, housing and non-housing.&lt;/p&gt;
-
-&lt;p&gt;Costs in the infrastructure both roads and infrastructure generally have fallen slightly (0.4%) compared to the previous quarter but still show increases in the year since 3rd Quarter 2011.&lt;/p&gt;
-
-&lt;h2 id="publication-note"&gt;Publication note&lt;/h2&gt;
-
-&lt;p&gt;This release was published around 40 minutes after 9.30am, in breach of the Code of Practice for Official Statistics. We are currently investigating why this happened, and a report will be submitted to the National Statistician’s Office and published on the UK Statistics Authority’s website in due course.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
 </feed>

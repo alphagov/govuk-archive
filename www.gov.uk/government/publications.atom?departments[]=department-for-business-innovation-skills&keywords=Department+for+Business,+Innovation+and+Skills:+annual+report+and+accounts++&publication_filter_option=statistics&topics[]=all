@@ -104,6 +104,16 @@
 &lt;/section&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60891</id>
+    <published>2012-12-28T00:00:00+00:00</published>
+    <updated>2013-01-08T11:17:47+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/24-advanced-learning-loans-regulatory-impact-assessment-annex-2-table"/>
+    <title>24+ Advanced Learning Loans: regulatory impact assessment - Annex 2 table </title>
+    <category>Publication</category>
+    <summary>Further information on Advanced Learning Loans</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Further information on 24+ Advanced Learning Loans: regulatory impact assessment. Contains Annex 2 table.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/60156</id>
     <published>2012-12-18T00:00:00+00:00</published>
     <updated>2012-12-20T13:08:06+00:00</updated>
@@ -112,16 +122,6 @@
     <category>Publication</category>
     <summary></summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Number and value of EFG loans drawn, by bank.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56761</id>
-    <published>2012-12-17T00:00:00+00:00</published>
-    <updated>2012-12-17T09:59:25+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/quarterly-price-and-cost-indices-commentary-3q-2012"/>
-    <title>Quarterly price and cost indices: commentary 3Q 2012</title>
-    <category>Publication</category>
-    <summary>Commentary</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Explains the data published in the three quarterly BIS construction price and cost indices (PCIs): tender price indices (12/P147C), construction resource cost indices (12/P148C), and output price indices (URN 12/P149C).&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/57009</id>
@@ -148,6 +148,16 @@
 &lt;h2 id="publication-note"&gt;Publication note&lt;/h2&gt;
 
 &lt;p&gt;This release was published around 40 minutes after 9.30am, in breach of the Code of Practice for Official Statistics. We are currently investigating why this happened, and a report will be submitted to the National Statistician’s Office and published on the UK Statistics Authority’s website in due course.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56761</id>
+    <published>2012-12-17T00:00:00+00:00</published>
+    <updated>2012-12-17T09:59:25+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/quarterly-price-and-cost-indices-commentary-3q-2012"/>
+    <title>Quarterly price and cost indices: commentary 3Q 2012</title>
+    <category>Publication</category>
+    <summary>Commentary</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Explains the data published in the three quarterly BIS construction price and cost indices (PCIs): tender price indices (12/P147C), construction resource cost indices (12/P148C), and output price indices (URN 12/P149C).&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/56767</id>
@@ -1693,41 +1703,6 @@
   &lt;li&gt;a list of recipients of pre-release access to National Statistics produced by &lt;abbr title="The Department for Business, Innovation and Skills"&gt;BIS&lt;/abbr&gt;
 &lt;/li&gt;
   &lt;li&gt;a statement of administrative sources&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/59919</id>
-    <published>2012-12-05T00:00:00+00:00</published>
-    <updated>2012-12-12T19:41:06+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/repi-live-tables"/>
-    <title>Regional Economic Performance Indicators (REPI) live tables</title>
-    <category>Publication</category>
-    <summary>Full set of Regional Economic Performance Indicators (REPI) published as a table.</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The full set of Regional Economic Performance Indicators (&lt;abbr title="Regional Economic Performance Indicators"&gt;REPI&lt;/abbr&gt;) and accompanying information is only published once a year. The current edition can be found below.&lt;/p&gt;
-
-&lt;p&gt;A number of the indicators are updated more frequently or published some months before the scheduled release of &lt;abbr title="Regional Economic Performance Indicators"&gt;REPI&lt;/abbr&gt;. The tables accessible from this page are updated more regularly in order to provide access to more up to date information. &lt;/p&gt;
-
-&lt;p&gt;These tables will be updated as soon as possible after fresh source data becomes available to us. &lt;/p&gt;
-
-&lt;p&gt;The notes, definitions and background documents are not being updated between editions, although any substantive changes will be recorded here. The current versions of these files are available alongside the main publication. &lt;/p&gt;
-
-&lt;p&gt;Although the Regional Economic Performance Indicators publication is designated as a &lt;a href="https://www.gov.uk/how-national-and-official-statistics-are-assured"&gt;National Statistic&lt;/a&gt;, not all tables included carry the same status. &lt;/p&gt;
-
-&lt;p&gt;The sections included in the Regional Economic Performance Indicators are shown below:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;
-&lt;a rel="external" href="http://www.bis.gov.uk/analysis/statistics/sub-national-statistics/regional-economic-performance-indicators/live-tables/output"&gt;A – gross value added &amp;amp; productivity&lt;/a&gt; &lt;/li&gt;
-  &lt;li&gt;&lt;a href="https://www.gov.uk/government/publications/repi-output"&gt;B – investment &amp;amp; output in UK and foreign-owned companies&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="https://www.gov.uk/government/publications/repi-innovation"&gt;C – innovation&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="https://www.gov.uk/government/publications/repi-skills"&gt;D – skills&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="https://www.gov.uk/government/publications/repi-enterprise"&gt;E – enterprise&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="https://www.gov.uk/government/publications/repi-exports"&gt;F – exports of goods &amp;amp; services&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="https://www.gov.uk/government/publications/repi-employment"&gt;G – employment&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="https://www.gov.uk/government/publications/repi-earnings"&gt;H – earnings&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="https://www.gov.uk/government/publications/repi-income-support-claimants"&gt;I – income support claimants&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="https://www.gov.uk/government/statistical-data-sets/repi-transport"&gt;J – transport&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="https://www.gov.uk/government/publications/repi-land"&gt;K – re-use of vacant &amp;amp; derelict land&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/div&gt;</content>
   </entry>
   <entry>

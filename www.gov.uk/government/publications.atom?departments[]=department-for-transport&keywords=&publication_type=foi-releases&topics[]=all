@@ -8,7 +8,37 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-12-27T09:12:53+00:00</updated>
+  <updated>2013-01-08T09:20:18+00:00</updated>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/61524</id>
+    <published>2013-01-08T00:00:00+00:00</published>
+    <updated>2013-01-08T09:20:18+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/surveillance-organisations"/>
+    <title>Surveillance organisations</title>
+    <category>Publication</category>
+    <summary>Freedom of Information response about external organisations commissioned to undertake surveillance for the Department for Transport.</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This Freedom of Information response concerns external organisations commissioned to undertake surveillance for the Department for Transport.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/61176</id>
+    <published>2013-01-08T00:00:00+00:00</published>
+    <updated>2013-01-08T09:19:57+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/electronic-devices-to-staff"/>
+    <title>Electronic devices to staff</title>
+    <category>Publication</category>
+    <summary>Amount of electronic devices issued to Department for Transport staff.</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Information on the number of iPhones, Blackberry and iPad devices issued to Department for Transport staff.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/61169</id>
+    <published>2013-01-08T00:00:00+00:00</published>
+    <updated>2013-01-08T09:19:30+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/advertising-campaigns"/>
+    <title>Advertising campaigns</title>
+    <category>Publication</category>
+    <summary>Freedom of Information response concerning advertising campaigns at the Department for Transport.</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Freedom of Information response concerning advertising campaigns, briefs and costings at the Department for Transport.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/60832</id>
     <published>2012-12-27T00:00:00+00:00</published>
@@ -100,6 +130,16 @@
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This Freedom of Information response letter and supporting material concern additional car parking at Bedwyn station.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/10529</id>
+    <published>2012-11-06T00:00:00+00:00</published>
+    <updated>2012-11-06T17:06:19+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/grant-funding-paid-to-mobility-centres"/>
+    <title>Grant funding paid to mobility centres</title>
+    <category>Publication</category>
+    <summary>Response to FOI request F0007301: Grant funding paid to mobility centres</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Department for Transport’s (&lt;abbr title="The Department for Transport"&gt;DfT&lt;/abbr&gt;’s) response to Freedom of Information (&lt;abbr title="Freedom of Information"&gt;FOI&lt;/abbr&gt;) request F0007301: Grant funding paid to mobility centres&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/10526</id>
     <published>2012-11-06T00:00:00+00:00</published>
     <updated>2012-11-06T17:01:07+00:00</updated>
@@ -108,16 +148,6 @@
     <category>Publication</category>
     <summary>Response to FOI request F0007534: Department HR selection appeal letters</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Department for Transport’s (&lt;abbr title="The Department for Transport"&gt;DfT&lt;/abbr&gt;’s) response to Freedom of Information (&lt;abbr title="Freedom of Information"&gt;FOI&lt;/abbr&gt;) request F0007534: Department HR selection appeal letters&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/12812</id>
-    <published>2012-11-06T00:00:00+00:00</published>
-    <updated>2012-11-05T16:32:45+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/details-of-passenger-ship-fires-in-2010"/>
-    <title>Passenger ship fires in 2010</title>
-    <category>Publication</category>
-    <summary>Response to FOI request F0007151: Passenger ship fires in 2010.</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Department for Transport’s (&lt;abbr title="The Department for Transport"&gt;DfT&lt;/abbr&gt;’s) response to Freedom of Information (&lt;abbr title="Freedom of Information"&gt;FOI&lt;/abbr&gt;) request F0007151: Passenger ship fires in 2010.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/10528</id>
@@ -130,24 +160,14 @@
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Department for Transport’s (&lt;abbr title="The Department for Transport"&gt;DfT&lt;/abbr&gt;’s) response to Freedom of Information (&lt;abbr title="Freedom of Information"&gt;FOI&lt;/abbr&gt;) request F00075520: Departmental food procurement for its catering operations&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/10529</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/12812</id>
     <published>2012-11-06T00:00:00+00:00</published>
-    <updated>2012-11-06T17:06:19+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/grant-funding-paid-to-mobility-centres"/>
-    <title>Grant funding paid to mobility centres</title>
+    <updated>2012-11-05T16:32:45+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/details-of-passenger-ship-fires-in-2010"/>
+    <title>Passenger ship fires in 2010</title>
     <category>Publication</category>
-    <summary>Response to FOI request F0007301: Grant funding paid to mobility centres</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Department for Transport’s (&lt;abbr title="The Department for Transport"&gt;DfT&lt;/abbr&gt;’s) response to Freedom of Information (&lt;abbr title="Freedom of Information"&gt;FOI&lt;/abbr&gt;) request F0007301: Grant funding paid to mobility centres&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/10586</id>
-    <published>2012-11-06T00:00:00+00:00</published>
-    <updated>2012-11-06T16:19:40+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/provision-of-road-de-icing-salt"/>
-    <title>Provision of road de-icing salt</title>
-    <category>Publication</category>
-    <summary>Response to FOI request for Information on the provision of road de-icing salt.</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;&lt;abbr title="Freedom of Information"&gt;FOI&lt;/abbr&gt; Request for as much detail as possible for orders of grit during winter 2010-11, winter 2009-10 and winter 2008-09.&lt;/p&gt;&lt;/div&gt;</content>
+    <summary>Response to FOI request F0007151: Passenger ship fires in 2010.</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Department for Transport’s (&lt;abbr title="The Department for Transport"&gt;DfT&lt;/abbr&gt;’s) response to Freedom of Information (&lt;abbr title="Freedom of Information"&gt;FOI&lt;/abbr&gt;) request F0007151: Passenger ship fires in 2010.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/10635</id>
@@ -158,6 +178,16 @@
     <category>Publication</category>
     <summary>Response to FOI request F0007842: Blue Badge Scheme</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Department for Transport’s (DfT’s) response to Freedom of Information (&lt;abbr title="Freedom of Information"&gt;FOI&lt;/abbr&gt;) request F0007842: Blue Badge scheme contract.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/10586</id>
+    <published>2012-11-06T00:00:00+00:00</published>
+    <updated>2012-11-06T16:19:40+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/provision-of-road-de-icing-salt"/>
+    <title>Provision of road de-icing salt</title>
+    <category>Publication</category>
+    <summary>Response to FOI request for Information on the provision of road de-icing salt.</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;&lt;abbr title="Freedom of Information"&gt;FOI&lt;/abbr&gt; Request for as much detail as possible for orders of grit during winter 2010-11, winter 2009-10 and winter 2008-09.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/13024</id>
@@ -178,35 +208,5 @@
     <category>Publication</category>
     <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Freedom of information response letter regarding official photographs of ministers.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/13334</id>
-    <published>2012-10-25T01:00:00+01:00</published>
-    <updated>2012-11-08T18:24:05+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/costs-of-hs2-spur-to-heathrow"/>
-    <title>Costs of HS2 spur to Heathrow</title>
-    <category>Publication</category>
-    <summary></summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Freedom of Information response regarding costs of the High Speed 2 spur to Heathrow.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/13025</id>
-    <published>2012-10-15T01:00:00+01:00</published>
-    <updated>2012-11-08T18:13:56+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/items-lost-or-stolen-from-the-department-in-2011"/>
-    <title>Items lost or stolen from the department in 2011</title>
-    <category>Publication</category>
-    <summary/>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Freedom of information response letter regarding items lost or stolen from the department in 2011.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/13023</id>
-    <published>2012-09-25T01:00:00+01:00</published>
-    <updated>2012-11-08T18:19:39+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/compensation-figures-paid-to-passengers-by-train-operating-companies"/>
-    <title>Compensation figures paid to passengers by train operating companies</title>
-    <category>Publication</category>
-    <summary></summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Freedom of information response regarding compensation paid by train operating companies operating the delay/repay scheme.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
 </feed>

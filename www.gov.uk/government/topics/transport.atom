@@ -7,16 +7,40 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2013-01-07T09:31:28+00:00</updated>
+  <updated>2013-01-08T08:30:00+00:00</updated>
   <entry>
-    <id>tag:www.gov.uk,2005:Publication/64055</id>
-    <published>2013-01-07T00:00:00+00:00</published>
-    <updated>2013-01-07T09:31:28+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/general-lighthouse-fund-report-and-accounts-2012"/>
-    <title>General Lighthouse Fund: report and accounts 2012</title>
-    <category>Publication</category>
-    <summary>Report and accounts for the General Lighthouse Fund (year ended 31 March 2012)</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The report and accounts of the General Lighthouse Fund (GLF) are prepared pursuant to Section 211(5) of the Merchant Shipping Act 1995. These accounts have been prepared in accordance with the 2011/12 Government Financial Reporting Manual (&lt;abbr title="Government Financial Reporting Manual"&gt;FReM&lt;/abbr&gt;) issued by HM Treasury. The accounting policies contained in the &lt;abbr title="Government Financial Reporting Manual"&gt;FReM&lt;/abbr&gt; follow International Financial Reporting Standards (&lt;abbr title="International Financial Reporting Standards"&gt;IFRS&lt;/abbr&gt;) to the extent that it is meaningful and appropriate to the public sector.&lt;/p&gt;&lt;/div&gt;</content>
+    <id>tag:www.gov.uk,2005:NewsArticle/64184</id>
+    <published>2013-01-08T08:30:00+00:00</published>
+    <updated>2013-01-08T08:30:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/green-light-for-driving-tests-at-halfords"/>
+    <title>Green light for driving tests at Halfords</title>
+    <category>News article</category>
+    <summary>Plans to offer practical driving tests from branches of Halfords have been given the go ahead by Road Safety Minister Stephen Hammond.</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Driving tests will be available from the Halfords store in Wellingborough from Tuesday 5 February. Other branches of Halfords across the country are expected to start offering tests in coming months. All tests will be conducted by Driving Standards Agency (&lt;abbr title="Driving Standards Agency"&gt;DSA&lt;/abbr&gt;) examiners.&lt;/p&gt;
+
+&lt;p&gt;The move is part of an initiative to offer a more local service for driving test candidates. As well as using conventional test centres, &lt;abbr title="Driving Standards Agency"&gt;DSA&lt;/abbr&gt; is working with public and private sector partners to provide driving tests in areas that don’t have a local test centre. &lt;/p&gt;
+
+&lt;p&gt;Road Safety Minister Stephen Hammond said:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;We are very pleased to be working with Halfords to provide a more local service for driving test candidates.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;This is a great example of working with private sector partners to provide an important local service that is convenient as well as being cost effective.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Halfords Commercial Director, Paul McClenaghan, said: &lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Halfords is already a local destination for motorists, who come to us for a diverse range of automotive products and services.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;We’re always seeking new ways in which to enhance our offer, so working with the Driving Standards Agency is a natural fit for the business and extends the help we are able to provide to motorists.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The government is currently consulting on proposals to improve the way all motoring services are delivered. The &lt;a href="/government/consultations/motoring-services-strategy" title="Motoring Services Strategy"&gt;Motoring Services Strategy&lt;/a&gt; consultation outlines long term proposals to put customers firmly at the heart of the way motoring services are delivered, so that they best serve the consumer while getting the best possible deal for the taxpayer.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:Publication/61518</id>
@@ -34,6 +58,16 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://www.gov.uk/government/publications/port-marine-safety-code"&gt;Port marine safety code&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:Publication/64055</id>
+    <published>2013-01-07T00:00:00+00:00</published>
+    <updated>2013-01-07T09:31:28+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/general-lighthouse-fund-report-and-accounts-2012"/>
+    <title>General Lighthouse Fund: report and accounts 2012</title>
+    <category>Publication</category>
+    <summary>Report and accounts for the General Lighthouse Fund (year ended 31 March 2012)</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The report and accounts of the General Lighthouse Fund (GLF) are prepared pursuant to Section 211(5) of the Merchant Shipping Act 1995. These accounts have been prepared in accordance with the 2011/12 Government Financial Reporting Manual (&lt;abbr title="Government Financial Reporting Manual"&gt;FReM&lt;/abbr&gt;) issued by HM Treasury. The accounting policies contained in the &lt;abbr title="Government Financial Reporting Manual"&gt;FReM&lt;/abbr&gt; follow International Financial Reporting Standards (&lt;abbr title="International Financial Reporting Standards"&gt;IFRS&lt;/abbr&gt;) to the extent that it is meaningful and appropriate to the public sector.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:Speech/64086</id>
@@ -194,16 +228,6 @@ Public enquiries: 0300 330 3000&lt;/p&gt;&lt;/div&gt;</content>
   &lt;li&gt;an application form &lt;/li&gt;
   &lt;li&gt;a scheme impact pro forma for small project bids &lt;/li&gt;
 &lt;/ul&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:Publication/61052</id>
-    <published>2013-01-02T00:00:00+00:00</published>
-    <updated>2013-01-07T11:11:48+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/local-sustainable-transport-fund-application-process-and-bidding-guidance"/>
-    <title>Local Sustainable Transport Fund application process and bidding guidance</title>
-    <category>Publication</category>
-    <summary>Guidance on the Local Sustainable Transport Fund application process.</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;These documents were produced to support the Local Sustainable Transport Fund application process. They were published and made available to all project teams.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:Publication/61045</id>

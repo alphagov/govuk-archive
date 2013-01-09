@@ -8,7 +8,26 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2012-12-11T16:31:03+00:00</updated>
+  <updated>2012-12-13T17:05:04+00:00</updated>
+  <entry>
+    <id>tag:www.gov.uk,2005:Publication/64268</id>
+    <published>2012-12-10T00:00:00+00:00</published>
+    <updated>2012-12-13T17:05:04+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/strength-opportunity-2012-the-landscape-of-the-medical-biotechnology-industrial-biotechnology-and-pharmaceutical-sectors-in-the-uk-annual-update-december-2012"/>
+    <title>Strength &amp; opportunity 2012: the landscape of the medical technology, medical biotechnology, industrial biotechnology and pharmaceutical sectors in the UK. Annual update - December 2012</title>
+    <category>Publication</category>
+    <summary>Fourth annual report analysing the updated 2012 dataset from the bioscience and health technology database.</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Fourth annual report analysing the updated 2012 dataset from the bioscience and health technology database. &lt;/p&gt;
+
+&lt;p&gt;The data relates to companies that are active in the UK in four of the life sciences sectors: &lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;medical technology &lt;/li&gt;
+  &lt;li&gt;medical biotechnology &lt;/li&gt;
+  &lt;li&gt;industrial biotechnology&lt;/li&gt;
+  &lt;li&gt;pharmaceutical &lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;The report enables comparisons against last year’s information to see how these sectors are changing. It also provides an overview of this highly innovative industry with over 4,500 companies, employing over 167,000 people and generating a turnover of over £50billion.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
   <entry>
     <id>tag:www.gov.uk,2005:Publication/48228</id>
     <published>2012-09-21T01:00:00+01:00</published>
@@ -132,16 +151,6 @@
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Report of the work of the global Foreign &amp;amp; Commonwealth Office and Department for Business, Innovation &amp;amp; Skills Science and Innovation Network.&lt;/p&gt;
 
 &lt;p&gt;Highlights the achievements of the network, which uses contacts to monitor global scientific developments and build new relationships and collaborations. It showcases examples of UK work to influence and learn from science and innovation policy internationally, and also facilitate international collaboration to the benefit of the UK.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:Publication/56372</id>
-    <published>2011-12-10T00:00:00+00:00</published>
-    <updated>2012-12-13T17:05:04+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/strength-opportunity-2012-the-landscape-of-the-medical-biotechnology-industrial-biotechnology-and-pharmaceutical-sectors-in-the-uk-annual-update-december-2012"/>
-    <title>Strength &amp; opportunity 2012: the landscape of the medical biotechnology, industrial biotechnology and pharmaceutical sectors in the UK. Annual update - December 2012</title>
-    <category>Publication</category>
-    <summary>Fourth annual report analysing the updated 2012 dataset from the bioscience and health technology database.</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Fourth annual report analysing the updated 2012 dataset from the bioscience and health technology database. The data relates to companies that are active in the UK in three of the life sciences sectors: medical technology, medical biotechnology and industrial biotechnology. Enables comparisons against last year’s information to see how these sectors are changing. Overview of this highly innovative industry with over 4,500 companies, employing over 167,000 people and generating a turnover of over £50billion.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:Publication/46375</id>

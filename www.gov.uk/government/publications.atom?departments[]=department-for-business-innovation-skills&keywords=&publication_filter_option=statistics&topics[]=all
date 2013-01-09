@@ -104,6 +104,16 @@
 &lt;/section&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60891</id>
+    <published>2012-12-28T00:00:00+00:00</published>
+    <updated>2013-01-08T11:17:47+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/24-advanced-learning-loans-regulatory-impact-assessment-annex-2-table"/>
+    <title>24+ Advanced Learning Loans: regulatory impact assessment - Annex 2 table </title>
+    <category>Publication</category>
+    <summary>Further information on Advanced Learning Loans</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Further information on 24+ Advanced Learning Loans: regulatory impact assessment. Contains Annex 2 table.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/60294</id>
     <published>2012-12-21T00:00:00+00:00</published>
     <updated>2012-12-21T10:35:37+00:00</updated>
@@ -122,6 +132,36 @@
     <category>Publication</category>
     <summary></summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Number and value of EFG loans drawn, by bank.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56768</id>
+    <published>2012-12-17T00:00:00+00:00</published>
+    <updated>2012-12-17T09:18:51+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/construction-resource-cost-indices-notes-and-definitions"/>
+    <title>Construction resource cost indices notes and definitions</title>
+    <category>Publication</category>
+    <summary></summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Resource Cost Indices give a measure of the notional trend of input costs to a contractor in terms of increases in the cost of labour, materials and plant by application of the Price Adjustment Formulae for Building (Series 3), Specialist Engineering (Series 3) and Civil Engineering (1990 Series) to cost models.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56763</id>
+    <published>2012-12-17T00:00:00+00:00</published>
+    <updated>2012-12-17T09:51:18+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/construction-tender-prices-indices-december-2012"/>
+    <title>Construction tender prices indices December 2012</title>
+    <category>Publication</category>
+    <summary></summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;A small number of the indices in this release have been revised due to inconsistencies between the indices published on the BIS website and those published on BCIS Online.  Mostly this affects older indices with a few more recent exceptions. BIS apologises for any inconvenience this may have caused.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56761</id>
+    <published>2012-12-17T00:00:00+00:00</published>
+    <updated>2012-12-17T09:59:25+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/quarterly-price-and-cost-indices-commentary-3q-2012"/>
+    <title>Quarterly price and cost indices: commentary 3Q 2012</title>
+    <category>Publication</category>
+    <summary>Commentary</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Explains the data published in the three quarterly BIS construction price and cost indices (PCIs): tender price indices (12/P147C), construction resource cost indices (12/P148C), and output price indices (URN 12/P149C).&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/56769</id>
@@ -144,16 +184,6 @@
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;One of three quarterly BIS construction price and cost indices (PCIs), providing output price indices (OPIs) for construction sectors.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56761</id>
-    <published>2012-12-17T00:00:00+00:00</published>
-    <updated>2012-12-17T09:59:25+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/quarterly-price-and-cost-indices-commentary-3q-2012"/>
-    <title>Quarterly price and cost indices: commentary 3Q 2012</title>
-    <category>Publication</category>
-    <summary>Commentary</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Explains the data published in the three quarterly BIS construction price and cost indices (PCIs): tender price indices (12/P147C), construction resource cost indices (12/P148C), and output price indices (URN 12/P149C).&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/56767</id>
     <published>2012-12-17T00:00:00+00:00</published>
     <updated>2012-12-17T09:21:22+00:00</updated>
@@ -162,26 +192,6 @@
     <category>Publication</category>
     <summary></summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Tender Price Index of Public Sector Building Non Housing (PUBSEC) measures the movement of prices in tenders for building contracts in the public sector in Great Britain. It does not include contracts for housing, civil engineering, mechanical engineering, electrical engineering, minor alterations projects or for repair and maintenance work.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56763</id>
-    <published>2012-12-17T00:00:00+00:00</published>
-    <updated>2012-12-17T09:51:18+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/construction-tender-prices-indices-december-2012"/>
-    <title>Construction tender prices indices December 2012</title>
-    <category>Publication</category>
-    <summary></summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;A small number of the indices in this release have been revised due to inconsistencies between the indices published on the BIS website and those published on BCIS Online.  Mostly this affects older indices with a few more recent exceptions. BIS apologises for any inconvenience this may have caused.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56768</id>
-    <published>2012-12-17T00:00:00+00:00</published>
-    <updated>2012-12-17T09:18:51+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/construction-resource-cost-indices-notes-and-definitions"/>
-    <title>Construction resource cost indices notes and definitions</title>
-    <category>Publication</category>
-    <summary></summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Resource Cost Indices give a measure of the notional trend of input costs to a contractor in terms of increases in the cost of labour, materials and plant by application of the Price Adjustment Formulae for Building (Series 3), Specialist Engineering (Series 3) and Civil Engineering (1990 Series) to cost models.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/57009</id>
@@ -866,86 +876,6 @@
           &lt;a href="mailto:govuk-feedback@digital.cabinet-office.gov.uk?body=%0A%0ADetails%20of%20document%20required%3A%0A%0ATitle%3A%20Building%20materials%20and%20components%20commentary%3A%20March%202012%0AISBN%3A%20%0AUnique%20reference%3A%20%0ACommand%20paper%20number%3A%20%0A%20%20%20%20%20%20&amp;amp;subject=Request%20for%20%27Building%20materials%20and%20components%20commentary%3A%20March%202012%27%20in%20an%20alternative%20format"&gt;govuk-feedback@digital.cabinet-office.gov.uk&lt;/a&gt;
           quoting your address, telephone number along with the title of the
           publication ("Building materials and components commentary: March 2012").
-        &lt;/p&gt;
-      &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/section&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/55815</id>
-    <published>2012-12-12T18:00:55+00:00</published>
-    <updated>2012-12-12T18:00:55+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/statistical-data-sets/building-materials-and-components-statistics-february-2012"/>
-    <title>Building materials and components statistics: February 2012</title>
-    <category>Statistical data set</category>
-    <summary>Statistics and analysis on the construction sector</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This edition presents information on selected building materials, including monthly data on price indices, bricks, cement and concrete blocks. It also presents quarterly data on sand and gravel, slate, concrete roofing tiles, ready-mixed concrete and imports and exports of construction products.&lt;/p&gt;
-
-&lt;section class="attachment embedded" id="attachment_51480"&gt;&lt;div class="attachment-thumb"&gt;
-    &lt;a href="/government/uploads/system/uploads/attachment_data/file/16104/Building_materials_and_components_-_February_2012.pdf" aria-describedby="attachment-51480-accessibility-help" class="thumbnail"&gt;
-      &lt;img alt="" src="https://assets.digital.cabinet-office.gov.uk/government/uploads/system/uploads/attachment_data/file/16104/thumbnail_Building_materials_and_components_-_February_2012.pdf.png"&gt;&lt;/a&gt;  &lt;/div&gt;
-  &lt;div class="attachment-details"&gt;
-    &lt;h3 class="title"&gt;&lt;a href="/government/uploads/system/uploads/attachment_data/file/16104/Building_materials_and_components_-_February_2012.pdf" aria-describedby="attachment-51480-accessibility-help"&gt;Building materials and components: February 2012&lt;/a&gt;&lt;/h3&gt;
-    &lt;p class="metadata"&gt;
-      &lt;span class="type"&gt;&lt;abbr title="Portable Document Format"&gt;PDF&lt;/abbr&gt;&lt;/span&gt;,
-      &lt;span class="file-size"&gt;742 KB&lt;/span&gt;,
-        &lt;span class="page-length"&gt;40 pages&lt;/span&gt;
-    &lt;/p&gt;
-      &lt;div class="accessibility-warning js-toggle-accessibility-warning" id="attachment-51480-accessibility-help"&gt;
-        &lt;h3&gt;This file may not be accessible.
-          &lt;span class="toggler"&gt;Request a different format.&lt;/span&gt;
-        &lt;/h3&gt;
-        &lt;p class="help-block"&gt;
-          To request this document in an alternative format such as braille, audio
-          or a different file type please email
-          &lt;a href="mailto:govuk-feedback@digital.cabinet-office.gov.uk?body=%0A%0ADetails%20of%20document%20required%3A%0A%0ATitle%3A%20Building%20materials%20and%20components%3A%20February%202012%0AISBN%3A%20%0AUnique%20reference%3A%20%0ACommand%20paper%20number%3A%20%0A%20%20%20%20%20%20&amp;amp;subject=Request%20for%20%27Building%20materials%20and%20components%3A%20February%202012%27%20in%20an%20alternative%20format"&gt;govuk-feedback@digital.cabinet-office.gov.uk&lt;/a&gt;
-          quoting your address, telephone number along with the title of the
-          publication ("Building materials and components: February 2012").
-        &lt;/p&gt;
-      &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/section&gt;&lt;section class="attachment embedded" id="attachment_51481"&gt;&lt;div class="attachment-thumb"&gt;
-    &lt;a href="/government/uploads/system/uploads/attachment_data/file/16105/Building_materials_and_components_-_February_2012.xls" aria-describedby="attachment-51481-accessibility-help" class="thumbnail"&gt;
-      &lt;img alt="" src="https://assets.digital.cabinet-office.gov.uk/government/assets/pub-cover-f3684e2880956dff7bb138bfb0c2bebf.png"&gt;&lt;/a&gt;  &lt;/div&gt;
-  &lt;div class="attachment-details"&gt;
-    &lt;h3 class="title"&gt;&lt;a href="/government/uploads/system/uploads/attachment_data/file/16105/Building_materials_and_components_-_February_2012.xls" aria-describedby="attachment-51481-accessibility-help"&gt;Building materials and components: February 2012&lt;/a&gt;&lt;/h3&gt;
-    &lt;p class="metadata"&gt;
-      &lt;span class="type"&gt;MS Excel Spreadsheet&lt;/span&gt;,
-      &lt;span class="file-size"&gt;627 KB&lt;/span&gt;
-    &lt;/p&gt;
-      &lt;div class="accessibility-warning js-toggle-accessibility-warning" id="attachment-51481-accessibility-help"&gt;
-        &lt;h3&gt;This file may not be accessible.
-          &lt;span class="toggler"&gt;Request a different format.&lt;/span&gt;
-        &lt;/h3&gt;
-        &lt;p class="help-block"&gt;
-          To request this document in an alternative format such as braille, audio
-          or a different file type please email
-          &lt;a href="mailto:govuk-feedback@digital.cabinet-office.gov.uk?body=%0A%0ADetails%20of%20document%20required%3A%0A%0ATitle%3A%20Building%20materials%20and%20components%3A%20February%202012%0AISBN%3A%20%0AUnique%20reference%3A%20%0ACommand%20paper%20number%3A%20%0A%20%20%20%20%20%20&amp;amp;subject=Request%20for%20%27Building%20materials%20and%20components%3A%20February%202012%27%20in%20an%20alternative%20format"&gt;govuk-feedback@digital.cabinet-office.gov.uk&lt;/a&gt;
-          quoting your address, telephone number along with the title of the
-          publication ("Building materials and components: February 2012").
-        &lt;/p&gt;
-      &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/section&gt;&lt;section class="attachment embedded" id="attachment_51482"&gt;&lt;div class="attachment-thumb"&gt;
-    &lt;a href="/government/uploads/system/uploads/attachment_data/file/16106/Building_materials_and_components_commentary_-_February_2012.pdf" aria-describedby="attachment-51482-accessibility-help" class="thumbnail"&gt;
-      &lt;img alt="" src="https://assets.digital.cabinet-office.gov.uk/government/uploads/system/uploads/attachment_data/file/16106/thumbnail_Building_materials_and_components_commentary_-_February_2012.pdf.png"&gt;&lt;/a&gt;  &lt;/div&gt;
-  &lt;div class="attachment-details"&gt;
-    &lt;h3 class="title"&gt;&lt;a href="/government/uploads/system/uploads/attachment_data/file/16106/Building_materials_and_components_commentary_-_February_2012.pdf" aria-describedby="attachment-51482-accessibility-help"&gt;Building materials and components commentary: February 2012&lt;/a&gt;&lt;/h3&gt;
-    &lt;p class="metadata"&gt;
-      &lt;span class="type"&gt;&lt;abbr title="Portable Document Format"&gt;PDF&lt;/abbr&gt;&lt;/span&gt;,
-      &lt;span class="file-size"&gt;113 KB&lt;/span&gt;,
-        &lt;span class="page-length"&gt;12 pages&lt;/span&gt;
-    &lt;/p&gt;
-      &lt;div class="accessibility-warning js-toggle-accessibility-warning" id="attachment-51482-accessibility-help"&gt;
-        &lt;h3&gt;This file may not be accessible.
-          &lt;span class="toggler"&gt;Request a different format.&lt;/span&gt;
-        &lt;/h3&gt;
-        &lt;p class="help-block"&gt;
-          To request this document in an alternative format such as braille, audio
-          or a different file type please email
-          &lt;a href="mailto:govuk-feedback@digital.cabinet-office.gov.uk?body=%0A%0ADetails%20of%20document%20required%3A%0A%0ATitle%3A%20Building%20materials%20and%20components%20commentary%3A%20February%202012%0AISBN%3A%20%0AUnique%20reference%3A%20%0ACommand%20paper%20number%3A%20%0A%20%20%20%20%20%20&amp;amp;subject=Request%20for%20%27Building%20materials%20and%20components%20commentary%3A%20February%202012%27%20in%20an%20alternative%20format"&gt;govuk-feedback@digital.cabinet-office.gov.uk&lt;/a&gt;
-          quoting your address, telephone number along with the title of the
-          publication ("Building materials and components commentary: February 2012").
         &lt;/p&gt;
       &lt;/div&gt;
   &lt;/div&gt;
