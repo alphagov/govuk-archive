@@ -7,7 +7,39 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2013-01-07T15:51:02+00:00</updated>
+  <updated>2013-01-09T08:55:23+00:00</updated>
+  <entry>
+    <id>tag:www.gov.uk,2005:Publication/64036</id>
+    <published>2013-01-09T00:00:00+00:00</published>
+    <updated>2013-01-09T08:55:23+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/luton-borough-councils-compulsory-purchase-order-for-station-house-inspectors-report"/>
+    <title>Luton Borough Council's compulsory purchase order for Station House: inspector's report</title>
+    <category>Publication</category>
+    <summary>Report by the inspector who held an inquiry into the Luton Borough Council (Station House, Midland Road) compulsory purchase order 2011.</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This report was written by the inspector who held an inquiry into the Luton Borough Council (Station House, Midland Road) compulsory purchase order 2011. It contains recommendations to amend words in the order and then confirm it.&lt;/p&gt;
+
+&lt;h2 id="related-documents"&gt;Related documents&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.gov.uk//government/publications/luton-borough-councils-compulsory-purchase-order-for-station-house-decision-letter"&gt;Luton Borough Council’s compulsory purchase order for Station House: decision letter&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:Publication/64032</id>
+    <published>2013-01-09T00:00:00+00:00</published>
+    <updated>2013-01-09T08:55:39+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/luton-borough-councils-compulsory-purchase-order-for-station-house-decision-letter"/>
+    <title>Luton Borough Council's compulsory purchase order for Station House: decision letter</title>
+    <category>Publication</category>
+    <summary>Explaining the Secretary of State's decision about the Luton Borough Council (Station House, Midland Road) compulsory purchase order 2011.</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This letter gives details about the Secretary of State’s decision on the Luton Borough Council (Station House, Midland Road) compulsory purchase order 2011. It explains that the Secretary of State has decided to confirm the order subject to a specified modification.&lt;/p&gt;
+
+&lt;h2 id="related-documents"&gt;Related documents&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.gov.uk/government/publications/luton-borough-councils-compulsory-purchase-order-for-station-house-inspectors-report"&gt;Luton Borough Council’s compulsory purchase order for Station House: inspector’s report&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
+  </entry>
   <entry>
     <id>tag:www.gov.uk,2005:Consultation/64074</id>
     <published>2013-01-07T15:51:02+00:00</published>
@@ -128,16 +160,6 @@
 &lt;p&gt;We’re supporting the &lt;a rel="external" href="http://data.gov.uk/blog/local-public-data-panel" title="data.gov.uk: Local Public Data Panel"&gt;Local Public Data Panel,&lt;/a&gt; an independent panel of experts on open data and transparency chaired by Professor Nigel Shadbolt. The panel was set up to make local public services better understood and more accessible. Its members include local authorities, community activists and web developers.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:Publication/61052</id>
-    <published>2013-01-02T00:00:00+00:00</published>
-    <updated>2013-01-07T11:11:48+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/local-sustainable-transport-fund-application-process-and-bidding-guidance"/>
-    <title>Local Sustainable Transport Fund application process and bidding guidance</title>
-    <category>Publication</category>
-    <summary>Guidance on the Local Sustainable Transport Fund application process.</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;These documents were produced to support the Local Sustainable Transport Fund application process. They were published and made available to all project teams.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
     <id>tag:www.gov.uk,2005:Publication/61045</id>
     <published>2013-01-02T00:00:00+00:00</published>
     <updated>2013-01-07T11:11:06+00:00</updated>
@@ -146,6 +168,16 @@
     <category>Publication</category>
     <summary>Local Sustainable Transport Fund project summary information.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Department for Transport has awarded Local Sustainable Transport Fund (&lt;abbr title="Local Sustainable Transport Fund"&gt;LSTF&lt;/abbr&gt;) funding in 3 streams. Tranche 1 and key component projects were awarded in July 2011. This was followed by 2 funding announcements in May and June 2012, for large projects above £5 million and tranche 2 of smaller projects. &lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:Publication/61052</id>
+    <published>2013-01-02T00:00:00+00:00</published>
+    <updated>2013-01-07T11:11:48+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/local-sustainable-transport-fund-application-process-and-bidding-guidance"/>
+    <title>Local Sustainable Transport Fund application process and bidding guidance</title>
+    <category>Publication</category>
+    <summary>Guidance on the Local Sustainable Transport Fund application process.</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;These documents were produced to support the Local Sustainable Transport Fund application process. They were published and made available to all project teams.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:NewsArticle/64108</id>
@@ -281,18 +313,6 @@
 &lt;p&gt;Fire and rescue authorities have been protected with savings back loaded to allow time for sensible savings; they have also benefited from the protection to local government in 2013 to 2014. In addition the outgoing Chief Fire and Rescue Adviser, Sir Ken Knight, has been asked to carry out a review to pinpoint ways to help fire and rescue authorities save money. The government intends to announce the breakdown of £140 million of capital grant money to fire and rescue authorities. The money for 2013 to 2015 will be distributed by a combination of formula and for projects to fire and rescue authorities that have been successful through bidding. All fire and rescue authorities will receive some capital funding.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:Consultation/60312</id>
-    <published>2012-12-21T00:00:00+00:00</published>
-    <updated>2012-12-21T10:57:38+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/consultations/local-government-pension-scheme-2014-draft-regulations-on-membership-contributions-and-benefits"/>
-    <title>Local government pension scheme 2014: draft regulations on membership, contributions and benefits</title>
-    <category>Consultation</category>
-    <summary>Consultation on the provisions relating to membership, contributions and benefits which come into force in April 2014.</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This consultation seeks responses from interested parties on draft regulations for the new Local Government Pension Scheme to come into force in April 2014. This consultation only covers the core elements of the new scheme, in particular, the provisions relating to membership, contributions and benefits. &lt;/p&gt;
-
-&lt;p&gt;A second consultation exercise covering the remainder of the new scheme will follow shortly.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
     <id>tag:www.gov.uk,2005:Publication/60592</id>
     <published>2012-12-21T00:00:00+00:00</published>
     <updated>2012-12-21T14:38:46+00:00</updated>
@@ -303,114 +323,15 @@
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Guidance on the production of equality impact assessments.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:NewsArticle/60241</id>
-    <published>2012-12-20T12:25:00+00:00</published>
-    <updated>2012-12-20T12:25:01+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/mod-awards-258-million-sea-king-helicopter-support-contract"/>
-    <title>MOD awards £258 million Sea King helicopter support contract</title>
-    <category>News article</category>
-    <summary>The MOD has agreed a £258 million contract to support Sea King helicopters, which will sustain 500 jobs across the UK.
-</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The &lt;a rel="external" href="http://www.royalnavy.mod.uk/" title="Royal Navy"&gt;Royal Navy&lt;/a&gt; and &lt;a rel="external" href="http://www.raf.mod.uk/" title="Royal Air Force"&gt;Royal Air Force&lt;/a&gt; fleets of &lt;a rel="external" href="http://www.royalnavy.mod.uk/The-Fleet/Aircraft/Helicopters/Sea-King-Mk5" title="Sea King Mk5"&gt;Sea Kings&lt;/a&gt; are best known for providing &lt;a rel="external" href="http://www.royalnavy.mod.uk/Operations/Enduring-Operations/UK/Search-and-Rescue" title="Search and Rescue"&gt;Search and Rescue&lt;/a&gt; (&lt;abbr title="Search and Rescue"&gt;SAR&lt;/abbr&gt;) services in the UK and Falkland Islands. They can also be used to carry troops and provide airborne surveillance. &lt;/p&gt;
+    <id>tag:www.gov.uk,2005:Consultation/60312</id>
+    <published>2012-12-21T00:00:00+00:00</published>
+    <updated>2012-12-21T10:57:38+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/consultations/local-government-pension-scheme-2014-draft-regulations-on-membership-contributions-and-benefits"/>
+    <title>Local government pension scheme 2014: draft regulations on membership, contributions and benefits</title>
+    <category>Consultation</category>
+    <summary>Consultation on the provisions relating to membership, contributions and benefits which come into force in April 2014.</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This consultation seeks responses from interested parties on draft regulations for the new Local Government Pension Scheme to come into force in April 2014. This consultation only covers the core elements of the new scheme, in particular, the provisions relating to membership, contributions and benefits. &lt;/p&gt;
 
-&lt;p&gt;This extension to the Sea King Integrated Operational Support (&lt;abbr title="Sea King Integrated Operational Support"&gt;SKIOS&lt;/abbr&gt;) contract will ensure continued technical and maintenance support for the 90-strong helicopter fleet for the next 3 years.&lt;/p&gt;
-
-&lt;p&gt;The MOD originally signed the &lt;abbr title="Sea King Integrated Operational Support"&gt;SKIOS&lt;/abbr&gt; arrangement with &lt;a rel="external" href="http://www.agustawestland.com/" title="AgustaWestland"&gt;AgustaWestland&lt;/a&gt; in 2005 and this is the final phase of the deal which is expected to sustain around 500 jobs at AgustaWestland’s UK headquarters at Yeovil, in the industry supply chain and at several &lt;abbr title="Search and Rescue"&gt;SAR&lt;/abbr&gt; bases across the UK.&lt;/p&gt;
-
-&lt;figure class="image embedded"&gt;&lt;div class="img"&gt;&lt;img alt="A Royal Navy Sea King Mk4 helicopter" src="https://assets.digital.cabinet-office.gov.uk/government/uploads/system/uploads/image_data/file/5786/45153254g.jpg"&gt;&lt;/div&gt;
-  &lt;figcaption&gt;A Royal Navy Sea King Mk4 helicopter is pictured on an operation over Helmand Province, Afghanistan (stock image) [Picture: Petty Officer Airman (Photographer) Mez Merrill, Crown Copyright/MOD 2011]&lt;/figcaption&gt;&lt;/figure&gt;&lt;p&gt;This phase of the contract will provide support until Sea King is retired from service in 2016 and replaced by &lt;a rel="external" href="http://www.royalnavy.mod.uk/The-Fleet/Aircraft/Helicopters/Merlin-MK1" title="Merlin MK1"&gt;Merlin&lt;/a&gt; helicopters.&lt;/p&gt;
-
-&lt;p&gt;Minister for Defence Equipment, Support and Technology Philip Dunne said:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;The Sea King helicopter fleet has been in service for over 40 years providing a vital capability in air/sea rescue and surveillance. This maintenance agreement, securing 500 jobs across the UK, demonstrates our commitment to keeping this aircraft in top condition until it is retired from service.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Royal Navy Captain Tony Gray, Defence Equipment and Support Sea King Team Leader, said:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Securing this contract ensures value for money for the taxpayer while maintaining the provision of search-and-rescue helicopters around the UK, 24-hours-a-day throughout the year.&lt;/p&gt;
-&lt;/blockquote&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:Publication/60769</id>
-    <published>2012-12-20T00:00:00+00:00</published>
-    <updated>2012-11-05T21:19:02+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/bus-subsidy-per-passenger-journey"/>
-    <title>Bus subsidy per passenger journey</title>
-    <category>Publication</category>
-    <summary>Bus subsidy per passenger journey input indicator.</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="dft-business-plan-input-indicator"&gt;DfT Business Plan input indicator&lt;/h2&gt;
-
-&lt;h3 id="geographical-coverage-england"&gt;Geographical coverage: England&lt;/h3&gt;
-
-&lt;h3 id="information-broken-down-by-region---data-are-available-for-london-english-metropolitan-areas-as-a-group-and-english-non-metropolitan-areas-as-a-group"&gt;Information broken down by: Region - data are available for London, English metropolitan areas (as a group), and English non-metropolitan areas (as a group)&lt;/h3&gt;
-
-&lt;h2 id="latest-data"&gt;Latest data&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;In 2011/12, the average level of subsidy (direct from central government) per passenger journey was 9.2 pence.&lt;/li&gt;
-&lt;/ul&gt;&lt;h2 id="table-for-net-government-support-for-local-bus-services-and-concessionary-travel-per-passenger-journey-by-metropolitan-area-status-england-annual-from-200405"&gt;Table for Net government support for local bus services and concessionary travel per passenger journey by metropolitan area status: England, annual from 2004/05&lt;/h2&gt;
-
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Most recent data&lt;/th&gt;
-      &lt;th&gt; &lt;/th&gt;
-    &lt;/tr&gt;
-&lt;tr&gt;
-&lt;th&gt;Year&lt;/th&gt;
-      &lt;th&gt;Subsidy per Journey (2010/11 prices)&lt;/th&gt;
-    &lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;2010/11&lt;/td&gt;
-      &lt;td&gt;9.2p&lt;/td&gt;
-    &lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;2011/12&lt;/td&gt;
-      &lt;td&gt;9.2p&lt;/td&gt;
-    &lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Percentage change&lt;/td&gt;
-      &lt;td&gt;-0.5 %&lt;/td&gt;
-    &lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;&lt;p&gt;The complete set of data is available at: &lt;a href="https://www.gov.uk/government/statistical-data-sets/bus05-subsidies-and-concessions"&gt;https://www.gov.uk/government/statistical-data-sets/bus05-subsidies-and-concessions&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a rel="external" href="http://charts.dft.gov.uk/dft-business-plan/indicators/#10"&gt;Click here to view this data in an interactive chart&lt;/a&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;In 2011/12 the average level of subsidy (direct from central government) per passenger journey was 9.2 pence. This decreased (adjusted for inflation) from 10.1 pence in 2004/05. &lt;/li&gt;
-  &lt;li&gt;English non-Metropolitan areas had the highest level of subsidy per passenger journey (15.8 pence in 2011/12), London had the lowest level of subsidy per passenger journey (4.8 pence in 2011/12) while English Metropolitan areas were in-between (10.7 pence in 2011/12). Comparisons between London and the rest of the country should be made with care – see note in Background Information below.&lt;/li&gt;
-&lt;/ul&gt;&lt;h2 id="background-information"&gt;Background information&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Lower subsidy per passenger journey will indicate better value for the public purse. However, this could arise as a result of reductions in the most heavily subsidised services – many of which are routes in rural areas which would be unprofitable without public subsidy. Reductions to these services would improve the ‘headline’ measure but would risk making rural communities more isolated. &lt;/li&gt;
-  &lt;li&gt;The figures exclude expenditure on capital projects (e.g. bus lane priority schemes) which benefit the bus industry directly or indirectly. Outside London, the local bus industry is deregulated, but London runs an entirely tendered bus market under the oversight of Transport for London. Given the different market structures, comparisons between London and the rest of country should be made with considerable care.&lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;The indicator is calculated by dividing the total Bus Service Operators’ Grant by the total passenger journeys on buses (this will include concessionary journeys). Further information is available in the measurement template (above). &lt;/p&gt;
-
-    &lt;ul&gt;
-&lt;li&gt;publishing schedule: annual&lt;/li&gt;
-      &lt;li&gt;last updated: 20 December 2012&lt;/li&gt;
-      &lt;li&gt;next update: December 2013&lt;/li&gt;
-    &lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;&lt;h2 id="other-related-data-and-information"&gt;Other related data and information&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.gov.uk/technical-guidance-for-transport-stats#bus-statistics"&gt;The full guidance notes on DfT bus statistics&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="https://www.gov.uk/government/organisations/department-for-transport/series/bus-statistics"&gt;Related bus statistics&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="https://www.gov.uk/government/organisations/department-for-transport/series/statistics-on-public-attitudes-to-transport"&gt;Research on attitudes to bus travel&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;h2 id="further-information"&gt;Further information&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.gov.uk/government/publications/department-for-transport-business-plan"&gt;Business Plan 2011-2015&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="https://www.gov.uk/government/publications/input-and-impact-indicators"&gt;Input and impact indicators&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Analyst contact: Matthew Tranter, &lt;a href="mailto:bus.statistics@dft.gsi.gov.uk"&gt;Bus statistics&lt;/a&gt;
-&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</content>
+&lt;p&gt;A second consultation exercise covering the remainder of the new scheme will follow shortly.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
 </feed>

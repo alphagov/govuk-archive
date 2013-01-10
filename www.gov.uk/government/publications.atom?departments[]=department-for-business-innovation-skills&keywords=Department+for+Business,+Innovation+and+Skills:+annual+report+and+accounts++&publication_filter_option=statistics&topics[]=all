@@ -8,7 +8,55 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2013-01-03T12:42:47+00:00</updated>
+  <updated>2013-01-09T09:30:00+00:00</updated>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/64302</id>
+    <published>2013-01-09T09:30:00+00:00</published>
+    <updated>2013-01-09T09:30:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/statistical-data-sets/building-materials-and-components-statistics-december-2012"/>
+    <title>Building materials and components statistics: December 2012</title>
+    <category>Statistical data set</category>
+    <summary>Statistics and analysis on the construction sector
+</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Presents information on selected building materials, including monthly data on price indices, bricks, cement and concrete blocks. It also presents quarterly data on sand and gravel, slate, concrete roofing tiles, ready-mixed concrete and imports and exports of construction products.&lt;/p&gt;
+
+&lt;section class="attachment embedded" id="attachment_69439"&gt;&lt;div class="attachment-thumb"&gt;
+    &lt;a href="/government/uploads/system/uploads/attachment_data/file/48973/13-313a-construction-building-materials-bulletin-december-2012.pdf" class="thumbnail"&gt;
+      &lt;img alt="" src="https://assets.digital.cabinet-office.gov.uk/government/uploads/system/uploads/attachment_data/file/48973/thumbnail_13-313a-construction-building-materials-bulletin-december-2012.pdf.png"&gt;&lt;/a&gt;  &lt;/div&gt;
+  &lt;div class="attachment-details"&gt;
+    &lt;h3 class="title"&gt;&lt;a href="/government/uploads/system/uploads/attachment_data/file/48973/13-313a-construction-building-materials-bulletin-december-2012.pdf"&gt;Building materials and components: December 2012&lt;/a&gt;&lt;/h3&gt;
+    &lt;p class="metadata"&gt;
+        &lt;span class="references"&gt;Ref: &lt;span class="unique_reference"&gt;BIS/13/313A&lt;/span&gt;&lt;/span&gt;
+      &lt;span class="type"&gt;&lt;abbr title="Portable Document Format"&gt;PDF&lt;/abbr&gt;&lt;/span&gt;,
+      &lt;span class="file-size"&gt;481 KB&lt;/span&gt;,
+        &lt;span class="page-length"&gt;40 pages&lt;/span&gt;
+    &lt;/p&gt;
+  &lt;/div&gt;
+&lt;/section&gt;&lt;section class="attachment embedded" id="attachment_69440"&gt;&lt;div class="attachment-thumb"&gt;
+    &lt;a href="/government/uploads/system/uploads/attachment_data/file/48974/13-313a-data-construction-building-materials-tables-december-2012.xls" class="thumbnail"&gt;
+      &lt;img alt="" src="https://assets.digital.cabinet-office.gov.uk/government/assets/pub-cover-f3684e2880956dff7bb138bfb0c2bebf.png"&gt;&lt;/a&gt;  &lt;/div&gt;
+  &lt;div class="attachment-details"&gt;
+    &lt;h3 class="title"&gt;&lt;a href="/government/uploads/system/uploads/attachment_data/file/48974/13-313a-data-construction-building-materials-tables-december-2012.xls"&gt;Building materials and components: December 2012&lt;/a&gt;&lt;/h3&gt;
+    &lt;p class="metadata"&gt;
+        &lt;span class="references"&gt;Ref: &lt;span class="unique_reference"&gt;BIS/13/313A&lt;/span&gt;&lt;/span&gt;
+      &lt;span class="type"&gt;MS Excel Spreadsheet&lt;/span&gt;,
+      &lt;span class="file-size"&gt;687 KB&lt;/span&gt;
+    &lt;/p&gt;
+  &lt;/div&gt;
+&lt;/section&gt;&lt;section class="attachment embedded" id="attachment_69441"&gt;&lt;div class="attachment-thumb"&gt;
+    &lt;a href="/government/uploads/system/uploads/attachment_data/file/48975/13-p125a-construction-building-materials-commentary-december-2012.pdf" class="thumbnail"&gt;
+      &lt;img alt="" src="https://assets.digital.cabinet-office.gov.uk/government/uploads/system/uploads/attachment_data/file/48975/thumbnail_13-p125a-construction-building-materials-commentary-december-2012.pdf.png"&gt;&lt;/a&gt;  &lt;/div&gt;
+  &lt;div class="attachment-details"&gt;
+    &lt;h3 class="title"&gt;&lt;a href="/government/uploads/system/uploads/attachment_data/file/48975/13-p125a-construction-building-materials-commentary-december-2012.pdf"&gt;Building materials and components commentary: December 2012&lt;/a&gt;&lt;/h3&gt;
+    &lt;p class="metadata"&gt;
+        &lt;span class="references"&gt;Ref: &lt;span class="unique_reference"&gt;BIS/13/P125A&lt;/span&gt;&lt;/span&gt;
+      &lt;span class="type"&gt;&lt;abbr title="Portable Document Format"&gt;PDF&lt;/abbr&gt;&lt;/span&gt;,
+      &lt;span class="file-size"&gt;102 KB&lt;/span&gt;,
+        &lt;span class="page-length"&gt;11 pages&lt;/span&gt;
+    &lt;/p&gt;
+  &lt;/div&gt;
+&lt;/section&gt;&lt;/div&gt;</content>
+  </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/61141</id>
     <published>2013-01-03T12:42:47+00:00</published>
@@ -160,16 +208,6 @@
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Explains the data published in the three quarterly BIS construction price and cost indices (PCIs): tender price indices (12/P147C), construction resource cost indices (12/P148C), and output price indices (URN 12/P149C).&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56767</id>
-    <published>2012-12-17T00:00:00+00:00</published>
-    <updated>2012-12-17T09:21:22+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/construction-tender-price-indices-tpis-notes-and-definitions"/>
-    <title>Construction tender price indices (TPIs) notes and definitions</title>
-    <category>Publication</category>
-    <summary></summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Tender Price Index of Public Sector Building Non Housing (PUBSEC) measures the movement of prices in tenders for building contracts in the public sector in Great Britain. It does not include contracts for housing, civil engineering, mechanical engineering, electrical engineering, minor alterations projects or for repair and maintenance work.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/56768</id>
     <published>2012-12-17T00:00:00+00:00</published>
     <updated>2012-12-17T09:18:51+00:00</updated>
@@ -178,6 +216,16 @@
     <category>Publication</category>
     <summary></summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Resource Cost Indices give a measure of the notional trend of input costs to a contractor in terms of increases in the cost of labour, materials and plant by application of the Price Adjustment Formulae for Building (Series 3), Specialist Engineering (Series 3) and Civil Engineering (1990 Series) to cost models.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56767</id>
+    <published>2012-12-17T00:00:00+00:00</published>
+    <updated>2012-12-17T09:21:22+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/construction-tender-price-indices-tpis-notes-and-definitions"/>
+    <title>Construction tender price indices (TPIs) notes and definitions</title>
+    <category>Publication</category>
+    <summary></summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Tender Price Index of Public Sector Building Non Housing (PUBSEC) measures the movement of prices in tenders for building contracts in the public sector in Great Britain. It does not include contracts for housing, civil engineering, mechanical engineering, electrical engineering, minor alterations projects or for repair and maintenance work.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/55797</id>
@@ -1704,179 +1752,5 @@
 &lt;/li&gt;
   &lt;li&gt;a statement of administrative sources&lt;/li&gt;
 &lt;/ul&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/55666</id>
-    <published>2012-12-05T00:00:00+00:00</published>
-    <updated>2012-12-12T20:00:43+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/user-engagement-and-the-business-population-estimates"/>
-    <title>User engagement and the business population estimates</title>
-    <category>Publication</category>
-    <summary>BIS: User engagement and the business population estimates (BPEs)</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Department for Business, Innovation &amp;amp; Skills (&lt;abbr title="Department for Business, Innovation &amp;amp; Skills"&gt;BIS&lt;/abbr&gt;) recognises the importance of effective engagement with users of the Business Population Estimates (&lt;abbr title="Business Population Estimates"&gt;BPE&lt;/abbr&gt;) publication, to ensure that they are well informed about the statistics they are using and that their views are taken into account during developments to the statistics. For further information about this, please see below: &lt;/p&gt;
-
-&lt;h3 id="bpe-user-engagement-strategy"&gt;1. &lt;abbr title="Business Population Estimates"&gt;BPE&lt;/abbr&gt; User Engagement Strategy&lt;/h3&gt;
-
-&lt;p&gt;The User Engagement Strategy Paper shows how we comply with the user engagement practices listed in the Code of Practice for Official Statistics.&lt;/p&gt;
-
-&lt;section class="attachment embedded" id="attachment_51221"&gt;&lt;div class="attachment-thumb"&gt;
-    &lt;a href="/government/uploads/system/uploads/attachment_data/file/16413/bpe_user_engagement_strategy.pdf" aria-describedby="attachment-51221-accessibility-help" class="thumbnail"&gt;
-      &lt;img alt="" src="https://assets.digital.cabinet-office.gov.uk/government/uploads/system/uploads/attachment_data/file/16413/thumbnail_bpe_user_engagement_strategy.pdf.png"&gt;&lt;/a&gt;  &lt;/div&gt;
-  &lt;div class="attachment-details"&gt;
-    &lt;h3 class="title"&gt;&lt;a href="/government/uploads/system/uploads/attachment_data/file/16413/bpe_user_engagement_strategy.pdf" aria-describedby="attachment-51221-accessibility-help"&gt;The user Engagement Strategy Paper&lt;/a&gt;&lt;/h3&gt;
-    &lt;p class="metadata"&gt;
-      &lt;span class="type"&gt;&lt;abbr title="Portable Document Format"&gt;PDF&lt;/abbr&gt;&lt;/span&gt;,
-      &lt;span class="file-size"&gt;93.3 KB&lt;/span&gt;,
-        &lt;span class="page-length"&gt;6 pages&lt;/span&gt;
-    &lt;/p&gt;
-      &lt;div class="accessibility-warning js-toggle-accessibility-warning" id="attachment-51221-accessibility-help"&gt;
-        &lt;h3&gt;This file may not be accessible.
-          &lt;span class="toggler"&gt;Request a different format.&lt;/span&gt;
-        &lt;/h3&gt;
-        &lt;p class="help-block"&gt;
-          To request this document in an alternative format such as braille, audio
-          or a different file type please email
-          &lt;a href="mailto:govuk-feedback@digital.cabinet-office.gov.uk?body=%0A%0ADetails%20of%20document%20required%3A%0A%0ATitle%3A%20The%20user%20Engagement%20Strategy%20Paper%0AISBN%3A%20%0AUnique%20reference%3A%20%0ACommand%20paper%20number%3A%20%0A%20%20%20%20%20%20&amp;amp;subject=Request%20for%20%27The%20user%20Engagement%20Strategy%20Paper%27%20in%20an%20alternative%20format"&gt;govuk-feedback@digital.cabinet-office.gov.uk&lt;/a&gt;
-          quoting your address, telephone number along with the title of the
-          publication ("The user Engagement Strategy Paper").
-        &lt;/p&gt;
-      &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/section&gt;&lt;h3 id="public-consultation-and-methodology-review"&gt;2. Public Consultation and Methodology Review&lt;/h3&gt;
-
-&lt;p&gt;In December 2008 &lt;abbr title="Department for Business, Innovation &amp;amp; Skills"&gt;BIS&lt;/abbr&gt; held a public consultation to get the views of users on the usefulness of the former publication Small and Medium-sized Enterprise Statistics for the UK and Regions and suggestions on how it could be improved. Taking into account the views of users, Business Population Estimates for the UK and Regions was released in 2011, providing more timely and reliable estimates of the number of businesses in the UK using a new methodology. For more information, see the &lt;a rel="external" href="http://webarchive.nationalarchives.gov.uk/20110920151722/webarchive.nationalarchives.gov.uk/+/http://www.berr.gov.uk/whatwedo/enterprise_old/enterprisesmes/page49415.html"&gt;Consultation and the subsequent Government response document&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h3 id="bpe-user-survey"&gt;3. &lt;abbr title="Business Population Estimates"&gt;BPE&lt;/abbr&gt; User Survey&lt;/h3&gt;
-
-&lt;p&gt;We would be very grateful if users could provide feedback on the &lt;abbr title="Business Population Estimates"&gt;BPE&lt;/abbr&gt; publication by completing our short survey – please click on the link to the right to access the &lt;a rel="external" href="http://www.surveymonkey.com/s/DMFYDPB"&gt;&lt;abbr title="Business Population Estimates"&gt;BPE&lt;/abbr&gt; User Survey&lt;/a&gt;. The results of the &lt;abbr title="Business Population Estimates"&gt;BPE&lt;/abbr&gt; User survey (PDF, 169 Kb)  are available below:&lt;/p&gt;
-
-&lt;section class="attachment embedded" id="attachment_51222"&gt;&lt;div class="attachment-thumb"&gt;
-    &lt;a href="/government/uploads/system/uploads/attachment_data/file/16414/business_population_estimates_user_survey_results.pdf" aria-describedby="attachment-51222-accessibility-help" class="thumbnail"&gt;
-      &lt;img alt="" src="https://assets.digital.cabinet-office.gov.uk/government/uploads/system/uploads/attachment_data/file/16414/thumbnail_business_population_estimates_user_survey_results.pdf.png"&gt;&lt;/a&gt;  &lt;/div&gt;
-  &lt;div class="attachment-details"&gt;
-    &lt;h3 class="title"&gt;&lt;a href="/government/uploads/system/uploads/attachment_data/file/16414/business_population_estimates_user_survey_results.pdf" aria-describedby="attachment-51222-accessibility-help"&gt;Results of the &lt;abbr title="Business Population Estimates"&gt;BPE&lt;/abbr&gt; user survey&lt;/a&gt;&lt;/h3&gt;
-    &lt;p class="metadata"&gt;
-      &lt;span class="type"&gt;&lt;abbr title="Portable Document Format"&gt;PDF&lt;/abbr&gt;&lt;/span&gt;,
-      &lt;span class="file-size"&gt;169 KB&lt;/span&gt;,
-        &lt;span class="page-length"&gt;9 pages&lt;/span&gt;
-    &lt;/p&gt;
-      &lt;div class="accessibility-warning js-toggle-accessibility-warning" id="attachment-51222-accessibility-help"&gt;
-        &lt;h3&gt;This file may not be accessible.
-          &lt;span class="toggler"&gt;Request a different format.&lt;/span&gt;
-        &lt;/h3&gt;
-        &lt;p class="help-block"&gt;
-          To request this document in an alternative format such as braille, audio
-          or a different file type please email
-          &lt;a href="mailto:govuk-feedback@digital.cabinet-office.gov.uk?body=%0A%0ADetails%20of%20document%20required%3A%0A%0ATitle%3A%20Results%20of%20the%20BPE%20user%20survey%0AISBN%3A%20%0AUnique%20reference%3A%20%0ACommand%20paper%20number%3A%20%0A%20%20%20%20%20%20&amp;amp;subject=Request%20for%20%27Results%20of%20the%20BPE%20user%20survey%27%20in%20an%20alternative%20format"&gt;govuk-feedback@digital.cabinet-office.gov.uk&lt;/a&gt;
-          quoting your address, telephone number along with the title of the
-          publication ("Results of the &lt;abbr title="Business Population Estimates"&gt;BPE&lt;/abbr&gt; user survey").
-        &lt;/p&gt;
-      &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/section&gt;&lt;h3 id="general-queries-relating-to-businessenterprise-statistics"&gt;4. General queries relating to business/enterprise statistics&lt;/h3&gt;
-
-&lt;p&gt;If you have any queries relating to Business Population Estimates for the UK and Regions or more generally about business/enterprise statistics, then please contact us using: &lt;a href="mailto:Enterprise.Statistics@bis.gsi.gov.uk"&gt;Enterprise.Statistics@bis.gsi.gov.uk&lt;/a&gt; &lt;/p&gt;
-
-&lt;h3 id="email-distribution-list"&gt;5. Email distribution list&lt;/h3&gt;
-
-&lt;p&gt;To keep users of our publication informed of the latest developments relating to the statistics, we are setting up a user e-mail distribution list. If you wish to be added to the email distribution list to receive updates when a new release is published, or news about any other developments to the publication, then please let us know by contacting us at: &lt;a href="mailto:Enterprise.Statistics@bis.gsi.gov.uk"&gt;Enterprise.Statistics@bis.gsi.gov.uk&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id="business-population-and-demographics-statistics-bpds-user-group"&gt; 6. Business Population and Demographics Statistics (BPDS) User Group&lt;/h3&gt;
-
-&lt;p&gt;The Business Population and Demographics Statistics (BPDS) User Group has been created as a forum where users and producers can meet to share information and discuss relevant issues regarding the main National Statistics Business Population and Demographics Statistics publications. If you would like to find out more about the BPDS User Group, please send an e-mail to: &lt;a href="Enterprise.Statistics@bis.gsi.gov.uk"&gt;Enterprise.Statistics@bis.gsi.gov.uk&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Both the minutes and terms of reference from the first BPDS User Group meeting held on 28 March 2012 are shown below.&lt;/p&gt;
-
-&lt;section class="attachment embedded" id="attachment_51223"&gt;&lt;div class="attachment-thumb"&gt;
-    &lt;a href="/government/uploads/system/uploads/attachment_data/file/16415/Minutes_of_BPDS_User_Group_-_28_March_2012.doc" aria-describedby="attachment-51223-accessibility-help" class="thumbnail"&gt;
-      &lt;img alt="" src="https://assets.digital.cabinet-office.gov.uk/government/assets/pub-cover-f3684e2880956dff7bb138bfb0c2bebf.png"&gt;&lt;/a&gt;  &lt;/div&gt;
-  &lt;div class="attachment-details"&gt;
-    &lt;h3 class="title"&gt;&lt;a href="/government/uploads/system/uploads/attachment_data/file/16415/Minutes_of_BPDS_User_Group_-_28_March_2012.doc" aria-describedby="attachment-51223-accessibility-help"&gt;Minutes of the first BPDS user group&lt;/a&gt;&lt;/h3&gt;
-    &lt;p class="metadata"&gt;
-      &lt;span class="type"&gt;MS Word Document&lt;/span&gt;,
-      &lt;span class="file-size"&gt;53.5 KB&lt;/span&gt;
-    &lt;/p&gt;
-      &lt;div class="accessibility-warning js-toggle-accessibility-warning" id="attachment-51223-accessibility-help"&gt;
-        &lt;h3&gt;This file may not be accessible.
-          &lt;span class="toggler"&gt;Request a different format.&lt;/span&gt;
-        &lt;/h3&gt;
-        &lt;p class="help-block"&gt;
-          To request this document in an alternative format such as braille, audio
-          or a different file type please email
-          &lt;a href="mailto:govuk-feedback@digital.cabinet-office.gov.uk?body=%0A%0ADetails%20of%20document%20required%3A%0A%0ATitle%3A%20Minutes%20of%20the%20first%20BPDS%20user%20group%0AISBN%3A%20%0AUnique%20reference%3A%20%0ACommand%20paper%20number%3A%20%0A%20%20%20%20%20%20&amp;amp;subject=Request%20for%20%27Minutes%20of%20the%20first%20BPDS%20user%20group%27%20in%20an%20alternative%20format"&gt;govuk-feedback@digital.cabinet-office.gov.uk&lt;/a&gt;
-          quoting your address, telephone number along with the title of the
-          publication ("Minutes of the first BPDS user group").
-        &lt;/p&gt;
-      &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/section&gt;&lt;p&gt;Minutes of the first BPDS user group (DOC, 53 Kb) &lt;/p&gt;
-
-&lt;section class="attachment embedded" id="attachment_51224"&gt;&lt;div class="attachment-thumb"&gt;
-    &lt;a href="/government/uploads/system/uploads/attachment_data/file/16416/TOR_for_BPDS_User_Group.doc" aria-describedby="attachment-51224-accessibility-help" class="thumbnail"&gt;
-      &lt;img alt="" src="https://assets.digital.cabinet-office.gov.uk/government/assets/pub-cover-f3684e2880956dff7bb138bfb0c2bebf.png"&gt;&lt;/a&gt;  &lt;/div&gt;
-  &lt;div class="attachment-details"&gt;
-    &lt;h3 class="title"&gt;&lt;a href="/government/uploads/system/uploads/attachment_data/file/16416/TOR_for_BPDS_User_Group.doc" aria-describedby="attachment-51224-accessibility-help"&gt;Terms of Reference for BPDS user group&lt;/a&gt;&lt;/h3&gt;
-    &lt;p class="metadata"&gt;
-      &lt;span class="type"&gt;MS Word Document&lt;/span&gt;,
-      &lt;span class="file-size"&gt;28.5 KB&lt;/span&gt;
-    &lt;/p&gt;
-      &lt;div class="accessibility-warning js-toggle-accessibility-warning" id="attachment-51224-accessibility-help"&gt;
-        &lt;h3&gt;This file may not be accessible.
-          &lt;span class="toggler"&gt;Request a different format.&lt;/span&gt;
-        &lt;/h3&gt;
-        &lt;p class="help-block"&gt;
-          To request this document in an alternative format such as braille, audio
-          or a different file type please email
-          &lt;a href="mailto:govuk-feedback@digital.cabinet-office.gov.uk?body=%0A%0ADetails%20of%20document%20required%3A%0A%0ATitle%3A%20Terms%20of%20Reference%20for%20BPDS%20user%20group%0AISBN%3A%20%0AUnique%20reference%3A%20%0ACommand%20paper%20number%3A%20%0A%20%20%20%20%20%20&amp;amp;subject=Request%20for%20%27Terms%20of%20Reference%20for%20BPDS%20user%20group%27%20in%20an%20alternative%20format"&gt;govuk-feedback@digital.cabinet-office.gov.uk&lt;/a&gt;
-          quoting your address, telephone number along with the title of the
-          publication ("Terms of Reference for BPDS user group").
-        &lt;/p&gt;
-      &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/section&gt;&lt;p&gt;Terms of Reference for BPDS user group (DOC, 28 Kb) &lt;/p&gt;
-
-&lt;p&gt;A full list of all BPDS publications is listed below:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;
-&lt;a rel="external" href="http://www.bis.gov.uk/analysis/statistics/business-population-estimates"&gt;Business Population Estimates for the UK and Regions (Producer: Department for Business, Innovation and Skills)&lt;/a&gt;. &lt;/li&gt;
-  &lt;li&gt;
-&lt;a rel="external" href="http://www.ons.gov.uk/ons/rel/bus-register/uk-business/2011/index.html"&gt;UK Business: Activity, Size and Location (Producer: Office for National Statistics)&lt;/a&gt;.&lt;/li&gt;
-  &lt;li&gt;
-&lt;a rel="external" href="http://www.ons.gov.uk/ons/publications/all-releases.html?definition=tcm%3A77-21553"&gt;Business Demography (Producer: Office for National Statistics)&lt;/a&gt;. &lt;/li&gt;
-  &lt;li&gt;
-&lt;a rel="external" href="http://www.scotland.gov.uk/Topics/Statistics/Browse/Business/Corporate"&gt;Scottish Corporate Sector Statistics (Producer: Scottish Government)&lt;/a&gt;.&lt;/li&gt;
-  &lt;li&gt;
-&lt;a rel="external" href="http://wales.gov.uk/topics/statistics/headlines/economy2011/1110274/?lang=en"&gt;Size Analysis of Welsh Businesses (Producer: Welsh Government)&lt;/a&gt;. &lt;/li&gt;
-  &lt;li&gt;
-&lt;a rel="external" href="http://www.detini.gov.uk/deti-stats-index/stats-surveys/stats-inter-dept-bus-register.htm"&gt;Facts and Figures from the Inter Departmental Business Register (Producer: Northern Ireland Statistics and Research Agency)&lt;/a&gt;. &lt;/li&gt;
-&lt;/ul&gt;&lt;h3 id="future-coherence-between-the-bpds-publications"&gt;7. Future coherence between the BPDS publications&lt;/h3&gt;
-
-&lt;p&gt;A summary of discussion held at the GSS Business Registers Group in July 2012 relating to whether user needs would be better met by closer integration of the ONS UK Business and &lt;abbr title="Department for Business, Innovation &amp;amp; Skills"&gt;BIS&lt;/abbr&gt; Business Population Estimates publications. Please see the attachment below for further information: &lt;/p&gt;
-
-&lt;section class="attachment embedded" id="attachment_51225"&gt;&lt;div class="attachment-thumb"&gt;
-    &lt;a href="/government/uploads/system/uploads/attachment_data/file/16417/gss_brg_meeting_july_12_-_agenda_item_6.pdf" aria-describedby="attachment-51225-accessibility-help" class="thumbnail"&gt;
-      &lt;img alt="" src="https://assets.digital.cabinet-office.gov.uk/government/uploads/system/uploads/attachment_data/file/16417/thumbnail_gss_brg_meeting_july_12_-_agenda_item_6.pdf.png"&gt;&lt;/a&gt;  &lt;/div&gt;
-  &lt;div class="attachment-details"&gt;
-    &lt;h3 class="title"&gt;&lt;a href="/government/uploads/system/uploads/attachment_data/file/16417/gss_brg_meeting_july_12_-_agenda_item_6.pdf" aria-describedby="attachment-51225-accessibility-help"&gt;GSS BRG Meeting Agenda: July 2012&lt;/a&gt;&lt;/h3&gt;
-    &lt;p class="metadata"&gt;
-      &lt;span class="type"&gt;&lt;abbr title="Portable Document Format"&gt;PDF&lt;/abbr&gt;&lt;/span&gt;,
-      &lt;span class="file-size"&gt;18.4 KB&lt;/span&gt;,
-        &lt;span class="page-length"&gt;1 page&lt;/span&gt;
-    &lt;/p&gt;
-      &lt;div class="accessibility-warning js-toggle-accessibility-warning" id="attachment-51225-accessibility-help"&gt;
-        &lt;h3&gt;This file may not be accessible.
-          &lt;span class="toggler"&gt;Request a different format.&lt;/span&gt;
-        &lt;/h3&gt;
-        &lt;p class="help-block"&gt;
-          To request this document in an alternative format such as braille, audio
-          or a different file type please email
-          &lt;a href="mailto:govuk-feedback@digital.cabinet-office.gov.uk?body=%0A%0ADetails%20of%20document%20required%3A%0A%0ATitle%3A%20GSS%20BRG%20Meeting%20Agenda%3A%20July%202012%0AISBN%3A%20%0AUnique%20reference%3A%20%0ACommand%20paper%20number%3A%20%0A%20%20%20%20%20%20&amp;amp;subject=Request%20for%20%27GSS%20BRG%20Meeting%20Agenda%3A%20July%202012%27%20in%20an%20alternative%20format"&gt;govuk-feedback@digital.cabinet-office.gov.uk&lt;/a&gt;
-          quoting your address, telephone number along with the title of the
-          publication ("GSS BRG Meeting Agenda: July 2012").
-        &lt;/p&gt;
-      &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/section&gt;&lt;p&gt;GSS BRG Meeting Agenda July 2012 (PDF, 18 Kb)&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
 </feed>

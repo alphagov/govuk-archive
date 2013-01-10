@@ -8,7 +8,29 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2013-01-07T15:51:02+00:00</updated>
+  <updated>2013-01-09T10:16:40+00:00</updated>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/64205</id>
+    <published>2013-01-09T10:16:40+00:00</published>
+    <updated>2013-01-09T10:16:40+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/consultations/stopping-up-and-diversion-orders-reform-of-the-application-process-for-local-highways"/>
+    <title>Stopping up and diversion orders: reform of the application process for local highways</title>
+    <category>Consultation</category>
+    <summary>This consultation details proposals to simplify the process of applying for the stopping up and diversion of a highway.</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="summary"&gt;Summary&lt;/h2&gt;
+
+&lt;p&gt;Following the ‘Penfold review’, this consultation details proposals to simplify the process of applying for the stopping up and diversion of a highway where this is required for the purpose of property development.&lt;/p&gt;
+
+&lt;p&gt;We propose to permit applications for a stopping-up or diversion order to be submitted at the same time as applying for planning permission for the proposed development (whereas under the existing legislation the developer can only apply after securing planning permission), and options for devolving decision-making to the local authority level.&lt;/p&gt;
+
+&lt;h2 id="related-documents"&gt;Related documents&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.gov.uk/government/speeches/implementation-of-the-penfold-review--3"&gt;Implementation of the Penfold review, written statement by the Parliamentary Under Secretary of State for Transport, 9 January 2013&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://www.gov.uk/government/speeches/implementation-of-the-penfold-review--2"&gt;Implementation of the Penfold review, written statement by the Parliamentary Under Secretary of State for Transport, 18 September 2012&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://www.gov.uk/government/speeches/implementation-of-the-penfold-review"&gt;Implementation of the Penfold review, written statement by the Secretary of State for Transport, 16 July 2012&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
+  </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/64074</id>
     <published>2013-01-07T15:51:02+00:00</published>
@@ -105,18 +127,6 @@
 &lt;/ul&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60403</id>
-    <published>2012-12-21T00:00:00+00:00</published>
-    <updated>2012-12-21T13:57:38+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/consultations/review-of-planning-practice-guidance"/>
-    <title> Review of planning practice guidance</title>
-    <category>Consultation</category>
-    <summary>Consultation seeking views on the conclusions and recommendations of the review of planning guidance led by Lord Taylor of Goss Moor.</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;On &lt;a href="https://www.gov.uk/government/news/planning-practice-guidance-should-be-simpler"&gt;21 December 2012&lt;/a&gt; the government welcomed the &lt;a href="https://www.gov.uk/government/publications/external-review-of-government-planning-practice-guidance"&gt;report of the review of planning practice guidance&lt;/a&gt; led by Lord Taylor of Goss Moor.&lt;/p&gt;
-
-&lt;p&gt;This consultation seeks views on the review group’s recommendations.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/60312</id>
     <published>2012-12-21T00:00:00+00:00</published>
     <updated>2012-12-21T10:57:38+00:00</updated>
@@ -127,6 +137,18 @@
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This consultation seeks responses from interested parties on draft regulations for the new Local Government Pension Scheme to come into force in April 2014. This consultation only covers the core elements of the new scheme, in particular, the provisions relating to membership, contributions and benefits. &lt;/p&gt;
 
 &lt;p&gt;A second consultation exercise covering the remainder of the new scheme will follow shortly.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60403</id>
+    <published>2012-12-21T00:00:00+00:00</published>
+    <updated>2012-12-21T13:57:38+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/consultations/review-of-planning-practice-guidance"/>
+    <title> Review of planning practice guidance</title>
+    <category>Consultation</category>
+    <summary>Consultation seeking views on the conclusions and recommendations of the review of planning guidance led by Lord Taylor of Goss Moor.</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;On &lt;a href="https://www.gov.uk/government/news/planning-practice-guidance-should-be-simpler"&gt;21 December 2012&lt;/a&gt; the government welcomed the &lt;a href="https://www.gov.uk/government/publications/external-review-of-government-planning-practice-guidance"&gt;report of the review of planning practice guidance&lt;/a&gt; led by Lord Taylor of Goss Moor.&lt;/p&gt;
+
+&lt;p&gt;This consultation seeks views on the review group’s recommendations.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/60119</id>
@@ -349,27 +371,5 @@
 &lt;p&gt;The regulation gives effect, within the &lt;abbr title="European Union"&gt;EU&lt;/abbr&gt;, to the 2002 Protocol to the Athens Convention to create parity for the passenger shipping industry and help ensure that UK citizens have access to the same levels of compensation when travelling between two different &lt;abbr title="European Union"&gt;EU&lt;/abbr&gt; member states. Furthermore, it increases the limits of liabilities for death or personal injuries to passengers being carried by sea; requires carriers to have compulsory insurance, and provides claimants with the right of taking direct action against the insurers. The intended effect is to provide an enhanced framework of compensation in the event of death or personal injury to a passenger, or the loss or damage to luggage when travelling on a sea journey. &lt;/p&gt;
 
 &lt;p&gt;The regulation also brings into scope certain domestic passenger services.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56834</id>
-    <published>2012-12-17T00:00:00+00:00</published>
-    <updated>2012-12-17T14:47:48+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/consultations/strategic-environmental-assessment-about-revoking-the-north-west-regional-strategy-environmental-report"/>
-    <title>Strategic environmental assessment about revoking the North West regional strategy: environmental report</title>
-    <category>Consultation</category>
-    <summary>Consultation document on the likely significant environmental effects of revoking the north west plan and the regional economic strategy.</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This environmental report is a consultation document on the likely significant environmental effects of revocation of the north west plan and the regional economic strategy (which together form the regional strategy).&lt;/p&gt;
-
-&lt;p&gt;This report succeeds the &lt;a rel="external" href="http://webarchive.nationalarchives.gov.uk/20120919154703/http://www.communities.gov.uk/publications/planningandbuilding/revocationnwrss"&gt;previous environmental report&lt;/a&gt; on the revocation of the north west regional strategy which was consulted on between October 2011 and January 2012. It is a stand alone document the intention of which is to provide the reader with an up-to-date comprehensive assessment of the environmental effects of the revocation of the north west plan and the regional economic strategy without the need to refer back to the previous environmental report.&lt;/p&gt;
-
-&lt;p&gt;At the end of the period all consultation responses will be considered, including those already submitted during the earlier response period. Responses are invited on all aspects of the report and proposal including the supporting appendices.&lt;/p&gt;
-
-&lt;p&gt;Please note: Due to the size of the documents this publication can also be supplied on a CD-ROM. Please email requests to &lt;a href="mailto:SEAConsultation@communities.gsi.gov.uk"&gt;SEAConsultation@communities.gsi.gov.uk&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id="series"&gt;Series&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.gov.uk/government/organisations/department-for-communities-and-local-government/series/strategic-environmental-assessments"&gt;Strategic Environmental Assessments&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</content>
   </entry>
 </feed>

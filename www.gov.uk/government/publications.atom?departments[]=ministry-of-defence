@@ -8,7 +8,18 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2013-01-04T09:32:03+00:00</updated>
+  <updated>2013-01-09T11:24:56+00:00</updated>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/64322</id>
+    <published>2013-01-09T00:00:00+00:00</published>
+    <updated>2013-01-09T11:24:56+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/personal-status-category-definitions"/>
+    <title>Personal status category definitions</title>
+    <category>Publication</category>
+    <summary>Annex B to 2005DIN02-186
+</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This document outlines the revised entitlement (formerly marital status) personal status category definitions.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/61060</id>
     <published>2013-01-04T00:00:00+00:00</published>
@@ -50,24 +61,25 @@
 &lt;p&gt;However, the entitlement of Gurkha Late Entry officers, who joined the Army before 1 July 1997, and Gurkhas soldiers, who joined the Army before 1 October 1993, to redundancy compensation is affected by the terms and conditions of the &lt;abbr title="Gurkha Offer To Transfer"&gt;GOTT&lt;/abbr&gt;, which means that the Armed Forces Redundancy Calculator (&lt;abbr title="Armed Forces Redundancy Calculator"&gt;AFRC&lt;/abbr&gt;) will not produce an accurate forecast. In these cases, Gurkhas must use the Gurkha pension calculator (&lt;abbr title="Gurkha pension calculator"&gt;GPC&lt;/abbr&gt;) to produce a forecast of the parts of their redundancy package which the &lt;abbr title="Armed Forces Redundancy Calculator"&gt;AFRC&lt;/abbr&gt; cannot calculate correctly and then, in some cases, apply a manual workaround.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/61069</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/61068</id>
     <published>2012-12-31T00:00:00+00:00</published>
-    <updated>2013-01-03T10:25:06+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/supplementary-information-on-corruption-for-joint-doctrine-publication-3-40"/>
-    <title>Supplementary information on corruption for JDP 3-40</title>
+    <updated>2013-01-03T10:25:29+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/command-and-control-comparative-case-studies-for-joint-doctrine-publication-3-40--2"/>
+    <title>Command and Control: Comparative Case Studies for JDP 3-40  </title>
     <category>Publication</category>
-    <summary>Further advice and guidance on corruption for Joint Doctrine Publication (JDP) 3-40 provided by the Transparency International defence team.</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Further advice and guidance on corruption for Joint Doctrine Publication (&lt;abbr title="Joint Doctrine Publication"&gt;JDP&lt;/abbr&gt;) 3-40 provided by &lt;a rel="external" href="http://transparency.org/"&gt;Transparency International&lt;/a&gt; defence team.&lt;/p&gt;&lt;/div&gt;</content>
+    <summary>Command and Control: Comparative Case Studies for Joint Doctrine Publication (JDP) 3-40.
+</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Command and Control: Comparative Case Studies for Joint Doctrine Publication (&lt;abbr title="Joint Doctrine Publication"&gt;JDP&lt;/abbr&gt;) 3-40. &lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/61066</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/61063</id>
     <published>2012-12-31T00:00:00+00:00</published>
-    <updated>2013-01-03T10:26:30+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/jwp-3-50-the-military-contribution-to-peace-support-operations-second-edition"/>
-    <title>JWP 3-50: The Military Contribution to Peace Support Operations (second edition)</title>
+    <updated>2013-01-03T10:27:26+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/joint-warfare-publication-3-66-joint-personnel-recovery"/>
+    <title>JWP 3-66: Joint Personnel Recovery</title>
     <category>Publication</category>
-    <summary>Practical guidance for military personnel involved at the Operational Level in Peace Support Operations and in training programmes.</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;&lt;abbr title="Joint Warfare Publication"&gt;JWP&lt;/abbr&gt; 3-50: The Military Contribution to Peace Support Operations (second edition) provides practical guidance for military personnel involved at the Operational Level in Peace Support Operations (&lt;abbr title="peace service operations"&gt;PSOs&lt;/abbr&gt;) and in training programmes.&lt;/p&gt;&lt;/div&gt;</content>
+    <summary>Joint Warfare Publication (JWP) 3-66: Joint Personnel Recovery.</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Joint Warfare Publication (&lt;abbr title="Joint Warfare Publication"&gt;JWP&lt;/abbr&gt;) 3-66: Joint Personnel Recovery.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/60938</id>
@@ -90,6 +102,16 @@
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Joint Warfare Publication (&lt;abbr title="Joint Warfare Publications"&gt;JWP&lt;/abbr&gt;) 3-51: Non-combatant Evacuation Operations (incorporating Change 1).&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/61069</id>
+    <published>2012-12-31T00:00:00+00:00</published>
+    <updated>2013-01-03T10:25:06+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/supplementary-information-on-corruption-for-joint-doctrine-publication-3-40"/>
+    <title>Supplementary information on corruption for JDP 3-40</title>
+    <category>Publication</category>
+    <summary>Further advice and guidance on corruption for Joint Doctrine Publication (JDP) 3-40 provided by the Transparency International defence team.</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Further advice and guidance on corruption for Joint Doctrine Publication (&lt;abbr title="Joint Doctrine Publication"&gt;JDP&lt;/abbr&gt;) 3-40 provided by &lt;a rel="external" href="http://transparency.org/"&gt;Transparency International&lt;/a&gt; defence team.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/61062</id>
     <published>2012-12-31T00:00:00+00:00</published>
     <updated>2013-01-03T10:30:19+00:00</updated>
@@ -100,14 +122,14 @@
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Joint Warfare Publication (&lt;abbr title="Joint Warfare Publication"&gt;JWP&lt;/abbr&gt;) 3-63: joint air defence (second edition).&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/61063</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/61066</id>
     <published>2012-12-31T00:00:00+00:00</published>
-    <updated>2013-01-03T10:27:26+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/joint-warfare-publication-3-66-joint-personnel-recovery"/>
-    <title>JWP 3-66: Joint Personnel Recovery</title>
+    <updated>2013-01-03T10:26:30+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/jwp-3-50-the-military-contribution-to-peace-support-operations-second-edition"/>
+    <title>JWP 3-50: The Military Contribution to Peace Support Operations (second edition)</title>
     <category>Publication</category>
-    <summary>Joint Warfare Publication (JWP) 3-66: Joint Personnel Recovery.</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Joint Warfare Publication (&lt;abbr title="Joint Warfare Publication"&gt;JWP&lt;/abbr&gt;) 3-66: Joint Personnel Recovery.&lt;/p&gt;&lt;/div&gt;</content>
+    <summary>Practical guidance for military personnel involved at the Operational Level in Peace Support Operations and in training programmes.</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;&lt;abbr title="Joint Warfare Publication"&gt;JWP&lt;/abbr&gt; 3-50: The Military Contribution to Peace Support Operations (second edition) provides practical guidance for military personnel involved at the Operational Level in Peace Support Operations (&lt;abbr title="peace service operations"&gt;PSOs&lt;/abbr&gt;) and in training programmes.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/61064</id>
@@ -120,104 +142,83 @@
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Joint Warfare Publication (&lt;abbr title="Joint Warfare Publication"&gt;JWP&lt;/abbr&gt;) 4-05: Infrastructure Management on Joint Operations.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/61068</id>
-    <published>2012-12-31T00:00:00+00:00</published>
-    <updated>2013-01-03T10:25:29+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/command-and-control-comparative-case-studies-for-joint-doctrine-publication-3-40--2"/>
-    <title>Command and Control: Comparative Case Studies for JDP 3-40  </title>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/61077</id>
+    <published>2012-12-21T00:00:00+00:00</published>
+    <updated>2012-12-21T16:42:28+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/dte-pembrokeshire-public-information-leaflet"/>
+    <title>DTE Pembrokeshire Public Information Leaflet</title>
     <category>Publication</category>
-    <summary>Command and Control: Comparative Case Studies for Joint Doctrine Publication (JDP) 3-40.
-</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Command and Control: Comparative Case Studies for Joint Doctrine Publication (&lt;abbr title="Joint Doctrine Publication"&gt;JDP&lt;/abbr&gt;) 3-40. &lt;/p&gt;&lt;/div&gt;</content>
+    <summary>DTE Pembrokeshire Public Information Leaflet</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;&lt;abbr title="Defence Training Estate"&gt;DTE&lt;/abbr&gt; Pembrokeshire Public Information Leaflet&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/61074</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/61078</id>
     <published>2012-12-21T00:00:00+00:00</published>
-    <updated>2012-12-21T16:43:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/dte-south-west-public-information-leaflet"/>
-    <title>DTE South West Public Information Leaflet</title>
+    <updated>2012-12-21T16:42:15+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/dte-otterburn-public-information-leaflet"/>
+    <title>DTE Otterburn Public Information Leaflet</title>
     <category>Publication</category>
-    <summary>DTE South West Public Information Leaflet</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;&lt;abbr title="Defence Training Estate"&gt;DTE&lt;/abbr&gt; South West Public Information Leaflet&lt;/p&gt;&lt;/div&gt;</content>
+    <summary>DTE Otterburn Public Information Leaflet</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;&lt;abbr title="Defence Training Estate"&gt;DTE&lt;/abbr&gt; Otterburn Public Information Leaflet&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/61075</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60996</id>
     <published>2012-12-21T00:00:00+00:00</published>
-    <updated>2012-12-21T16:42:47+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/dte-south-east-public-information-leaflet"/>
-    <title>DTE South East Public Information Leaflet</title>
+    <updated>2012-12-21T16:47:55+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/stabilisation-and-the-stabilisation-unit"/>
+    <title>Stabilisation and the stabilisation unit</title>
     <category>Publication</category>
-    <summary>DTE South East Public Information Leaflet</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;&lt;abbr title="Defence Training Estate"&gt;DTE&lt;/abbr&gt; South East Public Information Leaflet&lt;/p&gt;&lt;/div&gt;</content>
+    <summary>Additional information provided by the stabilisation unit.</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Stabilisation and the stabilisation unit, a Joint Doctrine Publication (&lt;abbr title="Joint Doctrine Publication"&gt;JDP&lt;/abbr&gt;).&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60777</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/61076</id>
     <published>2012-12-21T00:00:00+00:00</published>
-    <updated>2012-12-21T16:47:26+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/security-and-stabilisation-the-military-contribution"/>
-    <title>Security and stabilisation: the military contribution</title>
+    <updated>2012-12-21T16:42:38+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/dte-scotland-public-information-leaflet"/>
+    <title> DTE Scotland Public Information Leaflet</title>
     <category>Publication</category>
-    <summary>Security and stabilisation: the military contribution.</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Security and stabilisation: the military contribution, a Joint Doctrine Publication 3-40.&lt;/p&gt;&lt;/div&gt;</content>
+    <summary> DTE Scotland Public Information Leaflet</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;&lt;abbr title="Defence Training Estate"&gt;DTE&lt;/abbr&gt; Scotland Public Information Leaflet&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/61071</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/61080</id>
     <published>2012-12-21T00:00:00+00:00</published>
-    <updated>2012-12-21T16:43:23+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/dte-west-midlands-public-information-leaflet"/>
-    <title>DTE West Midlands Public Information Leaflet</title>
+    <updated>2012-12-21T16:41:37+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/dte-home-counties-public-information-leaflet"/>
+    <title>DTE Home Counties Public Information Leaflet</title>
     <category>Publication</category>
-    <summary>DTE West Midlands Public Information Leaflet</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;&lt;abbr title="Defence Training Estate"&gt;DTE&lt;/abbr&gt; West Midlands Public Information Leaflet&lt;/p&gt;&lt;/div&gt;</content>
+    <summary>DTE Home Counties Public Information Leaflet</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;&lt;abbr title="Defence Training Estate"&gt;DTE&lt;/abbr&gt; Home Counties Public Information Leaflet&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/61072</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/61132</id>
     <published>2012-12-21T00:00:00+00:00</published>
-    <updated>2012-12-21T16:43:15+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/dte-epynt-way-public-information-leaflet"/>
-    <title> DTE Epynt Way Public Information Leaflet</title>
+    <updated>2012-12-21T16:51:18+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/disaster-relief-operations"/>
+    <title>JDP 3-52: Disaster Relief Operations</title>
     <category>Publication</category>
-    <summary> DTE Epynt Way Public Information Leaflet </summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;&lt;abbr title="Defence Training Estate"&gt;DTE&lt;/abbr&gt; Epynt Way Public Information Leaflet&lt;/p&gt;&lt;/div&gt;</content>
+    <summary>Disaster Relief Operations, Joint Doctrine Publication 3-52</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Disaster Relief Operations, Joint Doctrine Publication 3-52 (2nd edition)&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/61073</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/61134</id>
     <published>2012-12-21T00:00:00+00:00</published>
-    <updated>2012-12-21T16:43:08+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/dte-wales-public-information-leaflet"/>
-    <title>DTE Wales Public Information Leaflet</title>
+    <updated>2012-12-21T16:48:53+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/media-operations"/>
+    <title>JDP 3-45.1: Media Operations</title>
     <category>Publication</category>
-    <summary>DTE Wales Public Information Leaflet</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;&lt;abbr title="Defence Training Estate"&gt;DTE&lt;/abbr&gt; Wales Public Information Leaflet&lt;/p&gt;&lt;/div&gt;</content>
+    <summary>Media Operations, Joint Doctrine Publication 3-45.1</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Media Operations, Joint Doctrine Publication 3-45.1&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/61119</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/61138</id>
     <published>2012-12-21T00:00:00+00:00</published>
-    <updated>2012-12-21T16:51:47+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/campaign-planning"/>
-    <title>JDP 5-00: Campaign Planning (second edition)</title>
+    <updated>2012-12-21T16:48:45+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/the-evolution-of-british-coin"/>
+    <title>The evolution of British COIN</title>
     <category>Publication</category>
-    <summary>JDP 5-00 Campaign Planning</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Campaign Planning, Joint Doctrine Publication 5-00&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/61129</id>
-    <published>2012-12-21T00:00:00+00:00</published>
-    <updated>2012-12-21T16:51:37+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/logistics-for-joint-operations"/>
-    <title>JDP 4-00: Logistics for Joint Operations (third edition)</title>
-    <category>Publication</category>
-    <summary>Logistics for Joint Operations, Joint Doctrine Publication 4-00</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Logistics for Joint Operations, Joint Doctrine Publication 4-00 (3rd edition).&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/61130</id>
-    <published>2012-12-21T00:00:00+00:00</published>
-    <updated>2012-12-21T16:51:32+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/civil-military-co-operation"/>
-    <title>JDP 3-90: Civil Military Co-operation</title>
-    <category>Publication</category>
-    <summary>Civil Military Co-operation, Joint Doctrine Publication 3-90.</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Civil Military Co-operation (CIMIC), Joint Doctrine Publication 3-90&lt;/p&gt;&lt;/div&gt;</content>
+    <summary>The evolution of British COIN by Colonel (retd) Michael Crawshaw</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The evolution of British &lt;abbr title="counter insurgency"&gt;COIN&lt;/abbr&gt;, a paper on counter insurgency published by JDP.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
 </feed>

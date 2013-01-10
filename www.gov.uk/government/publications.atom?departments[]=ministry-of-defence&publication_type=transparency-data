@@ -191,16 +191,6 @@
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;MOD senior staff are required to publish details of their meetings with external organisations.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/43562</id>
-    <published>2011-03-01T00:00:00+00:00</published>
-    <updated>2012-12-11T15:31:41+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/departmental-organisation-charts"/>
-    <title>Departmental organisation charts</title>
-    <category>Publication</category>
-    <summary>Details of junior and senior posts at the MOD, their salary information and organisational charts</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;These show all Military 1*/Senior Civil Service (Pay Band 1) and above posts and junior staff posts below Senior Civil Service level who report to them including their payscales. &lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/43564</id>
     <published>2011-03-01T00:00:00+00:00</published>
     <updated>2012-12-11T15:30:41+00:00</updated>
@@ -209,6 +199,16 @@
     <category>Publication</category>
     <summary>Details of junior and senior posts at the MOD, their salary information and organisational charts.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;These datasets and organisation charts shows posts and salary information for staff at the MOD from March 2011 to September 2011. They’re shared here as part of the effort to make government operations and spending more transparent to the public.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/64947</id>
+    <published>2011-03-01T00:00:00+00:00</published>
+    <updated>2012-12-11T15:31:41+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/departmental-organisation-charts"/>
+    <title>Departmental organisation charts</title>
+    <category>Publication</category>
+    <summary>Details of junior and senior posts at the MOD, their salary information and organisational charts</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;These show all Military 1*/Senior Civil Service (Pay Band 1) and above posts and junior staff posts below Senior Civil Service level who report to them including their payscales. &lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/55581</id>

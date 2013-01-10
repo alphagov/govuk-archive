@@ -8,9 +8,63 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2013-01-08T09:31:45+00:00</updated>
+  <updated>2013-01-09T10:16:40+00:00</updated>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/64273</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/64205</id>
+    <published>2013-01-09T10:16:40+00:00</published>
+    <updated>2013-01-09T10:16:40+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/consultations/stopping-up-and-diversion-orders-reform-of-the-application-process-for-local-highways"/>
+    <title>Stopping up and diversion orders: reform of the application process for local highways</title>
+    <category>Consultation</category>
+    <summary>This consultation details proposals to simplify the process of applying for the stopping up and diversion of a highway.</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="summary"&gt;Summary&lt;/h2&gt;
+
+&lt;p&gt;Following the ‘Penfold review’, this consultation details proposals to simplify the process of applying for the stopping up and diversion of a highway where this is required for the purpose of property development.&lt;/p&gt;
+
+&lt;p&gt;We propose to permit applications for a stopping-up or diversion order to be submitted at the same time as applying for planning permission for the proposed development (whereas under the existing legislation the developer can only apply after securing planning permission), and options for devolving decision-making to the local authority level.&lt;/p&gt;
+
+&lt;h2 id="related-documents"&gt;Related documents&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.gov.uk/government/speeches/implementation-of-the-penfold-review--3"&gt;Implementation of the Penfold review, written statement by the Parliamentary Under Secretary of State for Transport, 9 January 2013&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://www.gov.uk/government/speeches/implementation-of-the-penfold-review--2"&gt;Implementation of the Penfold review, written statement by the Parliamentary Under Secretary of State for Transport, 18 September 2012&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://www.gov.uk/government/speeches/implementation-of-the-penfold-review"&gt;Implementation of the Penfold review, written statement by the Secretary of State for Transport, 16 July 2012&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/64032</id>
+    <published>2013-01-09T00:00:00+00:00</published>
+    <updated>2013-01-09T08:55:39+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/luton-borough-councils-compulsory-purchase-order-for-station-house-decision-letter"/>
+    <title>Luton Borough Council's compulsory purchase order for Station House: decision letter</title>
+    <category>Publication</category>
+    <summary>Explaining the Secretary of State's decision about the Luton Borough Council (Station House, Midland Road) compulsory purchase order 2011.</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This letter gives details about the Secretary of State’s decision on the Luton Borough Council (Station House, Midland Road) compulsory purchase order 2011. It explains that the Secretary of State has decided to confirm the order subject to a specified modification.&lt;/p&gt;
+
+&lt;h2 id="related-documents"&gt;Related documents&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.gov.uk/government/publications/luton-borough-councils-compulsory-purchase-order-for-station-house-inspectors-report"&gt;Luton Borough Council’s compulsory purchase order for Station House: inspector’s report&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/64036</id>
+    <published>2013-01-09T00:00:00+00:00</published>
+    <updated>2013-01-09T08:55:23+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/luton-borough-councils-compulsory-purchase-order-for-station-house-inspectors-report"/>
+    <title>Luton Borough Council's compulsory purchase order for Station House: inspector's report</title>
+    <category>Publication</category>
+    <summary>Report by the inspector who held an inquiry into the Luton Borough Council (Station House, Midland Road) compulsory purchase order 2011.</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This report was written by the inspector who held an inquiry into the Luton Borough Council (Station House, Midland Road) compulsory purchase order 2011. It contains recommendations to amend words in the order and then confirm it.&lt;/p&gt;
+
+&lt;h2 id="related-documents"&gt;Related documents&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.gov.uk//government/publications/luton-borough-councils-compulsory-purchase-order-for-station-house-decision-letter"&gt;Luton Borough Council’s compulsory purchase order for Station House: decision letter&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/64932</id>
     <published>2013-01-08T00:00:00+00:00</published>
     <updated>2013-01-08T09:31:45+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/department-for-transport-equality-monitoring"/>
@@ -25,6 +79,7 @@
   &lt;li&gt;&lt;a href="https://www.gov.uk/government/publications/equality-monitoring-in-dsa-2011-to-2012"&gt;Driving Standards Agency (DSA) equality monitoring 2011 to 2012 &lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a rel="external" href="http://www.dft.gov.uk/dvla/~/media/pdf/publications/EMReport.ashx"&gt;Driver and Vehicle Licensing Agency (DVLA) equality monitoring 2011 to 2012&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a rel="external" href="http://www.dft.gov.uk/vca/recruitment/vca-equality-schemes.asp"&gt;Vehicle Certification Agency (VCA) equality monitoring 2011 to 2012&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a rel="external" href="http://www.dft.gov.uk/mca/mcga07-home/aboutus/mcga-aboutus-diversity/equality_monitoring_in_the_mca_2011-12.htm"&gt;Marine and Coastguard Agency (MCA) equality monitoring 2011 to 2012&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;h2 id="past-reports"&gt;Past reports&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a rel="external" href="http://webarchive.nationalarchives.gov.uk/20121011054012/http://assets.dft.gov.uk/publications/dft-equality-monitoring-annual-summary/report.pdf"&gt;Department for Transport equality monitoring annual summary 2010 to 2011(PDF - 132 KB)&lt;/a&gt;&lt;/li&gt;
@@ -649,6 +704,18 @@
 &lt;/ul&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/61037</id>
+    <published>2013-01-02T00:00:00+00:00</published>
+    <updated>2013-01-02T08:52:41+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/reducing-sign-clutter"/>
+    <title>TAL 1/13: Reducing sign clutter</title>
+    <category>Publication</category>
+    <summary>Advice on the removal of unnecessary traffic signs to highway authorities in Great Britain.</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="traffic-advisory-leaflet-tal-113"&gt;Traffic advisory leaflet (&lt;abbr title="Traffic advisory leaflet"&gt;TAL&lt;/abbr&gt;) 1/13&lt;/h2&gt;
+
+&lt;p&gt;Over-provision of traffic signs can have a detrimental impact on the environment and can dilute more important messages if resulting in information overload for drivers. This leaflet, gives practical advice on reducing sign clutter. It emphasises that designers should use their engineering judgement and local knowledge to complement guidance to ensure signing solutions are effective. &lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/61023</id>
     <published>2013-01-02T00:00:00+00:00</published>
     <updated>2012-11-26T14:08:23+00:00</updated>
@@ -836,18 +903,6 @@ Period 9 2012/13 ran from 11 November 2012 to 8 December 2012. &lt;/p&gt;
 &lt;/ul&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/61037</id>
-    <published>2013-01-02T00:00:00+00:00</published>
-    <updated>2013-01-02T08:52:41+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/reducing-sign-clutter"/>
-    <title>TAL 1/13: Reducing sign clutter</title>
-    <category>Publication</category>
-    <summary>Advice on the removal of unnecessary traffic signs to highway authorities in Great Britain.</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="traffic-advisory-leaflet-tal-113"&gt;Traffic advisory leaflet (&lt;abbr title="Traffic advisory leaflet"&gt;TAL&lt;/abbr&gt;) 1/13&lt;/h2&gt;
-
-&lt;p&gt;Over-provision of traffic signs can have a detrimental impact on the environment and can dilute more important messages if resulting in information overload for drivers. This leaflet, gives practical advice on reducing sign clutter. It emphasises that designers should use their engineering judgement and local knowledge to complement guidance to ensure signing solutions are effective. &lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/61045</id>
     <published>2013-01-02T00:00:00+00:00</published>
     <updated>2013-01-07T11:11:06+00:00</updated>
@@ -876,191 +931,6 @@ Period 9 2012/13 ran from 11 November 2012 to 8 December 2012. &lt;/p&gt;
     <category>Publication</category>
     <summary>Freedom of Information response concerning passenger count and loading data released by the government to individuals and organisations.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This Freedom of Information response concerns passenger count and loading data originally provided by train operating companies and then released by the Department for Transport to individuals and organisations.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60789</id>
-    <published>2012-12-21T00:00:00+00:00</published>
-    <updated>2012-12-24T09:37:44+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/uk-international-air-services-policy"/>
-    <title>UK international air services policy</title>
-    <category>Publication</category>
-    <summary>Setting out the UK's international air services policy and explaining what we are doing to support new international routes and services.</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This document sets out the UK’s international air services policy and what we are doing to support new international routes and services, airports in Northern Ireland, Scotland, Wales and regional airports in England. &lt;/p&gt;
-
-&lt;p&gt;It explains the UK’s aviation permit requirements and airport slot allocation process. It also provides information on the UK’s main international airports. It will be of particular interest to foreign governments and airlines looking to operate international air services to the UK.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60319</id>
-    <published>2012-12-21T00:00:00+00:00</published>
-    <updated>2012-11-02T14:46:52+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/cost-of-running-the-rail-network"/>
-    <title>Cost of running the rail network</title>
-    <category>Publication</category>
-    <summary>The costs of running the passenger rail network by DfT franchised train operating companies.</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="dft-business-plan-input-indicator"&gt;DfT Business Plan input indicator&lt;/h2&gt;
-
-&lt;h3 id="geographical-coverage-dft-franchised-train-operators-great-britain"&gt;Geographical coverage: DfT franchised train operators (Great Britain)&lt;/h3&gt;
-
-&lt;h3 id="information-broken-down-by-dft-franchised-train-operator"&gt;Information broken down by: DfT franchised train operator&lt;/h3&gt;
-
-&lt;h2 id="latest-data"&gt;Latest data&lt;/h2&gt;
-
-&lt;p&gt;The total cost of operating the rail network for train operators franchised by the Department for Transport (DfT) in 2010/11 was £9.3 billion. This consisted of £6.3 billion of train operator operating costs, and £3.0 billion of Network Grant paid to Network Rail.&lt;/p&gt;
-
-&lt;p&gt;The costs of running the passenger rail network by DfT franchised train operating companies are shown below.&lt;/p&gt;
-
-&lt;p&gt;&lt;a rel="external" href="http://charts.dft.gov.uk/dft-business-plan/indicators/#09"&gt;Click here to view this data in an interactive chart&lt;/a&gt;&lt;/p&gt;
-
-&lt;table&gt;&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;Cost by franchise&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Operator&lt;/td&gt;
-      &lt;td&gt;Total Operating Cost (£m)&lt;/td&gt;
-      &lt;td&gt;Allocated Network Grant (£m)&lt;/td&gt;
-      &lt;td&gt;Total (£m)&lt;/td&gt;
-    &lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;c2c&lt;/td&gt;
-      &lt;td&gt;98.1&lt;/td&gt;
-      &lt;td&gt;42.2&lt;/td&gt;
-      &lt;td&gt;140.3&lt;/td&gt;
-    &lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Chiltern Railways&lt;/td&gt;
-      &lt;td&gt;125.3&lt;/td&gt;
-      &lt;td&gt;75.0&lt;/td&gt;
-      &lt;td&gt;200.3&lt;/td&gt;
-    &lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;CrossCountry&lt;/td&gt;
-      &lt;td&gt;407.4&lt;/td&gt;
-      &lt;td&gt;291.2&lt;/td&gt;
-      &lt;td&gt;698.6&lt;/td&gt;
-    &lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;East Coast&lt;/td&gt;
-      &lt;td&gt;454.0&lt;/td&gt;
-      &lt;td&gt;191.3&lt;/td&gt;
-      &lt;td&gt;645.3&lt;/td&gt;
-    &lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;East Midlands Trains&lt;/td&gt;
-      &lt;td&gt;292.6&lt;/td&gt;
-      &lt;td&gt;183.9&lt;/td&gt;
-      &lt;td&gt;476.5&lt;/td&gt;
-    &lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;First Capital Connect&lt;/td&gt;
-      &lt;td&gt;334.6&lt;/td&gt;
-      &lt;td&gt;117.9&lt;/td&gt;
-      &lt;td&gt;452.5&lt;/td&gt;
-    &lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;First Great Western&lt;/td&gt;
-      &lt;td&gt;629.2&lt;/td&gt;
-      &lt;td&gt;317.0&lt;/td&gt;
-      &lt;td&gt;946.2&lt;/td&gt;
-    &lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;First TransPennine Express&lt;/td&gt;
-      &lt;td&gt;220.1&lt;/td&gt;
-      &lt;td&gt;116.8&lt;/td&gt;
-      &lt;td&gt;336.9&lt;/td&gt;
-    &lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;London Midland&lt;/td&gt;
-      &lt;td&gt;322.6&lt;/td&gt;
-      &lt;td&gt;137.2&lt;/td&gt;
-      &lt;td&gt;459.8&lt;/td&gt;
-    &lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;National Express East Anglia&lt;/td&gt;
-      &lt;td&gt;420.3&lt;/td&gt;
-      &lt;td&gt;211.4&lt;/td&gt;
-      &lt;td&gt;631.7&lt;/td&gt;
-    &lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Northern Rail&lt;/td&gt;
-      &lt;td&gt;522.9&lt;/td&gt;
-      &lt;td&gt;359.7&lt;/td&gt;
-      &lt;td&gt;882.6&lt;/td&gt;
-    &lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Southeastern&lt;/td&gt;
-      &lt;td&gt;694.3&lt;/td&gt;
-      &lt;td&gt;244.6&lt;/td&gt;
-      &lt;td&gt;938.9&lt;/td&gt;
-    &lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Southern&lt;/td&gt;
-      &lt;td&gt;549.4&lt;/td&gt;
-      &lt;td&gt;191.1&lt;/td&gt;
-      &lt;td&gt;740.5&lt;/td&gt;
-    &lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;South West Trains&lt;/td&gt;
-      &lt;td&gt;559.0&lt;/td&gt;
-      &lt;td&gt;259.6&lt;/td&gt;
-      &lt;td&gt;818.6&lt;/td&gt;
-    &lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Virgin Trains&lt;/td&gt;
-      &lt;td&gt;639.8&lt;/td&gt;
-      &lt;td&gt;297.2&lt;/td&gt;
-      &lt;td&gt;937.0&lt;/td&gt;
-    &lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Total DfT franchised operators&lt;/td&gt;
-      &lt;td&gt;6,269.4&lt;/td&gt;
-      &lt;td&gt;3,036.1&lt;/td&gt;
-      &lt;td&gt;9,305.5&lt;/td&gt;
-    &lt;/tr&gt;
-&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;Source: Train operating companies, DfT&lt;/p&gt;
-
-&lt;p&gt;The operating costs relate to the financial year 2010/11.  &lt;/p&gt;
-
-&lt;h2 id="notes"&gt;Notes&lt;/h2&gt;
-
-&lt;h3 id="change-in-methodology-in-sourcing-cost-of-running-the-rail-network-figures"&gt;Change in Methodology in sourcing Cost of Running the Rail Network figures&lt;/h3&gt;
-
-&lt;p&gt;The publication last year used data from operators’ statutory accounts.  This year the data are based on management accounts; this ensures that the time period to which the data applies is consistent across operators, and allows comparisons to be made over time.&lt;/p&gt;
-
-&lt;h3 id="operating-costs"&gt;Operating costs&lt;/h3&gt;
-
-&lt;p&gt;(a) These data are based on the ORR study “Costs and Revenues of Franchised Passenger Train Operators in the UK”, which in turn sourced data from the operators’ management accounts.  &lt;/p&gt;
-
-&lt;p&gt;Any figures relating to premia or associated payments to the Department for Transport or Passenger Transport Executives are excluded. Within this total are payments made by operators to Network Rail for access to the rail network which contribute towards infrastructure costs.&lt;/p&gt;
-
-&lt;p&gt;(b) Operators may not treat all aspects of operating costs in the same way in their accounts, and so care should be taken when using these figures.&lt;/p&gt;
-
-&lt;h3 id="network-grant"&gt;Network Grant&lt;/h3&gt;
-
-&lt;p&gt;(c) This is calculated by taking the total Network Grant paid to Network Rail by DfT in 2010-11, and allocating it to each franchise based on their share of Fixed Track Access Charges. &lt;/p&gt;
-
-&lt;p&gt;The ‘Allocated Network Grant’ column, allocates, to each operator, the grant paid by the Department for Transport to Network Rail in 2010-11. The grant effectively pays the infrastructure costs incurred by Network Rail that are not covered by operators. In the table above, each operator is allocated a share of the grant in proportion to their Fixed Track Access Charge.&lt;/p&gt;
-
-&lt;h2 id="other-related-data-and-information"&gt;Other related data and information&lt;/h2&gt;
-
-&lt;p&gt;Train operating companies’ costs are taken from ORR publication &lt;a rel="external" href="http://www.rail-reg.gov.uk/upload/pdf/toc-benchmarking-report-2012.pdf"&gt;Costs and Revenues of Franchised Passenger Train Operators in the UK&lt;/a&gt;
-Further information about this indicator can be found in the measurement template.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;publishing schedule: annually&lt;/li&gt;
-  &lt;li&gt;last updated: December 2012&lt;/li&gt;
-  &lt;li&gt;next update: Spring 2013&lt;/li&gt;
-&lt;/ul&gt;&lt;h2 id="further-information"&gt;Further information&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.gov.uk/government/publications/department-for-transport-business-plan"&gt;Business Plan 2012-2015&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="https://www.gov.uk/government/publications/input-and-impact-indicators"&gt;Input and impact indicators&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Analyst contact: &lt;a href="mailto:rail.stats@dft.gsi.gov.uk"&gt;rail.stats@dft.gsi.gov.uk&lt;/a&gt;
-&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/60317</id>
@@ -1181,22 +1051,5 @@ Further information about this indicator can be found in the measurement templat
   &lt;li&gt;Analyst contact: &lt;a href="mailto:rail.stats@dft.gsi.gov.uk"&gt;rail.stats@dft.gsi.gov.uk&lt;/a&gt;
 &lt;/li&gt;
 &lt;/ul&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60034</id>
-    <published>2012-12-20T09:07:01+00:00</published>
-    <updated>2012-12-20T09:07:01+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/consultations/implementation-of-port-security-regulations-2009-at-certain-ports"/>
-    <title>Implementation of Port Security Regulations 2009 at certain ports</title>
-    <category>Consultation</category>
-    <summary>This is a consultation on draft designation orders implementing Port Security Regulations 2009.</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The purpose of Directive 2005/65/EC is to enhance security co-ordination in the wider area at certain ports. The directive requires the following:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;designation of a port security authority&lt;/li&gt;
-  &lt;li&gt;appointment of a port security officer&lt;/li&gt;
-  &lt;li&gt;a port security risk assessment to be conducted&lt;/li&gt;
-  &lt;li&gt;creation of a port security plan&lt;/li&gt;
-&lt;/ul&gt;&lt;p&gt;The draft designation orders which we are are consulting on here append plan(s) outlining the area which the port security authority will have responsibility over.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
 </feed>
