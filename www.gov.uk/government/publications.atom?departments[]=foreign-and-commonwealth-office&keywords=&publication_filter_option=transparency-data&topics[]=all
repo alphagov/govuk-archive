@@ -8,20 +8,117 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2013-01-09T14:27:21+00:00</updated>
+  <updated>2013-01-10T10:08:15+00:00</updated>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/64915</id>
-    <published>2013-01-09T00:00:00+00:00</published>
-    <updated>2013-01-09T14:27:21+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/bis-workforce-management-april-2012-to-october-2012"/>
-    <title>BIS workforce management: April 2012 to November 2012</title>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56406</id>
+    <published>2013-01-10T00:00:00+00:00</published>
+    <updated>2013-01-10T10:08:15+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/reliability-of-journeys-on-the-highways-agency-s-motorway-and-a-road-network"/>
+    <title>Reliability of journeys on the Highways Agency’s motorway and A road network</title>
     <category>Publication</category>
-    <summary>Management information on staff numbers and paybill costs in BIS, its agencies and executive non-departmental public bodies.</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;For workforce numbers, both payroll and non-payroll (contingent labour, including consultants) information is provided, split between full-time equivalents (FTE) and headcount, with payroll staff numbers mapped to standard Civil Service grades.&lt;/p&gt;
+    <summary>Impact indicator, disaggregated by junction, published monthly from May 2011.</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="dft-business-plan-impact-indicator"&gt;DfT Business plan impact indicator&lt;/h2&gt;
 
-&lt;p&gt;For costs, payroll paybill information is broken down into its component parts i.e. salaries, allowances, employers pensions contributions etc. For non-payroll costs, these are split between costs for consultancy and those of other non-payroll workers.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Geographical coverage: England&lt;/li&gt;
+  &lt;li&gt;Information broken down by: national level aggregation&lt;/li&gt;
+&lt;/ul&gt;&lt;h2 id="latest-data"&gt;Latest data&lt;/h2&gt;
 
-&lt;p&gt;Covers April to November of the financial year 2012 to 2013.&lt;/p&gt;&lt;/div&gt;</content>
+&lt;ul&gt;
+&lt;li&gt;Provisional data show that 81.9% of journeys made on Highways Agency managed roads between December 2011 and November 2012 were ‘on time’. This is 0.4 percentage points lower than the previous rolling year, ending in October 2012.&lt;/li&gt;
+  &lt;li&gt;During November 2012, provisional data show that 76.6% of journeys on Highways Agency’s motorway and ‘A’ road network were ‘on time’. This is 4.7 percentage points lower than the equivalent figure for November 2011.&lt;/li&gt;
+  &lt;li&gt;The annual reliability measure consistently increased up to March 2012, but has fallen in the last eight months, and is now at a similar level to that observed in mid-2011. 2012 was the second wettest year since records began with substantial rainfall during the final three quarters of the year. Significant amounts of rainfall compared to 2011 will have led to slower speeds on the network, slower journeys and thus a fall in reliability.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;a rel="external" href="http://charts.dft.gov.uk/dft-business-plan/indicators/#01"&gt;Click here to view this data in an interactive chart&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Percentage of journeys on Highways Agency motorways and A roads deemed ‘on time’: monthly from June 2012&lt;/p&gt;
+
+&lt;h3 id="percentage-of-journeys-on-time"&gt;Percentage of journeys ‘on time’&lt;/h3&gt;
+
+&lt;table&gt;
+&lt;thead&gt;&lt;tr&gt;
+&lt;th&gt; &lt;/th&gt;
+      &lt;th&gt;Year ending&lt;/th&gt;
+      &lt;th&gt;Month&lt;/th&gt;
+      &lt;th&gt;Year ending percentage points change&lt;/th&gt;
+    &lt;/tr&gt;&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;June 2012&lt;/td&gt;
+      &lt;td&gt;83.3&lt;/td&gt;
+      &lt;td&gt;82.3&lt;/td&gt;
+      &lt;td&gt;-0.2&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;July 2012&lt;/td&gt;
+      &lt;td&gt;83.0&lt;/td&gt;
+      &lt;td&gt;81.8&lt;/td&gt;
+      &lt;td&gt;-0.2&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;August 2012&lt;/td&gt;
+      &lt;td&gt;82.9&lt;/td&gt;
+      &lt;td&gt;81.9&lt;/td&gt;
+      &lt;td&gt;-0.1&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;September 2012&lt;/td&gt;
+      &lt;td&gt;82.6&lt;/td&gt;
+      &lt;td&gt;80.5&lt;/td&gt;
+      &lt;td&gt;-0.3&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;October 2012&lt;/td&gt;
+      &lt;td&gt;82.3&lt;/td&gt;
+      &lt;td&gt;79.6&lt;/td&gt;
+      &lt;td&gt;-0.3&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;November 2012&lt;sup&gt;P&lt;/sup&gt;
+&lt;/td&gt;
+      &lt;td&gt;81.9&lt;/td&gt;
+      &lt;td&gt;76.6&lt;/td&gt;
+      &lt;td&gt;-0.4&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;&lt;p&gt;Source: Highways Agency Traffic Information System (HATRIS) Database&lt;/p&gt;
+
+&lt;p&gt;&lt;sup&gt;P&lt;/sup&gt; = provisional&lt;/p&gt;
+
+&lt;h2 id="background-information"&gt;Background information&lt;/h2&gt;
+
+&lt;p&gt;This indicator monitors the reliability of journeys made on Highways Agency’s motorway and A road network.&lt;/p&gt;
+
+&lt;p&gt;The indicator is measured by the percentage of ‘journeys’ on these roads that are ‘on time’. For this measure:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;a ‘journey’ represents travel between adjacent junctions on the network&lt;/li&gt;
+  &lt;li&gt;an ‘on time journey’ is defined as one which is completed within a set reference time, drawn from historic data on that particular section of road&lt;/li&gt;
+  &lt;li&gt;reference journey times are updated for the April data each year - further information on the impact of updating reference times can be found in section 3 of the latest &lt;a href="https://www.gov.uk/government/organisations/department-for-transport/series/road-congestion-and-reliability-statistics"&gt;statistical release&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;At present, information about the reliability of journeys on individual routes, or between particular junctions on the network, are not sufficiently robust to be presented as official statistics. This is due to the range of different sources used to calculate journey times across the network.&lt;/p&gt;
+
+&lt;p&gt;The Department has been working with the Highways Agency to address these issues of comparability. As a result we will be making a number of methodological changes to improve the quality of the reliability measure from the publication of the January 2013 statistics (in March). More detail on these changes will be provided in updated technical guidance.&lt;/p&gt;
+
+&lt;p&gt;Journey time reliability data for individual road sections is currently published by the Highways Agency through the &lt;a rel="external" href="http://data.gov.uk"&gt;data.gov.uk&lt;/a&gt; webpage.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;publishing schedule: monthly&lt;/li&gt;
+  &lt;li&gt;last updated: 10 January 2013&lt;/li&gt;
+  &lt;li&gt;next update: 14 February 2013&lt;/li&gt;
+&lt;/ul&gt;&lt;h2 id="other-related-data-and-information"&gt;Other related data and information&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.gov.uk/government/publications/reliability-of-journeys-on-the-highways-agencys-motorway-and-a-road-network-november-2012"&gt;Reliability of journeys on Highways Agency’s motorway and ‘A’ road network: November 2012 - statistical release page&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://www.gov.uk/technical-guidance-for-transport-stats#road-congestion-and-reliability-statistics"&gt;An introduction into the Department for Transport’s congestion statistics&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://www.gov.uk/technical-guidance-for-transport-stats#road-congestion-and-reliability-statistics"&gt;Methodology for calculation of reliability on Highways Agency’s motorway and ‘A’ road network&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;h2 id="further-information"&gt;Further information&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.gov.uk/government/publications/department-for-transport-business-plan"&gt;Business Plan 2012-2015&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://www.gov.uk/government/publications/input-and-impact-indicators"&gt;Input and impact indicators&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;For further information on this impact indicator, please contact: &lt;a href="mailto:jay.symonds@dft.gsi.gov.uk"&gt;jay.symonds@dft.gsi.gov.uk&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/64919</id>
@@ -38,6 +135,32 @@
 &lt;p&gt;Covers November of the financial year 2012 to 2013.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/64915</id>
+    <published>2013-01-09T00:00:00+00:00</published>
+    <updated>2013-01-09T14:27:21+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/bis-workforce-management-april-2012-to-october-2012"/>
+    <title>BIS workforce management: April 2012 to November 2012</title>
+    <category>Publication</category>
+    <summary>Management information on staff numbers and paybill costs in BIS, its agencies and executive non-departmental public bodies.</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;For workforce numbers, both payroll and non-payroll (contingent labour, including consultants) information is provided, split between full-time equivalents (FTE) and headcount, with payroll staff numbers mapped to standard Civil Service grades.&lt;/p&gt;
+
+&lt;p&gt;For costs, payroll paybill information is broken down into its component parts i.e. salaries, allowances, employers pensions contributions etc. For non-payroll costs, these are split between costs for consultancy and those of other non-payroll workers.&lt;/p&gt;
+
+&lt;p&gt;Covers April to November of the financial year 2012 to 2013.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/64070</id>
+    <published>2013-01-04T00:00:00+00:00</published>
+    <updated>2013-01-04T18:18:41+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/bis-junior-staff-numbers-and-payscales-30-september-2012"/>
+    <title>BIS junior staff numbers and payscales: 30 September 2012</title>
+    <category>Publication</category>
+    <summary>
+BIS junior staff numbers and pay, as of 30 September 2012 
+</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The government is committed to setting new standards for transparency so the public can more easily see how and where taxpayers’ money is being spent and hold politicians, government departments and public bodies to account.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/64305</id>
     <published>2013-01-04T00:00:00+00:00</published>
     <updated>2013-01-04T09:58:14+00:00</updated>
@@ -50,6 +173,34 @@
 &lt;p&gt;DCLG has adopted these indicators to help the public assess the effects of policies and reforms on the cost and impact of public services. The individual indicators are unique to DCLG.  &lt;/p&gt;
 
 &lt;p&gt;This is the second time that the business plan indicators have been published separately from the &lt;a href="https://www.gov.uk/government/organisations/department-for-communities-and-local-government/series/dclg-business-plan-quarterly-data-summaries"&gt;quarterly summary management data&lt;/a&gt;.  &lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/64069</id>
+    <published>2013-01-04T00:00:00+00:00</published>
+    <updated>2013-01-04T18:18:05+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/bis-senior-staff-posts-and-pay-30-september-2012"/>
+    <title>BIS senior staff posts and pay: 30 September 2012</title>
+    <category>Publication</category>
+    <summary>BIS senior staff posts and pay, as of 30 September 2012. </summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The government is committed to setting new standards for transparency so the public can more easily see how and where taxpayers’ money is being spent and hold politicians, government departments and public bodies to account.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/61120</id>
+    <published>2013-01-04T00:00:00+00:00</published>
+    <updated>2013-01-04T09:57:20+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/workforce-management-information-november-2012"/>
+    <title>Workforce management information: November 2012</title>
+    <category>Publication</category>
+    <summary>Workforce information for the Department for Communities and Local Government and its agencies and public bodies.</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Details of the workforce management data for November 2012.&lt;/p&gt;
+
+&lt;p&gt;These figures are not official statistics. They are internal workforce management information published in the interests of transparency.&lt;/p&gt;
+
+&lt;p&gt;These figures have not been reconciled centrally with any National Statistics. Where differences appear between the monthly information and National Statistics, clarifying comments will be provided. The Office for National Statistics’ quarterly public sector employment statistics provide an official headline measure for comparing the overall size of employment in central government organisations with other sectors of the economy at the relevant quarterly reference point.&lt;/p&gt;
+
+&lt;p&gt;Some organisations may not have information available for each month, and at this stage coverage may therefore not reach 100% for those organisations in scope.&lt;/p&gt;
+
+&lt;p&gt;Given the wide range of organisations covered, caution should be exercised when drawing inferences from the figures and care should be taken when making comparisons between organisations.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/60974</id>
@@ -70,46 +221,6 @@
     <category>Publication</category>
     <summary>Queen Elizabeth II Conference Centre expenditure for November 2012.</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Spending over £250 for the Queen Elizabeth II Conference Centre for November 2012.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/64069</id>
-    <published>2013-01-04T00:00:00+00:00</published>
-    <updated>2013-01-04T18:18:05+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/bis-senior-staff-posts-and-pay-30-september-2012"/>
-    <title>BIS senior staff posts and pay: 30 September 2012</title>
-    <category>Publication</category>
-    <summary>BIS senior staff posts and pay, as of 30 September 2012. </summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The government is committed to setting new standards for transparency so the public can more easily see how and where taxpayers’ money is being spent and hold politicians, government departments and public bodies to account.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/64070</id>
-    <published>2013-01-04T00:00:00+00:00</published>
-    <updated>2013-01-04T18:18:41+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/bis-junior-staff-numbers-and-payscales-30-september-2012"/>
-    <title>BIS junior staff numbers and payscales: 30 September 2012</title>
-    <category>Publication</category>
-    <summary>
-BIS junior staff numbers and pay, as of 30 September 2012 
-</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The government is committed to setting new standards for transparency so the public can more easily see how and where taxpayers’ money is being spent and hold politicians, government departments and public bodies to account.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/61120</id>
-    <published>2013-01-04T00:00:00+00:00</published>
-    <updated>2013-01-04T09:57:20+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/workforce-management-information-november-2012"/>
-    <title>Workforce management information: November 2012</title>
-    <category>Publication</category>
-    <summary>Workforce information for the Department for Communities and Local Government and its agencies and public bodies.</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Details of the workforce management data for November 2012.&lt;/p&gt;
-
-&lt;p&gt;These figures are not official statistics. They are internal workforce management information published in the interests of transparency.&lt;/p&gt;
-
-&lt;p&gt;These figures have not been reconciled centrally with any National Statistics. Where differences appear between the monthly information and National Statistics, clarifying comments will be provided. The Office for National Statistics’ quarterly public sector employment statistics provide an official headline measure for comparing the overall size of employment in central government organisations with other sectors of the economy at the relevant quarterly reference point.&lt;/p&gt;
-
-&lt;p&gt;Some organisations may not have information available for each month, and at this stage coverage may therefore not reach 100% for those organisations in scope.&lt;/p&gt;
-
-&lt;p&gt;Given the wide range of organisations covered, caution should be exercised when drawing inferences from the figures and care should be taken when making comparisons between organisations.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/61023</id>
@@ -604,47 +715,6 @@ Further information about this indicator can be found in the measurement templat
 &lt;p&gt;All central government departments must publish details of their spending over £25,000, and publish monthly information by the last day of each month.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60238</id>
-    <published>2012-12-20T00:00:00+00:00</published>
-    <updated>2012-12-20T16:02:55+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/bis-government-procurement-card-spend-over-500-september-2012"/>
-    <title>BIS Government Procurement Card spend over £500: September 2012 </title>
-    <category>Publication</category>
-    <summary>BIS Government Procurement Card expenditure over £500 in September 2012. </summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Financial data on BIS items of Government Procurement Card expenditure over £500, in September 2012.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60239</id>
-    <published>2012-12-20T00:00:00+00:00</published>
-    <updated>2012-12-20T16:01:51+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/bis-government-procurement-card-spend-over-500-october-2012"/>
-    <title>BIS Government Procurement Card spend over £500: October 2012</title>
-    <category>Publication</category>
-    <summary>BIS Government Procurement Card expenditure over £500 in October 2012. 
-</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Financial data on BIS items of Government Procurement Card expenditure over £500, in October 2012.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/64308</id>
-    <published>2012-12-20T00:00:00+00:00</published>
-    <updated>2012-12-20T10:00:52+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/ncpprp-bonus-data-for-the-reporting-year-2011-12"/>
-    <title>NCPRP data for the reporting year 2011/12</title>
-    <category>Publication</category>
-    <summary>Non-consolidated performance related pay for the Foreign &amp; Commonwealth Office and FCO Services for performance year 2011/2012</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Non-consolidated performance related pay for the Foreign &amp;amp; Commonwealth Office and FCO Services for performance year 2011/2012.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60093</id>
-    <published>2012-12-20T00:00:00+00:00</published>
-    <updated>2012-12-20T10:02:35+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/non-consolidated-performance-related-payments-2011-to-2012"/>
-    <title>Non-consolidated performance related payments 2011 to 2012</title>
-    <category>Publication</category>
-    <summary></summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Non-consolidated performance related payments for 2011 to 2012.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/60775</id>
     <published>2012-12-20T00:00:00+00:00</published>
     <updated>2012-11-10T14:50:15+00:00</updated>
@@ -805,14 +875,45 @@ Further information about this indicator can be found in the measurement templat
 &lt;/ul&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60007</id>
-    <published>2012-12-19T00:00:00+00:00</published>
-    <updated>2012-12-20T10:16:05+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/bis-non-consolidated-performance-related-pay-2011-to-2012"/>
-    <title>BIS non-consolidated performance related pay 2011 to 2012</title>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/64308</id>
+    <published>2012-12-20T00:00:00+00:00</published>
+    <updated>2012-12-20T10:00:52+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/ncpprp-bonus-data-for-the-reporting-year-2011-12"/>
+    <title>NCPRP data for the reporting year 2011/12</title>
     <category>Publication</category>
-    <summary>Details of consolidated performance related pay at BIS for performance year 2011 to 2012.</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Non-consolidated performance related pay for performance year 2011 to 2012.&lt;/p&gt;&lt;/div&gt;</content>
+    <summary>Non-consolidated performance related pay for the Foreign &amp; Commonwealth Office and FCO Services for performance year 2011/2012</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Non-consolidated performance related pay for the Foreign &amp;amp; Commonwealth Office and FCO Services for performance year 2011/2012.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60239</id>
+    <published>2012-12-20T00:00:00+00:00</published>
+    <updated>2012-12-20T16:01:51+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/bis-government-procurement-card-spend-over-500-october-2012"/>
+    <title>BIS Government Procurement Card spend over £500: October 2012</title>
+    <category>Publication</category>
+    <summary>BIS Government Procurement Card expenditure over £500 in October 2012. 
+</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Financial data on BIS items of Government Procurement Card expenditure over £500, in October 2012.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60238</id>
+    <published>2012-12-20T00:00:00+00:00</published>
+    <updated>2012-12-20T16:02:55+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/bis-government-procurement-card-spend-over-500-september-2012"/>
+    <title>BIS Government Procurement Card spend over £500: September 2012 </title>
+    <category>Publication</category>
+    <summary>BIS Government Procurement Card expenditure over £500 in September 2012. </summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Financial data on BIS items of Government Procurement Card expenditure over £500, in September 2012.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60093</id>
+    <published>2012-12-20T00:00:00+00:00</published>
+    <updated>2012-12-20T10:02:35+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/non-consolidated-performance-related-payments-2011-to-2012"/>
+    <title>Non-consolidated performance related payments 2011 to 2012</title>
+    <category>Publication</category>
+    <summary></summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Non-consolidated performance related payments for 2011 to 2012.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/60895</id>

@@ -201,14 +201,30 @@
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;These datasets and organisation charts shows posts and salary information for staff at the MOD from March 2011 to September 2011. They’re shared here as part of the effort to make government operations and spending more transparent to the public.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/64947</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/64978</id>
     <published>2011-03-01T00:00:00+00:00</published>
     <updated>2012-12-11T15:31:41+00:00</updated>
     <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/departmental-organisation-charts"/>
     <title>Departmental organisation charts</title>
     <category>Publication</category>
     <summary>Details of junior and senior posts at the MOD, their salary information and organisational charts</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;These show all Military 1*/Senior Civil Service (Pay Band 1) and above posts and junior staff posts below Senior Civil Service level who report to them including their payscales. &lt;/p&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;These show all Military 1*/Senior Civil Service (Pay Band 1) and above posts and junior staff posts below Senior Civil Service level who report to them including their payscales.&lt;/p&gt;
+
+&lt;h3 id="visualisation-charts"&gt;Visualisation charts&lt;/h3&gt;
+
+&lt;p&gt;To view these charts Internet Explorer version 7.0 is required or Firefox. &lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel="external" href="http://reference.data.gov.uk/gov-structure/organogram/?dept=mod&amp;amp;post=000000000" title="Visualation charts for PUS and CDS"&gt;PUS and CDS, as of March 2012&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;
+&lt;a rel="external" href="http://reference.data.gov.uk/gov-structure/organogram/?dept=mod&amp;amp;post=1167535" title="Visualation charts for Chief of the General Staff"&gt;Chief of the General Staff, as of March 2012&lt;/a&gt; &lt;/li&gt;
+  &lt;li&gt;&lt;a rel="external" href="http://reference.data.gov.uk/gov-structure/organogram/?dept=mod&amp;amp;post=1105340" title="Visualation charts for First Sea Lord (1SL) / Chief of Naval Staff"&gt;First Sea Lord (1SL) / Chief of Naval Staff, as of March 2012&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a rel="external" href="http://reference.data.gov.uk/gov-structure/organogram/?dept=mod&amp;amp;post=1017733" title="Visualation charts for Chief of the Air"&gt;Chief of the Air, as of March 2012&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a rel="external" href="http://reference.data.gov.uk/gov-structure/organogram/?dept=mod&amp;amp;post=1058619" title="Visualation charts for Chief of Joint Operations"&gt;Chief of Joint Operations, as of March 2012&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a rel="external" href="http://reference.data.gov.uk/gov-structure/organogram/?dept=mod&amp;amp;post=00009000" title="Visualation charts for Chief of Defence Materiel"&gt;Chief of Defence Materiel, as of March 2012&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a rel="external" href="http://reference.data.gov.uk/gov-structure/organogram/?dept=mod&amp;amp;post=00026677" title="Visualation charts for Defence Infrastructure Organisation"&gt;Defence Infrastructure Organisation, as of March 2012&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a rel="external" href="http://reference.data.gov.uk/gov-structure/organogram/?dept=mod&amp;amp;post=00005654" title="Visualation charts for Permanent Under Secretary"&gt;Permanent Under Secretary, as of March 2012&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/55581</id>

@@ -8,7 +8,17 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2013-01-09T11:24:56+00:00</updated>
+  <updated>2013-01-10T16:25:38+00:00</updated>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/65313</id>
+    <published>2013-01-10T00:00:00+00:00</published>
+    <updated>2013-01-10T16:25:38+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/the-armed-forces-covenant"/>
+    <title>The armed forces covenant</title>
+    <category>Publication</category>
+    <summary>The armed forces covenant and the armed forces covenant: today and tomorrow.</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The armed forces covenant and the armed forces covenant: today and tomorrow&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/64322</id>
     <published>2013-01-09T00:00:00+00:00</published>
@@ -19,6 +29,16 @@
     <summary>Annex B to 2005DIN02-186
 </summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This document outlines the revised entitlement (formerly marital status) personal status category definitions.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/64235</id>
+    <published>2013-01-08T00:00:00+00:00</published>
+    <updated>2013-01-10T16:26:33+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/the-community-covenant-e-newsletter"/>
+    <title>The community covenant e-newsletter</title>
+    <category>Publication</category>
+    <summary>The armed forces covenant team publish a quarterly newsletter.</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The community covenant quarterly e-newsletter.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/61060</id>
@@ -61,6 +81,16 @@
 &lt;p&gt;However, the entitlement of Gurkha Late Entry officers, who joined the Army before 1 July 1997, and Gurkhas soldiers, who joined the Army before 1 October 1993, to redundancy compensation is affected by the terms and conditions of the &lt;abbr title="Gurkha Offer To Transfer"&gt;GOTT&lt;/abbr&gt;, which means that the Armed Forces Redundancy Calculator (&lt;abbr title="Armed Forces Redundancy Calculator"&gt;AFRC&lt;/abbr&gt;) will not produce an accurate forecast. In these cases, Gurkhas must use the Gurkha pension calculator (&lt;abbr title="Gurkha pension calculator"&gt;GPC&lt;/abbr&gt;) to produce a forecast of the parts of their redundancy package which the &lt;abbr title="Armed Forces Redundancy Calculator"&gt;AFRC&lt;/abbr&gt; cannot calculate correctly and then, in some cases, apply a manual workaround.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/61064</id>
+    <published>2012-12-31T00:00:00+00:00</published>
+    <updated>2013-01-03T10:27:46+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/joint-warfare-publication-4-05-infrastructure-management-on-joint-operations"/>
+    <title>JWP 4-05: Infrastructure Management on Joint Operations</title>
+    <category>Publication</category>
+    <summary>Joint Warfare Publication (JWP) 4-05: Infrastructure Management on Joint Operations.</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Joint Warfare Publication (&lt;abbr title="Joint Warfare Publication"&gt;JWP&lt;/abbr&gt;) 4-05: Infrastructure Management on Joint Operations.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/61068</id>
     <published>2012-12-31T00:00:00+00:00</published>
     <updated>2013-01-03T10:25:29+00:00</updated>
@@ -70,56 +100,6 @@
     <summary>Command and Control: Comparative Case Studies for Joint Doctrine Publication (JDP) 3-40.
 </summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Command and Control: Comparative Case Studies for Joint Doctrine Publication (&lt;abbr title="Joint Doctrine Publication"&gt;JDP&lt;/abbr&gt;) 3-40. &lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/61063</id>
-    <published>2012-12-31T00:00:00+00:00</published>
-    <updated>2013-01-03T10:27:26+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/joint-warfare-publication-3-66-joint-personnel-recovery"/>
-    <title>JWP 3-66: Joint Personnel Recovery</title>
-    <category>Publication</category>
-    <summary>Joint Warfare Publication (JWP) 3-66: Joint Personnel Recovery.</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Joint Warfare Publication (&lt;abbr title="Joint Warfare Publication"&gt;JWP&lt;/abbr&gt;) 3-66: Joint Personnel Recovery.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60938</id>
-    <published>2012-12-31T00:00:00+00:00</published>
-    <updated>2013-01-03T10:29:04+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/sharing-the-space-a-guide-to-constructive-engagement-with-non-governmental-organisations-and-the-aid-community"/>
-    <title>Sharing the space: a guide to constructive engagement with non-governmental organisations and the aid community</title>
-    <category>Publication</category>
-    <summary>Sharing the space: a guide to constructive engagement with non-governmental organisations and the aid community.</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Sharing the space: a guide to constructive engagement with non-governmental organisations and the aid community.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/61061</id>
-    <published>2012-12-31T00:00:00+00:00</published>
-    <updated>2013-01-03T10:26:54+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/joint-warfare-publication-3-51-non-combatant-evacuation-operations-incorporating-change-1"/>
-    <title>JWP 3-51: Non-combatant Evacuation Operations (incorporating Change 1)</title>
-    <category>Publication</category>
-    <summary>Joint Warfare Publication (JWP) 3-51: Non-combatant Evacuation Operations (incorporating Change 1).</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Joint Warfare Publication (&lt;abbr title="Joint Warfare Publications"&gt;JWP&lt;/abbr&gt;) 3-51: Non-combatant Evacuation Operations (incorporating Change 1).&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/61069</id>
-    <published>2012-12-31T00:00:00+00:00</published>
-    <updated>2013-01-03T10:25:06+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/supplementary-information-on-corruption-for-joint-doctrine-publication-3-40"/>
-    <title>Supplementary information on corruption for JDP 3-40</title>
-    <category>Publication</category>
-    <summary>Further advice and guidance on corruption for Joint Doctrine Publication (JDP) 3-40 provided by the Transparency International defence team.</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Further advice and guidance on corruption for Joint Doctrine Publication (&lt;abbr title="Joint Doctrine Publication"&gt;JDP&lt;/abbr&gt;) 3-40 provided by &lt;a rel="external" href="http://transparency.org/"&gt;Transparency International&lt;/a&gt; defence team.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/61062</id>
-    <published>2012-12-31T00:00:00+00:00</published>
-    <updated>2013-01-03T10:30:19+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/joint-warfare-publication-3-63-joint-air-defence-second-edition"/>
-    <title>JWP 3-63: Joint Air Defence (second edition)</title>
-    <category>Publication</category>
-    <summary>Joint Warfare Publication (JWP) 3-63: Joint Air Defence (second edition).</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Joint Warfare Publication (&lt;abbr title="Joint Warfare Publication"&gt;JWP&lt;/abbr&gt;) 3-63: joint air defence (second edition).&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/61066</id>
@@ -132,14 +112,64 @@
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;&lt;abbr title="Joint Warfare Publication"&gt;JWP&lt;/abbr&gt; 3-50: The Military Contribution to Peace Support Operations (second edition) provides practical guidance for military personnel involved at the Operational Level in Peace Support Operations (&lt;abbr title="peace service operations"&gt;PSOs&lt;/abbr&gt;) and in training programmes.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/61064</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/61069</id>
     <published>2012-12-31T00:00:00+00:00</published>
-    <updated>2013-01-03T10:27:46+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/joint-warfare-publication-4-05-infrastructure-management-on-joint-operations"/>
-    <title>JWP 4-05: Infrastructure Management on Joint Operations</title>
+    <updated>2013-01-03T10:25:06+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/supplementary-information-on-corruption-for-joint-doctrine-publication-3-40"/>
+    <title>Supplementary information on corruption for JDP 3-40</title>
     <category>Publication</category>
-    <summary>Joint Warfare Publication (JWP) 4-05: Infrastructure Management on Joint Operations.</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Joint Warfare Publication (&lt;abbr title="Joint Warfare Publication"&gt;JWP&lt;/abbr&gt;) 4-05: Infrastructure Management on Joint Operations.&lt;/p&gt;&lt;/div&gt;</content>
+    <summary>Further advice and guidance on corruption for Joint Doctrine Publication (JDP) 3-40 provided by the Transparency International defence team.</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Further advice and guidance on corruption for Joint Doctrine Publication (&lt;abbr title="Joint Doctrine Publication"&gt;JDP&lt;/abbr&gt;) 3-40 provided by &lt;a rel="external" href="http://transparency.org/"&gt;Transparency International&lt;/a&gt; defence team.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/61063</id>
+    <published>2012-12-31T00:00:00+00:00</published>
+    <updated>2013-01-03T10:27:26+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/joint-warfare-publication-3-66-joint-personnel-recovery"/>
+    <title>JWP 3-66: Joint Personnel Recovery</title>
+    <category>Publication</category>
+    <summary>Joint Warfare Publication (JWP) 3-66: Joint Personnel Recovery.</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Joint Warfare Publication (&lt;abbr title="Joint Warfare Publication"&gt;JWP&lt;/abbr&gt;) 3-66: Joint Personnel Recovery.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/61062</id>
+    <published>2012-12-31T00:00:00+00:00</published>
+    <updated>2013-01-03T10:30:19+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/joint-warfare-publication-3-63-joint-air-defence-second-edition"/>
+    <title>JWP 3-63: Joint Air Defence (second edition)</title>
+    <category>Publication</category>
+    <summary>Joint Warfare Publication (JWP) 3-63: Joint Air Defence (second edition).</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Joint Warfare Publication (&lt;abbr title="Joint Warfare Publication"&gt;JWP&lt;/abbr&gt;) 3-63: joint air defence (second edition).&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/61061</id>
+    <published>2012-12-31T00:00:00+00:00</published>
+    <updated>2013-01-03T10:26:54+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/joint-warfare-publication-3-51-non-combatant-evacuation-operations-incorporating-change-1"/>
+    <title>JWP 3-51: Non-combatant Evacuation Operations (incorporating Change 1)</title>
+    <category>Publication</category>
+    <summary>Joint Warfare Publication (JWP) 3-51: Non-combatant Evacuation Operations (incorporating Change 1).</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Joint Warfare Publication (&lt;abbr title="Joint Warfare Publications"&gt;JWP&lt;/abbr&gt;) 3-51: Non-combatant Evacuation Operations (incorporating Change 1).&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60938</id>
+    <published>2012-12-31T00:00:00+00:00</published>
+    <updated>2013-01-03T10:29:04+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/sharing-the-space-a-guide-to-constructive-engagement-with-non-governmental-organisations-and-the-aid-community"/>
+    <title>Sharing the space: a guide to constructive engagement with non-governmental organisations and the aid community</title>
+    <category>Publication</category>
+    <summary>Sharing the space: a guide to constructive engagement with non-governmental organisations and the aid community.</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Sharing the space: a guide to constructive engagement with non-governmental organisations and the aid community.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60996</id>
+    <published>2012-12-21T00:00:00+00:00</published>
+    <updated>2012-12-21T16:47:55+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/stabilisation-and-the-stabilisation-unit"/>
+    <title>Stabilisation and the stabilisation unit</title>
+    <category>Publication</category>
+    <summary>Additional information provided by the stabilisation unit.</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Stabilisation and the stabilisation unit, a Joint Doctrine Publication (&lt;abbr title="Joint Doctrine Publication"&gt;JDP&lt;/abbr&gt;).&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/61077</id>
@@ -162,26 +192,6 @@
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;&lt;abbr title="Defence Training Estate"&gt;DTE&lt;/abbr&gt; Otterburn Public Information Leaflet&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60996</id>
-    <published>2012-12-21T00:00:00+00:00</published>
-    <updated>2012-12-21T16:47:55+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/stabilisation-and-the-stabilisation-unit"/>
-    <title>Stabilisation and the stabilisation unit</title>
-    <category>Publication</category>
-    <summary>Additional information provided by the stabilisation unit.</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Stabilisation and the stabilisation unit, a Joint Doctrine Publication (&lt;abbr title="Joint Doctrine Publication"&gt;JDP&lt;/abbr&gt;).&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/61076</id>
-    <published>2012-12-21T00:00:00+00:00</published>
-    <updated>2012-12-21T16:42:38+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/dte-scotland-public-information-leaflet"/>
-    <title> DTE Scotland Public Information Leaflet</title>
-    <category>Publication</category>
-    <summary> DTE Scotland Public Information Leaflet</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;&lt;abbr title="Defence Training Estate"&gt;DTE&lt;/abbr&gt; Scotland Public Information Leaflet&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/61080</id>
     <published>2012-12-21T00:00:00+00:00</published>
     <updated>2012-12-21T16:41:37+00:00</updated>
@@ -190,16 +200,6 @@
     <category>Publication</category>
     <summary>DTE Home Counties Public Information Leaflet</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;&lt;abbr title="Defence Training Estate"&gt;DTE&lt;/abbr&gt; Home Counties Public Information Leaflet&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/61132</id>
-    <published>2012-12-21T00:00:00+00:00</published>
-    <updated>2012-12-21T16:51:18+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/disaster-relief-operations"/>
-    <title>JDP 3-52: Disaster Relief Operations</title>
-    <category>Publication</category>
-    <summary>Disaster Relief Operations, Joint Doctrine Publication 3-52</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Disaster Relief Operations, Joint Doctrine Publication 3-52 (2nd edition)&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/61134</id>

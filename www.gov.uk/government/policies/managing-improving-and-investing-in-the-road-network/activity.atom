@@ -8,7 +8,118 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2013-01-09T10:16:40+00:00</updated>
+  <updated>2013-01-10T10:08:15+00:00</updated>
+  <entry>
+    <id>tag:www.gov.uk,2005:Publication/56406</id>
+    <published>2013-01-10T00:00:00+00:00</published>
+    <updated>2013-01-10T10:08:15+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/reliability-of-journeys-on-the-highways-agency-s-motorway-and-a-road-network"/>
+    <title>Reliability of journeys on the Highways Agency’s motorway and A road network</title>
+    <category>Publication</category>
+    <summary>Impact indicator, disaggregated by junction, published monthly from May 2011.</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="dft-business-plan-impact-indicator"&gt;DfT Business plan impact indicator&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Geographical coverage: England&lt;/li&gt;
+  &lt;li&gt;Information broken down by: national level aggregation&lt;/li&gt;
+&lt;/ul&gt;&lt;h2 id="latest-data"&gt;Latest data&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Provisional data show that 81.9% of journeys made on Highways Agency managed roads between December 2011 and November 2012 were ‘on time’. This is 0.4 percentage points lower than the previous rolling year, ending in October 2012.&lt;/li&gt;
+  &lt;li&gt;During November 2012, provisional data show that 76.6% of journeys on Highways Agency’s motorway and ‘A’ road network were ‘on time’. This is 4.7 percentage points lower than the equivalent figure for November 2011.&lt;/li&gt;
+  &lt;li&gt;The annual reliability measure consistently increased up to March 2012, but has fallen in the last eight months, and is now at a similar level to that observed in mid-2011. 2012 was the second wettest year since records began with substantial rainfall during the final three quarters of the year. Significant amounts of rainfall compared to 2011 will have led to slower speeds on the network, slower journeys and thus a fall in reliability.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;a rel="external" href="http://charts.dft.gov.uk/dft-business-plan/indicators/#01"&gt;Click here to view this data in an interactive chart&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Percentage of journeys on Highways Agency motorways and A roads deemed ‘on time’: monthly from June 2012&lt;/p&gt;
+
+&lt;h3 id="percentage-of-journeys-on-time"&gt;Percentage of journeys ‘on time’&lt;/h3&gt;
+
+&lt;table&gt;
+&lt;thead&gt;&lt;tr&gt;
+&lt;th&gt; &lt;/th&gt;
+      &lt;th&gt;Year ending&lt;/th&gt;
+      &lt;th&gt;Month&lt;/th&gt;
+      &lt;th&gt;Year ending percentage points change&lt;/th&gt;
+    &lt;/tr&gt;&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;June 2012&lt;/td&gt;
+      &lt;td&gt;83.3&lt;/td&gt;
+      &lt;td&gt;82.3&lt;/td&gt;
+      &lt;td&gt;-0.2&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;July 2012&lt;/td&gt;
+      &lt;td&gt;83.0&lt;/td&gt;
+      &lt;td&gt;81.8&lt;/td&gt;
+      &lt;td&gt;-0.2&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;August 2012&lt;/td&gt;
+      &lt;td&gt;82.9&lt;/td&gt;
+      &lt;td&gt;81.9&lt;/td&gt;
+      &lt;td&gt;-0.1&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;September 2012&lt;/td&gt;
+      &lt;td&gt;82.6&lt;/td&gt;
+      &lt;td&gt;80.5&lt;/td&gt;
+      &lt;td&gt;-0.3&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;October 2012&lt;/td&gt;
+      &lt;td&gt;82.3&lt;/td&gt;
+      &lt;td&gt;79.6&lt;/td&gt;
+      &lt;td&gt;-0.3&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;November 2012&lt;sup&gt;P&lt;/sup&gt;
+&lt;/td&gt;
+      &lt;td&gt;81.9&lt;/td&gt;
+      &lt;td&gt;76.6&lt;/td&gt;
+      &lt;td&gt;-0.4&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;&lt;p&gt;Source: Highways Agency Traffic Information System (HATRIS) Database&lt;/p&gt;
+
+&lt;p&gt;&lt;sup&gt;P&lt;/sup&gt; = provisional&lt;/p&gt;
+
+&lt;h2 id="background-information"&gt;Background information&lt;/h2&gt;
+
+&lt;p&gt;This indicator monitors the reliability of journeys made on Highways Agency’s motorway and A road network.&lt;/p&gt;
+
+&lt;p&gt;The indicator is measured by the percentage of ‘journeys’ on these roads that are ‘on time’. For this measure:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;a ‘journey’ represents travel between adjacent junctions on the network&lt;/li&gt;
+  &lt;li&gt;an ‘on time journey’ is defined as one which is completed within a set reference time, drawn from historic data on that particular section of road&lt;/li&gt;
+  &lt;li&gt;reference journey times are updated for the April data each year - further information on the impact of updating reference times can be found in section 3 of the latest &lt;a href="https://www.gov.uk/government/organisations/department-for-transport/series/road-congestion-and-reliability-statistics"&gt;statistical release&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;At present, information about the reliability of journeys on individual routes, or between particular junctions on the network, are not sufficiently robust to be presented as official statistics. This is due to the range of different sources used to calculate journey times across the network.&lt;/p&gt;
+
+&lt;p&gt;The Department has been working with the Highways Agency to address these issues of comparability. As a result we will be making a number of methodological changes to improve the quality of the reliability measure from the publication of the January 2013 statistics (in March). More detail on these changes will be provided in updated technical guidance.&lt;/p&gt;
+
+&lt;p&gt;Journey time reliability data for individual road sections is currently published by the Highways Agency through the &lt;a rel="external" href="http://data.gov.uk"&gt;data.gov.uk&lt;/a&gt; webpage.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;publishing schedule: monthly&lt;/li&gt;
+  &lt;li&gt;last updated: 10 January 2013&lt;/li&gt;
+  &lt;li&gt;next update: 14 February 2013&lt;/li&gt;
+&lt;/ul&gt;&lt;h2 id="other-related-data-and-information"&gt;Other related data and information&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.gov.uk/government/publications/reliability-of-journeys-on-the-highways-agencys-motorway-and-a-road-network-november-2012"&gt;Reliability of journeys on Highways Agency’s motorway and ‘A’ road network: November 2012 - statistical release page&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://www.gov.uk/technical-guidance-for-transport-stats#road-congestion-and-reliability-statistics"&gt;An introduction into the Department for Transport’s congestion statistics&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://www.gov.uk/technical-guidance-for-transport-stats#road-congestion-and-reliability-statistics"&gt;Methodology for calculation of reliability on Highways Agency’s motorway and ‘A’ road network&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;h2 id="further-information"&gt;Further information&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.gov.uk/government/publications/department-for-transport-business-plan"&gt;Business Plan 2012-2015&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://www.gov.uk/government/publications/input-and-impact-indicators"&gt;Input and impact indicators&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;For further information on this impact indicator, please contact: &lt;a href="mailto:jay.symonds@dft.gsi.gov.uk"&gt;jay.symonds@dft.gsi.gov.uk&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
+  </entry>
   <entry>
     <id>tag:www.gov.uk,2005:Consultation/64205</id>
     <published>2013-01-09T10:16:40+00:00</published>
@@ -32,20 +143,22 @@
 &lt;/ul&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:Publication/64032</id>
+    <id>tag:www.gov.uk,2005:Speech/64307</id>
     <published>2013-01-09T00:00:00+00:00</published>
-    <updated>2013-01-09T08:55:39+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/luton-borough-councils-compulsory-purchase-order-for-station-house-decision-letter"/>
-    <title>Luton Borough Council's compulsory purchase order for Station House: decision letter</title>
-    <category>Publication</category>
-    <summary>Explaining the Secretary of State's decision about the Luton Borough Council (Station House, Midland Road) compulsory purchase order 2011.</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This letter gives details about the Secretary of State’s decision on the Luton Borough Council (Station House, Midland Road) compulsory purchase order 2011. It explains that the Secretary of State has decided to confirm the order subject to a specified modification.&lt;/p&gt;
+    <updated>2013-01-09T10:03:09+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/speeches/implementation-of-the-penfold-review--3"/>
+    <title>Implementation of the Penfold Review</title>
+    <category>Statement to parliament</category>
+    <summary>Proposals to simplify the process of stopping up or diverting a highway will be announced in a consultation response today.</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Today I am publishing a government response to the consultation that closed on 24 August detailing proposals to simplify the process of applying for the stopping up or diversion of a highway, where this is required for the purposes of development.&lt;/p&gt;
 
-&lt;h2 id="related-documents"&gt;Related documents&lt;/h2&gt;
+&lt;p&gt;The main options presented in the consultation were to permit applications for a stopping up or diversion order to be submitted at the same time as applying for planning permission and to devolve decision-making to the local authority level.&lt;/p&gt;
 
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.gov.uk/government/publications/luton-borough-councils-compulsory-purchase-order-for-station-house-inspectors-report"&gt;Luton Borough Council’s compulsory purchase order for Station House: inspector’s report&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</content>
+&lt;p&gt;The government has decided not to devolve the stopping up and diversion order process to a local level. Consultation responses suggested that any devolution should be accompanied by a charging regime; additional costs and charges would be borne by both local authorities and those making applications, with no guarantee of a simpler or faster process. The government does not feel that placing additional burdens on local authorities and costs on developers is right at this time. And the government is aware that the speed of processing applications for stopping up or diversion orders has increased considerably in the last year. Additionally, we do not propose to reform or encourage a greater use of section 116 of the Highways Act 1980.&lt;/p&gt;
+
+&lt;p&gt;The government continues to support the first option, to allow stopping up and diversion applications to be made alongside planning applications. The government considers this will remove a significant barrier to growth, by speeding up the process and allowing a reduction of burdens on both applicants and local authorities, as both applications can be considered concurrently. Legislation currently in Parliament, as part of the Growth and Infrastructure Bill, will give effect to this measure.&lt;/p&gt;
+
+&lt;p&gt;This government response will be available in the libraries of both Houses and on the &lt;a href="/government/consultations/stopping-up-and-diversion-orders-reform-of-the-application-process-for-local-highways"&gt;department’s website&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:Publication/64036</id>
@@ -64,22 +177,20 @@
 &lt;/ul&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:Speech/64307</id>
+    <id>tag:www.gov.uk,2005:Publication/64032</id>
     <published>2013-01-09T00:00:00+00:00</published>
-    <updated>2013-01-09T10:03:09+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/speeches/implementation-of-the-penfold-review--3"/>
-    <title>Implementation of the Penfold Review</title>
-    <category>Statement to parliament</category>
-    <summary>Proposals to simplify the process of stopping up or diverting a highway will be announced in a consultation response today.</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Today I am publishing a government response to the consultation that closed on 24 August detailing proposals to simplify the process of applying for the stopping up or diversion of a highway, where this is required for the purposes of development.&lt;/p&gt;
+    <updated>2013-01-09T08:55:39+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/luton-borough-councils-compulsory-purchase-order-for-station-house-decision-letter"/>
+    <title>Luton Borough Council's compulsory purchase order for Station House: decision letter</title>
+    <category>Publication</category>
+    <summary>Explaining the Secretary of State's decision about the Luton Borough Council (Station House, Midland Road) compulsory purchase order 2011.</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This letter gives details about the Secretary of State’s decision on the Luton Borough Council (Station House, Midland Road) compulsory purchase order 2011. It explains that the Secretary of State has decided to confirm the order subject to a specified modification.&lt;/p&gt;
 
-&lt;p&gt;The main options presented in the consultation were to permit applications for a stopping up or diversion order to be submitted at the same time as applying for planning permission and to devolve decision-making to the local authority level.&lt;/p&gt;
+&lt;h2 id="related-documents"&gt;Related documents&lt;/h2&gt;
 
-&lt;p&gt;The government has decided not to devolve the stopping up and diversion order process to a local level. Consultation responses suggested that any devolution should be accompanied by a charging regime; additional costs and charges would be borne by both local authorities and those making applications, with no guarantee of a simpler or faster process. The government does not feel that placing additional burdens on local authorities and costs on developers is right at this time. And the government is aware that the speed of processing applications for stopping up or diversion orders has increased considerably in the last year. Additionally, we do not propose to reform or encourage a greater use of section 116 of the Highways Act 1980.&lt;/p&gt;
-
-&lt;p&gt;The government continues to support the first option, to allow stopping up and diversion applications to be made alongside planning applications. The government considers this will remove a significant barrier to growth, by speeding up the process and allowing a reduction of burdens on both applicants and local authorities, as both applications can be considered concurrently. Legislation currently in Parliament, as part of the Growth and Infrastructure Bill, will give effect to this measure.&lt;/p&gt;
-
-&lt;p&gt;This government response will be available in the libraries of both Houses and on the &lt;a href="/government/consultations/stopping-up-and-diversion-orders-reform-of-the-application-process-for-local-highways"&gt;department’s website&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;</content>
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.gov.uk/government/publications/luton-borough-councils-compulsory-purchase-order-for-station-house-inspectors-report"&gt;Luton Borough Council’s compulsory purchase order for Station House: inspector’s report&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:NewsArticle/61008</id>
@@ -315,45 +426,6 @@ Public enquiries: 0300 330 3000&lt;/p&gt;&lt;/div&gt;</content>
 
 &lt;p&gt;Press enquiries: 020 7944 3066 &lt;br&gt;
 Out of hours: 020 7944 4292 &lt;br&gt;
-Public enquiries: 0300 330 3000  &lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:NewsArticle/57030</id>
-    <published>2012-12-18T10:38:19+00:00</published>
-    <updated>2012-12-18T10:38:19+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/cash-boost-for-local-roads"/>
-    <title>Cash boost for local roads</title>
-    <category>News article</category>
-    <summary>Extra £215 million to local authorities for road maintenance.</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Councils can plan how to spend their share of a £215 million fund for local road maintenance after funding allocations were published today by Transport Secretary Patrick McLoughlin.&lt;/p&gt;
-
-&lt;p&gt;The £215 million is part of a £333 million fund announced in the Chancellor’s Autumn Statement for essential maintenance to renew, repair and extend the life of roads in England.  This funding is in addition to the £3 billion the government is already providing for councils in England between 2011 and 2015 for highways maintenance.&lt;/p&gt;
-
-&lt;p&gt;This maintenance funding could be used for improvements such as road resurfacing, maintenance to bridges or repairing damage to highway infrastructure caused by severe weather events, such as the recent flooding.  &lt;/p&gt;
-
-&lt;p&gt;Patrick McLoughlin said:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;This extra money will support economic growth and development by helping local authorities to get the best out of their local road networks.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;This funding can be spent on measures to bring smoother, safer and more reliable journeys to the travelling public whether they are commuting to work or taking the children to school.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;In order to help local residents see where this money has been spent it will be a condition of the funding that local authorities commit to publishing a short statement on their websites at the end of each financial year setting out what and where this additional funding has been spent. &lt;/p&gt;
-
-&lt;p&gt;Local authorities are also encouraged to look at the information published by the &lt;a rel="external" href="http://www.dft.gov.uk/hmep"&gt;Highways Maintenance Efficiency Programme&lt;/a&gt; which is leading the way by bringing together the public and private sectors to develop good practice and reduce costs. &lt;/p&gt;
-
-&lt;p&gt;Notes to editors:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;The Chancellor of the Exchequer George Osborne announced in the Autumn Statement on 5 December additional funding of £333 million for highways maintenance for both the motorway and trunk road and local road network. &lt;/li&gt;
-  &lt;li&gt;£215 million additional capital funding will be provided to local highway authorities, including London, to help renew and repair the network in England. £140 million will come in 2013 to 2014, with the remaining £75 million following in 2014 to 2015. The funds will be distributed on the basis of the department’s existing highways maintenance capital funding formula. A &lt;a href="/government/publications/local-transport-capital-block-funding"&gt;full list of the allocations by region and local authority&lt;/a&gt; is available.&lt;/li&gt;
-  &lt;li&gt;To be eligible for this additional funding and to promote greater transparency and accountability, the department will require local highway authorities to publish a brief note on their website by the end of each financial year (end of April 2014 and end of April 2015) on where (in terms of location) and how this additional funding was spent on highways maintenance. This is so local communities are able to see how this extra funding has been spent. &lt;/li&gt;
-  &lt;li&gt;The Highways Maintenance Efficiency Programme (HMEP) is a sector-led programme designed to maximise returns from highways investment and deliver efficient and effective services.  HMEP provides practical guidance on highway maintenance efficiencies for local authorities, supplier organisations and representative bodies in the form of toolkits, case studies and good practice.  The most recent of these, launched on 29 November, are the &lt;a rel="external" href="http://www.dft.gov.uk/hmep/efficiency/standard-spec.php"&gt;standard specification&lt;/a&gt; and &lt;a rel="external" href="http://www.dft.gov.uk/hmep/efficiency/asset-management.php"&gt;asset management toolkit&lt;/a&gt;.&lt;/li&gt;
-&lt;/ol&gt;&lt;p&gt;Press enquiries: 020 7944 3066&lt;br&gt;
-Out of hours: 020 7944 4292&lt;br&gt;
 Public enquiries: 0300 330 3000  &lt;/p&gt;&lt;/div&gt;</content>
   </entry>
 </feed>
