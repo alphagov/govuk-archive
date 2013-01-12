@@ -121,6 +121,20 @@
 &lt;/ul&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/65707</id>
+    <published>2013-01-08T00:00:00+00:00</published>
+    <updated>2013-01-11T16:13:26+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/department-for-transport-government-procurement-card-transactions"/>
+    <title>Department for Transport government procurement card transactions</title>
+    <category>Publication</category>
+    <summary>Information about government procurement card transactions.</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Government procurement card (GPC) transactions above £500 for the Department for Transport and transport agencies.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel="external" href="http://data.gov.uk/dataset/dft-gpc-spend"&gt;Government procurement card transactions&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/61023</id>
     <published>2013-01-02T00:00:00+00:00</published>
     <updated>2012-11-26T14:08:23+00:00</updated>
@@ -308,126 +322,6 @@ Period 9 2012/13 ran from 11 November 2012 to 8 December 2012. &lt;/p&gt;
 &lt;/ul&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60317</id>
-    <published>2012-12-21T00:00:00+00:00</published>
-    <updated>2012-11-10T14:37:57+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/rail-passenger-miles"/>
-    <title>Rail passenger miles</title>
-    <category>Publication</category>
-    <summary>Latest quarterly data on rail passenger miles.</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="dft-business-plan-other-key-data"&gt;DfT Business plan other key data&lt;/h2&gt;
-
-&lt;p&gt;Geographical coverage: Great Britain&lt;/p&gt;
-
-&lt;p&gt;Information broken down by: Rail sector&lt;/p&gt;
-
-&lt;h2 id="latest-data"&gt;Latest data&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;
-    &lt;p&gt;Passengers travelled 9.2 billion miles by rail in the second quarter of 2012-13 (July to September 2012), an increase of 4 per cent when compared to the same quarter in 2011-12.  The second quarter of 2012-13 included the Olympic and Paralympic Games, which will have contributed to this increase in rail travel.  These figures are for franchised operators only, so exclude travel with non-franchised operators, such as Grand Central, Heathrow Express and Hull Trains.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Over the last ten years, other than a slight dip in 2009 during the recession, passenger rail usage has increased significantly, continuing the upward trend that has been seen since the mid-1990s.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;&lt;p&gt;Passenger miles travelled with franchised rail operators&lt;/p&gt;
-
-&lt;table&gt;
-&lt;thead&gt;&lt;tr&gt;
-&lt;th&gt;Quarter&lt;/th&gt;
-      &lt;th&gt;Quarterly total (billions)&lt;/th&gt;
-      &lt;th&gt;Quarterly moving annual average (&lt;abbr title="Moving Annual Average"&gt;MAA&lt;/abbr&gt;) (billions)&lt;/th&gt;
-    &lt;/tr&gt;&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;2010/11 Q1&lt;/td&gt;
-      &lt;td&gt;8.2&lt;/td&gt;
-      &lt;td&gt;8.1&lt;/td&gt;
-    &lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;2010/11 Q2&lt;/td&gt;
-      &lt;td&gt;8.5&lt;/td&gt;
-      &lt;td&gt;8.2&lt;/td&gt;
-    &lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;2010/11 Q3&lt;/td&gt;
-      &lt;td&gt;8.4&lt;/td&gt;
-      &lt;td&gt;8.3&lt;/td&gt;
-    &lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;2010/11 Q4&lt;/td&gt;
-      &lt;td&gt;8.5&lt;/td&gt;
-      &lt;td&gt;8.4&lt;/td&gt;
-    &lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;2011/12 Q1&lt;/td&gt;
-      &lt;td&gt;8.6&lt;/td&gt;
-      &lt;td&gt;8.5&lt;/td&gt;
-    &lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;2011/12 Q2&lt;/td&gt;
-      &lt;td&gt;8.8&lt;/td&gt;
-      &lt;td&gt;8.6&lt;/td&gt;
-    &lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;2011/12 Q3&lt;/td&gt;
-      &lt;td&gt;8.9&lt;/td&gt;
-      &lt;td&gt;8.7&lt;/td&gt;
-    &lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;2011/12 Q4&lt;/td&gt;
-      &lt;td&gt;9.1&lt;/td&gt;
-      &lt;td&gt;8.8&lt;/td&gt;
-    &lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;2012/13 Q1&lt;sup&gt;P&lt;/sup&gt;
-&lt;/td&gt;
-      &lt;td&gt;8.9&lt;/td&gt;
-      &lt;td&gt;8.9&lt;/td&gt;
-    &lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;2012/13 Q2&lt;sup&gt;P&lt;/sup&gt;
-&lt;/td&gt;
-      &lt;td&gt;9.2&lt;/td&gt;
-      &lt;td&gt;9.0&lt;/td&gt;
-    &lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;&lt;p&gt;&lt;sup&gt;P&lt;/sup&gt; Figures are provisional&lt;/p&gt;
-
-&lt;p&gt;Source: Office of Rail Regulation (&lt;abbr title="Office of Rail Regulation"&gt;ORR&lt;/abbr&gt;)&lt;/p&gt;
-
-&lt;p&gt;&lt;a rel="external" href="http://charts.dft.gov.uk/dft-business-plan/indicators/#11"&gt;Click here to view this data in an interactive chart&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id="background-information"&gt;Background information&lt;/h2&gt;
-
-&lt;p&gt;Rail passenger kilometres totals are published quarterly by the Office of Rail Regulation (&lt;abbr title="Office of Rail Regulation"&gt;ORR&lt;/abbr&gt;). The rail industry’s central ticketing system, LENNON, is the basis for passenger kilometres data. LENNON holds information on the vast majority of national rail tickets purchased in Great Britain and is used to allocate the revenue from ticket sales between train operating companies.&lt;/p&gt;
-
-&lt;p&gt;&lt;abbr title="Office of Rail Regulation"&gt;ORR&lt;/abbr&gt; also receives quarterly non-LENNON kilometres data from train operators. Non-LENNON data are information not recorded within the LENNON system such as operator specific tickets and Passenger Transport Executive (&lt;abbr title="Passenger Transport Executive"&gt;PTE&lt;/abbr&gt;) multi-modal tickets.&lt;/p&gt;
-
-&lt;p&gt;The statistics are converted from kilometres to miles by DfT for the purposes of this publication.&lt;/p&gt;
-
-&lt;p&gt;The data supplied in the table and the charts refer to financial rather than calendar years.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;publishing schedule: quarterly&lt;/li&gt;
-  &lt;li&gt;last updated: December 2012&lt;/li&gt;
-  &lt;li&gt;next update: 7 March 2013&lt;/li&gt;
-&lt;/ul&gt;&lt;h2 id="other-related-data-and-information"&gt;Other related data and information&lt;/h2&gt;
-
-&lt;p&gt;&lt;a rel="external" href="http://dataportal.orr.gov.uk/"&gt;Rail passenger kilometres statistics are published on the Office of Rail Regulation Data Portal&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href="https://www.gov.uk/government/publications/tsgb-2011-public-transport"&gt;Annual passenger kilometres data for rail and other modes of public transport are published in Transport Statistics Great Britain (&lt;abbr title="Transport Statistics Great Britain"&gt;TSGB&lt;/abbr&gt;)&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id="further-information"&gt;Further information&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.gov.uk/government/publications/department-for-transport-business-plan"&gt;Business Plan 2012-2015&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="https://www.gov.uk/government/publications/input-and-impact-indicators"&gt;Input and impact indicators&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Analyst contact: &lt;a href="mailto:rail.stats@dft.gsi.gov.uk"&gt;rail.stats@dft.gsi.gov.uk&lt;/a&gt;
-&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/60319</id>
     <published>2012-12-21T00:00:00+00:00</published>
     <updated>2012-11-02T14:46:52+00:00</updated>
@@ -601,83 +495,122 @@ Further information about this indicator can be found in the measurement templat
 &lt;/ul&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60769</id>
-    <published>2012-12-20T00:00:00+00:00</published>
-    <updated>2012-11-05T21:19:02+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/bus-subsidy-per-passenger-journey"/>
-    <title>Bus subsidy per passenger journey</title>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60317</id>
+    <published>2012-12-21T00:00:00+00:00</published>
+    <updated>2012-11-10T14:37:57+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/rail-passenger-miles"/>
+    <title>Rail passenger miles</title>
     <category>Publication</category>
-    <summary>Bus subsidy per passenger journey input indicator.</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="dft-business-plan-input-indicator"&gt;DfT Business Plan input indicator&lt;/h2&gt;
+    <summary>Latest quarterly data on rail passenger miles.</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="dft-business-plan-other-key-data"&gt;DfT Business plan other key data&lt;/h2&gt;
 
-&lt;h3 id="geographical-coverage-england"&gt;Geographical coverage: England&lt;/h3&gt;
+&lt;p&gt;Geographical coverage: Great Britain&lt;/p&gt;
 
-&lt;h3 id="information-broken-down-by-region---data-are-available-for-london-english-metropolitan-areas-as-a-group-and-english-non-metropolitan-areas-as-a-group"&gt;Information broken down by: Region - data are available for London, English metropolitan areas (as a group), and English non-metropolitan areas (as a group)&lt;/h3&gt;
+&lt;p&gt;Information broken down by: Rail sector&lt;/p&gt;
 
 &lt;h2 id="latest-data"&gt;Latest data&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;In 2011/12, the average level of subsidy (direct from central government) per passenger journey was 9.2 pence.&lt;/li&gt;
-&lt;/ul&gt;&lt;h2 id="table-for-net-government-support-for-local-bus-services-and-concessionary-travel-per-passenger-journey-by-metropolitan-area-status-england-annual-from-200405"&gt;Table for Net government support for local bus services and concessionary travel per passenger journey by metropolitan area status: England, annual from 2004/05&lt;/h2&gt;
+&lt;li&gt;
+    &lt;p&gt;Passengers travelled 9.2 billion miles by rail in the second quarter of 2012-13 (July to September 2012), an increase of 4 per cent when compared to the same quarter in 2011-12.  The second quarter of 2012-13 included the Olympic and Paralympic Games, which will have contributed to this increase in rail travel.  These figures are for franchised operators only, so exclude travel with non-franchised operators, such as Grand Central, Heathrow Express and Hull Trains.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Over the last ten years, other than a slight dip in 2009 during the recession, passenger rail usage has increased significantly, continuing the upward trend that has been seen since the mid-1990s.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Passenger miles travelled with franchised rail operators&lt;/p&gt;
 
 &lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Most recent data&lt;/th&gt;
-      &lt;th&gt; &lt;/th&gt;
-    &lt;/tr&gt;
-&lt;tr&gt;
-&lt;th&gt;Year&lt;/th&gt;
-      &lt;th&gt;Subsidy per Journey (2010/11 prices)&lt;/th&gt;
-    &lt;/tr&gt;
-&lt;/thead&gt;
+&lt;thead&gt;&lt;tr&gt;
+&lt;th&gt;Quarter&lt;/th&gt;
+      &lt;th&gt;Quarterly total (billions)&lt;/th&gt;
+      &lt;th&gt;Quarterly moving annual average (&lt;abbr title="Moving Annual Average"&gt;MAA&lt;/abbr&gt;) (billions)&lt;/th&gt;
+    &lt;/tr&gt;&lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td&gt;2010/11&lt;/td&gt;
-      &lt;td&gt;9.2p&lt;/td&gt;
+&lt;td&gt;2010/11 Q1&lt;/td&gt;
+      &lt;td&gt;8.2&lt;/td&gt;
+      &lt;td&gt;8.1&lt;/td&gt;
     &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;2011/12&lt;/td&gt;
-      &lt;td&gt;9.2p&lt;/td&gt;
+&lt;td&gt;2010/11 Q2&lt;/td&gt;
+      &lt;td&gt;8.5&lt;/td&gt;
+      &lt;td&gt;8.2&lt;/td&gt;
     &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;Percentage change&lt;/td&gt;
-      &lt;td&gt;-0.5 %&lt;/td&gt;
+&lt;td&gt;2010/11 Q3&lt;/td&gt;
+      &lt;td&gt;8.4&lt;/td&gt;
+      &lt;td&gt;8.3&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2010/11 Q4&lt;/td&gt;
+      &lt;td&gt;8.5&lt;/td&gt;
+      &lt;td&gt;8.4&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2011/12 Q1&lt;/td&gt;
+      &lt;td&gt;8.6&lt;/td&gt;
+      &lt;td&gt;8.5&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2011/12 Q2&lt;/td&gt;
+      &lt;td&gt;8.8&lt;/td&gt;
+      &lt;td&gt;8.6&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2011/12 Q3&lt;/td&gt;
+      &lt;td&gt;8.9&lt;/td&gt;
+      &lt;td&gt;8.7&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2011/12 Q4&lt;/td&gt;
+      &lt;td&gt;9.1&lt;/td&gt;
+      &lt;td&gt;8.8&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2012/13 Q1&lt;sup&gt;P&lt;/sup&gt;
+&lt;/td&gt;
+      &lt;td&gt;8.9&lt;/td&gt;
+      &lt;td&gt;8.9&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2012/13 Q2&lt;sup&gt;P&lt;/sup&gt;
+&lt;/td&gt;
+      &lt;td&gt;9.2&lt;/td&gt;
+      &lt;td&gt;9.0&lt;/td&gt;
     &lt;/tr&gt;
 &lt;/tbody&gt;
-&lt;/table&gt;&lt;p&gt;The complete set of data is available at: &lt;a href="https://www.gov.uk/government/statistical-data-sets/bus05-subsidies-and-concessions"&gt;https://www.gov.uk/government/statistical-data-sets/bus05-subsidies-and-concessions&lt;/a&gt;&lt;/p&gt;
+&lt;/table&gt;&lt;p&gt;&lt;sup&gt;P&lt;/sup&gt; Figures are provisional&lt;/p&gt;
 
-&lt;p&gt;&lt;a rel="external" href="http://charts.dft.gov.uk/dft-business-plan/indicators/#10"&gt;Click here to view this data in an interactive chart&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Source: Office of Rail Regulation (&lt;abbr title="Office of Rail Regulation"&gt;ORR&lt;/abbr&gt;)&lt;/p&gt;
+
+&lt;p&gt;&lt;a rel="external" href="http://charts.dft.gov.uk/dft-business-plan/indicators/#11"&gt;Click here to view this data in an interactive chart&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id="background-information"&gt;Background information&lt;/h2&gt;
+
+&lt;p&gt;Rail passenger kilometres totals are published quarterly by the Office of Rail Regulation (&lt;abbr title="Office of Rail Regulation"&gt;ORR&lt;/abbr&gt;). The rail industry’s central ticketing system, LENNON, is the basis for passenger kilometres data. LENNON holds information on the vast majority of national rail tickets purchased in Great Britain and is used to allocate the revenue from ticket sales between train operating companies.&lt;/p&gt;
+
+&lt;p&gt;&lt;abbr title="Office of Rail Regulation"&gt;ORR&lt;/abbr&gt; also receives quarterly non-LENNON kilometres data from train operators. Non-LENNON data are information not recorded within the LENNON system such as operator specific tickets and Passenger Transport Executive (&lt;abbr title="Passenger Transport Executive"&gt;PTE&lt;/abbr&gt;) multi-modal tickets.&lt;/p&gt;
+
+&lt;p&gt;The statistics are converted from kilometres to miles by DfT for the purposes of this publication.&lt;/p&gt;
+
+&lt;p&gt;The data supplied in the table and the charts refer to financial rather than calendar years.&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;In 2011/12 the average level of subsidy (direct from central government) per passenger journey was 9.2 pence. This decreased (adjusted for inflation) from 10.1 pence in 2004/05. &lt;/li&gt;
-  &lt;li&gt;English non-Metropolitan areas had the highest level of subsidy per passenger journey (15.8 pence in 2011/12), London had the lowest level of subsidy per passenger journey (4.8 pence in 2011/12) while English Metropolitan areas were in-between (10.7 pence in 2011/12). Comparisons between London and the rest of the country should be made with care – see note in Background Information below.&lt;/li&gt;
-&lt;/ul&gt;&lt;h2 id="background-information"&gt;Background information&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Lower subsidy per passenger journey will indicate better value for the public purse. However, this could arise as a result of reductions in the most heavily subsidised services – many of which are routes in rural areas which would be unprofitable without public subsidy. Reductions to these services would improve the ‘headline’ measure but would risk making rural communities more isolated. &lt;/li&gt;
-  &lt;li&gt;The figures exclude expenditure on capital projects (e.g. bus lane priority schemes) which benefit the bus industry directly or indirectly. Outside London, the local bus industry is deregulated, but London runs an entirely tendered bus market under the oversight of Transport for London. Given the different market structures, comparisons between London and the rest of country should be made with considerable care.&lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;The indicator is calculated by dividing the total Bus Service Operators’ Grant by the total passenger journeys on buses (this will include concessionary journeys). Further information is available in the measurement template (above). &lt;/p&gt;
-
-    &lt;ul&gt;
-&lt;li&gt;publishing schedule: annual&lt;/li&gt;
-      &lt;li&gt;last updated: 20 December 2012&lt;/li&gt;
-      &lt;li&gt;next update: December 2013&lt;/li&gt;
-    &lt;/ul&gt;
-&lt;/li&gt;
+&lt;li&gt;publishing schedule: quarterly&lt;/li&gt;
+  &lt;li&gt;last updated: December 2012&lt;/li&gt;
+  &lt;li&gt;next update: 7 March 2013&lt;/li&gt;
 &lt;/ul&gt;&lt;h2 id="other-related-data-and-information"&gt;Other related data and information&lt;/h2&gt;
 
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.gov.uk/technical-guidance-for-transport-stats#bus-statistics"&gt;The full guidance notes on DfT bus statistics&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="https://www.gov.uk/government/organisations/department-for-transport/series/bus-statistics"&gt;Related bus statistics&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="https://www.gov.uk/government/organisations/department-for-transport/series/statistics-on-public-attitudes-to-transport"&gt;Research on attitudes to bus travel&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;h2 id="further-information"&gt;Further information&lt;/h2&gt;
+&lt;p&gt;&lt;a rel="external" href="http://dataportal.orr.gov.uk/"&gt;Rail passenger kilometres statistics are published on the Office of Rail Regulation Data Portal&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://www.gov.uk/government/publications/tsgb-2011-public-transport"&gt;Annual passenger kilometres data for rail and other modes of public transport are published in Transport Statistics Great Britain (&lt;abbr title="Transport Statistics Great Britain"&gt;TSGB&lt;/abbr&gt;)&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id="further-information"&gt;Further information&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.gov.uk/government/publications/department-for-transport-business-plan"&gt;Business Plan 2011-2015&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.gov.uk/government/publications/department-for-transport-business-plan"&gt;Business Plan 2012-2015&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href="https://www.gov.uk/government/publications/input-and-impact-indicators"&gt;Input and impact indicators&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Analyst contact: Matthew Tranter, &lt;a href="mailto:bus.statistics@dft.gsi.gov.uk"&gt;Bus statistics&lt;/a&gt;
+  &lt;li&gt;Analyst contact: &lt;a href="mailto:rail.stats@dft.gsi.gov.uk"&gt;rail.stats@dft.gsi.gov.uk&lt;/a&gt;
 &lt;/li&gt;
 &lt;/ul&gt;&lt;/div&gt;</content>
   </entry>
@@ -759,6 +692,99 @@ Further information about this indicator can be found in the measurement templat
   &lt;li&gt;Analyst contact: Matthew Tranter, &lt;a href="mailto:bus.statistics@dft.gsi.gov.uk"&gt;Bus statistics&lt;/a&gt;
 &lt;/li&gt;
 &lt;/ul&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60769</id>
+    <published>2012-12-20T00:00:00+00:00</published>
+    <updated>2012-11-05T21:19:02+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/bus-subsidy-per-passenger-journey"/>
+    <title>Bus subsidy per passenger journey</title>
+    <category>Publication</category>
+    <summary>Bus subsidy per passenger journey input indicator.</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="dft-business-plan-input-indicator"&gt;DfT Business Plan input indicator&lt;/h2&gt;
+
+&lt;h3 id="geographical-coverage-england"&gt;Geographical coverage: England&lt;/h3&gt;
+
+&lt;h3 id="information-broken-down-by-region---data-are-available-for-london-english-metropolitan-areas-as-a-group-and-english-non-metropolitan-areas-as-a-group"&gt;Information broken down by: Region - data are available for London, English metropolitan areas (as a group), and English non-metropolitan areas (as a group)&lt;/h3&gt;
+
+&lt;h2 id="latest-data"&gt;Latest data&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;In 2011/12, the average level of subsidy (direct from central government) per passenger journey was 9.2 pence.&lt;/li&gt;
+&lt;/ul&gt;&lt;h2 id="table-for-net-government-support-for-local-bus-services-and-concessionary-travel-per-passenger-journey-by-metropolitan-area-status-england-annual-from-200405"&gt;Table for Net government support for local bus services and concessionary travel per passenger journey by metropolitan area status: England, annual from 2004/05&lt;/h2&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Most recent data&lt;/th&gt;
+      &lt;th&gt; &lt;/th&gt;
+    &lt;/tr&gt;
+&lt;tr&gt;
+&lt;th&gt;Year&lt;/th&gt;
+      &lt;th&gt;Subsidy per Journey (2010/11 prices)&lt;/th&gt;
+    &lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;2010/11&lt;/td&gt;
+      &lt;td&gt;9.2p&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2011/12&lt;/td&gt;
+      &lt;td&gt;9.2p&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Percentage change&lt;/td&gt;
+      &lt;td&gt;-0.5 %&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;&lt;p&gt;The complete set of data is available at: &lt;a href="https://www.gov.uk/government/statistical-data-sets/bus05-subsidies-and-concessions"&gt;https://www.gov.uk/government/statistical-data-sets/bus05-subsidies-and-concessions&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a rel="external" href="http://charts.dft.gov.uk/dft-business-plan/indicators/#10"&gt;Click here to view this data in an interactive chart&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;In 2011/12 the average level of subsidy (direct from central government) per passenger journey was 9.2 pence. This decreased (adjusted for inflation) from 10.1 pence in 2004/05. &lt;/li&gt;
+  &lt;li&gt;English non-Metropolitan areas had the highest level of subsidy per passenger journey (15.8 pence in 2011/12), London had the lowest level of subsidy per passenger journey (4.8 pence in 2011/12) while English Metropolitan areas were in-between (10.7 pence in 2011/12). Comparisons between London and the rest of the country should be made with care – see note in Background Information below.&lt;/li&gt;
+&lt;/ul&gt;&lt;h2 id="background-information"&gt;Background information&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Lower subsidy per passenger journey will indicate better value for the public purse. However, this could arise as a result of reductions in the most heavily subsidised services – many of which are routes in rural areas which would be unprofitable without public subsidy. Reductions to these services would improve the ‘headline’ measure but would risk making rural communities more isolated. &lt;/li&gt;
+  &lt;li&gt;The figures exclude expenditure on capital projects (e.g. bus lane priority schemes) which benefit the bus industry directly or indirectly. Outside London, the local bus industry is deregulated, but London runs an entirely tendered bus market under the oversight of Transport for London. Given the different market structures, comparisons between London and the rest of country should be made with considerable care.&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;The indicator is calculated by dividing the total Bus Service Operators’ Grant by the total passenger journeys on buses (this will include concessionary journeys). Further information is available in the measurement template (above). &lt;/p&gt;
+
+    &lt;ul&gt;
+&lt;li&gt;publishing schedule: annual&lt;/li&gt;
+      &lt;li&gt;last updated: 20 December 2012&lt;/li&gt;
+      &lt;li&gt;next update: December 2013&lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;&lt;h2 id="other-related-data-and-information"&gt;Other related data and information&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.gov.uk/technical-guidance-for-transport-stats#bus-statistics"&gt;The full guidance notes on DfT bus statistics&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://www.gov.uk/government/organisations/department-for-transport/series/bus-statistics"&gt;Related bus statistics&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://www.gov.uk/government/organisations/department-for-transport/series/statistics-on-public-attitudes-to-transport"&gt;Research on attitudes to bus travel&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;h2 id="further-information"&gt;Further information&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.gov.uk/government/publications/department-for-transport-business-plan"&gt;Business Plan 2011-2015&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://www.gov.uk/government/publications/input-and-impact-indicators"&gt;Input and impact indicators&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Analyst contact: Matthew Tranter, &lt;a href="mailto:bus.statistics@dft.gsi.gov.uk"&gt;Bus statistics&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/65696</id>
+    <published>2012-12-14T00:00:00+00:00</published>
+    <updated>2013-01-11T16:13:32+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/department-for-transport-workforce-management-information"/>
+    <title>Department for Transport workforce management information</title>
+    <category>Publication</category>
+    <summary>Monthly information on staff numbers and pay costs</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Information on workforce numbers, both payroll and non-payroll, split between full-time and headcount figures. Costs information for the referenced month is broken down into component parts. Staffing numbers given are as at the last day of the referenced month. &lt;/p&gt;
+
+&lt;p&gt;&lt;a rel="external" href="http://data.gov.uk/dataset/dft-workforce-management-information"&gt;Workforce management information&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/64954</id>
@@ -960,6 +986,20 @@ Further information about this indicator can be found in the measurement templat
   &lt;li&gt;marketing  &lt;/li&gt;
   &lt;li&gt;property &lt;/li&gt;
 &lt;/ul&gt;&lt;p&gt;Exceptions to the moratoria in key areas are listed in documents.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/65683</id>
+    <published>2012-11-12T00:00:00+00:00</published>
+    <updated>2013-01-11T16:13:40+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/department-for-transport-civil-service-tax-review"/>
+    <title>Department for Transport civil service tax review</title>
+    <category>Publication</category>
+    <summary>Tax transparency data submitted for the government's off payroll review.</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;On 23 May 2012, the government published a review of the tax arrangements of public sector appointees. The review identified the number of off payroll engagements worth more than £58,200 per year across government. The fact that payments are made off payroll does not necessarily mean that tax liabilities have thereby been avoided. &lt;/p&gt;
+
+&lt;p&gt;The review made recommendations to improve the tax transparency for these kind of arrangements. The following document constitutes the Department for Transport’s submission to this review. The full review and recommendations can be found on the &lt;a rel="external" href="http://www.hm-treasury.gov.uk"&gt;Treasury website&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a rel="external" href="http://data.gov.uk/dataset/dft-civil-service-tax-review"&gt;Civil service tax review information&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/16307</id>
@@ -1426,124 +1466,6 @@ There is a high level of seasonal variation in new vehicle registrations (for ex
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a rel="external" href="http://data.gov.uk/dataset/dft-permanent-secretary-meetings-with-external-organisations/"&gt;Department for Transport Permanent Secretary meetings with external organisations data&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/16303</id>
-    <published>2012-05-23T01:00:00+01:00</published>
-    <updated>2012-11-05T15:10:46+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/proportion-of-bus-services-running-on-time"/>
-    <title>Proportion of bus services running on time</title>
-    <category>Publication</category>
-    <summary>Impact indicator, disaggregated by local authority, published annually from May 2011.</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="dft-business-plan-input-indicator"&gt;DfT Business plan input indicator&lt;/h2&gt;
-
-&lt;h3 id="geographical-coverage-england"&gt;Geographical coverage: England&lt;/h3&gt;
-
-&lt;h3 id="information-broken-down-by-local-authority"&gt;Information broken down by: Local authority&lt;/h3&gt;
-
-&lt;p&gt;&lt;a rel="external" href="http://charts.dft.gov.uk/dft-business-plan/indicators/#03"&gt;Click here to view this data in an interactive chart&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id="latest-data"&gt;Latest data&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;In 2011/12, an estimated 82.7% of non-frequent bus services in England ran on time&lt;/li&gt;
-&lt;/ul&gt;&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Most recent data&lt;/th&gt;
-      &lt;th&gt; &lt;/th&gt;
-    &lt;/tr&gt;
-&lt;tr&gt;
-&lt;th&gt;Year&lt;/th&gt;
-      &lt;th&gt;% on time&lt;/th&gt;
-    &lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;2010/11&lt;/td&gt;
-      &lt;td&gt;81.4&lt;/td&gt;
-    &lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;2011/12&lt;/td&gt;
-      &lt;td&gt;82.7&lt;/td&gt;
-    &lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Percentage point change&lt;/td&gt;
-      &lt;td&gt;1.3&lt;/td&gt;
-    &lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;&lt;ul&gt;
-&lt;li&gt;in 2011/12, an estimated 82.7% of non-frequent bus services in England ran on time (defined as between 1 minute early and 5 minutes 59 seconds late), an increase from 79.4% in 2007/08 - however, trends over time should be interpreted with caution as they can be affected by changes in methods used or reflect random variability arising from the nature of the data collection&lt;/li&gt;
-  &lt;li&gt;frequent services do not operate in all areas; the proportion of non-frequent buses on time varies by local authority - in 2011/12, the proportion ranged from 64% (Darlington) to 95% (Gloucestershire)&lt;/li&gt;
-&lt;/ul&gt;&lt;h2 id="background-information"&gt;Background information&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;improved performance will see the on-time figures for ‘non-frequent’ bus services increase, and the excess waiting time for ‘frequent’ services decrease.&lt;/li&gt;
-  &lt;li&gt;the data are supplied by local authorities and published by the Department for Transport - local authorities are given guidance to ensure consistency across the country; however as with all data collections there are likely to be some inconsistencies&lt;/li&gt;
-  &lt;li&gt;national figures are calculated by weighting the local authority data we receive; this weighting is based on the number of services in a particular local authority from the National Public Transport Data Repository (&lt;abbr title="National Public Transport Data Repository"&gt;NPTDR&lt;/abbr&gt;) - further information is available in the measurement template&lt;/li&gt;
-  &lt;li&gt;publishing schedule: annually&lt;/li&gt;
-  &lt;li&gt;last updated: 10 October 2012&lt;/li&gt;
-  &lt;li&gt;next update: September 2013&lt;/li&gt;
-&lt;/ul&gt;&lt;h2 id="other-related-data-and-information"&gt;Other related data and information&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a rel="external" href="http://www.clip.local.gov.uk/lgv/core/page.do?pageId=36703"&gt;The full guidance on how to compile the indicators&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="https://www.gov.uk/government/organisations/department-for-transport/series/bus-statistics"&gt;Related bus statistics&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="https://www.gov.uk/government/publications/public-attitudes-towards-buses-march-2011"&gt;Research on attitudes to bus travel&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;h2 id="further-information"&gt;Further information&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.gov.uk/government/publications/department-for-transport-business-plan"&gt;Business Plan 2012-2015&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="https://www.gov.uk/government/publications/input-and-impact-indicators"&gt;Input and impact indicators&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Analyst contact: Matthew Tranter, &lt;a href="mailto:bus.statistics@dft.gsi.gov.uk"&gt;Bus statistics&lt;/a&gt;
-&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/15903</id>
-    <published>2012-01-26T00:00:00+00:00</published>
-    <updated>2012-11-01T19:11:34+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/department-for-transport-staff-survey-2011"/>
-    <title>Department for Transport staff survey 2011</title>
-    <category>Publication</category>
-    <summary>Results of the 2011 Department for Transport staff survey including and excluding figures with executive agencies.</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="summary"&gt;Summary&lt;/h2&gt;
-
-&lt;p&gt;Results of the 2011 Department for Transport staff survey including and excluding figures with executive agencies.&lt;/p&gt;
-
-&lt;h2 id="past-surveys"&gt;Past surveys&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a rel="external" href="http://www.dft.gov.uk/publications/staff-survey-2010"&gt;Staff survey 2010&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/35681</id>
-    <published>2012-01-19T00:00:00+00:00</published>
-    <updated>2012-11-02T09:17:02+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/general-lighthouse-fund-report-and-accounts-2011"/>
-    <title>General Lighthouse Fund report and accounts 2011</title>
-    <category>Publication</category>
-    <summary>Report and accounts for the year ended 31 March 2011</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Section 195 of the Merchant Shipping Act 1995, and Section 634 of the Merchant Shipping Act 1894 in respect of the Republic of Ireland, state that:&lt;/p&gt;
-
-&lt;p&gt;Responsibility for the provision and management of lighthouses, buoys and beacons on the coasts and seas around the British Isles is vested in the three &lt;abbr title="General Lighthouse Authority"&gt;GLAs&lt;/abbr&gt;:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Trinity House in its capacity as a lighthouse service (TH)&lt;/li&gt;
-  &lt;li&gt;Commissioners of Northern Lighthouses (known as Northern Lighthouse Board) (NLB)&lt;/li&gt;
-  &lt;li&gt;Commissioners of Irish Lights (CIL)&lt;/li&gt;
-&lt;/ul&gt;&lt;h2 id="past-reports"&gt;Past reports&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a rel="external" href="http://webarchive.nationalarchives.gov.uk/tna/20100210180753/http://assets.dft.gov.uk/publications/general-lighthouse-fund-report-2009-10/report.pdf"&gt;The General Lighthouse Fund Reports and Accounts for the Year Ended 31 March 2010 (PDF, 1382 KB)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a rel="external" href="http://webarchive.nationalarchives.gov.uk/tna/20100210180753/http://assets.dft.gov.uk/publications/general-lighthouse-fund-report-and-accounts/glf0708.pdf"&gt;The General Lighthouse Fund Report and Accounts 2007-2008 (PDF, 943 KB)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a rel="external" href="http://webarchive.nationalarchives.gov.uk/tna/20100210180753/http://www.dft.gov.uk/pgr/shippingports/ports/glfund0607.pdf"&gt;The General Lighthouse Fund Report and Accounts 2006-2007 (PDF, 701 KB)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a rel="external" href="http://webarchive.nationalarchives.gov.uk/tna/20100210180753/http://www.dft.gov.uk/pgr/shippingports/ports/genlighthousefund0506.pdf"&gt;The General Lighthouse Fund 2005-2006 (PDF, 609 KB)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a rel="external" href="http://webarchive.nationalarchives.gov.uk/tna/20100210180753/http://www.dft.gov.uk/pgr/shippingports/ports/genlighthousefund0405.pdf"&gt;The General Lighthouse Fund 2004-2005 (PDF, 536 KB)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a rel="external" href="http://webarchive.nationalarchives.gov.uk/tna/20100210180753/http://www.dft.gov.uk/pgr/shippingports/ports/enerallighthousefund20032004.pdf"&gt;The General Lighthouse Fund 2003-2004 (PDF, 876 KB)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a rel="external" href="http://webarchive.nationalarchives.gov.uk/tna/20100210180753/http://www.dft.gov.uk/pgr/shippingports/ports/enerallighthousefund20022003.pdf"&gt;The General Lighthouse Fund 2002-2003 (PDF, 889 KB)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/div&gt;</content>
   </entry>
 </feed>

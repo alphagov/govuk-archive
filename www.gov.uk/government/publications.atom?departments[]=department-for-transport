@@ -34,6 +34,30 @@
 &lt;/ul&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/64317</id>
+    <published>2013-01-10T00:00:00+00:00</published>
+    <updated>2013-01-10T09:30:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/reliability-of-journeys-on-the-highways-agencys-motorway-and-a-road-network-november-2012"/>
+    <title>Reliability of journeys on the Highway's Agencys motorway and A road network: November 2012</title>
+    <category>Publication</category>
+    <summary>This Statistical Release presents information about the reliability of journeys on motorways and ‘A’ roads managed by the Highways Agency during November 2012.</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="key-points"&gt;Key points&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;In the year ending November 2012, provisional data show that 81.9% of journeys on the Highways Agency managed network were ‘on time’. This is 0.4 percentage points lower than the previous year, ending October 2012..&lt;/li&gt;
+  &lt;li&gt;Provisional data show that 76.6% of journeys on the Highways Agency network during November 2012 were ‘on time’, down 4.7 percentage points from November 2011.&lt;/li&gt;
+&lt;/ul&gt;&lt;h2 id="technical-information"&gt;Technical information&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Information on Road congestion and reliability statistics, including the pre-release access list and related technical documentation &lt;a href="https://www.gov.uk/technical-guidance-for-transport-stats#Road-congestion-and-reliability-statistics"&gt;can be found here&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;&lt;h2 id="contact-us"&gt;Contact us&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="mailto:congestion.stats@dft.gsi.gov.uk"&gt;congestion.stats@dft.gsi.gov.uk&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Phone: 020 7944 6579&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/56406</id>
     <published>2013-01-10T00:00:00+00:00</published>
     <updated>2013-01-10T10:08:15+00:00</updated>
@@ -145,30 +169,6 @@
 &lt;/ul&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/64317</id>
-    <published>2013-01-10T00:00:00+00:00</published>
-    <updated>2013-01-10T09:30:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/reliability-of-journeys-on-the-highways-agencys-motorway-and-a-road-network-november-2012"/>
-    <title>Reliability of journeys on the Highway's Agencys motorway and A road network: November 2012</title>
-    <category>Publication</category>
-    <summary>This Statistical Release presents information about the reliability of journeys on motorways and ‘A’ roads managed by the Highways Agency during November 2012.</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="key-points"&gt;Key points&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;In the year ending November 2012, provisional data show that 81.9% of journeys on the Highways Agency managed network were ‘on time’. This is 0.4 percentage points lower than the previous year, ending October 2012..&lt;/li&gt;
-  &lt;li&gt;Provisional data show that 76.6% of journeys on the Highways Agency network during November 2012 were ‘on time’, down 4.7 percentage points from November 2011.&lt;/li&gt;
-&lt;/ul&gt;&lt;h2 id="technical-information"&gt;Technical information&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Information on Road congestion and reliability statistics, including the pre-release access list and related technical documentation &lt;a href="https://www.gov.uk/technical-guidance-for-transport-stats#Road-congestion-and-reliability-statistics"&gt;can be found here&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;&lt;h2 id="contact-us"&gt;Contact us&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="mailto:congestion.stats@dft.gsi.gov.uk"&gt;congestion.stats@dft.gsi.gov.uk&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Phone: 020 7944 6579&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/64205</id>
     <published>2013-01-09T10:16:40+00:00</published>
     <updated>2013-01-09T10:16:40+00:00</updated>
@@ -223,14 +223,14 @@
 &lt;/ul&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/61524</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/61176</id>
     <published>2013-01-08T00:00:00+00:00</published>
-    <updated>2013-01-08T09:20:18+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/surveillance-organisations"/>
-    <title>Surveillance organisations</title>
+    <updated>2013-01-08T09:19:57+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/electronic-devices-to-staff"/>
+    <title>Electronic devices to staff</title>
     <category>Publication</category>
-    <summary>Freedom of Information response about external organisations commissioned to undertake surveillance for the Department for Transport.</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This Freedom of Information response concerns external organisations commissioned to undertake surveillance for the Department for Transport.&lt;/p&gt;&lt;/div&gt;</content>
+    <summary>Amount of electronic devices issued to Department for Transport staff.</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Information on the number of iPhones, Blackberry and iPad devices issued to Department for Transport staff.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/65347</id>
@@ -272,6 +272,20 @@
 &lt;/ul&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/65707</id>
+    <published>2013-01-08T00:00:00+00:00</published>
+    <updated>2013-01-11T16:13:26+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/department-for-transport-government-procurement-card-transactions"/>
+    <title>Department for Transport government procurement card transactions</title>
+    <category>Publication</category>
+    <summary>Information about government procurement card transactions.</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Government procurement card (GPC) transactions above £500 for the Department for Transport and transport agencies.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel="external" href="http://data.gov.uk/dataset/dft-gpc-spend"&gt;Government procurement card transactions&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/61169</id>
     <published>2013-01-08T00:00:00+00:00</published>
     <updated>2013-01-08T09:19:30+00:00</updated>
@@ -282,14 +296,14 @@
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Freedom of Information response concerning advertising campaigns, briefs and costings at the Department for Transport.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/61176</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/61524</id>
     <published>2013-01-08T00:00:00+00:00</published>
-    <updated>2013-01-08T09:19:57+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/electronic-devices-to-staff"/>
-    <title>Electronic devices to staff</title>
+    <updated>2013-01-08T09:20:18+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/surveillance-organisations"/>
+    <title>Surveillance organisations</title>
     <category>Publication</category>
-    <summary>Amount of electronic devices issued to Department for Transport staff.</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Information on the number of iPhones, Blackberry and iPad devices issued to Department for Transport staff.&lt;/p&gt;&lt;/div&gt;</content>
+    <summary>Freedom of Information response about external organisations commissioned to undertake surveillance for the Department for Transport.</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This Freedom of Information response concerns external organisations commissioned to undertake surveillance for the Department for Transport.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/64170</id>
@@ -1061,15 +1075,5 @@ Period 9 2012/13 ran from 11 November 2012 to 8 December 2012. &lt;/p&gt;
     <content type="html">&lt;div class="govspeak"&gt;&lt;h2 id="traffic-advisory-leaflet-tal-113"&gt;Traffic advisory leaflet (&lt;abbr title="Traffic advisory leaflet"&gt;TAL&lt;/abbr&gt;) 1/13&lt;/h2&gt;
 
 &lt;p&gt;Over-provision of traffic signs can have a detrimental impact on the environment and can dilute more important messages if resulting in information overload for drivers. This leaflet, gives practical advice on reducing sign clutter. It emphasises that designers should use their engineering judgement and local knowledge to complement guidance to ensure signing solutions are effective. &lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/61045</id>
-    <published>2013-01-02T00:00:00+00:00</published>
-    <updated>2013-01-07T11:11:06+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/local-sustainable-transport-fund-project-summaries"/>
-    <title>Local Sustainable Transport Fund project summaries</title>
-    <category>Publication</category>
-    <summary>Local Sustainable Transport Fund project summary information.</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Department for Transport has awarded Local Sustainable Transport Fund (&lt;abbr title="Local Sustainable Transport Fund"&gt;LSTF&lt;/abbr&gt;) funding in 3 streams. Tranche 1 and key component projects were awarded in July 2011. This was followed by 2 funding announcements in May and June 2012, for large projects above £5 million and tranche 2 of smaller projects. &lt;/p&gt;&lt;/div&gt;</content>
   </entry>
 </feed>

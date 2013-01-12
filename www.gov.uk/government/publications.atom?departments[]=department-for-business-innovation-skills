@@ -8,7 +8,40 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2013-01-09T09:30:00+00:00</updated>
+  <updated>2013-01-11T14:53:58+00:00</updated>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/65314</id>
+    <published>2013-01-11T00:00:00+00:00</published>
+    <updated>2013-01-11T14:53:58+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/the-business-case-for-equality-and-diversity-a-survey-of-the-academic-literature"/>
+    <title>The business case for equality and diversity: a survey of the academic literature</title>
+    <category>Publication</category>
+    <summary>Looks at the evidence for the business case for equality and diversity in private sector organisations.</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This report sets out the findings from a systematic review of the literature on the business case for equality and diversity. It was commissioned by the Department for Business Innovation &amp;amp; Skills (BIS) and the Government Equalities Office (GEO). &lt;/p&gt;
+
+&lt;p&gt;The report aims to:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;improve understanding of theoretical positions and issues related to the business case for equality and diversity&lt;/li&gt;
+  &lt;li&gt;develop a consistent framework for assessing evidence on the business case&lt;/li&gt;
+  &lt;li&gt;within this framework, review the evidence&lt;/li&gt;
+  &lt;li&gt;create a compendium of the evidence&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;The research assesses the most robust evidence, draw implications from the findings and present a dispassionate picture of the evidence identifying gaps and conflicting messages. The report looks at diversity in terms of ‘protected characteristics’ that are defined in the &lt;a rel="external" href="http://www.legislation.gov.uk/ukpga/2010/15/contents"&gt;Equality Act 2010&lt;/a&gt;. &lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/65756</id>
+    <published>2013-01-11T00:00:00+00:00</published>
+    <updated>2013-01-11T17:59:19+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/offshore-wind-sector-strategy-call-for-views"/>
+    <title>Offshore wind sector strategy: call for views</title>
+    <category>Publication</category>
+    <summary>Request for evidence and information to inform the development of an offshore wind sector strategy.</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;As part of the industrial strategy programme, government is developing a strategic partnership with the offshore wind sector. &lt;/p&gt;
+
+&lt;p&gt;We are developing a strategy to promote innovation, investment and economic growth in the UK-based supply chain for offshore wind.  We are conducting this ‘call for views’ to invite evidence and information on what needs to be done, by government and by business, in the offshore wind sector.&lt;/p&gt;
+
+&lt;p&gt;Send your response to &lt;a href="mailto:offshorewindstrategy@bis.gsi.gov.uk"&gt;offshorewindstrategy@bis.gsi.gov.uk&lt;/a&gt; by 4 February 2013.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/64302</id>
     <published>2013-01-09T09:30:00+00:00</published>
@@ -140,13 +173,15 @@
 &lt;p&gt;The directive applies in the European Economic Area (EEA).&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/64069</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/64070</id>
     <published>2013-01-04T00:00:00+00:00</published>
-    <updated>2013-01-04T18:18:05+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/bis-senior-staff-posts-and-pay-30-september-2012"/>
-    <title>BIS senior staff posts and pay: 30 September 2012</title>
+    <updated>2013-01-04T18:18:41+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/bis-junior-staff-numbers-and-payscales-30-september-2012"/>
+    <title>BIS junior staff numbers and payscales: 30 September 2012</title>
     <category>Publication</category>
-    <summary>BIS senior staff posts and pay, as of 30 September 2012. </summary>
+    <summary>
+BIS junior staff numbers and pay, as of 30 September 2012 
+</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The government is committed to setting new standards for transparency so the public can more easily see how and where taxpayers’ money is being spent and hold politicians, government departments and public bodies to account.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
@@ -351,15 +386,13 @@ A personal guarantee should not be taken or attributed, solely or preferentially
 &lt;p&gt;There is a wide range of financial products and support available from a broad spectrum of providers including banks, business angels, Community Development Finance Institutions, venture capitalists and trade and asset finance specialists. &lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/64070</id>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/64069</id>
     <published>2013-01-04T00:00:00+00:00</published>
-    <updated>2013-01-04T18:18:41+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/bis-junior-staff-numbers-and-payscales-30-september-2012"/>
-    <title>BIS junior staff numbers and payscales: 30 September 2012</title>
+    <updated>2013-01-04T18:18:05+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/bis-senior-staff-posts-and-pay-30-september-2012"/>
+    <title>BIS senior staff posts and pay: 30 September 2012</title>
     <category>Publication</category>
-    <summary>
-BIS junior staff numbers and pay, as of 30 September 2012 
-</summary>
+    <summary>BIS senior staff posts and pay, as of 30 September 2012. </summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The government is committed to setting new standards for transparency so the public can more easily see how and where taxpayers’ money is being spent and hold politicians, government departments and public bodies to account.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
@@ -562,27 +595,5 @@ BIS junior staff numbers and pay, as of 30 September 2012
 &lt;hr&gt;&lt;ul&gt;
 &lt;li&gt;&lt;a rel="external" href="http://www.bis.gov.uk/assets/biscore/consumer-issues/docs/c/11-505-consultation-repeal-property-misdescriptions-act.pdf"&gt;Consultation on the repeal of the Property Misdescriptions Act 1991 (PDF, 304 Kb)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60195</id>
-    <published>2012-12-21T00:00:00+00:00</published>
-    <updated>2012-12-21T09:30:00+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/evaluation-of-the-deepened-co-location-trials"/>
-    <title>Evaluation of the deepened co-location trials</title>
-    <category>Publication</category>
-    <summary>Presents findings from case study visits to 8 of the 22 jobcentres that took part in joint location trials with Next Steps.</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;BIS research paper no. 98. Presents findings from case study visits to 8 of the 22 Jobcentres that took part in the joint location trials with Next Step (now known as the National Careers Service).&lt;/p&gt;
-
-&lt;p&gt;It highlights key issues arising from the research with a view to contributing to the success of the wider roll out of joint location in Jobcentres in England.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/60294</id>
-    <published>2012-12-21T00:00:00+00:00</published>
-    <updated>2012-12-21T10:35:37+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/english-business-survey-october-2012"/>
-    <title>English Business Survey October 2012</title>
-    <category>Publication</category>
-    <summary></summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The English business survey will provide Ministers and officials with information about the current economic and business conditions across England.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
 </feed>

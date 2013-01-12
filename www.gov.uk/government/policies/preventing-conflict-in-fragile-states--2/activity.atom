@@ -8,7 +8,21 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2013-01-04T16:23:12+00:00</updated>
+  <updated>2013-01-11T13:37:27+00:00</updated>
+  <entry>
+    <id>tag:www.gov.uk,2005:NewsArticle/65623</id>
+    <published>2013-01-11T13:37:27+00:00</published>
+    <updated>2013-01-11T13:37:27+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/foreign-secretary-condemns-terrorist-attacks-in-pakistan"/>
+    <title>Foreign Secretary condemns terrorist attacks in Pakistan </title>
+    <category>News article</category>
+    <summary>The Foreign Secretary William Hague has condemned yesterday’s terrorist attacks in Pakistan and sent his condolences to those affected. </summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Speaking today the Foreign Secretary said:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;I was extremely saddened to hear of the brutal terrorist and sectarian attacks in Quetta and Swat yesterday. My thoughts are with the families of those who have been killed. I wish all those injured in the attacks a swift recovery. The United Kingdom strongly condemns these senseless attacks and the persecution of the Shia population. It was a tragic day for Pakistan. We will continue to stand with the people of Pakistan in their fight against terror and violent extremism.&lt;/p&gt;
+&lt;/blockquote&gt;&lt;/div&gt;</content>
+  </entry>
   <entry>
     <id>tag:www.gov.uk,2005:NewsArticle/64014</id>
     <published>2013-01-04T16:23:12+00:00</published>
@@ -381,21 +395,5 @@ The December European Council agenda item on defence will pave the way for furth
 &lt;p&gt;UKTI hosted a business session in the afternoon, which was attended by a large number of business representatives discussing Mongolia’s extractive industries, mutually beneficial opportunities and Stock Exchange collaboration. The talks were concluded by a session on education cooperation.&lt;/p&gt;
 
 &lt;p&gt;This was the tenth UK-Mongolia Round Table. Held every two years, the talks form a key part of the UK – Mongolia relationship.&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:NewsArticle/35625</id>
-    <published>2012-11-25T00:00:00+00:00</published>
-    <updated>2012-12-11T16:23:28+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/foreign-secretary-marks-un-international-day-for-the-elimination-of-violence-against-women"/>
-    <title>Foreign Secretary marks UN International Day for the Elimination of Violence Against Women</title>
-    <category>News article</category>
-    <summary>Foreign Secretary William Hague: "We must shatter the culture of impunity for those who use rape and sexual violence as a weapon of war and shift the balance of shame away from survivors to the perpetrators of this crime".</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;To mark the International Day for the Elimination of Violence Against Women, Foreign Secretary William Hague said:  &lt;/p&gt;
-
-&lt;p&gt;“Preventing and addressing sexual violence is essential to resolving conflicts and building sustainable peace. In our lifetimes millions of women, children and men have endured this horror.  &lt;/p&gt;
-
-&lt;p&gt;“We must shatter the culture of impunity for those who use rape and sexual violence as a weapon of war and shift the balance of shame away from survivors to the perpetrators of this crime. This is a cause whose time has come, and it will be a major theme of the UK’s Presidency of the G8 next year.  &lt;/p&gt;
-
-&lt;p&gt;“By standing shoulder to shoulder with civil society, communities and international organisations I truly believe that we can confront and one day even end the use of sexual violence as a weapon of war.”&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
 </feed>

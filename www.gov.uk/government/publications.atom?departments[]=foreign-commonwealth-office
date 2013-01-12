@@ -8,7 +8,17 @@
   <author>
     <name>HM Government</name>
   </author>
-  <updated>2013-01-03T13:32:57+00:00</updated>
+  <updated>2013-01-11T17:49:55+00:00</updated>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/65753</id>
+    <published>2013-01-11T00:00:00+00:00</published>
+    <updated>2013-01-11T17:49:55+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/foreign-office-staff-survey-results-2012"/>
+    <title>Foreign Office staff Survey Results 2012</title>
+    <category>Publication</category>
+    <summary></summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Foreign &amp;amp; Commonwealth Office (FCO) took part in the Civil Service 2012 People Survey. The FCO employee engagement index score is 67% which is 10 points above the Civil Service benchmark. The survey provides the FCO’s leadership with the information it needs to constantly improve practices across the office and to take the necessary action.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/61096</id>
     <published>2013-01-03T00:00:00+00:00</published>
@@ -111,16 +121,6 @@
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Foreign Secretary updates Parliament with a progress report every month as part of his commitment to keep Parliament regularly informed on developments in Afghanistan.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/50033</id>
-    <published>2012-12-07T00:00:00+00:00</published>
-    <updated>2012-12-11T16:24:33+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/fco-ict-strategy-2011-2015"/>
-    <title>FCO ICT Strategy 2011-2015</title>
-    <category>Publication</category>
-    <summary/>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Details of FCO’s Information and Communication Technology strategy for 2011-2015&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/50064</id>
     <published>2012-12-07T00:00:00+00:00</published>
     <updated>2012-12-11T16:24:39+00:00</updated>
@@ -129,6 +129,16 @@
     <category>Publication</category>
     <summary/>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;This paper records draft resolutions vetoed in the Security Council between 1946 and 2012. It is preceded by a short account of the way the veto has been used by the Council’s five Permanent Members: China, France, Russia (the Soviet Union until 1991), the United Kingdom and the United States.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/50033</id>
+    <published>2012-12-07T00:00:00+00:00</published>
+    <updated>2012-12-11T16:24:33+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/fco-ict-strategy-2011-2015"/>
+    <title>FCO ICT Strategy 2011-2015</title>
+    <category>Publication</category>
+    <summary/>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Details of FCO’s Information and Communication Technology strategy for 2011-2015&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/59936</id>
@@ -242,17 +252,5 @@ digital for our overall diplomatic work, as well as for our services to the Brit
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;How much money has been spent on establishing a “history library”, undertaken by the Foreign Office under this government?; How much money was spent on re-stuffing “Albert”, the 20-foot anaconda housed in a glass case in the Foreign Office?&lt;/p&gt;
 
 &lt;p&gt;FOI Ref 1015-12&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/47245</id>
-    <published>2012-10-17T01:00:00+01:00</published>
-    <updated>2012-12-11T16:24:30+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/six-monthly-reports-on-hong-kong"/>
-    <title>Six monthly reports on Hong Kong</title>
-    <category>Publication</category>
-    <summary/>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Since July 1997, the Foreign Secretary has reported to Parliament at 
-six-monthly intervals on the implementation of the Sino-British Joint 
-Declaration on the Question of Hong Kong.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
 </feed>
