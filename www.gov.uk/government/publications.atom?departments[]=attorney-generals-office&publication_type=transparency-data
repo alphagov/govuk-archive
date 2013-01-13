@@ -216,6 +216,18 @@
 &lt;/ul&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56238</id>
+    <published>2011-12-09T00:00:00+00:00</published>
+    <updated>2012-12-12T13:37:49+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/ministerial-gifts-given-and-received-april-to-june-2011"/>
+    <title>Ministerial gifts given and received: April to June 2011</title>
+    <category>Publication</category>
+    <summary>Attorney General's Office (AGO) ministers must publish details of gifts they give or receive over £140.</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Attorney General’s Office (AGO) ministers must publish details of gifts they give or receive over £140.&lt;/p&gt;
+
+&lt;p&gt;The entry for this quarter is a nil return.&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/56241</id>
     <published>2011-12-09T00:00:00+00:00</published>
     <updated>2012-12-12T15:05:01+00:00</updated>
@@ -243,15 +255,5 @@
   &lt;li&gt;minor refreshments at meetings, receptions, conferences, and seminars&lt;/li&gt;
   &lt;li&gt;offers of hospitality which were declined&lt;/li&gt;
 &lt;/ul&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/56248</id>
-    <published>2011-12-09T00:00:00+00:00</published>
-    <updated>2012-12-12T14:27:45+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/ministerial-meetings-april-to-june-2011"/>
-    <title>Ministerial meetings: April to June 2011</title>
-    <category>Publication</category>
-    <summary>Attorney General's Office (AGO) details of ministers’ meetings with external organisations.</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Attorney General’s Office (AGO) details of ministers’ meetings with external organisations (including meetings with newspaper and media owners, editors and senior executives).&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
 </feed>
