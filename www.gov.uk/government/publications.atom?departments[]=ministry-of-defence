@@ -198,16 +198,6 @@
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Security and stabilisation: the military contribution, a Joint Doctrine Publication 3-40.&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.gov.uk,2005:PublicationesquePresenter/61071</id>
-    <published>2012-12-21T00:00:00+00:00</published>
-    <updated>2012-12-21T16:43:23+00:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/dte-west-midlands-public-information-leaflet"/>
-    <title>DTE West Midlands Public Information Leaflet</title>
-    <category>Publication</category>
-    <summary>DTE West Midlands Public Information Leaflet</summary>
-    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;&lt;abbr title="Defence Training Estate"&gt;DTE&lt;/abbr&gt; West Midlands Public Information Leaflet&lt;/p&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
     <id>tag:www.gov.uk,2005:PublicationesquePresenter/61072</id>
     <published>2012-12-21T00:00:00+00:00</published>
     <updated>2012-12-21T16:43:15+00:00</updated>
@@ -236,5 +226,15 @@
     <category>Publication</category>
     <summary>JDP 5-00 Campaign Planning</summary>
     <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Campaign Planning, Joint Doctrine Publication 5-00&lt;/p&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/61129</id>
+    <published>2012-12-21T00:00:00+00:00</published>
+    <updated>2012-12-21T16:51:37+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/logistics-for-joint-operations"/>
+    <title>JDP 4-00: Logistics for Joint Operations (third edition)</title>
+    <category>Publication</category>
+    <summary>Logistics for Joint Operations, Joint Doctrine Publication 4-00</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;Logistics for Joint Operations, Joint Doctrine Publication 4-00 (3rd edition).&lt;/p&gt;&lt;/div&gt;</content>
   </entry>
 </feed>
